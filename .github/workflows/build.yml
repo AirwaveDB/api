@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/build.mjs'
+      - 'scripts/validate.mjs'
       - '.github/workflows/build.yml'
 
 permissions:
@@ -26,6 +27,8 @@ jobs:
           node-version: '22'
       - name: Build static API files
         run: node scripts/build.mjs
+      - name: Validate static API files
+        run: node scripts/validate.mjs
       - name: Commit changes
         run: |
           if [ -z "$(git status --porcelain -- v1)" ]; then
