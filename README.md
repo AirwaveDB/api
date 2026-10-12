@@ -2,63 +2,73 @@
 
 Public JSON API for the AirwaveDB internet radio directory.
 
-AirwaveDB indexes internet radio stations and their playable stream endpoints. This repository publishes generated, read-only JSON and NDJSON files for applications and data consumers.
-
-## Base URL
-
-The API is available directly from GitHub:
-
-```text
-https://raw.githubusercontent.com/AirwaveDB/api/main/v1
-```
-
-Example:
-
-```text
-https://raw.githubusercontent.com/AirwaveDB/api/main/v1/countries/jp.json
-```
+AirwaveDB indexes internet radio stations and their playable stream endpoints. This repository contains the generated read-only API dataset and the HTTP router used to expose it.
 
 ## Endpoints
 
-| Endpoint | Description |
+| Route | Description |
 | --- | --- |
-| `/index.json` | Dataset counts and build timestamps |
-| `/stations.json` | All station metadata |
-| `/streams.json` | All playable stream records |
-| `/stations.ndjson` | One station JSON object per line |
-| `/streams.ndjson` | One stream JSON object per line |
-| `/countries.json` | Country index |
-| `/languages.json` | Language index |
-| `/categories.json` | Category index |
-| `/countries/<cc>.json` | Stations and streams for one country |
+| `GET /v1` | Dataset counts and build timestamps |
+| `GET /v1/stations` | All station metadata |
+| `GET /v1/stations/:id` | One station with its streams |
+| `GET /v1/streams` | All playable stream records |
+| `GET /v1/countries` | Country index |
+| `GET /v1/countries/:code` | Stations and streams for one country |
+| `GET /v1/categories` | Category index |
+| `GET /v1/categories/:id` | Stations and streams for one category |
+| `GET /v1/languages` | Language index |
+| `GET /v1/languages/:code` | Stations and streams for one language |
 
-Country filenames use lowercase ISO 3166-1 alpha-2 codes.
+Country codes use lowercase ISO 3166-1 alpha-2 values in URLs. Language codes use the normalized language codes stored by AirwaveDB.
 
 Examples:
 
 ```text
-GET /index.json
-GET /countries/jp.json
-GET /countries/us.json
-GET /categories.json
+GET /v1/countries/jp
+GET /v1/categories/news
+GET /v1/languages/ja
+GET /v1/stations/awb_0123456789abcdef0123
 ```
 
-```bash
-curl https://raw.githubusercontent.com/AirwaveDB/api/main/v1/countries/jp.json
+## Static JSON
+
+The generated JSON files can also be consumed without the HTTP router:
+
+```text
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1/index.json
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1/stations.json
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1/streams.json
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1/countries/jp.json
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1/categories/news.json
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1/languages/ja.json
 ```
 
-```js
-const response = await fetch(
-  'https://raw.githubusercontent.com/AirwaveDB/api/main/v1/countries/jp.json'
-)
-const data = await response.json()
+NDJSON distributions are available at:
+
+```text
+/v1/stations.ndjson
+/v1/streams.ndjson
 ```
+
+## Station lookup
+
+Station IDs are stable AirwaveDB identifiers. The routed API resolves a station ID to a single JSON object without requiring clients to download the full station dataset.
+
+The generated lookup shards under `v1/_lookup/` are implementation details and are not part of the public API contract.
 
 ## Data model
 
-A station is the radio service itself. A stream is one playable URL belonging to that station.
+A station is a radio service. A stream is one playable endpoint belonging to that station.
 
-Station identity and metadata are maintained in [`AirwaveDB/database`](https://github.com/AirwaveDB/database). Stream endpoints are maintained in [`AirwaveDB/streams`](https://github.com/AirwaveDB/streams). Country endpoints join both datasets into one document for clients.
+Station identity and metadata are maintained in [`AirwaveDB/database`](https://github.com/AirwaveDB/database). Stream endpoints are maintained in [`AirwaveDB/streams`](https://github.com/AirwaveDB/streams). Consumer-facing country, category, language, and station responses join both datasets.
+
+## Deployment
+
+`wrangler.toml` deploys `v1/` as static assets and `src/worker.js` provides the extensionless HTTP routes listed above.
+
+```bash
+npx wrangler deploy
+```
 
 ## Updates
 
