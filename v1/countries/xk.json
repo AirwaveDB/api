@@ -1,0 +1,669 @@
+{
+  "country": "XK",
+  "stations": [
+    {
+      "id": "awb_cbaece8e290fd58530bb",
+      "name": "92.1 Capital FM",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "92.1 capital fm",
+        "92.1 fm",
+        "capital fm",
+        "capital fm kosovo",
+        "kosova",
+        "kosove",
+        "kosovo",
+        "shqip"
+      ],
+      "homepage": "https://www.capital921.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:25:56Z",
+      "streams": [
+        {
+          "id": "aws_fc8234620d9abd8def55",
+          "stationId": "awb_cbaece8e290fd58530bb",
+          "url": "http://cfm.albaservers.com:8010/",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c79f7984-746a-11ea-b1cf-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:11:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_63ea16107d61ad62c00f",
+      "name": "Club FM Kosovë",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://clubfmkosova.al/",
+      "favicon": "https://clubfmkosova.al/wp-content/uploads/2021/01/Player-Cover-ClubFM-Kosove-play-2-768x768.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_cd25f6112f0d98238f46",
+          "stationId": "awb_63ea16107d61ad62c00f",
+          "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "41baca00-df59-4254-8013-70b2a48751f7",
+            "XK:club-fm-kosove"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:21:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a679a3a1b7f1856a9f4e",
+      "name": "Glam Radio",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://glamradio.fm/",
+      "favicon": "https://glamradio.fm/images/Cafe_1637571735_1637577445.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:06Z",
+      "streams": [
+        {
+          "id": "aws_733c3047593ee5365323",
+          "stationId": "awb_a679a3a1b7f1856a9f4e",
+          "url": "https://stream.glamradio.fm:8443/glamradio",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b7f2d67d-36b8-4fac-ae4e-5e0bf71b0e87"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:30:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cb258e9882c44cf0b8ba",
+      "name": "GlamRADIO",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://glamradio.fm/#/",
+      "favicon": "https://glamradio.fm/images/Cafe_1637571735_1637577445.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_28a17eee7c5711f87e89",
+          "stationId": "awb_cb258e9882c44cf0b8ba",
+          "url": "https://stream.glamradio.fm:8443/glamradio",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "566bc94b-25e1-4f46-b4df-826b212cf242",
+            "XK:glamradio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:56:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f8ca3051adc3928dd83c",
+      "name": "KLAN Kosova FM",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "shqip"
+      ],
+      "homepage": "http://s4.radio.co/sd1d1904dc/listen.m3u",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:03Z",
+      "streams": [
+        {
+          "id": "aws_77ceacd52e3ed8bfd484",
+          "stationId": "awb_f8ca3051adc3928dd83c",
+          "url": "http://s4.radio.co/sd1d1904dc/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "130200f8-56f8-487b-bcf1-bac2f72e7709"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:50:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5bcacfac393223cebcd1",
+      "name": "Kolektiv Radio",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://kolektivradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_cf092ac1ec59bcfcc764",
+          "stationId": "awb_5bcacfac393223cebcd1",
+          "url": "https://studio28.radiolize.com/radio/8100/radio.mp3",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "XK:kolektiv-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "id": "awb_111e7382b7b7bbe8f59b",
+      "name": "Radio Dukagjini",
+      "country": "XK",
+      "subdivision": "Prishtina",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.dukagjini.com/",
+      "favicon": "http://www.dukagjini.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:12Z",
+      "streams": [
+        {
+          "id": "aws_6f1fef97a6a3298a37c5",
+          "stationId": "awb_111e7382b7b7bbe8f59b",
+          "url": "http://s6.voscast.com:8824/;stream.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "adbc780e-24bd-4c7f-9fc9-d4b02a3f8e33"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:50:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c506e567fd7495a236ca",
+      "name": "Radio K4 Shqip",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "top40"
+      ],
+      "homepage": "http://radiokfor.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:46:17Z",
+      "streams": [
+        {
+          "id": "aws_3de597682b01430aec9a",
+          "stationId": "awb_c506e567fd7495a236ca",
+          "url": "http://fm.radiokfor.com:8080/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "23745d0a-6d5e-4e98-bc23-a46d50443392"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:29:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dcb1e94f46e4382bc67c",
+      "name": "Radio Kosova 1",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "kosova",
+        "kosovo",
+        "prishtine",
+        "pristina"
+      ],
+      "homepage": "http://www.rtklive.com/",
+      "favicon": "http://www.rtklive.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:00:57Z",
+      "streams": [
+        {
+          "id": "aws_9a2535ffc9c95b30fb14",
+          "stationId": "awb_dcb1e94f46e4382bc67c",
+          "url": "http://82.114.72.2:8088/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "29c5d450-576b-11ea-be63-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:13:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_09f62c1fe47d9a6d5124",
+      "name": "Radio Kosova 2",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq",
+        "sr"
+      ],
+      "categories": [],
+      "tags": [
+        "kosova",
+        "kosovo",
+        "prishtine",
+        "pristina"
+      ],
+      "homepage": "http://www.rtklive.com/",
+      "favicon": "http://www.rtklive.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:14:22Z",
+      "streams": [
+        {
+          "id": "aws_b393c4461bc1293b82ab",
+          "stationId": "awb_09f62c1fe47d9a6d5124",
+          "url": "http://82.114.72.2:8098/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6e4f26d9-576b-11ea-be63-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:28:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_863803d7f3b274882bad",
+      "name": "Radio Kosova E Lire",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "albanian music",
+        "shqip"
+      ],
+      "homepage": "https://www.radiokosovaelire.com/",
+      "favicon": "https://www.radiokosovaelire.com/wp-content/uploads/RKL_UCK-e1469806643318.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:23:20Z",
+      "streams": [
+        {
+          "id": "aws_8e5e58b0f88f71700f86",
+          "stationId": "awb_863803d7f3b274882bad",
+          "url": "http://quasar.shoutca.st:8018/",
+          "codec": "mp3",
+          "bitrate": 80,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "86d841af-e9d9-4917-9986-cae25a516087"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:18:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a4a8bc1d87aa6dd316b9",
+      "name": "RADIO MARIA KOSOVO",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "catholic",
+        "religion"
+      ],
+      "homepage": "https://www.radiomariakosove.org/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:03Z",
+      "streams": [
+        {
+          "id": "aws_b8814e2f92eb9b9c6fb5",
+          "stationId": "awb_a4a8bc1d87aa6dd316b9",
+          "url": "http://dreamsiteradiocp2.com:8124/stream",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7b1f7dbb-5a7b-11e9-a622-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:49:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_66bec7164e5808c5f1ce",
+      "name": "Radio Plus",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radioplus.fm/",
+      "favicon": "https://www.radioplus.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_84d6078fbbd019acfedf",
+          "stationId": "awb_66bec7164e5808c5f1ce",
+          "url": "https://cast2.my-control-panel.com/proxy/radiopl1/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7a9f9737-0270-4b28-a681-5cb422325f45",
+            "XK:radio-plus"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:14:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_192c74eed8731b290748",
+      "name": "Radio Zëri i Shtimes",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "kosova",
+        "shqip"
+      ],
+      "homepage": "http://radiozeri.info/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:06Z",
+      "streams": [
+        {
+          "id": "aws_a19bcf100ccd8ee2a887",
+          "stationId": "awb_192c74eed8731b290748",
+          "url": "http://radio.1dhe1.com:8090/stream",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5ee3d745-db38-4f32-98a6-c08e41c2733f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:13:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d65e775fc90800f78e5a",
+      "name": "Radyo Hisar",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radyohisar.com/home",
+      "favicon": "https://www.radyohisar.com/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_27166a3113052671561d",
+          "stationId": "awb_d65e775fc90800f78e5a",
+          "url": "https://a8.asurahosting.com:6920/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "XK:radyo-hisar",
+            "fe71e5b8-8ec9-483e-a9ba-1b667822b862"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:31:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bfbf142d72b212be771c",
+      "name": "RTK Radio Kosova 1",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "pristina"
+      ],
+      "homepage": "http://www.rtklive.com/sq/livestream/radio/radio_kosova.html",
+      "favicon": "http://www.rtklive.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:32:39Z",
+      "streams": [
+        {
+          "id": "aws_2e34f01334b3eba09d6c",
+          "stationId": "awb_bfbf142d72b212be771c",
+          "url": "http://82.114.72.2:8088/;.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9637649a-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:10:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5cf80d84029af0f2c58d",
+      "name": "RTK Radio Kosova 2",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "pristina"
+      ],
+      "homepage": "http://www.rtklive.com/sq/index.php",
+      "favicon": "http://www.rtklive.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:59:16Z",
+      "streams": [
+        {
+          "id": "aws_942a828ea080abd78320",
+          "stationId": "awb_5cf80d84029af0f2c58d",
+          "url": "http://82.114.72.2:8098/;stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960e664f-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:55:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_89d29826599318845ffc",
+      "name": "Urban FM 103.5",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiourban.fm/",
+      "favicon": "https://radiourban.fm/wp-content/uploads/2023/04/URBAN-FM-LOGO.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_702ff37323f2da4b81a4",
+          "stationId": "awb_89d29826599318845ffc",
+          "url": "https://radio.itprishtina.com/urbanfm.ogg",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "XK:urban-fm-103-5",
+            "d178f465-86ba-4b84-8c2f-4b07f4c1e58b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:33:21Z"
+        }
+      ]
+    }
+  ]
+}

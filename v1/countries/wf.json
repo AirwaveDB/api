@@ -1,0 +1,79 @@
+{
+  "country": "WF",
+  "stations": [
+    {
+      "id": "awb_2350fdb7c3e1a11a3c91",
+      "name": "Abdulbasit Abdulsamad",
+      "country": "WF",
+      "subdivision": null,
+      "languages": [
+        "ar"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://mp3islam.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:40:20Z",
+      "streams": [
+        {
+          "id": "aws_42692b72d6c5b513973d",
+          "stationId": "awb_2350fdb7c3e1a11a3c91",
+          "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ea638142-fdd0-4ddd-91a4-c3eadce0bff6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:25:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cef1afee5db9eda433e3",
+      "name": "Wallis & Futuna 1",
+      "country": "WF",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "news",
+        "folk"
+      ],
+      "tags": [
+        "folk",
+        "news"
+      ],
+      "homepage": "https://la1ere.francetvinfo.fr/wallisfutuna/radio",
+      "favicon": "https://la1ere.francetvinfo.fr/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:03Z",
+      "streams": [
+        {
+          "id": "aws_63eed130f255bdfca2b4",
+          "stationId": "awb_cef1afee5db9eda433e3",
+          "url": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af0034da-8e41-478d-8333-803952f9e8ee"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:02:37Z"
+        }
+      ]
+    }
+  ]
+}
