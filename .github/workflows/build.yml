@@ -1,0 +1,39 @@
+name: Build API
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build.mjs'
+      - '.github/workflows/build.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build static API files
+        run: node scripts/build.mjs
+      - name: Commit changes
+        run: |
+          if [ -z "$(git status --porcelain -- v1)" ]; then
+            echo "No API changes"
+            exit 0
+          fi
+          git config user.name "airwavedb-bot"
+          git config user.email "airwavedb-bot@users.noreply.github.com"
+          git add v1
+          git commit -m "chore(data): rebuild API"
+          git push
