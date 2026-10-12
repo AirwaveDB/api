@@ -1,0 +1,2880 @@
+{
+  "code": "gsw",
+  "stationCount": 56,
+  "stations": [
+    {
+      "id": "awb_7fe7d0533036931a1006",
+      "name": "Adonia-KidsRadio",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [
+        "religious",
+        "kids"
+      ],
+      "tags": [
+        "children",
+        "christian",
+        "kids",
+        "kinder",
+        "teens"
+      ],
+      "homepage": "http://puma.streemlion.com:1930/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:14:22Z",
+      "streams": [
+        {
+          "id": "aws_0fd1ddee76465d6d1694",
+          "stationId": "awb_7fe7d0533036931a1006",
+          "url": "http://puma.streemlion.com:1930/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fd6bf8d3-6068-4527-bdca-fd9a5c2545a3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:22:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b4f060dac8a6767689c2",
+      "name": "Adonia-KidsRadio",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [
+        "religious",
+        "kids"
+      ],
+      "tags": [
+        "children",
+        "christian",
+        "kids",
+        "kinder",
+        "kinderradio"
+      ],
+      "homepage": "https://www.adonia.ch/kids#player",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:18:28Z",
+      "streams": [
+        {
+          "id": "aws_6d442df58231bab96ff5",
+          "stationId": "awb_b4f060dac8a6767689c2",
+          "url": "http://puma.streemlion.com:1930/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "39d0c850-9625-4e27-bc2d-582e2591290d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:16:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c81476b1a6020a3704ab",
+      "name": "Canal3 deutsch",
+      "country": "CH",
+      "subdivision": "Kanton Bern",
+      "languages": [
+        "gsw"
+      ],
+      "categories": [
+        "news",
+        "pop"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "pop"
+      ],
+      "homepage": "https://web.canal3.ch/",
+      "favicon": "https://web.canal3.ch/de/sites/all/themes/canal3_theme_v2/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_67798bede8aab06e4497",
+          "stationId": "awb_c81476b1a6020a3704ab",
+          "url": "https://radio.upstream-cloud.ch/canal3allemand-192.aac",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:canal3-deutsch",
+            "f91aa755-2979-451e-a4fe-1393f5dd1ed8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:20:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_262510a9fc2ce8fa29a6",
+      "name": "Classic | Radio Swiss",
+      "country": "CH",
+      "subdivision": "Bern",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "gsw",
+        "it"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "mp3",
+        "radio swiss"
+      ],
+      "homepage": "https://www.radioswissclassic.ch/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_12514017851147a7ec75",
+          "stationId": "awb_262510a9fc2ce8fa29a6",
+          "url": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "31e8808b-8b27-4ffd-b75a-d612aa70b56d",
+            "CH:classic-radio-swiss"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:37:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dc8c654ff676a8634887",
+      "name": "Country Radio Switzerland",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [
+        "country"
+      ],
+      "tags": [
+        "country"
+      ],
+      "homepage": "https://www.countryradio.ch/",
+      "favicon": "https://www.countryradio.ch/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-03-06T01:44:47Z",
+      "streams": [
+        {
+          "id": "aws_b416c5ae0832db6310d2",
+          "stationId": "awb_dc8c654ff676a8634887",
+          "url": "http://stream.countryradio.ch/crs-64.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f06f548b-fc16-45f3-a057-8b99c4976302"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:12:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_805bf7bb645c15902af4",
+      "name": "Energy Basel (NRJ)",
+      "country": "CH",
+      "subdivision": "Basel",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "charts",
+        "local news",
+        "pop"
+      ],
+      "homepage": "https://energy.ch/play/basel",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ae7db01d8b1bad17b116",
+          "stationId": "awb_805bf7bb645c15902af4",
+          "url": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "1095cda6-6898-11ea-9d09-52543be04c81",
+            "CH:energy-basel-nrj"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:50:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3fce4c8f088aecaba4d8",
+      "name": "Energy Bern",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://energy.ch/stations/energy-bern",
+      "favicon": "https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_61f92fcc0b1bf82b3110",
+          "stationId": "awb_3fce4c8f088aecaba4d8",
+          "url": "https://energybern.ice.infomaniak.ch/energybern-high.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "489f3786-3ff8-46c1-ad14-2a7c5d9cea99",
+            "CH:energy-bern"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:17:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d128f125dec887ac60b3",
+      "name": "Happy Radio",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.happy-radio.ch/",
+      "favicon": "https://goodtimeradio.broadcast.radio/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_12104c31ead2c831d931",
+          "stationId": "awb_d128f125dec887ac60b3",
+          "url": "https://uksoutha.streaming.broadcast.radio/stream/11340/gtradio?1672903939995",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:happy-radio",
+            "ed16b66c-340e-470f-bd76-1e45b145055e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:06:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_55243646f199926f6366",
+      "name": "JAMES FM",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.jamesfm.ch/",
+      "favicon": "https://www.jamesfm.ch/wp-content/uploads/2017/08/cropped-jamesFM_Logo_negativ-1.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_1d1450d83f07a4dd0728",
+          "stationId": "awb_55243646f199926f6366",
+          "url": "https://jamesfm.ice.infomaniak.ch/jamesfm.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "031bfcdb-fc24-4514-bbb1-4dd1bba6e213",
+            "6b59a526-91c9-44dc-a615-267d64934bb2",
+            "CH:james-fm"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:54:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_592db4dd0629b8120004",
+      "name": "Jazz | Radio Swiss",
+      "country": "CH",
+      "subdivision": "Bern",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "gsw",
+        "it"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz",
+        "mp3",
+        "radio swiss"
+      ],
+      "homepage": "https://www.radioswissjazz.ch/",
+      "favicon": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_4dde68f8dca870aa7efd",
+          "stationId": "awb_592db4dd0629b8120004",
+          "url": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "2037c9d4-8d99-48f1-b5f1-eb60dc015773",
+            "CH:jazz-radio-swiss"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:16:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_616555349010f4136702",
+      "name": "my105 X-MAS",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "weihnachten",
+        "x-mas"
+      ],
+      "homepage": "https://www.my105.ch/x-mas",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_88ed6b821294a5ce3d4a",
+          "stationId": "awb_616555349010f4136702",
+          "url": "https://stream01.my105.ch/my105xmas.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "989e9111-51fb-48ea-985b-1d5110dacde1",
+            "CH:my105-x-mas"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:19:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_28cd45fa1c336405ccbc",
+      "name": "Neo1",
+      "country": "CH",
+      "subdivision": "Bern",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "local news",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://www.neo1.ch/",
+      "favicon": "https://www.neo1.ch/fileadmin/user_upload/newsaudio/2018/11/neo1-logo.jpg",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_3d66c17223a272cbb956",
+          "stationId": "awb_28cd45fa1c336405ccbc",
+          "url": "https://neo1.ice.infomaniak.ch/neo1.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "4cde8f3b-17fc-4802-ba40-e8feae5395a1",
+            "9ba6be84-7690-4fbe-8d35-7a455628ec42",
+            "CH:neo1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:37:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9720953369c3d03e57e2",
+      "name": "OnFlow Hot",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://stream.zeno.fm/pxqdhcb7gqutv",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:29:43Z",
+      "streams": [
+        {
+          "id": "aws_dae5303d29f568b00776",
+          "stationId": "awb_9720953369c3d03e57e2",
+          "url": "https://stream.zeno.fm/pxqdhcb7gqutv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d1deaea0-7558-4401-9410-0c5c9ba2a9cf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:52:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_39dcfa8e379f93164ad6",
+      "name": "Piratenradio",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [
+        "alternative",
+        "non-commercial"
+      ],
+      "homepage": "https://www.piratenradio.ch/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:17:31Z",
+      "streams": [
+        {
+          "id": "aws_31afa04c03dcef9b2593",
+          "stationId": "awb_39dcfa8e379f93164ad6",
+          "url": "http://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ec8849eb-23a6-46db-9c01-b3c0c0e3ff9f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:46:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7dfe6627b3ebfa1a8584",
+      "name": "Pop | Radio Swiss",
+      "country": "CH",
+      "subdivision": "Bern",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "gsw",
+        "it"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "mp3",
+        "pop",
+        "radio swiss"
+      ],
+      "homepage": "https://www.radioswisspop.ch/",
+      "favicon": "https://www.radioswisspop.ch/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_9dcb0c09ca896e97eb41",
+          "stationId": "awb_7dfe6627b3ebfa1a8584",
+          "url": "https://stream.srg-ssr.ch/m/rsp/mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "8c9041ef-372d-46d7-87ed-d9f1d1d92e38",
+            "CH:pop-radio-swiss"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:16:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7500faa97fed6e0408dd",
+      "name": "Radio 2Go",
+      "country": "CH",
+      "subdivision": "Aargau",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "adult contemporary",
+        "adult-contemporary",
+        "pop",
+        "top hits",
+        "top-hits"
+      ],
+      "homepage": "https://www.radio2go.fm/",
+      "favicon": "https://radio2go.fm/wp-content/uploads/2020/06/favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_79334e580c484134d862",
+          "stationId": "awb_7500faa97fed6e0408dd",
+          "url": "https://uksoutha.streaming.broadcast.radio:15830/radio2go",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "56f7dd34-4213-4773-88ae-7337ed2ca422",
+            "CH:radio-2go"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:59:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a5bc860c4ad342462ec8",
+      "name": "Radio 32",
+      "country": "CH",
+      "subdivision": "solothurn",
+      "languages": [
+        "gsw"
+      ],
+      "categories": [
+        "news",
+        "pop"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "pop"
+      ],
+      "homepage": "https://www.radio32.ch/",
+      "favicon": "https://www.presseportal-schweiz.ch/sites/default/files/radio_32_logo_neu.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_9c9d96a68fc554dc7bcf",
+          "stationId": "awb_a5bc860c4ad342462ec8",
+          "url": "https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "980d4891-994c-46d9-9096-4ed0eb556aa8",
+            "CH:radio-32"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:14:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0f2108ec9d4c2bbeadbc",
+      "name": "RADIO ARGOVIA",
+      "country": "CH",
+      "subdivision": "Aargau",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hot adult contemporary",
+        "pop"
+      ],
+      "homepage": "https://www.argovia.ch/",
+      "favicon": "https://i.imgur.com/ccMg6qJ.png",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_67652b0dd1e001cefdc0",
+          "stationId": "awb_0f2108ec9d4c2bbeadbc",
+          "url": "https://stream.streambase.ch/argovia/mp3-192/direct/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "0c1afdef-1078-41fd-a585-c69b347ac045",
+            "3bb2d57f-f7a6-49e7-afb5-89daf251de9d",
+            "CH:radio-argovia"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:17:11Z"
+        },
+        {
+          "id": "aws_fc4406a9aa00c712598c",
+          "stationId": "awb_0f2108ec9d4c2bbeadbc",
+          "url": "https://stream.streambase.ch/argovia/mp3-192/radiobrowser/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f78b5faa-d2a0-4c91-b891-e8889664d460"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:36:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_21bf8b3f65b45cd71760",
+      "name": "Radio Argovia Hit Mix",
+      "country": "CH",
+      "subdivision": "Aargau",
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [
+        "top hits"
+      ],
+      "homepage": "https://www.argovia.ch/shows/hitmix",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-12T15:52:56Z",
+      "streams": [
+        {
+          "id": "aws_ca386ce33b2923b445d2",
+          "stationId": "awb_21bf8b3f65b45cd71760",
+          "url": "https://stream.streambase.ch/hitmix/mp3-192/direct/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "296bd35f-01ea-452e-984c-35847f0b43c4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:53:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a79a5031a44d211d1148",
+      "name": "Radio BeO",
+      "country": "CH",
+      "subdivision": "Kanton Bern",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radiobeo.ch/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-06-14T08:44:47Z",
+      "streams": [
+        {
+          "id": "aws_4f3db21037d86ea4538b",
+          "stationId": "awb_a79a5031a44d211d1148",
+          "url": "http://stream11.radiobeo.ch:8000/radiobeo.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ded0a78e-8cec-49ff-860b-be8a8e5c4d8e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:08:46Z"
+        },
+        {
+          "id": "aws_f51a1086e7ae85dd022a",
+          "stationId": "awb_a79a5031a44d211d1148",
+          "url": "https://streaming.radiobeo.ch/beo/mp3_192/web",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6500ca13-51b8-4521-b35b-60bff718ef0a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:37:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_569f398e2660e7f64a9a",
+      "name": "Radio Central",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [
+        "local radio"
+      ],
+      "homepage": "https://www.radiocentral.ch/",
+      "favicon": "https://login.chmedia-welcome.ch/resources/ge450/login/entertainment/img/faviconradiocentral.ico",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_3f3168922e966133fb98",
+          "stationId": "awb_569f398e2660e7f64a9a",
+          "url": "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9d77a3ba-e9fe-4e87-b958-79927bec5f41"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:01:01Z"
+        },
+        {
+          "id": "aws_c809220878b8e2f8233f",
+          "stationId": "awb_569f398e2660e7f64a9a",
+          "url": "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:radio-central",
+            "cf128157-674e-46e1-a1b4-9251ee8d3ab7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:17:38Z"
+        },
+        {
+          "id": "aws_3278cdde566e2fa428b1",
+          "stationId": "awb_569f398e2660e7f64a9a",
+          "url": "https://stream.streambase.ch/rcentral/mp3-192/direct/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a80bd23d-9bd2-43f7-8e2c-205695451589"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:47:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6972e9c4f896320f192a",
+      "name": "Radio Gloria",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "katholik"
+      ],
+      "homepage": "https://radiogloria.ch/",
+      "favicon": "https://radiogloria.ch/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_e2180c6671d90caf999d",
+          "stationId": "awb_6972e9c4f896320f192a",
+          "url": "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:radio-gloria",
+            "a85ace81-8a73-4146-93c5-6d030429e52f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:55:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7c10e10450ea4b57f975",
+      "name": "Radio Grischa",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://rso.ch/",
+      "favicon": "https://rso.ch/themes/custom/rso/images/RadioGrischa.svg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:12:02Z",
+      "streams": [
+        {
+          "id": "aws_209e3283022617db810d",
+          "stationId": "awb_7c10e10450ea4b57f975",
+          "url": "https://somedia-1.streaming.deliver.media/radiogrischa_mp3_128?suffix0=RSO",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "593d1646-884a-4696-ae23-6573184cca71"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:47:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7f53c922c48cef9fa00e",
+      "name": "Radio Grischa",
+      "country": "CH",
+      "subdivision": "Grison",
+      "languages": [
+        "de",
+        "gsw",
+        "it",
+        "rm"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "infos",
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.radiogrischa.ch/",
+      "favicon": "https://www.radiogrischa.ch/themes/custom/grischa/images/logos/RG_Signet.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ba6e2e867a9048e9fcf2",
+          "stationId": "awb_7f53c922c48cef9fa00e",
+          "url": "https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:radio-grischa",
+            "db6893f4-cead-4749-83e6-a1b1dfb6f61b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:07:46Z"
+        },
+        {
+          "id": "aws_47c4b470db641e8c5b31",
+          "stationId": "awb_7f53c922c48cef9fa00e",
+          "url": "https://stream.radiogrischa.ch/radiogrischa/mp3_128/internetradioschweiz",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c00339e8-3742-4f64-83fd-6eb9f19ca5c5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:11:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_73accd524193fc78e43e",
+      "name": "Radio Melody",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "classic hits",
+        "classic-hits",
+        "hits",
+        "top40"
+      ],
+      "homepage": "https://www.radiomelody.ch/",
+      "favicon": "https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_945f15f98de32814abe9",
+          "stationId": "awb_73accd524193fc78e43e",
+          "url": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:radio-melody",
+            "e3e08ba3-4ee0-4062-8e82-a75f8d22f52e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:17:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fa1ed8e0b1ebd7b60558",
+      "name": "Radio Munot",
+      "country": "CH",
+      "subdivision": "Schaffhausen",
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radiomunot.ch/",
+      "favicon": "https://www.radiomunot.ch/assets/favicons/android-icon-192x192.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_181760875a7add47557e",
+          "stationId": "awb_fa1ed8e0b1ebd7b60558",
+          "url": "https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7f32184f-e7f0-46e6-a5e4-516daa062ec7",
+            "CH:radio-munot"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:10:51Z"
+        },
+        {
+          "id": "aws_97d373b412f67cb05082",
+          "stationId": "awb_fa1ed8e0b1ebd7b60558",
+          "url": "https://radio-munot.api.radiosphere.io/channels/channel-demo/stream.mp3?quality=4",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e12603bb-d572-43ee-8052-d5e45bfc2b98"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:27:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_db1e72a60eeb073e638f",
+      "name": "Radio Rasa Schaffhausen",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [
+        "alternative",
+        "independent",
+        "indie"
+      ],
+      "homepage": "https://www.rasa.ch/",
+      "favicon": "https://www.rasa.ch/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_1ed3ff9fa9b7126697f2",
+          "stationId": "awb_db1e72a60eeb073e638f",
+          "url": "https://radio.upstream-cloud.ch/radiorasa-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "64bf4040-d07a-418b-a7a3-9cec29107091",
+            "CH:radio-rasa-schaffhausen"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:41:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_54df2185a568938bae4f",
+      "name": "Radio SRF 1 (AAC 192)",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "news",
+        "pop"
+      ],
+      "tags": [
+        "information",
+        "news",
+        "pop",
+        "srg ssr"
+      ],
+      "homepage": "https://www.srf.ch/radio-srf-1",
+      "favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_352c442eccdbfa1a33aa",
+          "stationId": "awb_54df2185a568938bae4f",
+          "url": "https://stream.srg-ssr.ch/srgssr/srf1/aac/192",
+          "codec": "aac",
+          "bitrate": 200,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "8f076a3b-5b85-4fc4-8989-a629caf2d912",
+            "CH:radio-srf-1-aac-192"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:57:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_065f04e341257cbbf46c",
+      "name": "Radio SRF 3",
+      "country": "CH",
+      "subdivision": "Basel",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "entertainment",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://www.srf.ch/radio-srf-3",
+      "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_65f53831e230b806adfd",
+          "stationId": "awb_065f04e341257cbbf46c",
+          "url": "http://stream.srg-ssr.ch/srgssr/srf3/aac/96",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aa317a71-5086-11e8-a4d1-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:22:33Z"
+        },
+        {
+          "id": "aws_f39d916a5b0ae66c0a3e",
+          "stationId": "awb_065f04e341257cbbf46c",
+          "url": "https://stream.srg-ssr.ch/m/drs3/aacp_32",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:radio-srf-3",
+            "be0048b7-70c2-4cc1-85dc-e6d0e00bba83"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:16:10Z"
+        },
+        {
+          "id": "aws_5f298d3aad5389f1e8f7",
+          "stationId": "awb_065f04e341257cbbf46c",
+          "url": "https://stream.srg-ssr.ch/m/drs3/aacp_96",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "890b3eb9-4018-4c41-95ea-146cc5201745"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:01:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a79267cf9656c179a0b7",
+      "name": "Radio SRF 3 (AAC 192)",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "srg ssr"
+      ],
+      "homepage": "https://www.srf.ch/radio-srf-3",
+      "favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_1337762f3c7535b06f88",
+          "stationId": "awb_a79267cf9656c179a0b7",
+          "url": "https://stream.srg-ssr.ch/srgssr/srf3/aac/192",
+          "codec": "aac",
+          "bitrate": 200,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "22fae9ab-81e4-4788-aeef-5a077ac0b9b0",
+            "CH:radio-srf-3-aac-192"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:29:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_348c0b7d95f124147b40",
+      "name": "Radio SRF 4 News",
+      "country": "CH",
+      "subdivision": "Basel",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "high quality audio",
+        "information",
+        "news",
+        "srg ssr"
+      ],
+      "homepage": "https://www.srf.ch/radio-srf-4-news",
+      "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 5,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_1397f3b5b0714f0b5288",
+          "stationId": "awb_348c0b7d95f124147b40",
+          "url": "http://stream.srg-ssr.ch/srgssr/srf3/aac/96",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "71f09598-5bf8-4bd6-aeb7-24f9723a4f39"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:23:38Z"
+        },
+        {
+          "id": "aws_42a5dc5ec0213eb1c8e5",
+          "stationId": "awb_348c0b7d95f124147b40",
+          "url": "http://stream.srg-ssr.ch/srgssr/srf4news/aac/96",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "03c10779-5087-11e8-a4d1-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:11:30Z"
+        },
+        {
+          "id": "aws_266ac3cdcc8a8dd659b3",
+          "stationId": "awb_348c0b7d95f124147b40",
+          "url": "https://stream.srg-ssr.ch/m/drs4news/aacp_32",
+          "codec": "aac",
+          "bitrate": 88,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "07e96454-3782-4b25-aeaf-215ccd38b471",
+            "CH:radio-srf-4-news"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:18:01Z"
+        },
+        {
+          "id": "aws_68f4eac85a4e10e01f1a",
+          "stationId": "awb_348c0b7d95f124147b40",
+          "url": "https://stream.srg-ssr.ch/m/drs4news/aacp_96",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3a30a7a5-5d7f-4ed2-87c3-c86d0650ac8d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:29:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5238f088411ddef9afd0",
+      "name": "Radio SRF Musikwelle",
+      "country": "CH",
+      "subdivision": "Basel",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "public",
+        "pop"
+      ],
+      "tags": [
+        "folklore",
+        "pop",
+        "public radio",
+        "volksmusik"
+      ],
+      "homepage": "https://www.srf.ch/radio-srf-musikwelle",
+      "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+      "type": "public",
+      "sourceCount": 3,
+      "updatedAt": "2026-01-15T03:47:10Z",
+      "streams": [
+        {
+          "id": "aws_5aee3b6c2cac1fead34d",
+          "stationId": "awb_5238f088411ddef9afd0",
+          "url": "http://stream.srg-ssr.ch/m/drsmw/aacp_96",
+          "codec": "aac",
+          "bitrate": 88,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "27641af2-b800-4e06-bf85-9e4371521b36"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-01T02:29:21Z"
+        },
+        {
+          "id": "aws_6e23f1d20fe2f5f05cd8",
+          "stationId": "awb_5238f088411ddef9afd0",
+          "url": "http://stream.srg-ssr.ch/srgssr/srfmw/aac/96",
+          "codec": "aac",
+          "bitrate": 104,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c27d4c9a-5087-11e8-a4d1-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:22:40Z"
+        },
+        {
+          "id": "aws_5e8f08788eba1f16af04",
+          "stationId": "awb_5238f088411ddef9afd0",
+          "url": "http://stream.srg-ssr.ch/srgssr/srfmw/mp3/128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0db93821-5b4f-458a-a11c-76f524a84b27"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:18:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_668cb09f6bcbfe7ed6a3",
+      "name": "Radio SRF Virus",
+      "country": "CH",
+      "subdivision": "Basel",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [
+        "high quality audio",
+        "srg ssr"
+      ],
+      "homepage": "https://www.srf.ch/radio-srf-virus/",
+      "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T02:17:46Z",
+      "streams": [
+        {
+          "id": "aws_684112053f8d7f39d12b",
+          "stationId": "awb_668cb09f6bcbfe7ed6a3",
+          "url": "http://stream.srg-ssr.ch/srgssr/srfvirus/aac/96",
+          "codec": "aac",
+          "bitrate": 88,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5620ec14-5087-11e8-a4d1-52543be04c81",
+            "b8c50a5f-6f6c-4563-8683-f62f9ce7b75a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:10:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_37d459db3be5afd0ce50",
+      "name": "Radio Südostschweiz",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://rso.ch/",
+      "favicon": "https://www.suedostschweiz.ch/themes/suedostschweiz/logo.svg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T04:29:18Z",
+      "streams": [
+        {
+          "id": "aws_d5d79592f875df70f18a",
+          "stationId": "awb_37d459db3be5afd0ce50",
+          "url": "https://somedia-1.streaming.deliver.media/rso_mp3_128?suffix0=RSO",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4b8d625c-a8fc-4e4c-bbbf-62af99e78568",
+            "8c0913c9-063c-4d18-a8e7-eed8dd86c948"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:22:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_985dd32502ceb8b378f9",
+      "name": "Radio Swiss Classic V2",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "instrumental"
+      ],
+      "homepage": "https://www.radioswissclassic.ch/",
+      "favicon": "https://www.radioswissclassic.ch/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-16T22:43:04Z",
+      "streams": [
+        {
+          "id": "aws_3a1d80a73810bc84e606",
+          "stationId": "awb_985dd32502ceb8b378f9",
+          "url": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7344b0b8-2197-446f-a936-f61fb22f2fc8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:49:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4172a8571dcbd8d59b2b",
+      "name": "Radio Tell Bodeständig",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiotell.ch/radiochannel/bodestaendig/",
+      "favicon": "https://radiotell.ch/wp-content/uploads/2021/01/cropped-apfel-32x32.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-15T20:46:06Z",
+      "streams": [
+        {
+          "id": "aws_c8e0091e96bd04d87aff",
+          "stationId": "awb_4172a8571dcbd8d59b2b",
+          "url": "https://radiotell.dmd2streaming.com/radiotell03.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "926271b1-8e28-496a-a157-ac46bea2911d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:40:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_606ecdb676d626bc666c",
+      "name": "Radio-Drachenblut",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "fr",
+        "gsw"
+      ],
+      "categories": [
+        "rock",
+        "metal"
+      ],
+      "tags": [
+        "metal",
+        "rock"
+      ],
+      "homepage": "https://radio-drachenblut.ch/",
+      "favicon": "http://radio-drachenblut.ch/favicon.ico",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_f396a0a15a9b2d421a20",
+          "stationId": "awb_606ecdb676d626bc666c",
+          "url": "http://radio-drachenblut.ch:8000/stream/3/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "10be537a-2eb3-4d1c-9d78-34e385b070c1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:32:30Z"
+        },
+        {
+          "id": "aws_5a11495e2f6ea51ca0a5",
+          "stationId": "awb_606ecdb676d626bc666c",
+          "url": "https://radio-drachenblut.ch:8443/listen.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "4992d90f-2bed-445d-abc6-6065e7faa38e",
+            "CH:radio-drachenblut"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:55:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0a4710b9d2f50b6daf5b",
+      "name": "Radio24",
+      "country": "CH",
+      "subdivision": "Zürich",
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [
+        "main",
+        "mainstream"
+      ],
+      "homepage": "https://www.radio24.ch/",
+      "favicon": "https://ch.az-cdn.ch/static/4.14.2/radio24/device-icons/48x48.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_577e64ecc98ca0672d2a",
+          "stationId": "awb_0a4710b9d2f50b6daf5b",
+          "url": "https://stream.streambase.ch/radio24/mp3-192/direct/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:radio24",
+            "be9fa6d2-aace-46ea-bdbf-68092402066f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:48:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d003f991c68e48b1c673",
+      "name": "soundz",
+      "country": "CH",
+      "subdivision": "Zürich",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "electronic",
+        "hip-hop"
+      ],
+      "tags": [
+        "dance",
+        "hip hop",
+        "house",
+        "indie",
+        "pop",
+        "rnb",
+        "rock",
+        "urban"
+      ],
+      "homepage": "https://www.mysoundz.ch/de",
+      "favicon": "https://imgur.com/a/IKmjmtF",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-20T15:05:44Z",
+      "streams": [
+        {
+          "id": "aws_9faff0f5b15102c3e8c0",
+          "stationId": "awb_d003f991c68e48b1c673",
+          "url": "https://stream.mysoundz.ch/streams/radio-browser/3602b6f9ee3c4521bdec84ec/shared/stream",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a8b04ff0-46f8-4ea2-90f9-dd3a76fa545c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:06:30Z"
+        },
+        {
+          "id": "aws_09a3d1124faf92f2101a",
+          "stationId": "awb_d003f991c68e48b1c673",
+          "url": "https://stream.mysoundz.ch/streams/streema/3602b6f9ee3c4521bdec84ec/shared/stream",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8c95e4db-a8d6-4bc6-a07d-b57160f8e109"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:40:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_535657c055ef1bf9fccd",
+      "name": "Wildmountain Radio",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.wildmountain.ch/",
+      "favicon": "https://www.wildmountain.ch/favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_6a3ed8128042b83d45db",
+          "stationId": "awb_535657c055ef1bf9fccd",
+          "url": "https://wildmountain.ice.infomaniak.ch/wmr.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:wildmountain-radio",
+            "c9eb3feb-9c48-4fde-aef7-eda15d2173fd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:04:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2d966a14cdb8b3c4481f",
+      "name": "_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypert",
+      "country": "DE",
+      "subdivision": "Deutschland und NRW",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "latin",
+        "ambient"
+      ],
+      "tags": [
+        "chillout",
+        "dance",
+        "edm",
+        "electronic",
+        "house",
+        "latin-pop",
+        "lounge",
+        "reggaeton",
+        "rnb",
+        "techno",
+        "top-40"
+      ],
+      "homepage": "https://breakz.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_9d8a0d4e42228f50a462",
+          "stationId": "awb_2d966a14cdb8b3c4481f",
+          "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "DE:deejay-remixe-your-radio-for-finest-house-edm-el"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "id": "awb_e57eee59e23aaf87ecc8",
+      "name": "_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin P",
+      "country": "DE",
+      "subdivision": "Deutschland und NRW",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "ambient"
+      ],
+      "tags": [
+        "#mashup",
+        "bass",
+        "beach music",
+        "breaks",
+        "breakz",
+        "breakzfm",
+        "charts",
+        "chill",
+        "chill house",
+        "chillout",
+        "club",
+        "club dance electronic house trance",
+        "clubbing",
+        "dance",
+        "deejay",
+        "deep house",
+        "dj mix",
+        "dj mixes",
+        "dj remix",
+        "dj sets",
+        "djmix",
+        "edm",
+        "electronic",
+        "electronic dance music",
+        "electronic music",
+        "electropop",
+        "hard techno",
+        "high energy",
+        "house",
+        "houseparty",
+        "hypertechno",
+        "latin pop",
+        "local radio",
+        "lounge",
+        "mashup",
+        "mixtape",
+        "music non stop",
+        "online",
+        "online radio",
+        "party"
+      ],
+      "homepage": "https://breakz.fm/",
+      "favicon": "https://i.ibb.co/sP4q4Wh/breakz-fm-logo-fav.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:05:55Z",
+      "streams": [
+        {
+          "id": "aws_e0ba0d06d7d15c956baf",
+          "stationId": "awb_e57eee59e23aaf87ecc8",
+          "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "be26f3f5-1ee1-4661-a3de-4544fc29e833"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:15:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_55288894f8bd86b534d1",
+      "name": "# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE - L",
+      "country": "DE",
+      "subdivision": "Deutschland und NRW",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "latin",
+        "ambient"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "house",
+        "latin",
+        "lounge",
+        "pop",
+        "pop-music",
+        "reggaeton",
+        "rnb",
+        "soul",
+        "techno"
+      ],
+      "homepage": "https://rm.fm/breakz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_0e5745bed7a8b4d029c8",
+          "stationId": "awb_55288894f8bd86b534d1",
+          "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "DE:mainstage-charts-your-festival-radio-edm-techno-"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "id": "awb_7b7eea6cb10eccc03528",
+      "name": "# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE - LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE ",
+      "country": "DE",
+      "subdivision": "Deutschland und NRW",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "latin",
+        "ambient"
+      ],
+      "tags": [
+        "#",
+        "+",
+        "-",
+        "0",
+        "00s",
+        "bach",
+        "beach",
+        "black",
+        "chill house",
+        "chillout+lounge",
+        "clubbing",
+        "dance",
+        "dancehall",
+        "deejay",
+        "deep house",
+        "dj mixes",
+        "dj remix",
+        "dj sets",
+        "edm",
+        "electro",
+        "hard techno",
+        "house",
+        "ibiza",
+        "ibiza club",
+        "latin",
+        "lounge",
+        "lounge music",
+        "mashup",
+        "mix",
+        "mixed",
+        "moombahton",
+        "new",
+        "new rave",
+        "pool beach bar",
+        "pop",
+        "pop dance",
+        "pop music",
+        "promodj",
+        "rave",
+        "reggaeton"
+      ],
+      "homepage": "https://rm.fm/breakz/",
+      "favicon": "https://i.ibb.co/bbRPNdd/charts-mainstage.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:28:27Z",
+      "streams": [
+        {
+          "id": "aws_dcc6361654da6b00d246",
+          "stationId": "awb_7b7eea6cb10eccc03528",
+          "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af915008-e9f1-4750-bf58-3f774ea5fc4a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:44:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c77eaf81cdeff7ebe1fa",
+      "name": "# Mainstream Mornings & Party Nights - (Morning/Day: Mainstream, Top 40, Charts - Evening/Night: Party, House, Techno, DJ Mixes, Live DJs)",
+      "country": "DE",
+      "subdivision": "Berlin",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "hip-hop",
+        "oldies",
+        "latin",
+        "ambient"
+      ],
+      "tags": [
+        "#90s",
+        "90er hitmix",
+        "charts",
+        "chillout",
+        "deep house",
+        "dj remix",
+        "electro",
+        "electro house",
+        "electro techno",
+        "electronic",
+        "electropop",
+        "hard techno",
+        "hiphop",
+        "house",
+        "houseparty",
+        "hypertechno",
+        "latin",
+        "latin pop",
+        "mixed music",
+        "musica latinoamericana",
+        "party",
+        "partymix",
+        "partymusik",
+        "pop",
+        "pop music",
+        "regaeton",
+        "remixes",
+        "rnb",
+        "tech house",
+        "techno",
+        "top 40",
+        "top100",
+        "urban"
+      ],
+      "homepage": "https://rm.fm/breakz/team",
+      "favicon": "https://i.ibb.co/m0J7g21/main-mornin-party-night.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:48:14Z",
+      "streams": [
+        {
+          "id": "aws_ed407a0601f62f9e2092",
+          "stationId": "awb_c77eaf81cdeff7ebe1fa",
+          "url": "https://breakz-high.rautemusik.fm/?ref=maindjatnightrb",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d2338167-e4e0-4ff2-883a-cadb6462be16"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:06:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fcc9a135cbfcab63e5b5",
+      "name": "# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music,",
+      "country": "DE",
+      "subdivision": "Deutschland (Germany)",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "latin",
+        "ambient"
+      ],
+      "tags": [
+        "2000s",
+        "chillout",
+        "dance-music",
+        "edm",
+        "house",
+        "latin-music",
+        "lounge",
+        "pop",
+        "reggaeton",
+        "rnb",
+        "techno",
+        "top-hits"
+      ],
+      "homepage": "https://rm.fm/breakz",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_b65a9d45b0cb139c6908",
+          "stationId": "awb_fcc9a135cbfcab63e5b5",
+          "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "DE:top-100-dj-charts-dj-remix-charts-radio-tiktok-c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "id": "awb_6708d268272426c14c32",
+      "name": "# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts,",
+      "country": "DE",
+      "subdivision": "Deutschland (Germany)",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "oldies",
+        "ambient"
+      ],
+      "tags": [
+        "#90s",
+        "#charts",
+        "2000s",
+        "2010s",
+        "bass house",
+        "beachclub",
+        "charts",
+        "chillout",
+        "club",
+        "club dance electronic house trance",
+        "clubbing",
+        "dance music",
+        "dance top40",
+        "dancehall",
+        "deejay",
+        "deep house",
+        "deep techno",
+        "dj",
+        "dj mixes",
+        "dj remix",
+        "dj sets",
+        "edm",
+        "edm radioshows",
+        "electro house",
+        "electro techno",
+        "electronic dance music",
+        "funky house",
+        "hotel",
+        "house",
+        "house techno",
+        "house/soulful/deep house",
+        "houseparty",
+        "hypertechno",
+        "latin music",
+        "live dj",
+        "live music",
+        "liveset",
+        "lounge",
+        "mainstream",
+        "mainstream music"
+      ],
+      "homepage": "https://rm.fm/breakz",
+      "favicon": "https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T01:59:42Z",
+      "streams": [
+        {
+          "id": "aws_98ea6e713d06d7ecded5",
+          "stationId": "awb_6708d268272426c14c32",
+          "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5bc44bcd-7481-40e1-b503-bb92b936f4cf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:09:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_726b9757c568c13a91d8",
+      "name": "#CLUB RADIO - DEIN DJ @ HOME - - DJ Remix & Charts, , Electronic Music, EDM, House, Deep House, Techno, Melodic House & Techno, Top40, Latin, Reggaeton, Urban, ",
+      "country": "DE",
+      "subdivision": "Nrw",
+      "languages": [
+        "de",
+        "gsw",
+        "nds"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "hip-hop"
+      ],
+      "tags": [
+        "2000s",
+        "club dance",
+        "clubbing",
+        "dance",
+        "dj remix",
+        "edm",
+        "hiphop",
+        "house",
+        "mixed",
+        "party",
+        "progressive house",
+        "rnb",
+        "techhouse",
+        "techno",
+        "top 40"
+      ],
+      "homepage": "https://www.rm.fm/breakz?ref=rb",
+      "favicon": "https://i.ibb.co/HXhMnpX/CLUBDJ-RADIO.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-21T13:03:10Z",
+      "streams": [
+        {
+          "id": "aws_f13adf76cbec76194287",
+          "stationId": "awb_726b9757c568c13a91d8",
+          "url": "https://breakz-2012-high.rautemusik.fm/?ref=rb-deindj",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1dc211c4-1ad5-42ac-b1e6-62464537ce81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:01:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c44422b8fc073399e36a",
+      "name": "0nlineradio - TRENDING CHARTS",
+      "country": "DE",
+      "subdivision": "North Rhine-Westphalia",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "electronic"
+      ],
+      "tags": [
+        "2023s",
+        "charts",
+        "dance",
+        "electro",
+        "electronic",
+        "hits",
+        "hot hits",
+        "pop",
+        "pop music",
+        "top 40",
+        "top charts"
+      ],
+      "homepage": "https://0nlineradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:31:27Z",
+      "streams": [
+        {
+          "id": "aws_2ff61a299a1479adb547",
+          "stationId": "awb_c44422b8fc073399e36a",
+          "url": "https://stream.0nlineradio.com/trending-charts",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a9f324c0-0181-4d41-be9e-aedcf9e6921c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:20:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e1052f74d4cdf556e19e",
+      "name": "BreakZ.FM - Charts & Remixe",
+      "country": "DE",
+      "subdivision": "Nrw",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "hip-hop",
+        "latin"
+      ],
+      "tags": [
+        "#mashup",
+        "charts",
+        "club house",
+        "dance top40",
+        "deep house",
+        "dj",
+        "dj mix",
+        "dj mixes",
+        "dj remix",
+        "dj sets",
+        "edm",
+        "electro",
+        "electronic",
+        "electronic dance music",
+        "funky house",
+        "house",
+        "latin",
+        "latinoamérica",
+        "mashup",
+        "minimal",
+        "minimal techno",
+        "moombahton",
+        "pop dance",
+        "progressive house",
+        "promodj",
+        "radiocharts",
+        "rap",
+        "reggaeton",
+        "remix",
+        "remixes",
+        "tech house",
+        "techno",
+        "top charts",
+        "top hits",
+        "top100",
+        "top40",
+        "urban"
+      ],
+      "homepage": "https://breakz.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:51:37Z",
+      "streams": [
+        {
+          "id": "aws_3285c937376f2bb8fb67",
+          "stationId": "awb_e1052f74d4cdf556e19e",
+          "url": "https://stream.breakz.fm/?ref=radiobrowser",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4e1be495-4fec-4c8d-9ab3-b8a2f2e755af"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:14:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ab4c38c3ecb5cbe27110",
+      "name": "Epic Lounge - Massage Lounge",
+      "country": "DE",
+      "subdivision": "North Rhine-Westphalia",
+      "languages": [
+        "de",
+        "en",
+        "gsw"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "ambient lounge",
+        "chillout",
+        "chillout+lounge",
+        "easy listening",
+        "lounge",
+        "lounge music",
+        "lounge radio",
+        "relax",
+        "smooth lounge"
+      ],
+      "homepage": "https://epic-lounge.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:34:09Z",
+      "streams": [
+        {
+          "id": "aws_4d5b2772b05515ee6d89",
+          "stationId": "awb_ab4c38c3ecb5cbe27110",
+          "url": "https://stream.epic-lounge.com/massage-lounge",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8b160a9d-5d96-4106-a26e-503b35aaf007"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:13:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1076e7aa0d3627d11c02",
+      "name": "Gartenheim-Radio,Gartenheim-Radio",
+      "country": "DE",
+      "subdivision": "St. Gallen",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "2000er",
+        "2000er und schlager-pop",
+        "70er",
+        "80er",
+        "90er",
+        "chart-hits",
+        "deutsch-pop",
+        "oldies",
+        "schlager-pop"
+      ],
+      "homepage": null,
+      "favicon": "https://gartenheim-radio.de/bilder/logo-radio-Gartenheim-fav.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:54:34Z",
+      "streams": [
+        {
+          "id": "aws_6c2ff9fdeef77a92057a",
+          "stationId": "awb_1076e7aa0d3627d11c02",
+          "url": "https://gartenheimradio.sp.radio.fm/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6d6ec313-539f-4ec3-99e0-4e2f6310b2de"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:41:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_58f102c851323ce9c567",
+      "name": "Handel Radio Art",
+      "country": "DE",
+      "subdivision": "Bavaria",
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://air.radioart.online/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-07T16:50:59Z",
+      "streams": [
+        {
+          "id": "aws_5485d0bf7e02cf140872",
+          "stationId": "awb_58f102c851323ce9c567",
+          "url": "http://air.radioart.online/hGeorge_handel.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f11bb3ff-a578-4b9c-9c0f-8d037b4e86a7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:27:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b7c30aba948b38f5165a",
+      "name": "RauteMusik - TECHNO",
+      "country": "DE",
+      "subdivision": "North Rhine-Westphalia",
+      "languages": [
+        "de",
+        "en",
+        "gsw",
+        "nds"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "acid",
+        "acidcore",
+        "dark techno",
+        "electro",
+        "electronic",
+        "hard techno",
+        "melodic house",
+        "melodic house & techno",
+        "techno"
+      ],
+      "homepage": "https://rm.fm/techno",
+      "favicon": "https://rm.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:50:53Z",
+      "streams": [
+        {
+          "id": "aws_3e79cd55e4fdfa557b70",
+          "stationId": "awb_b7c30aba948b38f5165a",
+          "url": "https://streams.rautemusik.fm/techno/mp3-192?ref=radiobrowser",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5eeb05d3-57a1-4b81-a639-8ac8d2d1388a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:24:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c4a674d1b0cc382842a6",
+      "name": "Top20 Radio",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "charts",
+        "classic hits"
+      ],
+      "homepage": "https://top20radio.tv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T03:34:17Z",
+      "streams": [
+        {
+          "id": "aws_23b142c8ba770a22fda8",
+          "stationId": "awb_c4a674d1b0cc382842a6",
+          "url": "http://server8.blitz-stream.de:9100/",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "77685658-f890-4ad3-ae37-95060e489961",
+            "b09211dd-9fc7-400e-adaf-518a05bc06d2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:43:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e44f0b6deb579dce748b",
+      "name": "Life Channel",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "gsw"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "browserfriendly",
+        "christian"
+      ],
+      "homepage": "https://radio.lifechannel.ch/",
+      "favicon": "https://radio.lifechannel.ch/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:56:14Z",
+      "streams": [
+        {
+          "id": "aws_6f0cbedda26c3a73c77b",
+          "stationId": "awb_e44f0b6deb579dce748b",
+          "url": "https://stream1.lifechannel.ch/LIFECHANNEL",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e50bf0ca-4aeb-4f5f-b0ad-6a57955afb7e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:38:51Z"
+        }
+      ]
+    }
+  ]
+}

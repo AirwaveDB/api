@@ -1,0 +1,81 @@
+{
+  "code": "as",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_2580dad9cfa2a2b9e07b",
+      "name": "air nagaon",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "as"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://liveradios.in/air-nagaon.html",
+      "favicon": "https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T03:11:24Z",
+      "streams": [
+        {
+          "id": "aws_f58f8019287aae931f83",
+          "stationId": "awb_2580dad9cfa2a2b9e07b",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8fbdc72a-677e-4a70-93b9-1b7c827963c1",
+            "f9a58396-604c-4a06-9e58-99fbec77a72a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:10:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9359f80d8add45b0f85b",
+      "name": "GUP SHUP",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "as"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://gupshupradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:34:00Z",
+      "streams": [
+        {
+          "id": "aws_663fd65e9c91813656c6",
+          "stationId": "awb_9359f80d8add45b0f85b",
+          "url": "https://internetradio.gupshupradio.com:8080/?type=mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0cc4c41b-2486-4b6e-a235-0337258253e4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:26:11Z"
+        }
+      ]
+    }
+  ]
+}

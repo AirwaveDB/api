@@ -1,0 +1,188 @@
+{
+  "code": "rm",
+  "stationCount": 4,
+  "stations": [
+    {
+      "id": "awb_7f53c922c48cef9fa00e",
+      "name": "Radio Grischa",
+      "country": "CH",
+      "subdivision": "Grison",
+      "languages": [
+        "de",
+        "gsw",
+        "it",
+        "rm"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "infos",
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.radiogrischa.ch/",
+      "favicon": "https://www.radiogrischa.ch/themes/custom/grischa/images/logos/RG_Signet.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ba6e2e867a9048e9fcf2",
+          "stationId": "awb_7f53c922c48cef9fa00e",
+          "url": "https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CH:radio-grischa",
+            "db6893f4-cead-4749-83e6-a1b1dfb6f61b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:07:46Z"
+        },
+        {
+          "id": "aws_47c4b470db641e8c5b31",
+          "stationId": "awb_7f53c922c48cef9fa00e",
+          "url": "https://stream.radiogrischa.ch/radiogrischa/mp3_128/internetradioschweiz",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c00339e8-3742-4f64-83fd-6eb9f19ca5c5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:11:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_18e0c7121ec53aa19af3",
+      "name": "Radio RTR",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "rm"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.rtr.ch/",
+      "favicon": "https://www.rtr.ch/var/storage/assets/webpack/favicons/rtr-apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:32:04Z",
+      "streams": [
+        {
+          "id": "aws_29b0743ea712ee67d627",
+          "stationId": "awb_18e0c7121ec53aa19af3",
+          "url": "http://stream.srg-ssr.ch/srgssr/rr/aac/96",
+          "codec": "aac",
+          "bitrate": 88,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c66c41ff-f431-43df-853c-599c4d050cd4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:23:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7bb2cf76dea795fc0470",
+      "name": "Radio Rumantsch",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "rm"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "public radio",
+        "srg ssr"
+      ],
+      "homepage": "http://www.rtr.ch/",
+      "favicon": "http://www.rtr.ch/var/storage/assets/webpack/favicons/rtr-apple-touch-icon.png",
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:34:00Z",
+      "streams": [
+        {
+          "id": "aws_5bda61caf5afac74a6aa",
+          "stationId": "awb_7bb2cf76dea795fc0470",
+          "url": "http://stream.srg-ssr.ch/m/rr/mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9608933a-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:19:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c1091e8e820a8dc973db",
+      "name": "RTR | 32k AAC+",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "rm"
+      ],
+      "categories": [],
+      "tags": [
+        "alpine traditional music",
+        "commercial free",
+        "contemporary",
+        "culture",
+        "graubünden regional folk music",
+        "mixed programming",
+        "romansh-language pop",
+        "swiss folk music"
+      ],
+      "homepage": "https://www.rtr.ch/audio",
+      "favicon": "https://download-media.srf.ch/world/image/audio/2020/07/45780e322f604be8973867ee03cf88e6.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-04-20T06:56:41Z",
+      "streams": [
+        {
+          "id": "aws_e844d567949a9b1fe3e0",
+          "stationId": "awb_c1091e8e820a8dc973db",
+          "url": "https://stream.srg-ssr.ch/m/rr/aacp_32",
+          "codec": "aac",
+          "bitrate": 88,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ec7a3be1-40d0-4625-acdf-889237fcc4d9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:18:11Z"
+        }
+      ]
+    }
+  ]
+}

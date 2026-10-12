@@ -1,0 +1,4053 @@
+{
+  "code": "ko",
+  "stationCount": 97,
+  "stations": [
+    {
+      "id": "awb_82cb97116bafb0936626",
+      "name": "kbs",
+      "country": "AQ",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "kbs"
+      ],
+      "homepage": "http://serpent0.duckdns.org:8088/kbs1fm.pls",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:54:30Z",
+      "streams": [
+        {
+          "id": "aws_eecc6629408f84987bd1",
+          "stationId": "awb_82cb97116bafb0936626",
+          "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5NjgzODN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=SnrmixvBgZyA7vpZgBRdhnDKaHd8iTQLfyfe~sBDnCPiejFZBIyb~RqKssNzQvgmr3AhyOzbkK6dcq6HbgNXUfFfnR2muJQYk25IjPf9EqdNJQhJHT1jkTzhGNs1943yCbegwSSUh9YUQD6PBqqGEqgftpNA3YypLXCvAMqXDSVdjeisAPK8pQ4TE~4o~a3woBJIY8zGJFIT4U8OAY-QlpcpXSDuhAIALYZCRaUIZ5eMZN720DfP8Cyscoo9SLKpUuezfoCjCt6KrY86sjBFIn3rqXzn-Bkft5dQykI7vJgpzQe6-4XWrIKe2YVF9Zn1DWgcunAGSTMQM09jieik9A__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b46ca30c-c28d-4cb9-89a8-d207440d1b78"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:10:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3085b96fb5b72bf0f3e5",
+      "name": "SBS PopAsia",
+      "country": "AU",
+      "subdivision": "New South Wales",
+      "languages": [
+        "cmn",
+        "en",
+        "ja",
+        "ko",
+        "yue"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "c-pop",
+        "cantonese",
+        "chinese pop",
+        "cpop",
+        "hong kong music",
+        "j-pop",
+        "japanese music",
+        "jpop",
+        "k-pop",
+        "korean music",
+        "kpop",
+        "multicultural",
+        "pop music",
+        "pop-music",
+        "taiwanese pop"
+      ],
+      "homepage": "https://www.sbs.com.au/popasia/",
+      "favicon": "https://www.sbs.com.au/_next/static/img/language/app-icon_128x128-18ef105.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_c89f9b44b8ffa9923d07",
+          "stationId": "awb_3085b96fb5b72bf0f3e5",
+          "url": "https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web",
+          "codec": "aac+",
+          "bitrate": 97,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7078d270-62b8-49c3-a729-ad325d60d29c",
+            "AU:sbs-popasia"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:21:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_67c4f6fb32b602076756",
+      "name": "96 KOOL FM",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "kpop"
+      ],
+      "homepage": "https://colemac1.wixsite.com/kool96internetradio",
+      "favicon": "https://static.wixstatic.com/media/2f97ed_965e4fe505524ec5aa4a7407b7cabcf0~mv2.png/v1/fill/w_302,h_220,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SPOILER_96_kool_fm_cswk-ir_logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-04-18T16:46:44Z",
+      "streams": [
+        {
+          "id": "aws_f56739c3056f336d84b8",
+          "stationId": "awb_67c4f6fb32b602076756",
+          "url": "https://stream.zeno.fm/97qzdqafuqzuv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0c208882-559e-4a27-80c0-6b0d66464bc5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:21:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_637d08a62b81eea81afa",
+      "name": "CHKG-FM 96.1 \"Fairchild Radio\" Vancouver, BC",
+      "country": "CA",
+      "subdivision": "British Columbia",
+      "languages": [
+        "en",
+        "es",
+        "it",
+        "ko",
+        "ru",
+        "tl",
+        "vi",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "multicultural",
+        "multilingual",
+        "world music"
+      ],
+      "homepage": "http://www.am1470.com/english/",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fairchild_Radio_FM96.1_Logo.svg/220px-Fairchild_Radio_FM96.1_Logo.svg.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:30:19Z",
+      "streams": [
+        {
+          "id": "aws_2d42fa6abfa0a7656f80",
+          "stationId": "awb_637d08a62b81eea81afa",
+          "url": "https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "628e41f5-abea-4ead-ba84-72c6d9bdd391"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:58:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_03e0cb5012c34c4b304f",
+      "name": "CINZ NET Radio",
+      "country": "CA",
+      "subdivision": "Alberta",
+      "languages": [
+        "en",
+        "ja",
+        "ko"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "anime"
+      ],
+      "tags": [
+        "dance",
+        "edm",
+        "gay",
+        "j-pop",
+        "j-rock",
+        "k-pop",
+        "k-rock",
+        "lgbt",
+        "pop"
+      ],
+      "homepage": "https://cinz.net/",
+      "favicon": "https://cinz.net/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:32:38Z",
+      "streams": [
+        {
+          "id": "aws_04a456af4fcd9349501f",
+          "stationId": "awb_03e0cb5012c34c4b304f",
+          "url": "https://stream.cinz.net/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e58bd570-6338-470e-9872-689e5f71e303"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:34:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8f8b45c786bfe3d9666b",
+      "name": "CJRK-FM 102.7 \"East FM\" Toronto, ON",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "fa",
+        "hi",
+        "ko",
+        "ta",
+        "tl"
+      ],
+      "categories": [],
+      "tags": [
+        "multicultural",
+        "multilingual"
+      ],
+      "homepage": "http://www.eastfm.ca/",
+      "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/CJRK_EastFM102.7_logo.png/220px-CJRK_EastFM102.7_logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:11:16Z",
+      "streams": [
+        {
+          "id": "aws_cd95bd52e79502e57f28",
+          "stationId": "awb_8f8b45c786bfe3d9666b",
+          "url": "https://centova.radioservers.biz/proxy/eastfmc1/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "753394b9-f6ee-47fc-be25-7de91c19295b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:40:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f8b236329826c6981100",
+      "name": "Big B Radio亚洲音乐台",
+      "country": "CN",
+      "subdivision": "Liaoning",
+      "languages": [
+        "ja",
+        "ko",
+        "zh"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "music",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://bigbradio.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_eebfdb09a2ec0f802229",
+          "stationId": "awb_f8b236329826c6981100",
+          "url": "https://antares.dribbcast.com/proxy/apop?mp=/s",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "751de35b-f169-45fa-9fd5-ef4284fbe91e",
+            "CN:big-b-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:26:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f1c1746bb5b6feadb61a",
+      "name": "CNR-8 民族之声 조선어방송  ",
+      "country": "CN",
+      "subdivision": null,
+      "languages": [
+        "ko",
+        "mn"
+      ],
+      "categories": [],
+      "tags": [
+        "full service"
+      ],
+      "homepage": "https://www.cnr.cn/2010zhuanti/bsfb/logo/201004/t20100427_506347430.html",
+      "favicon": "https://www.cnr.cn/2010zhuanti/bsfb/logo/201004/W020100427774004800567.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:24:15Z",
+      "streams": [
+        {
+          "id": "aws_a07f2033686ef3461974",
+          "stationId": "awb_f1c1746bb5b6feadb61a",
+          "url": "https://satellitepull.cnr.cn/live/wxmzzs/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174761703245334&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aa2a5814-86ab-4c70-8f0f-35e80a5d5177"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:01:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_79a1cd6dba397c6a5478",
+      "name": "아리랑모바일방송",
+      "country": "CN",
+      "subdivision": "Jilin",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "lifestyle"
+      ],
+      "homepage": "http://www.yanji.tv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:02:43Z",
+      "streams": [
+        {
+          "id": "aws_da8a3c8fd8021cc78c6d",
+          "stationId": "awb_79a1cd6dba397c6a5478",
+          "url": "https://lhttp.qingting.fm/live/5022144/64k.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2fb2daa2-7271-4b9d-a3f2-31a3598829df"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:26:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_146790ad69818ab6f47c",
+      "name": "延吉汉语·朝鲜语综合广播",
+      "country": "CN",
+      "subdivision": "jilin",
+      "languages": [
+        "ko",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "full service",
+        "music"
+      ],
+      "homepage": "http://www.yanji.tv/",
+      "favicon": "https://bkimg.cdn.bcebos.com/pic/b8389b504fc2d5628535f639bd4387ef76c6a6efc69f?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-07T13:49:46Z",
+      "streams": [
+        {
+          "id": "aws_8bc5659a4ea90a90963c",
+          "stationId": "awb_146790ad69818ab6f47c",
+          "url": "http://stream7.jlntv.cn/yjgb/playlist.m3u8",
+          "codec": "unknown",
+          "bitrate": 75,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "328c5096-b162-472b-8c3b-f3cd4537d638"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:42:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5b40651e51f9d5cfe54e",
+      "name": "延边朝鲜语文艺生活广播 문예생활방송",
+      "country": "CN",
+      "subdivision": "jilin",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "culture"
+      ],
+      "homepage": "https://www.iybtv.cn/",
+      "favicon": "http://pic.qtfm.cn/2025/0806/20250806094845.png!200",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-03-30T00:37:03Z",
+      "streams": [
+        {
+          "id": "aws_fcf7009d4570d476c0d2",
+          "stationId": "awb_5b40651e51f9d5cfe54e",
+          "url": "https://srs.iybtv.cn/audio/FM1023/index.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f8bf234d-d145-48e3-8ba7-3252bb5afc5a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:15:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_817e12abc1e74cfd1e41",
+      "name": "延边朝鲜语新闻综合广播",
+      "country": "CN",
+      "subdivision": "jilin",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "full service"
+      ],
+      "homepage": "http://www.iyb983.cn/",
+      "favicon": "https://pic.qtfm.cn/2025/0806/20250806094845.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-03-29T14:43:25Z",
+      "streams": [
+        {
+          "id": "aws_deed4fafb2cc657d2f80",
+          "stationId": "awb_817e12abc1e74cfd1e41",
+          "url": "https://lhttp-hw.qtfm.cn/live/20324/64k.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3793a99b-2299-47d3-8205-36b735652aef"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:31:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1ba2acb6c384be5fcae8",
+      "name": "延边朝鲜语新闻综合广播 뉴스종합방송",
+      "country": "CN",
+      "subdivision": "jilin",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "full service"
+      ],
+      "homepage": "https://www.iybtv.cn/",
+      "favicon": "http://pic.qtfm.cn/2025/0806/20250806094845.png!200",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-03-30T00:39:52Z",
+      "streams": [
+        {
+          "id": "aws_b56b3f55337756cc5ca8",
+          "stationId": "awb_1ba2acb6c384be5fcae8",
+          "url": "https://srs.iybtv.cn/audio/AM1206/index.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3cb3a062-5051-4c17-98f4-4af7b24aa204"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:13:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5e94f4bda3c815083e63",
+      "name": "韩国音乐台",
+      "country": "CN",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "homepage": "https://zeno.fm/radio/kpop-music-ueuu/",
+      "favicon": "https://zeno.fm/_next/image/?url=https://images.zeno.fm/OUYIdK-I9SRrKdCnUXGGqr_zmu-mhTh1Nigcjs-8vbk/rs:fit:268:268/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2ZjMDM4NDAwLTc1YjYtNDE3Ni1hMTZhLTYwNDQzMzcwYTEwYS9pbWFnZS8_dXBkYXRlZD0xNjkzMDg5MjAzMDAwP3U9NTc2Mjk1OA.webp&w=640&q=75",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:52:51Z",
+      "streams": [
+        {
+          "id": "aws_cc24288228ecfe21a20b",
+          "stationId": "awb_5e94f4bda3c815083e63",
+          "url": "https://stream.zeno.fm/r0tbse9jnbptv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f7fab6a3-9af0-4070-ab00-40049db517d7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:10:04Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1e1ed42fbef9d5d330ad",
+      "name": "黑龙江朝语广播",
+      "country": "CN",
+      "subdivision": "Amur River",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "full service"
+      ],
+      "homepage": "https://www.hljtv.com/",
+      "favicon": "http://pic.qtfm.cn/2014/1010/20141010104405748.jpg!200",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:52:50Z",
+      "streams": [
+        {
+          "id": "aws_d3ff0e3c5b8b73b5185b",
+          "stationId": "awb_1e1ed42fbef9d5d330ad",
+          "url": "https://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174778330216034&wsIPSercert=2683acdad9e689f89519c7ec3f7e218b",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "64e2ba33-38a5-4c01-bc61-a77d85c09bbd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:26:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8512c647c604a0223a7a",
+      "name": "ADBT Radio",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "en",
+        "ja",
+        "ko",
+        "zh"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "classical",
+        "electronic",
+        "anime"
+      ],
+      "tags": [
+        "classical",
+        "jpop",
+        "kpop",
+        "pop",
+        "rock",
+        "techno"
+      ],
+      "homepage": "https://adbt.it.cx/",
+      "favicon": "https://adbt.it.cx/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:03:43Z",
+      "streams": [
+        {
+          "id": "aws_c4db6c0550186e472dcd",
+          "stationId": "awb_8512c647c604a0223a7a",
+          "url": "http://217.79.181.61:8000/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9898fc31-2d22-4d64-b2f6-d2349edbf9be"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:18:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d0257dcf0a1fa09caddb",
+      "name": "juka radio kpop",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "k-pop",
+        "kpop"
+      ],
+      "homepage": "https://juka-radio.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_89fb4357325f871bbd82",
+          "stationId": "awb_d0257dcf0a1fa09caddb",
+          "url": "https://juka-kpop.stream.laut.fm/juka-kpop?t302=2021-04-01_09-03-35&uuid=6aa06ca0-9a01-407d-91af-155d24c5c405",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "2973ff08-fb80-4281-8b7a-33bd213b06d4",
+            "DE:juka-radio-kpop"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:52:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4fe786c3c36227cec8e1",
+      "name": "Ariane Web Radio",
+      "country": "FR",
+      "subdivision": "Provence-Alpes-Côte d’Azur",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pt",
+        "ru",
+        "th",
+        "tr",
+        "vi",
+        "zh"
+      ],
+      "categories": [
+        "rock",
+        "electronic",
+        "hip-hop",
+        "reggae"
+      ],
+      "tags": [
+        "alternative",
+        "dub",
+        "electronic",
+        "independent music",
+        "rap",
+        "reggae",
+        "rock",
+        "trip-hop"
+      ],
+      "homepage": "https://arianeradio.com/",
+      "favicon": "https://www.de-lussigny.com/wp-content/uploads/2026/09/radio-guy-de-lussigny-v1.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-09-25T14:42:11Z",
+      "streams": [
+        {
+          "id": "aws_d04098fe5ea3d1ef2844",
+          "stationId": "awb_4fe786c3c36227cec8e1",
+          "url": "https://radio.de-lussigny.com/listen/guy-de-lussigny/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02fd3139-34c3-4c4a-8eb9-37cd5f8e50e1",
+            "bd6caebf-47e7-438f-905c-6ef3a604d2fb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-09-25T14:42:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8a32e53b2245325760c4",
+      "name": "NHK WORLD RADIO",
+      "country": "JP",
+      "subdivision": "tokyo",
+      "languages": [
+        "ja",
+        "ko",
+        "zh"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "international",
+        "news"
+      ],
+      "homepage": "https://www3.nhk.or.jp/nhkworld/",
+      "favicon": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-15T14:15:00Z",
+      "streams": [
+        {
+          "id": "aws_f8a66c9606dffb1ab58b",
+          "stationId": "awb_8a32e53b2245325760c4",
+          "url": "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media2/index.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a6d3e86c-0d17-4dd5-a587-5b30f31fd837"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:03:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_90786872e100f80446e7",
+      "name": "NHK World Radio (Korean)",
+      "country": "JP",
+      "subdivision": "tokyo",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "education",
+        "general",
+        "international news",
+        "world news"
+      ],
+      "homepage": "https://www3.nhk.or.jp/nhkworld/ko/live_radio/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPOhkWJfkm-FcT4agmxooYSDpQbvXjMkbygX7ELFiIag&s=10",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-28T11:59:50Z",
+      "streams": [
+        {
+          "id": "aws_ed36fd4fab9a82214366",
+          "stationId": "awb_90786872e100f80446e7",
+          "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/rs1/live.m3u8",
+          "codec": "aac",
+          "bitrate": 66,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9a6855fe-1c7f-422b-a4bc-f15af3b347ff"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:20:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3ed0d2ad2a58e36ccde5",
+      "name": "KCBS 조선중앙방송",
+      "country": "KP",
+      "subdivision": "Pyongyang",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "information"
+      ],
+      "homepage": "http://www.kcna.kp/en",
+      "favicon": "https://bkimg.cdn.bcebos.com/pic/7acb0a46f21fbe096b637856f5311b338744ebf8076d?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-02T01:18:35Z",
+      "streams": [
+        {
+          "id": "aws_b4fbe42d86015032625a",
+          "stationId": "awb_3ed0d2ad2a58e36ccde5",
+          "url": "https://stream.intchoson.com/kcbs/main_stream.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8d95cf64-8fce-4b71-b9e6-8e1e2d2fc00d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:32:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d495183710d5afa907a6",
+      "name": "Voice of Chongro",
+      "country": "KP",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://sf1buynlarge.wixsite.com/chongronaenara/music",
+      "favicon": "https://zeno.fm/_ipx/f_webp&q_85&fit_cover&s_288x288/https://images.zeno.fm/gSvreLhLuVh1fUjDbdkvgmnIEJCdgomYW8toTV7Mq9Y/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNDYzYjY3ZGMtY2U5NC00OGVlLWJmNjYtZDBlYWJkMWQ2OTA0L2ltYWdlLz91PTE3MjE0NzQ0NjAwMDA.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:12:36Z",
+      "streams": [
+        {
+          "id": "aws_ce65645d4001b9cf40d2",
+          "stationId": "awb_d495183710d5afa907a6",
+          "url": "https://stream.zeno.fm/oldwnjuma3duv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0a83de69-837b-4a24-8e59-dbe87dc75c9f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:11:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_70c689f979d2ed2fb0c0",
+      "name": "Voice of Korea 조선의 소리 방송",
+      "country": "KP",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "information"
+      ],
+      "homepage": "https://www.vok.rep.kp/index.php/home/main/ch",
+      "favicon": "https://vk5pas.org/wp-content/uploads/2021/10/voice-of-korea-logo-aa0874a88c-seeklogo.com_.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-02T01:11:32Z",
+      "streams": [
+        {
+          "id": "aws_91653261917cde0b21cf",
+          "stationId": "awb_70c689f979d2ed2fb0c0",
+          "url": "https://stream.intchoson.com/vok/main_stream.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "734f76f0-00b8-424c-9ec9-38e11f052141"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:37:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2e9c2b80a3eb948bc86c",
+      "name": "조선의 소리 방송 Voice of Korea",
+      "country": "KP",
+      "subdivision": "Pyongyang",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "information",
+        "international"
+      ],
+      "homepage": "https://www.vok.rep.kp/index.php/home/main/ch",
+      "favicon": "https://vk5pas.org/wp-content/uploads/2021/10/voice-of-korea-logo-aa0874a88c-seeklogo.com_.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-03T21:32:54Z",
+      "streams": [
+        {
+          "id": "aws_5926f248281d15765171",
+          "stationId": "awb_2e9c2b80a3eb948bc86c",
+          "url": "https://stream.intchoson.com/vok/main_stream.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a4ee7325-58ef-4922-8a26-7837b1ce8fa7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:29:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5b8ff512beb6140bf017",
+      "name": "평양FM105.2",
+      "country": "KP",
+      "subdivision": "Pyongyang",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "105.2",
+        "105.2 fm",
+        "music"
+      ],
+      "homepage": "https://www.behindthecurtain-northkorea.com/audio-pyongyangfm",
+      "favicon": "https://www.behindthecurtain-northkorea.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:17:33Z",
+      "streams": [
+        {
+          "id": "aws_4de078754a46ebdb7483",
+          "stationId": "awb_5b8ff512beb6140bf017",
+          "url": "http://listen7.myradio24.com/69366",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "be116145-ad80-4656-b45f-6e1ce4231ec5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:43:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_02fe385e80510632922a",
+      "name": "(BSOD) MBC mini All-That-Music",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "k-pop"
+      ],
+      "homepage": "https://radio.bsod.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_70a76894d80d5f85e368",
+          "stationId": "awb_02fe385e80510632922a",
+          "url": "https://radio.bsod.kr/stream/?stn=mbc&ch=chm",
+          "codec": "aac",
+          "bitrate": 67,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "9d4d4eef-d7e3-4a96-bc8f-550d9b6962e4",
+            "KR:bsod-mbc-mini-all-that-music"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ba6a70dd80df210244c6",
+      "name": "ARA FM",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh"
+      ],
+      "categories": [
+        "pop",
+        "ambient",
+        "anime"
+      ],
+      "tags": [
+        "ambient",
+        "dance pop",
+        "indie pop",
+        "k-pop",
+        "lofi",
+        "pop"
+      ],
+      "homepage": "http://141.164.38.238/public/ara_fm",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-07-25T04:13:40Z",
+      "streams": [
+        {
+          "id": "aws_c824b9a74f5cc63fe675",
+          "stationId": "awb_ba6a70dd80df210244c6",
+          "url": "http://141.164.38.238/listen/ara_fm/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "427da114-be59-4272-9372-9af9e84a7f39"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:15:44Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ed9333470b056b5b79f3",
+      "name": "Arirang Radio",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ko"
+      ],
+      "categories": [
+        "news",
+        "anime"
+      ],
+      "tags": [
+        "korea",
+        "korean music",
+        "kpop",
+        "news"
+      ],
+      "homepage": "https://arirang.com/radio",
+      "favicon": "https://arirang.com/logo192.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-06-09T01:05:29Z",
+      "streams": [
+        {
+          "id": "aws_c7bc3d98055a4433af01",
+          "stationId": "awb_ed9333470b056b5b79f3",
+          "url": "http://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/arirang_3ch_audio/chunklist_b128000.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "03750ff6-6222-4672-8817-864830fac0eb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:23:24Z"
+        },
+        {
+          "id": "aws_2028f081a0cff63948d6",
+          "stationId": "awb_ed9333470b056b5b79f3",
+          "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b3256000_sleng.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "00f532d5-7b4b-4f6f-8195-bef905df50ab"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:10:49Z"
+        },
+        {
+          "id": "aws_3bdfade73d11bccfac40",
+          "stationId": "awb_ed9333470b056b5b79f3",
+          "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+          "codec": "unknown",
+          "bitrate": 656,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dad75d66-3246-434f-b16c-83854fe573a0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:22:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f99d71c1184e14ce1e50",
+      "name": "Big B Radio - Kpop",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "homepage": "https://bigbradio.net/kpop",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_a1f86f388af7dea70a59",
+          "stationId": "awb_f99d71c1184e14ce1e50",
+          "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7a72aa80-3902-4d73-a548-db81ac780240",
+            "KR:big-b-radio-kpop"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:11:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2436c74bb8bea13c3903",
+      "name": "Buddhist Broadcasting System TV",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.bbsi.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:50:20Z",
+      "streams": [
+        {
+          "id": "aws_ef67d202e260350769fe",
+          "stationId": "awb_2436c74bb8bea13c3903",
+          "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 2227,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b1339480-2b71-11e9-a35e-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:44:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8c3f66ae364ce35779ae",
+      "name": "Buddhist True Network TV",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.btn.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:12:03Z",
+      "streams": [
+        {
+          "id": "aws_5de702f909ba9dbf7f7f",
+          "stationId": "awb_8c3f66ae364ce35779ae",
+          "url": "http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8",
+          "codec": "aac,h.264",
+          "bitrate": 1280,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "75092107-2a1f-11e9-96d1-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:14:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cbb79bbda19da28f43ba",
+      "name": "CBS JOY4U",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "ccm",
+        "christian",
+        "gospel",
+        "religious",
+        "worship"
+      ],
+      "homepage": "https://www.cbs.co.kr/radio/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-06T13:04:17Z",
+      "streams": [
+        {
+          "id": "aws_fa035a720f4d3ebc7680",
+          "stationId": "awb_cbb79bbda19da28f43ba",
+          "url": "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9b8512b7-436d-4da8-8777-633ad9b6671f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:43:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6f7c4c087d1a23805a38",
+      "name": "CBS 파워라디오 [Music FM]",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://cbsfm.modoo.at/",
+      "favicon": "https://pic.qtfm.cn/2024/0524/20240524014731.gif",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_0f463e20e9232a8cb50b",
+          "stationId": "awb_6f7c4c087d1a23805a38",
+          "url": "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "19f6670a-7d9f-4c71-af22-c112f7fee450",
+            "KR:cbs-music-fm"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:08:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7b38c68c92d25cc662c3",
+      "name": "Classic Odyssey",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "classical music"
+      ],
+      "homepage": "https://www.inlive.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T06:54:30Z",
+      "streams": [
+        {
+          "id": "aws_aa76973f23e56607b53b",
+          "stationId": "awb_7b38c68c92d25cc662c3",
+          "url": "http://live07.inlive.co.kr:21110/",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "06c07813-9589-42ba-8e21-e83e997fc806",
+            "8e068903-fbf8-4fac-aa9d-08b2b8d5eb47"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:08:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5a527a8b040bfd2538c5",
+      "name": "CPBC",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.cpbc.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:02:57Z",
+      "streams": [
+        {
+          "id": "aws_a757c78090ce67eba252",
+          "stationId": "awb_5a527a8b040bfd2538c5",
+          "url": "https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE4MTg0MjAsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzNmE3NWU3OS1lM2M4LTQ0MjAtYjkzMC1mOWRmMmYxMTFhM2MiLCJpYXQiOjE3OTE3NzUyMjB9.ycXbi4Ve-yWw5_dfecTxCbZmPi69XtjFOBgTg5zQ4vk",
+          "codec": "aac",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "38b5da3e-1859-47f3-9fb3-38e34741a84a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:39:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d1e391c34c0694304147",
+      "name": "CPBC TV",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.cpbc.co.kr/",
+      "favicon": "http://www.cpbc.co.kr/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:06:32Z",
+      "streams": [
+        {
+          "id": "aws_e07b2d9c2b7f7a647c26",
+          "stationId": "awb_d1e391c34c0694304147",
+          "url": "http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8",
+          "codec": "aac,h.264",
+          "bitrate": 328,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c649b05d-2a19-11e9-96d1-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:27:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3b98fc27e8f58e51c008",
+      "name": "ebs tune in",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "foreign languages"
+      ],
+      "homepage": "http://www.ebs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:00:02Z",
+      "streams": [
+        {
+          "id": "aws_a26baeb43eaa8249ffd9",
+          "stationId": "awb_3b98fc27e8f58e51c008",
+          "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 613,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4540380c-8d7c-49da-b0dc-699c1fb30ebc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:54:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ad4e49fb5da97c80de4f",
+      "name": "EBS TV-1",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.ebs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:07:59Z",
+      "streams": [
+        {
+          "id": "aws_643f6a05b9736509bb70",
+          "stationId": "awb_ad4e49fb5da97c80de4f",
+          "url": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 1139,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7fb474ed-e427-11e8-a9cc-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:57:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6a39cc610f387626109e",
+      "name": "EBS TV-2",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.ebs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:05:55Z",
+      "streams": [
+        {
+          "id": "aws_82f9cb7762ec23773305",
+          "stationId": "awb_6a39cc610f387626109e",
+          "url": "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 1149,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "066839bb-e428-11e8-a9cc-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:46:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_13ea8e59ef2450cbfddb",
+      "name": "EBS TV-e",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.ebs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:36:39Z",
+      "streams": [
+        {
+          "id": "aws_3da29f6440255044f576",
+          "stationId": "awb_13ea8e59ef2450cbfddb",
+          "url": "http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 1151,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e58a9a59-e428-11e8-a9cc-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:21:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c4ccdec869a1555f1b71",
+      "name": "EBS TV-i",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.ebs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:55:39Z",
+      "streams": [
+        {
+          "id": "aws_cc940583d3a2b4404281",
+          "stationId": "awb_c4ccdec869a1555f1b71",
+          "url": "http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 1131,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a70d424e-e428-11e8-a9cc-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-09-30T21:15:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b5d3cc521ddd2cab913f",
+      "name": "EBS TV-Kids",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.ebs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:58:11Z",
+      "streams": [
+        {
+          "id": "aws_f9d237fd6f6d4a967038",
+          "stationId": "awb_b5d3cc521ddd2cab913f",
+          "url": "http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 1150,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7a32f2f3-e429-11e8-a9cc-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:13:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cf701caa4fad9507a95e",
+      "name": "EBS TV-Plus 2",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.ebs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:02:21Z",
+      "streams": [
+        {
+          "id": "aws_3a11980d96a6b1fa4ab3",
+          "stationId": "awb_cf701caa4fad9507a95e",
+          "url": "http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 1140,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "323d45ac-e429-11e8-a9cc-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:28:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a39dd2063fcc70dceff8",
+      "name": "Floyd Server (Rock Ballad...From 09/25/05)",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "rock ballads"
+      ],
+      "homepage": "http://online-radio.eu/radio/10169-floyd-server-rock-ballad-from-09-25-05",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:32:40Z",
+      "streams": [
+        {
+          "id": "aws_d3db8af1a2cc047415ad",
+          "stationId": "awb_a39dd2063fcc70dceff8",
+          "url": "http://1.uicl.co.kr:8000/;",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "44dc6d1c-abe5-402a-be20-3545a0a13101"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:24:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_38366f3570a9e452db20",
+      "name": "Fred Film Radio(한국어)",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "culture",
+        "film",
+        "movie"
+      ],
+      "homepage": "http://www.fred.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_d5cbb916f368add92e22",
+          "stationId": "awb_38366f3570a9e452db20",
+          "url": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "2b1b77a5-16d9-49eb-9359-38341f5674e4",
+            "KR:fred-film-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-09-30T23:18:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2f52d05306190cac35e7",
+      "name": "GugakFM",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "korean",
+        "traditional",
+        "world music"
+      ],
+      "homepage": "https://www.igbf.kr/gugak_web/main/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T08:16:50Z",
+      "streams": [
+        {
+          "id": "aws_16db79c3ffd844c6cb15",
+          "stationId": "awb_2f52d05306190cac35e7",
+          "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c72c8602-5359-4b23-95a8-a7c2b4d067de"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-01T02:19:43Z"
+        },
+        {
+          "id": "aws_ee3f80f85763a766527b",
+          "stationId": "awb_2f52d05306190cac35e7",
+          "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e849a616-e2ff-4427-a2f6-a1071d2a073a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:22:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8164f40c2ad8b8e02a8b",
+      "name": "gukak",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.gugakfm.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:35:43Z",
+      "streams": [
+        {
+          "id": "aws_d841f8b88e5d12548fa4",
+          "stationId": "awb_8164f40c2ad8b8e02a8b",
+          "url": "http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 194,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7ecf4a00-7be0-11e9-aa30-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:15:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8bb55cccdeded899336c",
+      "name": "Gukak TV",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.gugakfm.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:23:58Z",
+      "streams": [
+        {
+          "id": "aws_00659f590255da224e38",
+          "stationId": "awb_8bb55cccdeded899336c",
+          "url": "http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 4422,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4e050a3d-b7c9-11e9-acb2-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:02:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f1447cd21a370c3d8bbc",
+      "name": "JeonjuFM",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://jcfm.kr/",
+      "favicon": "https://static.mytuner.mobi/media/tvos_radios/694/gongdongceradio-jeonjufm-935mhz.70bc301e.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:45:49Z",
+      "streams": [
+        {
+          "id": "aws_f2c5f8198dc78948ff5c",
+          "stationId": "awb_f1447cd21a370c3d8bbc",
+          "url": "http://radiostream.communityradio.kr/jcfm1",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1a512cf7-f77c-49c0-b42d-4e3db0656b6a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:26:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6f50a7e94106ae363667",
+      "name": "JTV 매직FM",
+      "country": "KR",
+      "subdivision": "jeonju",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.jtv.co.kr/",
+      "favicon": "https://jtv.co.kr/2021/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:20:36Z",
+      "streams": [
+        {
+          "id": "aws_6d886121b8a8fe00d0f9",
+          "stationId": "awb_6f50a7e94106ae363667",
+          "url": "https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cb45bd69-ec15-4fe2-8a6f-0af262fb2aad"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:24:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fa0394270db2a43daea7",
+      "name": "K-RADIO",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.am1660.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_b4df0ddafc7a5fd6c2f6",
+          "stationId": "awb_fa0394270db2a43daea7",
+          "url": "https://s5.radio.co/s0a9796fe3/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "54ac5316-5788-452f-a15b-5a53c79d0375",
+            "KR:k-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:07:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_744c38b6e8913010a579",
+      "name": "KBS 1FM",
+      "country": "KR",
+      "subdivision": "SEOUL",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://kbs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-05T04:48:51Z",
+      "streams": [
+        {
+          "id": "aws_c93df460385c1b310ff4",
+          "stationId": "awb_744c38b6e8913010a579",
+          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "223f554a-0647-4bf0-86d2-11d46ed79dce"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:33:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_63d16a03d500ab5555de",
+      "name": "KBS 1R",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.kbs.co.kr/",
+      "favicon": "https://res.static.kbs.co.kr/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:52:28Z",
+      "streams": [
+        {
+          "id": "aws_e5839a987c2184e86627",
+          "stationId": "awb_63d16a03d500ab5555de",
+          "url": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTk2ODM3NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=HEfmm5vNiqdwWi8BYgBa~FG2qKO3S9Su91c25lXD3oMc8x35a09m7hu8wf-9yQR3kW39fHx9iY1rlJSZvFuJroGOH~Uth~SWeoymSaK6mRE-68z6qmPTQpzC~32jkV61nUtLlYkHOTUrd6Ngx5WTFSWJgPd-qBDHFb29X59uTO-Q9ErRo9flwtZaJRkjMAkeQcTP6VlI-hishvjMr8eyGtgZmk9LgHynrHVb91qv6uqmu27DyGtRv03HkNweXfTva~nfglAKCiUW1libxGY8FsF~Go5bDXv~R0j4S--2t5cRlT9iY9zyfaghgPGWc4kKYGMndvwUa2w2u7Qgp4aYkQ__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6d4a1b58-b7c6-11e9-acb2-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:04:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3d846ff7788d519d4e24",
+      "name": "KBS 1Radio",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.kbs.co.kr/",
+      "favicon": "https://res.static.kbs.co.kr/favicon.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_ec63380da7f7dc58fb98",
+          "stationId": "awb_3d846ff7788d519d4e24",
+          "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTk1Mzk3M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=BRdlCMZnSBbhqqdnumhxUPg3MLhm46zOGifrZsUqexSabYjj76tM6IrFlypA4n4F5eoa2DLyl-zYmLnB5qupWVFlsa7fasHOA-xKs3c80cOESVTGscN7SeOYS2cNAsjDOv6tbOvwdGtHSALP-gBPI0hqI~vYLfeAS6x1h1DQcW3UBuJ-GNl9F7tU3gYfQxtq2x8nPHEYPjjxk4W2oXAD5B0drT6DX7WqB5cUC2CXJBuCXtMye1gUsfmM20RtT7C9X8fGQC0iGbXFXEDTHc8HdQBGg4ge06O38uWLV1OmJLJiDklYAgmvqcSMx5Xsdmbk0Xtpc7pjveJbOQd0vwmUYA__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9b3576ec-7f67-11e9-aa30-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:15:21Z"
+        },
+        {
+          "id": "aws_1d67067403f035106bbc",
+          "stationId": "awb_3d846ff7788d519d4e24",
+          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=1radio",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "11c0bd17-9a8c-41a7-a050-3cf612c205f6",
+            "KR:kbs-1radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:18:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_577e17b67cc9a367afc3",
+      "name": "KBS 2FM",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://kbs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-05T04:52:27Z",
+      "streams": [
+        {
+          "id": "aws_a359ad2bdf7dd5ffc2ca",
+          "stationId": "awb_577e17b67cc9a367afc3",
+          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=2fm",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "59373d6b-79e2-41d1-a808-ea6a7cbe4ba3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:01:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8bdf64342a7c9ce4f582",
+      "name": "KBS Classic FM",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classic",
+        "classical"
+      ],
+      "homepage": "http://www.kbs.co.kr/",
+      "favicon": "http://www.kbs.co.kr//resources/images/favorite/favorite.png",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-05-10T14:57:02Z",
+      "streams": [
+        {
+          "id": "aws_70487c5c774c31f00199",
+          "stationId": "awb_8bdf64342a7c9ce4f582",
+          "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5MzgzODV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Pl4nfdq8oXxcXQsRkE7IewjjntjwIfjL8JN8xiXn90xaNLyceqqKJ16e2IVCiLwgwY-BtF3zTbVIiSc6iNPI39SpwAl5VMJkIACdMVGNnJdRhRK6T7pddFFc-kKZhQvfDWqj-X312zUtqBwFzKBNzISud9Fr0oFfwq6eNActGozsXpwaOKvhDyOSHcxoLg4DefySPR3n-CJLPw6ZGtcDpgjGB4LBcpRC3YZes2d7~101ljau2u3qvZ89Lbm68QpCoDk5m-Wwai-WDYo6io7n4~qrAn0a8wNktdepGsykW2VLd1eVspGe9bgpXsDpCK0tYVo7qQquK5uClTSOZGpxjQ__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c038a859-7be1-11e9-aa30-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:43:10Z"
+        },
+        {
+          "id": "aws_a7448cc37000e5040d78",
+          "stationId": "awb_8bdf64342a7c9ce4f582",
+          "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5MzIzNzJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=d-NgzfdgYAhRnqcV6MslqraHyU8Uzz~DIMNIhviX5vFgGLNJEYnLl~SsMLG1KIV0H~Gxfg7uKMJO64d7d0EdYydF31AkYC6wOafUTYw53TeNTHj0lZ-OJs2xU6iueKb8-rH4WzkMR7XqKaC5zaCrfHi6p24L9oCowGZmM3uKnLogntna9VH0yOq6zA1NTc95LLzhplnTtkZUev3Qt9j1Osa79qZoKMBKWOal1mpShP2fmRv3hP-BwTLgR9rsiudwWnGs720AOpfxzilXVBRFJnXc5pYJ-UvHSgUafhHxLr0H8RfyKyxZRwmiJ4a9XAZu4u8GYNR6Ipd8XjpeecDwgw__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e3d4515f-eb35-40e2-aeb9-dc48e9ba910c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:11:30Z"
+        },
+        {
+          "id": "aws_f368b271ff41b2dc17ea",
+          "stationId": "awb_8bdf64342a7c9ce4f582",
+          "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5NDE5ODl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=HfyO942efH~1bptDQ4uC9i2EhkpMQWhhsIV39fbRKaBzAGRUT961UuIodGZdm68-Qcoav2FtkJa73tfImFKm6FyY9DxwytepoAB-50wcWsZIcwLl45DZwp8Nzhkq7A6OlycVgiHROGgy2599foRAFBqDtbOKNFCYBuomv98NekOUMGx6C7Icsrnc0AW7Xx-VVcd4Gx17B3ZwNhrL-qBqcHmriHtRC~sJhDmx45umpedIYhv11gvXkROEmJ9jNuHQxQ4zVp5FRnWLH82~WfhwoyPRIZhQA5f4J48LDzTxH9ORSCoNibRx-QpEBFsxkhOAxorz6y6SNTRqrT~5mqLYYQ__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "18849c31-3a21-481f-8c0d-e6ca46cb240c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:45:36Z"
+        },
+        {
+          "id": "aws_615ea29cbde5dfd8d1b9",
+          "stationId": "awb_8bdf64342a7c9ce4f582",
+          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7d011452-9249-4d30-936b-36ebec3dce50"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:03:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f281ee621aff4c56f7dc",
+      "name": "KBS Cool FM",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.kbs.co.kr/",
+      "favicon": "https://res.static.kbs.co.kr/favicon.png",
+      "type": null,
+      "sourceCount": 5,
+      "updatedAt": "2026-01-15T01:24:48Z",
+      "streams": [
+        {
+          "id": "aws_ed0d147fc94146962f59",
+          "stationId": "awb_f281ee621aff4c56f7dc",
+          "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5MjYzODh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=YoRrtki8H2mOIkK5eIE0nvEPmU0mNrj4rnQfEe4Cd0dCCh1SLxma6aj3lRh5tltN~GKeMMi~a7myZV22IRjQUWprNrCBdxg3qQGYEJrC2iVlUwN8Pq5CrCay~LoV1pTj93judwVJVB4RDTNC34FtmBB97giINuMx0Yn~DVanA9eY84VJkbR9zlbIYs2sYxMomKoMBhjIkDUVfvpct3Dbr62sXZPRkOwE8wObtmmBOc-sVyZUR6E1l-yJZqbII~zJ3GdxG3maFyXzpvOGPFuISYjrVRBcpC95BmfreqR~BA7kuf~lEsXb3g51HtZBeASZguOIjK-D7QOta9S8ihEoZQ__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5cfee8db-7be2-11e9-aa30-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:25:31Z"
+        },
+        {
+          "id": "aws_4fcea2013966c6024430",
+          "stationId": "awb_f281ee621aff4c56f7dc",
+          "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5NTYzNzR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Jr9D8LpjiuNQzHcxLyXEOc9Po4BslaxYZezc4d018SriRb8DAvfHoCra-6rlH~3iQRU7WGYq28qu2OAWzvvz2KGua7Kitps3bPHXnowVbF-ypKYSZbZUtj-2lrmsIPciQQ33HvYQR8UgjJEl1LTDLDckmUI3X4UIUrpuKZA25Lq3dxkGhemhoLKLI7t9ynS8XAHrUwG0U7jmkLGYDL~nPpOvAzEDez3JuhBXJJ~B52J0JUuD0WnjceqKwOuMFSEVhzMEl8xsG~tQgY-aaD~op27c57qVi5V33A5prXAk~jvodj4qo1v5v5kLxY1rtV1CMNEDzEQnVCAX0-J-nxB~Lw__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d06a6392-127d-40f8-b52d-fc610bc97178"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:07:54Z"
+        },
+        {
+          "id": "aws_d65d69de75564433e24a",
+          "stationId": "awb_f281ee621aff4c56f7dc",
+          "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5ODE1ODV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Z2scm0Tsx6-pAonA7mNxtVoaF-aEqvRhsvkKsQCkBLj-wUmes4YuUBW5aDeMI0vNgJYQeclotWj6qaVivp9IvrG2acet5VPxCXXdHKsITu9DY5Kwrr7yieVSHntuBAqLONrS97CafRfNGXALC3-9g~uBZapRd8pBPdXQ3HNXeezogOUuWfY0g5uP2QkW66IwQoW7kczrrdubYGz9EZ37Bto1uVj9RInDmNapMw85HdHhLLrxbu~dNLRX9U8Usbh4WlkNSFLOxy2GAsLSDt96zkIfKEElypHEQUAMtk~ZNiMVk1QtKf9aSeznanB5AQQGtEX9bc2aU8c0-rUWbSXhTg__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2672e98d-b642-456e-8d77-e331ab4e007c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:42:40Z"
+        },
+        {
+          "id": "aws_52de23462f9f79b1a901",
+          "stationId": "awb_f281ee621aff4c56f7dc",
+          "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5OTgzNzR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=BUDPLOFubDAmqIHZxOvShqCTcC5IMSX2Dy88lsqnO7LxAqnPCATA1kl3rc~GGtK0DE68hvtVbwPUhOtSjmZ8EYZRKvC1inBtTu337JUIopudqAbkHBXnniRG~lctBIhH3HsJSzuxIwTQsWtzLs8GI7q70RHmxYkRfBOrNk50TLcPp5MM5Ujd0x3LwuCdZOn0-fb5MCw6ks0XkX78T6D7kr514pXc6-uUmryb04lRstwS1zqNy2-japA2O6tpva9CebOl36cKy-4Fum5KzNXFHnWj~ma46cSgM2UJVdGRxPYMFDWLErt7Vnqh18LRxUntfBO5urAPOtcQgO629fdyCA__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d5642b73-a600-4fdd-9a07-a63116b04e38"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:23:56Z"
+        },
+        {
+          "id": "aws_f381ddb319e57f149594",
+          "stationId": "awb_f281ee621aff4c56f7dc",
+          "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIwMDU2MDh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=PIe8pLHU4MsZtzoFgeuXAg9TpAg2g288QHv15f-5kAmt3rOvv1gXMCbNbVRKzg00M11SZHY55-evvOPhKDINkTDuRzRgrF3~FW3xxUZ6GsISbuFllPgRt3h6gIa0H415LtsnSIwxfNc998Bc8WYEYEG6lZhXR46zJHZIBSbuBt71c4sryz7fxKMxnbbNXvA88x1yq~7NAPCeQAjQJcmLJztRr36XVgtpmW7NRbo3KQSgS9Ltjt1Ppf3Abz85e3pIuzMs3moWlk-ppp4vbNuVEoBe4UwyLF5ifCgzxzuVJnH07C1TdAzACK3CSKnLW278abrcAy2ReVoNCXv1DCgWLQ__",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e9560580-d693-4e1b-9bad-02000631d818"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:22:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_75030316b0bd12bb7743",
+      "name": "KBS HappyFM",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.kbs.co.kr/",
+      "favicon": "https://i.imgur.com/NyGnXcp.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-04-28T12:05:37Z",
+      "streams": [
+        {
+          "id": "aws_0030bc3cfdb426ac6ebe",
+          "stationId": "awb_75030316b0bd12bb7743",
+          "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=2radio&bora=true",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "12d601b9-0c10-4f6d-8d85-e460b993c1a4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:53:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0d561092e6a6359cc78f",
+      "name": "Listen.moe Kpop",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "kpop"
+      ],
+      "homepage": "https://listen.moe/kpop",
+      "favicon": "https://listen.moe/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_9ab0907f16e63000dbdf",
+          "stationId": "awb_0d561092e6a6359cc78f",
+          "url": "https://listen.moe/kpop/stream",
+          "codec": "ogg",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "43be83dc-340b-11e8-bb9b-52543be04c81",
+            "KR:listen-moe-kpop"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:02:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f5a0d7ac1dc0a9812d02",
+      "name": "Listen.moe Kpop (MP3)",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "kpop"
+      ],
+      "homepage": "https://listen.moe/",
+      "favicon": "https://listen.moe/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_9ec1baf064b79cf348f3",
+          "stationId": "awb_f5a0d7ac1dc0a9812d02",
+          "url": "https://listen.moe/kpop/fallback",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7e0188a0-b332-405d-af8f-57da3223369b",
+            "KR:listen-moe-kpop-mp3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:46:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6aa407d56e7f158678bb",
+      "name": "MBC FM",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.imbc.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:00:03Z",
+      "streams": [
+        {
+          "id": "aws_d4030796aa15f3919670",
+          "stationId": "awb_6aa407d56e7f158678bb",
+          "url": "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6D610E1003733314DF4FA54232319C4E45173DE54D07D2333C60CEaF66D839C6B6aF438D3AA2AD4A50A93FC16AbC813DB7031CA3D0AE010A883CCE71009E18094E708720F61F8290E51137E45067ED96F65FCDB46118223C48DC2C5A0E846B83B15EEF13EB24A4B07AE39C1800951A25",
+          "codec": "aac",
+          "bitrate": 65,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fc4c247a-7f66-11e9-aa30-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:24:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9202ececa645f985f691",
+      "name": "MBC FM4U",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.imbc.com/",
+      "favicon": "http://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:39:51Z",
+      "streams": [
+        {
+          "id": "aws_54e7ea37ae2f0b6abf49",
+          "stationId": "awb_9202ececa645f985f691",
+          "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=65C1361543C331F45047852F36D12B4705053B35EA0B625432D058a7D6B63DE6D6a0D35E39C26543C03236D1A8b6017170391579C4F019DE8A123E69A311DC4E87F743035632272CDF00ED2EE405060091AFA5045AFE416AF8C89FC81C684F11888B1662481D985F59B7F54A01D79520",
+          "codec": "aac",
+          "bitrate": 65,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8f6a0b47-7be2-11e9-aa30-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:29:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b3b989633bd674445376",
+      "name": "MBC충북 FM4U",
+      "country": "KR",
+      "subdivision": "cheongju",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.mbccb.co.kr/rb/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:02:30Z",
+      "streams": [
+        {
+          "id": "aws_a33c8492a6c525d1fa30",
+          "stationId": "awb_b3b989633bd674445376",
+          "url": "http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "db7b598f-2428-4b7f-bae3-677091ab4648"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:34:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_837e4db6b3bff73b8a90",
+      "name": "MBC충북 표준FM",
+      "country": "KR",
+      "subdivision": "cheongju",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.mbccb.co.kr/rb/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:48:40Z",
+      "streams": [
+        {
+          "id": "aws_f789ad824a91371390fe",
+          "stationId": "awb_837e4db6b3bff73b8a90",
+          "url": "http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3a6cf532-d730-4b92-91bf-f3d5434a2159"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:20:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ca5ab6cac1a020e7ecf0",
+      "name": "OBS 라디오",
+      "country": "KR",
+      "subdivision": "Gyeonggi",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.obs.co.kr/radio/",
+      "favicon": "https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:01:02Z",
+      "streams": [
+        {
+          "id": "aws_00424f7cde97357bdf59",
+          "stationId": "awb_ca5ab6cac1a020e7ecf0",
+          "url": "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 144,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c60ab0ce-723c-43a9-85a4-ff544710f27f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:14:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_eb0da2a46b99b85e88e4",
+      "name": "Oldpop Cafe",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies",
+        "pop music",
+        "popular music"
+      ],
+      "homepage": "https://oldpopcafe.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:05:57Z",
+      "streams": [
+        {
+          "id": "aws_7d1685674537b6097078",
+          "stationId": "awb_eb0da2a46b99b85e88e4",
+          "url": "http://cast.oldpopcafe.net:7080/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "772b95cf-31e8-41f9-bad3-a2da08495e39"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:01:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_98acffd98c6810707043",
+      "name": "REPLAY NEWS - 한국어 5분마다 뉴스 라디오",
+      "country": "KR",
+      "subdivision": "incheon",
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "news"
+      ],
+      "homepage": "https://www.replaynews.net/",
+      "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-KO.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_969614003c16f9ed1cf1",
+          "stationId": "awb_98acffd98c6810707043",
+          "url": "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "6f6ea925-4bc3-4dbc-8990-7f48c6f24cb9",
+            "KR:replay-news-5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:30:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b9ed1e0f3da801482b69",
+      "name": "SBS Love FM",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "kpop"
+      ],
+      "homepage": "https://www.sbs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T04:34:41Z",
+      "streams": [
+        {
+          "id": "aws_9f351f43c0d8c407cfef",
+          "stationId": "awb_b9ed1e0f3da801482b69",
+          "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE3OTY4MTgsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiM2YwZDJjZWItZjg4Yy00MDliLWIyNzYtYTJiY2ZjZmRhODFkIiwiaWF0IjoxNzkxNzUzNjE4fQ.NlfelCwLjbOJqhRivgG5fg-rIMHAWyBTtdNbbVhZ78Y",
+          "codec": "aac",
+          "bitrate": 145,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e6bc48f7-7be2-11e9-aa30-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:37:12Z"
+        },
+        {
+          "id": "aws_094ffe105bbc01e823bb",
+          "stationId": "awb_b9ed1e0f3da801482b69",
+          "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE4NDk2MTgsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNTUzY2FhZjQtODA3NC00NTExLWE4MDQtZjM4OTA3NDgwMTM4IiwiaWF0IjoxNzkxODA2NDE4fQ.rWek2QgYl6xEoyFubveya_tc2iGiHcPxCmuxCeqULPE",
+          "codec": "aac",
+          "bitrate": 146,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0fc7173f-5106-4c47-9156-621124fb0803"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:17:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0909a0c16f3b9f3627da",
+      "name": "SBS Power FM",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.sbs.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:24:53Z",
+      "streams": [
+        {
+          "id": "aws_4b66c0012b61eba56793",
+          "stationId": "awb_0909a0c16f3b9f3627da",
+          "url": "https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE4MTM2MTAsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjFiOTNjMzMwLTY5NjMtNGM1ZC1iYTZiLTgzYzViMWZiYjczYSIsImlhdCI6MTc5MTc3MDQxMH0.n0XVSAodP4LM7Q5dyoDV3LFmtKofu2MT2EF-hd5iR7U",
+          "codec": "aac",
+          "bitrate": 146,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1cc29b79-7be3-11e9-aa30-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:02:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6597b99699565fbe65e6",
+      "name": "SCN - Seongseo Community FM",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://scnfm.or.kr/",
+      "favicon": "https://cdn-images-3.listennotes.com/podcasts/scn-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-891mhz-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-NrySpdFHVJk-a9nswMfkelH.1400x1400.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:28:20Z",
+      "streams": [
+        {
+          "id": "aws_e5e7f0ae2022ad70e191",
+          "stationId": "awb_6597b99699565fbe65e6",
+          "url": "http://115.85.182.39/scnfm",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4edaf384-7c48-4852-a390-c879e2fc41aa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:59:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff7c5b61380feb9fa26f",
+      "name": "SoneFM (SuwonFM)",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://scnfm.or.kr/",
+      "favicon": "https://static-media.streema.com/media/cache/04/91/049137633fcae422618f5e45e770d603.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:38:37Z",
+      "streams": [
+        {
+          "id": "aws_a77351c6ac4d7fc1ec36",
+          "stationId": "awb_ff7c5b61380feb9fa26f",
+          "url": "http://115.85.182.39/sonefm",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7702bb1f-26bf-4df6-9209-5f10fb847058"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-01T05:59:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8b7be967236719a9c228",
+      "name": "Soshi-Subs",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "kpop"
+      ],
+      "homepage": "https://092007.xyz/",
+      "favicon": "https://092007.xyz/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-22T20:14:58Z",
+      "streams": [
+        {
+          "id": "aws_27553997509c61627406",
+          "stationId": "awb_8b7be967236719a9c228",
+          "url": "https://092007.xyz/radio/soshisubs",
+          "codec": "ogg",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "80e86ed2-df7c-4378-bda7-4ba5e5aae1bb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:12:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_aebf181a9b55d307d0f1",
+      "name": "TBN 울산교통방송",
+      "country": "KR",
+      "subdivision": "ulsan",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "traffic"
+      ],
+      "homepage": "https://tbn.or.kr/main.tbn?area_code=9",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:28:39Z",
+      "streams": [
+        {
+          "id": "aws_8ba3ddb6976cfa2349d3",
+          "stationId": "awb_aebf181a9b55d307d0f1",
+          "url": "http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 98,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6240924d-bc3a-4cd6-8e09-399dbdeb0a36"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:30:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6bfed8c9a990b089c96e",
+      "name": "TBS FM 95.1",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "full service"
+      ],
+      "homepage": "https://tbs.seoul.kr/fm/index.do",
+      "favicon": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-06T05:38:20Z",
+      "streams": [
+        {
+          "id": "aws_6591905186bcab320a85",
+          "stationId": "awb_6bfed8c9a990b089c96e",
+          "url": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8",
+          "codec": "aac",
+          "bitrate": 414,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6ad5927a-7ef7-456c-ad54-059873ff9f28"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:05:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e1af3fe8816fc9db778e",
+      "name": "WOWCCM",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "christian-gospel",
+        "musica cristiana"
+      ],
+      "homepage": "https://wowccm.net/",
+      "favicon": "https://wowccm.net/img/m_logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:42:51Z",
+      "streams": [
+        {
+          "id": "aws_ae095533f5e2b1d44518",
+          "stationId": "awb_e1af3fe8816fc9db778e",
+          "url": "http://wowccm.iptime.org:8000/stream/1/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1cedd673-4904-412b-aed2-6eca20cb2240"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:39:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4f85d6129dbdccbb4702",
+      "name": "YTN 라디오",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.ytn.co.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:11:54Z",
+      "streams": [
+        {
+          "id": "aws_9be07d226c6d73e1bc43",
+          "stationId": "awb_4f85d6129dbdccbb4702",
+          "url": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 137,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "10fbdfdd-2a6f-49fb-a035-8963c57f52e8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:45:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9dabcf98195bca4f6d54",
+      "name": "경인방송",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.ifm.kr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:07:59Z",
+      "streams": [
+        {
+          "id": "aws_8e36598e95f71512de11",
+          "stationId": "awb_9dabcf98195bca4f6d54",
+          "url": "https://stream.ifm.kr/live/aod1/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 125,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d9db0a16-9100-4917-b5f5-bd48a42a1e70"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:08:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_70fd627f3cca7ebd998d",
+      "name": "국방FM",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radio.dema.mil.kr/web/radio/main.do",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:22:11Z",
+      "streams": [
+        {
+          "id": "aws_97f7d7711b719b47893a",
+          "stationId": "awb_70fd627f3cca7ebd998d",
+          "url": "https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3df9fa02-ae92-4423-8f01-e007129c00ee"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:09:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_539344c0ae6a332a022d",
+      "name": "마포FM",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "homepage": "https://mapofm.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:07:32Z",
+      "streams": [
+        {
+          "id": "aws_ac92112d8e43e0facdcb",
+          "stationId": "awb_539344c0ae6a332a022d",
+          "url": "http://115.85.182.39/mapofm?type=.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "875ed109-2dd2-47e4-b9b3-3fd10ca3d8ba"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:26:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_69702446fdae41299b77",
+      "name": "안동MBC AM",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "homepage": "http://www.andongmbc.co.kr/main/index.php",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:26:15Z",
+      "streams": [
+        {
+          "id": "aws_6fd1df1ab3ee51d9432d",
+          "stationId": "awb_69702446fdae41299b77",
+          "url": "http://andong.webcasting.co.kr:1935/live/amlive/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 36,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1814c6bf-528b-446d-8f40-f5261a2b3b7b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:59:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4618243cccfc2c594b6a",
+      "name": "안동MBC FM4U",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "pop",
+        "anime"
+      ],
+      "tags": [
+        "k-pop",
+        "music",
+        "pop"
+      ],
+      "homepage": "https://andongmbc.co.kr/main/radio/radio.php",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:50:50Z",
+      "streams": [
+        {
+          "id": "aws_f93ab2626289cbeb6836",
+          "stationId": "awb_4618243cccfc2c594b6a",
+          "url": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 36,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b2b7599e-16b9-4225-9ffa-263b0cb541a6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:30:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_60d334349ffd9318f9c5",
+      "name": "올드팝카페",
+      "country": "KR",
+      "subdivision": "Seoul",
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies",
+        "oldies 50's/60's",
+        "pop music",
+        "popular music"
+      ],
+      "homepage": "https://oldpopcafe.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:20:39Z",
+      "streams": [
+        {
+          "id": "aws_f2e9eede2f068883aa92",
+          "stationId": "awb_60d334349ffd9318f9c5",
+          "url": "http://cast.oldpopcafe.net:7080/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "31675cc2-9b83-48bf-89f0-f3f9ecf3c201"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:05:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_14de262831970505c6bf",
+      "name": "평양FM",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "105.2",
+        "105.2 fm",
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.behindthecurtain-northkorea.com/audio-pyongyangfm",
+      "favicon": "https://www.behindthecurtain-northkorea.com/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_c425a64fa1553b29738e",
+          "stationId": "awb_14de262831970505c6bf",
+          "url": "https://listen7.myradio24.com/69366",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "KR:fm",
+            "ba90ebe7-18a1-4014-b6a8-e7a8212e4e36"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:10:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a4031ed268ccfe2a8e6c",
+      "name": "하늘호수24",
+      "country": "KR",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "entertainment"
+      ],
+      "homepage": "https://me.sayclub.com/bdcst/bdcst-home?bdcstDomainId=24sky",
+      "favicon": "https://sky24.inlive.co.kr/images/9.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-08T14:05:29Z",
+      "streams": [
+        {
+          "id": "aws_acb259c261efe021d45e",
+          "stationId": "awb_a4031ed268ccfe2a8e6c",
+          "url": "https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8",
+          "codec": "aac",
+          "bitrate": 125,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "656c6a0b-f0a8-4c8f-a0ef-97c72d130eef"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:43:04Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_644f08268593ea5d9cd5",
+      "name": "HIT FM K-Pop Hits",
+      "country": "MD",
+      "subdivision": null,
+      "languages": [
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "k-pop"
+      ],
+      "homepage": "https://hitfm.md/",
+      "favicon": "https://hitfm.md/favicon.png?v=2",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_6991133cdfe33c1204d0",
+          "stationId": "awb_644f08268593ea5d9cd5",
+          "url": "https://radio3.dixi.md/listen/kpop_hits/kpop_hits.aac",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "168b79d5-be7b-436f-b144-759696655d6d",
+            "MD:hit-fm-k-pop-hits"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:21:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a1c78466df1ad4076710",
+      "name": "Vibe Radio",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ko"
+      ],
+      "categories": [
+        "pop",
+        "hip-hop",
+        "anime"
+      ],
+      "tags": [
+        "hiphop",
+        "kpop",
+        "love song",
+        "new",
+        "opm",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://play.google.com/store/apps/details?id=com.lacolinares.ragemusicph",
+      "favicon": "https://cdn.onlineradiobox.com/img/l/8/105228.v8.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:03:43Z",
+      "streams": [
+        {
+          "id": "aws_f6e950cd41c34699854e",
+          "stationId": "awb_a1c78466df1ad4076710",
+          "url": "https://stream.zeno.fm/zf0ac4raqy8uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d9a20ab2-1f10-4555-a657-4739a3c4273f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-01T10:13:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e5ab46e1e8fa116bd46e",
+      "name": "RMF K-Pop",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "ko",
+        "pl"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "k-pop"
+      ],
+      "homepage": "https://www.rmfon.pl/stacja/k-pop",
+      "favicon": "https://static.rmf.pl/portal/stations/covers/rmf-gamemusic/20251008132246_rmf-gamemusic_600.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-18T00:55:27Z",
+      "streams": [
+        {
+          "id": "aws_06812c40c6bb545d21b3",
+          "stationId": "awb_e5ab46e1e8fa116bd46e",
+          "url": "https://rs8-krk2-cyfronet.rmfstream.pl/GAMEMUSIC",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "88562f33-3bed-40b5-8106-0cfb42294d19"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:19:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_37b7f96fcdfaaf91c492",
+      "name": "Europa Plus K-Pop",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ko",
+        "ru"
+      ],
+      "categories": [
+        "pop",
+        "electronic",
+        "anime"
+      ],
+      "tags": [
+        "electronic",
+        "hits",
+        "k-pop"
+      ],
+      "homepage": "https://www.europaplus.ru/",
+      "favicon": "http://liveam.tv/img/2494.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-04-08T11:53:29Z",
+      "streams": [
+        {
+          "id": "aws_7c7af8a2f893c697405a",
+          "stationId": "awb_37b7f96fcdfaaf91c492",
+          "url": "https://hls-01-europaplus-kpop.emgsound.ru/europaplus-kpop/112/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 116,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5144690c-8201-4394-83a4-06243ee848c3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:55:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_59c6683aa51b891953bd",
+      "name": "Teyvat Radio (Genshin Impact)",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://170.168.112.96:8000/",
+      "favicon": "http://170.168.112.96:8000/branding/logo",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-19T14:24:34Z",
+      "streams": [
+        {
+          "id": "aws_25a5d2c9072aee8da0d1",
+          "stationId": "awb_59c6683aa51b891953bd",
+          "url": "http://170.168.112.96:8000/live-mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f102b32-6949-45a3-9e68-d26d84dc873b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:20:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_110c025bdb4f2c4e410e",
+      "name": "Supreme Master TV",
+      "country": "TW",
+      "subdivision": "Taipei",
+      "languages": [
+        "ar",
+        "cmn",
+        "en",
+        "es",
+        "hi",
+        "ko",
+        "ru",
+        "th",
+        "vi",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "animal",
+        "art",
+        "culture",
+        "education",
+        "entertainment",
+        "environment",
+        "health",
+        "international",
+        "spiritual",
+        "worldpeace"
+      ],
+      "homepage": "https://suprememastertv.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_0cd4e0c9b6b169b1f395",
+          "stationId": "awb_110c025bdb4f2c4e410e",
+          "url": "https://radio.suprememastertv.com/128K",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "56f14e5f-1234-42a9-946b-1ab9e7c06794",
+            "TW:supreme-master-tv"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:39:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ab767e157ed38d26d847",
+      "name": "BBN Korean",
+      "country": "US",
+      "subdivision": "North Carolina",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [
+        "online christian radio"
+      ],
+      "homepage": "https://bbn1.bbnradio.org/korean/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:22:41Z",
+      "streams": [
+        {
+          "id": "aws_c6c12d44c24780614e64",
+          "stationId": "awb_ab767e157ed38d26d847",
+          "url": "https://streams.radiomast.io/678de728-1691-4eb7-bf37-057bcc9b12f5",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "94610aa9-d280-4fe4-b225-5297e62ac92d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:52:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5d522e43f7e0dfdf6774",
+      "name": "Big B Radio - Asian pop",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "ja",
+        "ko",
+        "zh"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "music",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://bigbradio.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:01:33Z",
+      "streams": [
+        {
+          "id": "aws_db1cfac07ff4bf585c84",
+          "stationId": "awb_5d522e43f7e0dfdf6774",
+          "url": "https://antares.dribbcast.com/proxy/apop?mp=/s?",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5a7b01dc-23b1-4d9d-9a04-9476682e3b4f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:35:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_83fd63d6c28b6489aca6",
+      "name": "Culture Failure",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "ja",
+        "ko",
+        "zh"
+      ],
+      "categories": [
+        "electronic",
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "electronic",
+        "minimal",
+        "noise"
+      ],
+      "homepage": "https://culturefailure.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:32:04Z",
+      "streams": [
+        {
+          "id": "aws_31bcd34eaf642059d7c6",
+          "stationId": "awb_83fd63d6c28b6489aca6",
+          "url": "http://culturefailure.com:8000/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7be6c8fb-2c5c-477d-b503-5d650fc8a3a7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:15:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0db032621d410eef7d85",
+      "name": "OnlyHit K-Pop",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ko"
+      ],
+      "categories": [
+        "pop",
+        "anime"
+      ],
+      "tags": [
+        "hits",
+        "k-pop",
+        "korean",
+        "korean music",
+        "korean pop",
+        "kpop"
+      ],
+      "homepage": "https://onlyhit.us/",
+      "favicon": "https://kpop.onlyhit.us/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:56:33Z",
+      "streams": [
+        {
+          "id": "aws_88e9bdc98affe542e3f1",
+          "stationId": "awb_0db032621d410eef7d85",
+          "url": "https://kpop.onlyhit.us/play",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2e53ff8e-1d21-4e04-b0e9-f68257c4e7e9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:22:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_84fdf4c2ca16e26f1218",
+      "name": "WHRW Binghamton 90.5 FM",
+      "country": "US",
+      "subdivision": "New York",
+      "languages": [
+        "en",
+        "es",
+        "ko",
+        "zh"
+      ],
+      "categories": [
+        "jazz",
+        "classical",
+        "hip-hop",
+        "folk",
+        "punk"
+      ],
+      "tags": [
+        "classical",
+        "experimental",
+        "folk",
+        "hip-hop",
+        "jazz",
+        "moe loogham",
+        "public affairs",
+        "punk",
+        "space",
+        "trivia"
+      ],
+      "homepage": "https://whrw.fm/",
+      "favicon": "https://whrw.fm/wp-content/uploads/2019/09/WHRW_logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:45:25Z",
+      "streams": [
+        {
+          "id": "aws_61bae04b6853a09d5f07",
+          "stationId": "awb_84fdf4c2ca16e26f1218",
+          "url": "http://stream.whrwfm.org/new",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2e151b7e-5b8d-4a12-b901-c21890113e99"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:19:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4a3f4b708e75bfb51c33",
+      "name": "Yggdrasil Radio",
+      "country": "US",
+      "subdivision": "Minnesota",
+      "languages": [
+        "en",
+        "ja",
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "anime",
+        "jpop",
+        "jrock",
+        "kpop"
+      ],
+      "homepage": "https://yggdrasilradio.com/",
+      "favicon": "https://yggdrasilradio.com/images/default-album-art.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-06-06T15:43:16Z",
+      "streams": [
+        {
+          "id": "aws_ce611b401335bd2c1594",
+          "stationId": "awb_4a3f4b708e75bfb51c33",
+          "url": "http://radio.shirayuki.org:9200/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "22979789-2910-4f02-a352-d0b50072c0e6",
+            "5913dff7-5048-42aa-a264-f655c190ebb9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:39:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bce7ef88296d3ea02b2d",
+      "name": "라디오한국 Radio Hankook KSUH 1450 AM KWYZ 1230 AM",
+      "country": "US",
+      "subdivision": "Washington",
+      "languages": [
+        "ko"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.radiohankook.com/",
+      "favicon": "https://static-media.streema.com/media/cache/ed/eb/edeb84ad0e80ad294f1b0e397ce2849b.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:55:39Z",
+      "streams": [
+        {
+          "id": "aws_800be06799d3d2f5ab65",
+          "stationId": "awb_bce7ef88296d3ea02b2d",
+          "url": "http://50.222.186.230:8080/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "67a42dc7-b4b2-40b8-9142-aabb2305d96f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:18:48Z"
+        }
+      ]
+    }
+  ]
+}

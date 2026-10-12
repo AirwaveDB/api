@@ -1,0 +1,45 @@
+{
+  "code": "afr",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_573a4c9fb4e8e13b4994",
+      "name": "Kudu FM",
+      "country": "ZA",
+      "subdivision": "Western Cape",
+      "languages": [
+        "af",
+        "afr"
+      ],
+      "categories": [],
+      "tags": [
+        "afrikaans",
+        "music"
+      ],
+      "homepage": "https://kudu.fm/",
+      "favicon": "https://kudu.fm/images/kudu-og-square.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-10T12:49:47Z",
+      "streams": [
+        {
+          "id": "aws_3f0850bc7cf6822798b9",
+          "stationId": "awb_573a4c9fb4e8e13b4994",
+          "url": "https://kudu.fm/hls/radio.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "93c527ac-4897-4395-8e18-35601f6f6b48"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:37:45Z"
+        }
+      ]
+    }
+  ]
+}

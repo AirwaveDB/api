@@ -1,0 +1,937 @@
+{
+  "code": "sq",
+  "stationCount": 23,
+  "stations": [
+    {
+      "id": "awb_46d87b6fa69f26b2b1ce",
+      "name": "Albania 360 Radio",
+      "country": "AL",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "it",
+        "sq"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "albania",
+        "culture",
+        "local talk",
+        "music",
+        "news"
+      ],
+      "homepage": "https://albania360.net/",
+      "favicon": "https://albania360.net/wp-content/uploads/2026/07/Logo-albania360.png",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_883cca3f8330e3cf87f8",
+          "stationId": "awb_46d87b6fa69f26b2b1ce",
+          "url": "https://radio.albania360.net/listen/albania_360_radio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "169816a6-bfd1-4843-9b38-4e7aa8db96e5",
+            "6a124d44-484c-4324-a5d3-76722bc3eb19",
+            "AL:albania-360-radio",
+            "dce1275f-7c1b-4b34-b56b-e710e19a9259"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:22:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cd9d4c87bb94e4405c36",
+      "name": "Albania News 24 TV",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.balkanweb.com/",
+      "favicon": "https://www.balkanweb.com/icon//apple-touch-icon-120x120.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:56:10Z",
+      "streams": [
+        {
+          "id": "aws_74a56a64aff68f6920a2",
+          "stationId": "awb_cd9d4c87bb94e4405c36",
+          "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+          "codec": "aac,h.264",
+          "bitrate": 739,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4a75dd5d-f636-11e8-a471-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:54:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_48f3a0844bbefb0ea24e",
+      "name": "Albanian Baby Radio",
+      "country": "AL",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "tags": [
+        "children",
+        "music"
+      ],
+      "homepage": "https://zeno.fm/radio/albanian-baby-radio/",
+      "favicon": "https://zeno.fm/_ipx/q_85&fit_cover&s_288x288/https://images.zeno.fm/MQ1s1nBeqNgtvN5wlvewLIHrnwQMT5rbIKI59Qm82-c/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F4ZnJZa3dzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1ExYV9NbkFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTcxMTc4NDAwMA.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:53:33Z",
+      "streams": [
+        {
+          "id": "aws_7512180dd194003852e4",
+          "stationId": "awb_48f3a0844bbefb0ea24e",
+          "url": "https://stream.zeno.fm/d6v0xkba04zuv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7b3dc0e8-5aa2-43bb-8f0d-8a7e5f8c6597"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:11:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_21611e42b53064a4cf58",
+      "name": "Best Pro Electronic",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "en",
+        "sq"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "electronic",
+        "tech house",
+        "techno"
+      ],
+      "homepage": "https://bestproradio.com/",
+      "favicon": "https://bestproradio.com/wp-content/uploads/2021/05/cropped-bpr-bmp-180x180.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_2fe8a0b5573f0805653b",
+          "stationId": "awb_21611e42b53064a4cf58",
+          "url": "https://az1.sednastream.com/radio/8150/Live?1582297952",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "AL:best-pro-electronic",
+            "d074385f-1061-486d-95ab-aeaa51b7778d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:36:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d505c2cb4c2056341d78",
+      "name": "Nest Radio",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "albanian",
+        "dance",
+        "hits",
+        "international",
+        "pop"
+      ],
+      "homepage": "https://radio.nestnews.al/",
+      "favicon": "https://radio.nestnews.al/assets/nest-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-01T09:16:34Z",
+      "streams": [
+        {
+          "id": "aws_169919d2f547b8aea719",
+          "stationId": "awb_d505c2cb4c2056341d78",
+          "url": "https://radio.nestnews.al/listen/nest-radio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f9a5c912-b3e0-4c11-92c2-fd8b136543d3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:13:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cabf37a6c90ebe1cc5c8",
+      "name": "Pendimi Kanali 2",
+      "country": "AL",
+      "subdivision": "Yerel",
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "islamic، classical"
+      ],
+      "homepage": "https://www.rtvpendimi.com/",
+      "favicon": "https://www.rtvpendimi.com/wp-content/uploads/2025/01/cropped-RTV-Pendimi-1.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_d90a1f309f730be72fe6",
+          "stationId": "awb_cabf37a6c90ebe1cc5c8",
+          "url": "https://www.rtvpendimi.com:8020/stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "AL:pendimi-kanali-2",
+            "b70ed344-6abc-4418-826b-5e8c502fc506"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:01:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_225544267bbc61c4ede4",
+      "name": "Radio Aksa",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "balkan",
+        "classic hits pop rock",
+        "contemporary hits radio",
+        "hits",
+        "pop music"
+      ],
+      "homepage": "https://xat.com/radioaksa",
+      "favicon": "https://u.cubeupload.com/meggi/image1778700354937.jpeg",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-06-10T07:53:37Z",
+      "streams": [
+        {
+          "id": "aws_04cbde965c24e5ff1f52",
+          "stationId": "awb_225544267bbc61c4ede4",
+          "url": "https://fire.doscast.com:8064/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "53e22c4d-f363-4067-95a6-40995b24c7e6",
+            "5b656aef-076e-4c43-b473-7b73aac61756",
+            "9c1346b1-1c3d-4376-85c2-c6b547e4aab0",
+            "c5fa2e7d-288a-4ce1-82cd-fc9ac101d3a1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:02:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4808f80555c1b3d31278",
+      "name": "Radio burimi",
+      "country": "AL",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "folk"
+      ],
+      "tags": [
+        "albanian music",
+        "folk"
+      ],
+      "homepage": "https://zeno.fm/radio/Radio-Burimi/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:11:09Z",
+      "streams": [
+        {
+          "id": "aws_e69d48e873db35914add",
+          "stationId": "awb_4808f80555c1b3d31278",
+          "url": "https://stream-156.zeno.fm/vzp9uf0u3ehvv?zs=Jubk5XJHTEC2zFWm3mOTfA",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b0feabd-d3a5-4a4f-86ee-d2b4e13d8ca1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:32:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bd67c0e28abf4997e1d5",
+      "name": "RADIO MARIA ALBANIA",
+      "country": "AL",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "catholic",
+        "religion"
+      ],
+      "homepage": "https://www.radiomaria.al/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:44:56Z",
+      "streams": [
+        {
+          "id": "aws_d4ffe566cec9b4689789",
+          "stationId": "awb_bd67c0e28abf4997e1d5",
+          "url": "http://dreamsiteradiocp2.com:8028/stream",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3524ac56-5970-11e9-a622-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:15:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_72d12533f55261bd2041",
+      "name": "Radio Saranda",
+      "country": "AL",
+      "subdivision": null,
+      "languages": [
+        "el",
+        "en",
+        "sq"
+      ],
+      "categories": [
+        "pop",
+        "electronic"
+      ],
+      "tags": [
+        "electronic",
+        "pop",
+        "traditional"
+      ],
+      "homepage": "https://radio.saranda.love/",
+      "favicon": "https://radio.saranda.love/wp-content/uploads/2024/12/cropped-radiosaranda-icon-192x192.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_bc531dc5ae06141d8fe9",
+          "stationId": "awb_72d12533f55261bd2041",
+          "url": "https://s64.radiolize.com/radio/8050/radio.mp3",
+          "codec": "aac",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "709ba5b8-276c-461e-975f-1b48fd98a64a",
+            "9e73347a-aba1-41b1-b584-112677c6a65f",
+            "AL:radio-saranda"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:19:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_97dd33d1f36665de3561",
+      "name": "Radio Tirana 1",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "shqip"
+      ],
+      "homepage": "https://radio.rtsh.al/",
+      "favicon": "https://rtsh-radio.s3.eu-central-1.amazonaws.com/2020/11/12cc0403e4c6491b8ab4b6f6f8c18426.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:02:30Z",
+      "streams": [
+        {
+          "id": "aws_7640c088f067e9fd6f0c",
+          "stationId": "awb_97dd33d1f36665de3561",
+          "url": "http://79.106.48.2:8000/radiotirana1",
+          "codec": "mp3",
+          "bitrate": 170,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "654c01c2-d1a3-45dd-903e-b011e1e077b6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:13:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_293561a3cd691fb1e2bd",
+      "name": "Radio Tirana 2",
+      "country": "AL",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://rtsh.al/radio/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-07-23T13:14:25Z",
+      "streams": [
+        {
+          "id": "aws_5b9c743b29c17f673712",
+          "stationId": "awb_293561a3cd691fb1e2bd",
+          "url": "http://79.106.48.2:8000/radiotirana2",
+          "codec": "mp3",
+          "bitrate": 170,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a994c8b0-aaf3-4834-a145-4921b1cdd918"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:18:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ee82c064aaf7a19bf5c6",
+      "name": "RadioOne",
+      "country": "AL",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "it",
+        "sq"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "public radio"
+      ],
+      "homepage": "https://radioone.al/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_d5009d2199c1885b78fb",
+          "stationId": "awb_ee82c064aaf7a19bf5c6",
+          "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "26ff53d3-8f2f-4874-850f-3ae964e9712f",
+            "AL:radioone"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:20:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_461b5c678900dcfe1c2c",
+      "name": "WindowRadio.de",
+      "country": "AL",
+      "subdivision": "Shkodra",
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "albanian music"
+      ],
+      "homepage": "https://windowradio.de/",
+      "favicon": "https://drive.google.com/file/d/1JXtjD91h8RmszpQiCtSsIagMsekMsj6f/view?usp=drive_link",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_24dde499d51884d800a4",
+          "stationId": "awb_461b5c678900dcfe1c2c",
+          "url": "https://a8.asurahosting.com:8570/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "AL:windowradio-de",
+            "ea98467c-9c36-454b-9a95-7664c0e6fc34",
+            "f77f0dc9-2e7e-4d0f-9776-3c5f5adc86ee"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:26:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b70bf6b17f359a9a0630",
+      "name": "2TripleO - Sydney - 98.5 FM (AAC)",
+      "country": "AU",
+      "subdivision": "Sydney NSW",
+      "languages": [
+        "ar",
+        "hy",
+        "sq"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "multilingual"
+      ],
+      "homepage": "https://www.radio2tripleo.com.au/",
+      "favicon": "https://i.ibb.co/vsywPPQ/logo-scaled.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:19:21Z",
+      "streams": [
+        {
+          "id": "aws_a9a769310bb7b4abea9c",
+          "stationId": "awb_b70bf6b17f359a9a0630",
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2OOOAAC.aac",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cc6e1e72-69e8-4a20-ac48-131325a1ff4d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:48:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a43f0e0e872da1e57c98",
+      "name": "Radio BisedoShqip",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://bisedoshqip.de/radio/",
+      "favicon": "https://bisedoshqip.de/wp-content/uploads/2026/04/cropped-bisedo_logo_clean_500x500.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-09-27T08:35:07Z",
+      "streams": [
+        {
+          "id": "aws_b841bf8c88e694974949",
+          "stationId": "awb_a43f0e0e872da1e57c98",
+          "url": "https://radio.bisedoshqip.de/radio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "693a8f50-5064-4abf-a6a0-62db83a4e8e2",
+            "a2f60c79-a804-406a-9f26-16cf01e83697"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:47:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cbaece8e290fd58530bb",
+      "name": "92.1 Capital FM",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "92.1 capital fm",
+        "92.1 fm",
+        "capital fm",
+        "capital fm kosovo",
+        "kosova",
+        "kosove",
+        "kosovo",
+        "shqip"
+      ],
+      "homepage": "https://www.capital921.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:25:56Z",
+      "streams": [
+        {
+          "id": "aws_fc8234620d9abd8def55",
+          "stationId": "awb_cbaece8e290fd58530bb",
+          "url": "http://cfm.albaservers.com:8010/",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c79f7984-746a-11ea-b1cf-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:11:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cb258e9882c44cf0b8ba",
+      "name": "GlamRADIO",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://glamradio.fm/#/",
+      "favicon": "https://glamradio.fm/images/Cafe_1637571735_1637577445.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_28a17eee7c5711f87e89",
+          "stationId": "awb_cb258e9882c44cf0b8ba",
+          "url": "https://stream.glamradio.fm:8443/glamradio",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "566bc94b-25e1-4f46-b4df-826b212cf242",
+            "XK:glamradio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:56:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dcb1e94f46e4382bc67c",
+      "name": "Radio Kosova 1",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "kosova",
+        "kosovo",
+        "prishtine",
+        "pristina"
+      ],
+      "homepage": "http://www.rtklive.com/",
+      "favicon": "http://www.rtklive.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:00:57Z",
+      "streams": [
+        {
+          "id": "aws_9a2535ffc9c95b30fb14",
+          "stationId": "awb_dcb1e94f46e4382bc67c",
+          "url": "http://82.114.72.2:8088/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "29c5d450-576b-11ea-be63-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:13:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_09f62c1fe47d9a6d5124",
+      "name": "Radio Kosova 2",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq",
+        "sr"
+      ],
+      "categories": [],
+      "tags": [
+        "kosova",
+        "kosovo",
+        "prishtine",
+        "pristina"
+      ],
+      "homepage": "http://www.rtklive.com/",
+      "favicon": "http://www.rtklive.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:14:22Z",
+      "streams": [
+        {
+          "id": "aws_b393c4461bc1293b82ab",
+          "stationId": "awb_09f62c1fe47d9a6d5124",
+          "url": "http://82.114.72.2:8098/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6e4f26d9-576b-11ea-be63-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:28:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_863803d7f3b274882bad",
+      "name": "Radio Kosova E Lire",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "albanian music",
+        "shqip"
+      ],
+      "homepage": "https://www.radiokosovaelire.com/",
+      "favicon": "https://www.radiokosovaelire.com/wp-content/uploads/RKL_UCK-e1469806643318.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:23:20Z",
+      "streams": [
+        {
+          "id": "aws_8e5e58b0f88f71700f86",
+          "stationId": "awb_863803d7f3b274882bad",
+          "url": "http://quasar.shoutca.st:8018/",
+          "codec": "mp3",
+          "bitrate": 80,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "86d841af-e9d9-4917-9986-cae25a516087"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:18:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bfbf142d72b212be771c",
+      "name": "RTK Radio Kosova 1",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "pristina"
+      ],
+      "homepage": "http://www.rtklive.com/sq/livestream/radio/radio_kosova.html",
+      "favicon": "http://www.rtklive.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:32:39Z",
+      "streams": [
+        {
+          "id": "aws_2e34f01334b3eba09d6c",
+          "stationId": "awb_bfbf142d72b212be771c",
+          "url": "http://82.114.72.2:8088/;.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9637649a-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:10:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5cf80d84029af0f2c58d",
+      "name": "RTK Radio Kosova 2",
+      "country": "XK",
+      "subdivision": null,
+      "languages": [
+        "sq"
+      ],
+      "categories": [],
+      "tags": [
+        "pristina"
+      ],
+      "homepage": "http://www.rtklive.com/sq/index.php",
+      "favicon": "http://www.rtklive.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:59:16Z",
+      "streams": [
+        {
+          "id": "aws_942a828ea080abd78320",
+          "stationId": "awb_5cf80d84029af0f2c58d",
+          "url": "http://82.114.72.2:8098/;stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960e664f-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:55:37Z"
+        }
+      ]
+    }
+  ]
+}

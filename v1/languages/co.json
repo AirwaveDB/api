@@ -1,0 +1,47 @@
+{
+  "code": "co",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_4e46e32c6bcc86c78f8d",
+      "name": "Alta Frequenza",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "co"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "information",
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.alta-frequenza.corsica/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjqdS3RKdttFbP3MqwKww2ez9fLs7gLAzKD21bOqV61A&s=10",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-07T17:31:59Z",
+      "streams": [
+        {
+          "id": "aws_2a7ded102777cdda0845",
+          "stationId": "awb_4e46e32c6bcc86c78f8d",
+          "url": "https://altafrequenza.ice.infomaniak.ch/altafrequenza-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3664c748-7d47-4079-aa4f-21ea035b2931"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:04:27Z"
+        }
+      ]
+    }
+  ]
+}

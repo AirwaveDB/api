@@ -1,0 +1,864 @@
+{
+  "code": "be",
+  "stationCount": 19,
+  "stations": [
+    {
+      "id": "awb_bf59fea3f6ece0c7b009",
+      "name": "Legendy FM",
+      "country": "BY",
+      "subdivision": null,
+      "languages": [
+        "be",
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "top40"
+      ],
+      "homepage": "https://legendy.by/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:59:24Z",
+      "streams": [
+        {
+          "id": "aws_e47120f527d746a7893c",
+          "stationId": "awb_bf59fea3f6ece0c7b009",
+          "url": "http://live.legendy.by:8000/legendyfm",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f5bb3f02-df43-4067-b644-32feb40efb0a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:57:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_67b575dc9dedd10323f3",
+      "name": "Radio Alesia",
+      "country": "BY",
+      "subdivision": "belarus",
+      "languages": [
+        "be",
+        "pl",
+        "ru",
+        "uk"
+      ],
+      "categories": [
+        "rock",
+        "folk"
+      ],
+      "tags": [
+        "folk",
+        "folk music",
+        "folk rock",
+        "rock"
+      ],
+      "homepage": "https://alesia.live/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-28T13:22:31Z",
+      "streams": [
+        {
+          "id": "aws_c85b63686910e9914883",
+          "stationId": "awb_67b575dc9dedd10323f3",
+          "url": "http://hls.alesia.live/alesia/aac_hifi.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2ac6aada-0800-4fa6-99f3-d5f49fc5b601"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:35:00Z"
+        },
+        {
+          "id": "aws_bfb9f979e9935dc78c9c",
+          "stationId": "awb_67b575dc9dedd10323f3",
+          "url": "https://air.alesia.live/alesia",
+          "codec": "aac+",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f5d5039-5ecf-429a-ae2a-8c049ddfafb1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:22:00Z"
+        },
+        {
+          "id": "aws_a68c66e71a50b9e23d6a",
+          "stationId": "awb_67b575dc9dedd10323f3",
+          "url": "https://hls.alesia.live/alesia/aac_hifi.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "143b2790-3617-4f8f-a66c-c75c03068700"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:26:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2ee167c0b459c2942962",
+      "name": "Radio Unistar",
+      "country": "BY",
+      "subdivision": "Minsk",
+      "languages": [
+        "be",
+        "en",
+        "ru"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "rock",
+        "top 40"
+      ],
+      "homepage": "https://unistar.by/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-07-08T09:01:38Z",
+      "streams": [
+        {
+          "id": "aws_e34320b717a44aa7df35",
+          "stationId": "awb_2ee167c0b459c2942962",
+          "url": "https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "41363e63-9606-40cd-a52a-3689527ead6b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:14:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8cfa4622faabaa9c491c",
+      "name": "Еўрарадыё Alternative",
+      "country": "BY",
+      "subdivision": "Minsk",
+      "languages": [
+        "be"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "alternative",
+        "news",
+        "news talk",
+        "political talk",
+        "politics"
+      ],
+      "homepage": "https://euroradio.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:53:33Z",
+      "streams": [
+        {
+          "id": "aws_286bea9f3f73cc61d5d7",
+          "stationId": "awb_8cfa4622faabaa9c491c",
+          "url": "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "962e0fbe-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:54:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_397b25d08eaf89b66dfb",
+      "name": "Еўрарадыё BY",
+      "country": "BY",
+      "subdivision": "Minsk",
+      "languages": [
+        "be"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "news",
+        "news talk",
+        "political talk",
+        "politics"
+      ],
+      "homepage": "https://euroradio.fm/",
+      "favicon": "https://euroradio.fm/themes/custom/euroradio/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:01:40Z",
+      "streams": [
+        {
+          "id": "aws_9aec0e602157d578a211",
+          "stationId": "awb_397b25d08eaf89b66dfb",
+          "url": "http://stream1.euroradio.fm:8000/euroradio1",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "962df7f6-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:41:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_21743342f8c345fec6c5",
+      "name": "Новое радио",
+      "country": "BY",
+      "subdivision": null,
+      "languages": [
+        "be"
+      ],
+      "categories": [],
+      "tags": [
+        "newradio"
+      ],
+      "homepage": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:06:37Z",
+      "streams": [
+        {
+          "id": "aws_9602eb4087f868af282f",
+          "stationId": "awb_21743342f8c345fec6c5",
+          "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+          "codec": "aac+",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4fc00115-e4af-4cd3-9efa-a4bf2366b357"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:19:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_98cdb35fa102a1df634a",
+      "name": "Радио ROKS",
+      "country": "BY",
+      "subdivision": null,
+      "languages": [
+        "be",
+        "ru"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "rock",
+        "russian",
+        "shanson"
+      ],
+      "homepage": "https://roks.com/onlajn",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_31719099d9987ad4097d",
+          "stationId": "awb_98cdb35fa102a1df634a",
+          "url": "https://stream.roks.com:8443/live256",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "2ea50e80-ddb6-4122-beee-6e0b3cfb129a",
+            "BY:roks"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:26:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dddbb5ac57514b39eac7",
+      "name": "Радио Брест 104.8 Fm",
+      "country": "BY",
+      "subdivision": "Brest",
+      "languages": [
+        "be",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiobrestfm.by/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:12:35Z",
+      "streams": [
+        {
+          "id": "aws_428c590b8c5eab32a284",
+          "stationId": "awb_dddbb5ac57514b39eac7",
+          "url": "http://178.124.131.35:8012/trkbrest",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "961ac73d-771d-47bd-b3d1-413d69a2b892"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:47:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0e5de07da34f2d265a97",
+      "name": "Радыё Relax",
+      "country": "BY",
+      "subdivision": null,
+      "languages": [
+        "be"
+      ],
+      "categories": [],
+      "tags": [
+        "music",
+        "music non stop",
+        "relax"
+      ],
+      "homepage": "http://radiorelax.by/",
+      "favicon": "http://radiorelax.by//apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:25:25Z",
+      "streams": [
+        {
+          "id": "aws_5bb4c37fd68edc3f6f65",
+          "stationId": "awb_0e5de07da34f2d265a97",
+          "url": "http://live.humorfm.by:8000/radiorelax",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6ad3f6e9-eac9-11e9-a96c-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:03:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0a1abe7c6e1077404d28",
+      "name": "Радыё Рацыя",
+      "country": "BY",
+      "subdivision": "Minsk",
+      "languages": [
+        "be"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.racyja.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:30:27Z",
+      "streams": [
+        {
+          "id": "aws_c52a4fc2a7ae67568180",
+          "stationId": "awb_0a1abe7c6e1077404d28",
+          "url": "http://air.racyja.com:8000/racja128",
+          "codec": "aac+",
+          "bitrate": 160,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96195abc-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:42:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_69251759777aa92ab184",
+      "name": "Радыё Сталiца",
+      "country": "BY",
+      "subdivision": "Minsk",
+      "languages": [
+        "be",
+        "ru"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "hard rock",
+        "rock"
+      ],
+      "homepage": "https://www.prfm.ru/radio/radio-stalitsa.html",
+      "favicon": "https://www.prfm.ru/logo/radio-stalitsa-130.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_14c096e22f0abf9b8906",
+          "stationId": "awb_69251759777aa92ab184",
+          "url": "https://media2.datacenter.by/stream/stalica/stream",
+          "codec": "aac",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "BY:i",
+            "b78384bb-d173-47b4-9886-2d447759afdb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:52:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a0657d16b74729a852ff",
+      "name": "Intense Radio - We love Dance 256K",
+      "country": "NL",
+      "subdivision": "Burgenland",
+      "languages": [
+        "be",
+        "en",
+        "nl"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "clubhouse",
+        "dance",
+        "electronic",
+        "house",
+        "melodic",
+        "techno",
+        "trance"
+      ],
+      "homepage": "https://www.intenseradio.net/",
+      "favicon": "https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg",
+      "type": null,
+      "sourceCount": 13,
+      "updatedAt": "2026-09-01T06:40:20Z",
+      "streams": [
+        {
+          "id": "aws_d01af32307c06676fe1b",
+          "stationId": "awb_a0657d16b74729a852ff",
+          "url": "https://intenseradio.live-streams.nl:18000/main",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "NL:intense-radio-we-love-dance-256k"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-24"
+        },
+        {
+          "id": "aws_7b00974d654a03dc66fd",
+          "stationId": "awb_a0657d16b74729a852ff",
+          "url": "https://secure.live-streams.nl/main",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0f8861de-9f60-4e74-9e14-5c43810edac3",
+            "14256ab1-e984-4094-a7e5-403dd0824892",
+            "3917630b-ae9a-454a-bf8d-70e387c0c7c6",
+            "407f38c3-8b2e-4629-8b90-2e25f23b6d4f",
+            "7c52062a-e148-466e-98ec-5e12c6349b2c",
+            "7c6cbbde-af9f-4a9f-9c65-3ced7fc87ece",
+            "8a14dc42-aadf-404d-9341-4f7414ff730e",
+            "963c00ab-0601-11e8-ae97-52543be04c81",
+            "a3a6c390-1673-4ed5-b7d7-d0d532763a93",
+            "a7adb0c0-0a1a-4560-b275-d260f94aac25",
+            "af081eba-bed2-4813-8300-f8931c44d645",
+            "af6f51b1-0ca9-11ea-a87e-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:52:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7461af3c7d18ae68c257",
+      "name": "Białoruskie Radio Racja",
+      "country": "PL",
+      "subdivision": "Podlasie",
+      "languages": [
+        "be"
+      ],
+      "categories": [],
+      "tags": [
+        "belarus",
+        "belarusian news",
+        "music"
+      ],
+      "homepage": "https://www.racyja.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:44:37Z",
+      "streams": [
+        {
+          "id": "aws_26afa468ca71c7ebac82",
+          "stationId": "awb_7461af3c7d18ae68c257",
+          "url": "http://air.racyja.com:8000/racja320",
+          "codec": "aac+",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b94d0dfd-7f2b-45ec-9a5c-02d31e0436ab"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:10:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_61489b8e21d62ca703e1",
+      "name": "Radio Racja",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "be",
+        "pl"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.racyja.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:13:13Z",
+      "streams": [
+        {
+          "id": "aws_d7c0b2a9d9d59fd1989f",
+          "stationId": "awb_61489b8e21d62ca703e1",
+          "url": "http://air.racyja.com:8000/aacp128",
+          "codec": "aac+",
+          "bitrate": 160,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6881a0db-52fc-11ea-be63-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:12:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2d8c254f886f78981c94",
+      "name": "Club Hits 2000s",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "be",
+        "en",
+        "ru",
+        "uk"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "beachclub",
+        "club dance",
+        "club hits",
+        "club house",
+        "edm",
+        "electro",
+        "house",
+        "progressive house",
+        "progressive trance"
+      ],
+      "homepage": "https://www.lan.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-12T22:17:19Z",
+      "streams": [
+        {
+          "id": "aws_3c1f450641a77cf37e86",
+          "stationId": "awb_2d8c254f886f78981c94",
+          "url": "https://radio.retrolan.party:8000/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9850c239-fce3-4c0d-aa7e-b58592dd0d13"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-09-28T18:56:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ee6f950bfd392a55492f",
+      "name": "Radio Vaticana Belarus",
+      "country": "VA",
+      "subdivision": null,
+      "languages": [
+        "be",
+        "la"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "catholic",
+        "christian"
+      ],
+      "homepage": "https://www.vaticannews.va/be.html",
+      "favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_67733fcd744d02bcfcef",
+          "stationId": "awb_ee6f950bfd392a55492f",
+          "url": "https://radio.vaticannews.va/stream-be",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7b95100c-57d1-486b-bebf-c9457ea393c8",
+            "VA:radio-vaticana-belarus"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:47:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_84b3042aaf4c1a666d2e",
+      "name": "Dzed Bardaitis Radio",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [
+        "be",
+        "en",
+        "ru"
+      ],
+      "categories": [
+        "rock",
+        "electronic",
+        "metal"
+      ],
+      "tags": [
+        "electronica",
+        "industrial",
+        "metal",
+        "neofolk",
+        "rock"
+      ],
+      "homepage": "http://dzed-bardaitis.com/",
+      "favicon": "http://dzed-bardaitis.com/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:07:07Z",
+      "streams": [
+        {
+          "id": "aws_64773426edae628e4fac",
+          "stationId": "awb_84b3042aaf4c1a666d2e",
+          "url": "https://samcloud.spacial.com/api/listen?sid=113442&m=sc&rid=195031",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4297153c-4e5b-11ea-b877-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:18:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f7228a2c72b1794a4a6b",
+      "name": "Euroradio.FM",
+      "country": "ZZ",
+      "subdivision": "Belarus",
+      "languages": [
+        "be"
+      ],
+      "categories": [
+        "news",
+        "rock"
+      ],
+      "tags": [
+        "news",
+        "rock"
+      ],
+      "homepage": "https://euroradio.fm/",
+      "favicon": "https://euroradio.fm/themes/custom/euroradio/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:28:02Z",
+      "streams": [
+        {
+          "id": "aws_101ed82e51782de13745",
+          "stationId": "awb_f7228a2c72b1794a4a6b",
+          "url": "http://stream.euroradio.fm:8000/euroradio1",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4d676d0f-c986-11e9-8502-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:47:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5990aeaf6feeaba30b68",
+      "name": "Euroradio.FM - Толькi BY",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [
+        "be"
+      ],
+      "categories": [
+        "news",
+        "rock"
+      ],
+      "tags": [
+        "belarus",
+        "news",
+        "rock"
+      ],
+      "homepage": "https://euroradio.fm/",
+      "favicon": "https://euroradio.fm/themes/custom/euroradio/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:11:47Z",
+      "streams": [
+        {
+          "id": "aws_16c091eaa7301be3284d",
+          "stationId": "awb_5990aeaf6feeaba30b68",
+          "url": "http://stream.euroradio.fm:8000/euroradio5",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7d4085a8-c9a2-11e9-8502-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:23:12Z"
+        }
+      ]
+    }
+  ]
+}

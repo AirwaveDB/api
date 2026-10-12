@@ -1,0 +1,212 @@
+{
+  "code": "uz",
+  "stationCount": 5,
+  "stations": [
+    {
+      "id": "awb_618b34979cfcb845ecd7",
+      "name": "A'LO FM",
+      "country": "UZ",
+      "subdivision": null,
+      "languages": [
+        "uz"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://tabassum.uz/",
+      "favicon": "http://tabassum.uz/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:58:03Z",
+      "streams": [
+        {
+          "id": "aws_7f102f7a627b60389624",
+          "stationId": "awb_618b34979cfcb845ecd7",
+          "url": "http://tabassum.uz:9000/alo_low",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "962c9786-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:07:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_70af312343df8a089d3b",
+      "name": "Islom.uz",
+      "country": "UZ",
+      "subdivision": null,
+      "languages": [
+        "uz"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "islamic"
+      ],
+      "homepage": "https://islom.uz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:36:25Z",
+      "streams": [
+        {
+          "id": "aws_a42dec05adad2401a1b7",
+          "stationId": "awb_70af312343df8a089d3b",
+          "url": "https://radio.islom.uz/islomuz",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0f685f2b-32d5-4858-a05a-e3fa664dc992"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:30:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_15b81d471f3f8272f594",
+      "name": "Oriat FM",
+      "country": "UZ",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "uz"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "russian hits"
+      ],
+      "homepage": "http://www.oriatfm.uz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:05:08Z",
+      "streams": [
+        {
+          "id": "aws_5f97bf562205424390de",
+          "stationId": "awb_15b81d471f3f8272f594",
+          "url": "http://194.5.152.248:8000/fm",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b6b8719c-3a94-402e-b56e-901f6c2f4d87"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:56:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d6954574943933969515",
+      "name": "Qalbim navosi",
+      "country": "UZ",
+      "subdivision": null,
+      "languages": [
+        "uz"
+      ],
+      "categories": [],
+      "tags": [
+        "pop music"
+      ],
+      "homepage": "http://qalbimnavosi.uz/",
+      "favicon": "https://topradio.mobi/screen/1651641776_qalbim_navosi_tashkent_uzbekistan.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-30T06:47:14Z",
+      "streams": [
+        {
+          "id": "aws_304da152dd535386a8b1",
+          "stationId": "awb_d6954574943933969515",
+          "url": "http://213.230.109.7:9000/alo_low",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "91b14aa0-321e-4abc-9410-a40abb606330"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:02:19Z"
+        },
+        {
+          "id": "aws_72d46f735a895c80804b",
+          "stationId": "awb_d6954574943933969515",
+          "url": "http://live.qalbimnavosi.uz/qalbimnavosi",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ca301e89-3d37-4768-b436-f4a58fc44111"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:00:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9852b8e5ea68e61df3b0",
+      "name": "Yoshlar Ovozi",
+      "country": "UZ",
+      "subdivision": null,
+      "languages": [
+        "uz"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "http://muz.uz/",
+      "favicon": "http://muz.uz/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:20:51Z",
+      "streams": [
+        {
+          "id": "aws_1f7d4639c4fdf71324ab",
+          "stationId": "awb_9852b8e5ea68e61df3b0",
+          "url": "http://ns10.jethost.uz:8000/yoshlarovoziaac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "13d416ec-2884-427d-a0dc-056f7927ce02"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:14:55Z"
+        }
+      ]
+    }
+  ]
+}

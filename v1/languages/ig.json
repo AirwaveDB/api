@@ -1,0 +1,54 @@
+{
+  "code": "ig",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_5ea3a90e317b14893a1b",
+      "name": "1Radio International",
+      "country": "NG",
+      "subdivision": "Rivers",
+      "languages": [
+        "de",
+        "fr",
+        "ha",
+        "ig"
+      ],
+      "categories": [
+        "hip-hop"
+      ],
+      "tags": [
+        "entretenimiento",
+        "highlife",
+        "hip-hop",
+        "nigerian hip pop",
+        "reagge"
+      ],
+      "homepage": "https://1radio.ng/",
+      "favicon": "https://1radio.ng/assets/img/logo/favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_6f24fbda4c20bba73ef4",
+          "stationId": "awb_5ea3a90e317b14893a1b",
+          "url": "https://fm.imediaport.com/1radio",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "088c9ccb-aa90-4de1-a019-21a7cf40b039",
+            "NG:1radio-international"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:32:34Z"
+        }
+      ]
+    }
+  ]
+}

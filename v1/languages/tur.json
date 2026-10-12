@@ -1,0 +1,56 @@
+{
+  "code": "tur",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_3f8e98ec6522fc9203fb",
+      "name": "RadyoAura",
+      "country": "TR",
+      "subdivision": "Istanbul",
+      "languages": [
+        "tur"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "jazz"
+      ],
+      "tags": [
+        "ai",
+        "ai radio",
+        "istanbul",
+        "jazz",
+        "news",
+        "pop",
+        "turkish radio",
+        "t�rk�e"
+      ],
+      "homepage": "https://radiaura.net/radyoaura",
+      "favicon": "https://radiaura.net/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_7da2e7a4d1d07f1d7356",
+          "stationId": "awb_3f8e98ec6522fc9203fb",
+          "url": "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "TR:radyoaura",
+            "e68a6aea-3431-4f41-804f-dc7b0f9f0e8f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:06:22Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "code": "ty",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_2228c8052431e49cbb2b",
+      "name": "HITI FM",
+      "country": "PF",
+      "subdivision": null,
+      "languages": [
+        "fr",
+        "ty"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://hitifm.fr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:08:10Z",
+      "streams": [
+        {
+          "id": "aws_5c8fa2fe299ad3a56f07",
+          "stationId": "awb_2228c8052431e49cbb2b",
+          "url": "http://n0a.radiojar.com/u0yz7p0mb.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "97daf697-6aec-48cd-8aa0-d300ecc3885d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:05:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_40399169756d1ba8f164",
+      "name": "Radio Melod'iles",
+      "country": "PF",
+      "subdivision": null,
+      "languages": [
+        "fr",
+        "ty"
+      ],
+      "categories": [],
+      "tags": [
+        "local",
+        "tahitian"
+      ],
+      "homepage": "https://radiomelodiles.radiostream321.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-04T20:50:47Z",
+      "streams": [
+        {
+          "id": "aws_7a55f067df8619819656",
+          "stationId": "awb_40399169756d1ba8f164",
+          "url": "http://uk25freenew.listen2myradio.com:7545/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "796bfdf1-efcd-47ec-bd94-1c50bbfcba71"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-01T02:57:42Z"
+        }
+      ]
+    }
+  ]
+}

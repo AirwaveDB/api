@@ -1,0 +1,1265 @@
+{
+  "code": "te",
+  "stationCount": 31,
+  "stations": [
+    {
+      "id": "awb_b065d36804b9c05ecb56",
+      "name": "Live FM",
+      "country": "BH",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "ml",
+        "ta",
+        "te",
+        "ur"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.livefm.bh/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T04:26:23Z",
+      "streams": [
+        {
+          "id": "aws_5a4880bb74d014a19c99",
+          "stationId": "awb_b065d36804b9c05ecb56",
+          "url": "https://stream.aiir.com/dbv0rxpwp6ytv",
+          "codec": "aac",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "09cf6598-9899-4ff3-bb90-25bd517b7375",
+            "104dc6c9-bfe7-464b-bf4f-e485a921c109"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:26:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3611213331c6cf9ffcbe",
+      "name": "AIR Hyderabad A",
+      "country": "IN",
+      "subdivision": "hyderabad",
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "news talk"
+      ],
+      "homepage": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:47:13Z",
+      "streams": [
+        {
+          "id": "aws_8459a86a1302b5d06442",
+          "stationId": "awb_3611213331c6cf9ffcbe",
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 95,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "84338cd3-79a8-4da0-b454-b89ce588a89e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:50:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3652cb4b50c4656a089f",
+      "name": "Air radio",
+      "country": "IN",
+      "subdivision": "telangana and andhra pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "telugu"
+      ],
+      "homepage": "https://mintone.app/",
+      "favicon": "http://cast5.magicstreams.gr:8010/stream",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-09T19:19:45Z",
+      "streams": [
+        {
+          "id": "aws_dd9891a676cbd29cd0c5",
+          "stationId": "awb_3652cb4b50c4656a089f",
+          "url": "http://cast5.magicstreams.gr:8010/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e0c92d4d-2745-4cde-900a-67a96f1f9ebe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:16:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_06f93f4c56c4bd630e68",
+      "name": "Air telugu",
+      "country": "IN",
+      "subdivision": "telangana and andhra pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "telugu"
+      ],
+      "homepage": "https://mintone.app/",
+      "favicon": "https://stream-151.zeno.fm/7kbt507d3qzuv",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-09T19:37:55Z",
+      "streams": [
+        {
+          "id": "aws_d08221902dad632483b0",
+          "stationId": "awb_06f93f4c56c4bd630e68",
+          "url": "https://stream-151.zeno.fm/7kbt507d3qzuv",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "003e39e9-aee0-4941-951e-0b8441f647a6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:55:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_35c2bfc95632e6934a67",
+      "name": "airtelugu",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://radiosindia.com/images/air.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:49:38Z",
+      "streams": [
+        {
+          "id": "aws_866ad18e0afb9152e3d1",
+          "stationId": "awb_35c2bfc95632e6934a67",
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 95,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7907b276-d65a-46f5-bd3f-c04dadaef5ae"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:02:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9342e92738ff955a6694",
+      "name": "Akashvani Anantapur",
+      "country": "IN",
+      "subdivision": "Andhra Pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T07:25:52Z",
+      "streams": [
+        {
+          "id": "aws_a4264b45b409d89f342a",
+          "stationId": "awb_9342e92738ff955a6694",
+          "url": "https://radio.wavespb.com/live/3bcd83926d6c3cca/3bcd83926d6c3cca.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "499639a1-0f5c-4d15-ac16-ce62c96b1c0a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:53:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5419a738640f453bca51",
+      "name": "Akashvani Hyderabad",
+      "country": "IN",
+      "subdivision": "Telangana",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/hyderabad/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T06:19:41Z",
+      "streams": [
+        {
+          "id": "aws_28638625677ca363e957",
+          "stationId": "awb_5419a738640f453bca51",
+          "url": "https://radio.wavespb.com/live/1c701f7b70df2568/1c701f7b70df2568.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "32ee8080-f701-4f76-b8d2-baa4074436e0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:12:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f15620dbdf61fe89cbc1",
+      "name": "Akashvani Kothagudem",
+      "country": "IN",
+      "subdivision": "Telangana",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/hyderabad/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T01:10:16Z",
+      "streams": [
+        {
+          "id": "aws_9776ce37fc3aaac3136e",
+          "stationId": "awb_f15620dbdf61fe89cbc1",
+          "url": "https://radio.wavespb.com/live/8416764ec0889597/8416764ec0889597.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0bd31dcf-37aa-40bf-a553-f155dedb3fe1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:44:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c1e093f8431a798e2189",
+      "name": "Akashvani Markapur",
+      "country": "IN",
+      "subdivision": "Andhra Pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T04:46:32Z",
+      "streams": [
+        {
+          "id": "aws_cbf59da211e18cadeed1",
+          "stationId": "awb_c1e093f8431a798e2189",
+          "url": "https://radio.wavespb.com/live/b11784e3b37b7620/b11784e3b37b7620.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "25eb6ac3-62c3-427a-a9d6-d6fc6c2d21cb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:44:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_83ebe1c6768acbec6e92",
+      "name": "Akashvani Nizamabad",
+      "country": "IN",
+      "subdivision": "Telangana",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/hyderabad/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T07:04:52Z",
+      "streams": [
+        {
+          "id": "aws_1b8c24c2b459f19a8f7a",
+          "stationId": "awb_83ebe1c6768acbec6e92",
+          "url": "https://radio.wavespb.com/live/5d9989b5189a8f4a/5d9989b5189a8f4a.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1d4a8127-ab20-4064-97b7-364a950bf233"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:42:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bf319d03f4d75ec9921f",
+      "name": "Akashvani Tirupati",
+      "country": "IN",
+      "subdivision": "Andhra Pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T00:42:34Z",
+      "streams": [
+        {
+          "id": "aws_2c2eedb5e8d04322171e",
+          "stationId": "awb_bf319d03f4d75ec9921f",
+          "url": "https://radio.wavespb.com/live/1119aa26b4e9f653/1119aa26b4e9f653.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ca9e9a51-1639-46ec-852c-4ffad6b15e66"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:44:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_26efc90569461bd01447",
+      "name": "Akashvani Visakhapatnam",
+      "country": "IN",
+      "subdivision": "Andhra Pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T02:30:20Z",
+      "streams": [
+        {
+          "id": "aws_63063d077d7bcc28d227",
+          "stationId": "awb_26efc90569461bd01447",
+          "url": "https://radio.wavespb.com/live/8362d532bd498fd0/8362d532bd498fd0.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d48b22cc-999d-44cc-80c1-22aa1f665e96"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:41:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5d15e8e1066773220faa",
+      "name": "Akashvani Warangal",
+      "country": "IN",
+      "subdivision": "Telangana",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "news talk",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/hyderabad/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T03:17:40Z",
+      "streams": [
+        {
+          "id": "aws_f53ab0ee63c6c641ff93",
+          "stationId": "awb_5d15e8e1066773220faa",
+          "url": "https://radio.wavespb.com/live/deae7120a205bfff/deae7120a205bfff.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "17adf752-cde5-45f3-a803-7ce15a60f849"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:51:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_26d599b6a3bb27bd2743",
+      "name": "ap 9 FM",
+      "country": "IN",
+      "subdivision": "guntur",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://onlineradiofm.in/stations/ap-9-fm-telugu",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_27f1e5991a40ce3caf26",
+          "stationId": "awb_26d599b6a3bb27bd2743",
+          "url": "https://stream.ap9fm.in/radio/8000/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IN:ap-9-fm",
+            "b20ffe1c-edfa-4178-b4a8-268b5a5c13bf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:18:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e257747a97ccc0fd203a",
+      "name": "FM Rainbow Hyderabad",
+      "country": "IN",
+      "subdivision": "Telangana",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "fm rainbow",
+        "music",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/hyderabad/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T05:55:14Z",
+      "streams": [
+        {
+          "id": "aws_dee595ec735bf3854ff4",
+          "stationId": "awb_e257747a97ccc0fd203a",
+          "url": "https://radio.wavespb.com/live/3a02c5c035815bb9/3a02c5c035815bb9.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fef53827-b49b-4115-b2d9-259f8f9ff705"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:08:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1b03e808db76baa590e3",
+      "name": "FM Rainbow Vijayawada",
+      "country": "IN",
+      "subdivision": "Andhra Pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "fm rainbow",
+        "music",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+      "favicon": "https://airdco.pc.cdn.bitgravity.com/images/fmrainvijayawada.jpg",
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T01:52:14Z",
+      "streams": [
+        {
+          "id": "aws_eeb0580237abf3b55355",
+          "stationId": "awb_1b03e808db76baa590e3",
+          "url": "https://radio.wavespb.com/live/bad174fd7eac38d0/bad174fd7eac38d0.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "54389073-cd87-4a18-8a40-c502a2762dca"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:08:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_11e8848f96ea4d1a88b8",
+      "name": "FM Simhapuri Nellore",
+      "country": "IN",
+      "subdivision": "Andhra Pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "fm rainbow",
+        "music",
+        "public radio"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T01:24:12Z",
+      "streams": [
+        {
+          "id": "aws_2565c2058b3a7e1e0c52",
+          "stationId": "awb_11e8848f96ea4d1a88b8",
+          "url": "https://radio.wavespb.com/live/8bc9175bb717c13b/8bc9175bb717c13b.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a1ca3c43-6694-46e9-830c-aa3e6d9545ef"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:58:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ace4af2a9928dba8f35a",
+      "name": "Heartbeat FM",
+      "country": "IN",
+      "subdivision": "telangana and andhra pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "telugu"
+      ],
+      "homepage": "https://mintone.app/",
+      "favicon": "http://cast5.magicstreams.gr:8010/stream",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-09T19:13:52Z",
+      "streams": [
+        {
+          "id": "aws_afb0c9b1b2024963e90b",
+          "stationId": "awb_ace4af2a9928dba8f35a",
+          "url": "http://cast5.magicstreams.gr:8010/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "70aea588-52c3-45f0-aad4-530fb57249d3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:30:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_243c74407e362ced8988",
+      "name": "Heartbeat FM radio",
+      "country": "IN",
+      "subdivision": "telangana and andhra pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "telugu"
+      ],
+      "homepage": "https://mintone.app/",
+      "favicon": "http://cast5.magicstreams.gr:8010/stream",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-09T19:15:15Z",
+      "streams": [
+        {
+          "id": "aws_967c4f68299459a0693d",
+          "stationId": "awb_243c74407e362ced8988",
+          "url": "http://cast5.magicstreams.gr:8010/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4afc4fe4-28ce-46fd-a70a-8957dc0efc26"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:09:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d42f38813ec3754d0122",
+      "name": "Raagam AIR 24*7",
+      "country": "IN",
+      "subdivision": "National",
+      "languages": [
+        "hi",
+        "kn",
+        "ml",
+        "ta",
+        "te",
+        "ur"
+      ],
+      "categories": [],
+      "tags": [
+        "carnatic",
+        "hindustani"
+      ],
+      "homepage": "https://newsonair.com/live/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:11:46Z",
+      "streams": [
+        {
+          "id": "aws_02c6f5e9d98082f9b690",
+          "stationId": "awb_d42f38813ec3754d0122",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fdc1a164-b561-4288-b315-7e7362644d86"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:01:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_974b1e182c53ce12c078",
+      "name": "Radio sai",
+      "country": "IN",
+      "subdivision": "andhra pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://stream.radiosai.net:8000/",
+      "favicon": "http://stream.radiosai.net:8000/",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:09:14Z",
+      "streams": [
+        {
+          "id": "aws_e93e9fa55d80ab0b4fde",
+          "stationId": "awb_974b1e182c53ce12c078",
+          "url": "http://stream.radiosai.net:8000/",
+          "codec": "mp3",
+          "bitrate": 24,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4b7b4751-4ece-4895-b108-040a890e0b30"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:21:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_72acc3f89d42ce0ab88d",
+      "name": "Radio Sai - Telugu Stream",
+      "country": "IN",
+      "subdivision": "Andhra Pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "bhajan",
+        "devotional",
+        "discourse",
+        "hindu",
+        "spiritual",
+        "sri sathya sai",
+        "telugu"
+      ],
+      "homepage": "https://www.radiosai.org/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-06T07:48:27Z",
+      "streams": [
+        {
+          "id": "aws_4b92e0a5667603a8babd",
+          "stationId": "awb_72acc3f89d42ce0ab88d",
+          "url": "http://stream.radiosai.net:8020/",
+          "codec": "mp3",
+          "bitrate": 24,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f0fd4de8-46f2-44c6-aec9-1227f1366eaf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:06:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c72bfd630f3a4a83f86d",
+      "name": "Radio Sai (Discourse Stream)",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://archive.sssmediacentre.org/www/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:06:06Z",
+      "streams": [
+        {
+          "id": "aws_96f1ee7d8dda284dc961",
+          "stationId": "awb_c72bfd630f3a4a83f86d",
+          "url": "http://stream.radiosai.net:8008/",
+          "codec": "mp3",
+          "bitrate": 24,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "69b161ca-519f-4756-9772-b4a95f2bf06b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:44:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff27f5a5555204bf1757",
+      "name": "Shaiva Lahari",
+      "country": "IN",
+      "subdivision": "Karnataka",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "ml",
+        "sa",
+        "ta",
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "devotional",
+        "hindu",
+        "religion",
+        "spirituals"
+      ],
+      "homepage": "https://shaivam.org/radio-shaivalahari/#gsc.tab=0",
+      "favicon": "https://shaivam.org/images/shaivam-logo-2015.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-09-28T13:26:02Z",
+      "streams": [
+        {
+          "id": "aws_068e01003939a8600eac",
+          "stationId": "awb_ff27f5a5555204bf1757",
+          "url": "https://26343.live.streamtheworld.com/SP_R2925215_SC",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "da0c4636-963f-4e1e-bee0-236858201444"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:45:15Z"
+        },
+        {
+          "id": "aws_d89b6a8e8cd237df8e8c",
+          "stationId": "awb_ff27f5a5555204bf1757",
+          "url": "https://radio.shaivam.org/listen/shaiva-lahari/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "40c7733c-558c-498b-afa0-85262cbcc916",
+            "c31a923e-7677-4a80-bd4b-b33c1f4440c7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:30:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0f437fa2f14882518731",
+      "name": "SVBC TTD Radio",
+      "country": "IN",
+      "subdivision": "Andhra Pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "bhakti",
+        "devotional",
+        "hindu",
+        "svbc",
+        "tirumala",
+        "tirupati",
+        "ttd",
+        "venkateswara"
+      ],
+      "homepage": "http://www.svbcttd.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-06T07:15:54Z",
+      "streams": [
+        {
+          "id": "aws_c6bdfd265458c6a39121",
+          "stationId": "awb_0f437fa2f14882518731",
+          "url": "https://radio.mslivecdn.com:6278/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b2de2f21-3619-4add-8e14-235c5589fcc1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:24:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_80e7cf8b67bcf24aaf1c",
+      "name": "TORi Live Radio",
+      "country": "IN",
+      "subdivision": "Telangana",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "pop",
+        "country",
+        "ambient"
+      ],
+      "tags": [
+        "chill",
+        "country",
+        "hyderabad",
+        "romantic",
+        "top 40",
+        "worldbeat"
+      ],
+      "homepage": "http://www.teluguoneradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:27:48Z",
+      "streams": [
+        {
+          "id": "aws_f6458cbf32008098e593",
+          "stationId": "awb_80e7cf8b67bcf24aaf1c",
+          "url": "http://173.203.133.187:9700/;",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "eaf0b016-633a-11e9-a622-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:31:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_19149fa2a497bcbee48c",
+      "name": "TORi-Live-8000",
+      "country": "IN",
+      "subdivision": "andhra pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "country"
+      ],
+      "tags": [
+        "country",
+        "telugu"
+      ],
+      "homepage": "http://www.teluguoneradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:51:28Z",
+      "streams": [
+        {
+          "id": "aws_e2baeebbb81874e9d38e",
+          "stationId": "awb_19149fa2a497bcbee48c",
+          "url": "http://173.203.133.187:9700/;stream/1",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "964f8acd-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:50:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a5d03d46348d957c0d7e",
+      "name": "Universal Health Radio (తెలుగు)",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "cdc",
+        "education",
+        "fda",
+        "health",
+        "news",
+        "public health",
+        "telugu",
+        "who"
+      ],
+      "homepage": "https://universalhealthradio.org/",
+      "favicon": "https://universalhealthradio.org/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-12T00:53:22Z",
+      "streams": [
+        {
+          "id": "aws_788fade129fbe662d2bf",
+          "stationId": "awb_a5d03d46348d957c0d7e",
+          "url": "https://radio.universalhealthradio.org/uhr-te.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f09ea3fb-35a3-4683-9655-81bce09c8996"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:14:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f7845f7f73b21849141c",
+      "name": "VB Telugu Hyderabad",
+      "country": "IN",
+      "subdivision": "Telangana",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "public radio",
+        "vividh bharati"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/hyderabad/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T00:13:17Z",
+      "streams": [
+        {
+          "id": "aws_7cfac8249b93098116e0",
+          "stationId": "awb_f7845f7f73b21849141c",
+          "url": "https://radio.wavespb.com/live/89969ad91f106dde/89969ad91f106dde.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "585d5a8f-a080-44d0-8056-6305f7f7b857"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:21:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_de110af01012ef5baf89",
+      "name": "Vividh Bharati Telugu Vijayawada",
+      "country": "IN",
+      "subdivision": "Andhra Pradesh",
+      "languages": [
+        "te"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "public radio",
+        "vividh bharati"
+      ],
+      "homepage": "https://newsonair.gov.in/regional-units/vijayawada/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-22T00:00:24Z",
+      "streams": [
+        {
+          "id": "aws_b2f8fec5fe7787cc246e",
+          "stationId": "awb_de110af01012ef5baf89",
+          "url": "https://radio.wavespb.com/live/0beac8e921bbfdbb/0beac8e921bbfdbb.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4d0ffd4f-ad19-4f8a-8327-cd2ff889f5d3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:02:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_57fc32e77690270a928e",
+      "name": "Radiosai global Harmony",
+      "country": "ZZ",
+      "subdivision": "A.P.",
+      "languages": [
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "spiritual"
+      ],
+      "homepage": "http://media.radiosai.org/www/",
+      "favicon": "http://media.radiosai.org/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:27:18Z",
+      "streams": [
+        {
+          "id": "aws_ae324e0cc5e9b095724f",
+          "stationId": "awb_57fc32e77690270a928e",
+          "url": "http://stream.radiosai.net:8008/",
+          "codec": "mp3",
+          "bitrate": 24,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c3e2614c-40b7-11ea-a9fa-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:46:03Z"
+        }
+      ]
+    }
+  ]
+}

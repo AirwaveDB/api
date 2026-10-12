@@ -1,0 +1,339 @@
+{
+  "code": "br",
+  "stationCount": 8,
+  "stations": [
+    {
+      "id": "awb_f6587bef182fbdd59f34",
+      "name": "Arvorig FM",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "br"
+      ],
+      "categories": [],
+      "tags": [
+        "bretagne",
+        "breton",
+        "brittany"
+      ],
+      "homepage": "https://arvorigfm.bzh/",
+      "favicon": "https://arvorigfm.bzh/wp-content/uploads/2021/06/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-16T17:39:50Z",
+      "streams": [
+        {
+          "id": "aws_1b3aed0c41f47936d51a",
+          "stationId": "awb_f6587bef182fbdd59f34",
+          "url": "https://stream.radios.bzh/listen/arvorig/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7ca3cbaf-8980-46ed-9565-922bb5dd97e6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:03:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_92927a228867dc77ebbd",
+      "name": "Canal Breizh",
+      "country": "FR",
+      "subdivision": "Bretagne",
+      "languages": [
+        "br"
+      ],
+      "categories": [
+        "folk"
+      ],
+      "tags": [
+        "breton",
+        "folk"
+      ],
+      "homepage": "https://www.canalbreizh.bzh/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:09:44Z",
+      "streams": [
+        {
+          "id": "aws_ea36ccf0570d72301a82",
+          "stationId": "awb_92927a228867dc77ebbd",
+          "url": "http://cast.canalbreizh.bzh/canalbreizh-hd-mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cea656d7-88f9-431a-914e-70fb1b10af0f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:15:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c7b68aa781a18b97f6b1",
+      "name": "CanalBreizh",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "br"
+      ],
+      "categories": [],
+      "tags": [
+        "breizh"
+      ],
+      "homepage": "https://www.canalbreizh.bzh/",
+      "favicon": "https://www.canalbreizh.bzh/skins/webradio/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:48:53Z",
+      "streams": [
+        {
+          "id": "aws_45dbdd93ff6d8d140a02",
+          "stationId": "awb_c7b68aa781a18b97f6b1",
+          "url": "http://cast.canalbreizh.bzh/canalbreizh-hd-mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "295eb335-8a5d-4760-97e7-689bc01256a9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:35:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9beb420165fda76ca567",
+      "name": "La radio sous la cerise",
+      "country": "FR",
+      "subdivision": "Normandie",
+      "languages": [
+        "br",
+        "fr"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "tags": [
+        "kids",
+        "musiques des enfants"
+      ],
+      "homepage": "https://laradio.souslacerise.fr/radio/",
+      "favicon": "https://laradio.souslacerise.fr/wp-content/uploads/sites/10/2016/11/cropped-Picto-radio-sous-la-cerise-icone-270x270.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-03-30T15:32:12Z",
+      "streams": [
+        {
+          "id": "aws_d028840fb1e5577a1cf7",
+          "stationId": "awb_9beb420165fda76ca567",
+          "url": "https://laradio.souslacerise.fr/radio.m3u8",
+          "codec": "aac",
+          "bitrate": 46,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7e378609-8644-46e1-859a-e66cf32b5fe2",
+            "9c8f4b54-fb29-4971-966e-2d18b70d7229"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:57:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0e872a6e9489364f900d",
+      "name": "OceaneFM",
+      "country": "FR",
+      "subdivision": "Bretagne",
+      "languages": [
+        "br"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "rock",
+        "jazz"
+      ],
+      "tags": [
+        "breizh",
+        "bretagne",
+        "breton",
+        "jazz",
+        "local news",
+        "news",
+        "pop",
+        "pop rock",
+        "radio française",
+        "rock"
+      ],
+      "homepage": "https://oceane.ouest-france.fr/",
+      "favicon": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/filters:format(webp)/filters:quality(100)/radios/oceane/images/footerLogo_DreypbXRpp.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-05-20T15:05:19Z",
+      "streams": [
+        {
+          "id": "aws_1bdf326925f6ef146966",
+          "stationId": "awb_0e872a6e9489364f900d",
+          "url": "https://stream.rcs.revma.com/4q26yzaf0v3vv",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f6587bc-a053-4235-a69c-5e2d773cef6b",
+            "b36f0b5c-3abc-4cfa-9f24-b9c8d509b161"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:52:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff09a9a87f5e70814e7f",
+      "name": "Radio BOA",
+      "country": "FR",
+      "subdivision": "Bretagne",
+      "languages": [
+        "br",
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "breizh",
+        "bretagne",
+        "generalist",
+        "local music",
+        "local radio",
+        "music",
+        "radio associative"
+      ],
+      "homepage": "https://radio-boa.bzh/",
+      "favicon": "https://radio-boa.bzh/_ipx/f_webp&s_250x329/logo_white_vertical.svg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T08:42:10Z",
+      "streams": [
+        {
+          "id": "aws_efc8285f113a01fcf0db",
+          "stationId": "awb_ff09a9a87f5e70814e7f",
+          "url": "https://stream.radios.bzh/hls/boa/aac_hifi.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4e626fab-67d5-4e32-83dd-ef229ecd963c",
+            "c1323b51-ba5a-414c-aa6b-403250163523"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:34:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_63e3d4ce83e2bd92dc57",
+      "name": "Radio Naoned",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "br"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "breizh",
+        "breton",
+        "pop"
+      ],
+      "homepage": "https://radionaoned.bzh/",
+      "favicon": "https://media.radios.bzh/assets/6a08f275-e3da-419a-90f8-efbee23a07bc",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-09T20:23:57Z",
+      "streams": [
+        {
+          "id": "aws_2c2e8743a00ede70fb55",
+          "stationId": "awb_63e3d4ce83e2bd92dc57",
+          "url": "https://stream.radios.bzh/listen/naoned/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "50d3abf9-b14c-4ac5-83a4-2c0dad327930"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:13:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b28184bdfe102a729a8c",
+      "name": "RKB",
+      "country": "FR",
+      "subdivision": "Bretagne",
+      "languages": [
+        "br"
+      ],
+      "categories": [],
+      "tags": [
+        "radio communautaire"
+      ],
+      "homepage": "https://www.rkb.bzh/",
+      "favicon": "https://www.rkb.bzh/wp-content/uploads/2019/12/cropped-rkb_web-192x192.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:52:50Z",
+      "streams": [
+        {
+          "id": "aws_274da62dfbefe532ad4a",
+          "stationId": "awb_b28184bdfe102a729a8c",
+          "url": "https://stream.radios.bzh/listen/rkb/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "969fcde9-a592-40d9-a941-6228794ecd14"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:06:00Z"
+        }
+      ]
+    }
+  ]
+}

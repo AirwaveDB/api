@@ -1,0 +1,87 @@
+{
+  "code": "bi",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_c9fac2451b8c4155a967",
+      "name": "Femme Pawa FM",
+      "country": "VU",
+      "subdivision": "Port Vila, sef, Vanuatu",
+      "languages": [
+        "bi",
+        "en",
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "variety"
+      ],
+      "homepage": "https://vbtc.vu/radio",
+      "favicon": "https://vbtc.vu/wp-content/uploads/2025/01/femme-fm-FINAL-Logo_Trans.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_f324a2cf256f0c078d13",
+          "stationId": "awb_c9fac2451b8c4155a967",
+          "url": "https://radio.vbtc.vu/femmefm",
+          "codec": "mp3",
+          "bitrate": 90,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "VU:femme-pawa-fm",
+            "faf5374c-ce55-40ff-bc81-8c2c286bf8b8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:23:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e6386375b4a1e3e2a5de",
+      "name": "Paradise 98FM",
+      "country": "VU",
+      "subdivision": "Port Vila, sef, Vanuatu",
+      "languages": [
+        "bi",
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "variety"
+      ],
+      "homepage": "https://vbtc.vu/radio-2",
+      "favicon": "https://vbtc.vu/wp-content/uploads/2025/01/Paradise-FM-Logo.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_1e2ee063d2bcc23e8c51",
+          "stationId": "awb_e6386375b4a1e3e2a5de",
+          "url": "https://radio.vbtc.vu/paradisefm",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "VU:paradise-98fm",
+            "c5e9eb71-9b7d-44c0-9cdd-9a1c8a520a26"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:09:48Z"
+        }
+      ]
+    }
+  ]
+}

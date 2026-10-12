@@ -1,0 +1,43 @@
+{
+  "code": "ks",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_7a36bb9a756cdef8f5fb",
+      "name": "BIG 92.7 FM",
+      "country": "IN",
+      "subdivision": "Jammu and Kashmir",
+      "languages": [
+        "hi",
+        "ks",
+        "ur"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://bigfmindia.com/",
+      "favicon": "https://bigfmindia.com/wp-content/themes/big-fm/assets/images/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:11:09Z",
+      "streams": [
+        {
+          "id": "aws_254673b51d87c190c4ae",
+          "stationId": "awb_7a36bb9a756cdef8f5fb",
+          "url": "https://stream.zeno.fm/dbstwo3dvhhtv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3bf95cf7-69fd-4ae6-b30a-d833ab3ae77c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:44:35Z"
+        }
+      ]
+    }
+  ]
+}

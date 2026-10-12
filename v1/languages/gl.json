@@ -1,0 +1,862 @@
+{
+  "code": "gl",
+  "stationCount": 20,
+  "stations": [
+    {
+      "id": "awb_673b8720bf235a09c10f",
+      "name": "A Xente de Teo",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "gl"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "magazines",
+        "music"
+      ],
+      "homepage": "https://axentedeteo.gal/radio",
+      "favicon": null,
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:44:02Z",
+      "streams": [
+        {
+          "id": "aws_5f304f2aabe27ebe9db3",
+          "stationId": "awb_673b8720bf235a09c10f",
+          "url": "https://axentedeteo.ddns.net/radio/8000/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4349863c-f45c-4ac6-a1d3-78a3f25457a0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:45:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_144ccbec19e5a0b017ce",
+      "name": "Cadena SER Coruña",
+      "country": "ES",
+      "subdivision": "A Coruña",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "entertainment",
+        "local news",
+        "news"
+      ],
+      "homepage": "https://cadenaser.com/radio-coruna/",
+      "favicon": "https://cadenaser.com/pf/resources/img/favicon.png?d=946",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:04:28Z",
+      "streams": [
+        {
+          "id": "aws_b3f6310ce146562875e1",
+          "stationId": "awb_144ccbec19e5a0b017ce",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "92719b50-e730-4ffe-bdaf-d2104c973d02"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:22:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5ae210df669d00848a46",
+      "name": "Cadena SER Radio Ferrol",
+      "country": "ES",
+      "subdivision": "A Coruña",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "entertainment",
+        "local news",
+        "news"
+      ],
+      "homepage": "https://cadenaser.com/radio-ferrol/",
+      "favicon": "https://pbs.twimg.com/profile_images/1496458312312836100/Fz_ViW2N_400x400.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:31:41Z",
+      "streams": [
+        {
+          "id": "aws_b98a08c6bf3ac5485781",
+          "stationId": "awb_5ae210df669d00848a46",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_FERROL.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ccd0d96b-6d20-4381-b2a6-3205501e42e1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:21:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_123d82eb23670768be76",
+      "name": "Cadena Ser Radio Galicia",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://cadenaser.com/emisora/radio_galicia",
+      "favicon": "http://3.bp.blogspot.com/-6HQBwesyGkA/UsijZaOkLtI/AAAAAAAAJH8/N6qv-1OYkwA/s1600/Radio+Galicia.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:25:41Z",
+      "streams": [
+        {
+          "id": "aws_e2c7675b6053305fcbe8",
+          "stationId": "awb_123d82eb23670768be76",
+          "url": "http://23553.live.streamtheworld.com:3690/SER_GALICIA_SC",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638e3e8-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:23:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_15d8b1319ec6a8ab0417",
+      "name": "Cuac FM",
+      "country": "ES",
+      "subdivision": "A Coruña",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music",
+        "popular"
+      ],
+      "homepage": "https://streaming.cuacfm.org/",
+      "favicon": null,
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:20:35Z",
+      "streams": [
+        {
+          "id": "aws_8fe54e84f16d6f7882b4",
+          "stationId": "awb_15d8b1319ec6a8ab0417",
+          "url": "https://streaming.cuacfm.org/cuacfm-128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b23bb00-8002-408e-912e-51217ab64799"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:14:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_68990a1a9d4772b0136d",
+      "name": "CUAC FM (MP3)",
+      "country": "ES",
+      "subdivision": "A Coruña",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://cuacfm.org/",
+      "favicon": "https://cuacfm.org/wp-content/uploads/2015/04/favicon-cuacfm.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:32:04Z",
+      "streams": [
+        {
+          "id": "aws_313b1877e77cb82498ba",
+          "stationId": "awb_68990a1a9d4772b0136d",
+          "url": "https://streaming.cuacfm.org/cuacfm-128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "035dee5f-7b5e-4d10-8180-768c8db2e5ec"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:40:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_38e3534f75597a2d747c",
+      "name": "EME Radio fm",
+      "country": "ES",
+      "subdivision": "ESPAÑA",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "jazz"
+      ],
+      "tags": [
+        "jazz",
+        "pop",
+        "pop music",
+        "rock",
+        "tech house"
+      ],
+      "homepage": "https://emeradiofm.com/",
+      "favicon": "https://emeradiofm.com/wp-content/uploads/2020/12/cropped-EMEdia-logo-fondo-transparente-180x180.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:42:49Z",
+      "streams": [
+        {
+          "id": "aws_45829eb6fffac8f89cd4",
+          "stationId": "awb_38e3534f75597a2d747c",
+          "url": "https://streaming.enacast.com/emeradiofmHD.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "526808a6-5e95-4b91-936f-14f249ea55d6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:30:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7ffeaa8a5a85dceea5a9",
+      "name": "esRadio Galicia",
+      "country": "ES",
+      "subdivision": null,
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "news"
+      ],
+      "homepage": "https://esradio.libertaddigital.com/galicia/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:00:09Z",
+      "streams": [
+        {
+          "id": "aws_1a4574ac071a7d7594b0",
+          "stationId": "awb_7ffeaa8a5a85dceea5a9",
+          "url": "https://libertaddigital-radio-live2.flumotion.com/libertaddigital/ld-live2-low.mp3",
+          "codec": "mp3",
+          "bitrate": 56,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1bbcc38b-3bc3-4ba1-bddc-7e4b96a18e73"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:05:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_33f046a6c884427528b6",
+      "name": "Free FM Classics",
+      "country": "ES",
+      "subdivision": "Madrid",
+      "languages": [
+        "ca",
+        "es",
+        "eu",
+        "gl"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "clasicos",
+        "clasicos en ingles",
+        "classic hits",
+        "goldies",
+        "italian oldies",
+        "música pop",
+        "oldies",
+        "oldies 50's/60's",
+        "spanish"
+      ],
+      "homepage": "http://freefmradio.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:03:07Z",
+      "streams": [
+        {
+          "id": "aws_b86a39d7a54f6edbe86a",
+          "stationId": "awb_33f046a6c884427528b6",
+          "url": "https://xxdelgado.radioca.st/",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "37208137-157d-4fd3-93ca-d7de39539012"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:06:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4637b0a03ad709a1b476",
+      "name": "Pontevedra Viva",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "local news",
+        "pontevedra",
+        "talk"
+      ],
+      "homepage": "https://pontevedraviva.com/radio/",
+      "favicon": "https://www.pontevedraviva.com/uploads/static/pontevedraviva/dist/logos/apple-touch-icon-114x114.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:22:35Z",
+      "streams": [
+        {
+          "id": "aws_cbf10c935456b4214eb6",
+          "stationId": "awb_4637b0a03ad709a1b476",
+          "url": "https://server8.emitironline.com:9402/radio",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f34dd27-9141-472d-ac3c-9d1cc3f1c701"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:12:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fd81c2a61777ce1c2d17",
+      "name": "Radio FilispiM",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "music",
+        "spoken word"
+      ],
+      "homepage": "https://opaii.blogspot.com/",
+      "favicon": "https://4.bp.blogspot.com/-W4AMwZRgefQ/VsOGm_Cji8I/AAAAAAAAJnE/I1OC5UndR1Q/s1600-r/Cabeceira4.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_1030dee3c42f453fb620",
+          "stationId": "awb_fd81c2a61777ce1c2d17",
+          "url": "https://streaming.cuacfm.org/filispim.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "35b92fe1-ee81-46a6-bceb-1271b3fc22d3",
+            "8ab655f2-d710-4e66-a430-2dcd0187383e",
+            "ES:radio-filispim"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:36:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8ad02057bfcff4005d97",
+      "name": "Radio Galega Música",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "gl"
+      ],
+      "categories": [],
+      "tags": [
+        "galicia",
+        "galiza",
+        "music",
+        "musica"
+      ],
+      "homepage": "https://agalegaaudio.gal/videos/81609-rgmusica",
+      "favicon": "https://d1oldvcs710rcb.cloudfront.net/fly/65d34d426dcc48cd806b5d7cbf038e3b.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:07:34Z",
+      "streams": [
+        {
+          "id": "aws_536b49297df426be18e0",
+          "stationId": "awb_8ad02057bfcff4005d97",
+          "url": "https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e324d047-6ecf-43b9-aee5-b3afbbe361d2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:35:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3620627e37407079829c",
+      "name": "Radio Líder Santiago",
+      "country": "ES",
+      "subdivision": "Galiza",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "latin"
+      ],
+      "tags": [
+        "galicia",
+        "galiza",
+        "informaci´",
+        "latin",
+        "música"
+      ],
+      "homepage": "https://radiolidersantiago.com/",
+      "favicon": "https://www.cxradio.com.br/img/Radio/Logo/931d72949d13bf3d7499e1550371871a.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_585e9223267621f48926",
+          "stationId": "awb_3620627e37407079829c",
+          "url": "https://server8.emitironline.com:18520/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "00921db4-f999-4a35-974b-53e2de305999",
+            "ES:radio-lider-santiago"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:24:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_84597f690c456ac407fe",
+      "name": "Radio Linguas",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "gl",
+        "it",
+        "ja",
+        "pt",
+        "zh"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "educational",
+        "languages"
+      ],
+      "homepage": "https://radiolinguas.eu/",
+      "favicon": "https://radiolinguas.eu/wp-content/uploads/2024/03/radiolinguas.jpg",
+      "type": "community",
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T00:42:52Z",
+      "streams": [
+        {
+          "id": "aws_8d502c650e508497501d",
+          "stationId": "awb_84597f690c456ac407fe",
+          "url": "https://radiolinguas.eu:8001/radiolinguas",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0612d046-0c4c-43a3-b577-8362378caeb7",
+            "29076e22-cdb9-424c-882a-88f53827ed63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:01:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bdd6b2e8180b8368d15c",
+      "name": "Radio Linguas",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "gl",
+        "it",
+        "ja",
+        "pt",
+        "zh"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "educational",
+        "languages"
+      ],
+      "homepage": "https://www.podomatic.com/podcasts/radiolinguas-eoidevigo",
+      "favicon": "http://www.edu.xunta.gal/centros/eoivigo/?q=system/files/u4/radiolinguas_eoidevigo.jpg",
+      "type": "community",
+      "sourceCount": 2,
+      "updatedAt": "2026-01-14T23:53:14Z",
+      "streams": [
+        {
+          "id": "aws_5c7bd4b83a66e86b9d2c",
+          "stationId": "awb_bdd6b2e8180b8368d15c",
+          "url": "https://radiolinguas.eu:8001/radiolinguas",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b408a547-138d-41b7-9ab5-5c2f8e6d26a7",
+            "eecbb174-db4f-4bb1-95a2-96fc60312f84"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:13:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_304d7923cb0c430e0f7a",
+      "name": "Radio Voz (A Coruña)",
+      "country": "ES",
+      "subdivision": null,
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [],
+      "tags": [
+        "galicia",
+        "galiza",
+        "la voz de galicia",
+        "spain"
+      ],
+      "homepage": "http://www.radiovoz.com/",
+      "favicon": "http://www.radiovoz.com/img/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:11:46Z",
+      "streams": [
+        {
+          "id": "aws_71d185aa7b8e24b5aa83",
+          "stationId": "awb_304d7923cb0c430e0f7a",
+          "url": "https://live.radiovoz.es/mp3/stream_coruna.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5fc62f93-56f8-4df8-92b2-0bf285df6996"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:16:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dfa6b44ac829da605a85",
+      "name": "Radio Voz (Compostela)",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [],
+      "tags": [
+        "galicia",
+        "la voz de galicia",
+        "radio voz"
+      ],
+      "homepage": "https://radiovoz.com/",
+      "favicon": "http://www.radiovoz.com/img/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:23:17Z",
+      "streams": [
+        {
+          "id": "aws_360ea681838138ff012e",
+          "stationId": "awb_dfa6b44ac829da605a85",
+          "url": "https://live.radiovoz.es/mp3/stream_santiago.mp3?source=web&JSESSIONID=B2F48ECDF937FC52DF9C6620C5562234&station=7&dial=Santiago_de_Compostela",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5a4253f5-39b6-4e3c-8f7c-4187a8d974a1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:57:44Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2fd55ff591077e83b978",
+      "name": "RNE Radio 1 Galicia",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "galicia",
+        "galiza",
+        "news",
+        "noticias",
+        "rne"
+      ],
+      "homepage": "https://www.rtve.es/play/audios/programa/rne_gal-live/3893549/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:32:05Z",
+      "streams": [
+        {
+          "id": "aws_07113cc50d3be2df8f09",
+          "stationId": "awb_2fd55ff591077e83b978",
+          "url": "https://dispatcher.rndfnk.com/crtve/rne1/gal/mp3/high",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ebce56b7-28a7-4b09-b1e0-61b975e17604"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:13:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_aba7b2e77303302b6992",
+      "name": "RNE Radio 5 Galicia",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "es",
+        "gl"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "galicia",
+        "galiza",
+        "news",
+        "noticias",
+        "rne"
+      ],
+      "homepage": "https://www.rtve.es/play/audios/programa/rne5_gal-live/3894729/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:14:02Z",
+      "streams": [
+        {
+          "id": "aws_53e9df664072ce899e3c",
+          "stationId": "awb_aba7b2e77303302b6992",
+          "url": "https://d131.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3?cid=01GEP53FAF08XXF9WHNDFYA8SJ&sid=3KaiOb8crvxXVX8EEvM78NldUSt&token=tk9aGC2huOWRGnvpt7FpD84Y6pG43C7VfSBojW2Mrh8&tvf=nYJQfR3W3RhkMTMxLnJuZGZuay5jb20",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "055fed0c-c3a9-4488-aa8a-c4eb3828629c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:49:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a3bad1b837b694162fd1",
+      "name": "SONS iradio",
+      "country": "ES",
+      "subdivision": "Galicia",
+      "languages": [
+        "gl"
+      ],
+      "categories": [],
+      "tags": [
+        "classical music",
+        "cultural reports",
+        "modern music",
+        "music"
+      ],
+      "homepage": "https://retrincos.gal/iradio/sons/live/",
+      "favicon": "https://ifactoria.net/images/web/iradio/sons-iradio.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-27T19:05:49Z",
+      "streams": [
+        {
+          "id": "aws_9bad2d52183e7a24e91c",
+          "stationId": "awb_a3bad1b837b694162fd1",
+          "url": "https://pl.crystalweb.net:6640/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0f41dc05-66ea-46d2-be4c-55be4f86b4dc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:58:03Z"
+        }
+      ]
+    }
+  ]
+}

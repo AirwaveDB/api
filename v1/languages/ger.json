@@ -1,0 +1,492 @@
+{
+  "code": "ger",
+  "stationCount": 9,
+  "stations": [
+    {
+      "id": "awb_cf4ef4f452022f504e5b",
+      "name": "SRF 3",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "ger"
+      ],
+      "categories": [
+        "public",
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "public radio",
+        "srg ssr"
+      ],
+      "homepage": "http://www.srf.ch/radio-srf-3",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
+      "type": "public",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-29T19:13:34Z",
+      "streams": [
+        {
+          "id": "aws_1935a285513994d3bbf5",
+          "stationId": "awb_cf4ef4f452022f504e5b",
+          "url": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "961f1da4-0601-11e8-ae97-52543be04c81",
+            "a4569058-e4b5-4c93-82f6-a4006a5d86da"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:54:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_41e4f2e2af2fd1f48642",
+      "name": "SRF 4 News",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "ger"
+      ],
+      "categories": [
+        "news",
+        "public"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "srg ssr"
+      ],
+      "homepage": "http://www.srf.ch/radio-srf-4-news",
+      "favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+      "type": "public",
+      "sourceCount": 3,
+      "updatedAt": "2026-08-29T19:16:05Z",
+      "streams": [
+        {
+          "id": "aws_5f61baefc58cf1a34e9d",
+          "stationId": "awb_41e4f2e2af2fd1f48642",
+          "url": "http://stream.srg-ssr.ch/m/drs4news/mp3_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "48681bc8-21cd-46e3-a1ef-d8582f6daf6b",
+            "960ed987-0601-11e8-ae97-52543be04c81",
+            "9764de08-38be-4a9d-acbc-4b7d4ff2607b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:59:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3bdbee9ac18e866a4d2c",
+      "name": "1LIVE",
+      "country": "DE",
+      "subdivision": "North Rhine-Westphalia",
+      "languages": [
+        "de",
+        "ger"
+      ],
+      "categories": [
+        "public",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "ard",
+        "pop",
+        "public radio",
+        "rock",
+        "top 40",
+        "wdr"
+      ],
+      "homepage": "https://einslive.de/",
+      "favicon": "https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png",
+      "type": "public",
+      "sourceCount": 4,
+      "updatedAt": "2026-10-07T17:09:19Z",
+      "streams": [
+        {
+          "id": "aws_7d02d7d1add2b4c88a84",
+          "stationId": "awb_3bdbee9ac18e866a4d2c",
+          "url": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "904dc6ee-50c8-4f16-bb00-d03360b6b6d4",
+            "9606f727-0601-11e8-ae97-52543be04c81",
+            "d2afc7d4-2b94-4699-9b9f-35a09bd5f2f6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:23:26Z"
+        },
+        {
+          "id": "aws_f375016b6ab8bc35fc58",
+          "stationId": "awb_3bdbee9ac18e866a4d2c",
+          "url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b2cbd1fd-275d-432a-8b20-37dcb3572315"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:36:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b2aaa56989883ce20f74",
+      "name": "Fußball-Bundesliga: Spiel 4",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "ger"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "football",
+        "live sports",
+        "sport"
+      ],
+      "homepage": "https://livecenter.sportschau.de/",
+      "favicon": "https://www1.wdr.de/sport/fussball/logo-dfl-fussball-bundesliga-zweitausendachtzehn-100~_v-ARDKleinerTeaser.jpg",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-10-07T17:05:39Z",
+      "streams": [
+        {
+          "id": "aws_00fad5bfd12f20e1efaa",
+          "stationId": "awb_b2aaa56989883ce20f74",
+          "url": "https://wdr-sportschau-liga1spiel4.icecastssl.wdr.de/wdr/sportschau/liga1spiel4/mp3/high",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "476ae5be-d323-49eb-a53f-071c8abe83d9",
+            "59865fbe-7cb6-4e3d-b21c-9e689c2dda57",
+            "5e9bdf98-972f-4cc5-a205-20467e971778"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:22:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3b575634e3b1e33d11e4",
+      "name": "Fußball-Bundesliga: Spiel 9",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "ger"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "football",
+        "live sports",
+        "sport"
+      ],
+      "homepage": "https://livecenter.sportschau.de/",
+      "favicon": "https://www1.wdr.de/sport/fussball/logo-dfl-fussball-bundesliga-zweitausendachtzehn-100~_v-ARDKleinerTeaser.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-07T17:04:58Z",
+      "streams": [
+        {
+          "id": "aws_0c1ecf3541ef8d888d83",
+          "stationId": "awb_3b575634e3b1e33d11e4",
+          "url": "https://wdr-sportschau-liga1spiel9.icecastssl.wdr.de/wdr/sportschau/liga1spiel9/mp3/high",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "730eb7a5-8c92-43a2-8bfc-bebb5645dca7",
+            "d5e3e41d-ddbc-4b91-9d91-636b26ab0c9c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:00:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_06250ff2e3ded15f3955",
+      "name": "N-JOY HQ",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "ger"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "youth"
+      ],
+      "homepage": "https://www.n-joy.de/",
+      "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-01T10:31:12Z",
+      "streams": [
+        {
+          "id": "aws_4791040d816745318673",
+          "stationId": "awb_06250ff2e3ded15f3955",
+          "url": "https://ndr-radio.ard-mcdn.de/ndr/radio/njoy/hls/192/seglist.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb898e3d-35b0-424f-95de-e00c7312c2e8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:10:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_37b22fabf44c6e4ead01",
+      "name": "RADIO BOB! Classic Rock",
+      "country": "DE",
+      "subdivision": "Hessen",
+      "languages": [
+        "de",
+        "ger"
+      ],
+      "categories": [
+        "rock",
+        "oldies"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "classic rock",
+        "hard rock",
+        "pop rock",
+        "rock"
+      ],
+      "homepage": "http://www.radiobob.de/",
+      "favicon": "https://www.radiobob.de/",
+      "type": null,
+      "sourceCount": 5,
+      "updatedAt": "2026-08-18T22:57:17Z",
+      "streams": [
+        {
+          "id": "aws_15cd20e3d1fb29cf845d",
+          "stationId": "awb_37b22fabf44c6e4ead01",
+          "url": "http://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9112859a-fa91-46ad-937b-882ba13cf123",
+            "d16a6834-495f-4072-a7f5-007724c65bdf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:12:59Z"
+        },
+        {
+          "id": "aws_0b064e4c767d0cc22fb3",
+          "stationId": "awb_37b22fabf44c6e4ead01",
+          "url": "https://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4dc166c7-acde-405e-b134-eba17c514215"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:54:09Z"
+        },
+        {
+          "id": "aws_aa7b8686c537ba1f0546",
+          "stationId": "awb_37b22fabf44c6e4ead01",
+          "url": "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554?sABC=67pnro77%231%238qqro8nrnsnn496ons412o4n6pnn8223%23ubzrcntr&mode=preroll&aw_0_1st.skey=1741351787&cb=851348839&listenerid=8ddeb8aeafaa496baf412b4a6caa8223&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1741351799",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7457a846-2cb1-4edd-9ef3-ad99b9c51ea7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:40:38Z"
+        },
+        {
+          "id": "aws_d9e466d80bcfe74b6c21",
+          "stationId": "awb_37b22fabf44c6e4ead01",
+          "url": "http://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9618c8c0-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-09-30T21:25:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_37ee6365f17e3456b362",
+      "name": "Radio MK",
+      "country": "DE",
+      "subdivision": "NRW",
+      "languages": [
+        "de",
+        "ger"
+      ],
+      "categories": [],
+      "tags": [
+        "lokalradio",
+        "märkischer kreis",
+        "nordrhein-westfalen"
+      ],
+      "homepage": "https://www.radiomk.de/",
+      "favicon": "https://www.radiomk.de/assets/images/senderlogos/radio_mk.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-10-04T14:26:02Z",
+      "streams": [
+        {
+          "id": "aws_491ecb7870c519500532",
+          "stationId": "awb_37ee6365f17e3456b362",
+          "url": "https://radiomk.stream51.radiohost.de/radiomk-live_mp3-192",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "74fae1ae-bf7c-4edc-821e-f2e9b6273a1a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:15:11Z"
+        },
+        {
+          "id": "aws_5012603a741040529aae",
+          "stationId": "awb_37ee6365f17e3456b362",
+          "url": "https://stream.lokalradio.nrw/44542bb",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "401db800-ba45-4903-a6ae-22f23d02e66b",
+            "d280c2ad-1156-4e6d-b76d-109ccd26dc0c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:54:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_00055d87469342066a8a",
+      "name": "Radio Onimai",
+      "country": "DE",
+      "subdivision": "Sachsen",
+      "languages": [
+        "eng",
+        "ger"
+      ],
+      "categories": [
+        "community",
+        "pop",
+        "electronic",
+        "anime"
+      ],
+      "tags": [
+        "anime",
+        "community",
+        "dance",
+        "electronic",
+        "j-pop",
+        "pop"
+      ],
+      "homepage": "https://radio.onimai.eu/",
+      "favicon": "https://radio.onimai.eu/assets/radio/radio-onimai-600.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-09-19T17:46:27Z",
+      "streams": [
+        {
+          "id": "aws_618aedf9b7f9ebc9875c",
+          "stationId": "awb_00055d87469342066a8a",
+          "url": "https://radio.onimai.eu/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "efaf2cbc-2f1a-47cb-8102-61ec8980300e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:23:55Z"
+        }
+      ]
+    }
+  ]
+}

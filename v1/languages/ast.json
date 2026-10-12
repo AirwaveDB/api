@@ -1,0 +1,127 @@
+{
+  "code": "ast",
+  "stationCount": 3,
+  "stations": [
+    {
+      "id": "awb_06200c0859a578255563",
+      "name": "Radio Principau Asturies - RPA",
+      "country": "ES",
+      "subdivision": null,
+      "languages": [
+        "ast",
+        "es"
+      ],
+      "categories": [],
+      "tags": [
+        "magazine"
+      ],
+      "homepage": "https://www.rtpa.es/rpa-radio",
+      "favicon": "https://www.rtpa.es/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:25:56Z",
+      "streams": [
+        {
+          "id": "aws_06a2e95f69d9232e5b8d",
+          "stationId": "awb_06200c0859a578255563",
+          "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8",
+          "codec": "aac",
+          "bitrate": 130,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "24c6a5e3-5acf-48d1-90e2-7aba2384c7e3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:50:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c1bb32e0057bcc1482d0",
+      "name": "Radio QK 107.2FM",
+      "country": "ES",
+      "subdivision": null,
+      "languages": [
+        "ast",
+        "es"
+      ],
+      "categories": [],
+      "tags": [
+        "radio libre"
+      ],
+      "homepage": "https://www.radioqk.org/",
+      "favicon": "https://www.radioqk.org/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:19:04Z",
+      "streams": [
+        {
+          "id": "aws_6e6e35b85e6b96b6a94a",
+          "stationId": "awb_c1bb32e0057bcc1482d0",
+          "url": "http://212.231.231.169:8000/radioqk_master.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b5a2ba7f-b372-4bed-80de-108a6abd55b2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:58:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_39df907c9f35998392d8",
+      "name": "RTPA",
+      "country": "ES",
+      "subdivision": "Asturies",
+      "languages": [
+        "ast",
+        "es"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "asturies",
+        "economics",
+        "entertaiment",
+        "foreing affairs",
+        "news",
+        "political"
+      ],
+      "homepage": "https://www.rtpa.es/",
+      "favicon": "https://www.rtpa.es/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:29:44Z",
+      "streams": [
+        {
+          "id": "aws_5faa94150c082ee54d20",
+          "stationId": "awb_39df907c9f35998392d8",
+          "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8",
+          "codec": "aac",
+          "bitrate": 130,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "27f975bc-855f-4a8d-97a6-a4b8e02c035d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:16:24Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "code": "sc",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_2dfc83675b687bfc9bc6",
+      "name": "Fred Film Radio-29 Sardu",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "sc"
+      ],
+      "categories": [],
+      "tags": [
+        "film"
+      ],
+      "homepage": "https://www.fred.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:59:24Z",
+      "streams": [
+        {
+          "id": "aws_c006a245580f5d95c33e",
+          "stationId": "awb_2dfc83675b687bfc9bc6",
+          "url": "https://s10.webradio-hosting.com/proxy/fredradiosar/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e89ffa83-732e-441e-8caf-b697c88745a8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:54:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ceea256a485a5d10ec8a",
+      "name": "Radiolina",
+      "country": "IT",
+      "subdivision": "Sardegna",
+      "languages": [
+        "it",
+        "sc"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiolina.it/",
+      "favicon": "https://radiolina.it/wp-content/uploads/2021/10/cropped-Radiolina150x150-192x192.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:58:06Z",
+      "streams": [
+        {
+          "id": "aws_7e705b20f419d972b1e3",
+          "stationId": "awb_ceea256a485a5d10ec8a",
+          "url": "https://streaming.shoutcast.com/radiolina",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b77649d5-b04f-4de7-95f3-08c3ef140bea"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:39:17Z"
+        }
+      ]
+    }
+  ]
+}

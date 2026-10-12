@@ -1,0 +1,46 @@
+{
+  "code": "ti",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_afce12a1858ec4bc9550",
+      "name": "Eri-TV",
+      "country": "ER",
+      "subdivision": null,
+      "languages": [
+        "ti"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "drama",
+        "news"
+      ],
+      "homepage": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-04-10T00:35:03Z",
+      "streams": [
+        {
+          "id": "aws_44774074fd68b576bd17",
+          "stationId": "awb_afce12a1858ec4bc9550",
+          "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
+          "codec": "unknown",
+          "bitrate": 2500,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "eb9c8d79-43a1-4255-9bc9-38dc3a70daef"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:58:03Z"
+        }
+      ]
+    }
+  ]
+}

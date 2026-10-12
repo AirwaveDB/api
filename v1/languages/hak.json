@@ -1,0 +1,286 @@
+{
+  "code": "hak",
+  "stationCount": 7,
+  "stations": [
+    {
+      "id": "awb_d651853425e6dfe5b29c",
+      "name": "CRI世界华声",
+      "country": "CN",
+      "subdivision": null,
+      "languages": [
+        "hak",
+        "yue"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "news"
+      ],
+      "homepage": "http://chinese.cri.cn/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:54:34Z",
+      "streams": [
+        {
+          "id": "aws_4ab35d1c6a79f7101cc5",
+          "stationId": "awb_d651853425e6dfe5b29c",
+          "url": "http://sk.cri.cn/hxfh.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a03ad8aa-24ac-403a-8c69-617ad0ce9a45"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:58:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_34a3668a7f4971ad320e",
+      "name": "Nice Radio 永安广播电视台综合广播",
+      "country": "CN",
+      "subdivision": null,
+      "languages": [
+        "hak",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "information",
+        "music"
+      ],
+      "homepage": "https://www.weibo.com/u/2523476812?refer_flag=1005055013_",
+      "favicon": "https://pic.qtfm.cn/2021/0930/20210930025713.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:30:27Z",
+      "streams": [
+        {
+          "id": "aws_2b0148832de072b7f157",
+          "stationId": "awb_34a3668a7f4971ad320e",
+          "url": "https://lhttp-hw.qtfm.cn/live/15318388/64k.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "da7285d3-7bef-4a3a-b1f6-3adc9b55172b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:49:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a06bcfabb158544d63b8",
+      "name": "新西兰中文广播电台 FM90.6 Radio Chinese",
+      "country": "NZ",
+      "subdivision": "Auckland",
+      "languages": [
+        "hak",
+        "yue",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "chinese",
+        "culture",
+        "information",
+        "lifestyle",
+        "music",
+        "new zealand"
+      ],
+      "homepage": "https://fm906.co.nz/",
+      "favicon": "https://fm906.co.nz/images/nzc-logo.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_d2ce71a68d79e840f9e2",
+          "stationId": "awb_a06bcfabb158544d63b8",
+          "url": "https://s26.myradiostream.com:20274/listen.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "NZ:fm90-6-radio-chinese",
+            "cc9c0708-d100-43cc-a76b-e1fef63d2e43"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-09-30T22:29:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_94de42e695f5ce45b504",
+      "name": "台海之聲",
+      "country": "TW",
+      "subdivision": null,
+      "languages": [
+        "hak",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "full service"
+      ],
+      "homepage": "http://www.cnr.cn/",
+      "favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/Tmqb0FNuYzW6u5Ym7LhxxSemBelX3h7I70gh2023061218805.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:31:15Z",
+      "streams": [
+        {
+          "id": "aws_86dfe8278cc6ab8965a5",
+          "stationId": "awb_94de42e695f5ce45b504",
+          "url": "https://satellitepull.cnr.cn/live/wxzhzs/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174761774475052&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5fc79d64-1690-46e5-aa91-94fc0c3d193e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:29:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_37339e1d4f3f8fe74139",
+      "name": "新客家廣播電台",
+      "country": "TW",
+      "subdivision": "桃園市",
+      "languages": [
+        "hak"
+      ],
+      "categories": [],
+      "tags": [
+        "entertainment",
+        "information",
+        "music"
+      ],
+      "homepage": "https://fm935newhakka.com.tw/",
+      "favicon": "https://fm935newhakka.com.tw/images/logo.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:41:29Z",
+      "streams": [
+        {
+          "id": "aws_c95196fc5fb71c92bbee",
+          "stationId": "awb_37339e1d4f3f8fe74139",
+          "url": "http://live.fm935newhakka.com.tw:5006/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ebd5b2a6-cae2-4444-b693-bf84c54a5bd2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:35:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4acee63f82f8204f2336",
+      "name": "神州之聲",
+      "country": "TW",
+      "subdivision": "Taipei",
+      "languages": [
+        "hak",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "full service"
+      ],
+      "homepage": "https://www.cnr.cn/tyzj/tyzj_jmsjb/201208/t20120814_510587088.html",
+      "favicon": "https://www.cnr.cn/2007zt/2007gbfzlt/yhdw/200708/W020070821501155725836.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:26:23Z",
+      "streams": [
+        {
+          "id": "aws_1fb215bb5108dbc5d2d8",
+          "stationId": "awb_4acee63f82f8204f2336",
+          "url": "https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174761731342853&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "10b4ef1e-ff58-44d3-9de3-8c41daaab021"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:58:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f859e3a235cd49d72f54",
+      "name": "講客廣播電台",
+      "country": "TW",
+      "subdivision": null,
+      "languages": [
+        "hak"
+      ],
+      "categories": [],
+      "tags": [
+        "culture",
+        "full service"
+      ],
+      "homepage": "https://www.hakkaradio.org.tw/",
+      "favicon": "https://cdn.radoxo.com/images/taiwan/hakka-radio.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_f3baebdb86b1029ba779",
+          "stationId": "awb_f859e3a235cd49d72f54",
+          "url": "https://n08.rcs.revma.com/akqrbx94gbkvv",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "TW:hakkaradio",
+            "e1cc37a7-d71b-4b71-91fa-93026fc98675"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:13:20Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "code": "to",
+  "stationCount": 3,
+  "stations": [
+    {
+      "id": "awb_fb27c8c976645da8d4c9",
+      "name": "531pi - AAC",
+      "country": "NZ",
+      "subdivision": "Auckland",
+      "languages": [
+        "en",
+        "fj",
+        "mi",
+        "sm",
+        "to"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "pacific cultures"
+      ],
+      "homepage": "https://pmn.co.nz/radio-stations/531-pi",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-12T11:03:08Z",
+      "streams": [
+        {
+          "id": "aws_6b6532f415407bd00641",
+          "stationId": "awb_fb27c8c976645da8d4c9",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "4de83f70-0ac9-4630-9786-cab9d4804540",
+            "NZ:531pi-aac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:03:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e6c2b34e1d4c47c64488",
+      "name": "531pi - MP3",
+      "country": "NZ",
+      "subdivision": "Auckland",
+      "languages": [
+        "en",
+        "fj",
+        "mi",
+        "sm",
+        "to"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "pacific cultures"
+      ],
+      "homepage": "https://pmn.co.nz/radio-stations/531-pi",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-11T21:28:06Z",
+      "streams": [
+        {
+          "id": "aws_3f745fc349d4c019a2d7",
+          "stationId": "awb_e6c2b34e1d4c47c64488",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "NZ:531pi-mp3",
+            "fd69151b-93ad-46cd-9169-796732061ffb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:28:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5c0f7026c32c4cc5495c",
+      "name": "Kalofiama 'O E 'Amanaki",
+      "country": "TO",
+      "subdivision": "Nuku'alofa",
+      "languages": [
+        "to"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "mrcrosby"
+      ],
+      "homepage": "https://www.facebook.com/kalofiama.o.e.amanaki",
+      "favicon": "https://scontent-los4-1.xx.fbcdn.net/v/t39.30808-6/650324856_950012737666645_2357544679759077880_n.png?stp=dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGPGjmQ1GjyGc7r-cZbOFkt_WGsUwyQ5qD9YaxTDJDmoHmX7j3Eqm7bPoOujZ_RKl9dkCl_h8AM-jHMOTDkdCMN&_nc_ohc=ShnRCv7nQL0Q7kNvwEpETWo&_nc_oc=AdpxfzjWH19d28_BMRpvWOzMFSkqtvrU_BfIwzvWwa43I1MF2f1HRrmQtuWWun8qUPLfEWOLHigIzhpjePWkn1gz&_nc_zt=23&_nc_ht=scontent-los4-1.xx&_nc_gid=8Hfx-1CAbud13FyzLZbPZg&_nc_ss=7b2a8&oh=00_Af9QWBaPNZgUTl7k9umcyGepWPjJgr1U6yBTiexcLDAZhQ&oe=6A277417",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-04T16:03:31Z",
+      "streams": [
+        {
+          "id": "aws_3088e306cb7a4787afc8",
+          "stationId": "awb_5c0f7026c32c4cc5495c",
+          "url": "https://stream.zeno.fm/v4kaet5ab1ntv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b452f6a-7b71-48f3-9e46-4b0d03acff25"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:25:31Z"
+        }
+      ]
+    }
+  ]
+}

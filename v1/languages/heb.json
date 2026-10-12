@@ -1,0 +1,55 @@
+{
+  "code": "heb",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_e4a97a0fe9e820c01a65",
+      "name": "yStream",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "eng",
+        "heb"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "adult contemporary",
+        "adult-contemporary",
+        "ai radio",
+        "hebrew",
+        "international",
+        "israeli",
+        "pop",
+        "variety"
+      ],
+      "homepage": "https://ystream.live/",
+      "favicon": "https://ystream.live/assets/img/icon-512.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_6f9a8f7376e1a7cd20e8",
+          "stationId": "awb_e4a97a0fe9e820c01a65",
+          "url": "https://ystream.live/ystream-mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IL:ystream",
+            "c0c35a84-b5f4-4783-b27e-ab348c3f7e42"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:30:58Z"
+        }
+      ]
+    }
+  ]
+}

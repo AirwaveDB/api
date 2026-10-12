@@ -1,0 +1,166 @@
+{
+  "code": "deu",
+  "stationCount": 3,
+  "stations": [
+    {
+      "id": "awb_948600d048c0e97ad67a",
+      "name": "move IT Radio",
+      "country": "DE",
+      "subdivision": "Bayern",
+      "languages": [
+        "de",
+        "deu",
+        "en",
+        "eng"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "edm"
+      ],
+      "homepage": "https://radio.move-it-online.net/",
+      "favicon": "http://www.itcmedia.org/cdn/move-it-radio-logo.jpg",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-06-29T06:07:38Z",
+      "streams": [
+        {
+          "id": "aws_2d90f56403ba5d63c88e",
+          "stationId": "awb_948600d048c0e97ad67a",
+          "url": "http://stream1.itclive.de/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2c6b6a4b-4d08-420f-ae3d-6c98bb127d7a",
+            "347c9a87-9112-4646-94b9-053b27756304"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:19:12Z"
+        },
+        {
+          "id": "aws_f956bbc82de162713543",
+          "stationId": "awb_948600d048c0e97ad67a",
+          "url": "http://stream2.itclive.de/",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "589218ac-1ad2-4f5c-b204-a72a476daa5e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:16:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_77aa4def495ad15a0118",
+      "name": "Sunshine Live - Time Warp",
+      "country": "DE",
+      "subdivision": "Baden-Württemberg",
+      "languages": [
+        "de",
+        "deu"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "festival",
+        "germany",
+        "techno",
+        "time warp"
+      ],
+      "homepage": "http://www.sunshine-live.de/",
+      "favicon": "https://images.sunshine-live.de/files/2025-05/timewarp_1x1_hg.jpg?width=360",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-26T10:04:31Z",
+      "streams": [
+        {
+          "id": "aws_7c21ce6c07e41caa876e",
+          "stationId": "awb_77aa4def495ad15a0118",
+          "url": "http://stream.sunshine-live.de/timewarp/mp3-192/stream.sunshine-live.de/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "962c0b28-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:57:28Z"
+        },
+        {
+          "id": "aws_18481c89d5ea1db6dc07",
+          "stationId": "awb_77aa4def495ad15a0118",
+          "url": "https://stream.sunshine-live.de/timewarp/aac-64/utm_source=radio.menu/",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a931bdac-2c3b-46b5-a3ec-72dfc25b12c3",
+            "ea32c74b-854c-457e-8cce-4e6a2fbe1b3a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:02:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_540885861f4568c90f31",
+      "name": "TIDE.radio",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "deu"
+      ],
+      "categories": [],
+      "tags": [
+        "misc"
+      ],
+      "homepage": "http://www.tidenet.de/radio",
+      "favicon": "https://www.tidenet.de/assets/icons/android-icon-192x192.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:48:55Z",
+      "streams": [
+        {
+          "id": "aws_b32dfa858fb29946c3ba",
+          "stationId": "awb_540885861f4568c90f31",
+          "url": "https://rcstream0001.redcastle.net/radio/8000/tide-128.mp3?rp_source=1&=&&___cb=916093692175132",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b57f1ce9-00ce-4f7e-95bf-c83c2e0a78f7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:20:47Z"
+        }
+      ]
+    }
+  ]
+}

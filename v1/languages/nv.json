@@ -1,0 +1,48 @@
+{
+  "code": "nv",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_7681683bdd354f75c7cb",
+      "name": "KNDN 960 AM",
+      "country": "US",
+      "subdivision": "New Mexico",
+      "languages": [
+        "en",
+        "nv"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "information",
+        "music",
+        "news"
+      ],
+      "homepage": "https://icy-tree-02d4dfa10.azurestaticapps.net/",
+      "favicon": "https://icy-tree-02d4dfa10.azurestaticapps.net/images/KNDN%20Logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:43:16Z",
+      "streams": [
+        {
+          "id": "aws_ab496dffc9cc7788b87b",
+          "stationId": "awb_7681683bdd354f75c7cb",
+          "url": "https://ice9.securenetsystems.net/KNDN",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bdbf6204-5c77-4a93-8341-d0936a596a5b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:11:57Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "code": "ua",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_00c8fcfa56b3e1dde07e",
+      "name": "RECORD DANCE RADIO",
+      "country": "UA",
+      "subdivision": null,
+      "languages": [
+        "ua"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radiorecord.com.ua/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_528e3efd7f063ebf761a",
+          "stationId": "awb_00c8fcfa56b3e1dde07e",
+          "url": "https://online.radiorecord.com.ua/rr_320",
+          "codec": "aac",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "UA:record-dance-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-24"
+        }
+      ]
+    }
+  ]
+}

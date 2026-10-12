@@ -1,0 +1,61 @@
+{
+  "code": "swg",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_373f99d81b9c26e653f3",
+      "name": "Mundart-Radio",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "swg"
+      ],
+      "categories": [],
+      "tags": [
+        "die schwäbisch mögen",
+        "mundartradio - der mitmachsender von schwaben für alle"
+      ],
+      "homepage": "https://www.mundartradio.de/",
+      "favicon": "https://www.mundartradio.de/images/logo/Logo2020.png#joomlaImage://local-images/logo/Logo2020.png?width=300&height=125",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T03:52:28Z",
+      "streams": [
+        {
+          "id": "aws_6312893ec416d128a398",
+          "stationId": "awb_373f99d81b9c26e653f3",
+          "url": "http://mundartradio.stream.laut.fm/mundartradio?t302=2026-10-12_09-01-37&uuid=391dffe5-dec9-d71f-176b-72004684e3b3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d92b5a2a-22d2-4cd7-bee2-e0d9146bfb66"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:04:05Z"
+        },
+        {
+          "id": "aws_0497543c1b18349f6a8f",
+          "stationId": "awb_373f99d81b9c26e653f3",
+          "url": "http://mundartradio.stream.laut.fm/mundartradio?t302=2026-10-12_10-21-51&uuid=e956567c-f63d-7690-2ee5-85fcf141cb25",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "318413cd-0fc6-11ea-a87e-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:23:48Z"
+        }
+      ]
+    }
+  ]
+}

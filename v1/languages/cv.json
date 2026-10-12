@@ -1,0 +1,45 @@
+{
+  "code": "cv",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_ef9e69c23bec526c51c2",
+      "name": "Радио «Таван»",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "cv",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "chuvash",
+        "russian"
+      ],
+      "homepage": "http://www.ntrk21.ru/tavan-radio",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:19:36Z",
+      "streams": [
+        {
+          "id": "aws_b943003735a91e498fe3",
+          "stationId": "awb_ef9e69c23bec526c51c2",
+          "url": "http://icecast.ntrk21.ru:8000/tavan",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dabde28b-8b32-4671-8269-5911a2337120"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:10:01Z"
+        }
+      ]
+    }
+  ]
+}

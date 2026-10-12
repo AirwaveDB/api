@@ -1,0 +1,92 @@
+{
+  "code": "gr",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_21802f14b050d762f753",
+      "name": "Radio Meraklis",
+      "country": "GR",
+      "subdivision": "Agrinio",
+      "languages": [
+        "el",
+        "en",
+        "gr"
+      ],
+      "categories": [],
+      "tags": [
+        "greek folk",
+        "rebetico"
+      ],
+      "homepage": "https://meraklis.ddnsfree.com/",
+      "favicon": "https://meraklis.ddnsfree.com/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T15:37:09Z",
+      "streams": [
+        {
+          "id": "aws_bb2f503a9ce18fef8fa2",
+          "stationId": "awb_21802f14b050d762f753",
+          "url": "https://meraklis.ddnsfree.com:8443/live",
+          "codec": "ogg",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5d116c23-ddda-4b6e-9d1e-c6cbfb0e2a21"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:37:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_31f3a9d9a08f212ce6d5",
+      "name": "Radio Rebetikes Melodies",
+      "country": "GR",
+      "subdivision": "Agrinio",
+      "languages": [
+        "el",
+        "en",
+        "gr"
+      ],
+      "categories": [],
+      "tags": [
+        "greek folk",
+        "rebetico"
+      ],
+      "homepage": "https://rebetis.duckdns.org/",
+      "favicon": "https://rebetis.duckdns.org/rebetis.png",
+      "type": null,
+      "sourceCount": 7,
+      "updatedAt": "2026-10-12T17:09:51Z",
+      "streams": [
+        {
+          "id": "aws_1352c217a5be2490b30d",
+          "stationId": "awb_31f3a9d9a08f212ce6d5",
+          "url": "https://rebetis.duckdns.org:8545/live",
+          "codec": "ogg",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "32afa6c2-5ee5-4812-85fe-063c9943d957",
+            "48db2a98-8708-4c7a-a65a-5a261868c522",
+            "7e639d64-f9d8-4727-b720-ff4619adc770",
+            "8f8c1ed7-15cb-4ae7-a3ef-ace48bf49dbf",
+            "96885f5f-0386-4002-be6e-52f5d33f5e62",
+            "9ca21eac-8f21-4efa-885e-25a09ef6cc4d",
+            "e3600c27-19dd-4180-af11-1897145d5356"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:09:53Z"
+        }
+      ]
+    }
+  ]
+}

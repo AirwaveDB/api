@@ -1,0 +1,63 @@
+{
+  "code": "san",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_57747ea9284c9964a3f6",
+      "name": "Mahakatha Radio",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "eng",
+        "hi",
+        "hin",
+        "sa",
+        "san"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "bhakti",
+        "buddhist",
+        "chanting",
+        "devotional",
+        "hindu",
+        "india",
+        "krishna",
+        "mantra",
+        "meditation",
+        "om",
+        "prayer",
+        "sanskrit",
+        "shiva",
+        "spiritual"
+      ],
+      "homepage": "https://mahakatharadio.com/",
+      "favicon": "https://mahakatharadio.com/logo/station-300.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T07:13:59Z",
+      "streams": [
+        {
+          "id": "aws_76d5d8d22d96533bd040",
+          "stationId": "awb_57747ea9284c9964a3f6",
+          "url": "https://mahakatharadio.com/api/station/live.mp3",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "75ac78d4-67f0-40a7-87a7-14a217d6764c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:14:01Z"
+        }
+      ]
+    }
+  ]
+}

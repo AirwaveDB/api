@@ -1,0 +1,50 @@
+{
+  "code": "zgh",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_d45233a81c5ef85974d2",
+      "name": "Medina FM Amazigh (128 kbps)",
+      "country": "MA",
+      "subdivision": null,
+      "languages": [
+        "zgh"
+      ],
+      "categories": [
+        "pop",
+        "folk"
+      ],
+      "tags": [
+        "berber amazigh music",
+        "folk",
+        "pop"
+      ],
+      "homepage": "https://medinafm.ma/",
+      "favicon": "https://api.medinafm.ma/uploads/11ee4925-5901-4d5f-81f3-23db7b0a3fa6-w320.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_3fc4c92593867ef9018b",
+          "stationId": "awb_d45233a81c5ef85974d2",
+          "url": "https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "5c9aa341-31f9-4c76-a5b8-aea612006ff9",
+            "MA:medina-fm-amazigh-128-kbps"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:10:40Z"
+        }
+      ]
+    }
+  ]
+}

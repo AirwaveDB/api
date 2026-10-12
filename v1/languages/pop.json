@@ -1,0 +1,41 @@
+{
+  "code": "pop",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_f5cc42cadf7a82fcb58a",
+      "name": "The Voice of Bulgaria",
+      "country": "BG",
+      "subdivision": null,
+      "languages": [
+        "pop"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://thevoice.bg/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-27T08:29:14Z",
+      "streams": [
+        {
+          "id": "aws_99f0ddc49164a42409c6",
+          "stationId": "awb_f5cc42cadf7a82fcb58a",
+          "url": "https://nova-radio.neterra.tv/voiceofbg",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b99a9c2f-373c-44ce-a4be-b9e36df17823"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:10:51Z"
+        }
+      ]
+    }
+  ]
+}

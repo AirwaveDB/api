@@ -1,0 +1,94 @@
+{
+  "code": "tk",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_ba406e0f3c2c233c5af9",
+      "name": "102.1 Arabeskin Merkezi Fm",
+      "country": "TR",
+      "subdivision": "Istanbul",
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "arabesk",
+        "arabesk fantazi",
+        "arabic",
+        "pop"
+      ],
+      "homepage": "https://www.arabeskinmerkezi.com/",
+      "favicon": "https://images.keepone.net/1376-2022-10-17.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:47:23Z",
+      "streams": [
+        {
+          "id": "aws_c112a31f68554186a768",
+          "stationId": "awb_ba406e0f3c2c233c5af9",
+          "url": "http://canli.arabeskinmerkezi.com:9180/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "474b5f9f-6202-4928-a3c0-0a9068ce040e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:04:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0c195706856cb9f26e84",
+      "name": "Damarın Merkezi Fm",
+      "country": "TR",
+      "subdivision": "Istanbul",
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "arabesk fantazi",
+        "arabic",
+        "pop",
+        "pop music"
+      ],
+      "homepage": "https://www.arabeskinmerkezi.com/",
+      "favicon": "https://images.keepone.net/1376-2022-10-17.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:17:43Z",
+      "streams": [
+        {
+          "id": "aws_b1f20b2372d58d545040",
+          "stationId": "awb_0c195706856cb9f26e84",
+          "url": "http://canli.arabeskinmerkezi.com:9180/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c8b83fcd-74c3-426c-a213-f17717b4f88e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:44:24Z"
+        }
+      ]
+    }
+  ]
+}

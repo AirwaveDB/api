@@ -1,0 +1,720 @@
+{
+  "code": "ga",
+  "stationCount": 14,
+  "stations": [
+    {
+      "id": "awb_101294413b583c51f89d",
+      "name": "Raidió Fáilte 107.1fm",
+      "country": "GB",
+      "subdivision": "Northern Ireland",
+      "languages": [
+        "ga"
+      ],
+      "categories": [],
+      "tags": [
+        "belfast",
+        "irish traditional"
+      ],
+      "homepage": "http://www.raidiofailte.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:56:27Z",
+      "streams": [
+        {
+          "id": "aws_770613f8b8677586b9f9",
+          "stationId": "awb_101294413b583c51f89d",
+          "url": "http://icecast.commedia.org.uk:8000/raidiofailte.mp3?_=1",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96129abd-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:36:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1de70909f93144e14f1c",
+      "name": "Beat 102-103",
+      "country": "IE",
+      "subdivision": "Waterford",
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "general",
+        "hits",
+        "old school",
+        "pop",
+        "pop dance"
+      ],
+      "homepage": "https://www.beat102103.com/",
+      "favicon": "https://www.beat102103.com/images/ico/android-icon-192x192.png",
+      "type": null,
+      "sourceCount": 5,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_e3ce1ff17eb8f8d22c89",
+          "stationId": "awb_1de70909f93144e14f1c",
+          "url": "https://stream.audioxi.com/BEAT",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "acabb60f-6bd8-4930-84eb-f5e2f338b117"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:37:08Z"
+        },
+        {
+          "id": "aws_4765d7a8766991a3cac8",
+          "stationId": "awb_1de70909f93144e14f1c",
+          "url": "http://stream.audioxi.com/BEATAAC",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2ac62767-b780-4c89-9bee-00098817a794"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:44:13Z"
+        },
+        {
+          "id": "aws_9dcb6f26f6174ccaeeec",
+          "stationId": "awb_1de70909f93144e14f1c",
+          "url": "https://live-bauerie.sharp-stream.com/BEAT",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "0ba01db3-4616-432b-bcc3-634547a4e857",
+            "IE:beat-102-103",
+            "b27fcc5a-2949-4df6-8d0a-d812f6f48063"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:30:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e77e13ab1b3d1a5fb9b6",
+      "name": "Flirt FM 101.3",
+      "country": "IE",
+      "subdivision": "Galway",
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "categories": [
+        "college"
+      ],
+      "tags": [
+        "alternative",
+        "irish",
+        "irish language",
+        "student",
+        "student radio",
+        "university",
+        "university radio"
+      ],
+      "homepage": "https://www.flirtfm.ie/",
+      "favicon": "https://flirtfm.ie/wp-content/uploads/2021/12/Flirt-speech-bubble-1.png",
+      "type": "college",
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_7e33963f9f82fb61c31e",
+          "stationId": "awb_e77e13ab1b3d1a5fb9b6",
+          "url": "http://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a67d4b9c-fc8f-482f-adeb-3c3d0a54c5fa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:14:11Z"
+        },
+        {
+          "id": "aws_169b91808153e2fcfe8d",
+          "stationId": "awb_e77e13ab1b3d1a5fb9b6",
+          "url": "https://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "647b5a38-1ea7-4dc0-8390-44f3b28fc387",
+            "IE:flirt-fm-101-3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:01:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d82c8cbd291be2a6327d",
+      "name": "LCRfm 102.9",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community",
+        "community radio",
+        "eclectic",
+        "eclectic programming"
+      ],
+      "homepage": "https://lcrfm.ie/",
+      "favicon": "https://lcrfm.ie/upload/players/63e18c0f077144.38140615.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-05-16T09:11:01Z",
+      "streams": [
+        {
+          "id": "aws_a1b3e746ae51492eab1e",
+          "stationId": "awb_d82c8cbd291be2a6327d",
+          "url": "http://stream1.hippynet.co.uk/stream/loughrea",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aa0a748f-2210-4e6e-86c1-3abc45235a52"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:24:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_df5551125d8712043851",
+      "name": "Liffey Sound 96.4 FM",
+      "country": "IE",
+      "subdivision": "Dublin",
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community",
+        "community radio",
+        "culture",
+        "current affairs",
+        "local",
+        "local news",
+        "music",
+        "variety"
+      ],
+      "homepage": "https://liffeysoundfm.ie/",
+      "favicon": "https://liffeysoundfm.ie/wp-content/uploads/2017/01/Logo_edit-300x239.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:03:21Z",
+      "streams": [
+        {
+          "id": "aws_5c00677dfe2252bee4ce",
+          "stationId": "awb_df5551125d8712043851",
+          "url": "http://stream.liffeysoundfm.ie:8000/listen.pls.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "df3c1b03-8de1-4e39-9d1c-c823024e538c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:43:04Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ada3f4c03d8ae46082a4",
+      "name": "MPB Radio 1",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hit music",
+        "pop",
+        "pop music",
+        "pop-music"
+      ],
+      "homepage": "https://mpbradio1.com/",
+      "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio1.png",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-10-11T22:33:24Z",
+      "streams": [
+        {
+          "id": "aws_f23fd218175fb731541c",
+          "stationId": "awb_ada3f4c03d8ae46082a4",
+          "url": "https://sc.mpbnl.nl/radio1",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d601c46a-9607-421b-b9c2-341a580d082f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:00:52Z"
+        },
+        {
+          "id": "aws_b2d509f273252b7b2f40",
+          "stationId": "awb_ada3f4c03d8ae46082a4",
+          "url": "https://sc.mpbnl.nl/radio1.mp3",
+          "codec": "aac+",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "85038c56-31f9-455b-a4bd-e43a5264d51f",
+            "IE:mpb-radio-1",
+            "ccb67f6e-cb99-43b9-85b9-f328be2e310f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:57:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cb9069df74520665e649",
+      "name": "MPB Radio 2",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "categories": [
+        "pop",
+        "oldies"
+      ],
+      "tags": [
+        "00s",
+        "70s",
+        "80s",
+        "90s",
+        "classic hits",
+        "classic-hits",
+        "hit music",
+        "oldies",
+        "pop",
+        "pop music",
+        "pop-music"
+      ],
+      "homepage": "https://mpbradio2.com/",
+      "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-12T17:17:49Z",
+      "streams": [
+        {
+          "id": "aws_f01ca9305539afcbf98c",
+          "stationId": "awb_cb9069df74520665e649",
+          "url": "https://sc.mpbnl.nl/radio2.mp3",
+          "codec": "aac+",
+          "bitrate": 384,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "128a4337-41ce-423a-bedf-28ff5d27e8dd",
+            "IE:mpb-radio-2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:17:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_09ce91223417498232c1",
+      "name": "MPB Radio 2 90s & 00s",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "90s music",
+        "90s pop",
+        "eurodance",
+        "hit music",
+        "pop",
+        "pop music",
+        "pop-music",
+        "rave"
+      ],
+      "homepage": "https://mpbradio2.com/",
+      "favicon": "https://radiodns.mpbnl.nl/logos/mpb/radio2-90s00s.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-12T13:12:41Z",
+      "streams": [
+        {
+          "id": "aws_1fdf139237b49688eec3",
+          "stationId": "awb_09ce91223417498232c1",
+          "url": "https://sc.mpbnl.nl/radio2-90s00s.mp3",
+          "codec": "aac+",
+          "bitrate": 384,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IE:mpb-radio-2-90s-00s",
+            "e2d36184-272d-4976-9518-4a174e17d11a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:12:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c33bd33844f1f185bbf3",
+      "name": "Over the West Online Radio",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "country",
+        "folk"
+      ],
+      "tags": [
+        "country",
+        "folk",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://overthewestonlineradio.com/",
+      "favicon": "https://irishradiolive.com/public/uploads/radio_img/over-the-west-online-radio/play_250_250.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-18T12:47:09Z",
+      "streams": [
+        {
+          "id": "aws_3763a796f8cc68023ab9",
+          "stationId": "awb_c33bd33844f1f185bbf3",
+          "url": "http://fast.citrus3.com:8302/stream",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7eda14d6-f31e-4b32-b0ac-abafd2bc4d2d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:56:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e12056b9569601520070",
+      "name": "Raidió na Life",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "ga"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community"
+      ],
+      "homepage": "http://www.raidionalife.ie/",
+      "favicon": "https://www.raidionalife.ie/wp-content/uploads/cropped-favicon-180x180.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:00:03Z",
+      "streams": [
+        {
+          "id": "aws_9e357d887b9aa77364c5",
+          "stationId": "awb_e12056b9569601520070",
+          "url": "http://beryl.streamguys.com:5010/live",
+          "codec": "mp3",
+          "bitrate": 224,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96157e6f-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:17:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5b0e651a0577908d042e",
+      "name": "RTÉ Radio 1",
+      "country": "IE",
+      "subdivision": "Dublin",
+      "languages": [
+        "en",
+        "ga"
+      ],
+      "categories": [
+        "news",
+        "talk",
+        "sports"
+      ],
+      "tags": [
+        "general",
+        "mixed",
+        "news",
+        "sport",
+        "talk",
+        "talk & speech"
+      ],
+      "homepage": "https://www.rte.ie/radio/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-01-15T07:43:38Z",
+      "streams": [
+        {
+          "id": "aws_5a7c47e45473d016a78a",
+          "stationId": "awb_5b0e651a0577908d042e",
+          "url": "http://icecast.rte.ie/radio1",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1692f135-2fca-4d2d-a315-5019bc890635"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:32:29Z"
+        },
+        {
+          "id": "aws_d0541a8d87d99f83d3db",
+          "stationId": "awb_5b0e651a0577908d042e",
+          "url": "https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02dd025e-d691-4310-bd2f-cf16007bdefb",
+            "ca6de309-f3fc-4e52-80e7-eacb885dd318"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:14:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_436fafdbf60ae39506d7",
+      "name": "St. Itas Hospital Radio",
+      "country": "IE",
+      "subdivision": "Dublin",
+      "languages": [
+        "ga"
+      ],
+      "categories": [],
+      "tags": [
+        "info",
+        "various music"
+      ],
+      "homepage": "https://ieradio.org/saint-ita-s-hospital/",
+      "favicon": "https://cdn.instant.audio/images/logos/ieradio-org/saint-ita-s-hospital.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:56:14Z",
+      "streams": [
+        {
+          "id": "aws_93338195b8d1b357316a",
+          "stationId": "awb_436fafdbf60ae39506d7",
+          "url": "http://uk1.streamingpulse.com:7022/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "89df4070-7e0b-407d-9fc7-b4afeb9561ec"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:39:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_251ef0b5946aff45e57f",
+      "name": "The 90s Network",
+      "country": "IE",
+      "subdivision": "Dublin",
+      "languages": [
+        "ga"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "90’s",
+        "dance",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://90snetwork.com/",
+      "favicon": "https://90snetwork.com/",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:47:04Z",
+      "streams": [
+        {
+          "id": "aws_34ea247048399844f546",
+          "stationId": "awb_251ef0b5946aff45e57f",
+          "url": "http://uk1.streamingpulse.com:7020/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d642f94f-cd58-4f64-bd7a-5e6359b2512c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:37:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b24ad486625324376884",
+      "name": "Tipp FM",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ga",
+        "gd"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "local",
+        "music",
+        "news"
+      ],
+      "homepage": "https://tippfm.com/",
+      "favicon": "https://tippfm.com/player/data/images/whatsapp.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T18:41:31Z",
+      "streams": [
+        {
+          "id": "aws_a64a25420af33f380ef4",
+          "stationId": "awb_b24ad486625324376884",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dc799d91-c6d6-4c8d-87c1-3e06e87c50df"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:41:33Z"
+        }
+      ]
+    }
+  ]
+}

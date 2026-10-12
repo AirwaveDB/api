@@ -1,0 +1,49 @@
+{
+  "code": "so",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_4de376fa14837176e84e",
+      "name": "BBC Somali Radio",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "so"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "somali",
+        "talk"
+      ],
+      "homepage": "https://www.bbc.com/somali/bbc_somali_radio/liveradio",
+      "favicon": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/somali/images/icons/icon-128x128.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:41:54Z",
+      "streams": [
+        {
+          "id": "aws_252897f2d1d579105923",
+          "stationId": "awb_4de376fa14837176e84e",
+          "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8",
+          "codec": "aac+",
+          "bitrate": 101,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9b70e005-d5fb-4996-bb40-f52945da1091"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:35:38Z"
+        }
+      ]
+    }
+  ]
+}

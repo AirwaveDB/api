@@ -1,0 +1,119 @@
+{
+  "code": "sd",
+  "stationCount": 3,
+  "stations": [
+    {
+      "id": "awb_70f99985239138203662",
+      "name": "FM 100 Pakistan Hyderabad",
+      "country": "PK",
+      "subdivision": "Sindh",
+      "languages": [
+        "sd",
+        "ur"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://fm100pakistan.com/",
+      "favicon": "http://fm100pakistan.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:44:38Z",
+      "streams": [
+        {
+          "id": "aws_6733721eeba95a9a52dc",
+          "stationId": "awb_70f99985239138203662",
+          "url": "http://162.244.80.118:3024/stream.mp3?ver=517748",
+          "codec": "mp3",
+          "bitrate": 32,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bcf92941-0daf-44b0-b8af-bddee31bd9df"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:11:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d232e9980863507b0d5a",
+      "name": "FM 100 Pakistan Karachi",
+      "country": "PK",
+      "subdivision": "Sindh",
+      "languages": [
+        "en",
+        "sd",
+        "ur"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://fm100pakistan.com/",
+      "favicon": "http://fm100pakistan.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:39:33Z",
+      "streams": [
+        {
+          "id": "aws_eb016fe8665624d67f10",
+          "stationId": "awb_d232e9980863507b0d5a",
+          "url": "http://162.244.80.118:3024/stream.mp3?ver=349829",
+          "codec": "mp3",
+          "bitrate": 32,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6f46ab47-2919-4ed5-a70a-9ea0cd739cc2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:14:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1268e41ae1df75efef18",
+      "name": "Papa John's Pizza Pakistan",
+      "country": "PK",
+      "subdivision": "Sindh",
+      "languages": [
+        "en",
+        "es",
+        "hi",
+        "sd",
+        "ta",
+        "ur"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www/papajohns.com.pk",
+      "favicon": "https://media.licdn.com/dms/image/C4D0BAQEI7mldY8HjDQ/company-logo_200_200/0/1646142095845/papajohnspk_logo?e=2147483647&v=beta&t=RFodNsVeiGcT4jU520HdsgjnHcfRiyJMk0WoLbBQ4XY",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:26:30Z",
+      "streams": [
+        {
+          "id": "aws_c990b8400721729d7958",
+          "stationId": "awb_1268e41ae1df75efef18",
+          "url": "http://162.252.85.85:7086/",
+          "codec": "mp3",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ed3e4d31-7133-4eb3-a7e5-9729bf9c3ab2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:29:06Z"
+        }
+      ]
+    }
+  ]
+}

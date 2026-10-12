@@ -1,0 +1,89 @@
+{
+  "code": "dsb",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_817c83fff8b6ed6950e1",
+      "name": "MDR Radijo Sakska",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "dsb",
+        "hsb"
+      ],
+      "categories": [],
+      "tags": [
+        "lusatia",
+        "łužica",
+        "łužyca"
+      ],
+      "homepage": "https://www.mdr.de/serbski-program/livestream-mdr-sachsen-radio-sorbisch-100.html",
+      "favicon": "https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:01:40Z",
+      "streams": [
+        {
+          "id": "aws_85e2a980eb0ce378aea5",
+          "stationId": "awb_817c83fff8b6ed6950e1",
+          "url": "http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "13ffb3a8-da7e-490e-a4c7-8e4fa33469c4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:58:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d0347d7e3db8efaa6fa2",
+      "name": "MDR Sachsen Sakska Serbski rozhłós",
+      "country": "DE",
+      "subdivision": "Saxony",
+      "languages": [
+        "de",
+        "dsb",
+        "hsb"
+      ],
+      "categories": [],
+      "tags": [
+        "lausitz",
+        "lusatia",
+        "serbski",
+        "łużyce"
+      ],
+      "homepage": "https://www.mdr.de/serbski-program/rozhlos/index.html",
+      "favicon": "https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:43:16Z",
+      "streams": [
+        {
+          "id": "aws_3120822300ffc2128c65",
+          "stationId": "awb_d0347d7e3db8efaa6fa2",
+          "url": "http://mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6b4a34a1-9e56-4ac9-8252-c2176a077acc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:05:19Z"
+        }
+      ]
+    }
+  ]
+}

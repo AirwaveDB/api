@@ -1,0 +1,135 @@
+{
+  "code": "gn",
+  "stationCount": 3,
+  "stations": [
+    {
+      "id": "awb_ba41668d0c9c72ccde60",
+      "name": "Exclusiva FM 103.7 FM",
+      "country": "PY",
+      "subdivision": null,
+      "languages": [
+        "es",
+        "gn"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "folclore",
+        "music",
+        "noticias",
+        "popular",
+        "variety"
+      ],
+      "homepage": "https://www.exclusivafm.com.py/",
+      "favicon": "https://www.exclusivafm.com.py/FLYER%20WEB.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:35:43Z",
+      "streams": [
+        {
+          "id": "aws_b52e597dba93fcd4c701",
+          "stationId": "awb_ba41668d0c9c72ccde60",
+          "url": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "78fd1ee2-88bd-42fb-9b4b-86070f9be1e3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:18:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5ca8336cbdccaf558f67",
+      "name": "Fabulosa FM 104.5",
+      "country": "PY",
+      "subdivision": null,
+      "languages": [
+        "es",
+        "gn"
+      ],
+      "categories": [],
+      "tags": [
+        "folclore",
+        "music",
+        "nacional",
+        "popular"
+      ],
+      "homepage": "https://turadio.com.py/fabulosafm/",
+      "favicon": "https://turadio.com.py/wp-content/uploads/2022/07/fablog123234.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_c5feac9b5b2722581d64",
+          "stationId": "awb_5ca8336cbdccaf558f67",
+          "url": "https://radio.host.com.py:7034/;",
+          "codec": "aac+",
+          "bitrate": 56,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "9dc192f2-6a31-4a11-b469-cfbecfa14149",
+            "PY:fabulosa-fm-104-5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:09:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3f4bd339fcca491d7a1a",
+      "name": "Radio Nacional del Paraguay 920 AM",
+      "country": "PY",
+      "subdivision": "Asuncion",
+      "languages": [
+        "es",
+        "gn"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "full service",
+        "public radio",
+        "radio publica"
+      ],
+      "homepage": "http://www.radionacional.gov.py/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:28:39Z",
+      "streams": [
+        {
+          "id": "aws_bb97bc2960c94ec7ac9b",
+          "stationId": "awb_3f4bd339fcca491d7a1a",
+          "url": "http://audio.radionacional.gov.py:8085/920",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "964fc166-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:51:07Z"
+        }
+      ]
+    }
+  ]
+}

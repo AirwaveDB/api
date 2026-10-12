@@ -1,0 +1,162 @@
+{
+  "code": "eo",
+  "stationCount": 4,
+  "stations": [
+    {
+      "id": "awb_31657b68c7f64e6c6069",
+      "name": "Alti Radio",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "eo",
+        "fr"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "eclectic",
+        "gospel",
+        "louange"
+      ],
+      "homepage": "https://actiradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T14:54:44Z",
+      "streams": [
+        {
+          "id": "aws_b466cfe228d34adf28b5",
+          "stationId": "awb_31657b68c7f64e6c6069",
+          "url": "https://transmiss.ion.ovh/listen/altiradio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "30f1e8b0-cab1-446f-a9a4-d4ca349d0cda"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:54:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_beb4a9e7f68a5b007f9a",
+      "name": "Radio Habana Cuba 102.5 FM",
+      "country": "CU",
+      "subdivision": "La Habana",
+      "languages": [
+        "ar",
+        "en",
+        "eo",
+        "es"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiohc.cu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_8e70f64d63296cc62201",
+          "stationId": "awb_beb4a9e7f68a5b007f9a",
+          "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/McW3fLhs",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CU:radio-habana-cuba-102-5-fm"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "id": "awb_75b0828166ece06e8150",
+      "name": "Muzaiko",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "eo"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://muzaiko.info/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:48:59Z",
+      "streams": [
+        {
+          "id": "aws_b6f13eb09bd9774a32c0",
+          "stationId": "awb_75b0828166ece06e8150",
+          "url": "http://fluo.muzaiko.saluton.dk:8000/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "786f0939-fa03-4cb6-b229-89c070ff38c6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:25:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0245c80c4053bbbcd12e",
+      "name": "Muzaiko",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "eo"
+      ],
+      "categories": [],
+      "tags": [
+        "esperanto"
+      ],
+      "homepage": "http://muzaiko.info/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-01-15T02:17:46Z",
+      "streams": [
+        {
+          "id": "aws_b414908cfd8256e57d11",
+          "stationId": "awb_0245c80c4053bbbcd12e",
+          "url": "http://fluo.muzaiko.saluton.dk:8000/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "53fd5aca-1afd-4435-b500-f66ae07ed738",
+            "7fbc2d14-4115-49e6-9930-3999bfbc4c2a",
+            "b84f567d-42ac-487a-8b66-402e71f64156"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:21:10Z"
+        }
+      ]
+    }
+  ]
+}

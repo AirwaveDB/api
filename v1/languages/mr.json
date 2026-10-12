@@ -1,0 +1,157 @@
+{
+  "code": "mr",
+  "stationCount": 4,
+  "stations": [
+    {
+      "id": "awb_470953329a6a8f1db63a",
+      "name": "AIR Kolhapur",
+      "country": "IN",
+      "subdivision": "Maharashtra",
+      "languages": [
+        "en",
+        "hi",
+        "mr"
+      ],
+      "categories": [],
+      "tags": [
+        "infotainment",
+        "local news",
+        "radio drama"
+      ],
+      "homepage": "https://prasarbharati.gov.in/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:29:18Z",
+      "streams": [
+        {
+          "id": "aws_38f8d2377997590b1249",
+          "stationId": "awb_470953329a6a8f1db63a",
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 93,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b118e06-bec2-404e-88e7-a5927cb6a4fc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:29:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_92237edd159205939a5e",
+      "name": "AIR Nanded",
+      "country": "IN",
+      "subdivision": "Maharashtra",
+      "languages": [
+        "hi",
+        "mr"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://prasarbharati.gov.in/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:38:46Z",
+      "streams": [
+        {
+          "id": "aws_348b6e275c8aa1cf26c9",
+          "stationId": "awb_92237edd159205939a5e",
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 95,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "50d2f50b-2cc7-4a0d-ae09-647d5e46d9b6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:28:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_679425607fc31c8d289f",
+      "name": "FM Rainbow Mumbai",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "hi",
+        "mr"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/07/fm-rainbow-mumbai.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T06:40:24Z",
+      "streams": [
+        {
+          "id": "aws_80580c2749f6460054da",
+          "stationId": "awb_679425607fc31c8d289f",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "04660aec-e76a-45af-a1f4-a2583b39518d",
+            "058dcaa3-ee6d-4614-9bce-0cebb25b58c8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:15:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8a97f60eb9d2e8eceb2a",
+      "name": "Radio 4 Public Health",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "hi",
+        "mr"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/12/radio4-public-health.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T06:23:20Z",
+      "streams": [
+        {
+          "id": "aws_fbdab451467377998112",
+          "stationId": "awb_8a97f60eb9d2e8eceb2a",
+          "url": "https://cast4.my-control-panel.com/proxy/demo4usv/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5485c029-a6eb-4737-9c31-2773c6ba2a39",
+            "86761f74-b2b8-4159-8122-e62dadf4937d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:00:26Z"
+        }
+      ]
+    }
+  ]
+}

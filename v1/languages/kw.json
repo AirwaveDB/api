@@ -1,0 +1,70 @@
+{
+  "code": "kw",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_13f0c41540957ce390d3",
+      "name": "The Source FM",
+      "country": "GB",
+      "subdivision": "Cornwall",
+      "languages": [
+        "kw"
+      ],
+      "categories": [
+        "talk",
+        "community",
+        "pop",
+        "rock",
+        "jazz",
+        "classical",
+        "electronic",
+        "hip-hop",
+        "country",
+        "folk",
+        "metal"
+      ],
+      "tags": [
+        "classical",
+        "community radio",
+        "country",
+        "drum & bass",
+        "electronic",
+        "folk",
+        "hiphop",
+        "jazz",
+        "local news",
+        "mashup",
+        "metal",
+        "pop",
+        "rap",
+        "rock",
+        "rock 'n' roll",
+        "spoken word"
+      ],
+      "homepage": "https://www.thesourcefm.co.uk/",
+      "favicon": "https://www.thesourcefm.co.uk/favicon.ico",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:34:02Z",
+      "streams": [
+        {
+          "id": "aws_57d6dae31d498b115df9",
+          "stationId": "awb_13f0c41540957ce390d3",
+          "url": "http://live.canstream.co.uk:8000/sourcefm.mp3",
+          "codec": "mp3",
+          "bitrate": 110,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dd42ec6d-3c93-4b25-a5f4-5809706dd7ed"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:38:38Z"
+        }
+      ]
+    }
+  ]
+}

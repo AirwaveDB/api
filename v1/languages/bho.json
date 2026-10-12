@@ -1,0 +1,41 @@
+{
+  "code": "bho",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_d907fe3e13a853b0dc6c",
+      "name": "Bhojpuriya FM 92.8",
+      "country": "NP",
+      "subdivision": "Birgunj",
+      "languages": [
+        "bho"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-10T20:01:40Z",
+      "streams": [
+        {
+          "id": "aws_d19ebfd95a4371aa4cad",
+          "stationId": "awb_d907fe3e13a853b0dc6c",
+          "url": "http://streaming.softnep.net:8143/;stream.nsv&type=mp3&volume=60",
+          "codec": "mp3",
+          "bitrate": 32,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a3f23ffa-a988-4d04-9e71-a15253bf5e1e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:14:26Z"
+        }
+      ]
+    }
+  ]
+}

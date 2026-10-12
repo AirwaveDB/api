@@ -1,0 +1,50 @@
+{
+  "code": "kl",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_288a68665e88f46b1295",
+      "name": "Kalaallit Nunaata Radioa",
+      "country": "DK",
+      "subdivision": null,
+      "languages": [
+        "kl"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "greenlandic broadcasting corporation",
+        "information",
+        "music",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://knr.gl/kl",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWvtFr-XA9EV4Ca7g0LgobSq355ZOHKyWVo8i0WkQ8Q&s",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-15T01:43:47Z",
+      "streams": [
+        {
+          "id": "aws_ad9f3c4d64d01f63132e",
+          "stationId": "awb_288a68665e88f46b1295",
+          "url": "https://knr.gl/radiolivestream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3a9dcc21-c638-488e-ba54-9c72febbfef7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:06:49Z"
+        }
+      ]
+    }
+  ]
+}

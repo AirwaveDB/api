@@ -1,0 +1,419 @@
+{
+  "code": "fil",
+  "stationCount": 9,
+  "stations": [
+    {
+      "id": "awb_6778722fea1e5a7c5a11",
+      "name": "Home Radio Palawan",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "fil"
+      ],
+      "categories": [],
+      "tags": [
+        "opm"
+      ],
+      "homepage": "http://www.979homeradio.com/",
+      "favicon": "http://www.979homeradio.com/wp-content/uploads/2018/09/cropped-LOGO-1024PNG.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-05-18T22:53:44Z",
+      "streams": [
+        {
+          "id": "aws_dd79cbe96065b9e48b7d",
+          "stationId": "awb_6778722fea1e5a7c5a11",
+          "url": "http://142.44.212.114:9381/stream",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "34add855-8e99-4578-ae54-9a6b4e9dd040",
+            "c9dfe9cd-4c7d-498f-9668-eaecc10f4bdd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:11:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9c7c4b227da3d39f95da",
+      "name": "Love Radio Malaybalay",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "fil"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://www.loveradio.com.ph/malaybalay/",
+      "favicon": "https://www.loveradio.com.ph/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-08-08T03:59:03Z",
+      "streams": [
+        {
+          "id": "aws_9149cf49c7b2f37cf8d0",
+          "stationId": "awb_9c7c4b227da3d39f95da",
+          "url": "http://148.251.43.149:8828/stream",
+          "codec": "mp3",
+          "bitrate": 24,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3194c86b-fe7a-4179-a079-b417bce26846",
+            "50c768a1-36dd-4f0e-8ce9-8ab1c956a99c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:01:25Z"
+        },
+        {
+          "id": "aws_b0ff63ccf0ac25aaf051",
+          "stationId": "awb_9c7c4b227da3d39f95da",
+          "url": "http://lovemalaybalay.radioca.st:8828/stream",
+          "codec": "mp3",
+          "bitrate": 24,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0399ed2e-a818-4c6a-bea1-c24809347106",
+            "309ff603-acd8-4419-a641-b3e95c6600a4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:40:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b3e4eaaaede4449aa818",
+      "name": "Palawan Wave FM",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "eng",
+        "fil",
+        "tl"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "filipino",
+        "music",
+        "news",
+        "palawan",
+        "pinoy",
+        "tagalog",
+        "talk"
+      ],
+      "homepage": "https://radyoph.com/station/palawanwavefm",
+      "favicon": "https://palawanwavefm.com/wp-content/uploads/2024/06/Station-Logo-4-Trans.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ae773d23490d735e0489",
+          "stationId": "awb_b3e4eaaaede4449aa818",
+          "url": "https://xcite.radyoph.com:8020/dzrt",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "1dfa48a0-1a07-4d14-ba04-00e9206acee3",
+            "PH:palawan-wave-fm",
+            "cce4aaa7-b00e-460f-b072-a68477d8163e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:37:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d661db4014bd94567a4e",
+      "name": "Radyo Natin Argao",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "eng",
+        "fil"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radyonatinfm.com/argao",
+      "favicon": "https://sound.radyonatinfm.com/static/uploads/dyrw/album_art.1729653801.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-09-30T15:07:43Z",
+      "streams": [
+        {
+          "id": "aws_b8e64e2a36edd9f53f66",
+          "stationId": "awb_d661db4014bd94567a4e",
+          "url": "https://sound.radyonatinfm.com:8030/argao",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "8a93fc65-55f8-4dc8-b0ee-fdfd3fde6372",
+            "9663abd4-45a3-48bc-b74c-66f91f7a9f71",
+            "PH:radyo-natin-argao"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:08:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f16ff06cf560486fe287",
+      "name": "Radyo Natin BonPen",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "eng",
+        "fil"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "filipino",
+        "local",
+        "music",
+        "news",
+        "pinoy",
+        "quezon",
+        "tagalog",
+        "talk"
+      ],
+      "homepage": "https://radyonatinfm.com/bonpen",
+      "favicon": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-BONPEN-102.5.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_e0fd919fb4a7d650db9b",
+          "stationId": "awb_f16ff06cf560486fe287",
+          "url": "https://stream.radyonatinfm.com:8020/bonpen",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "867266be-00e4-4211-b405-f87fc4ea2f1b",
+            "PH:radyo-natin-bonpen"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:32:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f618a51fcd6a4c7e25ba",
+      "name": "Radyo Natin Buhi",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "eng",
+        "fil"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radyonatinfm.com/buhi",
+      "favicon": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-BUHI-100.1-V2.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_25e78e9841719f0d289d",
+          "stationId": "awb_f618a51fcd6a4c7e25ba",
+          "url": "https://ph.radyonatinfm.com:8030/buhi",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "364bafed-107e-4735-bb9d-8ce2d32e25ca",
+            "767f0506-e473-49fd-ad41-24e6909229c8",
+            "PH:radyo-natin-buhi"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:29:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_56da411ce9eb0ba05468",
+      "name": "Radyo Natin CDO",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "eng",
+        "fil"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radyonatinfm.com/cdo",
+      "favicon": "https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-CAGAYAN-DE-ORO-106.3-V2.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_4de3e67a97a1602d617b",
+          "stationId": "awb_56da411ce9eb0ba05468",
+          "url": "https://wave.radyonatinfm.com:8030/cdo",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "12ae4787-b17a-44db-8359-fe10cf9d1ae9",
+            "3c624ab1-534d-4f03-aa4a-a258a47c62c6",
+            "PH:radyo-natin-cdo"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:08:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b258a57f2625b16bde3b",
+      "name": "Radyo Natin Iba",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "eng",
+        "fil"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "filipino",
+        "music",
+        "news",
+        "pinoy",
+        "tagalog",
+        "talk",
+        "zambales"
+      ],
+      "homepage": "https://radyonatinfm.com/iba",
+      "favicon": "https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-IBA-105.7-V2.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_258640edaf3f63587635",
+          "stationId": "awb_b258a57f2625b16bde3b",
+          "url": "https://phils.radyonatinfm.com:8000/iba",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "20e6c5c1-82ca-479d-9057-a49b6ac36563",
+            "PH:radyo-natin-iba"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:13:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0b96ec32a04d37e9bd33",
+      "name": "Radyo Natin Madridejos",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "eng",
+        "fil",
+        "tl"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "cebu",
+        "filipino",
+        "music",
+        "news",
+        "pinoy",
+        "tagalog",
+        "talk"
+      ],
+      "homepage": "https://radyonatinfm.com/madridejos",
+      "favicon": "http://vipcore.s3.ap-southeast-1.amazonaws.com/rn/logo/480/madridejos+102.9+dyee.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_3c734413e728430e8178",
+          "stationId": "awb_0b96ec32a04d37e9bd33",
+          "url": "https://tx.radyonatinfm.com:8010/madridejos",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "PH:radyo-natin-madridejos",
+            "a50fcb90-1eff-4ccc-92c2-ce4355bbfa03"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:21:49Z"
+        }
+      ]
+    }
+  ]
+}

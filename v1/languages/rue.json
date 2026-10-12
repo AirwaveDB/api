@@ -1,0 +1,48 @@
+{
+  "code": "rue",
+  "stationCount": 1,
+  "stations": [
+    {
+      "id": "awb_1b9225ecb05fe6041247",
+      "name": "Radio Lemko.pl",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "rue"
+      ],
+      "categories": [
+        "folk"
+      ],
+      "tags": [
+        "carpatho rusyn",
+        "ethnic",
+        "folk music",
+        "lemko"
+      ],
+      "homepage": "https://www.radio-lemko.pl/",
+      "favicon": "https://static.mytuner.mobi/media/radios-150px/101/radio-lemko.a601863c.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-15T12:24:00Z",
+      "streams": [
+        {
+          "id": "aws_599eeb1e1085250f2487",
+          "stationId": "awb_1b9225ecb05fe6041247",
+          "url": "http://stream3.nadaje.com:8060/radio",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "59c4407c-b284-4dac-90c3-6d0672d6cf03"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:44:28Z"
+        }
+      ]
+    }
+  ]
+}

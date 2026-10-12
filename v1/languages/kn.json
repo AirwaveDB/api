@@ -1,0 +1,999 @@
+{
+  "code": "kn",
+  "stationCount": 27,
+  "stations": [
+    {
+      "id": "awb_b065d36804b9c05ecb56",
+      "name": "Live FM",
+      "country": "BH",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "ml",
+        "ta",
+        "te",
+        "ur"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.livefm.bh/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T04:26:23Z",
+      "streams": [
+        {
+          "id": "aws_5a4880bb74d014a19c99",
+          "stationId": "awb_b065d36804b9c05ecb56",
+          "url": "https://stream.aiir.com/dbv0rxpwp6ytv",
+          "codec": "aac",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "09cf6598-9899-4ff3-bb90-25bd517b7375",
+            "104dc6c9-bfe7-464b-bf4f-e485a921c109"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:26:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_deffca24a6ca87514ce5",
+      "name": "AIR Bangalore",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/02/air-bangalore.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:14:13Z",
+      "streams": [
+        {
+          "id": "aws_b6ecfa1ad3d71a2c989e",
+          "stationId": "awb_deffca24a6ca87514ce5",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c9194192-7a4a-4521-bbdc-d62ec97357c7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:51:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2a637b8991d44ab21c9c",
+      "name": "Air FM Rainbow Bangalore",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/all-india-radio.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:37:33Z",
+      "streams": [
+        {
+          "id": "aws_dbfaae129775f8e01a7f",
+          "stationId": "awb_2a637b8991d44ab21c9c",
+          "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 95,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d13d3a84-24e6-4644-ab76-58863de0a157"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:47:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ced4e76b16bca59ca743",
+      "name": "akashvanikarnataka",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://radiosindia.com/https://radiosindia.com/images/air.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:48:52Z",
+      "streams": [
+        {
+          "id": "aws_c5eb70dae588016c85a2",
+          "stationId": "awb_ced4e76b16bca59ca743",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "18dec9c2-69b2-4392-8882-985f14e8dae2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:09:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ea1fd9aac9b014d80ae4",
+      "name": "amrradiokannada",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://radiosindia.com/https://radiosindia.com/images/amrradio.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:34:47Z",
+      "streams": [
+        {
+          "id": "aws_c61849199ba39ccd37bd",
+          "stationId": "awb_ea1fd9aac9b014d80ae4",
+          "url": "https://stream.zeno.fm/7g8axtgtsg0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fe9ddd4b-db4d-41ab-940c-dc834089e106"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:16:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4391726ba27f17493107",
+      "name": "Amruthavarshini FM",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/08/amruthavarshini-FM.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:39:08Z",
+      "streams": [
+        {
+          "id": "aws_a68bf25b6218359cbc37",
+          "stationId": "awb_4391726ba27f17493107",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "15d80925-5fc6-4279-bccc-243a2a0e1db0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:04:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2052bb73ac88e901e083",
+      "name": "Anbu FM Kannada",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/anbufm.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:10:47Z",
+      "streams": [
+        {
+          "id": "aws_17a3864c383780e2dc97",
+          "stationId": "awb_2052bb73ac88e901e083",
+          "url": "http://stream.zeno.fm/45f9c2byfy8uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9223abc7-be2a-4b76-92d5-31832711b3ba"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:50:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e78d6fe735293d64cd50",
+      "name": "fmrainbowkannada",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:59:16Z",
+      "streams": [
+        {
+          "id": "aws_8d3895f22be3124f1a6b",
+          "stationId": "awb_e78d6fe735293d64cd50",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "daa8eddc-21fd-4481-b14d-7c87d8bf998d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:03:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6aa77cdd4dd46a117192",
+      "name": "kannadahits",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://radiosindia.com/https://radiosindia.com/images/kannadahits.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:49:59Z",
+      "streams": [
+        {
+          "id": "aws_328b92cf6821893ed307",
+          "stationId": "awb_6aa77cdd4dd46a117192",
+          "url": "https://stream.zeno.fm/68snnbug8rhvv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7bfa32e7-a239-4f59-904a-fcf602b06404"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:21:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_64c8e37f75cdf1454d64",
+      "name": "Namm radio Kannada",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/naam-radio-kannada.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:28:20Z",
+      "streams": [
+        {
+          "id": "aws_45e3ce2ee9ff00ea51a4",
+          "stationId": "awb_64c8e37f75cdf1454d64",
+          "url": "https://stream.zenolive.com/bbs8prb015quv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cdacacb3-d3ee-4a2b-b57d-d1190472a542"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:13:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_853db868ac67cb5718cd",
+      "name": "nammradio",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:13:13Z",
+      "streams": [
+        {
+          "id": "aws_ba7f1d21678df7d8b2a1",
+          "stationId": "awb_853db868ac67cb5718cd",
+          "url": "http://stream.zeno.fm/6quh1pfnt1duv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c2620d5e-bf9c-48cb-b35f-e63fd3007f0e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:13:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_271aa63b42213c415288",
+      "name": "nammradiogulf",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://radiosindia.com/https://radiosindia.com/images/nammradio.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:34:02Z",
+      "streams": [
+        {
+          "id": "aws_062f50a88062676f08bd",
+          "stationId": "awb_271aa63b42213c415288",
+          "url": "http://stream.zeno.fm/kgw2tp5p1y5tv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b5734651-01a0-4bd0-afa7-2d0e8f5e265a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:50:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_217b3d107bf608f999e8",
+      "name": "nammradious",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:26:30Z",
+      "streams": [
+        {
+          "id": "aws_b896edebe9fe803795bd",
+          "stationId": "awb_217b3d107bf608f999e8",
+          "url": "http://stream.zeno.fm/kc4wg3ent1duv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "feeb9142-15bd-472f-9ac9-3c7acc7aad44"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-01T19:07:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c99690b3709b4ee0485c",
+      "name": "Nammura Baanuli",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.facebook.com/p/Nammur-Banuli-community-Radio-Station-908FM-100065169272419/",
+      "favicon": "https://play-lh.googleusercontent.com/ILg-pgpwO2oKVe7oTWksdu_8ee97I2D12WIgA-GwsvW_124qg7Nhk9PGaRekvS2h5g",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:24:52Z",
+      "streams": [
+        {
+          "id": "aws_1ab497834e4c800038f2",
+          "stationId": "awb_c99690b3709b4ee0485c",
+          "url": "http://198.245.61.103:8029/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f5ad34a8-51c0-4f9f-bb71-5b966a0e5354"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:30:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6f929d6fb03a423e78fa",
+      "name": "raagam",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:11:33Z",
+      "streams": [
+        {
+          "id": "aws_c11b63b2fc47522bce31",
+          "stationId": "awb_6f929d6fb03a423e78fa",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "97a382d9-79fa-4c1a-aa8c-e426a8c94b8a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:10:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d42f38813ec3754d0122",
+      "name": "Raagam AIR 24*7",
+      "country": "IN",
+      "subdivision": "National",
+      "languages": [
+        "hi",
+        "kn",
+        "ml",
+        "ta",
+        "te",
+        "ur"
+      ],
+      "categories": [],
+      "tags": [
+        "carnatic",
+        "hindustani"
+      ],
+      "homepage": "https://newsonair.com/live/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:11:46Z",
+      "streams": [
+        {
+          "id": "aws_02c6f5e9d98082f9b690",
+          "stationId": "awb_d42f38813ec3754d0122",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fdc1a164-b561-4288-b315-7e7362644d86"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:01:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_604eb2d2eb9a250f28f1",
+      "name": "Radio AMR Kannada",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/amr.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:47:12Z",
+      "streams": [
+        {
+          "id": "aws_cc84f28f1fb5cc84126e",
+          "stationId": "awb_604eb2d2eb9a250f28f1",
+          "url": "https://stream.zenolive.com/7g8axtgtsg0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "73eba1fd-3bf7-48e7-9289-18084ee342e9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:01:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fc6af6eaca50a1b3c454",
+      "name": "Radio Girmit Kannada",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/radio-girmit-kannada.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_3cda8b043ed7dd4008bc",
+          "stationId": "awb_fc6af6eaca50a1b3c454",
+          "url": "https://stream.radiojar.com/g6dgm6m6p3hvv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "6533a16a-c01b-4100-adb9-7f2737398fc5",
+            "IN:radio-girmit-kannada"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:54:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2a2b3f1c18413a5f537d",
+      "name": "Radio Panchajanya",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/radio-panchajanya.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:23:35Z",
+      "streams": [
+        {
+          "id": "aws_a2aca6c421fa75a2b14e",
+          "stationId": "awb_2a2b3f1c18413a5f537d",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-8-27/24e94d7f-07dc-9d45-95d0-ddfbbda2b7ae.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c5d7db59-0df8-4470-b842-46fc1ead8fac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-01T10:13:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2639edbe53607ddf4341",
+      "name": "radiogirmit",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:46:22Z",
+      "streams": [
+        {
+          "id": "aws_34841867164221b8956e",
+          "stationId": "awb_2639edbe53607ddf4341",
+          "url": "https://stream.radiojar.com/g6dgm6m6p3hvv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f27b63fc-5efd-4c16-bca3-6cf61e782af2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:56:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5f4b38274df9bac4fd5b",
+      "name": "radiomirchibengaluru",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://radiosindia.com/images/radiomirchi.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_a940105a2541b7e96df8",
+          "stationId": "awb_5f4b38274df9bac4fd5b",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "768e445c-addd-4968-8204-ad980c951982",
+            "IN:radiomirchibengaluru"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:25:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d7d5ed41620f7b5837f7",
+      "name": "radiosunokannada",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://radiosindia.com/images/radiosunokannada1.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:41:59Z",
+      "streams": [
+        {
+          "id": "aws_91ba38edfbf729fa01c0",
+          "stationId": "awb_d7d5ed41620f7b5837f7",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "53ab2e7e-8ee4-4d04-9349-2b974d4dcff4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:52:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_caf6a34cf160e0356833",
+      "name": "Sakkath Radio Kannada",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/sakkath-radio-kannada.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:44:43Z",
+      "streams": [
+        {
+          "id": "aws_12741ad5b67e3f806dd6",
+          "stationId": "awb_caf6a34cf160e0356833",
+          "url": "https://node-31.zeno.fm/fcsk9ryerd0uv?rj-ttl=5&rj-tok=AAABdXnVZ3sA-61zQpwDIgRWvw",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "443a1153-10a3-4312-bb74-50c703e8129b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:04:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9da9af4978f43aca2b38",
+      "name": "sakkathradio",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://radiosindia.com/https://radiosindia.com/images/sakkathradio.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:10:11Z",
+      "streams": [
+        {
+          "id": "aws_9ea955f1eef72850464d",
+          "stationId": "awb_9da9af4978f43aca2b38",
+          "url": "https://node-31.zeno.fm/fcsk9ryerd0uv?rj-ttl=5&rj-tok=AAABdXnVZ3sA-61zQpwDIgRWvw",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4d4855db-228f-4f14-8b10-64d74263a38e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:09:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff27f5a5555204bf1757",
+      "name": "Shaiva Lahari",
+      "country": "IN",
+      "subdivision": "Karnataka",
+      "languages": [
+        "en",
+        "hi",
+        "kn",
+        "ml",
+        "sa",
+        "ta",
+        "te"
+      ],
+      "categories": [],
+      "tags": [
+        "devotional",
+        "hindu",
+        "religion",
+        "spirituals"
+      ],
+      "homepage": "https://shaivam.org/radio-shaivalahari/#gsc.tab=0",
+      "favicon": "https://shaivam.org/images/shaivam-logo-2015.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-09-28T13:26:02Z",
+      "streams": [
+        {
+          "id": "aws_068e01003939a8600eac",
+          "stationId": "awb_ff27f5a5555204bf1757",
+          "url": "https://26343.live.streamtheworld.com/SP_R2925215_SC",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "da0c4636-963f-4e1e-bee0-236858201444"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:45:15Z"
+        },
+        {
+          "id": "aws_d89b6a8e8cd237df8e8c",
+          "stationId": "awb_ff27f5a5555204bf1757",
+          "url": "https://radio.shaivam.org/listen/shaiva-lahari/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "40c7733c-558c-498b-afa0-85262cbcc916",
+            "c31a923e-7677-4a80-bd4b-b33c1f4440c7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:30:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_83e7cbf5a524cf2fbbda",
+      "name": "Vividh Bharati Bengaluru",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2022/01/vividh-bharati-air.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:48:59Z",
+      "streams": [
+        {
+          "id": "aws_9a9ef1c76d85916cbb2f",
+          "stationId": "awb_83e7cbf5a524cf2fbbda",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ad1abfce-9ac9-4187-88e9-d6be60344f25"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:10:04Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_06cd2cdf00909a379177",
+      "name": "vividhbharatikannada",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "kn"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:27:38Z",
+      "streams": [
+        {
+          "id": "aws_7aaedb82e86109bce1da",
+          "stationId": "awb_06cd2cdf00909a379177",
+          "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b398bca-29ea-446d-80c2-5ae69fa12b85"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:25:31Z"
+        }
+      ]
+    }
+  ]
+}

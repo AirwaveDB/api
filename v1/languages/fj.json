@@ -1,0 +1,100 @@
+{
+  "code": "fj",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_fb27c8c976645da8d4c9",
+      "name": "531pi - AAC",
+      "country": "NZ",
+      "subdivision": "Auckland",
+      "languages": [
+        "en",
+        "fj",
+        "mi",
+        "sm",
+        "to"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "pacific cultures"
+      ],
+      "homepage": "https://pmn.co.nz/radio-stations/531-pi",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-12T11:03:08Z",
+      "streams": [
+        {
+          "id": "aws_6b6532f415407bd00641",
+          "stationId": "awb_fb27c8c976645da8d4c9",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "4de83f70-0ac9-4630-9786-cab9d4804540",
+            "NZ:531pi-aac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:03:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e6c2b34e1d4c47c64488",
+      "name": "531pi - MP3",
+      "country": "NZ",
+      "subdivision": "Auckland",
+      "languages": [
+        "en",
+        "fj",
+        "mi",
+        "sm",
+        "to"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "pacific cultures"
+      ],
+      "homepage": "https://pmn.co.nz/radio-stations/531-pi",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-11T21:28:06Z",
+      "streams": [
+        {
+          "id": "aws_3f745fc349d4c019a2d7",
+          "stationId": "awb_e6c2b34e1d4c47c64488",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "NZ:531pi-mp3",
+            "fd69151b-93ad-46cd-9169-796732061ffb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:28:07Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "code": "lb",
+  "stationCount": 9,
+  "stations": [
+    {
+      "id": "awb_0eb81a9f3c38c1f62ddd",
+      "name": "SR Fernsehen HD",
+      "country": "DE",
+      "subdivision": "Saarland",
+      "languages": [
+        "de",
+        "fr",
+        "lb"
+      ],
+      "categories": [],
+      "tags": [
+        "aktueller bericht",
+        "ard",
+        "drittes programm",
+        "iptv",
+        "livestream",
+        "regionalmagazin",
+        "saarbrücken",
+        "saarländischer rundfunk",
+        "sr",
+        "sr fernsehen",
+        "sr info",
+        "swr fersehen"
+      ],
+      "homepage": "https://www.sr.de/sr/fernsehen/index.html",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:00:03Z",
+      "streams": [
+        {
+          "id": "aws_8e3148710ee5a2e59040",
+          "stationId": "awb_0eb81a9f3c38c1f62ddd",
+          "url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
+          "codec": "aac",
+          "bitrate": 1672,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7f054d6c-ab70-4487-ab7d-90721d8fd577"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:17:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b03f1f0e1fe22c03da70",
+      "name": "Eldoradio",
+      "country": "LU",
+      "subdivision": null,
+      "languages": [
+        "lb"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "http://radio.eldo.lu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:51:20Z",
+      "streams": [
+        {
+          "id": "aws_51b4b8f9da2ec673c84d",
+          "stationId": "awb_b03f1f0e1fe22c03da70",
+          "url": "http://81.92.238.33/",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9611e44f-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:33:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_33710903dd0229e6916e",
+      "name": "Free Radio Luxembourg",
+      "country": "LU",
+      "subdivision": "Luxembourg",
+      "languages": [
+        "lb"
+      ],
+      "categories": [],
+      "tags": [
+        "pop rock"
+      ],
+      "homepage": "https://www.radioking.com/play/rfm-luxembourg/137599",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:21:39Z",
+      "streams": [
+        {
+          "id": "aws_96920aa0ca0ba64cd9f4",
+          "stationId": "awb_33710903dd0229e6916e",
+          "url": "https://www.radioking.com/play/rfm-luxembourg/137599",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ca05721e-5bdd-47cf-8d9f-2db8da94d708"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:19:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e6fbc4657c84f09d6c23",
+      "name": "Free Radio Luxembourg FRL",
+      "country": "LU",
+      "subdivision": "Luxembourg",
+      "languages": [
+        "lb"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://www.radioking.com/play/rfm-luxembourg/137599",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_2c226c72ceccfc3806c5",
+          "stationId": "awb_e6fbc4657c84f09d6c23",
+          "url": "https://www.radioking.com/play/rfm-luxembourg/137599",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "971f6221-4fee-11e9-a4d7-52543be04c81",
+            "LU:free-radio-luxembourg-frl"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:10:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_172710825bdba14d6165",
+      "name": "Radio 100,7",
+      "country": "LU",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "lb"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "blues rock",
+        "classical",
+        "indie"
+      ],
+      "homepage": "https://www.100komma7.lu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:42:51Z",
+      "streams": [
+        {
+          "id": "aws_b3d2502be9ddf963dc22",
+          "stationId": "awb_172710825bdba14d6165",
+          "url": "http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a718c8b6-6f90-4a6d-bba4-dc89cb4aebb7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:27:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6755086dc4c3af3ec84a",
+      "name": "Radio 100komma7",
+      "country": "LU",
+      "subdivision": "Luxembourg",
+      "languages": [
+        "fr",
+        "lb"
+      ],
+      "categories": [
+        "news",
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "classical music",
+        "culture",
+        "local news",
+        "music",
+        "news",
+        "society"
+      ],
+      "homepage": "https://100komma7.lu/",
+      "favicon": "https://100komma7.lu/static/logo-radio.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_64081bba4e58232da207",
+          "stationId": "awb_6755086dc4c3af3ec84a",
+          "url": "http://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "03657684-576c-4a47-aa13-43cf6831b5c2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:24:45Z"
+        },
+        {
+          "id": "aws_f124fa6883b579c2a3ad",
+          "stationId": "awb_6755086dc4c3af3ec84a",
+          "url": "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "80f07344-504e-48dd-8775-ab60c4a82068",
+            "LU:radio-100komma7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:48:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f5d848767d8eaac50553",
+      "name": "Radio Peiteng on Air",
+      "country": "LU",
+      "subdivision": null,
+      "languages": [
+        "lb"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.peitengonair.lu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-18T11:56:49Z",
+      "streams": [
+        {
+          "id": "aws_51750c85ac1a92d507fc",
+          "stationId": "awb_f5d848767d8eaac50553",
+          "url": "http://stream.peitengonair.lu:9000/live",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "10a77b03-69df-486e-b3bc-a3808ab70c49"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:51:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a2d21b67cfda1a50f1dd",
+      "name": "RTL Radio Letzebuerg",
+      "country": "LU",
+      "subdivision": null,
+      "languages": [
+        "lb"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "information",
+        "pop"
+      ],
+      "homepage": "http://www.rtl.lu/",
+      "favicon": "http://www.rtl.lu/assets/images/favicon-rtllu/apple-touch-icon.png?v=202304271020",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:56:19Z",
+      "streams": [
+        {
+          "id": "aws_8896151829d5e81a04b4",
+          "stationId": "awb_a2d21b67cfda1a50f1dd",
+          "url": "http://sc-rtllive.newmedia.lu/",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960ef824-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:01:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fb9a456b5c783581b285",
+      "name": "RTL Radio Lëtzebuerg",
+      "country": "LU",
+      "subdivision": null,
+      "languages": [
+        "lb"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.rtl.lu/",
+      "favicon": "http://www.rtl.lu//assets/images/favicon-rtl/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:48:40Z",
+      "streams": [
+        {
+          "id": "aws_3dfae38a0f841544fb78",
+          "stationId": "awb_fb9a456b5c783581b285",
+          "url": "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 6452,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6a893f37-f749-11e9-bbf2-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:02:35Z"
+        }
+      ]
+    }
+  ]
+}

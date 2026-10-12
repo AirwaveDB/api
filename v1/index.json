@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-10-12T20:41:57.367Z",
+  "generatedAt": "2026-10-12T23:58:02.677Z",
   "stationCount": 54186,
   "streamCount": 57343,
   "countryCount": 243,
+  "languageCount": 164,
+  "categoryCount": 25,
   "databaseGeneratedAt": "2026-10-12T20:40:28.436Z",
-  "streamsGeneratedAt": "2026-10-12T20:33:48.747Z"
+  "streamsGeneratedAt": "2026-10-12T20:40:50.479Z",
+  "routes": {
+    "station": "/v1/stations/:id",
+    "country": "/v1/countries/:code",
+    "category": "/v1/categories/:id",
+    "language": "/v1/languages/:code"
+  }
 }

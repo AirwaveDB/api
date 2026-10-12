@@ -1,0 +1,136 @@
+{
+  "code": "mg",
+  "stationCount": 3,
+  "stations": [
+    {
+      "id": "awb_b8aa2c314bd3810163db",
+      "name": "Alefamusic",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr",
+        "mg"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "african",
+        "african music",
+        "african pop",
+        "afrique",
+        "afro-pop",
+        "afropop",
+        "pop",
+        "pop dance",
+        "pop music"
+      ],
+      "homepage": "https://www.alefamusic.net/",
+      "favicon": "https://www.alefamusic.net/upload/583de911e42a49.25823503.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:45:24Z",
+      "streams": [
+        {
+          "id": "aws_7970ec1546b47ba0db4d",
+          "stationId": "awb_b8aa2c314bd3810163db",
+          "url": "http://www.radioking.com/play/alefamusic",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3bbba2aa-8426-4270-9e05-a33ef51bfd98"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:16:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c975f4da8bc8258e56f1",
+      "name": "Hopefy Radio MG",
+      "country": "MG",
+      "subdivision": null,
+      "languages": [
+        "mg"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "religious"
+      ],
+      "homepage": "https://radio.fanantenanahoanao.org/",
+      "favicon": "https://hopefy.fanantenanahoanao.org/static/uploads/album_art.1718582233.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_b4e7d0c04f6c23a7553e",
+          "stationId": "awb_c975f4da8bc8258e56f1",
+          "url": "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "14e39ca9-6bf4-4273-96c2-dd00ee862828",
+            "MG:hopefy-radio-mg"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:15:44Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e920fd11a04e9b512c11",
+      "name": "Radio des jeunes (RDJ)",
+      "country": "MG",
+      "subdivision": null,
+      "languages": [
+        "mg"
+      ],
+      "categories": [],
+      "tags": [
+        "96.6",
+        "antananarivo",
+        "rdj"
+      ],
+      "homepage": "http://rdj.mg/",
+      "favicon": "https://becakgalon.com/img/begal-fiveicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:51:37Z",
+      "streams": [
+        {
+          "id": "aws_6f70e1759a9d26f627e2",
+          "stationId": "awb_e920fd11a04e9b512c11",
+          "url": "http://rdj966.net:8000/rdj966.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b34da1a-246d-4fcb-9d33-1af386e1c064"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:46:37Z"
+        }
+      ]
+    }
+  ]
+}

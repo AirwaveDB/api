@@ -1,0 +1,161 @@
+{
+  "code": "yi",
+  "stationCount": 4,
+  "stations": [
+    {
+      "id": "awb_af0f1a5f91a491877801",
+      "name": "Yiddish pour tous",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "yi"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.yiddishpourtous.com/",
+      "favicon": "https://static.wixstatic.com/media/b8f8f5_53a68559e3164f088e45f9f66f18954d%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/b8f8f5_53a68559e3164f088e45f9f66f18954d%7Emv2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:47:23Z",
+      "streams": [
+        {
+          "id": "aws_849a4ca65c263b24cccb",
+          "stationId": "awb_af0f1a5f91a491877801",
+          "url": "https://www.radioking.com/play/radio-yiddish-pour-tous",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "67aac61f-1417-11e9-a80b-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:56:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7414d540316cc55d2d09",
+      "name": "Kcm FM Channel 01 Live",
+      "country": "IL",
+      "subdivision": "Jerusalem",
+      "languages": [
+        "he",
+        "yi"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "hasidic",
+        "hebrew",
+        "israël",
+        "religious",
+        "yiddish"
+      ],
+      "homepage": "https://kcm.fm/",
+      "favicon": "https://kcm.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:32:00Z",
+      "streams": [
+        {
+          "id": "aws_67e61d168eb18a9b8f8b",
+          "stationId": "awb_7414d540316cc55d2d09",
+          "url": "https://media2.93fm.co.il/livemusic",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5b7a953b-98a6-4823-a9f9-3ad52aa2ed88"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-01T04:12:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2bfbd7de5d88eed20327",
+      "name": "Radio Caprice - Jewish Music/Klezmer",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "yi"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://radcap.ru/klezmer.html",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:27:20Z",
+      "streams": [
+        {
+          "id": "aws_69c62b41e06fca0e82dd",
+          "stationId": "awb_2bfbd7de5d88eed20327",
+          "url": "http://79.120.39.202:8002/klezmer",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4ccbc462-5fe5-41a1-8771-654d2f5eae3e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:33:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_970bc559de99b7cbbc8a",
+      "name": "Chabad.org Jewish Music",
+      "country": "US",
+      "subdivision": "New York",
+      "languages": [
+        "en",
+        "he",
+        "yi"
+      ],
+      "categories": [],
+      "tags": [
+        "jewish",
+        "judaism"
+      ],
+      "homepage": "https://www.chabad.org/library/article_cdo/aid/3963652/jewish/Jewish-Music-App.htm",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:48:14Z",
+      "streams": [
+        {
+          "id": "aws_4855271c1fcd15828085",
+          "stationId": "awb_970bc559de99b7cbbc8a",
+          "url": "https://stream.radio.co/sdfd68a101/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4b95137f-1367-464a-8fc1-18492cbb0964"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:41:31Z"
+        }
+      ]
+    }
+  ]
+}

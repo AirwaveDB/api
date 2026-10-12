@@ -1,0 +1,82 @@
+{
+  "code": "bar",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_fb05fc4fe19537fdec24",
+      "name": "Alpin FM",
+      "country": "DE",
+      "subdivision": "Bayern",
+      "languages": [
+        "bar",
+        "de"
+      ],
+      "categories": [],
+      "tags": [
+        "alpenrock",
+        "austropop",
+        "bairische popmusik",
+        "bairische rockmusik"
+      ],
+      "homepage": "https://alpin.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:16:45Z",
+      "streams": [
+        {
+          "id": "aws_5c535024d3309be0541c",
+          "stationId": "awb_fb05fc4fe19537fdec24",
+          "url": "https://s16.myradiostream.com/:6390/stream/3/listen.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02226ea8-b869-4b12-823c-f06bf2ac4866"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:04:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3ff65a18d6652b77c1b1",
+      "name": "Antenne Bayern - Bayern Sound",
+      "country": "DE",
+      "subdivision": "Bavaria",
+      "languages": [
+        "bar"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.antenne.de/webradio/bayern-sound",
+      "favicon": "https://cdn-profiles.tunein.com/s309706/images/logod.jpg?t=637538489160000000",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:59:16Z",
+      "streams": [
+        {
+          "id": "aws_7381a4d37b3943839bbd",
+          "stationId": "awb_3ff65a18d6652b77c1b1",
+          "url": "https://stream.antenne.de/bayern-sound/stream/mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2446bc54-bfbb-41b4-afac-4a1c0fb4b141"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:58:09Z"
+        }
+      ]
+    }
+  ]
+}

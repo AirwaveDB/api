@@ -1,0 +1,331 @@
+{
+  "code": "gd",
+  "stationCount": 8,
+  "stations": [
+    {
+      "id": "awb_bd82db9e3ddfa3603766",
+      "name": "CBFM.ca Gaelic College - St. Ann's, NS",
+      "country": "CA",
+      "subdivision": "Nova Scotia",
+      "languages": [
+        "en",
+        "gd"
+      ],
+      "categories": [
+        "community",
+        "folk"
+      ],
+      "tags": [
+        "community radio",
+        "folk music"
+      ],
+      "homepage": "https://www.cbfm.ca/",
+      "favicon": "https://static.wixstatic.com/media/6580fb_efe28fd1b5774572912bdf764664b9d6~mv2.png/v1/crop/x_46,y_18,w_1420,h_493/fill/w_1314,h_461,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/240897452_143291668001987_3110387522172709500_n.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:15:25Z",
+      "streams": [
+        {
+          "id": "aws_d486f496539f02517349",
+          "stationId": "awb_bd82db9e3ddfa3603766",
+          "url": "https://s4.radio.co/s6f58ddb4f/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "20c2d803-b952-46ef-aab8-05313b1e286a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:25:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2cfdd524684b98d2ed2a",
+      "name": "BBC Radio nan Gàidheal (128k)",
+      "country": "GB",
+      "subdivision": "Scotland",
+      "languages": [
+        "en",
+        "gd"
+      ],
+      "categories": [
+        "news",
+        "talk",
+        "sports"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "news",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://www.bbc.co.uk/radionangaidheal",
+      "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:50:24Z",
+      "streams": [
+        {
+          "id": "aws_e0e08f8c4b17d03e432f",
+          "stationId": "awb_2cfdd524684b98d2ed2a",
+          "url": "http://as-hls-ww-live.akamaized.net/pool_01935182/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d128000.norewind.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0adc3a6b-eaa6-4982-a4ce-6c2f90e7e507"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:12:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a8e302fe41ed4d60d0fa",
+      "name": "Radio Skye",
+      "country": "GB",
+      "subdivision": "Scotland",
+      "languages": [
+        "en",
+        "gd"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radioskye.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:55:32Z",
+      "streams": [
+        {
+          "id": "aws_4f40f987ed83ac0852b0",
+          "stationId": "awb_a8e302fe41ed4d60d0fa",
+          "url": "http://comet.shoutca.st:8338/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aff3b0cb-9d7c-4a8a-a1d5-60255f46a1f8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:05:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_990c1af1cb14d1d11e2b",
+      "name": "Radio Wester Ross",
+      "country": "GB",
+      "subdivision": "Scotland",
+      "languages": [
+        "en",
+        "gd"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "folklore",
+        "pop"
+      ],
+      "homepage": "https://www.radiowesterross.scot/",
+      "favicon": "https://www.radiowesterross.scot/application/files/3917/0852/2702/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-03-11T13:33:56Z",
+      "streams": [
+        {
+          "id": "aws_a2134c563c0b0e0b4ddf",
+          "stationId": "awb_990c1af1cb14d1d11e2b",
+          "url": "https://stream.rcs.revma.com/96z3d1qs5bcwv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d61ddebb-dd6f-40d8-8ce8-bcb6642397c2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:09:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_07bed20c42ce6d1dfe39",
+      "name": "LiveIreland",
+      "country": "IE",
+      "subdivision": "Dublin",
+      "languages": [
+        "gd"
+      ],
+      "categories": [],
+      "tags": [
+        "celtic",
+        "irish"
+      ],
+      "homepage": "https://linktr.ee/liveireland",
+      "favicon": "https://ugc.production.linktr.ee/25ptJVPeSsK0acaBjPZg_EC3n4X2PX71u30I0?io=true&size=avatar-v3_0",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-07-10T03:45:19Z",
+      "streams": [
+        {
+          "id": "aws_774e27b689bbb81aa22d",
+          "stationId": "awb_07bed20c42ce6d1dfe39",
+          "url": "http://lynx.prostreaming.net:8058/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c45a34d3-6423-4cdd-880f-ab8f1cefb368"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:15:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b2cf40353f62a822338e",
+      "name": "Raidió na Gaeltachta",
+      "country": "IE",
+      "subdivision": "Dublin",
+      "languages": [
+        "en",
+        "gd"
+      ],
+      "categories": [],
+      "tags": [
+        "irish language",
+        "mixed"
+      ],
+      "homepage": "https://www.rte.ie/radio/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:51:52Z",
+      "streams": [
+        {
+          "id": "aws_122ee8bc85ce57070ba6",
+          "stationId": "awb_b2cf40353f62a822338e",
+          "url": "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "069656f5-0e23-4564-bd0a-33d9b220415b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:45:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_35362b254184ddb8a975",
+      "name": "RTÉ Raidió na Gaeltachta",
+      "country": "IE",
+      "subdivision": "Dublin",
+      "languages": [
+        "en",
+        "gd"
+      ],
+      "categories": [],
+      "tags": [
+        "gaelic",
+        "irish language",
+        "mixed"
+      ],
+      "homepage": "https://www.rte.ie/radio/rnag/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:10:26Z",
+      "streams": [
+        {
+          "id": "aws_0dfcdd5c04930da469c0",
+          "stationId": "awb_35362b254184ddb8a975",
+          "url": "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "17bd5838-0913-498e-b914-bbdd564e2ee5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:25:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b24ad486625324376884",
+      "name": "Tipp FM",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ga",
+        "gd"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "local",
+        "music",
+        "news"
+      ],
+      "homepage": "https://tippfm.com/",
+      "favicon": "https://tippfm.com/player/data/images/whatsapp.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T18:41:31Z",
+      "streams": [
+        {
+          "id": "aws_a64a25420af33f380ef4",
+          "stationId": "awb_b24ad486625324376884",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dc799d91-c6d6-4c8d-87c1-3e06e87c50df"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:41:33Z"
+        }
+      ]
+    }
+  ]
+}

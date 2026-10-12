@@ -1,0 +1,104 @@
+{
+  "code": "xh",
+  "stationCount": 2,
+  "stations": [
+    {
+      "id": "awb_b296c5c79ae00cbe0a13",
+      "name": "Amapiano FM",
+      "country": "ZA",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "xh"
+      ],
+      "categories": [],
+      "tags": [
+        "amapiano"
+      ],
+      "homepage": "https://radiosa.org/amapiano/",
+      "favicon": "https://cdn.webrad.io/images/logos/radiosa-org/amapiano.png",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-08-22T21:59:19Z",
+      "streams": [
+        {
+          "id": "aws_5a4a7d51510158771502",
+          "stationId": "awb_b296c5c79ae00cbe0a13",
+          "url": "https://stream-37.zeno.fm/xs6zeac1ts8uv?zs=Tf36JxfyQTKE-KteyZLrww",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bc6cebdf-e061-49db-a5d9-ce1131eb58a9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:31:14Z"
+        },
+        {
+          "id": "aws_afa1499780b933aa108a",
+          "stationId": "awb_b296c5c79ae00cbe0a13",
+          "url": "https://stream.zeno.fm/xs6zeac1ts8uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2864685a-7ca7-4ed3-8f83-bb5e31c7f274",
+            "bed37ad7-1542-4455-96ea-6b7608c7bc8f",
+            "cf477514-6fc0-446b-adf2-d252dba5ee75"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:03:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_31e9651d7bd9053df9f2",
+      "name": "Link FM (RSA-EC)",
+      "country": "ZA",
+      "subdivision": "Eastern Cape",
+      "languages": [
+        "en",
+        "xh"
+      ],
+      "categories": [],
+      "tags": [
+        "christianity",
+        "gospel music",
+        "local news",
+        "weather"
+      ],
+      "homepage": "https://linkfm.co.za/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:56:47Z",
+      "streams": [
+        {
+          "id": "aws_e97dc219034662624e53",
+          "stationId": "awb_31e9651d7bd9053df9f2",
+          "url": "https://de2.streamingpulse.com/ssl/LinkFM",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "003efaa4-e791-4095-84aa-81bedd09a986"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:24:58Z"
+        }
+      ]
+    }
+  ]
+}
