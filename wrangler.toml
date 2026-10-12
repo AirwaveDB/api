@@ -1,0 +1,9 @@
+name = "airwavedb-api"
+main = "src/worker.js"
+compatibility_date = "2026-10-13"
+workers_dev = true
+
+[assets]
+directory = "./v1"
+binding = "ASSETS"
+run_worker_first = true
