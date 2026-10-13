@@ -7,92 +7,23 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'v1');
 const DB_RAW = 'https://raw.githubusercontent.com/AirwaveDB/database/main/data';
 const STREAM_RAW = 'https://raw.githubusercontent.com/AirwaveDB/streams/main/data';
-const USER_AGENT = 'AirwaveDB-api/1.2 (+https://github.com/AirwaveDB/api)';
+const USER_AGENT = 'AirwaveDB-api/1.3 (+https://github.com/AirwaveDB/api)';
 const TIMEOUT_MS = 20_000;
 const pretty = (value) => JSON.stringify(value, null, 2) + '\n';
 
-async function get(url, accept = 'application/json') {
+async function getJson(url) {
   const res = await fetch(url, {
-    headers: { 'User-Agent': USER_AGENT, Accept: accept },
+    headers: { 'User-Agent': USER_AGENT, Accept: 'application/json' },
     signal: AbortSignal.timeout(TIMEOUT_MS),
   });
   if (!res.ok) throw new Error(`${res.status} ${res.statusText}: ${url}`);
-  return res;
+  return res.json();
 }
 
-function parseCsv(text) {
-  const rows = [];
-  let row = [], field = '', quoted = false;
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i];
-    if (quoted) {
-      if (c === '"' && text[i + 1] === '"') { field += '"'; i++; }
-      else if (c === '"') quoted = false;
-      else field += c;
-    } else if (c === '"') quoted = true;
-    else if (c === ',') { row.push(field); field = ''; }
-    else if (c === '\n') { row.push(field.replace(/\r$/, '')); rows.push(row); row = []; field = ''; }
-    else field += c;
-  }
-  if (field || row.length) { row.push(field); rows.push(row); }
-  if (!rows.length) return [];
-  const headers = rows.shift();
-  return rows.filter((r) => r.some(Boolean)).map((r) => Object.fromEntries(headers.map((h, i) => [h, r[i] ?? ''])));
-}
-
-const split = (value) => String(value || '').split(';').filter(Boolean);
-const num = (value) => Number(value || 0);
-const bool = (value) => value === 'true' || value === '1';
-
-function legacyStation(row) {
-  return {
-    id: row.id,
-    name: row.name,
-    country: row.country,
-    subdivision: row.subdivision || null,
-    languages: split(row.language_codes),
-    categories: split(row.categories),
-    tags: split(row.tags),
-    homepage: row.homepage || null,
-    favicon: row.favicon || null,
-    type: row.type || null,
-    sourceCount: num(row.source_count),
-    updatedAt: row.updated_at || null,
-  };
-}
-
-function legacyStream(row) {
-  return {
-    id: row.id,
-    stationId: row.station_id,
-    name: row.name,
-    country: row.country,
-    url: row.url,
-    codec: row.codec || null,
-    bitrate: num(row.bitrate),
-    protocol: row.protocol || null,
-    hls: bool(row.hls),
-    sources: split(row.sources),
-    sourceIds: split(row.source_ids),
-    lastCheckOk: bool(row.last_check_ok),
-    lastCheckedAt: row.last_checked_at || null,
-  };
-}
-
-async function jsonOrCsv(jsonUrl, csvUrl, normalizeLegacy) {
-  try {
-    const value = await (await get(jsonUrl)).json();
-    if (!Array.isArray(value)) throw new Error('expected JSON array');
-    return value;
-  } catch (jsonError) {
-    if (!csvUrl) throw jsonError;
-    const rows = parseCsv(await (await get(csvUrl, 'text/csv')).text());
-    return rows.map(normalizeLegacy);
-  }
-}
-
-async function indexFile(jsonName, legacyName, normalizeLegacy) {
-  return jsonOrCsv(`${DB_RAW}/${jsonName}.json`, `${DB_RAW}/${legacyName}.csv`, normalizeLegacy);
+async function getArray(url) {
+  const value = await getJson(url);
+  if (!Array.isArray(value)) throw new Error(`Expected JSON array: ${url}`);
+  return value;
 }
 
 function addTo(map, key, value) {
@@ -103,8 +34,8 @@ function addTo(map, key, value) {
 
 async function main() {
   const [dbIndex, streamIndex] = await Promise.all([
-    (await get(`${DB_RAW}/index.json`)).json(),
-    (await get(`${STREAM_RAW}/index.json`)).json(),
+    getJson(`${DB_RAW}/index.json`),
+    getJson(`${STREAM_RAW}/index.json`),
   ]);
   const streamCountries = new Set((streamIndex.countries || []).map((x) => x.code));
 
@@ -124,19 +55,10 @@ async function main() {
 
   for (const country of dbIndex.countries || []) {
     const code = country.code;
-    const stationRows = await jsonOrCsv(
-      `${DB_RAW}/stations/${code}.json`,
-      `${DB_RAW}/stations/${code}.csv`,
-      legacyStation,
-    );
-    let streamRows = [];
-    if (streamCountries.has(code)) {
-      streamRows = await jsonOrCsv(
-        `${STREAM_RAW}/streams/${code}.json`,
-        `${STREAM_RAW}/streams/${code}.csv`,
-        legacyStream,
-      );
-    }
+    const stationRows = await getArray(`${DB_RAW}/stations/${code}.json`);
+    const streamRows = streamCountries.has(code)
+      ? await getArray(`${STREAM_RAW}/streams/${code}.json`)
+      : [];
 
     stations.push(...stationRows);
     streams.push(...streamRows);
@@ -149,6 +71,7 @@ async function main() {
     for (const item of joined) {
       for (const category of item.categories || []) addTo(byCategory, category, item);
       for (const language of item.languages || []) addTo(byLanguage, language, item);
+
       const shard = item.id.slice(4, 6);
       const bucket = stationShards.get(shard) || {};
       bucket[item.id] = item;
@@ -161,27 +84,43 @@ async function main() {
       streamCount: streamRows.length,
       stations: joined,
     }));
+
     process.stdout.write(`${code}: ${stationRows.length} stations, ${streamRows.length} streams\n`);
   }
 
   const [countriesRaw, languagesRaw, categoriesRaw] = await Promise.all([
-    indexFile('countries', 'countries', (x) => ({ code: x.code, stationCount: num(x.station_count) })),
-    indexFile('languages', 'languages', (x) => ({ code: x.code, stationCount: num(x.station_count) })),
-    indexFile('categories', 'categories', (x) => ({ id: x.id, stationCount: num(x.station_count) })),
+    getArray(`${DB_RAW}/countries.json`),
+    getArray(`${DB_RAW}/languages.json`),
+    getArray(`${DB_RAW}/categories.json`),
   ]);
 
-  const countries = countriesRaw.map((x) => ({ code: x.code, stationCount: Number(x.stationCount ?? x.station_count ?? 0) }));
-  const languages = languagesRaw.map((x) => ({ code: x.code, stationCount: (byLanguage.get(x.code) || []).length }));
-  const categories = categoriesRaw.map((x) => ({ id: x.id, stationCount: (byCategory.get(x.id) || []).length }));
+  const countries = countriesRaw.map((x) => ({
+    code: x.code,
+    stationCount: Number(x.stationCount || 0),
+  }));
+  const languages = languagesRaw.map((x) => ({
+    code: x.code,
+    stationCount: (byLanguage.get(x.code) || []).length,
+  }));
+  const categories = categoriesRaw.map((x) => ({
+    id: x.id,
+    stationCount: (byCategory.get(x.id) || []).length,
+  }));
 
   for (const item of categories) {
     const list = byCategory.get(item.id) || [];
-    await writeFile(join(OUT, 'categories', `${item.id}.json`), pretty({ id: item.id, stationCount: list.length, stations: list }));
+    await writeFile(
+      join(OUT, 'categories', `${item.id}.json`),
+      pretty({ id: item.id, stationCount: list.length, stations: list }),
+    );
   }
 
   for (const item of languages) {
     const list = byLanguage.get(item.code) || [];
-    await writeFile(join(OUT, 'languages', `${item.code}.json`), pretty({ code: item.code, stationCount: list.length, stations: list }));
+    await writeFile(
+      join(OUT, 'languages', `${item.code}.json`),
+      pretty({ code: item.code, stationCount: list.length, stations: list }),
+    );
   }
 
   for (const [shard, bucket] of stationShards) {
@@ -203,8 +142,8 @@ async function main() {
       countryCount: countries.length,
       languageCount: languages.length,
       categoryCount: categories.length,
-      databaseGeneratedAt: dbIndex.generatedAt ?? dbIndex.generated_at ?? null,
-      streamsGeneratedAt: streamIndex.generatedAt ?? streamIndex.generated_at ?? null,
+      databaseGeneratedAt: dbIndex.generatedAt || null,
+      streamsGeneratedAt: streamIndex.generatedAt || null,
       routes: {
         station: '/v1/stations/:id',
         country: '/v1/countries/:code',
