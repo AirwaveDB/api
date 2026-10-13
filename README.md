@@ -4,6 +4,14 @@ Generated public API and distribution layer for the AirwaveDB internet radio dir
 
 AirwaveDB indexes internet radio stations and their playable stream endpoints. This repository is built from [`AirwaveDB/database`](https://github.com/AirwaveDB/database) and [`AirwaveDB/streams`](https://github.com/AirwaveDB/streams); generated files should not be edited manually.
 
+```text
+database (station metadata) ─┐
+                             ├─> api (generated public view)
+streams  (playable URLs)  ───┘
+```
+
+`database` and `streams` are the canonical sources. `api` is a generated consumer-facing view of both datasets.
+
 ## Endpoints
 
 | Route | Description |
