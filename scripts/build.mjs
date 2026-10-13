@@ -7,8 +7,9 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'v1');
 const DB_RAW = 'https://raw.githubusercontent.com/AirwaveDB/database/main/data';
 const STREAM_RAW = 'https://raw.githubusercontent.com/AirwaveDB/streams/main/data';
-const USER_AGENT = 'AirwaveDB-api/1.1 (+https://github.com/AirwaveDB/api)';
+const USER_AGENT = 'AirwaveDB-api/1.2 (+https://github.com/AirwaveDB/api)';
 const TIMEOUT_MS = 20_000;
+const pretty = (value) => JSON.stringify(value, null, 2) + '\n';
 
 async function get(url, accept = 'application/json') {
   const res = await fetch(url, {
@@ -42,9 +43,8 @@ function parseCsv(text) {
 const split = (value) => String(value || '').split(';').filter(Boolean);
 const num = (value) => Number(value || 0);
 const bool = (value) => value === 'true' || value === '1';
-const pretty = (value) => JSON.stringify(value, null, 2) + '\n';
 
-function station(row) {
+function legacyStation(row) {
   return {
     id: row.id,
     name: row.name,
@@ -61,10 +61,12 @@ function station(row) {
   };
 }
 
-function stream(row) {
+function legacyStream(row) {
   return {
     id: row.id,
     stationId: row.station_id,
+    name: row.name,
+    country: row.country,
     url: row.url,
     codec: row.codec || null,
     bitrate: num(row.bitrate),
@@ -77,8 +79,20 @@ function stream(row) {
   };
 }
 
-async function csvFile(url) {
-  return parseCsv(await (await get(url, 'text/csv')).text());
+async function jsonOrCsv(jsonUrl, csvUrl, normalizeLegacy) {
+  try {
+    const value = await (await get(jsonUrl)).json();
+    if (!Array.isArray(value)) throw new Error('expected JSON array');
+    return value;
+  } catch (jsonError) {
+    if (!csvUrl) throw jsonError;
+    const rows = parseCsv(await (await get(csvUrl, 'text/csv')).text());
+    return rows.map(normalizeLegacy);
+  }
+}
+
+async function indexFile(jsonName, legacyName, normalizeLegacy) {
+  return jsonOrCsv(`${DB_RAW}/${jsonName}.json`, `${DB_RAW}/${legacyName}.csv`, normalizeLegacy);
 }
 
 function addTo(map, key, value) {
@@ -92,7 +106,7 @@ async function main() {
     (await get(`${DB_RAW}/index.json`)).json(),
     (await get(`${STREAM_RAW}/index.json`)).json(),
   ]);
-  const streamCountries = new Set(streamIndex.countries.map((x) => x.code));
+  const streamCountries = new Set((streamIndex.countries || []).map((x) => x.code));
 
   await rm(OUT, { recursive: true, force: true });
   await Promise.all([
@@ -104,16 +118,25 @@ async function main() {
 
   const stations = [];
   const streams = [];
-  const joinedStations = [];
   const byCategory = new Map();
   const byLanguage = new Map();
   const stationShards = new Map();
 
-  for (const country of dbIndex.countries) {
+  for (const country of dbIndex.countries || []) {
     const code = country.code;
-    const stationRows = (await csvFile(`${DB_RAW}/stations/${code}.csv`)).map(station);
+    const stationRows = await jsonOrCsv(
+      `${DB_RAW}/stations/${code}.json`,
+      `${DB_RAW}/stations/${code}.csv`,
+      legacyStation,
+    );
     let streamRows = [];
-    if (streamCountries.has(code)) streamRows = (await csvFile(`${STREAM_RAW}/streams/${code}.csv`)).map(stream);
+    if (streamCountries.has(code)) {
+      streamRows = await jsonOrCsv(
+        `${STREAM_RAW}/streams/${code}.json`,
+        `${STREAM_RAW}/streams/${code}.csv`,
+        legacyStream,
+      );
+    }
 
     stations.push(...stationRows);
     streams.push(...streamRows);
@@ -122,11 +145,10 @@ async function main() {
     for (const item of streamRows) addTo(byStation, item.stationId, item);
 
     const joined = stationRows.map((item) => ({ ...item, streams: byStation.get(item.id) || [] }));
-    joinedStations.push(...joined);
 
     for (const item of joined) {
-      for (const category of item.categories) addTo(byCategory, category, item);
-      for (const language of item.languages) addTo(byLanguage, language, item);
+      for (const category of item.categories || []) addTo(byCategory, category, item);
+      for (const language of item.languages || []) addTo(byLanguage, language, item);
       const shard = item.id.slice(4, 6);
       const bucket = stationShards.get(shard) || {};
       bucket[item.id] = item;
@@ -143,31 +165,23 @@ async function main() {
   }
 
   const [countriesRaw, languagesRaw, categoriesRaw] = await Promise.all([
-    csvFile(`${DB_RAW}/countries.csv`),
-    csvFile(`${DB_RAW}/languages.csv`),
-    csvFile(`${DB_RAW}/categories.csv`),
+    indexFile('countries', 'countries', (x) => ({ code: x.code, stationCount: num(x.station_count) })),
+    indexFile('languages', 'languages', (x) => ({ code: x.code, stationCount: num(x.station_count) })),
+    indexFile('categories', 'categories', (x) => ({ id: x.id, stationCount: num(x.station_count) })),
   ]);
 
-  const countries = countriesRaw.map((x) => ({ code: x.code, stationCount: num(x.station_count) }));
+  const countries = countriesRaw.map((x) => ({ code: x.code, stationCount: Number(x.stationCount ?? x.station_count ?? 0) }));
   const languages = languagesRaw.map((x) => ({ code: x.code, stationCount: (byLanguage.get(x.code) || []).length }));
   const categories = categoriesRaw.map((x) => ({ id: x.id, stationCount: (byCategory.get(x.id) || []).length }));
 
   for (const item of categories) {
     const list = byCategory.get(item.id) || [];
-    await writeFile(join(OUT, 'categories', `${item.id}.json`), pretty({
-      id: item.id,
-      stationCount: list.length,
-      stations: list,
-    }));
+    await writeFile(join(OUT, 'categories', `${item.id}.json`), pretty({ id: item.id, stationCount: list.length, stations: list }));
   }
 
   for (const item of languages) {
     const list = byLanguage.get(item.code) || [];
-    await writeFile(join(OUT, 'languages', `${item.code}.json`), pretty({
-      code: item.code,
-      stationCount: list.length,
-      stations: list,
-    }));
+    await writeFile(join(OUT, 'languages', `${item.code}.json`), pretty({ code: item.code, stationCount: list.length, stations: list }));
   }
 
   for (const [shard, bucket] of stationShards) {
@@ -189,8 +203,8 @@ async function main() {
       countryCount: countries.length,
       languageCount: languages.length,
       categoryCount: categories.length,
-      databaseGeneratedAt: dbIndex.generated_at,
-      streamsGeneratedAt: streamIndex.generated_at,
+      databaseGeneratedAt: dbIndex.generatedAt ?? dbIndex.generated_at ?? null,
+      streamsGeneratedAt: streamIndex.generatedAt ?? streamIndex.generated_at ?? null,
       routes: {
         station: '/v1/stations/:id',
         country: '/v1/countries/:code',
