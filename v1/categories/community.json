@@ -1,6 +1,6 @@
 {
   "id": "community",
-  "stationCount": 885,
+  "stationCount": 890,
   "stations": [
     {
       "id": "awb_264633f48847fb757bbd",
@@ -34752,6 +34752,50 @@
       ]
     },
     {
+      "id": "awb_5f3e949d33cce056f288",
+      "name": "KOCF 92.7 - \"Fern Ridge Community Radio\" - Veneta, Oregon",
+      "country": "US",
+      "subdivision": "Oregon",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "jazz"
+      ],
+      "tags": [
+        "community radio",
+        "jazz",
+        "variety"
+      ],
+      "homepage": "https://www.kocf.org/",
+      "favicon": "https://www.kocf.org/wp-content/uploads/2024/04/KOCF_Logo.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T01:50:58Z",
+      "streams": [
+        {
+          "id": "aws_84ba6ecd67f9237b5919",
+          "stationId": "awb_5f3e949d33cce056f288",
+          "name": "KOCF 92.7 - \"Fern Ridge Community Radio\" - Veneta, Oregon",
+          "country": "US",
+          "url": "https://stream.pacificaservice.org:9000/kocf",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a48a44e8-1db0-4da8-8888-f7bfb6397a2d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_8bfc78eeb9551f81ecba",
       "name": "KOOP",
       "country": "US",
@@ -36186,6 +36230,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:43:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_346bb6840055166d159b",
+      "name": "KUPO 105.5 - Port Orford, Oregon",
+      "country": "US",
+      "subdivision": "Oregon",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "https://kupofm.com/",
+      "favicon": "https://kupofm.com/wp-content/uploads/2025/04/kupo-logo.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T02:03:24Z",
+      "streams": [
+        {
+          "id": "aws_f8310f86c1d6d2bf910b",
+          "stationId": "awb_346bb6840055166d159b",
+          "name": "KUPO 105.5 - Port Orford, Oregon",
+          "country": "US",
+          "url": "https://s2.stationplaylist.com:7070/listen.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0254dd2d-91ef-407e-ba52-8c6cab8c39b2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -38648,6 +38734,52 @@
       ]
     },
     {
+      "id": "awb_3b970698da5eb717bd93",
+      "name": "WMDA 93.5 - The Memphis Clarion - Memphis, Tennessee",
+      "country": "US",
+      "subdivision": "Tennessee",
+      "languages": [
+        "ar",
+        "en",
+        "fr",
+        "so"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "islam",
+        "islamic religion"
+      ],
+      "homepage": "https://thememphisclarion.org/",
+      "favicon": "https://thememphisclarion.org/wp-content/uploads/2018/01/logo_radio_station_website.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T02:59:57Z",
+      "streams": [
+        {
+          "id": "aws_efe4659dc04ebd550ed1",
+          "stationId": "awb_3b970698da5eb717bd93",
+          "name": "WMDA 93.5 - The Memphis Clarion - Memphis, Tennessee",
+          "country": "US",
+          "url": "http://www.radioking.com/play/the-memphis-clarion",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7eee0d0c-b7dd-4174-a5c9-008d5e867652"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_e229ac05a7d1d568fece",
       "name": "WMNF 88.5 Tampa Community Conscious",
       "country": "US",
@@ -39830,6 +39962,92 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T21:38:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4e66d724f8c4d211e430",
+      "name": "WVVX 100.1 - Providence, Rhode Island - Providence Community Radio",
+      "country": "US",
+      "subdivision": "Rhode Island",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "jazz"
+      ],
+      "tags": [
+        "community radio",
+        "jazz",
+        "music variety"
+      ],
+      "homepage": "https://www.procomrad.org/",
+      "favicon": "https://64.media.tumblr.com/b1711b2324de779073a1c9f67b6d5d89/25a9e8e0c8fbfae2-e4/s128x128u_c1/1683aa250d9af8a1c2922c41dbfbd58a2eb8c24e.pnj",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T02:46:39Z",
+      "streams": [
+        {
+          "id": "aws_81aff41aa738601cd231",
+          "stationId": "awb_4e66d724f8c4d211e430",
+          "name": "WVVX 100.1 - Providence, Rhode Island - Providence Community Radio",
+          "country": "US",
+          "url": "http://stream.procomrad.org/public/wvvx.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9d66fe44-e98c-4cae-bd2c-6399ea77de23"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_dd4292649adeda22a942",
+      "name": "WWUC - Mix 96.7 - Union City, Pennsylvania",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "https://radio.ucfsc.org/",
+      "favicon": "https://radio.ucfsc.org/wp-content/uploads/2018/04/Mix96.7-logo.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T02:08:13Z",
+      "streams": [
+        {
+          "id": "aws_9bfd2b7336c5c2a5fe37",
+          "stationId": "awb_dd4292649adeda22a942",
+          "name": "WWUC - Mix 96.7 - Union City, Pennsylvania",
+          "country": "US",
+          "url": "https://ice.ucfsc.org/livemount",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "736d6add-9c0d-45c0-a5b0-5fa1a04a1d56"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "code": "ru",
-  "stationCount": 1514,
+  "stationCount": 1516,
   "stations": [
     {
       "id": "awb_08a84e7502607c0b2990",
@@ -10370,6 +10370,45 @@
       ]
     },
     {
+      "id": "awb_772f239667cf26e0a716",
+      "name": "DFM PIONEER",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "0+"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T07:46:42Z",
+      "streams": [
+        {
+          "id": "aws_8511450075a72aca7c07",
+          "stationId": "awb_772f239667cf26e0a716",
+          "name": "DFM PIONEER",
+          "country": "RU",
+          "url": "https://hls-01-dfm.hostingradio.ru/pioneer/playlist.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e248b080-9195-42e1-909f-b43a7a3d935f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_602aca6e5ee34663dba7",
       "name": "DFM RUSSIAN DANCE",
       "country": "RU",
@@ -11043,7 +11082,7 @@
         "house"
       ],
       "homepage": "https://kamchatkalive.ru/",
-      "favicon": "https://kamchatkalive.ru/img/dance.jpg",
+      "favicon": "https://kamchatkalive.ru/img/house.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-12T11:07:02Z",
@@ -64095,6 +64134,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:04:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ce7c183c227bd54a1495",
+      "name": "WHII 106.5 Warminster, Pennsylvania - Радио Филадельфия",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "russian music",
+        "russian pop",
+        "russian programming"
+      ],
+      "homepage": "https://www.radiophiladelphia.org/",
+      "favicon": "https://www.radiophiladelphia.org/wp-content/uploads/2015/07/cropped-radio_phila_logo700x420.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T02:14:27Z",
+      "streams": [
+        {
+          "id": "aws_a430e1804823efd29900",
+          "stationId": "awb_ce7c183c227bd54a1495",
+          "name": "WHII 106.5 Warminster, Pennsylvania - Радио Филадельфия",
+          "country": "US",
+          "url": "http://71.123.44.183:8021/",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ed0be60f-48dc-4ae8-8940-d2d3c27a29f3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

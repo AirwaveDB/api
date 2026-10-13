@@ -1,7 +1,7 @@
 {
   "code": "AU",
-  "stationCount": 1692,
-  "streamCount": 1736,
+  "stationCount": 1693,
+  "streamCount": 1737,
   "stations": [
     {
       "id": "awb_7580fb7c36cddd9a8a3f",
@@ -40860,6 +40860,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:57:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_adf214c4858dcb735a05",
+      "name": "Hope 103.2",
+      "country": "AU",
+      "subdivision": "Sydney",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://hope1032.com.au/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T02:08:58Z",
+      "streams": [
+        {
+          "id": "aws_849c7a7945d55f1668b4",
+          "stationId": "awb_adf214c4858dcb735a05",
+          "name": "Hope 103.2",
+          "country": "AU",
+          "url": "https://hope1032.com.au/player/hope1032/",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c41f6b8c-06a3-4cb6-8dad-4aafdf83cbc6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

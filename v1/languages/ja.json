@@ -1,6 +1,6 @@
 {
   "code": "ja",
-  "stationCount": 115,
+  "stationCount": 116,
   "stations": [
     {
       "id": "awb_672ac2806e24265df098",
@@ -5133,6 +5133,44 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:11:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9179eb8ba5b4eb29574e",
+      "name": "SoundLink+",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://satellaview-plus.com/",
+      "favicon": "https://i.ibb.co/d0kV0Tht/Satellaview-Plus-V5.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T09:08:12Z",
+      "streams": [
+        {
+          "id": "aws_cc6a71dd83a8ad7e3261",
+          "stationId": "awb_9179eb8ba5b4eb29574e",
+          "name": "SoundLink+",
+          "country": "US",
+          "url": "https://howlingf-gecko.radioca.st/autodj",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ae2453a5-341d-4897-a214-9b99e4950a89"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

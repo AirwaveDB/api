@@ -1,7 +1,7 @@
 {
   "code": "ID",
-  "stationCount": 549,
-  "streamCount": 576,
+  "stationCount": 550,
+  "streamCount": 578,
   "stations": [
     {
       "id": "awb_1d64e4d80f4c343648e6",
@@ -1490,15 +1490,36 @@
       "name": "Ardan",
       "country": "ID",
       "subdivision": "Bandung, West Java",
-      "languages": [],
+      "languages": [
+        "id"
+      ],
       "categories": [],
       "tags": [],
       "homepage": "https://ardanradio.com/",
       "favicon": "https://ardanradio.com/storage/logo/Logo%20Ardan.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-16T23:00:58Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T01:03:50Z",
       "streams": [
+        {
+          "id": "aws_621d2d67ee4ca507260e",
+          "stationId": "awb_5707f306f66cb3db9e0c",
+          "name": "Ardan",
+          "country": "ID",
+          "url": "https://ardanradio.com/",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "54b0cfd8-d1ca-4594-bb4d-c2e0b9e0b706"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        },
         {
           "id": "aws_ed1c4e751eb85a0288c6",
           "stationId": "awb_5707f306f66cb3db9e0c",
@@ -6026,6 +6047,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T22:23:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6899e3237c10d95ea9f0",
+      "name": "https://ardanradio.com/",
+      "country": "ID",
+      "subdivision": "Jakarta",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://ardanradio.com/",
+      "favicon": "https://ardanradio.com/",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T01:06:58Z",
+      "streams": [
+        {
+          "id": "aws_69a338bf30be1c70da38",
+          "stationId": "awb_6899e3237c10d95ea9f0",
+          "name": "https://ardanradio.com/",
+          "country": "ID",
+          "url": "https://ardanradio.com/",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f56f63e3-a155-44c9-baac-13c9d3a77f83"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -19220,7 +19276,7 @@
         "classic-rock"
       ],
       "homepage": "https://radiostream.novawap.com/",
-      "favicon": "https://static.wixstatic.com/media/837828_567a64fa790042dca71f5fbafbabf7a6~mv2.jpeg",
+      "favicon": "https://static.wixstatic.com/media/837828_03b79a4d1d0345839c9a2e523d54662c~mv2.png/v1/fill/w_246,h_246,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/837828_03b79a4d1d0345839c9a2e523d54662c~mv2.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-24",

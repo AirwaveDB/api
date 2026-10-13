@@ -1,7 +1,7 @@
 {
   "code": "RU",
-  "stationCount": 2603,
-  "streamCount": 2713,
+  "stationCount": 2604,
+  "streamCount": 2714,
   "stations": [
     {
       "id": "awb_e2f7e22d63535ea5634e",
@@ -11278,6 +11278,45 @@
       ]
     },
     {
+      "id": "awb_772f239667cf26e0a716",
+      "name": "DFM PIONEER",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "0+"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T07:46:42Z",
+      "streams": [
+        {
+          "id": "aws_8511450075a72aca7c07",
+          "stationId": "awb_772f239667cf26e0a716",
+          "name": "DFM PIONEER",
+          "country": "RU",
+          "url": "https://hls-01-dfm.hostingradio.ru/pioneer/playlist.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e248b080-9195-42e1-909f-b43a7a3d935f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_d08bf5bd8d50355e3bdc",
       "name": "DFM POP GOLD 1990s",
       "country": "RU",
@@ -13017,7 +13056,7 @@
         "house"
       ],
       "homepage": "https://kamchatkalive.ru/",
-      "favicon": "https://kamchatkalive.ru/img/dance.jpg",
+      "favicon": "https://kamchatkalive.ru/img/house.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-12T11:07:02Z",

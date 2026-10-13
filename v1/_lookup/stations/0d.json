@@ -2181,6 +2181,48 @@
       }
     ]
   },
+  "awb_0d28c4626cd175ed60fa": {
+    "id": "awb_0d28c4626cd175ed60fa",
+    "name": "Club FM Bamberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "homepage": "https://www.clubfm.de/",
+    "favicon": "https://www.clubfm.de/storage/thumbs/600x/r:1702208261/g4456a8qn7vnb.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T07:51:05Z",
+    "streams": [
+      {
+        "id": "aws_cd1a210fd0d98236d8b5",
+        "stationId": "awb_0d28c4626cd175ed60fa",
+        "name": "Club FM Bamberg",
+        "country": "DE",
+        "url": "https://stream.clubfm.de/clubfm.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "099b1a44-0475-4aa3-a0fb-ef9e878e650b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_0d24378397b55646d186": {
     "id": "awb_0d24378397b55646d186",
     "name": "DrGnu - Hard Side",
@@ -5126,87 +5168,6 @@
       }
     ]
   },
-  "awb_0d67433d948f40a350c8": {
-    "id": "awb_0d67433d948f40a350c8",
-    "name": "+Radio Mexico Internacional (CDMX) - Online - www.imer.mx - IMER - Ciudad de México",
-    "country": "MX",
-    "subdivision": "Ciudad de México",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "public"
-    ],
-    "tags": [
-      "américa",
-      "cdmx",
-      "ciudad de méxico",
-      "cultura",
-      "entretenimiento",
-      "español",
-      "estación",
-      "imer",
-      "instituto mexicano de la radio",
-      "internet",
-      "internet radio",
-      "internet station",
-      "latinoamérica",
-      "mexican music",
-      "mexico city",
-      "moi merino",
-      "multicultural",
-      "music",
-      "méxico",
-      "música",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "música tradicional mexicana",
-      "norteamérica",
-      "online",
-      "online only",
-      "online radio",
-      "public",
-      "public radio",
-      "pública",
-      "radio",
-      "radio méxico internacional",
-      "radio online",
-      "radio pública",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music"
-    ],
-    "homepage": "https://www.imer.mx/rmi/",
-    "favicon": "https://i.postimg.cc/vTmYjpyx/radiomexicointernacional.png",
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-08-11T08:05:08Z",
-    "streams": [
-      {
-        "id": "aws_ffea888b471fa9177179",
-        "stationId": "awb_0d67433d948f40a350c8",
-        "name": "RADIO MEXICO INTERNACIONAL (CDMX) - Online - www.imer.mx - IMER - Ciudad de México",
-        "country": "MX",
-        "url": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8020/stream",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "13d4ccfc-a269-4835-87c8-47ffbadeb71b",
-          "7fde3c64-f9d9-48b9-900f-36327cba41d5"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T18:25:45Z"
-      }
-    ]
-  },
   "awb_0d5907c318d8fa0ca689": {
     "id": "awb_0d5907c318d8fa0ca689",
     "name": "104.9 W Radio (Zacatecas y Guadalupe) - 104.9 FM - XHCCFL-FM - Grupo Radio Cañón - Zacatecas, Zacatecas",
@@ -6047,6 +6008,87 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T12:44:13Z"
+      }
+    ]
+  },
+  "awb_0d67433d948f40a350c8": {
+    "id": "awb_0d67433d948f40a350c8",
+    "name": "RADIO MEXICO INTERNACIONAL (CDMX) - Online - www.imer.mx - IMER - Ciudad de México",
+    "country": "MX",
+    "subdivision": "Ciudad de México",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "public"
+    ],
+    "tags": [
+      "américa",
+      "cdmx",
+      "ciudad de méxico",
+      "cultura",
+      "entretenimiento",
+      "español",
+      "estación",
+      "imer",
+      "instituto mexicano de la radio",
+      "internet",
+      "internet radio",
+      "internet station",
+      "latinoamérica",
+      "mexican music",
+      "mexico city",
+      "moi merino",
+      "multicultural",
+      "music",
+      "méxico",
+      "música",
+      "música mexicana",
+      "música popular mexicana",
+      "música regional",
+      "música regional mexicana",
+      "música tradicional mexicana",
+      "norteamérica",
+      "online",
+      "online only",
+      "online radio",
+      "public",
+      "public radio",
+      "pública",
+      "radio",
+      "radio méxico internacional",
+      "radio online",
+      "radio pública",
+      "regional",
+      "regional mexican",
+      "regional mexicana",
+      "regional music"
+    ],
+    "homepage": "https://www.imer.mx/rmi/",
+    "favicon": "https://i.postimg.cc/vTmYjpyx/radiomexicointernacional.png",
+    "type": "public",
+    "sourceCount": 2,
+    "updatedAt": "2026-08-11T08:05:08Z",
+    "streams": [
+      {
+        "id": "aws_ffea888b471fa9177179",
+        "stationId": "awb_0d67433d948f40a350c8",
+        "name": "RADIO MEXICO INTERNACIONAL (CDMX) - Online - www.imer.mx - IMER - Ciudad de México",
+        "country": "MX",
+        "url": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8020/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "13d4ccfc-a269-4835-87c8-47ffbadeb71b",
+          "7fde3c64-f9d9-48b9-900f-36327cba41d5"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T18:25:45Z"
       }
     ]
   },

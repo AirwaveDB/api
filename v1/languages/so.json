@@ -1,6 +1,6 @@
 {
   "code": "so",
-  "stationCount": 1,
+  "stationCount": 2,
   "stations": [
     {
       "id": "awb_4de376fa14837176e84e",
@@ -44,6 +44,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:35:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3b970698da5eb717bd93",
+      "name": "WMDA 93.5 - The Memphis Clarion - Memphis, Tennessee",
+      "country": "US",
+      "subdivision": "Tennessee",
+      "languages": [
+        "ar",
+        "en",
+        "fr",
+        "so"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "islam",
+        "islamic religion"
+      ],
+      "homepage": "https://thememphisclarion.org/",
+      "favicon": "https://thememphisclarion.org/wp-content/uploads/2018/01/logo_radio_station_website.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T02:59:57Z",
+      "streams": [
+        {
+          "id": "aws_efe4659dc04ebd550ed1",
+          "stationId": "awb_3b970698da5eb717bd93",
+          "name": "WMDA 93.5 - The Memphis Clarion - Memphis, Tennessee",
+          "country": "US",
+          "url": "http://www.radioking.com/play/the-memphis-clarion",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7eee0d0c-b7dd-4174-a5c9-008d5e867652"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     }

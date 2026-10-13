@@ -4014,15 +4014,36 @@
     "name": "Ardan",
     "country": "ID",
     "subdivision": "Bandung, West Java",
-    "languages": [],
+    "languages": [
+      "id"
+    ],
     "categories": [],
     "tags": [],
     "homepage": "https://ardanradio.com/",
     "favicon": "https://ardanradio.com/storage/logo/Logo%20Ardan.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-16T23:00:58Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-13T01:03:50Z",
     "streams": [
+      {
+        "id": "aws_621d2d67ee4ca507260e",
+        "stationId": "awb_5707f306f66cb3db9e0c",
+        "name": "Ardan",
+        "country": "ID",
+        "url": "https://ardanradio.com/",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "54b0cfd8-d1ca-4594-bb4d-c2e0b9e0b706"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      },
       {
         "id": "aws_ed1c4e751eb85a0288c6",
         "stationId": "awb_5707f306f66cb3db9e0c",

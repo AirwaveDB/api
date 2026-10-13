@@ -1,6 +1,6 @@
 {
   "code": "id",
-  "stationCount": 175,
+  "stationCount": 176,
   "stations": [
     {
       "id": "awb_afd57387938930a596a2",
@@ -511,6 +511,62 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T00:33:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5707f306f66cb3db9e0c",
+      "name": "Ardan",
+      "country": "ID",
+      "subdivision": "Bandung, West Java",
+      "languages": [
+        "id"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://ardanradio.com/",
+      "favicon": "https://ardanradio.com/storage/logo/Logo%20Ardan.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T01:03:50Z",
+      "streams": [
+        {
+          "id": "aws_621d2d67ee4ca507260e",
+          "stationId": "awb_5707f306f66cb3db9e0c",
+          "name": "Ardan",
+          "country": "ID",
+          "url": "https://ardanradio.com/",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "54b0cfd8-d1ca-4594-bb4d-c2e0b9e0b706"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        },
+        {
+          "id": "aws_ed1c4e751eb85a0288c6",
+          "stationId": "awb_5707f306f66cb3db9e0c",
+          "name": "Ardan",
+          "country": "ID",
+          "url": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d0d5c057-c111-4975-9034-40ee02fcd7c4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:43:50Z"
         }
       ]
     },
