@@ -29,7 +29,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Build JSON API from canonical datasets
+      - name: Build public JSON API from canonical datasets
         run: node scripts/build.mjs
       - name: Validate static API files
         run: node scripts/validate.mjs
