@@ -8861,7 +8861,27 @@
       "type": null,
       "sourceCount": 1,
       "updatedAt": "2026-07-21T20:17:44Z",
-      "streams": []
+      "streams": [
+        {
+          "id": "aws_eb3fff26b1930a2fdf32",
+          "stationId": "awb_00138fa0f2883e8fbff9",
+          "name": "Radio Express Posadas 88.1 FM",
+          "country": "AR",
+          "url": "http://streamall.alsolnet.com:443/cadenaexpress",
+          "codec": "aac",
+          "bitrate": 32,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "de9573e0-4a4a-44b8-b39f-339e1b75d639"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:02:39Z"
+        }
+      ]
     },
     {
       "id": "awb_65b68a168a28deafd1e1",

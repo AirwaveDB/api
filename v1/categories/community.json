@@ -8794,7 +8794,27 @@
       "type": "community",
       "sourceCount": 1,
       "updatedAt": "2026-10-12T23:09:12Z",
-      "streams": []
+      "streams": [
+        {
+          "id": "aws_4114f11b92866faffd07",
+          "stationId": "awb_4e619b086c122b131cc7",
+          "name": "PBA-FM",
+          "country": "AU",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/5PBAAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5da9e61c-add8-47d5-b648-3f4420fc4b60"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
     },
     {
       "id": "awb_237d42c762983219b6be",

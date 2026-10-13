@@ -1,7 +1,7 @@
 {
   "code": "AU",
   "stationCount": 1692,
-  "streamCount": 1734,
+  "streamCount": 1736,
   "stations": [
     {
       "id": "awb_7580fb7c36cddd9a8a3f",
@@ -10326,7 +10326,27 @@
       "type": null,
       "sourceCount": 1,
       "updatedAt": "2026-09-10T17:45:45Z",
-      "streams": []
+      "streams": [
+        {
+          "id": "aws_0aece8af660c565ebc40",
+          "stationId": "awb_7d61d1522e5b1c4db2ca",
+          "name": "A.i.R Station - Hip Hop, Rap, Trap & Grime",
+          "country": "AU",
+          "url": "https://air.autismo.biz/listen/a.i.r/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "de0e20ad-eae4-4460-87d0-dbb0d0b9e1b8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:58:17Z"
+        }
+      ]
     },
     {
       "id": "awb_048868cae731c2ae5254",
@@ -53775,7 +53795,27 @@
       "type": "community",
       "sourceCount": 1,
       "updatedAt": "2026-10-12T23:09:12Z",
-      "streams": []
+      "streams": [
+        {
+          "id": "aws_4114f11b92866faffd07",
+          "stationId": "awb_4e619b086c122b131cc7",
+          "name": "PBA-FM",
+          "country": "AU",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/5PBAAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5da9e61c-add8-47d5-b648-3f4420fc4b60"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
     },
     {
       "id": "awb_237d42c762983219b6be",

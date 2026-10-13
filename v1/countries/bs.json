@@ -1,7 +1,7 @@
 {
   "code": "BS",
   "stationCount": 11,
-  "streamCount": 10,
+  "streamCount": 11,
   "stations": [
     {
       "id": "awb_58e74a2ddccee33d8056",
@@ -22,7 +22,27 @@
       "type": null,
       "sourceCount": 1,
       "updatedAt": "2026-01-14T23:34:44Z",
-      "streams": []
+      "streams": [
+        {
+          "id": "aws_5680ae941db14c556c78",
+          "stationId": "awb_58e74a2ddccee33d8056",
+          "name": "103 The Beat",
+          "country": "BS",
+          "url": "https://stream.radiojar.com/01d8c449cyduv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4240ed04-41af-4a4c-bca4-419976cb0a67"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:18:01Z"
+        }
+      ]
     },
     {
       "id": "awb_ccd7934f25b7b26acf5c",

@@ -2063,7 +2063,27 @@
       "type": null,
       "sourceCount": 1,
       "updatedAt": "2026-10-12T21:02:38Z",
-      "streams": []
+      "streams": [
+        {
+          "id": "aws_6fe1bacd0bc9202d21f8",
+          "stationId": "awb_32addfa3bb0b4383d3e1",
+          "name": "Fin Est FM",
+          "country": "FI",
+          "url": "https://shoutcast.finestfm.fi/;",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "406ae171-f116-455c-b7f2-d3795a660bce"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:02:39Z"
+        }
+      ]
     },
     {
       "id": "awb_e402377d92831ec4c419",

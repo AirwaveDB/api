@@ -1,7 +1,7 @@
 {
   "code": "CZ",
   "stationCount": 271,
-  "streamCount": 288,
+  "streamCount": 289,
   "stations": [
     {
       "id": "awb_bb55f1b0a17218daf0fa",
@@ -10608,7 +10608,27 @@
       "type": null,
       "sourceCount": 1,
       "updatedAt": "2026-10-12T22:54:38Z",
-      "streams": []
+      "streams": [
+        {
+          "id": "aws_9adac59e2c86371ce9e3",
+          "stationId": "awb_f1695ef6db2edefef933",
+          "name": "Slymacks Radio",
+          "country": "CZ",
+          "url": "https://stream.slymacks.com/",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d9b2425b-7ab7-4c91-b20c-2af7a11a726d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
     },
     {
       "id": "awb_a0279bf705b95bd1552c",

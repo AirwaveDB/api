@@ -1,7 +1,7 @@
 {
   "code": "CA",
   "stationCount": 1411,
-  "streamCount": 1444,
+  "streamCount": 1446,
   "stations": [
     {
       "id": "awb_654770d3387f31abb729",
@@ -16396,7 +16396,27 @@
       "type": null,
       "sourceCount": 1,
       "updatedAt": "2026-10-12T21:33:44Z",
-      "streams": []
+      "streams": [
+        {
+          "id": "aws_570e0a1364cfdafddb24",
+          "stationId": "awb_fdb79ee0dcfed60e94bd",
+          "name": "CHMS 97.7 Moose FM Bancroft",
+          "country": "CA",
+          "url": "https://vistaradio.streamb.live/SB00110?cb=312963704187966",
+          "codec": "aac+",
+          "bitrate": 57,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a5d0c625-9a1f-4a45-8fc0-3777f08c4366"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T22:05:53Z"
+        }
+      ]
     },
     {
       "id": "awb_44f7460eae2eab475db5",
@@ -56693,7 +56713,27 @@
       "type": null,
       "sourceCount": 1,
       "updatedAt": "2026-01-15T05:44:37Z",
-      "streams": []
+      "streams": [
+        {
+          "id": "aws_a28a0e74af7b9144a43f",
+          "stationId": "awb_83a67382ca1c3117ed09",
+          "name": "toronto global radio - euro",
+          "country": "CA",
+          "url": "https://london-dedicated.myautodj.com:3199/proxy/euro/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f15155aa-1d12-4ab1-b2bf-d29a21fe4c7d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:13:47Z"
+        }
+      ]
     },
     {
       "id": "awb_9003168b8bd0d73a1d1e",
