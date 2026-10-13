@@ -1,8 +1,8 @@
 # AirwaveDB API
 
-Public JSON API for the AirwaveDB internet radio directory.
+Generated public API and distribution layer for the AirwaveDB internet radio directory.
 
-AirwaveDB indexes internet radio stations and their playable stream endpoints. This repository contains the generated read-only API dataset and the HTTP router used to expose it.
+AirwaveDB indexes internet radio stations and their playable stream endpoints. This repository is built from [`AirwaveDB/database`](https://github.com/AirwaveDB/database) and [`AirwaveDB/streams`](https://github.com/AirwaveDB/streams); generated files should not be edited manually.
 
 ## Endpoints
 
