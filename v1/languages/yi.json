@@ -1,6 +1,6 @@
 {
   "code": "yi",
-  "stationCount": 4,
+  "stationCount": 5,
   "stations": [
     {
       "id": "awb_af0f1a5f91a491877801",
@@ -21,6 +21,8 @@
         {
           "id": "aws_849a4ca65c263b24cccb",
           "stationId": "awb_af0f1a5f91a491877801",
+          "name": "Yiddish pour tous",
+          "country": "FR",
           "url": "https://www.radioking.com/play/radio-yiddish-pour-tous",
           "codec": "mp3",
           "bitrate": 128,
@@ -65,6 +67,8 @@
         {
           "id": "aws_67e61d168eb18a9b8f8b",
           "stationId": "awb_7414d540316cc55d2d09",
+          "name": "Kcm FM Channel 01 Live",
+          "country": "IL",
           "url": "https://media2.93fm.co.il/livemusic",
           "codec": "aac",
           "bitrate": 128,
@@ -77,7 +81,7 @@
             "5b7a953b-98a6-4823-a9f9-3ad52aa2ed88"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-01T04:12:31Z"
+          "lastCheckedAt": "2026-10-12T21:13:47Z"
         }
       ]
     },
@@ -101,6 +105,8 @@
         {
           "id": "aws_69c62b41e06fca0e82dd",
           "stationId": "awb_2bfbd7de5d88eed20327",
+          "name": "Radio Caprice - Jewish Music/Klezmer",
+          "country": "RU",
           "url": "http://79.120.39.202:8002/klezmer",
           "codec": "aac+",
           "bitrate": 48,
@@ -141,6 +147,8 @@
         {
           "id": "aws_4855271c1fcd15828085",
           "stationId": "awb_970bc559de99b7cbbc8a",
+          "name": "Chabad.org Jewish Music",
+          "country": "US",
           "url": "https://stream.radio.co/sdfd68a101/listen",
           "codec": "mp3",
           "bitrate": 128,
@@ -154,6 +162,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:41:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_163c56b4b90f6bf9ced5",
+      "name": "WJPR 1640 AM - The Jhper - Edison, New Jersey",
+      "country": "US",
+      "subdivision": "New Jersey",
+      "languages": [
+        "en",
+        "he",
+        "yi"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "jewish community",
+        "oldies"
+      ],
+      "homepage": "https://www.1640wjpr.com/",
+      "favicon": "https://www.1640wjpr.com/uploads/1/8/9/3/18935425/published/1103929.png?1496261942",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T21:07:26Z",
+      "streams": [
+        {
+          "id": "aws_b0b9cffaf70a2566a6e4",
+          "stationId": "awb_163c56b4b90f6bf9ced5",
+          "name": "WJPR 1640 AM - The Jhper - Edison, New Jersey",
+          "country": "US",
+          "url": "https://ice41.securenetsystems.net:80/WJPRAM",
+          "codec": "aac",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9c5413aa-508b-41b2-9c6b-d7ce38bd152c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:07:28Z"
         }
       ]
     }

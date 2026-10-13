@@ -1,8 +1,29 @@
 {
   "code": "BS",
-  "stationCount": 10,
+  "stationCount": 11,
   "streamCount": 10,
   "stations": [
+    {
+      "id": "awb_58e74a2ddccee33d8056",
+      "name": "103 The Beat",
+      "country": "BS",
+      "subdivision": "New Providence, Nassau",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://103beat.com/",
+      "favicon": "https://103beat.com/wp-content/uploads/2019/05/103thebeat-700x700.jpeg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:34:44Z",
+      "streams": []
+    },
     {
       "id": "awb_ccd7934f25b7b26acf5c",
       "name": "96.9 FM GuardianRadio",
@@ -20,6 +41,8 @@
         {
           "id": "aws_b1ca28dc843398b5094c",
           "stationId": "awb_ccd7934f25b7b26acf5c",
+          "name": "96.9 FM GuardianRadio",
+          "country": "BS",
           "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
           "codec": "mp3",
           "bitrate": 96,
@@ -55,6 +78,8 @@
         {
           "id": "aws_ea434b3d2676deb889bd",
           "stationId": "awb_c4855f7f9931a59a13fe",
+          "name": "96.9FM GuardianRadio",
+          "country": "BS",
           "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
           "codec": "mp3",
           "bitrate": 96,
@@ -90,6 +115,8 @@
         {
           "id": "aws_8854209fe8509564128a",
           "stationId": "awb_b073df3c7fde9747f5c0",
+          "name": "Abdulbasit Abdulsamad",
+          "country": "BS",
           "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
           "codec": "aac",
           "bitrate": 192,
@@ -130,6 +157,8 @@
         {
           "id": "aws_9b12f34b0fb9e4795c2d",
           "stationId": "awb_4f2cf322f11c4ded9626",
+          "name": "Bahamian or Nuttin",
+          "country": "BS",
           "url": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream",
           "codec": "mp3",
           "bitrate": 128,
@@ -170,6 +199,8 @@
         {
           "id": "aws_01537b61db63e2a28ed6",
           "stationId": "awb_9574ed8b7203f946f9b3",
+          "name": "Bahamianor Nuttin 92.5 FM",
+          "country": "BS",
           "url": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream",
           "codec": "mp3",
           "bitrate": 128,
@@ -182,7 +213,7 @@
             "50d40505-0930-4068-b96a-4cf5cf0444bc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-01T03:35:42Z"
+          "lastCheckedAt": "2026-10-12T20:53:11Z"
         }
       ]
     },
@@ -205,6 +236,8 @@
         {
           "id": "aws_0043d68f6976906c57f3",
           "stationId": "awb_d392b4f29da217589b00",
+          "name": "Global 99.5 FM",
+          "country": "BS",
           "url": "http://ice64.securenetsystems.net/GLOBALBS",
           "codec": "aac",
           "bitrate": 32,
@@ -238,6 +271,8 @@
         {
           "id": "aws_187a18afddb50c5b3f45",
           "stationId": "awb_7055f970c74a6f49f1ab",
+          "name": "Kingdom Living Publications & Media Ltd",
+          "country": "BS",
           "url": "https://s4.radio.co/s440e54fd7/listen",
           "codec": "aac",
           "bitrate": 128,
@@ -282,6 +317,8 @@
         {
           "id": "aws_dd8d3327e5389a1a1a38",
           "stationId": "awb_a2d9ce1a007612e3ae0f",
+          "name": "LCLHST R1",
+          "country": "BS",
           "url": "http://s1.radio.lclhst.net:1437/r1",
           "codec": "mp3",
           "bitrate": 0,
@@ -324,6 +361,8 @@
         {
           "id": "aws_f1ee7a6ff8cfa861062c",
           "stationId": "awb_f826847b974d8bf83a54",
+          "name": "LCLHST R2",
+          "country": "BS",
           "url": "http://s1.radio.lclhst.net:1437/r2",
           "codec": "mp3",
           "bitrate": 0,
@@ -357,6 +396,8 @@
         {
           "id": "aws_66278749e156c626f259",
           "stationId": "awb_1c2a12327a10c857fb93",
+          "name": "Minimal, Techno, Electro Sets @ http://radio.lclhst.net/",
+          "country": "BS",
           "url": "https://radio.lclhst.net/r2",
           "codec": "mp3",
           "bitrate": 0,

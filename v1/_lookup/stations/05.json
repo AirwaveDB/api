@@ -21,6 +21,8 @@
       {
         "id": "aws_9e19711653859347aa7a",
         "stationId": "awb_05aa4f071494716798d8",
+        "name": "Exclusively - Artic Monkeys Hits",
+        "country": "AE",
         "url": "https://streaming.exclusive.radio/er/arcticmonkeyshits/icecast.audio",
         "codec": "mp3",
         "bitrate": 128,
@@ -57,6 +59,8 @@
       {
         "id": "aws_45e359c56df09270db76",
         "stationId": "awb_05dfd4cbf6278c929596",
+        "name": "Exclusively Olivia Newton-John",
+        "country": "AE",
         "url": "https://2.mystreaming.net/er/onj/icecast.audio",
         "codec": "mp3",
         "bitrate": 128,
@@ -92,6 +96,8 @@
       {
         "id": "aws_527e9c085d750544d2c4",
         "stationId": "awb_05cbd11ecb35a57feffc",
+        "name": "Liberty Radio ZDK 97.1 FM",
+        "country": "AG",
         "url": "http://198.178.123.20:10052/stream",
         "codec": "mp3",
         "bitrate": 320,
@@ -127,6 +133,8 @@
       {
         "id": "aws_06b9bb2cb7925919cafd",
         "stationId": "awb_058236db052735292de6",
+        "name": "Aire Libre FM 96.3",
+        "country": "AR",
         "url": "https://cdn.instream.audio:9037/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -162,7 +170,27 @@
     "type": null,
     "sourceCount": 1,
     "updatedAt": "2026-09-05T22:40:28Z",
-    "streams": []
+    "streams": [
+      {
+        "id": "aws_e45be42001cd7640e314",
+        "stationId": "awb_0511159530ca89bbbafd",
+        "name": "radio indecente",
+        "country": "AR",
+        "url": "http://indecentes.duckdns.org:8000/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c0002411-bafa-481a-a801-3d2aecd7ec76"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T20:33:14Z"
+      }
+    ]
   },
   "awb_0584312ad6adb589f43a": {
     "id": "awb_0584312ad6adb589f43a",
@@ -183,6 +211,8 @@
       {
         "id": "aws_f826f1ef2442fc3c2c4a",
         "stationId": "awb_0584312ad6adb589f43a",
+        "name": "UNLaM Radio 89.1 FM",
+        "country": "AR",
         "url": "https://cdn.instream.audio/stream/9612",
         "codec": "aac+",
         "bitrate": 128,
@@ -196,7 +226,7 @@
           "9a46e8d5-8130-4084-b5ef-6c13b6b23ea2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T15:42:13Z"
+        "lastCheckedAt": "2026-10-12T20:48:48Z"
       }
     ]
   },
@@ -217,6 +247,8 @@
       {
         "id": "aws_659e33acdde01af9c52d",
         "stationId": "awb_055800d6d05f409b973e",
+        "name": "Fm Christmas classics",
+        "country": "AS",
         "url": "https://listen.181fm.com/181-xtraditional_128k.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -257,6 +289,8 @@
       {
         "id": "aws_7b4d14b74d9f326f10e8",
         "stationId": "awb_0578225be66f7f4fc9ce",
+        "name": "ABC Radio Adelaide",
+        "country": "AU",
         "url": "https://mediaserviceslive.akamaized.net/hls/live/2038298/localadelaide/index.m3u8",
         "codec": "aac",
         "bitrate": 115,
@@ -297,6 +331,8 @@
       {
         "id": "aws_51b195058ef5ffb13cc6",
         "stationId": "awb_0503b6a00322933f34aa",
+        "name": "ABC Riverina",
+        "country": "AU",
         "url": "http://abc.streamguys1.com/live/localriverina/icecast.audio",
         "codec": "aac+",
         "bitrate": 56,
@@ -337,6 +373,8 @@
       {
         "id": "aws_5d18c9877a08139dae33",
         "stationId": "awb_058616b26fa66d45fe36",
+        "name": "Australian Digital Radio Network - 2000s Noughties Pop Charting (MP3)",
+        "country": "AU",
         "url": "http://abm21.com.au:8000/CONTAINER95",
         "codec": "mp3",
         "bitrate": 128,
@@ -374,6 +412,8 @@
       {
         "id": "aws_eb772dd9507d41753df1",
         "stationId": "awb_05f1ab38812e08d615fd",
+        "name": "Australian Digital Radio Network - Radio Hobart (MP3)",
+        "country": "AU",
         "url": "http://abm22.com.au:8000/CONTAINER137",
         "codec": "mp3",
         "bitrate": 128,
@@ -420,6 +460,8 @@
       {
         "id": "aws_53747c81c80c04bbab19",
         "stationId": "awb_0542ceef40870313c6df",
+        "name": "Coast FM 963 - Gosford - 96.3 FM (MP3)",
+        "country": "AU",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CCC.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -459,6 +501,8 @@
       {
         "id": "aws_d53d6319b699c38c74d9",
         "stationId": "awb_050509cf4d8e2a8dd3d6",
+        "name": "DiscoRhythm",
+        "country": "AU",
         "url": "http://c3.radioboss.fm:8018/stream",
         "codec": "mp3",
         "bitrate": 320,
@@ -498,6 +542,8 @@
       {
         "id": "aws_df83548b3f554fe88c74",
         "stationId": "awb_0525b618ae5dabf62ded",
+        "name": "KIX Country (MP3)",
+        "country": "AU",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRY.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -541,6 +587,8 @@
       {
         "id": "aws_ead5b8633c425ecc1e00",
         "stationId": "awb_053d6944cd7d1bf6cbfc",
+        "name": "LiSTNR - Aussie Dance",
+        "country": "AU",
         "url": "http://worldradio.online/proxy/?q=https://wz0liw.scahw.com.au/live/aussiedance_128.stream/playlist.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -558,6 +606,8 @@
       {
         "id": "aws_c62ef9f7470bf3e93854",
         "stationId": "awb_053d6944cd7d1bf6cbfc",
+        "name": "LiSTNR - Aussie Dance",
+        "country": "AU",
         "url": "https://wz0liw.scahw.com.au/live/aussiedance_128.stream/playlist.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -595,6 +645,8 @@
       {
         "id": "aws_11139beee251a0ea9a94",
         "stationId": "awb_05db9bdc3d66d74e4089",
+        "name": "LiSTNR - Deep House (HLS)",
+        "country": "AU",
         "url": "http://sa47.scastream.com.au/live/deep-house.stream/playlist.m3u8",
         "codec": "aac+",
         "bitrate": 64,
@@ -628,6 +680,8 @@
       {
         "id": "aws_718f22e4d408b75ebfcf",
         "stationId": "awb_053efdfcc33acbc447da",
+        "name": "Sport FM",
+        "country": "AU",
         "url": "https://stream.lava.net.au/au_wa_6wsm_sportfm",
         "codec": "mp3",
         "bitrate": 112,
@@ -672,6 +726,8 @@
       {
         "id": "aws_ad8d62f33bc94c9a6b0e",
         "stationId": "awb_057188b1c072cb7771ce",
+        "name": "AFN 360 Benelux",
+        "country": "BE",
         "url": "http://28563.live.streamtheworld.com/AFNE_BLX_SC",
         "codec": "mp3",
         "bitrate": 96,
@@ -707,6 +763,8 @@
       {
         "id": "aws_fb2fd854b1a3f18374d2",
         "stationId": "awb_05da9374593681c11797",
+        "name": "Top Techno",
+        "country": "BE",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSPINNING.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -750,6 +808,8 @@
       {
         "id": "aws_6f33f6d2c573aaa8bca6",
         "stationId": "awb_051529ba069c71fcc663",
+        "name": "RADIO 1 ROCK",
+        "country": "BG",
         "url": "http://play.global.audio/radio1rock.ogg",
         "codec": "ogg",
         "bitrate": 0,
@@ -767,6 +827,8 @@
       {
         "id": "aws_cd8d1b140b553db82d7b",
         "stationId": "awb_051529ba069c71fcc663",
+        "name": "Radio 1 Rock",
+        "country": "BG",
         "url": "http://play.global.audio/radio1rockhi.aac",
         "codec": "aac",
         "bitrate": 128,
@@ -784,6 +846,8 @@
       {
         "id": "aws_dcfb7c9247887eb25b02",
         "stationId": "awb_051529ba069c71fcc663",
+        "name": "Radio 1 Rock",
+        "country": "BG",
         "url": "http://stream.metacast.eu/radio1rock.ogg",
         "codec": "ogg",
         "bitrate": 0,
@@ -817,6 +881,8 @@
       {
         "id": "aws_2618adc8026e8dbbb3ec",
         "stationId": "awb_05965157dc56cf4515dd",
+        "name": "RTV Purmerend",
+        "country": "BQ",
         "url": "http://stream.zxp.nl:8000/radiopurmerend_bb",
         "codec": "mp3",
         "bitrate": 128,
@@ -855,6 +921,8 @@
       {
         "id": "aws_6472a8dfd3afec7cf160",
         "stationId": "awb_053f1c0cc74ddc1bccce",
+        "name": "MGT BREGA E RETRÔ",
+        "country": "BR",
         "url": "https://cast.mgtradio.net/radio/8060/aac",
         "codec": "aac+",
         "bitrate": 64,
@@ -890,6 +958,8 @@
       {
         "id": "aws_f5891e7061e04effa016",
         "stationId": "awb_056b4d201ea280406731",
+        "name": "Rádio Estrada Real FM 102.5 MHz (Ouro Branco - MG)",
+        "country": "BR",
         "url": "https://9981.brasilstream.com.br/stream",
         "codec": "aac+",
         "bitrate": 64,
@@ -934,6 +1004,8 @@
       {
         "id": "aws_ab40775acd58906cd111",
         "stationId": "awb_05e8f7264c14325159ce",
+        "name": "TOP-POP WEB RÁDIO - JD33 ONE PRODUTION",
+        "country": "BR",
         "url": "https://usa3.fastcast4u.com/proxy/jd33corp/stream",
         "codec": "mp3",
         "bitrate": 96,
@@ -967,6 +1039,8 @@
       {
         "id": "aws_72eb5d5e1c3cd0448de3",
         "stationId": "awb_05c77fe71be9d5238aae",
+        "name": "Web Vintage Radio (Segundo Servidor)",
+        "country": "BR",
         "url": "https://servidor29-1.brlogic.com:7060/live",
         "codec": "mp3",
         "bitrate": 192,
@@ -1010,6 +1084,8 @@
       {
         "id": "aws_bf11d53081f04271f3fa",
         "stationId": "awb_05b86c1e7f03f6d99d32",
+        "name": "Радио Минская Волна 97.4 FM",
+        "country": "BY",
         "url": "https://stream2.datacenter.by/mvradio",
         "codec": "mp3",
         "bitrate": 160,
@@ -1050,6 +1126,8 @@
       {
         "id": "aws_5f4fb81fd2d91d65f508",
         "stationId": "awb_05a0fad381a20e2e0744",
+        "name": "CISL \"Sportsnet 650\" Richmond, BC",
+        "country": "CA",
         "url": "http://radioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8",
         "codec": "aac",
         "bitrate": 46,
@@ -1092,6 +1170,8 @@
       {
         "id": "aws_6d0a5bfa8430fae573dd",
         "stationId": "awb_05c0d7d7404cfac60e96",
+        "name": "CJSD 94.3 \"Rock 94\" Thunder Bay, ON",
+        "country": "CA",
         "url": "http://cjsd.streamon.fm/stream/CJSD-32k.aac",
         "codec": "aac",
         "bitrate": 96,
@@ -1132,6 +1212,8 @@
       {
         "id": "aws_c04114239227efe8d524",
         "stationId": "awb_05e1d591b1320b54d372",
+        "name": "CKMN 96.5 FM",
+        "country": "CA",
         "url": "https://arcq.streamb.live/SB00217",
         "codec": "mp3",
         "bitrate": 128,
@@ -1165,6 +1247,8 @@
       {
         "id": "aws_814c5ab2b8a92418355c",
         "stationId": "awb_05ab533094e32b7ebd1e",
+        "name": "Watoto Radio",
+        "country": "CD",
         "url": "https://stream-47.zeno.fm/xwx18us91k8uv?zs=D6hP5IeET_CVAjQuCUtmkg",
         "codec": "mp3",
         "bitrate": 128,
@@ -1177,7 +1261,7 @@
           "526030ed-2361-4fcb-b221-d2d70ad27fb8"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-09-30T20:19:18Z"
+        "lastCheckedAt": "2026-10-12T20:53:58Z"
       }
     ]
   },
@@ -1204,6 +1288,8 @@
       {
         "id": "aws_95b45307ce688a733468",
         "stationId": "awb_05ed6c35217ef2c8e70a",
+        "name": "Radio R Louange",
+        "country": "CH",
         "url": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac",
         "codec": "aac+",
         "bitrate": 96,
@@ -1221,6 +1307,8 @@
       {
         "id": "aws_35127b9ec20c6a040d3e",
         "stationId": "awb_05ed6c35217ef2c8e70a",
+        "name": "Radio R Louange",
+        "country": "CH",
         "url": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac?ver=666978",
         "codec": "aac+",
         "bitrate": 96,
@@ -1266,6 +1354,8 @@
       {
         "id": "aws_cc6681450df1065d2339",
         "stationId": "awb_0532d52332e1895e7557",
+        "name": "EchoBeat FM",
+        "country": "CL",
         "url": "https://as100.globalhost1.com/8004/stream",
         "codec": "mp3",
         "bitrate": 96,
@@ -1305,6 +1395,8 @@
       {
         "id": "aws_428a67330640a9b1a88c",
         "stationId": "awb_0578974df2a2311c0dcf",
+        "name": "Newen del Lago",
+        "country": "CL",
         "url": "https://sonic.portalfoxmix.club/8072/stream",
         "codec": "aac+",
         "bitrate": 32,
@@ -1338,6 +1430,8 @@
       {
         "id": "aws_cbedcc580412edfa3ef3",
         "stationId": "awb_05cd4c2808f4ff13d0b0",
+        "name": "VLN Radio",
+        "country": "CL",
         "url": "https://sonando-us.digitalproserver.com/vln_lo",
         "codec": "aac+",
         "bitrate": 56,
@@ -1377,6 +1471,8 @@
       {
         "id": "aws_3e64caa9da9056c295e2",
         "stationId": "awb_057258b9fdf887820f03",
+        "name": "KRadio 若望三電台",
+        "country": "CN",
         "url": "https://stream.zeno.fm/4uih7z8lxj9uv",
         "codec": "mp3",
         "bitrate": 128,
@@ -1414,6 +1510,8 @@
       {
         "id": "aws_7dc3ef5555588e251943",
         "stationId": "awb_055168e0fe8492f44170",
+        "name": "上海音乐广播",
+        "country": "CN",
         "url": "http://lhttp.qingting.fm/live/273/64k.mp3",
         "codec": "mp3",
         "bitrate": 0,
@@ -1451,6 +1549,8 @@
       {
         "id": "aws_3cb6f7fa5919b4ad13f1",
         "stationId": "awb_052cc658d72ea95d797a",
+        "name": "内蒙古新闻综合广播",
+        "country": "CN",
         "url": "https://lhttp-hw.qtfm.cn/live/1883/64k.mp3",
         "codec": "mp3",
         "bitrate": 0,
@@ -1488,6 +1588,8 @@
       {
         "id": "aws_cd1b1188721783a81a15",
         "stationId": "awb_057506569ee9a1f6f99e",
+        "name": "北京延庆之声",
+        "country": "CN",
         "url": "https://videoplaynew.yanqingrmzx.com/yq/gb.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -1525,6 +1627,8 @@
       {
         "id": "aws_f648fa43f29db0a197c3",
         "stationId": "awb_05feb47df42d5c3d2c1d",
+        "name": "声音控电台",
+        "country": "CN",
         "url": "https://lhttp-hw.qtfm.cn/live/15318519/64k.mp3",
         "codec": "mp3",
         "bitrate": 0,
@@ -1562,6 +1666,8 @@
       {
         "id": "aws_481995ecd2457b268500",
         "stationId": "awb_05b9af12904d32ff558f",
+        "name": "河北私家车广播",
+        "country": "CN",
         "url": "http://ls.qingting.fm/live/4868.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -1599,6 +1705,8 @@
       {
         "id": "aws_b36eb834c1b315c7ef54",
         "stationId": "awb_051d70831ed29833fdd5",
+        "name": "淮阴区FM100.6淮安车生活",
+        "country": "CN",
         "url": "https://lhttp-hw.qtfm.cn/live/5021970/64k.mp3",
         "codec": "mp3",
         "bitrate": 0,
@@ -1638,6 +1746,8 @@
       {
         "id": "aws_92c40ac350f229013121",
         "stationId": "awb_053f4485fd9b90ee52e7",
+        "name": "滁州南谯之声 经典983电台",
+        "country": "CN",
         "url": "https://lhttp-hw.qtfm.cn/live/20211575/64k.mp3",
         "codec": "mp3",
         "bitrate": 0,
@@ -1675,6 +1785,8 @@
       {
         "id": "aws_36f04c6bb31c2111cb3a",
         "stationId": "awb_055af21850972cb9fc4f",
+        "name": "潍坊交通广播",
+        "country": "CN",
         "url": "https://lhttp.qtfm.cn/live/4014/64k.mp3",
         "codec": "mp3",
         "bitrate": 0,
@@ -1712,6 +1824,8 @@
       {
         "id": "aws_6f02213a7889dc0b6297",
         "stationId": "awb_0524e0697862fa9e926b",
+        "name": "运城金荔枝经典流行音乐广播电台",
+        "country": "CN",
         "url": "https://lhttp-hw.qtfm.cn/live/15318194/64k.mp3",
         "codec": "mp3",
         "bitrate": 0,
@@ -1747,6 +1861,8 @@
       {
         "id": "aws_19ad6bf00e32a909c594",
         "stationId": "awb_05d381d92c86219b4c09",
+        "name": "阳光悦读智听电台",
+        "country": "CN",
         "url": "https://rscdn.ajmide.com/r_3853/nglive_3853.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -1792,6 +1908,8 @@
       {
         "id": "aws_77826a156df56a4ff403",
         "stationId": "awb_055db9306aea659d6435",
+        "name": "Banana Stereo 88.5 FM",
+        "country": "CO",
         "url": "https://stream.zeno.fm/3r0rnyasc72vv",
         "codec": "mp3",
         "bitrate": 128,
@@ -1835,6 +1953,8 @@
       {
         "id": "aws_eda3875b25652bbe6d89",
         "stationId": "awb_0500ff028eb9b910aa7d",
+        "name": "Candela Cali 102.5 FM",
+        "country": "CO",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELA_CALIAAC",
         "codec": "flv",
         "bitrate": 0,
@@ -1876,6 +1996,8 @@
       {
         "id": "aws_193fea3883762a82366f",
         "stationId": "awb_05bbe56071f7659f72c0",
+        "name": "juventud Stereo 101.9 FM",
+        "country": "CO",
         "url": "https://stream.zeno.fm/8dp0r5hamzzuv",
         "codec": "mp3",
         "bitrate": 96,
@@ -1911,6 +2033,8 @@
       {
         "id": "aws_9eb9153ffcb66d0353af",
         "stationId": "awb_053ea5cc2cc5543cba98",
+        "name": "Radio Emisora HJUT (Bogotá)",
+        "country": "CO",
         "url": "https://radiohd2.streaminghd.co:7098/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -1952,6 +2076,8 @@
       {
         "id": "aws_fdae60bb6c99c92b260e",
         "stationId": "awb_052bed800c8bcad7de05",
+        "name": "Radio Life Trance",
+        "country": "CZ",
         "url": "http://65.108.105.26:7709/stream",
         "codec": "mp3",
         "bitrate": 192,
@@ -1985,6 +2111,8 @@
       {
         "id": "aws_d4702a02806c2e17681b",
         "stationId": "awb_0567b266d2d14842e25f",
+        "name": "Rádio Pohádka",
+        "country": "CZ",
         "url": "https://ice3.radia.cz/pohadka128.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -2033,6 +2161,8 @@
       {
         "id": "aws_25c2a3fca97dd07f210d",
         "stationId": "awb_05a76c17570cdbabfffd",
+        "name": "0nlineradio VIVALDI",
+        "country": "DE",
         "url": "https://stream.0nlineradio.com/vivaldi?ref=radiobrowser",
         "codec": "mp3",
         "bitrate": 192,
@@ -2068,6 +2198,8 @@
       {
         "id": "aws_ae993982efce30ea5b55",
         "stationId": "awb_052d577ffe9132d6022c",
+        "name": "54HOUSE.FM CLUB",
+        "country": "DE",
         "url": "https://54house.fm:9013/stream",
         "codec": "mp3",
         "bitrate": 192,
@@ -2103,6 +2235,8 @@
       {
         "id": "aws_b9f03dab64040a993ba2",
         "stationId": "awb_054d591873b8bc2ba231",
+        "name": "80s Mix Radio",
+        "country": "DE",
         "url": "https://80s-mix-radio.stream.laut.fm/80s-mix-radio",
         "codec": "mp3",
         "bitrate": 128,
@@ -2141,6 +2275,8 @@
       {
         "id": "aws_223e88a4449242c95f26",
         "stationId": "awb_05302373b4c9d5ee1deb",
+        "name": "98.6 charivari Discomania",
+        "country": "DE",
         "url": "https://frontend.streamonkey.net/fhn-986charivaridiscomania/stream/mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -2178,6 +2314,8 @@
       {
         "id": "aws_e574cd2b605151c03c58",
         "stationId": "awb_059912a44a6958142e8a",
+        "name": "R. BOB Death Metal",
+        "country": "DE",
         "url": "https://streams.radiobob.de/deathmetal/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671583467&cb=666678803&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
         "codec": "mp3",
         "bitrate": 0,
@@ -2211,6 +2349,8 @@
       {
         "id": "aws_ea91c88bb7dba908ec90",
         "stationId": "awb_054c481e81782e687d90",
+        "name": "R.SA - 1.000 80er",
+        "country": "DE",
         "url": "http://streams.rsa-sachsen.de/80er1000/mp3-192/streams.rsa-sachsen.de/",
         "codec": "mp3",
         "bitrate": 0,
@@ -2257,6 +2397,8 @@
       {
         "id": "aws_1b6e51cfe2c1acf292fd",
         "stationId": "awb_05470b583fcb0b2bcd1e",
+        "name": "R.SA - Das Beatles Radio",
+        "country": "DE",
         "url": "http://rsa.streamabc.net/regc-rsasachsenbeatles9332348-mp3-192-8776045?sABC=6npp5598%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1791776152",
         "codec": "mp3",
         "bitrate": 0,
@@ -2294,6 +2436,8 @@
       {
         "id": "aws_82050b47acb420dbfe47",
         "stationId": "awb_05a773404b16fd3df77d",
+        "name": "Radio Regenbogen - 70er Rock",
+        "country": "DE",
         "url": "http://streams.regenbogen.de/rr-70errock-128-aac",
         "codec": "aac",
         "bitrate": 0,
@@ -2327,6 +2471,8 @@
       {
         "id": "aws_0b962f7b151e1192c97a",
         "stationId": "awb_0521398e44f9c1663974",
+        "name": "Radio Vidovdan",
+        "country": "DE",
         "url": "https://solid48.streamupsolutions.com/proxy/vipugplg/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -2362,6 +2508,8 @@
       {
         "id": "aws_dd0158d51400f37f3e43",
         "stationId": "awb_0593a41ab8966e967c86",
+        "name": "RauteMusik Oriental",
+        "country": "DE",
         "url": "http://oriental-high.rautemusik.fm/",
         "codec": "mp3",
         "bitrate": 192,
@@ -2395,6 +2543,8 @@
       {
         "id": "aws_66593cbade9fdd1a57aa",
         "stationId": "awb_05e3de302a46b33a3fff",
+        "name": "Rock Antenne - Modern Rock",
+        "country": "DE",
         "url": "https://s6-webradio.rockantenne.de/modern-rock/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -2431,6 +2581,8 @@
       {
         "id": "aws_3be4c5fd330f2e526810",
         "stationId": "awb_05ac568879719237a16e",
+        "name": "Rock Antenne Munich City Nights",
+        "country": "DE",
         "url": "https://s6-webradio.rockantenne.bayern/munich-city-nights/stream/mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -2473,6 +2625,8 @@
       {
         "id": "aws_4ef213bf83dd4da9d0b7",
         "stationId": "awb_0570c3afe9fd5449206c",
+        "name": "ROCK FM",
+        "country": "DE",
         "url": "http://streams.regenbogen.de/rr2-bw-128-mp3",
         "codec": "mp3",
         "bitrate": 0,
@@ -2511,6 +2665,8 @@
       {
         "id": "aws_4cb2003f6d19694e7486",
         "stationId": "awb_05bbcd1a6d1f050feea4",
+        "name": "Schwany Souvenir 1",
+        "country": "DE",
         "url": "https://souvenir.spcast.eu/stream?time=1791800043",
         "codec": "mp3",
         "bitrate": 320,
@@ -2554,6 +2710,8 @@
       {
         "id": "aws_977553b63afd934d94ef",
         "stationId": "awb_051559bef0c04da23bff",
+        "name": "Technolovers VOCAL TRANCE",
+        "country": "DE",
         "url": "https://stream.technolovers.fm/vocal-trance?ref=radiobrowser",
         "codec": "mp3",
         "bitrate": 192,
@@ -2595,6 +2753,8 @@
       {
         "id": "aws_3565ae9e2113b045cd2b",
         "stationId": "awb_054c660ad8ace2449f6d",
+        "name": "DR P2",
+        "country": "DK",
         "url": "http://live-icy.dr.dk/A/A04H.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -2613,6 +2773,8 @@
       {
         "id": "aws_432b3a99c68d6aabff09",
         "stationId": "awb_054c660ad8ace2449f6d",
+        "name": "DR P2",
+        "country": "DK",
         "url": "http://live-icy.gss.dr.dk/A/A04H.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -2650,6 +2812,8 @@
       {
         "id": "aws_63140906b68ec2bc5059",
         "stationId": "awb_05883a327ed7a6606439",
+        "name": "DR P4 Nordjylland",
+        "country": "DK",
         "url": "http://live-icy.dr.dk/A/A10H.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -2668,6 +2832,8 @@
       {
         "id": "aws_38a2328582f6b9d01248",
         "stationId": "awb_05883a327ed7a6606439",
+        "name": "DR P4 Nordjylland",
+        "country": "DK",
         "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8",
         "codec": "aac",
         "bitrate": 324,
@@ -2710,6 +2876,8 @@
       {
         "id": "aws_acb779c5e5d15edb7b48",
         "stationId": "awb_05ca716f33086655d2fc",
+        "name": "Batna باتنة",
+        "country": "DZ",
         "url": "https://webradio2.tda.dz:8001/Batna_64K.mp3",
         "codec": "mp3",
         "bitrate": 64,
@@ -2743,6 +2911,8 @@
       {
         "id": "aws_eec4768b0d481250a0fb",
         "stationId": "awb_056e1e25c79d599a2aa9",
+        "name": "Radio Rumba",
+        "country": "EC",
         "url": "https://streamingecuador.net:8078/radiorumbanetwork",
         "codec": "aac+",
         "bitrate": 40,
@@ -2784,6 +2954,8 @@
       {
         "id": "aws_81df1f91d2165f0cf020",
         "stationId": "awb_05ed0063d75e1cd4a197",
+        "name": "Arab Mix FM",
+        "country": "EG",
         "url": "https://stream.zeno.fm/na3vpvn10qruv",
         "codec": "mp3",
         "bitrate": 128,
@@ -2796,7 +2968,7 @@
           "8dad4ff4-2ae8-4fba-b379-c964f6ae9f4a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-01T08:45:57Z"
+        "lastCheckedAt": "2026-10-12T21:26:58Z"
       }
     ]
   },
@@ -2822,6 +2994,8 @@
       {
         "id": "aws_1055997e70e11b121df6",
         "stationId": "awb_05e9f6fc19bc79d1435a",
+        "name": "Cadena Ser + Vigo",
+        "country": "ES",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MAS_VIGO.mp3",
         "codec": "mp3",
         "bitrate": 96,
@@ -2855,6 +3029,8 @@
       {
         "id": "aws_1e60c72a929a8e2e7637",
         "stationId": "awb_05474f121300ab929f35",
+        "name": "Café del Mar Radio",
+        "country": "ES",
         "url": "https://streams.radio.co/se1a320b47/listen",
         "codec": "mp3",
         "bitrate": 192,
@@ -2895,6 +3071,8 @@
       {
         "id": "aws_95f6d7f0df2e5ff94917",
         "stationId": "awb_058c86a7b7f01dcece91",
+        "name": "Italiana FM",
+        "country": "ES",
         "url": "https://online.radioplayer.ua/RadioItaliana",
         "codec": "mp3",
         "bitrate": 128,
@@ -2937,6 +3115,8 @@
       {
         "id": "aws_9a7a09fff22e772126b1",
         "stationId": "awb_05018e2d28fc95d238e9",
+        "name": "Radio Ilíberis",
+        "country": "ES",
         "url": "https://streaming2.elitecomunicacion.es:8074/stream?type=.mp3",
         "codec": "aac",
         "bitrate": 128,
@@ -2972,6 +3152,8 @@
       {
         "id": "aws_bacf040d1e18190ce902",
         "stationId": "awb_05115b91a32e8f40fffb",
+        "name": "Abdulbasit Abdulsamad",
+        "country": "FM",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "codec": "aac",
         "bitrate": 64,
@@ -3009,6 +3191,8 @@
       {
         "id": "aws_6b1cd8c1b0cd486ec901",
         "stationId": "awb_059642375036eac62e59",
+        "name": "Africa Radio Selecta Webradio",
+        "country": "FR",
         "url": "https://webradio6.ice.infomaniak.ch/webradio6-128.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -3046,6 +3230,8 @@
       {
         "id": "aws_c98239b31dec9a4fbeb8",
         "stationId": "awb_05211e88a9d04b2f0d3f",
+        "name": "Clapas Chanson",
+        "country": "FR",
         "url": "https://stream.radioclapas.fr/listen/clapas_chanson/radio.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -3081,6 +3267,8 @@
       {
         "id": "aws_22da9a688da7df51cf8d",
         "stationId": "awb_050790c4ecda000d5cb7",
+        "name": "dub🌴'issimo",
+        "country": "FR",
         "url": "http://stream.zeno.fm/bq72xm4z61zuv",
         "codec": "mp3",
         "bitrate": 96,
@@ -3121,6 +3309,8 @@
       {
         "id": "aws_384637eff2bfd41bcdef",
         "stationId": "awb_05dae83b1483b30bc330",
+        "name": "Europe 2 Girl power Mp3",
+        "country": "FR",
         "url": "http://europe2.lmn.fm/vr-wr14.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -3156,6 +3346,8 @@
       {
         "id": "aws_fa8c354715ebcedc6fde",
         "stationId": "awb_05ba1d664ab41c355c0d",
+        "name": "HITWEST",
+        "country": "FR",
         "url": "https://stream.rcs.revma.com/nvsuedfwcy3vv",
         "codec": "aac",
         "bitrate": 0,
@@ -3168,7 +3360,7 @@
           "f93cd9ab-2691-4c93-818a-7d989167952d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-09-30T20:59:43Z"
+        "lastCheckedAt": "2026-10-12T21:00:33Z"
       }
     ]
   },
@@ -3189,6 +3381,8 @@
       {
         "id": "aws_cc3578a40fb753136d86",
         "stationId": "awb_05ee4b3519fd13735f85",
+        "name": "JAZZ RADIO - Jazz & Classique",
+        "country": "FR",
         "url": "http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -3201,7 +3395,7 @@
           "3ca92c2c-bf73-11e9-8502-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-01T11:22:27Z"
+        "lastCheckedAt": "2026-10-12T20:46:48Z"
       }
     ]
   },
@@ -3228,6 +3422,8 @@
       {
         "id": "aws_d85b8db99524a26760d8",
         "stationId": "awb_05b5447e9687c5466a17",
+        "name": "Jazz Radio New Orleans",
+        "country": "FR",
         "url": "http://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -3263,6 +3459,8 @@
       {
         "id": "aws_67a183e70bf175d965a6",
         "stationId": "awb_05c91a29439590a1494c",
+        "name": "Radio Radio",
+        "country": "FR",
         "url": "http://62.210.215.26:8000/xstream",
         "codec": "mp3",
         "bitrate": 140,
@@ -3298,6 +3496,8 @@
       {
         "id": "aws_9bbc453f00b255e3da67",
         "stationId": "awb_05d35425238b1a5ce85e",
+        "name": "Radio RVA",
+        "country": "FR",
         "url": "http://rva.ice.infomaniak.ch/rva-high.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -3337,6 +3537,8 @@
       {
         "id": "aws_4c11d098064b336017ca",
         "stationId": "awb_057eab535a254cf4776f",
+        "name": "Wit FM Lounge",
+        "country": "FR",
         "url": "http://witlounge.ice.infomaniak.ch/witlounge.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -3370,6 +3572,8 @@
       {
         "id": "aws_81e69d6bc41dce3237b5",
         "stationId": "awb_051863d27949530769c9",
+        "name": "BBC Radio Humberside",
+        "country": "GB",
         "url": "http://as-hls-ww-live.akamaized.net/pool_43379345/live/ww/bbc_radio_humberside/bbc_radio_humberside.isml/bbc_radio_humberside-audio%3d96000.norewind.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -3403,6 +3607,8 @@
       {
         "id": "aws_22f1e6c2c70ee6c1d1dc",
         "stationId": "awb_05cb49d693b7049760c3",
+        "name": "BBC Radio Northampton",
+        "country": "GB",
         "url": "http://as-hls-ww-live.akamaized.net/pool_73827654/live/ww/bbc_radio_northampton/bbc_radio_northampton.isml/bbc_radio_northampton-audio%3d96000.norewind.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -3415,7 +3621,7 @@
           "7226f252-bb55-410b-aab5-c045d64bf3da"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-01T03:32:46Z"
+        "lastCheckedAt": "2026-10-12T21:05:03Z"
       }
     ]
   },
@@ -3445,6 +3651,8 @@
       {
         "id": "aws_01ce682c0cc9b6a07c48",
         "stationId": "awb_059f771638e96f7d7341",
+        "name": "HeartSong Live",
+        "country": "GB",
         "url": "http://streamer.radio.co/sa0f1967d5/listen",
         "codec": "mp3",
         "bitrate": 192,
@@ -3478,6 +3686,8 @@
       {
         "id": "aws_fece51a3b6e6105a94be",
         "stationId": "awb_055f5be861f378709d21",
+        "name": "Hospital Radio Exeter",
+        "country": "GB",
         "url": "http://uk4-vn.mixstream.net:8130/listen.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -3532,6 +3742,8 @@
       {
         "id": "aws_379cfbd88048ec959bc7",
         "stationId": "awb_05aa1b491c84ddefb5f9",
+        "name": "KIDS RAVE RADIO",
+        "country": "GB",
         "url": "http://s3.radio.co/se1c4cc1fb/listen",
         "codec": "mp3",
         "bitrate": 192,
@@ -3565,6 +3777,8 @@
       {
         "id": "aws_30de8e15d55c8ff0e6ed",
         "stationId": "awb_0577eb7b7cff52d0b14d",
+        "name": "Premier Christian Radio",
+        "country": "GB",
         "url": "https://pcr.streamguys1.com/pcrnational-96k.aac",
         "codec": "aac",
         "bitrate": 56,
@@ -3602,6 +3816,8 @@
       {
         "id": "aws_cf4509fb2229f4fe48d0",
         "stationId": "awb_05c43c8820c460df9824",
+        "name": "Radio Maria England",
+        "country": "GB",
         "url": "https://dreamsiteradiocp5.com/proxy/rmengland?mp=/stream",
         "codec": "aac+",
         "bitrate": 128,
@@ -3635,6 +3851,8 @@
       {
         "id": "aws_b965030bba993aedfcaa",
         "stationId": "awb_05e88658062af1d23d66",
+        "name": "RAM FM Eighties Hit Radio",
+        "country": "GB",
         "url": "https://usa1-vn.mixstream.net/8084/listen.mp3",
         "codec": "aac+",
         "bitrate": 64,
@@ -3668,6 +3886,8 @@
       {
         "id": "aws_856379b0e5aaf9b757ff",
         "stationId": "awb_05697d3ec7fc99807dff",
+        "name": "Vintage Radio Wirral",
+        "country": "GB",
         "url": "https://streaming04.liveboxstream.uk/proxy/vintager?mp=/stream",
         "codec": "mp3",
         "bitrate": 192,
@@ -3708,6 +3928,8 @@
       {
         "id": "aws_0f74d9956105aeafc115",
         "stationId": "awb_05c6cf1f27a7eb187c43",
+        "name": "Star FM 101.9",
+        "country": "GD",
         "url": "https://starchild.radioca.st/",
         "codec": "mp3",
         "bitrate": 128,
@@ -3751,6 +3973,8 @@
       {
         "id": "aws_ae63dbbc6fedf0ac3376",
         "stationId": "awb_05226eb4811fa3c2d14d",
+        "name": "Riduna-radio.com",
+        "country": "GG",
         "url": "https://stream.radio.co/sa70b464db/listen",
         "codec": "mp3",
         "bitrate": 128,
@@ -3790,6 +4014,8 @@
       {
         "id": "aws_f465668bd978f55700c9",
         "stationId": "awb_05c20270b2ecdfc154de",
+        "name": "Easy FM 105.3",
+        "country": "GR",
         "url": "https://sh.onweb.gr:7073/;",
         "codec": "mp3",
         "bitrate": 192,
@@ -3825,6 +4051,8 @@
       {
         "id": "aws_db18596e689abfa7d682",
         "stationId": "awb_05ad2b801bd9dc06195e",
+        "name": "Nea TV",
+        "country": "GR",
         "url": "https://live.neatv.gr:8888/hls/neatv_src/index.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -3867,6 +4095,8 @@
       {
         "id": "aws_686e8cbd61dab2ce9d03",
         "stationId": "awb_05117796261f53f3c4c0",
+        "name": "Radio Madness",
+        "country": "GR",
         "url": "http://s2.onweb.gr:8044/;",
         "codec": "mp3",
         "bitrate": 128,
@@ -3909,6 +4139,8 @@
       {
         "id": "aws_d2fd34a828fcae71a4de",
         "stationId": "awb_0541fdd387ccb0314dc3",
+        "name": "Γαλαξίας 93",
+        "country": "GR",
         "url": "http://netradio.live24.gr/galaxias93-mykonos",
         "codec": "mp3",
         "bitrate": 128,
@@ -3947,6 +4179,8 @@
       {
         "id": "aws_059d65ed32f173f52d61",
         "stationId": "awb_055c2ffa28b0a4e90eea",
+        "name": "Θέμα 98.7",
+        "country": "GR",
         "url": "https://radio.themapatras.gr/radio",
         "codec": "aac+",
         "bitrate": 128,
@@ -3980,6 +4214,8 @@
       {
         "id": "aws_a47fe5dd30a9167a9c25",
         "stationId": "awb_05b55a171691d1db879d",
+        "name": "D-100",
+        "country": "HK",
         "url": "http://59.152.232.107:8000/Channel1-128MP3",
         "codec": "mp3",
         "bitrate": 96,
@@ -4015,6 +4251,8 @@
       {
         "id": "aws_51f309cd60118e997d11",
         "stationId": "awb_0559e4ef1cf4926972aa",
+        "name": "Happy FM - Klape",
+        "country": "HR",
         "url": "http://c5.hostingcentar.com:8384/",
         "codec": "aac+",
         "bitrate": 128,
@@ -4027,11 +4265,13 @@
           "e001600c-c851-434c-bbb3-e07c34165a23"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-09-30T20:25:20Z"
+        "lastCheckedAt": "2026-10-12T21:26:58Z"
       },
       {
         "id": "aws_335222a1f408ace9cc34",
         "stationId": "awb_0559e4ef1cf4926972aa",
+        "name": "Happy FM Klape",
+        "country": "HR",
         "url": "http://c5.hostingcentar.com:8384/stream?8802",
         "codec": "aac+",
         "bitrate": 128,
@@ -4065,6 +4305,8 @@
       {
         "id": "aws_e9ccc9eab4f70330da5c",
         "stationId": "awb_05ee08cc62b61b0c486b",
+        "name": "AIR Urdu",
+        "country": "IN",
         "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -4100,6 +4342,8 @@
       {
         "id": "aws_313cd0e5ce6b50ca55de",
         "stationId": "awb_053df96741d1c9acb429",
+        "name": "americantamilradio",
+        "country": "IN",
         "url": "https://cp11.serverse.com/proxy/hgsmgluv?mp=/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -4137,6 +4381,8 @@
       {
         "id": "aws_f6f32f928d0b3c51d635",
         "stationId": "awb_059fe3b27ecf19649308",
+        "name": "Amlisten",
+        "country": "IN",
         "url": "https://stream.zeno.fm/yf5p1bya1feuv",
         "codec": "mp3",
         "bitrate": 96,
@@ -4173,6 +4419,8 @@
       {
         "id": "aws_3b7657bc978b27b0b480",
         "stationId": "awb_059a4f2eabd29b8bd4a4",
+        "name": "hindiretro",
+        "country": "IN",
         "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/MRETRO_Auto.m3u8",
         "codec": "aac+",
         "bitrate": 64,
@@ -4208,6 +4456,8 @@
       {
         "id": "aws_ac63dd4e37ed55833c3e",
         "stationId": "awb_05e711b0ad7ec30a4ef9",
+        "name": "lankasrifm",
+        "country": "IN",
         "url": "https://rbx2.hnux.com/http://5984.cloudrad.io:8032/;stream.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -4220,7 +4470,7 @@
           "63b1e54a-42ae-4a3f-a35f-22720dc381aa"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-01T01:24:44Z"
+        "lastCheckedAt": "2026-10-12T20:48:48Z"
       }
     ]
   },
@@ -4243,6 +4493,8 @@
       {
         "id": "aws_5ba95de716518c9e2385",
         "stationId": "awb_05c2fdcac4a9f191231a",
+        "name": "radiovoxa",
+        "country": "IN",
         "url": "https://stream.zeno.fm/zrfx7zy2wwzuv.aac",
         "codec": "mp3",
         "bitrate": 128,
@@ -4276,6 +4528,8 @@
       {
         "id": "aws_e7641a47c332995ec88b",
         "stationId": "awb_055858e1381feef03ed3",
+        "name": "Vividh Bharti",
+        "country": "IN",
         "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
         "codec": "aac",
         "bitrate": 93,
@@ -4313,6 +4567,8 @@
       {
         "id": "aws_a63c8c5bde5ab4208ca7",
         "stationId": "awb_05991c8157c2cb60340d",
+        "name": "speda radio",
+        "country": "IQ",
         "url": "https://radio.host247.net/spedafm",
         "codec": "mp3",
         "bitrate": 128,
@@ -4327,7 +4583,7 @@
           "dfa44ba9-e0b9-4a22-a848-5b28d2781986"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-01T08:10:20Z"
+        "lastCheckedAt": "2026-10-12T21:26:58Z"
       }
     ]
   },
@@ -4348,6 +4604,8 @@
       {
         "id": "aws_d159d49a0983a0cdcfcd",
         "stationId": "awb_05b78371ee0947cb0f21",
+        "name": "Hot Block Radio",
+        "country": "IT",
         "url": "https://stream.mandragola.com/hotblockradio",
         "codec": "mp3",
         "bitrate": 0,
@@ -4360,7 +4618,7 @@
           "debdc716-4979-4e10-9d72-d1974fc5bd29"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-01T15:31:24Z"
+        "lastCheckedAt": "2026-10-12T22:23:12Z"
       }
     ]
   },
@@ -4381,6 +4639,8 @@
       {
         "id": "aws_f9e74596671c098491c4",
         "stationId": "awb_05c617c135230e86c6be",
+        "name": "Radio Blackout Torino",
+        "country": "IT",
         "url": "https://blimp.streampunk.cc/_stream/blackout.ogg",
         "codec": "ogg",
         "bitrate": 0,
@@ -4414,6 +4674,8 @@
       {
         "id": "aws_86abd31235a82fd446c8",
         "stationId": "awb_0516d4d9456f7530f3eb",
+        "name": "Radio disco Milano",
+        "country": "IT",
         "url": "http://radiodisco.stream.laut.fm/radiodisco",
         "codec": "mp3",
         "bitrate": 128,
@@ -4453,6 +4715,8 @@
       {
         "id": "aws_15ab6270e3376b50af5e",
         "stationId": "awb_0593678f0359f6c89d54",
+        "name": "Radio Globo | Solo le migliori",
+        "country": "IT",
         "url": "https://globo.newradio.it/globorm64",
         "codec": "mp3",
         "bitrate": 128,
@@ -4490,6 +4754,8 @@
       {
         "id": "aws_132425da8f457617bbeb",
         "stationId": "awb_05b663dfd5d60bacc801",
+        "name": "Radioattività",
+        "country": "IT",
         "url": "https://nr5.newradio.it/proxy/finmedia?mp=/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -4502,7 +4768,7 @@
           "9ee8b937-bfba-4ad7-b98d-4739c9ba3683"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-01T13:46:34Z"
+        "lastCheckedAt": "2026-10-12T21:13:47Z"
       }
     ]
   },
@@ -4532,6 +4798,8 @@
       {
         "id": "aws_15e8a27d45bd4e04fe95",
         "stationId": "awb_05402dcfac34a3ad0923",
+        "name": "Today Dance Radio",
+        "country": "IT",
         "url": "http://protostar.shoutca.st:8390/;",
         "codec": "mp3",
         "bitrate": 192,
@@ -4574,6 +4842,8 @@
       {
         "id": "aws_69a01efae701927a94df",
         "stationId": "awb_0558b42345496b5e4eab",
+        "name": "Viniles Radio",
+        "country": "IT",
         "url": "https://s3.radio.co/sfaf3f1f4a/listen",
         "codec": "mp3",
         "bitrate": 128,
@@ -4613,6 +4883,8 @@
       {
         "id": "aws_ecd75de068cbe46e72b6",
         "stationId": "awb_0564a1da9d1f19b678b2",
+        "name": "RadioBEAT",
+        "country": "MD",
         "url": "https://ssl.omegahost.ro/9998/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -4648,6 +4920,8 @@
       {
         "id": "aws_a8602ba61b71d397857e",
         "stationId": "awb_052c17f88764a0443035",
+        "name": "Radio Don Bosco Madagascar",
+        "country": "MG",
         "url": "http://onair15.xdevel.com:9248/;stream.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -4714,6 +4988,8 @@
       {
         "id": "aws_b60f65c083652804c8b4",
         "stationId": "awb_050bc872d64fb44ffeb4",
+        "name": "1420 XEH (MTY) - 1420 AM - XEH-AM - Grupo Radio Centro - Monterrey, Nuevo León",
+        "country": "MX",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEH_AMAAC.aac",
         "codec": "aac+",
         "bitrate": 128,
@@ -4782,6 +5058,8 @@
       {
         "id": "aws_bc923f212b2d6d22a21e",
         "stationId": "awb_05fdfcc2383d64f7e013",
+        "name": "CHILANGO RADIO: La Radio Que Viene, Viene",
+        "country": "MX",
         "url": "https://stream.radio.co/s938b68214/listen",
         "codec": "mp3",
         "bitrate": 192,
@@ -4861,6 +5139,8 @@
       {
         "id": "aws_2870ae7fe9d897bdd386",
         "stationId": "awb_05977fd5d5c582c36581",
+        "name": "FM Globo Ciudad Acuña - 99.7 FM - XHPL-FM - RCG Media - Ciudad Acuña, Coahuila",
+        "country": "MX",
         "url": "http://radio.rcg.com.mx:8016/",
         "codec": "mp3",
         "bitrate": 96,
@@ -4932,6 +5212,8 @@
       {
         "id": "aws_1447df5d37fb0684d0e4",
         "stationId": "awb_05dd6bd072a642107cf0",
+        "name": "Fórmula Melódica (Guadalajara) - 97.9 FM - XETIA-FM - Grupo Unidifusión - Guadalajara, JC",
+        "country": "MX",
         "url": "https://s2.yesstreaming.net:9085/stream",
         "codec": "mp3",
         "bitrate": 64,
@@ -4998,6 +5280,8 @@
       {
         "id": "aws_2b7c61c786acdde104cb",
         "stationId": "awb_0546f5578a62a32b7e0b",
+        "name": "JOYA 96.9 (Xalapa) - 96.9 FM - XHTZ-FM - Valanci Media Group - Xalapa, Veracruz",
+        "country": "MX",
         "url": "https://playradio.mx/proxy/joya?mp=/stream",
         "codec": "mp3",
         "bitrate": 64,
@@ -5065,6 +5349,8 @@
       {
         "id": "aws_528ca92b01ef204a5fb0",
         "stationId": "awb_05e9dcf256f2ad05283e",
+        "name": "LA V DE VICTORIA 104.1 (Ciudad Victoria) - 104.1 FM - XHRPV-FM - ORT Radio - Ciudad Victoria, Tamaulipas",
+        "country": "MX",
         "url": "https://cast1.my-control-panel.com/proxy/lav/stream",
         "codec": "mp3",
         "bitrate": 64,
@@ -5116,6 +5402,8 @@
       {
         "id": "aws_965ad4e1c5dc8c525a72",
         "stationId": "awb_05d8f02e4fd9739386d9",
+        "name": "Oldies Internet Radio",
+        "country": "MX",
         "url": "http://162.244.81.98:8140/listen",
         "codec": "aac",
         "bitrate": 128,
@@ -5133,6 +5421,8 @@
       {
         "id": "aws_5ddbbd1f69138216f224",
         "stationId": "awb_05d8f02e4fd9739386d9",
+        "name": "Oldies Internet Radio",
+        "country": "MX",
         "url": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
         "codec": "aac",
         "bitrate": 128,
@@ -5195,6 +5485,8 @@
       {
         "id": "aws_f7d6bc50c0cdfc787136",
         "stationId": "awb_050de4417425ac586e9c",
+        "name": "STEREO 91 91.3 (Nuevo Laredo) - 91.3 FM - XHNOE-FM - Nuevo Laredo, Tamaulipas",
+        "country": "MX",
         "url": "http://216.251.65.74:8000/stream",
         "codec": "mp3",
         "bitrate": 192,
@@ -5268,6 +5560,8 @@
       {
         "id": "aws_8844e77517369b52d4c2",
         "stationId": "awb_050e5554d02073312d52",
+        "name": "TROPICALÍSIMA: El sonido de la calle",
+        "country": "MX",
         "url": "https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8030/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -5301,6 +5595,8 @@
       {
         "id": "aws_dd12802635e7d0143538",
         "stationId": "awb_0582fc89b6eed95f0cf0",
+        "name": "Fresh 105.9 FM",
+        "country": "NG",
         "url": "https://stream.zeno.fm/e9x2n97b9uduv",
         "codec": "aac",
         "bitrate": 128,
@@ -5334,6 +5630,8 @@
       {
         "id": "aws_fa63f404eae0386b162f",
         "stationId": "awb_05ec0a450040e24d1c02",
+        "name": "Groove95",
+        "country": "NL",
         "url": "http://mediaserv68.live-streams.nl:8053/stream",
         "codec": "mp3",
         "bitrate": 192,
@@ -5351,6 +5649,8 @@
       {
         "id": "aws_ed7052a281fb4dadccf3",
         "stationId": "awb_05ec0a450040e24d1c02",
+        "name": "Groove95",
+        "country": "NL",
         "url": "https://mediaserv68.live-streams.nl:18053/stream",
         "codec": "mp3",
         "bitrate": 192,
@@ -5391,6 +5691,8 @@
       {
         "id": "aws_e533b9f75164c0025db4",
         "stationId": "awb_0539d0090d071602669c",
+        "name": "GRUNN FM",
+        "country": "NL",
         "url": "https://stream.grunn.fm/grunnfm",
         "codec": "mp3",
         "bitrate": 192,
@@ -5408,6 +5710,8 @@
       {
         "id": "aws_0c30198b0ff929898cec",
         "stationId": "awb_0539d0090d071602669c",
+        "name": "Grunn FM",
+        "country": "NL",
         "url": "https://stream.grunnfm.nl/grunnfm",
         "codec": "mp3",
         "bitrate": 192,
@@ -5443,6 +5747,8 @@
       {
         "id": "aws_cf26fe278724e73df0e1",
         "stationId": "awb_05493aa87643513b1f2a",
+        "name": "Hardrock",
+        "country": "NL",
         "url": "http://server-23.stream-server.nl:8326/stream",
         "codec": "mp3",
         "bitrate": 192,
@@ -5487,6 +5793,8 @@
       {
         "id": "aws_52683c47fa007c647622",
         "stationId": "awb_053648d350c89b0d7323",
+        "name": "Hi On Line World Radio",
+        "country": "NL",
         "url": "http://mediaserv38.live-streams.nl:8027/live",
         "codec": "mp3",
         "bitrate": 320,
@@ -5520,6 +5828,8 @@
       {
         "id": "aws_47248fd82db8654dd614",
         "stationId": "awb_0543c63917f2becd2beb",
+        "name": "NPO Radio 4 Concerten",
+        "country": "NL",
         "url": "http://icecast.omroep.nl/radio4-eigentijds-aac",
         "codec": "aac",
         "bitrate": 64,
@@ -5553,6 +5863,8 @@
       {
         "id": "aws_d313c873802412a0987c",
         "stationId": "awb_059ba656df0fdc367838",
+        "name": "Radio Joe",
+        "country": "NL",
         "url": "https://stream.joe.nl/joe/mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -5590,6 +5902,8 @@
       {
         "id": "aws_d298482934892753fc10",
         "stationId": "awb_05d015fb8105963ba178",
+        "name": "George FM - Club Classics",
+        "country": "NZ",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFM_CC_S01.aac",
         "codec": "aac+",
         "bitrate": 128,
@@ -5631,6 +5945,8 @@
       {
         "id": "aws_ec64ca2755365662fb38",
         "stationId": "awb_0505d44de18a6aee0c6a",
+        "name": "La Ñ (FMLima)",
+        "country": "PE",
         "url": "https://stream-281.surfernetwork.com/tk4wmqvnnnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0azR3bXF2bm5ucnV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlpqQjFmNWo4U3Ayb0pjSEVraGFJa0EiLCJpYXQiOjE3OTE4MTAzNTAsImV4cCI6MTc5MTgxMDQxMH0.QdNNadfAjcultqeykO-EzpPKUR79M1im1-RM4JQHvgM",
         "codec": "mp3",
         "bitrate": 128,
@@ -5669,6 +5985,8 @@
       {
         "id": "aws_24fd402ddd09d75f6dd3",
         "stationId": "awb_05d5c86c3d6fc75a71b2",
+        "name": "DYJJ IBC Radio 1296 AM",
+        "country": "PH",
         "url": "http://58.97.187.52:5007/rp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -5702,6 +6020,8 @@
       {
         "id": "aws_758ee62b0102b5f7e8dd",
         "stationId": "awb_051792a72ef362af2cc2",
+        "name": "Radio Pozo de la Salsa",
+        "country": "PR",
         "url": "https://cast4.my-control-panel.com/proxy/elpozosalsa/;",
         "codec": "mp3",
         "bitrate": 128,
@@ -5742,6 +6062,8 @@
       {
         "id": "aws_8e66b30e50b89b7af78e",
         "stationId": "awb_05923e0b6fb44a4e3f77",
+        "name": "AfroBeat Radio",
+        "country": "PT",
         "url": "https://smartmedia.stmxp.net:8068/stream",
         "codec": "aac+",
         "bitrate": 128,
@@ -5779,6 +6101,8 @@
       {
         "id": "aws_47255088b4e388c437c7",
         "stationId": "awb_05671bde15bd0327983d",
+        "name": "Mega Hits - Lisboa",
+        "country": "PT",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC",
         "codec": "mp3",
         "bitrate": 64,
@@ -5815,6 +6139,8 @@
       {
         "id": "aws_c5e1a6c612326493af13",
         "stationId": "awb_055d4ba3cffe3d00b935",
+        "name": "Clasic Radio_Popular -București",
+        "country": "RO",
         "url": "https://live.radioclasic.com/listen/radio_clasic_popular/live.mp3",
         "codec": "mp3",
         "bitrate": 192,
@@ -5848,6 +6174,8 @@
       {
         "id": "aws_0127aa2dd8728706ad80",
         "stationId": "awb_051fda8a9fb145113fcf",
+        "name": "Doina",
+        "country": "RO",
         "url": "http://89.43.138.116:8000/radiodoina.mp3",
         "codec": "mp3",
         "bitrate": 192,
@@ -5890,6 +6218,8 @@
       {
         "id": "aws_16076e491ed54bcc995c",
         "stationId": "awb_0592264863dfff968895",
+        "name": "Radio Lăutaru",
+        "country": "RO",
         "url": "http://live.radiolautaru.ro:9000/;",
         "codec": "mp3",
         "bitrate": 128,
@@ -5925,6 +6255,8 @@
       {
         "id": "aws_56f46449e480f7d86beb",
         "stationId": "awb_05051ab14c3fd6c1353b",
+        "name": "BBZ BREAKBEATZONE",
+        "country": "RU",
         "url": "https://radio.bbz.ru/listen/bbz/192.mp3",
         "codec": "mp3",
         "bitrate": 192,
@@ -5962,6 +6294,8 @@
       {
         "id": "aws_0e302619cdae922382fe",
         "stationId": "awb_05b13e6e43db5b27a941",
+        "name": "Nirvana",
+        "country": "RU",
         "url": "https://stream.pcradio.app/Nirvana-hi",
         "codec": "aac",
         "bitrate": 0,
@@ -5979,6 +6313,8 @@
       {
         "id": "aws_0df00ca90cd1c456f7f4",
         "stationId": "awb_05b13e6e43db5b27a941",
+        "name": "Nirvana",
+        "country": "RU",
         "url": "https://stream.pcradio.ru/Nirvana-hi",
         "codec": "aac",
         "bitrate": 0,
@@ -6022,6 +6358,8 @@
       {
         "id": "aws_97367dcf0abb31332ff3",
         "stationId": "awb_05d38e48fc538db8aff7",
+        "name": "Radio 107 Moscow",
+        "country": "RU",
         "url": "http://62.183.34.109:8000/radio107.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -6063,6 +6401,8 @@
       {
         "id": "aws_ece1aa345e6930118ebe",
         "stationId": "awb_05aff3f3f51075906f09",
+        "name": "Radio Caprice - Americana / American Roots",
+        "country": "RU",
         "url": "http://213.141.131.10:8002/americana",
         "codec": "aac+",
         "bitrate": 48,
@@ -6093,8 +6433,7 @@
       "oriental",
       "radcap",
       "radio caprice",
-      "radio caprice",
-      " radcap"
+      "radio caprice; radcap"
     ],
     "homepage": "http://radcap.ru/orientalmetal.html",
     "favicon": "http://radcap.ru/stylegraf/orientalmetal-c.jpg",
@@ -6105,6 +6444,8 @@
       {
         "id": "aws_30f342c0a6abf17be7b2",
         "stationId": "awb_05f5251aa1203357e288",
+        "name": "Radio Caprice - Oriental Metal",
+        "country": "RU",
         "url": "http://79.111.119.111:8000/orientalmetal",
         "codec": "aac+",
         "bitrate": 320,
@@ -6140,6 +6481,8 @@
       {
         "id": "aws_bf5b9830ed81eeb8005d",
         "stationId": "awb_05e6afa7d7331267ebac",
+        "name": "Radio Grozny",
+        "country": "RU",
         "url": "https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -6185,9 +6528,11 @@
     "updatedAt": "2026-06-15T10:04:09Z",
     "streams": [
       {
-        "id": "aws_c3b2d5c7316e0a8d4b16",
+        "id": "aws_5bd342fd4bbedd7bcd27",
         "stationId": "awb_0535ac472f5a0af2965e",
-        "url": "https://online.sputnikfm.ru/sputnik_mp3",
+        "name": "Radio Sputnik Volgograd 105.1FM",
+        "country": "RU",
+        "url": "https://stream2.sputnikfm.ru/sputnik_mp3",
         "codec": "mp3",
         "bitrate": 0,
         "protocol": "https",
@@ -6199,7 +6544,7 @@
           "70efb24e-d5fa-43a4-9fcc-1caace55efb2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-01T02:06:18Z"
+        "lastCheckedAt": "2026-10-12T21:07:28Z"
       }
     ]
   },
@@ -6223,6 +6568,8 @@
       {
         "id": "aws_9a14fd4438e00edb652a",
         "stationId": "awb_053c8a69edbec6100bea",
+        "name": "Sputnik Ossetia",
+        "country": "RU",
         "url": "https://icecast-rian.cdnvideo.ru/voicetsk",
         "codec": "mp3",
         "bitrate": 128,
@@ -6260,6 +6607,8 @@
       {
         "id": "aws_6023ef5fa248a3088a9b",
         "stationId": "awb_05eaac1b0a3dda06553a",
+        "name": "Studio 21 Санкт-Петербург 95.5 FM",
+        "country": "RU",
         "url": "http://emgregion.hostingradio.ru:8064/spb.s21.mp3",
         "codec": "mp3",
         "bitrate": 256,
@@ -6293,6 +6642,8 @@
       {
         "id": "aws_b66d4ce28c2f084d0438",
         "stationId": "awb_05bbe510037e7ee12905",
+        "name": "vtcradio",
+        "country": "RU",
         "url": "https://vtcradio.com:8005/stream",
         "codec": "mp3",
         "bitrate": 320,
@@ -6334,6 +6685,8 @@
       {
         "id": "aws_913e5eb03388536cfd62",
         "stationId": "awb_05f9630e08097ee5cf57",
+        "name": "Бизнес ФМ Санкт-Петербург 107.4 FM",
+        "country": "RU",
         "url": "http://bfmreg.hostingradio.ru/spb.bfm128.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -6369,6 +6722,8 @@
       {
         "id": "aws_41625979891c8d362c0b",
         "stationId": "awb_057b69838c1839519742",
+        "name": "Радио Рекорд Innocence",
+        "country": "RU",
         "url": "http://radiorecord.hostingradio.ru/ibiza96.aacp",
         "codec": "aac",
         "bitrate": 0,
@@ -6411,6 +6766,8 @@
       {
         "id": "aws_05109f993cbb161b12b6",
         "stationId": "awb_05b8e9e79c3fb8a6ec5a",
+        "name": "Sky ABC Radio 95.1 FM",
+        "country": "SA",
         "url": "https://cast.skyradio105.com/proxy/skyradio105/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -6448,6 +6805,8 @@
       {
         "id": "aws_5f0b90c0202c7121c6b0",
         "stationId": "awb_0561d51322271eb740ff",
+        "name": "Yes 933",
+        "country": "SG",
         "url": "http://28453.live.streamtheworld.com/YES933AAC.aac",
         "codec": "aac+",
         "bitrate": 48,
@@ -6465,6 +6824,8 @@
       {
         "id": "aws_cc371a6af6993a2f0f5b",
         "stationId": "awb_0561d51322271eb740ff",
+        "name": "Yes 933",
+        "country": "SG",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC",
         "codec": "aac+",
         "bitrate": 48,
@@ -6502,6 +6863,8 @@
       {
         "id": "aws_4503915d1352d0aa3fe9",
         "stationId": "awb_05c2140974c38534b2f3",
+        "name": "Al Karma FM",
+        "country": "SY",
         "url": "https://broadcast.shoutstream.co.uk/stream/8112",
         "codec": "aac",
         "bitrate": 128,
@@ -6537,6 +6900,8 @@
       {
         "id": "aws_35bb8ec5b8d1bda182ef",
         "stationId": "awb_05719ff25ef9cd35faa0",
+        "name": "AlHayet FM",
+        "country": "TN",
         "url": "https://manager8.streamradio.fr:2885/stream",
         "codec": "mp3",
         "bitrate": 192,
@@ -6576,6 +6941,8 @@
       {
         "id": "aws_fd6a5221b517353bcf73",
         "stationId": "awb_0515150794963eee1eb7",
+        "name": "إذاعة الفتاوى العامة",
+        "country": "TN",
         "url": "https://qurango.net/radio/fatwa",
         "codec": "mp3",
         "bitrate": 128,
@@ -6611,6 +6978,8 @@
       {
         "id": "aws_c2aca40f507f416cee79",
         "stationId": "awb_05018d8d2f4273cb90c4",
+        "name": "Fenomen Dans 256",
+        "country": "TR",
         "url": "https://live.radyofenomen.com/fenomendans/256/chunks.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -6644,6 +7013,8 @@
       {
         "id": "aws_bead83d0ded055f20643",
         "stationId": "awb_05892dcba7c58577c76e",
+        "name": "joytürk fm",
+        "country": "TR",
         "url": "https://29083.live.streamtheworld.com/JOY_TURK_SC",
         "codec": "mp3",
         "bitrate": 64,
@@ -6685,6 +7056,8 @@
       {
         "id": "aws_6689782063760b7f9220",
         "stationId": "awb_0583e14d8b0c8db0d8ac",
+        "name": "Mayday Records",
+        "country": "TR",
         "url": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
         "codec": "mp3",
         "bitrate": 256,
@@ -6725,6 +7098,8 @@
       {
         "id": "aws_7555c5ed9743870971cb",
         "stationId": "awb_056c14095fb7628184ca",
+        "name": "Радіо Київстар Top Hits",
+        "country": "UA",
         "url": "https://radio.kyivstar.ua/stream/tophits/master.m3u8",
         "codec": "aac",
         "bitrate": 281,
@@ -6764,6 +7139,8 @@
       {
         "id": "aws_ebac81b5de5d7525f327",
         "stationId": "awb_05cb8d1a1bd5325b227d",
+        "name": "Good News Radio",
+        "country": "UG",
         "url": "http://node-01.zeno.fm/km203bn6qnruv",
         "codec": "mp3",
         "bitrate": 128,
@@ -6797,6 +7174,8 @@
       {
         "id": "aws_78e3b6846965f1f2f0f4",
         "stationId": "awb_05e09c19209f47d1b711",
+        "name": "113.FM Big Kickin Country",
+        "country": "US",
         "url": "https://113fm-atunwadigital.streamguys1.com/1004",
         "codec": "mp3",
         "bitrate": 128,
@@ -6835,6 +7214,8 @@
       {
         "id": "aws_9204f0e4f988997bfa7c",
         "stationId": "awb_05314db9095138e4273f",
+        "name": "181.FM - Christmas Rock",
+        "country": "US",
         "url": "https://listen.181fm.com/181-xrock_128k.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -6877,6 +7258,8 @@
       {
         "id": "aws_46b0a83f97f2c8a3e52b",
         "stationId": "awb_055e36bb3c2233089ad4",
+        "name": "92 WOWL-FM",
+        "country": "US",
         "url": "https://onairliberty.com/stream20.mp3",
         "codec": "mp3",
         "bitrate": 192,
@@ -6914,6 +7297,8 @@
       {
         "id": "aws_dd0b440c4e9e5135770e",
         "stationId": "awb_05e24d940224252af24f",
+        "name": "93.3 The Bus",
+        "country": "US",
         "url": "https://stream.revma.ihrhls.com/zc1761",
         "codec": "aac",
         "bitrate": 0,
@@ -6949,6 +7334,8 @@
       {
         "id": "aws_1d55b6b32993d7d4ac4a",
         "stationId": "awb_053d628f89c8f2cdf8b3",
+        "name": "AllFunkRadio",
+        "country": "US",
         "url": "https://stream.laut.fm/54-funk-soul-dance",
         "codec": "mp3",
         "bitrate": 128,
@@ -6982,6 +7369,8 @@
       {
         "id": "aws_e1b9ad92cf86df1e84a5",
         "stationId": "awb_05ea9276593c760118aa",
+        "name": "Angel City Radio",
+        "country": "US",
         "url": "https://ample.revma.ihrhls.com/zc9419/10_oaoeoux1rs5502/playlist.m3u8",
         "codec": "unknown",
         "bitrate": 0,
@@ -7026,6 +7415,8 @@
       {
         "id": "aws_00c8276104864fa5fb65",
         "stationId": "awb_05e0e909834e5312fb16",
+        "name": "Black Sparrow Radio KBSR",
+        "country": "US",
         "url": "https://streams.radio.co/sb821fbb0a/listen",
         "codec": "mp3",
         "bitrate": 192,
@@ -7066,6 +7457,8 @@
       {
         "id": "aws_027143fbc0fc1444586a",
         "stationId": "awb_0557ebdb819566ac2e34",
+        "name": "Classical89",
+        "country": "US",
         "url": "https://radio.byub.org/classical89/classical89_aac",
         "codec": "aac+",
         "bitrate": 128,
@@ -7099,6 +7492,8 @@
       {
         "id": "aws_8f26230b091e53f3bec3",
         "stationId": "awb_05aa2140e08cedb373a9",
+        "name": "Democracy Now!",
+        "country": "US",
         "url": "http://mpeg.democracynow.org:8000/stream-64",
         "codec": "mp3",
         "bitrate": 64,
@@ -7132,6 +7527,8 @@
       {
         "id": "aws_babf41365b69d77a1ca1",
         "stationId": "awb_054ef706be8c68d41664",
+        "name": "Hot 99.2 Online",
+        "country": "US",
         "url": "https://c42.radioboss.fm:8100/stream",
         "codec": "mp3",
         "bitrate": 128,
@@ -7172,6 +7569,8 @@
       {
         "id": "aws_6f7586882ffbdb6dcee9",
         "stationId": "awb_0538d4bea1b6e069b2c0",
+        "name": "Iheart Alternative Rewind",
+        "country": "US",
         "url": "http://stream.revma.ihrhls.com/zc6950",
         "codec": "aac",
         "bitrate": 0,
@@ -7205,6 +7604,8 @@
       {
         "id": "aws_214c72ae42081df4fadb",
         "stationId": "awb_055085d440976414a984",
+        "name": "KGBFM",
+        "country": "US",
         "url": "http://stream.revma.ihrhls.com/zc1449/hls.m3u8",
         "codec": "aac",
         "bitrate": 24,
@@ -7244,6 +7645,8 @@
       {
         "id": "aws_7ee340d761c88835ecdd",
         "stationId": "awb_050f8af8fc06d8b0eaa2",
+        "name": "KSES \"Jose 107.1\" Seaside, CA",
+        "country": "US",
         "url": "http://16643.live.streamtheworld.com:3690/KSESFMAAC_SC",
         "codec": "aac+",
         "bitrate": 64,
@@ -7285,6 +7688,8 @@
       {
         "id": "aws_1fae1034ed858585dce6",
         "stationId": "awb_058e500ddda1c2e2a6d0",
+        "name": "KUGS 89.3 Western Washington University - Bellingham, WA",
+        "country": "US",
         "url": "http://peridot.streamguys.com:7170/kugs-mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -7318,6 +7723,8 @@
       {
         "id": "aws_d3df6dd300aee408227f",
         "stationId": "awb_05fb93b607c40c96a4b3",
+        "name": "Light & Truth Radio Network",
+        "country": "US",
         "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/c66c5770-cd6f-46cd-884d-bd7dbda7da9a?t=dark",
         "codec": "aac",
         "bitrate": 64,
@@ -7351,6 +7758,8 @@
       {
         "id": "aws_d2bfdb5520f3bf7690d1",
         "stationId": "awb_052791fa2530202282b6",
+        "name": "Narmak",
+        "country": "US",
         "url": "http://streaming.live365.com/a99375",
         "codec": "mp3",
         "bitrate": 128,
@@ -7388,6 +7797,8 @@
       {
         "id": "aws_2b312d6ad607f84d5460",
         "stationId": "awb_05b5abd3fd3ea59151ab",
+        "name": "Radio Salsoul",
+        "country": "US",
         "url": "https://broadcast.miami/proxy/salsoul?mp=/stream/;",
         "codec": "mp3",
         "bitrate": 320,
@@ -7434,6 +7845,8 @@
       {
         "id": "aws_54af287a5b3d7f7d5dda",
         "stationId": "awb_05b22d3b71a05b87e6ed",
+        "name": "Radio Shadow Rock Mix",
+        "country": "US",
         "url": "http://162.244.80.131:8052/",
         "codec": "mp3",
         "bitrate": 128,
@@ -7471,6 +7884,8 @@
       {
         "id": "aws_b093db5a81f520bac892",
         "stationId": "awb_0561e421cfbd886e34c3",
+        "name": "San Diego's Jazz",
+        "country": "US",
         "url": "https://ksds-ice.streamguys1.com/ksds.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -7509,6 +7924,8 @@
       {
         "id": "aws_511c0b7c551be2bf12a8",
         "stationId": "awb_0555b4b837452c11a3e9",
+        "name": "Sfliny 70s Classic Rock",
+        "country": "US",
         "url": "http://ec4.yesstreaming.net:1740/",
         "codec": "mp3",
         "bitrate": 320,
@@ -7542,6 +7959,8 @@
       {
         "id": "aws_fc6cdf6a282114c5cc1f",
         "stationId": "awb_05bca829cd6e538c7357",
+        "name": "The Fan 97.1 WBNS-FM Sports Radio",
+        "country": "US",
         "url": "https://radiohio.streamguys1.com/cols/wbnsfm.mp3",
         "codec": "mp3",
         "bitrate": 128,
@@ -7581,6 +8000,8 @@
       {
         "id": "aws_597f514749655252ed24",
         "stationId": "awb_058f0256fb1251974875",
+        "name": "Urban Radio - Hip Hop / R&B",
+        "country": "US",
         "url": "http://hydra.cdnstream.com/1536_128",
         "codec": "mp3",
         "bitrate": 128,
@@ -7621,6 +8042,8 @@
       {
         "id": "aws_d734b408e314377d1ad9",
         "stationId": "awb_05b10d3b268fa59f9763",
+        "name": "WFMT Classical (AAC)",
+        "country": "US",
         "url": "http://stream.wfmt.com/main-source",
         "codec": "aac",
         "bitrate": 258,
@@ -7654,6 +8077,8 @@
       {
         "id": "aws_790270c381ce1858666e",
         "stationId": "awb_05db3a65a858e583a720",
+        "name": "WGNS",
+        "country": "US",
         "url": "https://ice5.securenetsystems.net/WGNSM",
         "codec": "mp3",
         "bitrate": 64,
@@ -7697,6 +8122,8 @@
       {
         "id": "aws_91007b200b80266d447b",
         "stationId": "awb_057df221a008a3cbe1fd",
+        "name": "WRPS 88.3 FM",
+        "country": "US",
         "url": "http://www.ophanim.net:9690/stream/1/",
         "codec": "mp3",
         "bitrate": 128,
@@ -7741,6 +8168,8 @@
       {
         "id": "aws_462dd5984da5aa2a67a2",
         "stationId": "awb_05f2b4fdf566064d8fb2",
+        "name": "Z103 - Idaho's #1 Hit Music Channel (KFTZ)",
+        "country": "US",
         "url": "https://ice41.securenetsystems.net/KFTZ?playSessionID=CB8EA7EB-B9D3-DD0A-113945E93FD5A2A4",
         "codec": "aac",
         "bitrate": 32,
@@ -7785,6 +8214,8 @@
       {
         "id": "aws_f9ee2572101b2252d00b",
         "stationId": "awb_05617e95ac1236001930",
+        "name": "MARACAIBERA FM 98.3",
+        "country": "VE",
         "url": "https://stream.zeno.fm/t8g2xp8gr68uv",
         "codec": "mp3",
         "bitrate": 128,
@@ -7820,6 +8251,8 @@
       {
         "id": "aws_0c6d3103c2b09db49b79",
         "stationId": "awb_05d1ee19bf7530d4ae6c",
+        "name": "Bokradio",
+        "country": "ZA",
         "url": "http://bokradio.highquality.radiostream.co.za/",
         "codec": "mp3",
         "bitrate": 96,
@@ -7853,6 +8286,8 @@
       {
         "id": "aws_d7b0aefcd16322d439c3",
         "stationId": "awb_0530c54a5edfcdac5159",
+        "name": "RADIO BOB! 80er Rock",
+        "country": "ZZ",
         "url": "http://streams.radiobob.de/bob-80srock/aac-64/streams.radiobob.de/",
         "codec": "aac",
         "bitrate": 0,
@@ -7888,6 +8323,8 @@
       {
         "id": "aws_1fad660ed3e5b27fa64f",
         "stationId": "awb_05ad914d1fce9266e686",
+        "name": "Rádio Litera",
+        "country": "ZZ",
         "url": "http://live.slovakradio.sk:8000/Litera_256.mp3",
         "codec": "mp3",
         "bitrate": 256,
@@ -7921,6 +8358,8 @@
       {
         "id": "aws_1e6004164b5426f663a3",
         "stationId": "awb_05430c9a4eb68e1f80c5",
+        "name": "WRKK",
+        "country": "ZZ",
         "url": "http://stream.revma.ihrhls.com/zc6674",
         "codec": "aac",
         "bitrate": 0,

@@ -1,6 +1,6 @@
 {
   "code": "fi",
-  "stationCount": 87,
+  "stationCount": 88,
   "stations": [
     {
       "id": "awb_cc986b75028a3c8fab65",
@@ -27,6 +27,8 @@
         {
           "id": "aws_28189890ed2e3520dd10",
           "stationId": "awb_cc986b75028a3c8fab65",
+          "name": "IDA",
+          "country": "EE",
           "url": "https://broadcast.idaidaida.net:8000/stream",
           "codec": "aac",
           "bitrate": 320,
@@ -67,6 +69,8 @@
         {
           "id": "aws_2504dd08a3466eb4124b",
           "stationId": "awb_de225594a3642778d299",
+          "name": "IDA Radio",
+          "country": "EE",
           "url": "https://broadcast.idaidaida.net:8000/stream",
           "codec": "aac",
           "bitrate": 320,
@@ -110,6 +114,8 @@
         {
           "id": "aws_f7fd995bf14013ff747b",
           "stationId": "awb_b2cf438927cdf7c04d9f",
+          "name": "Võmba FM",
+          "country": "EE",
           "url": "https://c4.radioboss.fm:18123/stream",
           "codec": "aac",
           "bitrate": 320,
@@ -159,6 +165,8 @@
         {
           "id": "aws_a05eced79deab1ffa596",
           "stationId": "awb_fd6df60dcd4ad431d4e9",
+          "name": "Doubleclap Radio",
+          "country": "FI",
           "url": "https://s3.radio.co/scfd7273b2/listen",
           "codec": "mp3",
           "bitrate": 192,
@@ -178,6 +186,8 @@
         {
           "id": "aws_8d965b43d14315dd14ab",
           "stationId": "awb_fd6df60dcd4ad431d4e9",
+          "name": "DOUBLECLAP RADIO",
+          "country": "FI",
           "url": "https://s3.radio.co/scfd7273b2/low",
           "codec": "mp3",
           "bitrate": 64,
@@ -217,6 +227,8 @@
         {
           "id": "aws_a64b3b9058a7dcc892f4",
           "stationId": "awb_c938b2b28cca8836516e",
+          "name": "FinnRadio",
+          "country": "FI",
           "url": "https://servidor39-5.brlogic.com:7076/live",
           "codec": "mp3",
           "bitrate": 192,
@@ -254,6 +266,8 @@
         {
           "id": "aws_b8e55b4b4a2f9133a824",
           "stationId": "awb_d3967b1af5b432610d72",
+          "name": "FugeFM",
+          "country": "FI",
           "url": "https://streaming.broadcast.radio/fugefm",
           "codec": "mp3",
           "bitrate": 0,
@@ -300,6 +314,8 @@
         {
           "id": "aws_ea70e4a204199f964e8d",
           "stationId": "awb_27355ab3e49eebe7e243",
+          "name": "Groove FM",
+          "country": "FI",
           "url": "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
           "codec": "unknown",
           "bitrate": 0,
@@ -317,6 +333,8 @@
         {
           "id": "aws_84462a935ed3d4b10b60",
           "stationId": "awb_27355ab3e49eebe7e243",
+          "name": "Groove FM",
+          "country": "FI",
           "url": "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
           "codec": "aac",
           "bitrate": 262,
@@ -361,6 +379,8 @@
         {
           "id": "aws_040ce6f305d20c59c7ed",
           "stationId": "awb_fb469f1d598c16d31373",
+          "name": "IDA Radio",
+          "country": "FI",
           "url": "https://broadcast.idaidaida.net:8000/stream",
           "codec": "aac",
           "bitrate": 320,
@@ -398,6 +418,8 @@
         {
           "id": "aws_2076987966bafee29411",
           "stationId": "awb_ec40f06a21bc884905ad",
+          "name": "Järviradio",
+          "country": "FI",
           "url": "https://jarviradio.radiotaajuus.fi:9000/jr",
           "codec": "mp3",
           "bitrate": 192,
@@ -442,6 +464,8 @@
         {
           "id": "aws_cfe248acdafccc4c0b22",
           "stationId": "awb_5f9b7f984911fc0e4511",
+          "name": "Järviradio Puhe",
+          "country": "FI",
           "url": "https://jarviradio.radiotaajuus.fi:9000/jrpuhe",
           "codec": "mp3",
           "bitrate": 128,
@@ -482,6 +506,8 @@
         {
           "id": "aws_2c519c61bd8006d9f805",
           "stationId": "awb_6fd814d87682693f0466",
+          "name": "Kaaos Radio Chiptune",
+          "country": "FI",
           "url": "http://stream.kaaosradio.fi:8000/chip",
           "codec": "mp3",
           "bitrate": 0,
@@ -523,6 +549,8 @@
         {
           "id": "aws_98adb44cefd01e942fc1",
           "stationId": "awb_b8d99af341dfc167e93b",
+          "name": "Kaaosradio - 24h",
+          "country": "FI",
           "url": "http://stream.kaaosradio.fi:8000/stream",
           "codec": "mp3",
           "bitrate": 0,
@@ -565,6 +593,8 @@
         {
           "id": "aws_9390bdf51da20f7a3db2",
           "stationId": "awb_1cc49bb7d20c9706b09e",
+          "name": "Kaaosradio - 24h Chill",
+          "country": "FI",
           "url": "http://stream.kaaosradio.fi:8000/chill",
           "codec": "mp3",
           "bitrate": 0,
@@ -608,6 +638,8 @@
         {
           "id": "aws_1630c868c349556e3e10",
           "stationId": "awb_00ace9f8343a128c5f16",
+          "name": "Karjalainen Syke",
+          "country": "FI",
           "url": "https://radio.diks.fi/karjalainensyke",
           "codec": "mp3",
           "bitrate": 320,
@@ -650,6 +682,8 @@
         {
           "id": "aws_255904051725d63282db",
           "stationId": "awb_0f1b6ddf0e4b54cc03dd",
+          "name": "Kerhoradio",
+          "country": "FI",
           "url": "https://c40.radioboss.fm:8056/stream",
           "codec": "mp3",
           "bitrate": 192,
@@ -695,6 +729,8 @@
         {
           "id": "aws_b745e814cdb3bdec01e6",
           "stationId": "awb_c7dda24ddd00a61b3ee5",
+          "name": "Kesäseuraradio",
+          "country": "FI",
           "url": "https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b",
           "codec": "mp3",
           "bitrate": 192,
@@ -736,6 +772,8 @@
         {
           "id": "aws_ddf7c7df1b678f9b0d2f",
           "stationId": "awb_d9301a44b9f980b212f5",
+          "name": "Kiss",
+          "country": "FI",
           "url": "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
           "codec": "aac",
           "bitrate": 64,
@@ -773,6 +811,8 @@
         {
           "id": "aws_bb8e745c5ffd02a672cd",
           "stationId": "awb_8ae06239506478f5f6c5",
+          "name": "Mökkiradio",
+          "country": "FI",
           "url": "https://stream.mokkiradio.fi:18008/mokkiradio",
           "codec": "mp3",
           "bitrate": 256,
@@ -816,6 +856,8 @@
         {
           "id": "aws_65cdd923ca71a7354d96",
           "stationId": "awb_7d2e2b79663fe3a459de",
+          "name": "MTV Uutiset",
+          "country": "FI",
           "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
           "codec": "aac",
           "bitrate": 500,
@@ -853,6 +895,8 @@
         {
           "id": "aws_eb8d817d6608925c8f6f",
           "stationId": "awb_06689e2644e78394ac81",
+          "name": "Nostalgia",
+          "country": "FI",
           "url": "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
           "codec": "aac",
           "bitrate": 63,
@@ -894,6 +938,8 @@
         {
           "id": "aws_889db85792f81a484caa",
           "stationId": "awb_903cf4fb00d38eb812e7",
+          "name": "NRJ",
+          "country": "FI",
           "url": "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
           "codec": "aac",
           "bitrate": 64,
@@ -935,6 +981,8 @@
         {
           "id": "aws_6b390ca5761e5f18b3aa",
           "stationId": "awb_3eb45acd20f26d887ae8",
+          "name": "POPfm",
+          "country": "FI",
           "url": "https://stream.madmenmedia.se/popfm",
           "codec": "aac",
           "bitrate": 96,
@@ -977,6 +1025,8 @@
         {
           "id": "aws_67d048b75767a8ef1d87",
           "stationId": "awb_ec352c393c856f6e8a75",
+          "name": "Pride Radio",
+          "country": "FI",
           "url": "https://streaming.radioplay.fi/fi_pride_128.mp3",
           "codec": "aac",
           "bitrate": 68,
@@ -1024,6 +1074,8 @@
         {
           "id": "aws_225d262abe74acf0d85a",
           "stationId": "awb_6df4ae1937d0cc33e057",
+          "name": "Radio Auran Aallot",
+          "country": "FI",
           "url": "https://streaming.radioplay.fi/fi_auranaallot_128.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -1038,7 +1090,7 @@
             "ff752290-8b6d-48bf-a0de-608287c7d30b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-01T18:55:43Z"
+          "lastCheckedAt": "2026-10-12T21:11:50Z"
         }
       ]
     },
@@ -1069,6 +1121,8 @@
         {
           "id": "aws_39e1e36c66b60033f072",
           "stationId": "awb_dc20f61b2104865627c2",
+          "name": "Radio City",
+          "country": "FI",
           "url": "https://streaming.radioplay.fi/fi_radiocity_128.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -1086,6 +1140,26 @@
           "lastCheckedAt": "2026-10-12T00:27:03Z"
         }
       ]
+    },
+    {
+      "id": "awb_e0e31fa8dd788d2e6ce9",
+      "name": "Radio City Kiekkoradio",
+      "country": "FI",
+      "subdivision": null,
+      "languages": [
+        "fi"
+      ],
+      "categories": [],
+      "tags": [
+        "lätkä",
+        "täytemusiikki"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T21:29:06Z",
+      "streams": []
     },
     {
       "id": "awb_b02c15920d079140556c",
@@ -1111,6 +1185,8 @@
         {
           "id": "aws_479ab16ebe3f444262a2",
           "stationId": "awb_b02c15920d079140556c",
+          "name": "Radio Classic",
+          "country": "FI",
           "url": "https://streaming.radioplay.fi/fi_classic_128.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -1148,6 +1224,8 @@
         {
           "id": "aws_4b7b759d7fe7f1e58b55",
           "stationId": "awb_c739162648960d94af11",
+          "name": "Radio Dei",
+          "country": "FI",
           "url": "http://isojako.radiodei.fi:8000/yleisohjelma",
           "codec": "mp3",
           "bitrate": 256,
@@ -1183,6 +1261,8 @@
         {
           "id": "aws_498c8f47a266e81c25e3",
           "stationId": "awb_a294e7f5bd26a533bbd8",
+          "name": "Radio Dei Helsinki",
+          "country": "FI",
           "url": "http://isojako.radiodei.fi:8000/helsinki",
           "codec": "mp3",
           "bitrate": 256,
@@ -1222,6 +1302,8 @@
         {
           "id": "aws_83c80f56fb558df082a2",
           "stationId": "awb_59fb85ac5eb6c4276241",
+          "name": "Radio Dei Kajaani",
+          "country": "FI",
           "url": "https://stream.dei.fi:8443/kajaani",
           "codec": "mp3",
           "bitrate": 256,
@@ -1259,6 +1341,8 @@
         {
           "id": "aws_153724c01d71d443cdf0",
           "stationId": "awb_959511471fc99c296b0a",
+          "name": "Radio Dei Kemi",
+          "country": "FI",
           "url": "http://isojako.radiodei.fi:8000/tornio",
           "codec": "mp3",
           "bitrate": 256,
@@ -1294,6 +1378,8 @@
         {
           "id": "aws_0fb1a012bd385c476209",
           "stationId": "awb_62bbd8c4923beb9d4b53",
+          "name": "Radio Dei Kokkola",
+          "country": "FI",
           "url": "http://isojako.radiodei.fi:8000/kruunupyy",
           "codec": "mp3",
           "bitrate": 256,
@@ -1331,6 +1417,8 @@
         {
           "id": "aws_5a0efb723a808f7c68ff",
           "stationId": "awb_5ffb2a683cc74d6eff77",
+          "name": "Radio Dei Kristiinankaupunki",
+          "country": "FI",
           "url": "http://isojako.radiodei.fi:8000/kristiinankaupunki",
           "codec": "mp3",
           "bitrate": 256,
@@ -1366,6 +1454,8 @@
         {
           "id": "aws_3127db08613fff1f7551",
           "stationId": "awb_d7c39b0b41ce92f0d809",
+          "name": "Radio Dei Lahti",
+          "country": "FI",
           "url": "https://stream.dei.fi:8443/lahti",
           "codec": "mp3",
           "bitrate": 256,
@@ -1403,6 +1493,8 @@
         {
           "id": "aws_d877848ea01529112f7c",
           "stationId": "awb_48a9044498f032c1d0b6",
+          "name": "Radio Dei Oulu",
+          "country": "FI",
           "url": "http://isojako.radiodei.fi:8000/oulu",
           "codec": "mp3",
           "bitrate": 256,
@@ -1438,6 +1530,8 @@
         {
           "id": "aws_19e1ed8fdd18c3349c8a",
           "stationId": "awb_f214f53f3e0c3bf2fbef",
+          "name": "Radio Dei Pohjanmaa",
+          "country": "FI",
           "url": "http://isojako.radiodei.fi:8000/lapua",
           "codec": "mp3",
           "bitrate": 256,
@@ -1473,6 +1567,8 @@
         {
           "id": "aws_b9c2ebc271b3dce7c76b",
           "stationId": "awb_94e0cf640eb50746dbc0",
+          "name": "Radio Dei Rovaniemi",
+          "country": "FI",
           "url": "http://isojako.radiodei.fi:8000/rovaniemi",
           "codec": "mp3",
           "bitrate": 256,
@@ -1508,6 +1604,8 @@
         {
           "id": "aws_3c23ebef57c3ef4fd340",
           "stationId": "awb_de75cfb57f6910456118",
+          "name": "Radio Dei Turku ja Eurajoki",
+          "country": "FI",
           "url": "http://isojako.radiodei.fi:8000/turkueurajoki",
           "codec": "mp3",
           "bitrate": 256,
@@ -1552,6 +1650,8 @@
         {
           "id": "aws_f9177d2c5d9699d41d1f",
           "stationId": "awb_bc31ea5e45a3cb629577",
+          "name": "Radio Helsinki",
+          "country": "FI",
           "url": "https://stream.radiohelsinki.fi/stream",
           "codec": "mp3",
           "bitrate": 256,
@@ -1587,6 +1687,8 @@
         {
           "id": "aws_7974c8dcdcdee3217353",
           "stationId": "awb_77ec40fb04396e91571c",
+          "name": "Radio Helsinki 98,5 Mhz",
+          "country": "FI",
           "url": "https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1787325930&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1",
           "codec": "mp3",
           "bitrate": 0,
@@ -1604,6 +1706,8 @@
         {
           "id": "aws_e51bbe7e3223de98c05a",
           "stationId": "awb_77ec40fb04396e91571c",
+          "name": "Radio Helsinki 98,5 Mhz",
+          "country": "FI",
           "url": "https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1791769728&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1",
           "codec": "mp3",
           "bitrate": 0,
@@ -1639,6 +1743,8 @@
         {
           "id": "aws_869a2df5cf479f839200",
           "stationId": "awb_99198bf888d345efa9f5",
+          "name": "Radio Hiekka",
+          "country": "FI",
           "url": "https://radiohiekka.ovh:8443/stream",
           "codec": "aac",
           "bitrate": 192,
@@ -1676,6 +1782,8 @@
         {
           "id": "aws_18a649b0211e41b7c377",
           "stationId": "awb_1b5d3fda7aee78e4becb",
+          "name": "Radio KAAKKO",
+          "country": "FI",
           "url": "http://wr2.downtime.fi/kaakko.aac",
           "codec": "aac",
           "bitrate": 96,
@@ -1693,6 +1801,8 @@
         {
           "id": "aws_439a846b782b8b35c338",
           "stationId": "awb_1b5d3fda7aee78e4becb",
+          "name": "Radio Kaakko",
+          "country": "FI",
           "url": "https://wr2.downtime.fi/kaakko.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -1730,6 +1840,8 @@
         {
           "id": "aws_bd6edd1fbe64ec382db9",
           "stationId": "awb_3444469449e885229ba7",
+          "name": "Radio Kaleva",
+          "country": "FI",
           "url": "https://radiokaleva.digitacdn.net/radio/kaleva/master.m3u8",
           "codec": "aac",
           "bitrate": 137,
@@ -1765,6 +1877,8 @@
         {
           "id": "aws_baaf513525c5df5b046b",
           "stationId": "awb_5e722753521ab440a23f",
+          "name": "Radio Keskisuomalainen",
+          "country": "FI",
           "url": "https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen",
           "codec": "mp3",
           "bitrate": 320,
@@ -1809,6 +1923,8 @@
         {
           "id": "aws_de43e5a880287f868656",
           "stationId": "awb_d379adb7bc45bf1f0fa1",
+          "name": "Radio Mega",
+          "country": "FI",
           "url": "https://streaming.radioplay.fi/fi_radiomega_128.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -1851,6 +1967,8 @@
         {
           "id": "aws_30abc12a9d33ef53d555",
           "stationId": "awb_c5a963d778fa0e963aa1",
+          "name": "Radio Musa",
+          "country": "FI",
           "url": "http://n09.radiojar.com/n6yg5q0z8vzuv.m4a",
           "codec": "mp3",
           "bitrate": 0,
@@ -1890,6 +2008,8 @@
         {
           "id": "aws_87325cf99ea20b02c13f",
           "stationId": "awb_d3e8af6d931a43c1e418",
+          "name": "Radio Nova",
+          "country": "FI",
           "url": "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
           "codec": "aac",
           "bitrate": 64,
@@ -1933,6 +2053,8 @@
         {
           "id": "aws_90859be7e2529a91dd0f",
           "stationId": "awb_2a76bc070d38ad45a9c8",
+          "name": "Radio Patmos",
+          "country": "FI",
           "url": "http://s3.yesstreaming.net:7011/radio",
           "codec": "mp3",
           "bitrate": 128,
@@ -1950,6 +2072,8 @@
         {
           "id": "aws_d7f1f9950ada4919675e",
           "stationId": "awb_2a76bc070d38ad45a9c8",
+          "name": "Radio Patmos",
+          "country": "FI",
           "url": "https://s3.yesstreaming.net:7011/radio",
           "codec": "mp3",
           "bitrate": 128,
@@ -1992,8 +2116,28 @@
       "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtjhQXAwsytAUaj7ky_nFfxmfjEhveRgXR8a78POfbAQ&s=10",
       "type": null,
       "sourceCount": 1,
-      "updatedAt": "2026-10-12T20:36:13Z",
-      "streams": []
+      "updatedAt": "2026-10-12T20:44:49Z",
+      "streams": [
+        {
+          "id": "aws_43003e246c07f6b7e6bf",
+          "stationId": "awb_0b17d6a65e5c20fdf84f",
+          "name": "Radio Ramona",
+          "country": "FI",
+          "url": "https://stream.protonbroadcast.com:8443/ramona.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d6459d7c-1cdf-4aa3-b5db-85a67ce4c4b0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:44:51Z"
+        }
+      ]
     },
     {
       "id": "awb_28fa2e76e60fa1bc6c40",
@@ -2023,6 +2167,8 @@
         {
           "id": "aws_7d891c62f37fda28d2e8",
           "stationId": "awb_28fa2e76e60fa1bc6c40",
+          "name": "Radio Rock",
+          "country": "FI",
           "url": "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
           "codec": "unknown",
           "bitrate": 0,
@@ -2040,6 +2186,8 @@
         {
           "id": "aws_ad6e88a18c4c6afd4bea",
           "stationId": "awb_28fa2e76e60fa1bc6c40",
+          "name": "Radio Rock",
+          "country": "FI",
           "url": "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8",
           "codec": "aac",
           "bitrate": 262,
@@ -2081,6 +2229,8 @@
         {
           "id": "aws_32dd5931b02d045dcdac",
           "stationId": "awb_bd4dda4fd2609595e63d",
+          "name": "Radio Soho",
+          "country": "FI",
           "url": "https://sohostream.djonline.fi:8008/radio",
           "codec": "mp3",
           "bitrate": 256,
@@ -2122,6 +2272,8 @@
         {
           "id": "aws_19a78d15cd65dedf4ca7",
           "stationId": "awb_83e1263c2846dec854e0",
+          "name": "Radio SUN",
+          "country": "FI",
           "url": "http://st.downtime.fi/sun.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -2139,6 +2291,8 @@
         {
           "id": "aws_bffa3977d63aadfff051",
           "stationId": "awb_83e1263c2846dec854e0",
+          "name": "Radio Sun",
+          "country": "FI",
           "url": "https://st.downtime.fi/sun.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -2182,6 +2336,8 @@
         {
           "id": "aws_ceb1e4996285bd34a6d6",
           "stationId": "awb_89c8ca54543dc930a1da",
+          "name": "Radio Tuottaja1",
+          "country": "FI",
           "url": "https://kaupunkiradio.radiotaajuus.fi:9013/radio",
           "codec": "mp3",
           "bitrate": 192,
@@ -2226,6 +2382,8 @@
         {
           "id": "aws_2e8c741e90cb8b0675f7",
           "stationId": "awb_c0d2784a3133246e2d5b",
+          "name": "Radio Vaasa",
+          "country": "FI",
           "url": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
           "codec": "mp3",
           "bitrate": 192,
@@ -2263,6 +2421,8 @@
         {
           "id": "aws_339f8059740bd1fc2284",
           "stationId": "awb_dd771757705f2c7d264f",
+          "name": "Radio Voima",
+          "country": "FI",
           "url": "https://cast2.radiovoima.fi/voima.mp3",
           "codec": "mp3",
           "bitrate": 320,
@@ -2300,6 +2460,8 @@
         {
           "id": "aws_b53a3aefbf213e41b1e4",
           "stationId": "awb_6f6cd56cc027b1c41fd7",
+          "name": "RadioSE.fi",
+          "country": "FI",
           "url": "https://wr2.downtime.fi/kaakko.aac",
           "codec": "aac",
           "bitrate": 96,
@@ -2341,6 +2503,8 @@
         {
           "id": "aws_50e86ac5c0bbe41f6410",
           "stationId": "awb_5f2a0aae7e46e85ab3a2",
+          "name": "Radioverkko",
+          "country": "FI",
           "url": "http://kuuntele.radioverkko.fi:8000/live",
           "codec": "mp3",
           "bitrate": 0,
@@ -2385,6 +2549,8 @@
         {
           "id": "aws_8563a183851b3c368efb",
           "stationId": "awb_407174fc9563d9de8cd8",
+          "name": "Roll FM",
+          "country": "FI",
           "url": "http://stream.rollfm.fi/",
           "codec": "mp3",
           "bitrate": 192,
@@ -2402,6 +2568,8 @@
         {
           "id": "aws_1afd0ce66a62d6e78916",
           "stationId": "awb_407174fc9563d9de8cd8",
+          "name": "Roll FM",
+          "country": "FI",
           "url": "https://rollfm.online/",
           "codec": "mp3",
           "bitrate": 192,
@@ -2439,6 +2607,8 @@
         {
           "id": "aws_053c2239ec4bafea1145",
           "stationId": "awb_5ece0750ff8638a55b34",
+          "name": "Savon Aallot",
+          "country": "FI",
           "url": "https://cast.savonaallot.fi/savonaallot",
           "codec": "mp3",
           "bitrate": 320,
@@ -2485,6 +2655,8 @@
         {
           "id": "aws_0571138b655db91ac9b3",
           "stationId": "awb_aedbee93cbabf8d060f0",
+          "name": "Sea fm",
+          "country": "FI",
           "url": "http://s3.myradiostream.com:4976/;",
           "codec": "mp3",
           "bitrate": 192,
@@ -2502,6 +2674,8 @@
         {
           "id": "aws_71d1edd18fd9b76aa341",
           "stationId": "awb_aedbee93cbabf8d060f0",
+          "name": "Sea FM",
+          "country": "FI",
           "url": "https://s3.myradiostream.com/4976/listen.mp3",
           "codec": "mp3",
           "bitrate": 192,
@@ -2540,6 +2714,8 @@
         {
           "id": "aws_7004f2b80a6ef4531968",
           "stationId": "awb_59706bc0e5519415d0ed",
+          "name": "Sea FM Radio",
+          "country": "FI",
           "url": "http://s3.myradiostream.com:4976/;",
           "codec": "mp3",
           "bitrate": 192,
@@ -2582,6 +2758,8 @@
         {
           "id": "aws_31c4c964efad87dd37ba",
           "stationId": "awb_799c541e529db23d562e",
+          "name": "SuomiRap",
+          "country": "FI",
           "url": "https://streaming.radioplay.fi/fi_suomirap_128.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -2629,6 +2807,8 @@
         {
           "id": "aws_2a4cf0cc772df184ea89",
           "stationId": "awb_7bb7226bd35aa46ed880",
+          "name": "Sveriges Radio - SR Sisuradio",
+          "country": "FI",
           "url": "https://live1.sr.se/finska-aac-320",
           "codec": "aac",
           "bitrate": 288,
@@ -2666,6 +2846,8 @@
         {
           "id": "aws_ad9f51dd76e3b914e9d4",
           "stationId": "awb_0c6fc4f3614c195b3bba",
+          "name": "Tampereen Kiakkoradio: Tappara",
+          "country": "FI",
           "url": "https://st.downtime.fi/kiakko-tappara.aac",
           "codec": "aac+",
           "bitrate": 64,
@@ -2709,6 +2891,8 @@
         {
           "id": "aws_8c7b924060c870aa27b0",
           "stationId": "awb_2a912bacb672bd41c3bd",
+          "name": "Tekoälyradio",
+          "country": "FI",
           "url": "https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -2748,6 +2932,8 @@
         {
           "id": "aws_14879c7db14ea65f40f0",
           "stationId": "awb_ae9346576891b5596d78",
+          "name": "Tick Tock Radio - 1950",
+          "country": "FI",
           "url": "https://streaming.ticktock.radio/tt/1950/icecast.audio",
           "codec": "mp3",
           "bitrate": 128,
@@ -2789,6 +2975,8 @@
         {
           "id": "aws_ccf8ddca9f864b553dd4",
           "stationId": "awb_1a4d6a9d95deaf66a3e0",
+          "name": "Yle Klassinen",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -2830,6 +3018,8 @@
         {
           "id": "aws_69d99c5785a84b160c5d",
           "stationId": "awb_f518547a720520afbf39",
+          "name": "Yle Klassinen (HLS)",
+          "country": "FI",
           "url": "https://yleradiolive5.akamaized.net/hls/live/20000872/yleklassinen/master.m3u8",
           "codec": "aac",
           "bitrate": 256,
@@ -2869,6 +3059,8 @@
         {
           "id": "aws_3b8bce3318f617425616",
           "stationId": "awb_51d594677d45b15381d1",
+          "name": "Yle Radio 1 Hifi",
+          "country": "FI",
           "url": "http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -2904,6 +3096,8 @@
         {
           "id": "aws_f94535957512f25a33fb",
           "stationId": "awb_d9e2c00ca6bbb5883cff",
+          "name": "Yle Radio Suomi - Pori",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YlePori/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -2941,6 +3135,8 @@
         {
           "id": "aws_f7e16600398ce43cbf00",
           "stationId": "awb_b9bba166a0fd3d3520c3",
+          "name": "YLE Radio Suomi - Tampere",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleTampere/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -2976,6 +3172,8 @@
         {
           "id": "aws_a456357ff31e155a1107",
           "stationId": "awb_4408372a737ae0d5cd82",
+          "name": "YLE Radio Suomi Hämeenlinna",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3018,6 +3216,8 @@
         {
           "id": "aws_963684a7e0c021db0f99",
           "stationId": "awb_21df908cc996e1adf9ca",
+          "name": "Yle Radio Suomi Kajaani",
+          "country": "FI",
           "url": "https://yleradiolive5.akamaized.net/hls/live/20000882/ylers-kajaani/256/variant.m3u8",
           "codec": "unknown",
           "bitrate": 0,
@@ -3056,6 +3256,8 @@
         {
           "id": "aws_684697fb2e0146a865be",
           "stationId": "awb_41300e017696f9e047a5",
+          "name": "Yle Radio Suomi, Helsinki",
+          "country": "FI",
           "url": "http://icecast.live.yle.fi/radio/YleRS/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3092,6 +3294,8 @@
         {
           "id": "aws_485438c0249e60bfc200",
           "stationId": "awb_c5d9592de480eb02f8e2",
+          "name": "Yle Radio Suomi, Joensuu",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleJoensuu/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3127,6 +3331,8 @@
         {
           "id": "aws_e213461c5843d075dd00",
           "stationId": "awb_a52ad59cb649e6ea8b30",
+          "name": "YLE radio Suomi, Jyväskylä",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleJKL/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3164,6 +3370,8 @@
         {
           "id": "aws_aa70fbdd1df091d1fd83",
           "stationId": "awb_0a3cf5858e922df57ad7",
+          "name": "Yle Radio Suomi, Kotka",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleKotka/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3201,6 +3409,8 @@
         {
           "id": "aws_4c4bff293c8d15c04fab",
           "stationId": "awb_208b3c0f15b4f8ddfd31",
+          "name": "Yle Radio Suomi, Kuopio",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3238,6 +3448,8 @@
         {
           "id": "aws_3497b8d304c767a81dc5",
           "stationId": "awb_d7ae342e56707672bf8a",
+          "name": "Yle Radio Suomi, Rovaniemi",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3281,6 +3493,8 @@
         {
           "id": "aws_1d6adb60ac3890e2f1f9",
           "stationId": "awb_aa4102f00ebd939b872d",
+          "name": "Yle Radio Suomi, Turku",
+          "country": "FI",
           "url": "http://icecast.live.yle.fi/radio/YleTurku/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3316,6 +3530,8 @@
         {
           "id": "aws_9e87e361677355c59b4c",
           "stationId": "awb_11cd50ae6408165e75d0",
+          "name": "Yle radio Vega Östnyland",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3353,6 +3569,8 @@
         {
           "id": "aws_f0919f4873f044d7f8a4",
           "stationId": "awb_0de608b9c5418c1e1b9d",
+          "name": "YleRadioSuomiLahti",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleLahti/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3390,6 +3608,8 @@
         {
           "id": "aws_6d3afd7c360eae153bda",
           "stationId": "awb_de6824016dbc63d924aa",
+          "name": "YleRadioSuomiTampere",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleTampere/icecast.audio",
           "codec": "aac+",
           "bitrate": 0,
@@ -3431,6 +3651,8 @@
         {
           "id": "aws_542bd89f3bc7cb91aeea",
           "stationId": "awb_114e59680955608715be",
+          "name": "YleX",
+          "country": "FI",
           "url": "https://icecast.live.yle.fi/radio/YleX/icecast.audio",
           "codec": "aac+",
           "bitrate": 128,
@@ -3476,6 +3698,8 @@
         {
           "id": "aws_ef0d1d940e09590adf1d",
           "stationId": "awb_9eef54fee36148377c6b",
+          "name": "YleX",
+          "country": "FI",
           "url": "http://icecast.live.yle.fi/radio/YleX/icecast.audio",
           "codec": "aac+",
           "bitrate": 128,
@@ -3517,6 +3741,8 @@
         {
           "id": "aws_082fd19388d7289e542c",
           "stationId": "awb_ab446f9fe1d20f166a67",
+          "name": "Ysäri",
+          "country": "FI",
           "url": "https://stream-redirect.bauermedia.fi/ysari/ysari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
           "codec": "mp3",
           "bitrate": 128,
@@ -3534,6 +3760,8 @@
         {
           "id": "aws_cd8e94d8583850338e88",
           "stationId": "awb_ab446f9fe1d20f166a67",
+          "name": "Ysäri",
+          "country": "FI",
           "url": "https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
           "codec": "aac",
           "bitrate": 64,
@@ -3583,6 +3811,8 @@
         {
           "id": "aws_ee4f3cb372cbd8eefaba",
           "stationId": "awb_e7f3f0f94f58e420a8b5",
+          "name": "MOYGID TV — ääniopasradio (moygid.online/fi)",
+          "country": "RU",
           "url": "https://moygid.online/fi/radio.mp3",
           "codec": "mp3",
           "bitrate": 128,
@@ -3619,6 +3849,8 @@
         {
           "id": "aws_c4dc5244c6c5c7b7077f",
           "stationId": "awb_336c7ef15eaba37b5eda",
+          "name": "Borås Närradioförening",
+          "country": "SE",
           "url": "http://lyssna.fnf.nu:8080/radioboras.mp3",
           "codec": "mp3",
           "bitrate": 128,
