@@ -7,7 +7,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'v1');
 const DB_RAW = 'https://raw.githubusercontent.com/AirwaveDB/database/main/data';
 const STREAM_RAW = 'https://raw.githubusercontent.com/AirwaveDB/streams/main/data';
-const USER_AGENT = 'AirwaveDB-api/1.3 (+https://github.com/AirwaveDB/api)';
+const USER_AGENT = 'AirwaveDB-api/1.4 (+https://github.com/AirwaveDB/api)';
 const TIMEOUT_MS = 20_000;
 const pretty = (value) => JSON.stringify(value, null, 2) + '\n';
 
@@ -37,7 +37,15 @@ async function main() {
     getJson(`${DB_RAW}/index.json`),
     getJson(`${STREAM_RAW}/index.json`),
   ]);
-  const streamCountries = new Set((streamIndex.countries || []).map((x) => x.code));
+
+  if (streamIndex.databaseGeneratedAt && streamIndex.databaseGeneratedAt !== dbIndex.generatedAt) {
+    throw new Error(
+      `Source snapshots are inconsistent: streams were built from database ${streamIndex.databaseGeneratedAt}, ` +
+      `but current database is ${dbIndex.generatedAt}`,
+    );
+  }
+
+  const streamCountries = new Set((streamIndex.countries || []).map((item) => item.code));
 
   await rm(OUT, { recursive: true, force: true });
   await Promise.all([
@@ -94,17 +102,17 @@ async function main() {
     getArray(`${DB_RAW}/categories.json`),
   ]);
 
-  const countries = countriesRaw.map((x) => ({
-    code: x.code,
-    stationCount: Number(x.stationCount || 0),
+  const countries = countriesRaw.map((item) => ({
+    code: item.code,
+    stationCount: Number(item.stationCount || 0),
   }));
-  const languages = languagesRaw.map((x) => ({
-    code: x.code,
-    stationCount: (byLanguage.get(x.code) || []).length,
+  const languages = languagesRaw.map((item) => ({
+    code: item.code,
+    stationCount: (byLanguage.get(item.code) || []).length,
   }));
-  const categories = categoriesRaw.map((x) => ({
-    id: x.id,
-    stationCount: (byCategory.get(x.id) || []).length,
+  const categories = categoriesRaw.map((item) => ({
+    id: item.id,
+    stationCount: (byCategory.get(item.id) || []).length,
   }));
 
   for (const item of categories) {
@@ -130,13 +138,14 @@ async function main() {
   await Promise.all([
     writeFile(join(OUT, 'stations.json'), pretty(stations)),
     writeFile(join(OUT, 'streams.json'), pretty(streams)),
-    writeFile(join(OUT, 'stations.ndjson'), stations.map((x) => JSON.stringify(x)).join('\n') + '\n'),
-    writeFile(join(OUT, 'streams.ndjson'), streams.map((x) => JSON.stringify(x)).join('\n') + '\n'),
+    writeFile(join(OUT, 'stations.ndjson'), stations.map((item) => JSON.stringify(item)).join('\n') + '\n'),
+    writeFile(join(OUT, 'streams.ndjson'), streams.map((item) => JSON.stringify(item)).join('\n') + '\n'),
     writeFile(join(OUT, 'countries.json'), pretty(countries)),
     writeFile(join(OUT, 'languages.json'), pretty(languages)),
     writeFile(join(OUT, 'categories.json'), pretty(categories)),
     writeFile(join(OUT, 'index.json'), pretty({
       generatedAt: new Date().toISOString(),
+      schemaVersion: 1,
       stationCount: stations.length,
       streamCount: streams.length,
       countryCount: countries.length,
@@ -144,6 +153,12 @@ async function main() {
       categoryCount: categories.length,
       databaseGeneratedAt: dbIndex.generatedAt || null,
       streamsGeneratedAt: streamIndex.generatedAt || null,
+      databaseSchemaVersion: dbIndex.schemaVersion ?? null,
+      streamsSchemaVersion: streamIndex.schemaVersion ?? null,
+      quality: {
+        database: dbIndex.quality || null,
+        streams: streamIndex.quality || null,
+      },
       routes: {
         station: '/v1/stations/:id',
         country: '/v1/countries/:code',
