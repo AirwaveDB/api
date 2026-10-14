@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const V1 = join(ROOT, 'v1');
+const COMMIT = /^[0-9a-f]{40}$/;
 const errors = [];
 
 function fail(message) {
@@ -35,6 +36,20 @@ async function main() {
   if (!index.streamsGeneratedAt || Number.isNaN(Date.parse(index.streamsGeneratedAt))) fail('invalid streamsGeneratedAt');
   if (index.databaseSchemaVersion !== null && Number(index.databaseSchemaVersion) !== 1) fail(`unsupported databaseSchemaVersion ${index.databaseSchemaVersion}`);
   if (index.streamsSchemaVersion !== null && Number(index.streamsSchemaVersion) !== 1) fail(`unsupported streamsSchemaVersion ${index.streamsSchemaVersion}`);
+
+  const snapshots = index.sourceSnapshots;
+  if (!snapshots || typeof snapshots !== 'object') {
+    fail('missing sourceSnapshots');
+  } else {
+    if (!COMMIT.test(snapshots.database?.commit || '')) fail('invalid sourceSnapshots.database.commit');
+    if (!COMMIT.test(snapshots.streams?.commit || '')) fail('invalid sourceSnapshots.streams.commit');
+    if (snapshots.database?.generatedAt !== index.databaseGeneratedAt) fail('database source snapshot timestamp mismatch');
+    if (snapshots.streams?.generatedAt !== index.streamsGeneratedAt) fail('streams source snapshot timestamp mismatch');
+    if (Number(snapshots.database?.schemaVersion) !== Number(index.databaseSchemaVersion)) fail('database source snapshot schema mismatch');
+    if (Number(snapshots.streams?.schemaVersion) !== Number(index.streamsSchemaVersion)) fail('streams source snapshot schema mismatch');
+    if (snapshots.streams?.databaseGeneratedAt !== index.databaseGeneratedAt) fail('streams source snapshot was not built from the selected database snapshot');
+    if (!snapshots.streams?.idStrategy || typeof snapshots.streams.idStrategy !== 'string') fail('missing streams source snapshot idStrategy');
+  }
 
   const stationIds = new Set();
   const stationById = new Map();
