@@ -24,10 +24,11 @@ streams  (playable URLs)  ───┘
 | `GET /v1/countries/:code` | Stations and streams for one country |
 | `GET /v1/categories` | Category index |
 | `GET /v1/categories/:id` | Stations and streams for one category |
-| `GET /v1/languages` | Language index |
-| `GET /v1/languages/:code` | Stations and streams for one language |
+| `GET /v1/languages` | Canonical language index |
+| `GET /v1/languages/:code` | Stations and streams for one canonical code or accepted alias |
+| `GET /v1/language-aliases` | Accepted language aliases and their canonical codes |
 
-Country codes use lowercase ISO 3166-1 alpha-2 values in URLs. Language codes use the normalized language codes stored by AirwaveDB.
+Country codes use lowercase ISO 3166-1 alpha-2 values in URLs. Language records use the canonical codes stored by AirwaveDB.
 
 Examples:
 
@@ -35,8 +36,36 @@ Examples:
 GET /v1/countries/jp
 GET /v1/categories/news
 GET /v1/languages/ja
+GET /v1/languages/jpn
 GET /v1/stations/awb_0123456789abcdef0123
 ```
+
+### Language aliases
+
+Equivalent ISO 639 forms remain usable for backwards compatibility. For example, `jpn` resolves to the same station set as `ja`, `eng` resolves to `en`, and both `deu` and `ger` resolve to `de`.
+
+Canonical language responses look like:
+
+```json
+{
+  "code": "ja",
+  "stationCount": 116,
+  "stations": []
+}
+```
+
+Alias responses preserve the requested code and expose the canonical target:
+
+```json
+{
+  "code": "jpn",
+  "canonicalCode": "ja",
+  "stationCount": 116,
+  "stations": []
+}
+```
+
+`GET /v1/languages` contains canonical entries only. `GET /v1/language-aliases` exposes the compatibility map separately.
 
 ## Static distributions
 
@@ -49,6 +78,8 @@ https://raw.githubusercontent.com/AirwaveDB/api/main/v1/streams.json
 https://raw.githubusercontent.com/AirwaveDB/api/main/v1/countries/jp.json
 https://raw.githubusercontent.com/AirwaveDB/api/main/v1/categories/news.json
 https://raw.githubusercontent.com/AirwaveDB/api/main/v1/languages/ja.json
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1/languages/jpn.json
+https://raw.githubusercontent.com/AirwaveDB/api/main/v1/language_aliases.json
 ```
 
 Bulk NDJSON distributions are available at:
