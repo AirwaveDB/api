@@ -84,6 +84,7 @@ export default {
       ['/v1/countries', '/countries.json'],
       ['/v1/categories', '/categories.json'],
       ['/v1/languages', '/languages.json'],
+      ['/v1/language-aliases', '/language_aliases.json'],
       ['/v1/stations.ndjson', '/stations.ndjson'],
       ['/v1/streams.ndjson', '/streams.ndjson'],
     ]);
