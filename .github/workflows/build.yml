@@ -34,6 +34,8 @@ jobs:
         run: node --check src/worker.js
       - name: Build public JSON API from canonical datasets
         run: node scripts/build.mjs
+      - name: Annotate canonical source snapshots
+        run: node scripts/annotate-source.mjs
       - name: Validate static API files
         run: node scripts/validate.mjs
       - name: Commit changes
@@ -56,6 +58,7 @@ jobs:
             git rebase origin/main
             node --check src/worker.js
             node scripts/build.mjs
+            node scripts/annotate-source.mjs
             node scripts/validate.mjs
             git add v1
             if ! git diff --cached --quiet; then
