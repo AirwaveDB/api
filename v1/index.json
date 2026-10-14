@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:52:24.347Z",
+  "generatedAt": "2026-10-14T02:01:45.492Z",
   "schemaVersion": 1,
   "stationCount": 54229,
   "streamCount": 57409,
@@ -7,9 +7,9 @@
   "languageCount": 166,
   "categoryCount": 25,
   "databaseGeneratedAt": "2026-10-14T01:44:10.357Z",
-  "streamsGeneratedAt": "2026-10-13T10:44:56.556Z",
+  "streamsGeneratedAt": "2026-10-14T01:51:09.314Z",
   "databaseSchemaVersion": 1,
-  "streamsSchemaVersion": null,
+  "streamsSchemaVersion": 1,
   "quality": {
     "database": {
       "withHomepage": 51724,
@@ -18,7 +18,13 @@
       "withCategory": 23053,
       "unknownCountry": 1101
     },
-    "streams": null
+    "streams": {
+      "withCodec": 57392,
+      "withBitrate": 48530,
+      "hls": 3850,
+      "sourceCheckOk": 57409,
+      "unknownCountry": 1211
+    }
   },
   "routes": {
     "station": "/v1/stations/:id",
