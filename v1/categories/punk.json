@@ -1,7 +1,52 @@
 {
   "id": "punk",
-  "stationCount": 191,
+  "stationCount": 261,
   "stations": [
+    {
+      "id": "awb_80373f81c18b4f7bcc35",
+      "name": "Exclusively Big Country",
+      "country": "AE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "folk",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "alt rock",
+        "celtic rock",
+        "folk rock",
+        "new wave",
+        "post-punk"
+      ],
+      "homepage": "https://play.you.radio/station/1350",
+      "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9546a7bb-6ff4-4c6a-a15a-6b667260bf55.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:10Z",
+      "streams": [
+        {
+          "id": "aws_155e1e169d3a5768b029",
+          "stationId": "awb_80373f81c18b4f7bcc35",
+          "name": "Exclusively Big Country",
+          "country": "AE",
+          "url": "https://2.mystreaming.net/er/bigcountry/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0ccb11b9-2b09-4c89-906e-6b4984910a0e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:54:12Z"
+        }
+      ]
+    },
     {
       "id": "awb_6cd5c8b9bb4e73665ef9",
       "name": "Exclusively Billy Idol",
@@ -9,8 +54,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "dance punk",
@@ -46,6 +91,51 @@
       ]
     },
     {
+      "id": "awb_c15d655b75a42986a5de",
+      "name": "Exclusively Green Day",
+      "country": "AE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop",
+        "punk"
+      ],
+      "tags": [
+        "pop",
+        "pop punk"
+      ],
+      "homepage": "https://exclusive.radio/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_34ace7f57641184b5bcf",
+          "stationId": "awb_c15d655b75a42986a5de",
+          "name": "Exclusively Green Day",
+          "country": "AE",
+          "url": "https://streaming.exclusive.radio/er/greenday/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "2528fcc2-7816-4e60-aa13-59e5bcc6dc50",
+            "AE:exclusively-green-day"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:46:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_47f45dbfe14040f9f1ba",
       "name": "Exclusively Joan Jett",
       "country": "AE",
@@ -54,8 +144,8 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "exclusive",
@@ -119,6 +209,7 @@
         "en"
       ],
       "categories": [
+        "pop",
         "punk"
       ],
       "tags": [
@@ -153,13 +244,152 @@
       ]
     },
     {
+      "id": "awb_157b1cbc93278e732aa3",
+      "name": "Exclusively Simple Minds",
+      "country": "AE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "arena rock",
+        "art rock",
+        "new wave",
+        "post punk",
+        "synthpop"
+      ],
+      "homepage": "https://play.you.radio/station/340",
+      "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/caa3e98d-9725-4946-bf90-9a12e99468c8.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:11Z",
+      "streams": [
+        {
+          "id": "aws_1598b2a005a731cfa5a0",
+          "stationId": "awb_157b1cbc93278e732aa3",
+          "name": "Exclusively Simple Minds",
+          "country": "AE",
+          "url": "https://nl4.mystreaming.net/er/simpleminds/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "77b2862f-1bbc-4e5e-ae21-50311a4b20c8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:15:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c52c7b4204d899bfcd33",
+      "name": "Exclusively Talking Heads",
+      "country": "AE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "art pop",
+        "avant-funk",
+        "dance rock",
+        "new wave",
+        "post punk",
+        "worldbeat"
+      ],
+      "homepage": "https://play.you.radio/station/467",
+      "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/cc50da2d-7a57-41c0-9ebe-d9c1bd283745.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:12Z",
+      "streams": [
+        {
+          "id": "aws_46f8d883fc6f38c1acf8",
+          "stationId": "awb_c52c7b4204d899bfcd33",
+          "name": "Exclusively Talking Heads",
+          "country": "AE",
+          "url": "https://nl4.mystreaming.net/er/talkingheads/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a7857a44-d494-4391-9417-d57ade95a846"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:19:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_22ac13c97119d7f13c67",
+      "name": "Exclusively The Cure",
+      "country": "AE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "alternative rock",
+        "college rock",
+        "dance rock",
+        "goth rock",
+        "new wave",
+        "post punk",
+        "punk wave"
+      ],
+      "homepage": "https://play.exclusive.radio/",
+      "favicon": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:33:41Z",
+      "streams": [
+        {
+          "id": "aws_1729127fcca96e2ad206",
+          "stationId": "awb_22ac13c97119d7f13c67",
+          "name": "Exclusively The Cure",
+          "country": "AE",
+          "url": "https://streaming.exclusive.radio/er/thecure/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1ff42701-acbd-4483-b1fd-92ba0d1eb1f8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:33:14Z"
+        }
+      ]
+    },
+    {
       "id": "awb_042475a5527c952eab44",
       "name": "Exclusively The Stranglers",
       "country": "AE",
       "subdivision": null,
       "languages": [],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "new wave",
@@ -203,8 +433,8 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk rock",
@@ -246,9 +476,10 @@
         "es"
       ],
       "categories": [
-        "rock",
         "folk",
-        "punk"
+        "punk",
+        "rock",
+        "talk"
       ],
       "tags": [
         "anarchism",
@@ -291,9 +522,10 @@
       "subdivision": "Mendoza",
       "languages": [],
       "categories": [
-        "rock",
+        "latin",
+        "punk",
         "reggae",
-        "punk"
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -339,9 +571,9 @@
         "es"
       ],
       "categories": [
-        "rock",
+        "punk",
         "reggae",
-        "punk"
+        "rock"
       ],
       "tags": [
         "heavy",
@@ -511,8 +743,10 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "blues",
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -562,8 +796,10 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "blues",
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -614,13 +850,14 @@
         "ru"
       ],
       "categories": [
-        "rock",
+        "ambient",
         "electronic",
         "hip-hop",
-        "reggae",
         "metal",
+        "oldies",
         "punk",
-        "ambient"
+        "reggae",
+        "rock"
       ],
       "tags": [
         "80s synth",
@@ -678,11 +915,11 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "rock",
-        "jazz",
-        "hip-hop",
         "folk",
-        "punk"
+        "hip-hop",
+        "jazz",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -758,9 +995,9 @@
         "bg"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "death metal",
@@ -823,17 +1060,182 @@
       ]
     },
     {
+      "id": "awb_56105bf2133fc181ed1e",
+      "name": "Dark Wave Radomir",
+      "country": "BG",
+      "subdivision": "Pernik",
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "alternative",
+        "avantgarde",
+        "dark wave",
+        "ebm",
+        "experimental",
+        "grindcore",
+        "new wave",
+        "noise",
+        "post-punk"
+      ],
+      "homepage": "https://dwr.radio/",
+      "favicon": "https://dwr.radio/wp-content/uploads/2023/10/cropped-favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_0e198bf4102df6fa5425",
+          "stationId": "awb_56105bf2133fc181ed1e",
+          "name": "Dark Wave Radomir",
+          "country": "BG",
+          "url": "https://dwrstream.eu/",
+          "codec": "aac+",
+          "bitrate": 7,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "BG:dark-wave-radomir",
+            "d112f1ff-0501-4449-82c9-3d5935fc1a90"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:20:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d31a12f5ffe530e5aa7b",
+      "name": "XRaydio 1 – Your Kaleidoscope Of Sounds",
+      "country": "BG",
+      "subdivision": "Plovdiv",
+      "languages": [],
+      "categories": [
+        "electronic",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "acid house",
+        "americana",
+        "disco",
+        "dream pop",
+        "electro",
+        "garage punk",
+        "indie",
+        "noise rock",
+        "post punk",
+        "psychedelic",
+        "shoegaze",
+        "synthwave",
+        "techno",
+        "vaporwave",
+        "yacht rock"
+      ],
+      "homepage": "https://xraydio.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_d64005e8dea415a07e50",
+          "stationId": "awb_d31a12f5ffe530e5aa7b",
+          "name": "XRaydio 1 – Your Kaleidoscope Of Sounds",
+          "country": "BG",
+          "url": "https://xraydio.ddns.net/live",
+          "codec": "aac",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "BG:xraydio-1-your-kaleidoscope-of-sounds",
+            "adc3d8e1-abab-478f-9730-852e749f9504"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:13:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b13f8ff504ae776f0572",
+      "name": "XRaydio 3 – Your Rock & Roll Partner In Crime",
+      "country": "BG",
+      "subdivision": "Plovdiv",
+      "languages": [],
+      "categories": [
+        "blues",
+        "country",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "blues punk",
+        "garage rock",
+        "glam rock",
+        "outlaw country",
+        "power pop",
+        "psychobilly",
+        "pub rock",
+        "rock & roll",
+        "sludge",
+        "southern rock",
+        "space rock",
+        "stoner rock",
+        "surf",
+        "swamp rock"
+      ],
+      "homepage": "https://xraydio.net/",
+      "favicon": "https://xraydio.net/wp-content/uploads/2024/03/3.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_196d3a9ac795d6fef55f",
+          "stationId": "awb_b13f8ff504ae776f0572",
+          "name": "XRaydio 3 – Your Rock & Roll Partner In Crime",
+          "country": "BG",
+          "url": "https://xraydio.ddns.net/xraydio3",
+          "codec": "aac",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "BG:xraydio-3-your-rock-roll-partner-in-crime",
+            "e00ed8d4-5a16-4361-8142-0aad6b0326fd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:32:14Z"
+        }
+      ]
+    },
+    {
       "id": "awb_75dfca1fabf38c5f9423",
       "name": "El Fin del Silencio",
       "country": "BO",
       "subdivision": "Cochabamba",
       "languages": [],
       "categories": [
-        "pop",
-        "rock",
         "hip-hop",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "hardcore",
@@ -882,7 +1284,9 @@
         "pt"
       ],
       "categories": [
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "gothic",
@@ -916,6 +1320,88 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:16:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_39a06875cb8ce37b83de",
+      "name": "N10.AS",
+      "country": "CA",
+      "subdivision": "Quebec",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient",
+        "blues",
+        "classical",
+        "country",
+        "electronic",
+        "hip-hop",
+        "jazz",
+        "metal",
+        "pop",
+        "punk",
+        "reggae",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "ambient",
+        "blues",
+        "classical",
+        "country",
+        "dance",
+        "disco",
+        "dub",
+        "electronic",
+        "experimental",
+        "groove",
+        "heavy metal",
+        "hiphop",
+        "house",
+        "indie",
+        "jazz",
+        "lifestyle",
+        "other",
+        "pop",
+        "post-punk",
+        "psychedelic",
+        "rap",
+        "reggae",
+        "rnb",
+        "rock",
+        "soul",
+        "special broadcast",
+        "talk",
+        "techno",
+        "world"
+      ],
+      "homepage": "https://n10.as/",
+      "favicon": "https://n10.as/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-02-04T15:04:56Z",
+      "streams": [
+        {
+          "id": "aws_289b555a834dec32fa45",
+          "stationId": "awb_39a06875cb8ce37b83de",
+          "name": "N10.AS",
+          "country": "CA",
+          "url": "https://n10as.radiocult.fm/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96643f48-c85c-41d5-b9a0-6c6cd861e87b",
+            "d3270e0c-5371-435c-8479-b543511d397f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:19:49Z"
         }
       ]
     },
@@ -963,6 +1449,83 @@
       ]
     },
     {
+      "id": "awb_21b1819b4549d1649f3a",
+      "name": "80s Forever - We Keep The 80s Alive",
+      "country": "CH",
+      "subdivision": "Zürich",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "alternative rock",
+        "eighties",
+        "gothic",
+        "indie",
+        "indie pop",
+        "manchester rave",
+        "new wave",
+        "post punk",
+        "power pop",
+        "rare 80s",
+        "rock",
+        "synthpop"
+      ],
+      "homepage": "https://www.80sforever.radio/",
+      "favicon": "https://www.80sforever.radio/favicon.ico",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_b152c863f6bc11f1d110",
+          "stationId": "awb_21b1819b4549d1649f3a",
+          "name": "80s Forever - We Keep The 80s Alive",
+          "country": "CH",
+          "url": "http://azuracast.ssl-stream.com/radio/8050/256.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b1a9cb4-68e8-4c71-b5e3-1355d043dce3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:39:39Z"
+        },
+        {
+          "id": "aws_6c37fc011658a11d2736",
+          "stationId": "awb_21b1819b4549d1649f3a",
+          "name": "80s Forever - We Keep The 80s Alive",
+          "country": "CH",
+          "url": "https://premium.shoutcastsolutions.com/radio/8050/256.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "32fed468-cfe3-11e9-a861-52543be04c81",
+            "CH:80s-forever-we-keep-the-80s-alive"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:22:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_cd9a280dd69968a87c7f",
       "name": "Radio Gugelhopf",
       "country": "CH",
@@ -974,7 +1537,8 @@
         "fr"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "experimental rock",
@@ -1018,7 +1582,8 @@
         "es"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk rock"
@@ -1051,6 +1616,105 @@
       ]
     },
     {
+      "id": "awb_0532d52332e1895e7557",
+      "name": "EchoBeat FM",
+      "country": "CL",
+      "subdivision": "Santiago",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "dark wave",
+        "gothic",
+        "indie",
+        "post-punk",
+        "synthpop",
+        "triphop"
+      ],
+      "homepage": "https://www.echobeatfm.cl/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_cc6681450df1065d2339",
+          "stationId": "awb_0532d52332e1895e7557",
+          "name": "EchoBeat FM",
+          "country": "CL",
+          "url": "https://as100.globalhost1.com/8004/stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "05f64448-7f04-40c9-b081-2aa9af4d6343",
+            "CL:echobeat-fm"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:08:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a1000dfcf7bfdd4cff6d",
+      "name": "Silens Clamor",
+      "country": "CL",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "darkwave",
+        "metal",
+        "post-punk",
+        "rock"
+      ],
+      "homepage": "https://www.silensclamor.com/",
+      "favicon": "https://www.silensclamor.com/img/logo.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_766d5609e4e86c3d41ec",
+          "stationId": "awb_a1000dfcf7bfdd4cff6d",
+          "name": "Silens Clamor",
+          "country": "CL",
+          "url": "https://www.silensclamor.com/live",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "CL:silens-clamor",
+            "ea5fcc45-1545-41f1-88d0-485567b056e1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:24:28Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5c3e7f2a5301b836c38a",
       "name": "Espiritu Rock",
       "country": "CO",
@@ -1060,9 +1724,9 @@
         "es"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "classic rock",
@@ -1112,9 +1776,9 @@
         "es"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -1191,11 +1855,12 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "rock",
         "blues",
+        "folk",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "ai art",
@@ -1298,9 +1963,10 @@
         "de"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternativ rock",
@@ -1350,9 +2016,10 @@
         "en"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -1403,8 +2070,10 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "metal",
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -1524,8 +2193,9 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "active rock",
@@ -1575,9 +2245,10 @@
         "en"
       ],
       "categories": [
+        "blues",
         "pop",
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "adult contemporary",
@@ -1627,7 +2298,8 @@
         "de"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "garage punk",
@@ -1714,6 +2386,7 @@
         "de"
       ],
       "categories": [
+        "pop",
         "punk"
       ],
       "tags": [
@@ -1757,8 +2430,8 @@
       "subdivision": "Bavaria",
       "languages": [],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -1796,15 +2469,60 @@
       ]
     },
     {
+      "id": "awb_8b40bf5a184b13cc92ce",
+      "name": "Atomicwave FM",
+      "country": "DE",
+      "subdivision": "Berlin",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "new wave",
+        "post-punk",
+        "synthpop",
+        "synthwave"
+      ],
+      "homepage": "https://laut.fm/",
+      "favicon": "https://assets.laut.fm/75ba3d39e80147363879b0e69654cc4b?t=_120x120",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:43:13Z",
+      "streams": [
+        {
+          "id": "aws_093e49d115dc82331646",
+          "stationId": "awb_8b40bf5a184b13cc92ce",
+          "name": "Atomicwave FM",
+          "country": "DE",
+          "url": "https://atomicwavefm.stream.laut.fm/atomicwavefm?ref=web-app&start_time=1739967212325&aw_0_req.userConsentV2=CQNBgcAQNBgcAAKA1ADEBdFsAP_gAEPgAAYgK1tX_G__bWlr8X73aftkeY1P99h77sQxBhbJE-4FzLvW_JwXx2E5NAz6tqIKmRIAu3TBIQNlHJDURVCgaogVrSDMaEyUoTNKJ6BkiFMRI2dYCFxvm4tjeQCY5vr991dx2B-t7dr83dzyy4hHn3a5_2S1WJCdAYetDfv9bROb-9IOd_x8v4v4_F7pE2_eT1l_tWvp7D9-cts_9XW99_fbff9Pn_-uF_-_X_vf_H37v4K0gEmGhUQBlkSEhBoGEECAFQVhARQIAgAASBogIATBgU5AwAXWEiAEAKAAYIAQAAgyABAAAJAAhEAEABQIAAIBAoAAwAIBgIAGBgADABYCAQAAgOgYpgQQCBYAJGZFApgQgAJBAS2VCCQBAgrhCEWeAQAIiYKAAAEAApAAEBYLA4kkBKxIIAuIJoAACABAIIAChFJ2YAggDNlqrwZNoytMCwfMFzymAZAEQRk5JsQgAAAA.YAAAAAAAAAAA&listenerid=5cf16a10306d888ab4ab8634c933fc9f&awparams=companionAds%3Atrue",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "255e6174-4596-42e1-9631-d6e63cf33b47"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:09:53Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a73c6a253e7715ec92d5",
       "name": "bizarre Radio",
       "country": "DE",
       "subdivision": null,
       "languages": [],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -1894,7 +2612,8 @@
       "categories": [
         "folk",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "electro",
@@ -1935,6 +2654,58 @@
       ]
     },
     {
+      "id": "awb_65a1e2b0c2c304f69016",
+      "name": "DARK ZERO RADIO",
+      "country": "DE",
+      "subdivision": "München, Wiesbaden, Kreuztal",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "dark wave",
+        "ebm",
+        "futurepop",
+        "gothic",
+        "gothic-rock",
+        "industrial",
+        "new beat.",
+        "new wave",
+        "post-punk",
+        "synth-pop"
+      ],
+      "homepage": "https://dark-zero-radio.com/",
+      "favicon": "https://dark-zero-radio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:49:59Z",
+      "streams": [
+        {
+          "id": "aws_bc2c4d0636893e684497",
+          "stationId": "awb_65a1e2b0c2c304f69016",
+          "name": "DARK ZERO RADIO",
+          "country": "DE",
+          "url": "http://stream.laut.fm/darkzeroradio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4a688cc7-b7ae-11e9-acb2-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:34:49Z"
+        }
+      ]
+    },
+    {
       "id": "awb_40ceef6fabad6600a663",
       "name": "delta radio UNPLUGGED [aac | 64 kbps]",
       "country": "DE",
@@ -1943,13 +2714,13 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "rock",
-        "hip-hop",
         "folk",
-        "reggae",
+        "hip-hop",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "reggae",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -2010,13 +2781,13 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "rock",
-        "hip-hop",
         "folk",
-        "reggae",
+        "hip-hop",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "reggae",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -2077,9 +2848,10 @@
         "en"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "2000",
@@ -2133,6 +2905,419 @@
       ]
     },
     {
+      "id": "awb_a823047105ecef447f44",
+      "name": "DrGnu - 70th Rock",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "20th century",
+        "ac/dc",
+        "acdc",
+        "alternative",
+        "anthrax",
+        "art rock",
+        "avant garde",
+        "classic",
+        "cream",
+        "danzig",
+        "europe",
+        "experimental",
+        "festivals",
+        "folk rock",
+        "foo fighters",
+        "garage punk",
+        "gig",
+        "glam rock",
+        "gothic",
+        "grunge",
+        "hardcore",
+        "heavy metal",
+        "heavy rock",
+        "hendrix",
+        "hits",
+        "indie",
+        "iron maiden",
+        "james taylor",
+        "korn",
+        "led zeppelin",
+        "linkin park",
+        "live",
+        "livestream",
+        "megadeth",
+        "metal",
+        "metalcore",
+        "metallica",
+        "motorhead",
+        "motörhead"
+      ],
+      "homepage": "https://www.fluxfm.de/",
+      "favicon": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:11:16Z",
+      "streams": [
+        {
+          "id": "aws_56af1546400bbaa0c15e",
+          "stationId": "awb_a823047105ecef447f44",
+          "name": "DrGnu - 70th Rock",
+          "country": "DE",
+          "url": "http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355109",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "38b0288f-79be-438f-8da8-ec7cfcd6cb2d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:11:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c079f9b034bfe06d2bed",
+      "name": "DrGnu - 80th Rock",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1980s",
+        "20th century",
+        "80er",
+        "80th rock",
+        "ac/dc",
+        "adult",
+        "alternative / indie",
+        "aor / slow rock / soft rock (adult-orientated rock e.g. the ",
+        "art rock(e.g. talking heads)",
+        "bruce springsteen",
+        "bryan adams",
+        "classic/dance/pop-rock",
+        "cream",
+        "drgnu",
+        "europe",
+        "folk",
+        "glam rock (e.g. t-rex)",
+        "heavy rock (e.g. led zeppelin",
+        "hendrix)",
+        "james taylor)",
+        "livestream",
+        "metal (e.g. iron maiden)",
+        "new age",
+        "pop",
+        "pop-rock",
+        "prog / symphonic rock (e.g. yes)",
+        "punk rock (e.g. the sex pistols)",
+        "queen",
+        "reo speedwagon",
+        "rhythm and blues (1960s randb (eg. the rolling stones))",
+        "rock",
+        "singer/songwriter (e.g. paul simon",
+        "the germans‘ favourite decade – and here you can hear clearl",
+        "van halen",
+        "zz top",
+        "zz top and many more will blow your mullets away!"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:09:14Z",
+      "streams": [
+        {
+          "id": "aws_5f3c9a2247c4aed36968",
+          "stationId": "awb_c079f9b034bfe06d2bed",
+          "name": "DrGnu - 80th Rock",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b5220e67-3b5a-47b2-aeba-099dac8c25dc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:05:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dad750e059ed913b2659",
+      "name": "DrGnu - 80th Rock II",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "oldies",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "20th century",
+        "80s",
+        "80th",
+        "ac/dc",
+        "acdc",
+        "alternative",
+        "anthrax",
+        "art rock",
+        "avant garde",
+        "classic",
+        "classics",
+        "cream",
+        "danzig",
+        "europe",
+        "experimental",
+        "festivals",
+        "folk rock",
+        "foo fighters",
+        "garage punk",
+        "gig",
+        "glam rock",
+        "gothic",
+        "grunge",
+        "hardcore",
+        "heavy metal",
+        "heavy rock",
+        "hendrix",
+        "hits",
+        "indie",
+        "iron maiden",
+        "james taylor",
+        "korn",
+        "led zeppelin",
+        "linkin park",
+        "live",
+        "livestream",
+        "megadeth",
+        "metal",
+        "metalcore"
+      ],
+      "homepage": "https://www.fluxfm.de/",
+      "favicon": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:53:14Z",
+      "streams": [
+        {
+          "id": "aws_fa799d65a317268a314b",
+          "stationId": "awb_dad750e059ed913b2659",
+          "name": "DrGnu - 80th Rock II",
+          "country": "DE",
+          "url": "https://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=6202qrr6%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355302",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "78363b80-d1dd-4a4c-9087-6ed976878360"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:39:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fbf3e413c58b3af10f0f",
+      "name": "DrGnu - 90th Rock",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "20th century",
+        "ac/dc",
+        "acdc",
+        "alternative",
+        "anthrax",
+        "art rock",
+        "avant garde",
+        "classic",
+        "cream",
+        "danzig",
+        "drgnu",
+        "europe",
+        "experimental",
+        "folk rock",
+        "foo fighters",
+        "garage punk",
+        "glam rock",
+        "grunge",
+        "heavy metal",
+        "heavy rock",
+        "hendrix",
+        "hits",
+        "indie",
+        "iron maiden",
+        "james taylor",
+        "korn",
+        "led zeppelin",
+        "linkin park",
+        "livestream",
+        "megadeth",
+        "metal",
+        "metallica",
+        "motörhead",
+        "new age",
+        "new wave",
+        "nirvana",
+        "nu punk",
+        "open air",
+        "paul simon"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:41:05Z",
+      "streams": [
+        {
+          "id": "aws_1191ca1d13d01f1ac8d4",
+          "stationId": "awb_fbf3e413c58b3af10f0f",
+          "name": "DrGnu - 90th Rock",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "413e09ae-dbdc-48e8-a42a-81cd3e5dd176"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:01:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7c13e7a46811de3afc1e",
+      "name": "DrGnu - Best of Rock",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "2000s",
+        "2010s",
+        "20th century",
+        "21st century",
+        "adult",
+        "alternative / indie",
+        "aor / slow rock / soft rock (adult-orientated rock e.g. the ",
+        "art rock(e.g. talking heads)",
+        "best of",
+        "best of rock",
+        "classic/dance/pop-rock",
+        "cream",
+        "drgnu",
+        "europe",
+        "foo fighters",
+        "glam rock (e.g. t-rex)",
+        "green day",
+        "heavy rock (e.g. led zeppelin",
+        "hendrix)",
+        "internetradio",
+        "james taylor)",
+        "livestream",
+        "metal (e.g. iron maiden)",
+        "metallica",
+        "modern",
+        "pop",
+        "pop-rock",
+        "prog / symphonic rock (e.g. yes)",
+        "punk rock (e.g. the sex pistols)",
+        "queen",
+        "rhythm and blues (1960s randb (eg. the rolling stones))",
+        "rock",
+        "rolling stones",
+        "singer/songwriter (e.g. paul simon"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:59:53Z",
+      "streams": [
+        {
+          "id": "aws_6c0869d806fd228e3b1b",
+          "stationId": "awb_7c13e7a46811de3afc1e",
+          "name": "DrGnu - Best of Rock",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "805753dd-3431-4fb1-8c35-b88e0192c54e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:33:46Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a504c90562910af086fd",
       "name": "DrGnu - BOB's Livestream",
       "country": "DE",
@@ -2141,10 +3326,12 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "rock",
+        "blues",
+        "folk",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -2210,10 +3397,11 @@
         "en"
       ],
       "categories": [
-        "rock",
         "blues",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "ac/dc",
@@ -2284,6 +3472,158 @@
       ]
     },
     {
+      "id": "awb_f0d6468a26d5b637cd3b",
+      "name": "DrGnu - Death Metal",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1980s",
+        "1990s",
+        "2010s",
+        "2020s",
+        "21st century",
+        "black metal",
+        "cream",
+        "death metal",
+        "deathcore",
+        "digital radio",
+        "drgnu",
+        "europe",
+        "gothic metal",
+        "hardrock",
+        "heavy rock (e.g. led zeppelin",
+        "hendrix)",
+        "james taylor)",
+        "livestream",
+        "metal",
+        "metal (e.g. iron maiden)",
+        "metalcore",
+        "music",
+        "punk rock (e.g. sex pistols)",
+        "rock",
+        "singer/songwriter (e.g. paul simon",
+        "thrash metal"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:24:48Z",
+      "streams": [
+        {
+          "id": "aws_c4107b1efb0491e71c04",
+          "stationId": "awb_f0d6468a26d5b637cd3b",
+          "name": "DrGnu - Death Metal",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6a3184d6-5f22-44c4-956e-715ec8c0ff88"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:18:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3056099e230eaf4af101",
+      "name": "DrGnu - Gothic",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "20th century",
+        "ac/dc",
+        "acdc",
+        "alternative",
+        "anthrax",
+        "art rock",
+        "avant garde",
+        "classic",
+        "cream",
+        "danzig",
+        "drgnu",
+        "europe",
+        "experimental",
+        "festivals",
+        "folk rock",
+        "foo fighters",
+        "garage punk",
+        "gig",
+        "glam rock",
+        "gothic",
+        "grunge",
+        "heavy metal",
+        "heavy rock",
+        "hendrix",
+        "hits",
+        "indie",
+        "iron maiden",
+        "james taylor",
+        "korn",
+        "led zeppelin",
+        "linkin park",
+        "live",
+        "livestream",
+        "megadeth",
+        "metal",
+        "metallica",
+        "motorhead",
+        "motörhead",
+        "new age"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:47:38Z",
+      "streams": [
+        {
+          "id": "aws_b4998b1c34571ca483f7",
+          "stationId": "awb_3056099e230eaf4af101",
+          "name": "DrGnu - Gothic",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/gothic/mp3-192/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3a732f11-95fc-401c-bbb4-63e791652da1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:48:48Z"
+        }
+      ]
+    },
+    {
       "id": "awb_0d24378397b55646d186",
       "name": "DrGnu - Hard Side",
       "country": "DE",
@@ -2292,10 +3632,12 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "rock",
+        "blues",
+        "folk",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative/indie",
@@ -2363,6 +3705,577 @@
       ]
     },
     {
+      "id": "awb_047c4fd24278d7c98bea",
+      "name": "DrGnu - Metal 1",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "20th century",
+        "ac/dc",
+        "acdc",
+        "alternative",
+        "anthrax",
+        "art rock",
+        "avant garde",
+        "classic",
+        "cream",
+        "danzig",
+        "drgnu",
+        "europe",
+        "experimental",
+        "folk rock",
+        "foo fighters",
+        "garage punk",
+        "glam rock",
+        "grunge",
+        "heavy metal",
+        "heavy rock",
+        "hendrix",
+        "hits",
+        "indie",
+        "iron maiden",
+        "james taylor",
+        "korn",
+        "led zeppelin",
+        "linkin park",
+        "livestream",
+        "megadeth",
+        "metal",
+        "metallica",
+        "motorhead",
+        "motörhead",
+        "new age",
+        "new wave",
+        "nirvana",
+        "nu punk",
+        "open air"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:11:46Z",
+      "streams": [
+        {
+          "id": "aws_f2472311010a59742681",
+          "stationId": "awb_047c4fd24278d7c98bea",
+          "name": "DrGnu - Metal 1",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d7bc09c-4f39-43cd-8a5a-decae9ca5cb9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:02:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_76cc1dcacd204fbd6c26",
+      "name": "DrGnu - Metal 2",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "20th century",
+        "ac/dc",
+        "acdc",
+        "alternative",
+        "anthrax",
+        "art rock",
+        "avant garde",
+        "classic",
+        "cream",
+        "danzig",
+        "drgnu",
+        "europe",
+        "experimental",
+        "festivals",
+        "folk rock",
+        "foo fighters",
+        "garage punk",
+        "gig",
+        "glam rock",
+        "gothic",
+        "grunge",
+        "hardcore",
+        "heavy metal",
+        "heavy rock",
+        "hendrix",
+        "hits",
+        "indie",
+        "iron maiden",
+        "james taylor",
+        "korn",
+        "led zeppelin",
+        "linkin park",
+        "live",
+        "livestream",
+        "megadeth",
+        "metal",
+        "metalcore",
+        "metallica",
+        "motorhead"
+      ],
+      "homepage": "https://www.fluxfm.de/",
+      "favicon": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:19:56Z",
+      "streams": [
+        {
+          "id": "aws_8dc05bcae4ce587f82fc",
+          "stationId": "awb_76cc1dcacd204fbd6c26",
+          "name": "DrGnu - Metal 2",
+          "country": "DE",
+          "url": "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644356296",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d4f41697-61c8-4cd5-bcd3-93c0d5248a84"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:42:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3d9825d152e9db276e85",
+      "name": "DrGnu - Metalcore 1",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "20th century",
+        "ac/dc",
+        "acdc",
+        "alternative",
+        "anthrax",
+        "art rock",
+        "avant garde",
+        "classic",
+        "cream",
+        "danzig",
+        "drgnu",
+        "europe",
+        "experimental",
+        "festivals",
+        "folk rock",
+        "foo fighters",
+        "garage punk",
+        "gig",
+        "glam rock",
+        "gothic",
+        "grunge",
+        "hardcore",
+        "heavy metal",
+        "heavy rock",
+        "hendrix",
+        "hits",
+        "indie",
+        "iron maiden",
+        "james taylor",
+        "korn",
+        "led zeppelin",
+        "linkin park",
+        "live",
+        "livestream",
+        "megadeth",
+        "metal",
+        "metalcore",
+        "metallica",
+        "motorhead"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:31:56Z",
+      "streams": [
+        {
+          "id": "aws_2c438c076ec6007f0ffa",
+          "stationId": "awb_3d9825d152e9db276e85",
+          "name": "DrGnu - Metalcore 1",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/metalcore/mp3-192/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02f054a6-cd9d-49a4-b1a9-772da6fa87c3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:05:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6e9be83d0fb4a720f56b",
+      "name": "DrGnu - Metallica",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "20th century",
+        "ac/dc",
+        "acdc",
+        "alternative",
+        "anthrax",
+        "art rock",
+        "avant garde",
+        "classic",
+        "cream",
+        "danzig",
+        "dark knight",
+        "der dunkle parabelritter",
+        "drgnu",
+        "europe",
+        "experimental",
+        "festivals",
+        "folk rock",
+        "foo fighters",
+        "garage punk",
+        "gig",
+        "glam rock",
+        "gothic",
+        "grunge",
+        "hardcore",
+        "heavy metal",
+        "heavy rock",
+        "hendrix",
+        "hits",
+        "indie",
+        "influencer",
+        "iron maiden",
+        "james taylor",
+        "knight",
+        "korn",
+        "led zeppelin",
+        "linkin park",
+        "live",
+        "livestream",
+        "megadeth"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:07:32Z",
+      "streams": [
+        {
+          "id": "aws_e40df85d3271511d3d7c",
+          "stationId": "awb_6e9be83d0fb4a720f56b",
+          "name": "DrGnu - Metallica",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/metallica/mp3-192/mediaplayer/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "da88f032-a594-4f23-8293-ab8525e75a6e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:16:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8e48498a642155d2363c",
+      "name": "DrGnu - Rock Hits",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "2000s",
+        "2010s",
+        "20th century",
+        "21st century",
+        "adult",
+        "aor / slow rock / soft rock (adult-orientated rock e.g. the ",
+        "arctic monkeys",
+        "art rock(e.g. talking heads)",
+        "beatsteaks",
+        "classic/dance/pop-rock",
+        "classics",
+        "cream",
+        "drgnu",
+        "europe",
+        "folk",
+        "foo fighters",
+        "glam rock (e.g. t-rex)",
+        "heavy rock (e.g. led zeppelin",
+        "hendrix)",
+        "hits",
+        "imagine dragons",
+        "internetradio",
+        "james taylor)",
+        "linkin park",
+        "livestream",
+        "mando diao",
+        "metal (e.g. iron maiden)",
+        "modern",
+        "pop",
+        "pop-rock",
+        "prog / symphonic rock (e.g. yes)",
+        "punk rock (e.g. the sex pistols)",
+        "rock",
+        "rock hits",
+        "simple plan",
+        "singer/songwriter (e.g. paul simon"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:21:40Z",
+      "streams": [
+        {
+          "id": "aws_1613a5728f4d6044322a",
+          "stationId": "awb_8e48498a642155d2363c",
+          "name": "DrGnu - Rock Hits",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b9298c3b-6e85-4f68-9bd3-ff9eba2eda01"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:10:04Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_84ef3cd329649fcbfbf1",
+      "name": "DrGnu - Rock Party",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "folk",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1990s",
+        "20th century",
+        "ac/dc",
+        "acdc",
+        "alternative",
+        "anthrax",
+        "art rock",
+        "avant garde",
+        "classic",
+        "cream",
+        "danzig",
+        "drgnu",
+        "europe",
+        "experimental",
+        "festivals",
+        "folk rock",
+        "foo fighters",
+        "garage punk",
+        "gig",
+        "glam rock",
+        "gothic",
+        "grunge",
+        "hardcore",
+        "heavy metal",
+        "heavy rock",
+        "hendrix",
+        "hits",
+        "indie",
+        "iron maiden",
+        "james taylor",
+        "korn",
+        "led zeppelin",
+        "linkin park",
+        "live",
+        "livestream",
+        "megadeth",
+        "metal",
+        "metalcore",
+        "metallica",
+        "motorhead"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:03:15Z",
+      "streams": [
+        {
+          "id": "aws_d92df48845f39fa55305",
+          "stationId": "awb_84ef3cd329649fcbfbf1",
+          "name": "DrGnu - Rock Party",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/rockparty/mp3-192/mediaplayer/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7e7602f5-4fac-4c32-ba32-b015bef00d0d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:48:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d4030b2852e54b71cb6c",
+      "name": "DrGnu - Symphonic Metal",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "classical",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "1980s",
+        "2010s",
+        "2020s",
+        "21st century",
+        "alternative/indie",
+        "classic rock",
+        "classic/dance/pop-rock",
+        "classical music",
+        "cream",
+        "digitalradio",
+        "drgnu",
+        "europe",
+        "hardrock",
+        "heavy rock (e.g. led zeppelin",
+        "hendrix)",
+        "james taylor)",
+        "livestream",
+        "metal",
+        "metal (e.g. iron maiden)",
+        "musik",
+        "opera metal",
+        "prog / symphonic rock (e.g. yes)",
+        "punk rock (e.g. sex pistols)",
+        "rock",
+        "singer/songwriter (e.g. paul simon",
+        "symphonic metal"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:47:13Z",
+      "streams": [
+        {
+          "id": "aws_1796630f25a9ade2752e",
+          "stationId": "awb_d4030b2852e54b71cb6c",
+          "name": "DrGnu - Symphonic Metal",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "327f4b1f-c5c7-42bd-b69d-87bac85b8d7b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:06:28Z"
+        }
+      ]
+    },
+    {
       "id": "awb_dbf328ea4c1c801a1f28",
       "name": "DrGnu - Unplugged",
       "country": "DE",
@@ -2371,11 +4284,11 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "rock",
         "folk",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "3 doors down",
@@ -2436,10 +4349,12 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "rock",
+        "blues",
+        "folk",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "ac/dc",
@@ -2519,8 +4434,8 @@
         "de"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -2566,9 +4481,9 @@
         "de"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -2607,6 +4522,77 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:51:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_180f2ba5aa29fa4083ce",
+      "name": "Flatlines Radio",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "folk",
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "darkwave",
+        "ebm",
+        "folk",
+        "gothic",
+        "industrial",
+        "melodic rock",
+        "metal",
+        "mittelalter",
+        "neofolk",
+        "new wave",
+        "post-punk"
+      ],
+      "homepage": "https://www.flatlinesradio.de/",
+      "favicon": "https://i0.wp.com/flatlinesradio.de/storage/2021/11/244611397_1194785584320990_6265045071816304131_n-1.jpg?fit=180%2c180&#038;ssl=1",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-14T22:54:09Z",
+      "streams": [
+        {
+          "id": "aws_11df2605e4a53069332d",
+          "stationId": "awb_180f2ba5aa29fa4083ce",
+          "name": "Flatlines Radio",
+          "country": "DE",
+          "url": "https://flatlines.stream.laut.fm/flatlines?ref=web-app&start_time=1732287164623",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dbaeedc2-6531-4c54-8b88-d01329c796c8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:30:42Z"
+        },
+        {
+          "id": "aws_61b9b031646b7fae3aab",
+          "stationId": "awb_180f2ba5aa29fa4083ce",
+          "name": "Flatlines Radio",
+          "country": "DE",
+          "url": "https://stream.laut.fm/flatlines",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ddde7b16-66ba-11e9-af37-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:58:53Z"
         }
       ]
     },
@@ -2660,7 +4646,8 @@
         "de"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk rock"
@@ -2720,7 +4707,8 @@
         "de"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "80's",
@@ -2754,6 +4742,49 @@
       ]
     },
     {
+      "id": "awb_13e513b4d568d05c3a11",
+      "name": "Laut.fm Hardcore",
+      "country": "DE",
+      "subdivision": "Bavaria",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "hardcore",
+        "hardcore punk"
+      ],
+      "homepage": "https://hardcore.stream.laut.fm/hardcore",
+      "favicon": "https://laut.fm/assets/touch-icons/favicon.ico?e0f1f5c1",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-17T17:23:08Z",
+      "streams": [
+        {
+          "id": "aws_bfc59bed69c7d60cb69e",
+          "stationId": "awb_13e513b4d568d05c3a11",
+          "name": "Laut.fm Hardcore",
+          "country": "DE",
+          "url": "https://hardcore.stream.laut.fm/hardcore",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cf626443-8fb2-4095-a793-a68f1c91f87a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:42:26Z"
+        }
+      ]
+    },
+    {
       "id": "awb_eba5a3264f3aad72ae15",
       "name": "laut.fm Kakerlakenradio",
       "country": "DE",
@@ -2763,8 +4794,8 @@
       ],
       "categories": [
         "pop",
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -2813,8 +4844,8 @@
       ],
       "categories": [
         "oldies",
-        "reggae",
-        "punk"
+        "punk",
+        "reggae"
       ],
       "tags": [
         "60s",
@@ -2854,6 +4885,56 @@
       ]
     },
     {
+      "id": "awb_09a154bd17a141a7ed63",
+      "name": "Laut.FM Shoegaze",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "ambient",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "ambient",
+        "dream pop",
+        "dreampop",
+        "electro",
+        "indie",
+        "post-punk",
+        "rock",
+        "shoegaze"
+      ],
+      "homepage": "https://laut.fm/shoegaze",
+      "favicon": "https://assets.laut.fm/5dac8ce42e232800f5d54ada7eba842b",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-09-19T12:13:44Z",
+      "streams": [
+        {
+          "id": "aws_b14a48913e2bf3bb9e62",
+          "stationId": "awb_09a154bd17a141a7ed63",
+          "name": "Laut.FM Shoegaze",
+          "country": "DE",
+          "url": "https://shoegaze.stream.laut.fm/shoegaze",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "14c53a2d-116d-47d2-9e27-dac3160664a1",
+            "b14e3c20-6343-11e8-b15b-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:58:03Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9cba8dd5f685615e5c0a",
       "name": "Laut.FM Skafari",
       "country": "DE",
@@ -2862,8 +4943,8 @@
         "de"
       ],
       "categories": [
-        "reggae",
-        "punk"
+        "punk",
+        "reggae"
       ],
       "tags": [
         "alternative",
@@ -2942,18 +5023,68 @@
       ]
     },
     {
+      "id": "awb_9cfc9e2f2600e14777b0",
+      "name": "NEOFOLK",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "ambient",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "ambient",
+        "darkfolk",
+        "experimental",
+        "industrial",
+        "martial industrial",
+        "mittelalter",
+        "neofolk",
+        "pagan",
+        "post-punk",
+        "post-rock"
+      ],
+      "homepage": "https://flatlinesradio.de/",
+      "favicon": "https://i0.wp.com/flatlinesradio.de/storage/2021/11/244611397_1194785584320990_6265045071816304131_n-1.jpg?fit=180%2c180&#038;ssl=1",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:03Z",
+      "streams": [
+        {
+          "id": "aws_b16829c5011a479a17bd",
+          "stationId": "awb_9cfc9e2f2600e14777b0",
+          "name": "NEOFOLK",
+          "country": "DE",
+          "url": "https://stream.laut.fm/neofolk",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3a6e96c5-66bb-11e9-af37-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:25:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f6dad2bb7062616105f6",
       "name": "NITRO.LAUT Radio",
       "country": "DE",
       "subdivision": "Berlin",
       "languages": [],
       "categories": [
-        "pop",
-        "rock",
         "electronic",
         "hip-hop",
         "oldies",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "80s",
@@ -3001,8 +5132,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "reggae",
-        "punk"
+        "punk",
+        "reggae"
       ],
       "tags": [
         "oi! y mas",
@@ -3044,8 +5175,8 @@
       "subdivision": "Hamburg",
       "languages": [],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -3087,15 +5218,98 @@
       ]
     },
     {
+      "id": "awb_89cadf80f875f90a65a2",
+      "name": "Phatooine Radio III",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "24-hour punk/adjacent/ska/hardcore/plus"
+      ],
+      "homepage": "http://cheetah.streemlion.com:2820/stream",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:06Z",
+      "streams": [
+        {
+          "id": "aws_8ca37cf9b1011988f32a",
+          "stationId": "awb_89cadf80f875f90a65a2",
+          "name": "Phatooine Radio III",
+          "country": "DE",
+          "url": "http://cheetah.streemlion.com:2820/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9245aeba-bdc0-4469-ae83-e3f3d3ac67b8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:06:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8923c6edc65ddc2a264b",
+      "name": "popadelica",
+      "country": "DE",
+      "subdivision": "Bayern, Regensburg",
+      "languages": [],
+      "categories": [
+        "pop",
+        "punk"
+      ],
+      "tags": [
+        "80’s hits",
+        "electropop",
+        "indie",
+        "post-punk",
+        "scandipop"
+      ],
+      "homepage": "https://www.instagram.com/radiopopadelica/",
+      "favicon": "https://nl.radio.net/100/lautfm-popadelica.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:12Z",
+      "streams": [
+        {
+          "id": "aws_bb57c632c966065a219e",
+          "stationId": "awb_8923c6edc65ddc2a264b",
+          "name": "popadelica",
+          "country": "DE",
+          "url": "http://stream.laut.fm/popadelica",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1fcc0cee-2c35-411b-844e-295819712bae"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:32:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_dddbdd6c15786488d568",
       "name": "Psychographics",
       "country": "DE",
       "subdivision": null,
       "languages": [],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -3137,7 +5351,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "music",
@@ -3179,6 +5394,7 @@
         "de"
       ],
       "categories": [
+        "hip-hop",
         "metal",
         "punk"
       ],
@@ -3224,7 +5440,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "hardcore",
@@ -3369,12 +5586,12 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "rock",
         "folk",
-        "oldies",
         "metal",
-        "punk"
+        "oldies",
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "1950s",
@@ -3443,9 +5660,9 @@
         "de"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "1970s",
@@ -3496,9 +5713,9 @@
         "de"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "1970s",
@@ -3549,11 +5766,11 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "rock",
         "folk",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "aor",
@@ -3603,11 +5820,11 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "rock",
         "folk",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "aor",
@@ -3645,6 +5862,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:50:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e404f831d9a9ff1df186",
+      "name": "Radio Bob Ska Stream",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "ska",
+        "ska punk"
+      ],
+      "homepage": "https://www.radiobob.de/ska-stream",
+      "favicon": "https://upload.radiobob.de/production/static/1675427787166/icons/icon_64.cUMc34Nz2jc.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:04Z",
+      "streams": [
+        {
+          "id": "aws_01092e327115d27b64de",
+          "stationId": "awb_e404f831d9a9ff1df186",
+          "name": "Radio Bob Ska Stream",
+          "country": "DE",
+          "url": "https://regiocast.streamabc.net/regc-radiobobska6892150-mp3-192-1651077",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ce4975d8-1972-46d6-a46a-6450968d7cce"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:20:30Z"
         }
       ]
     },
@@ -3699,9 +5956,9 @@
         "en"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "aor",
@@ -3818,9 +6075,9 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "pop",
         "electronic",
         "metal",
+        "pop",
         "punk"
       ],
       "tags": [
@@ -3871,8 +6128,8 @@
         "de"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -3907,6 +6164,47 @@
       ]
     },
     {
+      "id": "awb_9098a340c35d9944c12d",
+      "name": "riotradio",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "punk oi ska"
+      ],
+      "homepage": "http://riotradio.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:23:20Z",
+      "streams": [
+        {
+          "id": "aws_369acf8780134026e491",
+          "stationId": "awb_9098a340c35d9944c12d",
+          "name": "riotradio",
+          "country": "DE",
+          "url": "http://stream.laut.fm/riotradio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960ccd8c-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:16:48Z"
+        }
+      ]
+    },
+    {
       "id": "awb_38fbe9a81cc40f99f5e4",
       "name": "Rock Antenne - Punk Rock",
       "country": "DE",
@@ -3915,7 +6213,8 @@
         "de"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk rock"
@@ -3957,7 +6256,8 @@
       ],
       "categories": [
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "dark wave",
@@ -4024,10 +6324,10 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "rock",
         "electronic",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative / indie",
@@ -4076,9 +6376,9 @@
         "de"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -4166,9 +6466,9 @@
         "en"
       ],
       "categories": [
-        "rock",
         "jazz",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -4211,6 +6511,52 @@
       ]
     },
     {
+      "id": "awb_0d6bf8a584835c8bf4f7",
+      "name": "Tonaktiv",
+      "country": "DE",
+      "subdivision": "SH",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "electronic",
+        "punk"
+      ],
+      "tags": [
+        "alternative",
+        "electronic",
+        "indie",
+        "new wave",
+        "post-punk"
+      ],
+      "homepage": "https://laut.fm/tonaktiv",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:19:36Z",
+      "streams": [
+        {
+          "id": "aws_4bd9cce5f9b74a2db8c7",
+          "stationId": "awb_0d6bf8a584835c8bf4f7",
+          "name": "Tonaktiv",
+          "country": "DE",
+          "url": "http://stream.laut.fm/tonaktiv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3a26efde-8b70-11e9-ad01-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:23:38Z"
+        }
+      ]
+    },
+    {
       "id": "awb_38bd4662fc82fe5307fc",
       "name": "Classic Rock Danmark",
       "country": "DK",
@@ -4219,8 +6565,8 @@
         "da"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "classic rock",
@@ -4261,14 +6607,66 @@
       ]
     },
     {
+      "id": "awb_19fe23338272e7165e3d",
+      "name": "La Antiradio",
+      "country": "ES",
+      "subdivision": null,
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "electronic",
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "ai music",
+        "metal",
+        "pop",
+        "post-punk",
+        "rock",
+        "techno"
+      ],
+      "homepage": "https://laantiradio.com/",
+      "favicon": "https://laantiradio.com/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-11T21:07:05Z",
+      "streams": [
+        {
+          "id": "aws_ebbe2bbb7f540c18d974",
+          "stationId": "awb_19fe23338272e7165e3d",
+          "name": "La Antiradio",
+          "country": "ES",
+          "url": "https://radio.laantiradio.com/listen/la_antiradio/laantiradio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cbb233ad-fad1-46e1-b89b-9389f457f204"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:07:06Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ab9a5a3cf06d6985b2be",
       "name": "Mariskal Rock",
       "country": "ES",
       "subdivision": "Madrid",
       "languages": [],
       "categories": [
-        "rock",
-        "punk"
+        "blues",
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -4322,11 +6720,11 @@
         "es"
       ],
       "categories": [
-        "pop",
-        "rock",
         "hip-hop",
         "oldies",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "80s",
@@ -4441,7 +6839,9 @@
         "es"
       ],
       "categories": [
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "boogaloo",
@@ -4489,13 +6889,15 @@
         "fr"
       ],
       "categories": [
-        "jazz",
+        "ambient",
+        "classical",
         "electronic",
-        "hip-hop",
         "folk",
-        "reggae",
+        "hip-hop",
+        "jazz",
+        "pop",
         "punk",
-        "ambient"
+        "reggae"
       ],
       "tags": [
         "ambient",
@@ -4565,9 +6967,10 @@
         "fr"
       ],
       "categories": [
-        "rock",
         "electronic",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "dance",
@@ -4621,8 +7024,8 @@
         "fr"
       ],
       "categories": [
-        "reggae",
-        "punk"
+        "punk",
+        "reggae"
       ],
       "tags": [
         "hardcore",
@@ -4667,9 +7070,9 @@
         "fr"
       ],
       "categories": [
-        "rock",
         "hip-hop",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "electro",
@@ -4713,8 +7116,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -4756,9 +7159,9 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "grunge",
@@ -4804,8 +7207,9 @@
         "pt"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "news",
+        "punk",
+        "rock"
       ],
       "tags": [
         "89.5 fm",
@@ -4864,8 +7268,8 @@
         "fr"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "garage",
@@ -4908,10 +7312,10 @@
         "fr"
       ],
       "categories": [
-        "rock",
         "jazz",
+        "punk",
         "reggae",
-        "punk"
+        "rock"
       ],
       "tags": [
         "electro",
@@ -4958,10 +7362,10 @@
         "fr"
       ],
       "categories": [
-        "rock",
         "blues",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "blues",
@@ -5052,11 +7456,11 @@
         "fr"
       ],
       "categories": [
-        "talk",
-        "rock",
         "electronic",
         "hip-hop",
-        "punk"
+        "punk",
+        "rock",
+        "talk"
       ],
       "tags": [
         "alternative / indie",
@@ -5113,15 +7517,15 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "rock",
-        "jazz",
+        "blues",
         "electronic",
         "hip-hop",
-        "reggae",
-        "blues",
+        "jazz",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "reggae",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -5203,8 +7607,8 @@
         "en"
       ],
       "categories": [
-        "reggae",
-        "punk"
+        "punk",
+        "reggae"
       ],
       "tags": [
         "punk",
@@ -5250,18 +7654,18 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "rock",
-        "jazz",
+        "ambient",
+        "blues",
+        "country",
         "electronic",
         "hip-hop",
-        "country",
-        "religious",
+        "jazz",
         "latin",
-        "reggae",
-        "blues",
+        "pop",
         "punk",
-        "ambient"
+        "reggae",
+        "religious",
+        "rock"
       ],
       "tags": [
         "78s",
@@ -5334,10 +7738,10 @@
       "subdivision": "Hertfordshire",
       "languages": [],
       "categories": [
-        "rock",
         "oldies",
+        "punk",
         "reggae",
-        "punk"
+        "rock"
       ],
       "tags": [
         "60s",
@@ -5418,6 +7822,53 @@
       ]
     },
     {
+      "id": "awb_455c92f13ddd56e486f0",
+      "name": "NARR Radio",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "electronic",
+        "punk",
+        "reggae"
+      ],
+      "tags": [
+        "dub",
+        "electronic dance music",
+        "electronic music",
+        "post punk",
+        "synth"
+      ],
+      "homepage": "https://narr.co.uk/",
+      "favicon": "https://i1.sndcdn.com/avatars-p15cV0HIDsNdztL7-SWXd2g-t500x500.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-14T08:26:21Z",
+      "streams": [
+        {
+          "id": "aws_be6555080bf24959755b",
+          "stationId": "awb_455c92f13ddd56e486f0",
+          "name": "NARR Radio",
+          "country": "GB",
+          "url": "https://narr-f63a1220.radiocult.fm/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6329a6ad-02e4-49ae-b870-8e0e189fb8c0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:13:20Z"
+        }
+      ]
+    },
+    {
       "id": "awb_23f28a41524514e2d417",
       "name": "Rock.Scot",
       "country": "GB",
@@ -5426,10 +7877,10 @@
         "en"
       ],
       "categories": [
-        "rock",
         "blues",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "blues",
@@ -5495,6 +7946,9 @@
         "en"
       ],
       "categories": [
+        "electronic",
+        "oldies",
+        "pop",
         "punk"
       ],
       "tags": [
@@ -5530,6 +7984,91 @@
       ]
     },
     {
+      "id": "awb_edb2262c794d3d67b794",
+      "name": "The Tube - Infinite Mixtapes | NTS",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "industrial",
+        "minimal wave",
+        "post-punk"
+      ],
+      "homepage": "https://www.nts.live/infinite-mixtapes/the-tube",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:11Z",
+      "streams": [
+        {
+          "id": "aws_765cc533726f787728e4",
+          "stationId": "awb_edb2262c794d3d67b794",
+          "name": "The Tube - Infinite Mixtapes | NTS",
+          "country": "GB",
+          "url": "https://stream-mixtape-geo.ntslive.net/mixtape26",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "38092925-71e6-4b59-a311-399c8d5431fa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:19:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a528dd5525e96defa420",
+      "name": "The Tube | NTS",
+      "country": "GB",
+      "subdivision": "London",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "avant-garde",
+        "industrial",
+        "minimal wave",
+        "post-punk"
+      ],
+      "homepage": "https://www.nts.live/infinite-mixtapes/the-tube",
+      "favicon": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:48:00Z",
+      "streams": [
+        {
+          "id": "aws_f08d952f0a94201a9528",
+          "stationId": "awb_a528dd5525e96defa420",
+          "name": "The Tube | NTS",
+          "country": "GB",
+          "url": "https://stream-mixtape-geo.ntslive.net/mixtape26",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cda70b2c-e8f0-4d05-9b74-dc26b0a187b1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:27:30Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6035a357384bfba84a45",
       "name": "Weymouth Rocks (Medium Bitrate)",
       "country": "GB",
@@ -5538,8 +8077,8 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk",
@@ -5583,10 +8122,11 @@
         "en"
       ],
       "categories": [
-        "talk",
         "electronic",
         "hip-hop",
-        "punk"
+        "news",
+        "punk",
+        "talk"
       ],
       "tags": [
         "antifa news",
@@ -5633,10 +8173,11 @@
       "subdivision": "Thessaloniki",
       "languages": [],
       "categories": [
-        "talk",
         "electronic",
         "hip-hop",
-        "punk"
+        "news",
+        "punk",
+        "talk"
       ],
       "tags": [
         "antifa news",
@@ -5685,8 +8226,10 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "hip-hop",
+        "punk",
+        "reggae",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -5739,10 +8282,11 @@
         "en"
       ],
       "categories": [
-        "talk",
-        "sports",
         "hip-hop",
-        "punk"
+        "news",
+        "punk",
+        "sports",
+        "talk"
       ],
       "tags": [
         "diy",
@@ -5799,9 +8343,9 @@
         "electronic",
         "hip-hop",
         "latin",
-        "reggae",
         "metal",
-        "punk"
+        "punk",
+        "reggae"
       ],
       "tags": [
         "alternative",
@@ -5857,7 +8401,8 @@
         "el"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk rock"
@@ -5940,10 +8485,10 @@
         "el"
       ],
       "categories": [
-        "rock",
-        "oldies",
         "metal",
-        "punk"
+        "oldies",
+        "punk",
+        "rock"
       ],
       "tags": [
         "80s",
@@ -6014,9 +8559,10 @@
         "en"
       ],
       "categories": [
-        "rock",
         "jazz",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -6071,9 +8617,11 @@
         "hr"
       ],
       "categories": [
-        "rock",
+        "blues",
         "metal",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "blues rock",
@@ -6118,11 +8666,11 @@
         "hr"
       ],
       "categories": [
-        "rock",
         "electronic",
         "hip-hop",
+        "punk",
         "religious",
-        "punk"
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -6179,10 +8727,10 @@
         "en"
       ],
       "categories": [
-        "rock",
         "oldies",
+        "punk",
         "reggae",
-        "punk"
+        "rock"
       ],
       "tags": [
         "60s",
@@ -6234,9 +8782,9 @@
         "he"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "indy",
@@ -6275,6 +8823,88 @@
       ]
     },
     {
+      "id": "awb_16ccb62cfbf13c976f93",
+      "name": "NEU RADIO",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "ambient",
+        "electronic",
+        "jazz",
+        "news",
+        "pop",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "afrobeats",
+        "alternative",
+        "ambient",
+        "arts",
+        "beats",
+        "black",
+        "breakbeat",
+        "cinema",
+        "culture",
+        "dub",
+        "electronic",
+        "electropop",
+        "experimental",
+        "funk",
+        "house",
+        "indie pop",
+        "indie rock",
+        "jazz",
+        "local news",
+        "minimal",
+        "minimal wave",
+        "music",
+        "new wave",
+        "news",
+        "nu-jazz",
+        "post-punk",
+        "post-rock",
+        "reggae",
+        "soul",
+        "synth",
+        "synthwave",
+        "world",
+        "worldbeat"
+      ],
+      "homepage": "https://www.neuradio.it/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_499659eb0da92802c90c",
+          "stationId": "awb_16ccb62cfbf13c976f93",
+          "name": "NEU RADIO",
+          "country": "IT",
+          "url": "https://nr9.newradio.it/proxy/ebaruffa?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "4d712fdb-596c-495a-80eb-6c0cf2c3e649",
+            "IT:neu-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:01:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5bf52fa34d3eead9747e",
       "name": "Radio Blackout",
       "country": "IT",
@@ -6283,9 +8913,9 @@
         "it"
       ],
       "categories": [
-        "talk",
+        "punk",
         "rock",
-        "punk"
+        "talk"
       ],
       "tags": [
         "alternative rock",
@@ -6328,9 +8958,10 @@
         "it"
       ],
       "categories": [
-        "news",
         "classical",
-        "punk"
+        "news",
+        "punk",
+        "rock"
       ],
       "tags": [
         "afrobeats",
@@ -6385,8 +9016,9 @@
         "it"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -6438,8 +9070,8 @@
       ],
       "categories": [
         "pop",
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -6496,6 +9128,51 @@
       ]
     },
     {
+      "id": "awb_690ca5b6e0672f20a2d9",
+      "name": "XWave Radio",
+      "country": "JP",
+      "subdivision": "Kobe",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "darkwave",
+        "ebm",
+        "gothic",
+        "industrial",
+        "post-punk"
+      ],
+      "homepage": "http://xwaveradio.org/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR7cP5IK-Znc_XP1IzQQmLE0eQFSfpLKTanmC9NqZ-bRenKauIZvw6lQ&s=10",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-14T13:58:04Z",
+      "streams": [
+        {
+          "id": "aws_3b51abd5e17b6b96a3df",
+          "stationId": "awb_690ca5b6e0672f20a2d9",
+          "name": "XWave Radio",
+          "country": "JP",
+          "url": "http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "64039cf5-d820-456c-9c12-7b5bdefc76ac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:42:40Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6cf1736837e4dd9ca3aa",
       "name": "Rock FM",
       "country": "LT",
@@ -6504,9 +9181,9 @@
         "lt"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "metal",
@@ -6551,9 +9228,9 @@
         "en"
       ],
       "categories": [
-        "rock",
         "oldies",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "2000s",
@@ -6602,11 +9279,11 @@
       "subdivision": "Ciudad de México",
       "languages": [],
       "categories": [
-        "rock",
-        "jazz",
         "folk",
+        "jazz",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "cantautor",
@@ -6657,11 +9334,11 @@
         "es"
       ],
       "categories": [
-        "rock",
-        "hip-hop",
-        "reggae",
         "blues",
-        "punk"
+        "hip-hop",
+        "punk",
+        "reggae",
+        "rock"
       ],
       "tags": [
         "blues",
@@ -6725,6 +9402,63 @@
       ]
     },
     {
+      "id": "awb_980fc6c0883fdce3978d",
+      "name": "Radio Estereo Playa",
+      "country": "MX",
+      "subdivision": "Quintana Roo",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "categories": [
+        "electronic",
+        "latin",
+        "oldies",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "balearic",
+        "cumbia",
+        "disco",
+        "funk",
+        "gothic rock",
+        "house",
+        "new wave",
+        "post-punk",
+        "salsa",
+        "synth-pop"
+      ],
+      "homepage": "https://radioestereoplaya.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-03-08T05:05:30Z",
+      "streams": [
+        {
+          "id": "aws_808a2369b160815590ff",
+          "stationId": "awb_980fc6c0883fdce3978d",
+          "name": "Radio Estereo Playa",
+          "country": "MX",
+          "url": "https://stream.zeno.fm/rrcwp4ehorpvv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f1d06a12-9df7-4600-8421-93b0624a1948"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:31:39Z"
+        }
+      ]
+    },
+    {
       "id": "awb_814018b716017d87d71a",
       "name": "Reactor 105.7 FM XHOF",
       "country": "MX",
@@ -6734,8 +9468,8 @@
         "es"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "105.7 fm",
@@ -6781,8 +9515,8 @@
         "en"
       ],
       "categories": [
-        "news",
         "community",
+        "news",
         "pop",
         "punk"
       ],
@@ -6827,14 +9561,81 @@
       ]
     },
     {
+      "id": "awb_f5c923c2536a4ee5e3fe",
+      "name": "Radio Robotic",
+      "country": "NZ",
+      "subdivision": "Hamilton",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "electronic",
+        "pop",
+        "punk"
+      ],
+      "tags": [
+        "alternative",
+        "dream pop",
+        "electronic",
+        "indie",
+        "post punk",
+        "shoegaze"
+      ],
+      "homepage": "https://www.radiorobotic.com/",
+      "favicon": "https://static.wixstatic.com/media/3e4049_7800f3b666694fbfab646b89828ce32d%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/3e4049_7800f3b666694fbfab646b89828ce32d%7emv2.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-05-25T00:36:58Z",
+      "streams": [
+        {
+          "id": "aws_56916e0f946ca0bffcd1",
+          "stationId": "awb_f5c923c2536a4ee5e3fe",
+          "name": "Radio Robotic",
+          "country": "NZ",
+          "url": "https://stream.zeno.fm/rhscse2a41zuv",
+          "codec": "aac",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8d5a16cc-b77d-41e9-9257-21cb894beaba"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:41:56Z"
+        },
+        {
+          "id": "aws_033980bcdf1acfd5399f",
+          "stationId": "awb_f5c923c2536a4ee5e3fe",
+          "name": "Radio Robotic",
+          "country": "NZ",
+          "url": "https://stream.zeno.fm/x4hneey2vwzuv",
+          "codec": "aac",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "95c328e9-49a3-46e7-ae10-2e0c54715fab"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:44:24Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f64ca977efaa2b874bb5",
       "name": "Scream Radio",
       "country": "PH",
       "subdivision": "San Jose",
       "languages": [],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -6899,9 +9700,10 @@
         "pl"
       ],
       "categories": [
-        "reggae",
         "metal",
-        "punk"
+        "punk",
+        "reggae",
+        "rock"
       ],
       "tags": [
         "independent music",
@@ -6949,9 +9751,9 @@
       "subdivision": "Dolnyśląsk",
       "languages": [],
       "categories": [
-        "rock",
         "electronic",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "electronic",
@@ -6993,9 +9795,9 @@
       "subdivision": "Vojvodina",
       "languages": [],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "metal",
@@ -7038,11 +9840,11 @@
         "sr"
       ],
       "categories": [
-        "rock",
-        "jazz",
         "blues",
+        "jazz",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -7092,9 +9894,9 @@
         "ru"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -7225,6 +10027,7 @@
         "ru"
       ],
       "categories": [
+        "folk",
         "punk"
       ],
       "tags": [
@@ -7311,7 +10114,8 @@
         "ru"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "oi punk rock",
@@ -7354,6 +10158,7 @@
         "ru"
       ],
       "categories": [
+        "pop",
         "punk"
       ],
       "tags": [
@@ -7482,7 +10287,8 @@
         "ru"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk",
@@ -7513,6 +10319,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:36:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f8c36312350eed395d74",
+      "name": "Radio Caprice - Alt Country",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "country",
+        "punk"
+      ],
+      "tags": [
+        "alternative country",
+        "americana",
+        "bluestate country",
+        "cow punk",
+        "insurgent country",
+        "no depression"
+      ],
+      "homepage": "http://radcap.ru/altcountry.html",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:11Z",
+      "streams": [
+        {
+          "id": "aws_c832d4ed8d1ce4fbe1f9",
+          "stationId": "awb_f8c36312350eed395d74",
+          "name": "Radio Caprice - Alt Country",
+          "country": "RU",
+          "url": "http://79.111.119.111:9103/",
+          "codec": "aac+",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "961d7c0b-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:28:27Z"
         }
       ]
     },
@@ -7553,6 +10404,125 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:45:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_959354661dca8841621b",
+      "name": "Radio Caprice - Garage Punk",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "garage punk"
+      ],
+      "homepage": "http://radcap.ru/garagepunk.html",
+      "favicon": "http://radcap.ru/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:06Z",
+      "streams": [
+        {
+          "id": "aws_99719a977be11b5f37d3",
+          "stationId": "awb_959354661dca8841621b",
+          "name": "Radio Caprice - Garage Punk",
+          "country": "RU",
+          "url": "http://79.120.12.130:8002/garagepunk",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "707d88e7-de9b-431d-9426-13f64bce2938"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:54:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1376d3d6b5399aee7c6d",
+      "name": "Radio Caprice - Oi! / Street Punk",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "oi!",
+        "street punk"
+      ],
+      "homepage": "http://radcap.ru/oistreetpunk.html",
+      "favicon": "http://radcap.ru/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:06Z",
+      "streams": [
+        {
+          "id": "aws_4444dc954e03aceecc48",
+          "stationId": "awb_1376d3d6b5399aee7c6d",
+          "name": "Radio Caprice - Oi! / Street Punk",
+          "country": "RU",
+          "url": "http://79.111.119.111:8002/oistreetpunk",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "94dd3221-4108-4041-952d-f9aae149ca7d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:09:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_22f8639e2274fd9c7607",
+      "name": "Radio Caprice - Pop Punk",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "pop",
+        "punk"
+      ],
+      "tags": [
+        "pop punk"
+      ],
+      "homepage": "http://radcap.ru/poppunk.html",
+      "favicon": "http://radcap.ru/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:06Z",
+      "streams": [
+        {
+          "id": "aws_5eefa0712ccb190cd2a9",
+          "stationId": "awb_22f8639e2274fd9c7607",
+          "name": "Radio Caprice - Pop Punk",
+          "country": "RU",
+          "url": "http://79.111.14.76:8002/poppunk",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5ac3bb80-b896-420e-bde1-05e20cc75fa8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:01:15Z"
         }
       ]
     },
@@ -7604,7 +10574,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk rock"
@@ -7637,6 +10608,47 @@
       ]
     },
     {
+      "id": "awb_8a8bc1b1a20040f0fea7",
+      "name": "Radio Caprice - Ska Punk / Core / Two Tone",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "ska punk / core / two tone"
+      ],
+      "homepage": "http://radcap.ru/skapunk.html",
+      "favicon": "http://radcap.ru/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:10:16Z",
+      "streams": [
+        {
+          "id": "aws_b2a33fb4acc76ed8d592",
+          "stationId": "awb_8a8bc1b1a20040f0fea7",
+          "name": "Radio Caprice - Ska Punk / Core / Two Tone",
+          "country": "RU",
+          "url": "http://79.111.119.111:8004/skapunk",
+          "codec": "aac+",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3cf8f90f-0776-44ef-ac57-1eb446abfbe4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:21:20Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6d1e98a3c4b322a024a9",
       "name": "rock.irk.ru :: main-mix",
       "country": "RU",
@@ -7646,10 +10658,11 @@
         "ru"
       ],
       "categories": [
-        "rock",
-        "jazz",
         "folk",
-        "punk"
+        "jazz",
+        "metal",
+        "punk",
+        "rock"
       ],
       "tags": [
         "acoustic",
@@ -7720,7 +10733,8 @@
         "ru"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk rock"
@@ -7753,15 +10767,54 @@
       ]
     },
     {
+      "id": "awb_5fc87aff496412cf595f",
+      "name": "Ska Punk / Core / Two Tone - Caprice Radio",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "ska punk"
+      ],
+      "homepage": "http://radcap.ru/skapunk.html",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:07Z",
+      "streams": [
+        {
+          "id": "aws_701b4f06039d47a13f49",
+          "stationId": "awb_5fc87aff496412cf595f",
+          "name": "Ska Punk / Core / Two Tone - Caprice Radio",
+          "country": "RU",
+          "url": "http://79.111.119.111:8000/skapunk",
+          "codec": "aac+",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0a34847f-ad43-4f5e-943a-b9658e8b3df2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:02:21Z"
+        }
+      ]
+    },
+    {
       "id": "awb_adb5f66bb45c8cda817d",
       "name": "ГУСЬ.Рок",
       "country": "RU",
       "subdivision": null,
       "languages": [],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -7800,6 +10853,54 @@
       ]
     },
     {
+      "id": "awb_128191c5c0e6c887d50d",
+      "name": "ГУСЬ.Рус",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "pop music",
+        "post-punk",
+        "russia",
+        "russian hits",
+        "russian music",
+        "russian pop",
+        "russian rave",
+        "russian rock"
+      ],
+      "homepage": "https://radiogoose.ru/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:45Z",
+      "streams": [
+        {
+          "id": "aws_89056c210c52fdd5560f",
+          "stationId": "awb_128191c5c0e6c887d50d",
+          "name": "ГУСЬ.Рус",
+          "country": "RU",
+          "url": "https://stream1.radiogoose.ru/listen/rus/play",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "48e973c2-d8c5-47e0-9b63-7f3c78bbbbbc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:38:18Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ec83ac4b671c9137d8bd",
       "name": "Дигравиль ФМ",
       "country": "RU",
@@ -7808,8 +10909,8 @@
         "ru"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -7947,8 +11048,8 @@
         "sv"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk",
@@ -7995,8 +11096,8 @@
         "uk"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "mixed",
@@ -8058,10 +11159,10 @@
       "subdivision": "Choose One...",
       "languages": [],
       "categories": [
-        "rock",
         "hip-hop",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "metal",
@@ -8106,8 +11207,8 @@
         "eng"
       ],
       "categories": [
-        "talk",
-        "punk"
+        "punk",
+        "talk"
       ],
       "tags": [
         "indie",
@@ -8151,7 +11252,8 @@
         "en"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "anarchy",
@@ -8186,6 +11288,96 @@
       ]
     },
     {
+      "id": "awb_677da8251d43b7c23f3c",
+      "name": "BAGeL RADIO",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "garage rock",
+        "gothy gloomy synthy dancey stuff",
+        "indie",
+        "indie rock",
+        "new wave",
+        "no testosterock",
+        "noise",
+        "post punk",
+        "psych rock",
+        "rock"
+      ],
+      "homepage": "https://www.bagelradio.com/",
+      "favicon": "https://images.squarespace-cdn.com/content/v1/616462d943ce4468804f598c/6ed86b2b-86ba-4ba3-995c-c150b6e15832/bagel_logo_sutro_8_flat.jpg",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-01-15T06:54:30Z",
+      "streams": [
+        {
+          "id": "aws_cbd2355cc99c0f996f47",
+          "stationId": "awb_677da8251d43b7c23f3c",
+          "name": "BAGeL Radio",
+          "country": "US",
+          "url": "http://ais-sa3.cdnstream1.com/2606_128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fc1f86d6-a932-47b5-9d97-806a9ca1de80"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:55:37Z"
+        },
+        {
+          "id": "aws_8aa5e46f9c8021f5ba62",
+          "stationId": "awb_677da8251d43b7c23f3c",
+          "name": "BAGeL RADIO",
+          "country": "US",
+          "url": "https://ais-sa3.cdnstream1.com/2606_128.aac",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b57e54bd-98d1-411a-a974-54b8ab02b4b8",
+            "f02d07b4-f1fe-4836-b202-242c4104a929"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:11:49Z"
+        },
+        {
+          "id": "aws_d060d33da1424e939d5b",
+          "stationId": "awb_677da8251d43b7c23f3c",
+          "name": "BAGeL Radio",
+          "country": "US",
+          "url": "https://ais-sa3.cdnstream1.com/2606_64.aac",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6b0af86f-e44d-467f-922a-2df545083a19"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:29:24Z"
+        }
+      ]
+    },
+    {
       "id": "awb_35544b0abeb6394ecfa4",
       "name": "Big R Radio - 80s Punk Rock",
       "country": "US",
@@ -8194,7 +11386,8 @@
         "en"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "80's",
@@ -8228,6 +11421,54 @@
       ]
     },
     {
+      "id": "awb_922715dd9043dbc6b3d3",
+      "name": "Big Sonic Heaven",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop",
+        "punk"
+      ],
+      "tags": [
+        "darkwave",
+        "dream-pop",
+        "post-punk",
+        "shoegaze",
+        "synthpop",
+        "trip-hop"
+      ],
+      "homepage": "https://www.bigsonicheaven.com/",
+      "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/16/b7/b1/16b7b17a-f66c-15e9-bfe1-98d1848e9c1e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-09-19T12:01:34Z",
+      "streams": [
+        {
+          "id": "aws_ceee246cb82df2a5f199",
+          "stationId": "awb_922715dd9043dbc6b3d3",
+          "name": "Big Sonic Heaven",
+          "country": "US",
+          "url": "https://radio.streemlion.com:4040/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "106f8e9a-a732-4250-a483-540a34de216e",
+            "7c97b62b-88b5-4c75-a265-f225b531ad00"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:39:14Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5eae78dfa654362621c3",
       "name": "Bob's Ska Radio",
       "country": "US",
@@ -8236,8 +11477,8 @@
         "en"
       ],
       "categories": [
-        "reggae",
-        "punk"
+        "punk",
+        "reggae"
       ],
       "tags": [
         "punk",
@@ -8279,7 +11520,9 @@
       "subdivision": "Kansas City KS",
       "languages": [],
       "categories": [
-        "punk"
+        "punk",
+        "religious",
+        "rock"
       ],
       "tags": [
         "christian music",
@@ -8358,6 +11601,102 @@
       ]
     },
     {
+      "id": "awb_0fe851265ab752375a74",
+      "name": "Emo Radio",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal",
+        "pop",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "emo",
+        "hard rock",
+        "metal",
+        "pop punk",
+        "rock"
+      ],
+      "homepage": "https://www.iheart.com/",
+      "favicon": "https://www.iheart.com/",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-01T22:50:20Z",
+      "streams": [
+        {
+          "id": "aws_37fbbe5a98706282ce6f",
+          "stationId": "awb_0fe851265ab752375a74",
+          "name": "Emo Radio",
+          "country": "US",
+          "url": "https://n3fb-e2.revma.ihrhls.com/zc9380/63_zun0p3v3w43c02/playlist.m3u8?streamid=9380&zip=&clientType=web&host=webapp.US&modTime=1769985886674&profileid=11932796403&terminalid=159&territory=US&us_privacy=1-N-&callLetters=FEEL-FL&devicename=web-desktop&stationid=9380&dist=iheart&subscription_type=free",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "eccc7850-9467-4e3b-b62a-6385f2a875c2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:38:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_28695d3bded60fa808cb",
+      "name": "FREAKS ONLY FM",
+      "country": "US",
+      "subdivision": "CALIFORNIA",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "electronic",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "disco",
+        "electronic",
+        "house",
+        "indie rock",
+        "italo disco",
+        "post-punk"
+      ],
+      "homepage": "https://freaksonly.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-15T10:48:51Z",
+      "streams": [
+        {
+          "id": "aws_dcb4261dd78c5748a79e",
+          "stationId": "awb_28695d3bded60fa808cb",
+          "name": "FREAKS ONLY FM",
+          "country": "US",
+          "url": "https://streaming.live365.com/a77923",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "07a81af3-003c-4af3-b8eb-a67bd8d1418a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:00:05Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3467d7e681f3d2fafbd3",
       "name": "FreaksOnly",
       "country": "US",
@@ -8409,16 +11748,17 @@
       "subdivision": "Cleveland, Ohio",
       "languages": [],
       "categories": [
-        "talk",
-        "rock",
-        "jazz",
-        "electronic",
-        "hip-hop",
-        "folk",
-        "reggae",
         "blues",
+        "classical",
+        "electronic",
+        "folk",
+        "hip-hop",
+        "jazz",
         "metal",
-        "punk"
+        "punk",
+        "reggae",
+        "rock",
+        "talk"
       ],
       "tags": [
         "beats",
@@ -8488,9 +11828,9 @@
         "en"
       ],
       "categories": [
-        "rock",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -8546,6 +11886,144 @@
       ]
     },
     {
+      "id": "awb_f3ff0d5187c790cfeed1",
+      "name": "HighFi Dream",
+      "country": "US",
+      "subdivision": "CA",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "electronic",
+        "pop",
+        "punk"
+      ],
+      "tags": [
+        "alternative / indie",
+        "dream pop",
+        "dream-pop",
+        "electronic",
+        "house/soulful/deep house",
+        "indie",
+        "melodic house",
+        "neo soul",
+        "neo-soul",
+        "new wave",
+        "post punk",
+        "psychedelic",
+        "shoegaze",
+        "synthpop",
+        "synthwave",
+        "trip-hop"
+      ],
+      "homepage": "https://highfidream.com/",
+      "favicon": "https://img1.wsimg.com/isteam/ip/56a4969b-e591-4c57-b68b-f6a75cf900d2/blob-c3b0c70.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T18:13:45Z",
+      "streams": [
+        {
+          "id": "aws_c78414d090190cf54cea",
+          "stationId": "awb_f3ff0d5187c790cfeed1",
+          "name": "HighFi Dream",
+          "country": "US",
+          "url": "https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq",
+          "codec": "ogg",
+          "bitrate": 1200,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "77113a1f-0c93-46ea-9005-2546d33963fe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:13:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e1cedc7db543a3c37d65",
+      "name": "Holidaze Halloween Radio",
+      "country": "US",
+      "subdivision": "Tennessee",
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "halloween",
+        "horror punk"
+      ],
+      "homepage": "https://www.holidazehalloweenradio.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-16T07:07:28Z",
+      "streams": [
+        {
+          "id": "aws_c5f78d391a888189adf6",
+          "stationId": "awb_e1cedc7db543a3c37d65",
+          "name": "Holidaze Halloween Radio",
+          "country": "US",
+          "url": "https://ec3.yesstreaming.net:4355/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb5021fb-d906-458c-a270-8a5a658d21cb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:03:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fd0f4aa8a6f771f11a15",
+      "name": "Holidaze Halloween Radio",
+      "country": "US",
+      "subdivision": "Tennessee",
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "halloween",
+        "horror punk"
+      ],
+      "homepage": "https://www.darkhollowradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-16T07:04:33Z",
+      "streams": [
+        {
+          "id": "aws_019e61ffa9f8cbe90b09",
+          "stationId": "awb_fd0f4aa8a6f771f11a15",
+          "name": "Holidaze Halloween Radio",
+          "country": "US",
+          "url": "https://ec3.yesstreaming.net:4355/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7115038f-011c-49f6-9a75-6f7441015f07"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:50:27Z"
+        }
+      ]
+    },
+    {
       "id": "awb_96071a9fd8dfdab9d4d7",
       "name": "idobi Radio",
       "country": "US",
@@ -8554,8 +12032,8 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -8616,7 +12094,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk",
@@ -8658,9 +12137,10 @@
         "en"
       ],
       "categories": [
-        "rock",
         "electronic",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -8726,10 +12206,10 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "pop",
-        "rock",
         "oldies",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "2000s",
@@ -8779,14 +12259,14 @@
         "en"
       ],
       "categories": [
-        "talk",
-        "rock",
-        "jazz",
+        "ambient",
         "electronic",
-        "hip-hop",
         "folk",
+        "hip-hop",
+        "jazz",
         "punk",
-        "ambient"
+        "rock",
+        "talk"
       ],
       "tags": [
         "afrobeats",
@@ -8877,6 +12357,50 @@
       ]
     },
     {
+      "id": "awb_09a707c4eff8cf45f00b",
+      "name": "KSDJ 90.7",
+      "country": "US",
+      "subdivision": "South Dakota",
+      "languages": [],
+      "categories": [
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "indie",
+        "punk or anything similar",
+        "rock",
+        "screamo"
+      ],
+      "homepage": "https://www.ksdjradio.com/",
+      "favicon": "https://cdn-profiles.tunein.com/s35264/images/logod.png?t=638096379650000000",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:45Z",
+      "streams": [
+        {
+          "id": "aws_8610ae2279e45c5b1ba6",
+          "stationId": "awb_09a707c4eff8cf45f00b",
+          "name": "KSDJ 90.7",
+          "country": "US",
+          "url": "https://ksdj.stream.creek.fm/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "381f5fb5-61c4-47ca-93bb-78ef8dc42ebc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:05:03Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c984f1c1e47fc0c5db77",
       "name": "KXSF",
       "country": "US",
@@ -8885,11 +12409,11 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "jazz",
-        "electronic",
         "country",
-        "punk"
+        "electronic",
+        "jazz",
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -8943,9 +12467,9 @@
         "en"
       ],
       "categories": [
-        "rock",
         "oldies",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "20s",
@@ -9001,8 +12525,8 @@
       "subdivision": "CA",
       "languages": [],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -9088,7 +12612,8 @@
         "en"
       ],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk rock"
@@ -9147,7 +12672,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk",
@@ -9189,8 +12715,8 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -9236,13 +12762,13 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "rock",
-        "jazz",
+        "blues",
         "country",
         "folk",
-        "blues",
-        "punk"
+        "jazz",
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "americana",
@@ -9304,8 +12830,8 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alt rock",
@@ -9348,7 +12874,9 @@
         "en"
       ],
       "categories": [
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "pop music",
@@ -9383,6 +12911,52 @@
       ]
     },
     {
+      "id": "awb_a08a576cfacd000344c6",
+      "name": "Radio Mutation",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "garage punk",
+        "garage rock",
+        "mutant rock",
+        "psychedelic",
+        "surf rock"
+      ],
+      "homepage": "https://radiomutation.com/",
+      "favicon": "https://radiomutation.com/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-22T21:44:29Z",
+      "streams": [
+        {
+          "id": "aws_a2847dbbbf7f87a52bd8",
+          "stationId": "awb_a08a576cfacd000344c6",
+          "name": "Radio Mutation",
+          "country": "US",
+          "url": "https://fm.radiomutation.com/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2d8f653c-0709-42b0-bc76-71434a8d31b7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:50:59Z"
+        }
+      ]
+    },
+    {
       "id": "awb_230eeaa6e0aaf6044989",
       "name": "REAL PUNK RADIO",
       "country": "US",
@@ -9391,8 +12965,8 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "punk",
@@ -9428,6 +13002,202 @@
       ]
     },
     {
+      "id": "awb_cda7911749856ebf3fa0",
+      "name": "SomaFM Metal Detector (128k AAC)",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "black metal",
+        "doom metal",
+        "post-punk",
+        "progressive rock",
+        "sludge",
+        "stoner rock",
+        "trash"
+      ],
+      "homepage": "https://somafm.com/metal/",
+      "favicon": "https://somafm.com/img3/metal-400.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T16:22:19Z",
+      "streams": [
+        {
+          "id": "aws_c88e1377915df4262665",
+          "stationId": "awb_cda7911749856ebf3fa0",
+          "name": "SomaFM Metal Detector (128k AAC)",
+          "country": "US",
+          "url": "https://ice5.somafm.com/metal-128-aac",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960de41d-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:22:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c43e81bd9ad7db6cc122",
+      "name": "SomaFM Metal Detector (128k MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "black metal",
+        "doom metal",
+        "post-punk",
+        "progressive rock",
+        "sludge",
+        "stoner rock",
+        "trash"
+      ],
+      "homepage": "https://somafm.com/metal/",
+      "favicon": "https://somafm.com/img3/metal-400.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T12:48:44Z",
+      "streams": [
+        {
+          "id": "aws_ca96b6c27222522cbdb2",
+          "stationId": "awb_c43e81bd9ad7db6cc122",
+          "name": "SomaFM Metal Detector (128k MP3)",
+          "country": "US",
+          "url": "https://ice5.somafm.com/metal-128-mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9a5811ad-f4b5-11e8-a471-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:48:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b1d8368bcd2aacb5620c",
+      "name": "SomaFM Metal Detector (32k AAC)",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "black metal",
+        "doom metal",
+        "post-punk",
+        "progressive rock",
+        "sludge",
+        "stoner rock",
+        "trash"
+      ],
+      "homepage": "https://somafm.com/metal/",
+      "favicon": "https://somafm.com/img3/metal-400.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T13:05:27Z",
+      "streams": [
+        {
+          "id": "aws_8bb67d83e2d4ac1aad2d",
+          "stationId": "awb_b1d8368bcd2aacb5620c",
+          "name": "SomaFM Metal Detector (32k AAC)",
+          "country": "US",
+          "url": "https://ice2.somafm.com/metal-32-aac",
+          "codec": "aac",
+          "bitrate": 40,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "42b89f69-bff0-48ba-ae66-a554e84414d7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:05:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0ca80b7beb0994c7632b",
+      "name": "SomaFM Metal Detector (64k AAC)",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "black metal",
+        "doom metal",
+        "post-punk",
+        "progressive rock",
+        "sludge",
+        "stoner rock",
+        "trash"
+      ],
+      "homepage": "https://somafm.com/metal/",
+      "favicon": "https://somafm.com/img3/metal-400.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T16:10:29Z",
+      "streams": [
+        {
+          "id": "aws_3b8ccfb30e91f86e32f0",
+          "stationId": "awb_0ca80b7beb0994c7632b",
+          "name": "SomaFM Metal Detector (64k AAC)",
+          "country": "US",
+          "url": "https://ice5.somafm.com/metal-64-aac",
+          "codec": "aac",
+          "bitrate": 80,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6424a5b9-1401-415c-a243-6da3fc06dd47"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:10:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3915b3903aca0b10325e",
       "name": "Substrate Radio",
       "country": "US",
@@ -9436,9 +13206,9 @@
         "en"
       ],
       "categories": [
-        "rock",
+        "ambient",
         "punk",
-        "ambient"
+        "rock"
       ],
       "tags": [
         "ambient",
@@ -9484,10 +13254,10 @@
         "en"
       ],
       "categories": [
-        "rock",
         "hip-hop",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "classic rock",
@@ -9531,8 +13301,8 @@
       "languages": [],
       "categories": [
         "college",
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative / indie",
@@ -9574,8 +13344,8 @@
       "subdivision": "Pennsylvania",
       "languages": [],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative rock",
@@ -9620,10 +13390,10 @@
         "zh"
       ],
       "categories": [
-        "jazz",
         "classical",
-        "hip-hop",
         "folk",
+        "hip-hop",
+        "jazz",
         "punk"
       ],
       "tags": [
@@ -9711,6 +13481,51 @@
       ]
     },
     {
+      "id": "awb_909cd338899c3a57fc63",
+      "name": "XWave Radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "dark wave",
+        "darkwave",
+        "ebm",
+        "gothic",
+        "post-punk"
+      ],
+      "homepage": "http://xwaveradio.org/",
+      "favicon": "http://xwaveradio.org/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:53:08Z",
+      "streams": [
+        {
+          "id": "aws_cde51919cb26f08180f7",
+          "stationId": "awb_909cd338899c3a57fc63",
+          "name": "XWave Radio",
+          "country": "US",
+          "url": "http://vps-260b74e9.vps.ovh.net:8000/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "961e9fd1-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:37:12Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5c3ed44caf2a7df3aa4c",
       "name": "Radio 098",
       "country": "UY",
@@ -9720,11 +13535,11 @@
         "es"
       ],
       "categories": [
-        "pop",
-        "rock",
         "jazz",
         "oldies",
-        "punk"
+        "pop",
+        "punk",
+        "rock"
       ],
       "tags": [
         "2000s",
@@ -9771,9 +13586,10 @@
       "subdivision": "GAUTENG",
       "languages": [],
       "categories": [
-        "rock",
+        "folk",
         "metal",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -9808,6 +13624,188 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:11:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5e6f0c26a8e64302f224",
+      "name": "Express 106.6FM",
+      "country": "ZA",
+      "subdivision": "Gauteng",
+      "languages": [
+        "af",
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "country",
+        "electronic",
+        "folk",
+        "hip-hop",
+        "metal",
+        "pop",
+        "punk",
+        "reggae",
+        "religious",
+        "rock"
+      ],
+      "tags": [
+        "christian",
+        "christian blues",
+        "christian contemporary",
+        "christian country",
+        "christian dance",
+        "christian edm",
+        "christian folk",
+        "christian hip hop",
+        "christian hits",
+        "christian indie",
+        "christian metal",
+        "christian music",
+        "christian pop",
+        "christian praise",
+        "christian praise&worship",
+        "christian punk",
+        "christian r&b",
+        "christian rap",
+        "christian reggae",
+        "christian rock",
+        "christian top 20",
+        "christian top40",
+        "christian worship",
+        "gospel blues",
+        "gospel contemporary",
+        "gospel country",
+        "gospel dance",
+        "gospel edm",
+        "gospel folk",
+        "gospel hip-hop",
+        "gospel hits",
+        "gospel indie",
+        "gospel metal",
+        "gospel music",
+        "gospel pop",
+        "gospel praise",
+        "gospel punk",
+        "gospel r&b",
+        "gospel rap",
+        "gospel reggae"
+      ],
+      "homepage": "https://www.express-fm.co.za/listen",
+      "favicon": "https://www.express-fm.co.za/image/catalog/express_fm_logo_in_colour.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-15T18:38:35Z",
+      "streams": [
+        {
+          "id": "aws_cfc94d3eff86ebe182e5",
+          "stationId": "awb_5e6f0c26a8e64302f224",
+          "name": "Express 106.6FM",
+          "country": "ZA",
+          "url": "http://198.7.59.28:34235/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6e3c6a56-f0e1-4ac8-a640-af2c3103f430"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:21:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cb7918934554b072d433",
+      "name": "Express-FM Digital",
+      "country": "ZA",
+      "subdivision": "Gauteng",
+      "languages": [
+        "af",
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "country",
+        "electronic",
+        "folk",
+        "hip-hop",
+        "metal",
+        "pop",
+        "punk",
+        "reggae",
+        "religious",
+        "rock"
+      ],
+      "tags": [
+        "christian",
+        "christian blues",
+        "christian contemporary",
+        "christian country",
+        "christian dance",
+        "christian edm",
+        "christian folk",
+        "christian hip-hop",
+        "christian hits",
+        "christian indie",
+        "christian metal",
+        "christian music",
+        "christian pop",
+        "christian praise",
+        "christian punk",
+        "christian r&b",
+        "christian rap",
+        "christian reggae",
+        "christian rock",
+        "christian top40",
+        "christian worship",
+        "gospel",
+        "gospel blues",
+        "gospel contemporary",
+        "gospel country",
+        "gospel dance",
+        "gospel edm",
+        "gospel folk",
+        "gospel hip-hop",
+        "gospel hits",
+        "gospel indie",
+        "gospel metal",
+        "gospel music",
+        "gospel pop",
+        "gospel praise",
+        "gospel punk",
+        "gospel r&b",
+        "gospel rap",
+        "gospel reggae",
+        "gospel rock"
+      ],
+      "homepage": "https://www.express-fm.co.za/",
+      "favicon": "https://www.express-fm.co.za/image/catalog/express_fm_logo_in_colour.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:23:58Z",
+      "streams": [
+        {
+          "id": "aws_33378c623acf9b7e4f2f",
+          "stationId": "awb_cb7918934554b072d433",
+          "name": "Express-FM Digital",
+          "country": "ZA",
+          "url": "http://198.7.59.28:34235/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c29a8ef0-f80c-4263-a371-061e503d34b7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:41:26Z"
         }
       ]
     },
@@ -9863,6 +13861,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
+        "folk",
+        "metal",
         "punk"
       ],
       "tags": [
@@ -9912,8 +13912,8 @@
         "ru"
       ],
       "categories": [
-        "rock",
-        "punk"
+        "punk",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -9944,6 +13944,103 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:15:44Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f60e55292557fea8e271",
+      "name": "Radio Shadowplay",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "pop",
+        "punk"
+      ],
+      "tags": [
+        "alternative",
+        "darkwave",
+        "electropop",
+        "gothic",
+        "indie",
+        "new-wave",
+        "post-punk",
+        "shoegaze",
+        "synth-pop"
+      ],
+      "homepage": "https://laut.fm/radio-shadowplay",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:03Z",
+      "streams": [
+        {
+          "id": "aws_d02b1d04abf9ec36245c",
+          "stationId": "awb_f60e55292557fea8e271",
+          "name": "Radio Shadowplay",
+          "country": "ZZ",
+          "url": "http://stream.laut.fm/radio-shadowplay",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0950a1b2-33c3-4318-94d7-629cffa978fe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:23:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3956be45666652897107",
+      "name": "Schallgrenzen",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "folk",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "alternative rock",
+        "folk",
+        "gothic",
+        "indie",
+        "post-punk",
+        "post-rock",
+        "progressive rock",
+        "shoegaze"
+      ],
+      "homepage": "https://laut.fm/schallgrenzen",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:03Z",
+      "streams": [
+        {
+          "id": "aws_e6ae7a17a41c259af143",
+          "stationId": "awb_3956be45666652897107",
+          "name": "Schallgrenzen",
+          "country": "ZZ",
+          "url": "http://stream.laut.fm/schallgrenzen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9983e7bb-1a7c-4a6a-a300-5729ecb58dd8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:17:00Z"
         }
       ]
     },

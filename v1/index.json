@@ -1,29 +1,46 @@
 {
-  "generatedAt": "2026-10-14T02:01:45.492Z",
+  "generatedAt": "2026-10-14T02:16:53.755Z",
   "schemaVersion": 1,
-  "stationCount": 54229,
-  "streamCount": 57409,
+  "stationCount": 54230,
+  "streamCount": 57410,
   "countryCount": 243,
   "languageCount": 166,
   "categoryCount": 25,
-  "databaseGeneratedAt": "2026-10-14T01:44:10.357Z",
-  "streamsGeneratedAt": "2026-10-14T01:51:09.314Z",
+  "databaseGeneratedAt": "2026-10-14T02:09:00.510Z",
+  "streamsGeneratedAt": "2026-10-14T02:10:42.802Z",
   "databaseSchemaVersion": 1,
   "streamsSchemaVersion": 1,
+  "sourceSnapshots": {
+    "database": {
+      "commit": "8aa248db4529469412b92606449c924b0817339e",
+      "generatedAt": "2026-10-14T02:09:00.510Z",
+      "schemaVersion": 1
+    },
+    "streams": {
+      "commit": "ee552c580e265042df2f733dc343add6392e6944",
+      "generatedAt": "2026-10-14T02:10:42.802Z",
+      "schemaVersion": 1,
+      "databaseGeneratedAt": "2026-10-14T02:09:00.510Z",
+      "idStrategy": "source-provenance-v1"
+    }
+  },
   "quality": {
     "database": {
-      "withHomepage": 51724,
-      "withFavicon": 33454,
+      "withHomepage": 51725,
+      "withFavicon": 33455,
       "withLanguage": 34284,
-      "withCategory": 23053,
-      "unknownCountry": 1101
+      "withCategory": 26528,
+      "unknownCountry": 1101,
+      "withType": 2547
     },
     "streams": {
       "withCodec": 57392,
       "withBitrate": 48530,
       "hls": 3850,
-      "sourceCheckOk": 57409,
-      "unknownCountry": 1211
+      "sourceCheckOk": 57410,
+      "unknownCountry": 1211,
+      "identityReused": 57409,
+      "identityNew": 1
     }
   },
   "routes": {

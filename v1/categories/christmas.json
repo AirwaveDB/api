@@ -1,6 +1,6 @@
 {
   "id": "christmas",
-  "stationCount": 119,
+  "stationCount": 252,
   "stations": [
     {
       "id": "awb_1a5f119da8fb7ad873f5",
@@ -11,8 +11,8 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "christmas"
+        "christmas",
+        "pop"
       ],
       "tags": [
         "christmas",
@@ -131,6 +131,402 @@
       ]
     },
     {
+      "id": "awb_2ed5b09dd058605b0ab0",
+      "name": "Radio Xmas",
+      "country": "AT",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.radio-xmas.at/",
+      "favicon": "http://www.radio-xmas.at/assets/img/santa.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:24:51Z",
+      "streams": [
+        {
+          "id": "aws_24695f81266ec0ad0958",
+          "stationId": "awb_2ed5b09dd058605b0ab0",
+          "name": "Radio Xmas",
+          "country": "AT",
+          "url": "http://www.radio-xmas.at:443/xmas?1512905036085",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "962ee480-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:08:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d7d2e94e34c7d0ea25a1",
+      "name": "All Time Hits Radio Christmas - Melbourne (MP3)",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "classical"
+      ],
+      "tags": [
+        "christmas music",
+        "classical",
+        "holiday",
+        "seasonal"
+      ],
+      "homepage": "https://djr0607.wixsite.com/hitsradiochristmas",
+      "favicon": "https://i.ibb.co/wBT2K4h/734706-255f5d1e6c924022a55a96996dd5e596-mv2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:20:38Z",
+      "streams": [
+        {
+          "id": "aws_94ca0ae92461b9c8bc49",
+          "stationId": "awb_d7d2e94e34c7d0ea25a1",
+          "name": "All Time Hits Radio Christmas - Melbourne (MP3)",
+          "country": "AU",
+          "url": "http://167.114.11.80:2044/;",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "242c9e34-9d89-417d-baa0-84bde2bd67c9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:09:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b39ab8c85803bdcc44ea",
+      "name": "Australian Digital Radio Network - Christmas Channel (MP3)",
+      "country": "AU",
+      "subdivision": "Sydney NSW",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.australiandigitalradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:41:29Z",
+      "streams": [
+        {
+          "id": "aws_5196fa5d6f68599174be",
+          "stationId": "awb_b39ab8c85803bdcc44ea",
+          "name": "Australian Digital Radio Network - Christmas Channel (MP3)",
+          "country": "AU",
+          "url": "http://abm21.com.au:8000/CONTAINER124",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a365a5bb-885b-4f48-bbb8-0b1a41e3bbc3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:24:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_646987cfc294b1ca1a8c",
+      "name": "Australian Digital Radio Network - Christmas Country (MP3)",
+      "country": "AU",
+      "subdivision": "Sydney NSW",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "country"
+      ],
+      "tags": [
+        "christmas music",
+        "country"
+      ],
+      "homepage": "http://www.australiandigitalradio.com/",
+      "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:31:29Z",
+      "streams": [
+        {
+          "id": "aws_25cdf5a64690ff4a8f0c",
+          "stationId": "awb_646987cfc294b1ca1a8c",
+          "name": "Australian Digital Radio Network - Christmas Country (MP3)",
+          "country": "AU",
+          "url": "http://abm22.com.au:8000/CONTAINER173",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2f7b8675-77e4-4028-95ea-4239901f1e38"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:30:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_867013e88a9f02f9563e",
+      "name": "Australian Digital Radio Network - Christmas Dance (MP3)",
+      "country": "AU",
+      "subdivision": "Sydney NSW",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "dance"
+      ],
+      "homepage": "http://www.australiandigitalradio.com/",
+      "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:46:02Z",
+      "streams": [
+        {
+          "id": "aws_a069d32f7bb55fb63e60",
+          "stationId": "awb_867013e88a9f02f9563e",
+          "name": "Australian Digital Radio Network - Christmas Dance (MP3)",
+          "country": "AU",
+          "url": "http://abm22.com.au:8000/CONTAINER50",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dbcf4658-b5c7-4abd-afef-62522d899e94"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:26:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a77104e73da6e13e18fd",
+      "name": "Australian Digital Radio Network - Kids Christmas Music (MP3)",
+      "country": "AU",
+      "subdivision": "Sydney NSW",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "kids"
+      ],
+      "tags": [
+        "christmas music",
+        "kids"
+      ],
+      "homepage": "http://www.australiandigitalradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:30:34Z",
+      "streams": [
+        {
+          "id": "aws_62e98ba1595596325737",
+          "stationId": "awb_a77104e73da6e13e18fd",
+          "name": "Australian Digital Radio Network - Kids Christmas Music (MP3)",
+          "country": "AU",
+          "url": "http://abm21.com.au:8000/CONTAINER22",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af03782e-4c82-4fee-a420-5b43a95f6e92"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:08:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_18e45bc780d10115ea1d",
+      "name": "Treasure Emporium Christmas Radio - Central Coast (MP3)",
+      "country": "AU",
+      "subdivision": "New South Wales",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.treasure-emporium.com.au/",
+      "favicon": "https://www.treasure-emporium.com.au/favicon.ico",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-01-15T05:01:43Z",
+      "streams": [
+        {
+          "id": "aws_39a02a9f4efafb4ba495",
+          "stationId": "awb_18e45bc780d10115ea1d",
+          "name": "Treasure Emporium Christmas Radio - Central Coast (MP3)",
+          "country": "AU",
+          "url": "http://stream.zeno.fm/5z3f8h42c48uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2e2ece70-aecf-4f43-9635-860d5230e712",
+            "91476dc9-ccfd-45d7-a1ac-156181b782a3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:38:19Z"
+        },
+        {
+          "id": "aws_eceacdfca25808199f21",
+          "stationId": "awb_18e45bc780d10115ea1d",
+          "name": "Treasure Emporium Christmas Radio - Central Coast (MP3)",
+          "country": "AU",
+          "url": "http://stream.zeno.fm/gker4h42c48uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c43feb7e-8b6d-4c15-b7f0-808b6b722382"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:39:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9de59d3f0109321d07b1",
+      "name": "Treasure Emporium Christmas Radio (MP3)",
+      "country": "AU",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.treasure-emporium.com.au/",
+      "favicon": "https://i.ibb.co/1bDxv2J/image.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:44:56Z",
+      "streams": [
+        {
+          "id": "aws_d161a74ce6fd607a6dbb",
+          "stationId": "awb_9de59d3f0109321d07b1",
+          "name": "Treasure Emporium Christmas Radio (MP3)",
+          "country": "AU",
+          "url": "http://stream.zeno.fm/gker4h42c48uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "77290e0b-32f6-4658-b7b0-fe4f63db2700"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:44:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4bd7e10e47254403f547",
+      "name": "Kerstradio Noordzee",
+      "country": "BE",
+      "subdivision": "West-Vlaanderen, Oostende",
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.radionoordzee105.be/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:12Z",
+      "streams": [
+        {
+          "id": "aws_77643649490e98e56f5a",
+          "stationId": "awb_4bd7e10e47254403f547",
+          "name": "Kerstradio Noordzee",
+          "country": "BE",
+          "url": "http://stream.noordzee105.be:8000/krn",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "49499424-92f5-42f1-97a0-ea0e778c5759"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:23:50Z"
+        }
+      ]
+    },
+    {
       "id": "awb_34d1497eeeacfcd717dd",
       "name": "Metro Love Xmas Radio",
       "country": "BG",
@@ -227,6 +623,254 @@
       ]
     },
     {
+      "id": "awb_84340903d2bf8aa8a793",
+      "name": "Christmas Crooners Radio (MP3)",
+      "country": "CA",
+      "subdivision": "Quebec",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://christmas-crooners.com/",
+      "favicon": "https://i.ibb.co/LP19k2L/images.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:30:27Z",
+      "streams": [
+        {
+          "id": "aws_57263d00442c123453ca",
+          "stationId": "awb_84340903d2bf8aa8a793",
+          "name": "Christmas Crooners Radio (MP3)",
+          "country": "CA",
+          "url": "http://cheetah.streemlion.com:3040/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3aaa685e-3d96-468a-8275-b1af715c1330"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_275aa8759eab46b85afe",
+      "name": "Christmas Songs Radio (MP3)",
+      "country": "CA",
+      "subdivision": "Quebec",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://christmassongsradio.com/",
+      "favicon": "https://i.ibb.co/80F1Tt9/379113600-862436885351326-685316686628482702-n.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:49:33Z",
+      "streams": [
+        {
+          "id": "aws_b9175fd946ca4c5cdd2f",
+          "stationId": "awb_275aa8759eab46b85afe",
+          "name": "Christmas Songs Radio (MP3)",
+          "country": "CA",
+          "url": "http://cheetah.streemlion.com:1050/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "315fceb4-cf54-4399-b130-6ee6a6a480f5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:07:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ad246e2c6727a84ffb8b",
+      "name": "Happy Christmas Radio (AAC)",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.happychristmasradio.net/",
+      "favicon": "https://i.ibb.co/swbSVDt/125492851-3426508000731508-5074256668395448619-n.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:25:31Z",
+      "streams": [
+        {
+          "id": "aws_d1780eeff2fbd45a8ba3",
+          "stationId": "awb_ad246e2c6727a84ffb8b",
+          "name": "Happy Christmas Radio (AAC)",
+          "country": "CA",
+          "url": "http://radio1.streamserver.link/radio/8070/hcr-aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5a8f04c2-d306-4065-a31d-32fb64e68cf8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:01:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_52eda6be71e69998f5bc",
+      "name": "iHeart The Holidays (AAC+)",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.iheart.com/live/iheart-the-holidays-8451/",
+      "favicon": "https://i.ibb.co/89gt1Q4/66fd9811a64b223110d9bf4f.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T05:31:15Z",
+      "streams": [
+        {
+          "id": "aws_0072522463f0495d40cd",
+          "stationId": "awb_52eda6be71e69998f5bc",
+          "name": "iHeart The Holidays (AAC+)",
+          "country": "CA",
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1AAC.aac",
+          "codec": "aac+",
+          "bitrate": 40,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8b06d8d4-01ae-4a81-9c98-72425ce4a79e",
+            "a1f49a50-6409-4922-86f7-579de3a05a9d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:13:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_aa8ca8d45d321aec3e0f",
+      "name": "iHeart The Holidays (MP3)",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.iheart.com/live/iheart-the-holidays-8451/",
+      "favicon": "https://i.ibb.co/89gt1Q4/66fd9811a64b223110d9bf4f.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T07:56:58Z",
+      "streams": [
+        {
+          "id": "aws_6b5ae2782943e5ec3470",
+          "stationId": "awb_aa8ca8d45d321aec3e0f",
+          "name": "iHeart The Holidays (MP3)",
+          "country": "CA",
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1.mp3",
+          "codec": "mp3",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "51239cdd-d426-4473-9872-365c2468f644",
+            "c6e06489-671e-4745-8eb2-c5c5789dae56"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:44:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f0a8f5018251272232a1",
+      "name": "Merry Christmas Radio (AAC)",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.merrychristmasradio.net/",
+      "favicon": "https://i.ibb.co/spfFbG5/128277752-2144226782374218-2658818537882362272-n.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:05:36Z",
+      "streams": [
+        {
+          "id": "aws_7976e46336d99a6509e2",
+          "stationId": "awb_f0a8f5018251272232a1",
+          "name": "Merry Christmas Radio (AAC)",
+          "country": "CA",
+          "url": "http://radio1.streamserver.link/radio/8090/mcr-aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9bf81771-4a67-4c45-ad12-cc140c746f0c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:39:19Z"
+        }
+      ]
+    },
+    {
       "id": "awb_afe998e1ff69e7fa892f",
       "name": "Radio Bellissima Christmas",
       "country": "CA",
@@ -235,7 +879,9 @@
         "en"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "classical",
+        "rock"
       ],
       "tags": [
         "christmas",
@@ -272,6 +918,96 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:42:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c28de72de8043587cffb",
+      "name": "1.FM - Always-Christmas Radio",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.1.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:47:54Z",
+      "streams": [
+        {
+          "id": "aws_a2eb012979c217e0afd9",
+          "stationId": "awb_c28de72de8043587cffb",
+          "name": "1.FM - Always-Christmas Radio",
+          "country": "CH",
+          "url": "http://strm112.1.fm/christmas_mobile_mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "961e21c6-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:45:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5536a16f2081ee8f9b2a",
+      "name": "Christmas Radio",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "classical",
+        "country",
+        "religious"
+      ],
+      "tags": [
+        "christian contemporary",
+        "christmas music",
+        "classical",
+        "country",
+        "rnb",
+        "soul"
+      ],
+      "homepage": "http://www.christmasradio.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:12:03Z",
+      "streams": [
+        {
+          "id": "aws_45479c706b126a81c3a2",
+          "stationId": "awb_5536a16f2081ee8f9b2a",
+          "name": "Christmas Radio",
+          "country": "CH",
+          "url": "http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96365abe-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:38:38Z"
         }
       ]
     },
@@ -321,6 +1057,155 @@
       ]
     },
     {
+      "id": "awb_edf65bca69b8d2767a80",
+      "name": "Radio R",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian contemporary",
+        "christian praise&worship",
+        "christmas music"
+      ],
+      "homepage": "https://radio-r.ch/",
+      "favicon": "https://radio-r.ch/wp-content/uploads/2020/04/cropped-radio-r-180x180.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T02:22:41Z",
+      "streams": [
+        {
+          "id": "aws_ab15412e2eb7cd699559",
+          "stationId": "awb_edf65bca69b8d2767a80",
+          "name": "Radio R",
+          "country": "CH",
+          "url": "http://radior.ice.infomaniak.ch/radior-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "373a9d4a-c528-11e9-8502-52543be04c81",
+            "493c5a77-75b4-4a2e-908b-1fb3d334eea2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:06:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_05ed6c35217ef2c8e70a",
+      "name": "Radio R Louange",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian contemporary",
+        "christian praise&worship",
+        "christmas music"
+      ],
+      "homepage": "https://radio-r.ch/",
+      "favicon": "https://radio-r.ch/wp-content/uploads/2024/03/radio-r-louange_cover_cropOK_1080x1080px-170x170.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_95b45307ce688a733468",
+          "stationId": "awb_05ed6c35217ef2c8e70a",
+          "name": "Radio R Louange",
+          "country": "CH",
+          "url": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1989d84f-3412-4913-9473-956e0ea0f720"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:09:23Z"
+        },
+        {
+          "id": "aws_35127b9ec20c6a040d3e",
+          "stationId": "awb_05ed6c35217ef2c8e70a",
+          "name": "Radio R Louange",
+          "country": "CH",
+          "url": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac?ver=666978",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "5b884101-b14c-4377-8b96-7593ade7a2d1",
+            "CH:radio-r-louange"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:26:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b1abbe3d65bbbc2ae980",
+      "name": "RADIO VISION",
+      "country": "CL",
+      "subdivision": "Ñuble",
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://radiovisionweb.cl/",
+      "favicon": "https://radiovisionweb.cl/wp-content/uploads/2021/07/new_end_logo_mini.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-21T03:10:36Z",
+      "streams": [
+        {
+          "id": "aws_7130fb58b86322f2c730",
+          "stationId": "awb_b1abbe3d65bbbc2ae980",
+          "name": "RADIO VISION",
+          "country": "CL",
+          "url": "https://neondex.cl/listen/radio_vision/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f51b44c2-5078-42dc-9a24-72ad3f3f5842"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:03:12Z"
+        }
+      ]
+    },
+    {
       "id": "awb_d83908089295e680801e",
       "name": "Diciembre Radio Colombia",
       "country": "CO",
@@ -329,8 +1214,8 @@
         "es"
       ],
       "categories": [
-        "latin",
-        "christmas"
+        "christmas",
+        "latin"
       ],
       "tags": [
         "christmas music",
@@ -369,6 +1254,111 @@
       ]
     },
     {
+      "id": "awb_d5540a8b1e8f86244de6",
+      "name": "Rádio Koleda",
+      "country": "CZ",
+      "subdivision": null,
+      "languages": [
+        "cs"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://radia.cz/radia/radio-koleda",
+      "favicon": "https://radia.cz/media/images/0001/01/95db039bf174984aa88b002e45148ee1603fce6d.svg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_1ff9f8b34a3323d9a5cb",
+          "stationId": "awb_d5540a8b1e8f86244de6",
+          "name": "Rádio Koleda",
+          "country": "CZ",
+          "url": "https://ice3.radia.cz/koleda_64.aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "4a84dbc3-3203-4ef4-b5b6-4babd9ce4ae8",
+            "CZ:radio-koleda"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:02:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c9c72ef9d381ba2663e4",
+      "name": "Radio7",
+      "country": "CZ",
+      "subdivision": null,
+      "languages": [
+        "cs"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "christmas music"
+      ],
+      "homepage": "https://radio7.cz/",
+      "favicon": "https://radio7.cz/images/logo/r7_logo_transp_inv.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T07:54:52Z",
+      "streams": [
+        {
+          "id": "aws_5bc1007d4eaa888ac29c",
+          "stationId": "awb_c9c72ef9d381ba2663e4",
+          "name": "Radio7",
+          "country": "CZ",
+          "url": "http://icecast8.play.cz/radio7-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d4482e6e-7a01-45b3-addb-a88224d39026"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:50:26Z"
+        },
+        {
+          "id": "aws_0a0d4f191736f05c4ad9",
+          "stationId": "awb_c9c72ef9d381ba2663e4",
+          "name": "Radio7",
+          "country": "CZ",
+          "url": "http://icecast8.play.cz/radio7-32aac",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9a8a6f92-c904-4586-ac23-15ccef1c2c41"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:05:21Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c1c977fd2c7f65c384d0",
       "name": "__CHRISTMAS CHOR__ by rautemusik (rm.fm)",
       "country": "DE",
@@ -377,7 +1367,8 @@
         "de"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "choral",
@@ -425,7 +1416,8 @@
         "en"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "christmas",
@@ -474,8 +1466,9 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "christmas"
+        "christmas",
+        "classical",
+        "pop"
       ],
       "tags": [
         "baladas",
@@ -524,7 +1517,8 @@
         "en"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "balada",
@@ -574,9 +1568,9 @@
         "de"
       ],
       "categories": [
+        "christmas",
         "jazz",
-        "oldies",
-        "christmas"
+        "oldies"
       ],
       "tags": [
         "christmas",
@@ -687,9 +1681,9 @@
         "de"
       ],
       "categories": [
+        "christmas",
         "jazz",
-        "oldies",
-        "christmas"
+        "oldies"
       ],
       "tags": [
         "christmas",
@@ -817,7 +1811,8 @@
         "en"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "christmas",
@@ -863,8 +1858,8 @@
         "en"
       ],
       "categories": [
-        "religious",
-        "christmas"
+        "christmas",
+        "religious"
       ],
       "tags": [
         "americana",
@@ -914,8 +1909,8 @@
         "en"
       ],
       "categories": [
-        "religious",
-        "christmas"
+        "christmas",
+        "religious"
       ],
       "tags": [
         "ballade",
@@ -953,6 +1948,47 @@
       ]
     },
     {
+      "id": "awb_5c73e2884f5b592b2783",
+      "name": "1000 Christmashits",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://1000christmashits.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:29:43Z",
+      "streams": [
+        {
+          "id": "aws_937198f78070a1af1fd2",
+          "stationId": "awb_5c73e2884f5b592b2783",
+          "name": "1000 Christmashits",
+          "country": "DE",
+          "url": "http://1000christmashits.stream.laut.fm/1000christmashits",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9649d204-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:14:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2a47c2811d8bbacf25c4",
       "name": "1000 Weihnachten",
       "country": "DE",
@@ -962,7 +1998,8 @@
         "en"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "christmas",
@@ -994,6 +2031,90 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:25:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3e1ef58cdb0e3b05945d",
+      "name": "80s80s Christmas",
+      "country": "DE",
+      "subdivision": "Schleswig-Holstein",
+      "languages": [],
+      "categories": [
+        "christmas",
+        "oldies"
+      ],
+      "tags": [
+        "80s",
+        "christmas music"
+      ],
+      "homepage": "http://www.80s80s.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:03Z",
+      "streams": [
+        {
+          "id": "aws_8ca7f2b36578ac6ff908",
+          "stationId": "awb_3e1ef58cdb0e3b05945d",
+          "name": "80s80s Christmas",
+          "country": "DE",
+          "url": "http://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "963194ef-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:05:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1440e7c51d77bc2e4b61",
+      "name": "90s90s Christmas",
+      "country": "DE",
+      "subdivision": "Schleswig-Holstein",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "oldies"
+      ],
+      "tags": [
+        "90s",
+        "christmas music"
+      ],
+      "homepage": "http://www.90s90s.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:53:54Z",
+      "streams": [
+        {
+          "id": "aws_fdd2f9ea30642fd54e86",
+          "stationId": "awb_1440e7c51d77bc2e4b61",
+          "name": "90s90s Christmas",
+          "country": "DE",
+          "url": "http://streams.90s90s.de/xmas/mp3-192/streams.90s90s.de/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "140e101c-068c-45a0-8060-c03cde63743c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:19:36Z"
         }
       ]
     },
@@ -1089,8 +2210,8 @@
         "de"
       ],
       "categories": [
-        "classical",
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "christmas",
@@ -1121,6 +2242,88 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:30:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_03056181883fcab79522",
+      "name": "Antenne Bayern - Weihnachtshits",
+      "country": "DE",
+      "subdivision": "Bavaria",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.antenne.de/programm/empfang/antenne-bayern-hoeren-internet",
+      "favicon": "http://www.antenne.de/logos/station-antenne-bayern/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:54:35Z",
+      "streams": [
+        {
+          "id": "aws_cf0194985cb18a869262",
+          "stationId": "awb_03056181883fcab79522",
+          "name": "Antenne Bayern - Weihnachtshits",
+          "country": "DE",
+          "url": "http://mp3channels.webradio.antenne.de/weihnachts-hits",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960d031f-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:13:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ef258cdebc246d61a0e6",
+      "name": "Antenne Bayern Weihnachts-Hits",
+      "country": "DE",
+      "subdivision": "Bavaria",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.antenne.de/",
+      "favicon": "http://www.antenne.de/logos/station-antenne-bayern/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:36:39Z",
+      "streams": [
+        {
+          "id": "aws_cd319181e116694699ca",
+          "stationId": "awb_ef258cdebc246d61a0e6",
+          "name": "Antenne Bayern Weihnachts-Hits",
+          "country": "DE",
+          "url": "http://stream.antenne.de/weihnachts-hits.aac",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5c2dcd03-f17c-11e8-a471-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:29:02Z"
         }
       ]
     },
@@ -1165,6 +2368,97 @@
       ]
     },
     {
+      "id": "awb_13be440b1f823e4b77f6",
+      "name": "Antenne Niedersachsen X-Mas",
+      "country": "DE",
+      "subdivision": "Lower Saxony",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "ambient",
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "ambient",
+        "christmas music",
+        "easy listening",
+        "holiday",
+        "instrumental",
+        "pop",
+        "seasonal",
+        "top 40"
+      ],
+      "homepage": "http://webradio.antenne.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:00:55Z",
+      "streams": [
+        {
+          "id": "aws_3f34ee19331b618191c4",
+          "stationId": "awb_13be440b1f823e4b77f6",
+          "name": "Antenne Niedersachsen X-Mas",
+          "country": "DE",
+          "url": "http://stream.antenne.com/antenne-nds-event01/mp3-192/linux/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96104917-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:44:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_22aa24542cb42292ccb0",
+      "name": "antenne Thüringen Weihnachtshits",
+      "country": "DE",
+      "subdivision": "Thuringia",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.antennethueringen.de/",
+      "favicon": "http://www.antennethueringen.de/assets/favicons/apple-icon-120x120.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:30:19Z",
+      "streams": [
+        {
+          "id": "aws_d5a415ba259c4078e933",
+          "stationId": "awb_22aa24542cb42292ccb0",
+          "name": "antenne Thüringen Weihnachtshits",
+          "country": "DE",
+          "url": "https://edge82.streamonkey.net/antthue-weihnachtshits/stream/mp3?aggregator=rewrite/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aeb71f1f-0e78-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T22:23:12Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f4d37df4c236f3220c81",
       "name": "Best Of Rock.FM X-Mas Rock",
       "country": "DE",
@@ -1173,7 +2467,8 @@
         "de"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "rock"
       ],
       "tags": [
         "chrismas",
@@ -1211,6 +2506,47 @@
       ]
     },
     {
+      "id": "awb_b5ea48d37fc097b3f76b",
+      "name": "Christmas by Rautemusik",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.christmas-channel.com/",
+      "favicon": "https://christmas-channel.com/wp-content/themes/christmaschannel2020/img/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:44:13Z",
+      "streams": [
+        {
+          "id": "aws_f0cf230796f4c81f36c7",
+          "stationId": "awb_b5ea48d37fc097b3f76b",
+          "name": "Christmas by Rautemusik",
+          "country": "DE",
+          "url": "http://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=http&_art=dD0xNzkxNzUzMzExJmQ9YjUxZDE2MmYyYjU1YmQzYmJhZDI",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960cc274-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:11:56Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6a03231f976bf8bf714f",
       "name": "CHRISTMAS PIANO by Epic Piano",
       "country": "DE",
@@ -1219,9 +2555,9 @@
         "de"
       ],
       "categories": [
+        "christmas",
         "classical",
-        "religious",
-        "christmas"
+        "religious"
       ],
       "tags": [
         "christian",
@@ -1317,7 +2653,9 @@
         "en"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "pop",
+        "rock"
       ],
       "tags": [
         "christmas",
@@ -1408,6 +2746,67 @@
       ]
     },
     {
+      "id": "awb_5c8c47d301662ac4d7be",
+      "name": "delta radio X-Mas",
+      "country": "DE",
+      "subdivision": "Schleswig-Holstein",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "alternative",
+        "christmas music"
+      ],
+      "homepage": "http://www.deltaradio.de/",
+      "favicon": "https://upload.deltaradio.de/production/static/1718010612769/icons/icon_64.800a00w0080.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T05:27:18Z",
+      "streams": [
+        {
+          "id": "aws_1c57a8a4942e101a1dcf",
+          "stationId": "awb_5c8c47d301662ac4d7be",
+          "name": "delta radio X-Mas",
+          "country": "DE",
+          "url": "http://streams.deltaradio.de/x-mas/aac-64/radiosure/",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9648b521-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:05:56Z"
+        },
+        {
+          "id": "aws_4c31a2c62b9ca7b9bb8e",
+          "stationId": "awb_5c8c47d301662ac4d7be",
+          "name": "delta radio X-Mas",
+          "country": "DE",
+          "url": "http://streams.deltaradio.de/x-mas/mp3-192/radiosure/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9646f1db-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:33:14Z"
+        }
+      ]
+    },
+    {
       "id": "awb_623b43a77ef58d5a2789",
       "name": "DivingRadio (laut.fm/diving)",
       "country": "DE",
@@ -1417,10 +2816,10 @@
         "en"
       ],
       "categories": [
+        "christmas",
         "news",
-        "pop",
         "oldies",
-        "christmas"
+        "pop"
       ],
       "tags": [
         "00s",
@@ -1489,8 +2888,8 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "christmas"
+        "christmas",
+        "rock"
       ],
       "tags": [
         "christmas",
@@ -1544,10 +2943,10 @@
         "de"
       ],
       "categories": [
-        "jazz",
-        "religious",
         "ambient",
-        "christmas"
+        "christmas",
+        "jazz",
+        "religious"
       ],
       "tags": [
         "christian",
@@ -1581,6 +2980,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T21:25:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4818d1b2d5e4e060beb9",
+      "name": "EPIC CLASSICAL - Classical Christmas",
+      "country": "DE",
+      "subdivision": "north rhine westphalia",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "classical",
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "christmas music",
+        "classic",
+        "classical",
+        "klassik",
+        "klassik weihnachten christmas"
+      ],
+      "homepage": "https://epic-classical.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:34:09Z",
+      "streams": [
+        {
+          "id": "aws_51e1754afa1577f53c05",
+          "stationId": "awb_4818d1b2d5e4e060beb9",
+          "name": "EPIC CLASSICAL - Classical Christmas",
+          "country": "DE",
+          "url": "https://stream.epic-classical.com/classical-christmas",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "82322c46-f07f-482b-8cac-342acc72180a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:28:39Z"
         }
       ]
     },
@@ -1700,8 +3148,8 @@
         "de"
       ],
       "categories": [
-        "oldies",
-        "christmas"
+        "christmas",
+        "oldies"
       ],
       "tags": [
         "80's",
@@ -1795,6 +3243,47 @@
       ]
     },
     {
+      "id": "awb_130d31cfdfd680979a58",
+      "name": "Hit Radio FFH - Weihnachtsradio",
+      "country": "DE",
+      "subdivision": "Hessen",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.ffh.de/",
+      "favicon": "https://www.ffh.de/android-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:59:24Z",
+      "streams": [
+        {
+          "id": "aws_04873c1aa0154f6478e2",
+          "stationId": "awb_130d31cfdfd680979a58",
+          "name": "Hit Radio FFH - Weihnachtsradio",
+          "country": "DE",
+          "url": "http://mp3.ffh.de/ffhchannels/hqspezial1.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9608ac90-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:11:49Z"
+        }
+      ]
+    },
+    {
       "id": "awb_dbeca97acd8c1054b5d7",
       "name": "Hit Radio N1 - Weihnachtsradio",
       "country": "DE",
@@ -1833,6 +3322,95 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:53:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2afdecdbba341c9f6e4e",
+      "name": "Kinder-Weihnacht",
+      "country": "DE",
+      "subdivision": "Rhineland-Palatinate",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "kids"
+      ],
+      "tags": [
+        "children",
+        "christmas music",
+        "kids",
+        "kinderlieder",
+        "remagen"
+      ],
+      "homepage": "http://www.kinderlieder-radio.de/index.php?station=kinderweihnachtsradio",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:26:48Z",
+      "streams": [
+        {
+          "id": "aws_eab0a684f471aaaf1998",
+          "stationId": "awb_2afdecdbba341c9f6e4e",
+          "name": "Kinder-Weihnacht",
+          "country": "DE",
+          "url": "http://kinderweihnachtsradio.stream.laut.fm/kinderweihnachtsradio?uuid=9e68ac75-627b-ea79-49bc-2a0b6efc97a8&t302=2026-10-12_18-37-29",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4eb958f1-203c-11e8-a334-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:40:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3609dc43793e5a798f86",
+      "name": "Klassik Radio - Klassische Weihnachten",
+      "country": "DE",
+      "subdivision": "Bavaria",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "classical"
+      ],
+      "tags": [
+        "christmas music",
+        "classical"
+      ],
+      "homepage": "https://www.klassikradio.de/home/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:29:20Z",
+      "streams": [
+        {
+          "id": "aws_3151220c8ce2c4662b9a",
+          "stationId": "awb_3609dc43793e5a798f86",
+          "name": "Klassik Radio - Klassische Weihnachten",
+          "country": "DE",
+          "url": "https://klassikr.streamabc.net/klr_iy6mpimjwei_n5e7-aac-128-5331326?sABC=6758900q%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=13161515-30nq-42r4-no2p-42n979n7n853&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3D13161515-30ad-42e4-ab2c-42a979a7a853%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3D13161515-30ad-42e4-ab2c-42a979a7a853%26rmsid%3Dselect-web;skey:1733857293",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4b2e077c-dd76-44de-a274-b0ca105fb879"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:23:55Z"
         }
       ]
     },
@@ -1879,14 +3457,76 @@
       ]
     },
     {
+      "id": "awb_e13e3ddf54d7a5da61cc",
+      "name": "Klassik Radio Christmas",
+      "country": "DE",
+      "subdivision": "Bavaria",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "classical"
+      ],
+      "tags": [
+        "christmas music",
+        "classical"
+      ],
+      "homepage": "https://www.klassikradio.de/klassik-radio-select/weihnachtsmusik/",
+      "favicon": "https://www.radio.net/300/klassikradiochristmas.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-14T23:52:39Z",
+      "streams": [
+        {
+          "id": "aws_a5924505b6c8f20b930b",
+          "stationId": "awb_e13e3ddf54d7a5da61cc",
+          "name": "Klassik Radio - Christmas",
+          "country": "DE",
+          "url": "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642?sABC=67588s30%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=s625qppp-7p99-475q-nq51-or7sn3889q24&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web;skey:1733857072",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1d2e6c6f-212b-4b71-a3c1-38ebf022a310"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:18:27Z"
+        },
+        {
+          "id": "aws_b4049d358de7772b4198",
+          "stationId": "awb_e13e3ddf54d7a5da61cc",
+          "name": "Klassik Radio Christmas",
+          "country": "DE",
+          "url": "http://stream.klassikradio.de/christmas/mp3-192",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d0d76708-a66e-4189-8131-a30e043856d8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:32:41Z"
+        }
+      ]
+    },
+    {
       "id": "awb_bfbc44805c8102842935",
       "name": "Klassik Xmas",
       "country": "DE",
       "subdivision": null,
       "languages": [],
       "categories": [
-        "classical",
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "christmas music",
@@ -1929,9 +3569,9 @@
         "de"
       ],
       "categories": [
+        "christmas",
         "pop",
-        "rock",
-        "christmas"
+        "rock"
       ],
       "tags": [
         "christmas",
@@ -2126,7 +3766,8 @@
         "de"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "christmas",
@@ -2216,11 +3857,11 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "rock",
-        "jazz",
+        "christmas",
         "classical",
-        "christmas"
+        "jazz",
+        "pop",
+        "rock"
       ],
       "tags": [
         "advent",
@@ -2283,6 +3924,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T02:51:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3336290d7659f260b808",
+      "name": "RADIO BOB! BOBs Christmas Rock",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "rock"
+      ],
+      "tags": [
+        "christmas music",
+        "rock"
+      ],
+      "homepage": "http://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:44:02Z",
+      "streams": [
+        {
+          "id": "aws_d469db4978fc1a329075",
+          "stationId": "awb_3336290d7659f260b808",
+          "name": "RADIO BOB! BOBs Christmas Rock",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9618cd5e-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:45:08Z"
         }
       ]
     },
@@ -2369,6 +4053,92 @@
       ]
     },
     {
+      "id": "awb_51ef5ef0c7ddb6f470e7",
+      "name": "Radio FFN Tannenbaum",
+      "country": "DE",
+      "subdivision": "Lower Saxony",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "christmas music",
+        "pop"
+      ],
+      "homepage": "https://www.ffn.de/musik/webradio/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:53:08Z",
+      "streams": [
+        {
+          "id": "aws_47e6d849db7eb6e40bd6",
+          "stationId": "awb_51ef5ef0c7ddb6f470e7",
+          "name": "Radio FFN Tannenbaum",
+          "country": "DE",
+          "url": "http://player.ffn.de/ffntannenbaum.m3u",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960ee062-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:07:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_98b0b9c9faabcc314f71",
+      "name": "Radio Freundes-Dienst",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "news"
+      ],
+      "tags": [
+        "christmas music",
+        "news"
+      ],
+      "homepage": "https://www.radiofd.org/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-04-17T09:34:22Z",
+      "streams": [
+        {
+          "id": "aws_d3e402c87a9e8a49d21e",
+          "stationId": "awb_98b0b9c9faabcc314f71",
+          "name": "Radio Freundes-Dienst",
+          "country": "DE",
+          "url": "https://stream.radiofd.org/radiofd/mp3_128/radiobrowser",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bc4bd5dd-f59a-493b-b9fd-aca9765c3800"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:31:04Z"
+        }
+      ]
+    },
+    {
       "id": "awb_93942332dc3111d819e7",
       "name": "Radio Gong 96.3 - Weihnachtshits -om",
       "country": "DE",
@@ -2378,8 +4148,8 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "christmas"
+        "christmas",
+        "pop"
       ],
       "tags": [
         "christmas",
@@ -2414,6 +4184,49 @@
       ]
     },
     {
+      "id": "awb_c9ea7a323851bcb2ee41",
+      "name": "Radio Lippe Welle Hamm - Christmas",
+      "country": "DE",
+      "subdivision": "North Rhine-Westphalia",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "christmas music",
+        "pop"
+      ],
+      "homepage": "http://www.lippewelle.de/",
+      "favicon": "https://www.lippewelle.de/assets/images/favicons/radiolippe/favicon_x96.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:03:07Z",
+      "streams": [
+        {
+          "id": "aws_c880b12911e228df2462",
+          "stationId": "awb_c9ea7a323851bcb2ee41",
+          "name": "Radio Lippe Welle Hamm - Christmas",
+          "country": "DE",
+          "url": "http://rnrw.cast.addradio.de/rnrw-016F/deinevent/high/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "961c2762-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:05:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5855036c61ec9067003e",
       "name": "RADIO PSR Weihnachts-Superhits",
       "country": "DE",
@@ -2422,9 +4235,9 @@
         "de"
       ],
       "categories": [
+        "christmas",
         "pop",
-        "rock",
-        "christmas"
+        "rock"
       ],
       "tags": [
         "advent",
@@ -2599,6 +4412,91 @@
       ]
     },
     {
+      "id": "awb_e469dbab649d56b5805d",
+      "name": "Radio Teddy - Weihnachtslieder",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas",
+        "kids"
+      ],
+      "tags": [
+        "children",
+        "christmas music",
+        "kids"
+      ],
+      "homepage": "http://www.radioteddy.de/",
+      "favicon": "http://www.radioteddy.de/assets/icons/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:35:30Z",
+      "streams": [
+        {
+          "id": "aws_764422f78cb69133d9b1",
+          "stationId": "awb_e469dbab649d56b5805d",
+          "name": "Radio Teddy - Weihnachtslieder",
+          "country": "DE",
+          "url": "http://streamtdy.ir-media-tec.com/weihnachtslieder/mp3-128/web/play.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96144eda-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:29:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_84caf0fe5a84f553ce94",
+      "name": "RadioBOB Christmas Rock (64 kbps AAC)",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "christmas",
+        "rock"
+      ],
+      "tags": [
+        "christmas music",
+        "rock"
+      ],
+      "homepage": "https://www.radiobob.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:03Z",
+      "streams": [
+        {
+          "id": "aws_1211bed2d495052f3202",
+          "stationId": "awb_84caf0fe5a84f553ce94",
+          "name": "RadioBOB Christmas Rock (64 kbps AAC)",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/bob-christmas/aac-64/mediaplayer/",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1ce08faf-b9ab-11e9-acb2-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:23:08Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a4e7d714e4a52e6a3af2",
       "name": "REYFM - #xmas",
       "country": "DE",
@@ -2766,6 +4664,295 @@
       ]
     },
     {
+      "id": "awb_d80fa736a59f72d1a814",
+      "name": "Sunshinelive x-mas beats",
+      "country": "DE",
+      "subdivision": "Mannheim",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.sunshine-live.de/",
+      "favicon": "https://images.sunshine-live.de/files/2024-11/xmas_1x1_ologo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:12:24Z",
+      "streams": [
+        {
+          "id": "aws_f3d79359743e484451a3",
+          "stationId": "awb_d80fa736a59f72d1a814",
+          "name": "Sunshinelive x-mas beats",
+          "country": "DE",
+          "url": "https://stream.sunshine-live.de/xmasbeats/mp3-192/stream.sunshine-live.de/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bf393251-5cdb-4061-be8a-2828c8678200"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:22:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d778184ea369d8e5dabe",
+      "name": "Tannenbaumradio",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://laut.fm/tannenbaumradio",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:24:51Z",
+      "streams": [
+        {
+          "id": "aws_6ed7a605fd3b001b5c40",
+          "stationId": "awb_d778184ea369d8e5dabe",
+          "name": "Tannenbaumradio",
+          "country": "DE",
+          "url": "http://stream.laut.fm/tannenbaumradio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9610290c-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:06:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_223fc9f4c3bd55c7f02e",
+      "name": "Weihnachtsmusik.fm American Weihnachten",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.weihnachtsmusik.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:04Z",
+      "streams": [
+        {
+          "id": "aws_a36f970377dd8e32b18d",
+          "stationId": "awb_223fc9f4c3bd55c7f02e",
+          "name": "Weihnachtsmusik.fm American Weihnachten",
+          "country": "DE",
+          "url": "http://streams.weihnachtsmusik.fm/broadway/mp3-192/streams.weihnachtsmusik.fm/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e6256882-b97b-4b48-8ed7-71f8e400cded"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:02:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_595f1e50731b976af689",
+      "name": "Weihnachtsmusik.fm Best of Weihnachtshits",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "christmas music",
+        "hits"
+      ],
+      "homepage": "https://www.weihnachtsmusik.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:04Z",
+      "streams": [
+        {
+          "id": "aws_42ff26ce8495a056b2b9",
+          "stationId": "awb_595f1e50731b976af689",
+          "name": "Weihnachtsmusik.fm Best of Weihnachtshits",
+          "country": "DE",
+          "url": "http://streams.weihnachtsmusik.fm/hits/mp3-192/streams.weihnachtsmusik.fm/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ba296d49-27d2-48b3-b0b2-9b0a1fd72001"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:09:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_eae52bfb60a835b27664",
+      "name": "weihnachtsmusik.fm choere",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "choir",
+        "chrismas",
+        "christmas music"
+      ],
+      "homepage": "https://streams.weihnachtsmusik.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:38:37Z",
+      "streams": [
+        {
+          "id": "aws_739ef70939b192c63cef",
+          "stationId": "awb_eae52bfb60a835b27664",
+          "name": "weihnachtsmusik.fm choere",
+          "country": "DE",
+          "url": "https://streams.weihnachtsmusik.fm/choere/mp3-192/surfmusik",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b7c8312a-536e-4af1-92ec-d41ff3dbfc14"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:49:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7aa6346254e5c7607caa",
+      "name": "Weihnachtsmusik.fm Lounge Weihnachten",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "ambient",
+        "christmas"
+      ],
+      "tags": [
+        "chillout",
+        "christmas music",
+        "lounge",
+        "smooth"
+      ],
+      "homepage": "https://www.weihnachtsmusik.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:04Z",
+      "streams": [
+        {
+          "id": "aws_86ad9523c9bb2901668f",
+          "stationId": "awb_7aa6346254e5c7607caa",
+          "name": "Weihnachtsmusik.fm Lounge Weihnachten",
+          "country": "DE",
+          "url": "http://streams.weihnachtsmusik.fm/lounge/mp3-192/streams.weihnachtsmusik.fm/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ba073df4-53fb-4293-958c-f95b558b30ea"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:45:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a492b47bc74906ed6929",
+      "name": "Weihnachtsmusik.fm Neue Pop Weihnachten",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "christmas music",
+        "pop"
+      ],
+      "homepage": "https://weinachtsmusik.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:04Z",
+      "streams": [
+        {
+          "id": "aws_27afa047f0cd69ed17e0",
+          "stationId": "awb_a492b47bc74906ed6929",
+          "name": "Weihnachtsmusik.fm Neue Pop Weihnachten",
+          "country": "DE",
+          "url": "http://streams.weihnachtsmusik.fm/aktuell/mp3-192/streams.weihnachtsmusik.fm/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "36ec1a6b-baff-4877-ada7-ed62cb290951"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:27:49Z"
+        }
+      ]
+    },
+    {
       "id": "awb_d0d300aa37be2a73cbd9",
       "name": "Globus Guld Jul",
       "country": "DK",
@@ -2900,6 +5087,51 @@
       ]
     },
     {
+      "id": "awb_635c68e7d8f6d157d363",
+      "name": "Radio Santa Claus",
+      "country": "FI",
+      "subdivision": "Uusimaa",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "helsinki",
+        "rsl"
+      ],
+      "homepage": "http://www.radiosantaclaus.com/",
+      "favicon": "https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_0434b2cd79fbe7edabef",
+          "stationId": "awb_635c68e7d8f6d157d363",
+          "name": "Radio Santa Claus",
+          "country": "FI",
+          "url": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "962b509f-0601-11e8-ae97-52543be04c81",
+            "FI:radio-santa-claus"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:39:39Z"
+        }
+      ]
+    },
+    {
       "id": "awb_97eb7f0b3b2503301c2d",
       "name": "Crooner Radio Christmas",
       "country": "FR",
@@ -2983,6 +5215,462 @@
       ]
     },
     {
+      "id": "awb_eff825442d2d316a91b3",
+      "name": "La radio de Noël",
+      "country": "FR",
+      "subdivision": "Île-de-France",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.radionoel.fr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:46:56Z",
+      "streams": [
+        {
+          "id": "aws_ecc501e07f191059d13a",
+          "stationId": "awb_eff825442d2d316a91b3",
+          "name": "La radio de Noël",
+          "country": "FR",
+          "url": "http://live1.jupinfo.fr:8000/radiodenoel",
+          "codec": "mp3",
+          "bitrate": 140,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "277498e0-6669-11e8-b15b-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:34:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0de8e1251ca115093b9a",
+      "name": "Christmas Mix Radio - Newcastle upon Tyne (AAC)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.christmasmixradio.co.uk/",
+      "favicon": "https://i.ibb.co/3kxpPph/image.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:08:58Z",
+      "streams": [
+        {
+          "id": "aws_2a068d690727b9a08d7e",
+          "stationId": "awb_0de8e1251ca115093b9a",
+          "name": "Christmas Mix Radio - Newcastle upon Tyne (AAC)",
+          "country": "GB",
+          "url": "http://stream.zeno.fm/360sf3z88e9uv",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "73c51403-0798-458b-88d3-b2cee1bab922"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:18:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_50df901acaccc94d6ecd",
+      "name": "Christmas Radio (MP3)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.christmasradio.uk/",
+      "favicon": "https://www.christmasradio.uk/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:02:06Z",
+      "streams": [
+        {
+          "id": "aws_39b28322820f5bafd3b1",
+          "stationId": "awb_50df901acaccc94d6ecd",
+          "name": "Christmas Radio (MP3)",
+          "country": "GB",
+          "url": "http://edg1-iad-gold.streamguys1.com/christmasradio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8baffd06-3933-4e49-b77d-2baf1d54ca37"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:07:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f0b2f780c9d3aa5634fb",
+      "name": "DFM Christmas",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "seasonal"
+      ],
+      "homepage": "https://dfmchristmas.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:17:02Z",
+      "streams": [
+        {
+          "id": "aws_3eb600eb761a351a7902",
+          "stationId": "awb_f0b2f780c9d3aa5634fb",
+          "name": "DFM Christmas",
+          "country": "GB",
+          "url": "http://ec1.yesstreaming.net:1400/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4cafe8af-3446-41f1-83b8-5f5079498c62"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:26:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b7e81c52899a501c7088",
+      "name": "Festive365 (MP3)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.festive365.co.uk/",
+      "favicon": "https://i.ibb.co/PtvvPXM/379328-482753205095385-1890942591-n.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:42:49Z",
+      "streams": [
+        {
+          "id": "aws_8caed295672f2a2faff2",
+          "stationId": "awb_b7e81c52899a501c7088",
+          "name": "Festive365 (MP3)",
+          "country": "GB",
+          "url": "http://uk2-pn.mixstream.net/8394/listen.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c04ba23d-c697-4ecf-820f-8b7cf487a228"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:29:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5d648b41d03360d5a8ac",
+      "name": "Fresh Christmas - London (MP3)",
+      "country": "GB",
+      "subdivision": "London",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.freshchristmas.co.uk/",
+      "favicon": "https://i.ibb.co/pPCzvS6/image.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:16:53Z",
+      "streams": [
+        {
+          "id": "aws_0a65ec3d55dd987332f7",
+          "stationId": "awb_5d648b41d03360d5a8ac",
+          "name": "Fresh Christmas - London (MP3)",
+          "country": "GB",
+          "url": "http://stream.zeno.fm/wahc3kxfcd0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1947d805-a4f8-4d3f-82df-5f95d04005bd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:41:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a9149b49b89d0386019a",
+      "name": "Like Radio - CHRISTMAS (AAC+)",
+      "country": "GB",
+      "subdivision": "England",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "christmas music",
+        "pop"
+      ],
+      "homepage": "https://like.radio/likechristmas/",
+      "favicon": "https://i.ibb.co/KmB0qR8/xmas.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:30:35Z",
+      "streams": [
+        {
+          "id": "aws_f84f04b165486b2a27ab",
+          "stationId": "awb_a9149b49b89d0386019a",
+          "name": "Like Radio - CHRISTMAS (AAC+)",
+          "country": "GB",
+          "url": "http://likeradiostream.com/likexmasaac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e00dc024-0688-42f8-88d0-646acf3373ef"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:15:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cde2020104d33435c546",
+      "name": "Like Radio - CHRISTMAS (MP3)",
+      "country": "GB",
+      "subdivision": "England",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "christmas music",
+        "pop"
+      ],
+      "homepage": "https://like.radio/likechristmas/",
+      "favicon": "https://i.ibb.co/KmB0qR8/xmas.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:33:22Z",
+      "streams": [
+        {
+          "id": "aws_34e9de4f9dfc3e3094c6",
+          "stationId": "awb_cde2020104d33435c546",
+          "name": "Like Radio - CHRISTMAS (MP3)",
+          "country": "GB",
+          "url": "http://likeradiostream.com/likexmas",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fd8f65a9-dfb6-4e2b-9b15-d727a160724b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:13:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_171b62f00fa0f5ea45ee",
+      "name": "London Christmas Radio - London (MP3)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.londonchristmasradio.co.uk/",
+      "favicon": "https://i.ibb.co/WVGsCJ4/image.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:17:36Z",
+      "streams": [
+        {
+          "id": "aws_735d008d990f7236a5c9",
+          "stationId": "awb_171b62f00fa0f5ea45ee",
+          "name": "London Christmas Radio - London (MP3)",
+          "country": "GB",
+          "url": "http://stream.zeno.fm/xkyvftapsqruv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b43c07a-10d9-43af-b8bb-990e60c4f704"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:55:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_79494994ca192c38a8ef",
+      "name": "Mai Radio Xmas (MP3)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.mairadioxmas.co.uk/",
+      "favicon": "https://i.ibb.co/Y78kfmQ/a-HR0c-HM6-Ly9zd-HJl-YW0td-G9vb-HMuem-Vub21l-ZGlh-Lm-Nvb-S9jb250-ZW50-L3-N0-YXRpb25z-Lz-Ji-ZGI5-MDBj.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:18:50Z",
+      "streams": [
+        {
+          "id": "aws_19e49b81b10e2a813431",
+          "stationId": "awb_79494994ca192c38a8ef",
+          "name": "Mai Radio Xmas (MP3)",
+          "country": "GB",
+          "url": "http://stream-172.zeno.fm/w7rjrqogne9vv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cfd2f3a2-d8d8-49c7-9b2e-6e330ea84311"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:43:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d5020010b94f2d8006fd",
+      "name": "Midlands Radio Christmas (MP3)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.midlandsradiochristmas.co.uk/",
+      "favicon": "https://i.ibb.co/CQxxVBK/image.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:00:48Z",
+      "streams": [
+        {
+          "id": "aws_b201e6e1298e3d8db589",
+          "stationId": "awb_d5020010b94f2d8006fd",
+          "name": "Midlands Radio Christmas (MP3)",
+          "country": "GB",
+          "url": "http://stream.zeno.fm/b0ykm1bpb78uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "abe87042-7177-47ab-affc-5467fbf31e00"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:00:52Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8f00f02c3e8f2187580b",
       "name": "Nation Xmas",
       "country": "GB",
@@ -3026,6 +5714,168 @@
       ]
     },
     {
+      "id": "awb_72839d59dac6e6423367",
+      "name": "Radio Santa - London (MP3)",
+      "country": "GB",
+      "subdivision": "England",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.radiosanta.co.uk/",
+      "favicon": "https://i.ibb.co/nwg154f/a-HR0c-HM6-Ly9zd-HJl-YW0td-G9vb-HMuem-Vub21l-ZGlh-Lm-Nvb-S9jb250-ZW50-L3-N0-YXRpb25z-L2-Fne-Hpmbn-Bs.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:28:20Z",
+      "streams": [
+        {
+          "id": "aws_951d9fdd549775714a2e",
+          "stationId": "awb_72839d59dac6e6423367",
+          "name": "Radio Santa - London (MP3)",
+          "country": "GB",
+          "url": "http://stream.zeno.fm/dpdd77k99f0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "61008d00-dca0-4989-b762-a5db996ca25f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:03:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_48c0e28803865ae790b7",
+      "name": "Santa Christmas Radio (MP3)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.santachristmasradio.co.uk/",
+      "favicon": "https://i.ibb.co/B6qv1P6/a-HR0c-HM6-Ly9zd-HJl-YW0td-G9vb-HMuem-Vub21l-ZGlh-Lm-Nvb-S9jb250-ZW50-L3-N0-YXRpb25z-L2-Fne-Hpmbn-Bs.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:49:40Z",
+      "streams": [
+        {
+          "id": "aws_1d761a285c4a1c87e090",
+          "stationId": "awb_48c0e28803865ae790b7",
+          "name": "Santa Christmas Radio (MP3)",
+          "country": "GB",
+          "url": "http://stream.zeno.fm/e0m2rnz86p8uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "42606117-7db7-4f56-9810-8854b2d87538"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:24:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2e2abbfe1c6c72d8a6ee",
+      "name": "Smooth Christmas",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.smoothradio.com/news/christmas/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:58:28Z",
+      "streams": [
+        {
+          "id": "aws_4a8bd55a5ebc49a76b5f",
+          "stationId": "awb_2e2abbfe1c6c72d8a6ee",
+          "name": "Smooth Christmas",
+          "country": "GB",
+          "url": "https://media-ice.musicradio.com/SmoothXmasMP3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "052ee406-0369-44be-939d-a35d24f376c4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:23:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a06a6118b3b31d5d2b92",
+      "name": "ERT Christmas Radio",
+      "country": "GR",
+      "subdivision": "Athens",
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.ertecho.gr/radio/radio-christmas/",
+      "favicon": "https://www.ertecho.gr/wp-content/uploads/2023/11/Radio-Christmas-358.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:07Z",
+      "streams": [
+        {
+          "id": "aws_3523ad35c13465afbb87",
+          "stationId": "awb_a06a6118b3b31d5d2b92",
+          "name": "ERT Christmas Radio",
+          "country": "GR",
+          "url": "https://radiostreaming.ert.gr/ert-seasonal",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "476f290c-cb65-4f85-bb3d-089e9eb83673"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:08:41Z"
+        }
+      ]
+    },
+    {
       "id": "awb_b6c26f11e354f7fc01f1",
       "name": "Rainbow 89 Christmas",
       "country": "GR",
@@ -3034,8 +5884,8 @@
         "el"
       ],
       "categories": [
-        "pop",
-        "christmas"
+        "christmas",
+        "pop"
       ],
       "tags": [
         "christmas",
@@ -3067,6 +5917,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T02:53:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_65d7505b71c250a6fd4a",
+      "name": "Real Xmas",
+      "country": "GR",
+      "subdivision": "Athens",
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://live24.gr/radio/realchristmas.jsp",
+      "favicon": "https://live24.gr/resrc/styles/custom-popups/realchristmas/main-graphic.png?2",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:10Z",
+      "streams": [
+        {
+          "id": "aws_b93dc2033d110069470e",
+          "stationId": "awb_65d7505b71c250a6fd4a",
+          "name": "Real Xmas",
+          "country": "GR",
+          "url": "https://realxmas.live24.gr/realxmas",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b32e1fc6-f362-4c53-8667-59ac7100b826"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:04:05Z"
         }
       ]
     },
@@ -3109,6 +5998,91 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:37:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c3203b624330d8de9505",
+      "name": "Christmas FM Hungary",
+      "country": "HU",
+      "subdivision": null,
+      "languages": [
+        "hu"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "christmasradio",
+        "holiday music"
+      ],
+      "homepage": "https://christmasfm.hu/",
+      "favicon": "https://myonlineradio.hu/public/uploads/radio_img/christmas-fm/play_250_250.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T07:18:36Z",
+      "streams": [
+        {
+          "id": "aws_e842d00c48a0662a9b6b",
+          "stationId": "awb_c3203b624330d8de9505",
+          "name": "Christmas FM Hungary",
+          "country": "HU",
+          "url": "https://stream1.christmasfm.hu/live.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "884b0c91-9c97-465a-ad0e-f73ad99179c6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:18:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_648fd1c557de9126882c",
+      "name": "COOLFM Karácsonyi Dalok",
+      "country": "HU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "holiday"
+      ],
+      "homepage": "https://coolfm.hu/radio/digitalis-radiok/",
+      "favicon": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_3c186b2af629c9900aed",
+          "stationId": "awb_648fd1c557de9126882c",
+          "name": "COOLFM Karácsonyi Dalok",
+          "country": "HU",
+          "url": "https://mediagw.e-tiger.net/stream/zc27",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "HU:coolfm-karacsonyi-dalok",
+            "af336034-91df-48bb-884e-5e211e823d13"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:23:55Z"
         }
       ]
     },
@@ -3225,8 +6199,8 @@
         "en"
       ],
       "categories": [
-        "classical",
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "carols",
@@ -3263,6 +6237,178 @@
       ]
     },
     {
+      "id": "awb_5fb03246a60f8c6f2492",
+      "name": "Deejay 4 Christmas",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas songs",
+        "seasonal"
+      ],
+      "homepage": "https://www.deejay.it/webradio/01/",
+      "favicon": "https://www.deejay.it/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:18:44Z",
+      "streams": [
+        {
+          "id": "aws_08768bccc2500b43b8b8",
+          "stationId": "awb_5fb03246a60f8c6f2492",
+          "name": "Deejay 4 Christmas",
+          "country": "IT",
+          "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/live.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6d1ef60e-e5a7-4be9-9dbb-3465bc0006a5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:33:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ec0e1e9bc6cd944a3e9a",
+      "name": "Radio Padova Christmas",
+      "country": "IT",
+      "subdivision": "Veneto",
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.radiopadova.com/",
+      "favicon": "https://www.radiopadova.com/wp-content/uploads/2022/05/cropped-radio-padova-icona-180x180.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:48:55Z",
+      "streams": [
+        {
+          "id": "aws_aa3a1ff386b911ff9efa",
+          "stationId": "awb_ec0e1e9bc6cd944a3e9a",
+          "name": "Radio Padova Christmas",
+          "country": "IT",
+          "url": "https://sphera.fluidstream.eu/rpd_christmas.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c5f57e07-7590-4c75-a236-dfcb690957a4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:39:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9d224b4b5206eab9a7f3",
+      "name": "Traditional Christmas",
+      "country": "IT",
+      "subdivision": "Lombardia",
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "mediaset"
+      ],
+      "homepage": "http://www.unitedmusic.it/",
+      "favicon": "http://www.unitedmusic.it/favicon_6.ico?v=1722509814047",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:54:30Z",
+      "streams": [
+        {
+          "id": "aws_635472c13632cb265b9a",
+          "stationId": "awb_9d224b4b5206eab9a7f3",
+          "name": "Traditional Christmas",
+          "country": "IT",
+          "url": "http://icecast.unitedradio.it/um033.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "19c318ef-f402-11e8-a471-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:39:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_82771388c7f2417e7f3f",
+      "name": "Love 101 FM",
+      "country": "JM",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "christian-gospel",
+        "christmas music",
+        "gospel",
+        "music",
+        "religious"
+      ],
+      "homepage": "https://love101.org/",
+      "favicon": "https://love101.org/wp-content/uploads/2022/03/Love-FM-Logo-150x150.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:09:01Z",
+      "streams": [
+        {
+          "id": "aws_d493cf575b819045f9f3",
+          "stationId": "awb_82771388c7f2417e7f3f",
+          "name": "Love 101 FM",
+          "country": "JM",
+          "url": "https://stream.zeno.fm/webzstrtpy5tv",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "76c8b817-c100-4030-a6d8-2f1d5ebb6701"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:37:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_b8036b23c2f3fbc359f0",
       "name": "J-Pop Christmas",
       "country": "JP",
@@ -3272,7 +6418,8 @@
       ],
       "categories": [
         "anime",
-        "christmas"
+        "christmas",
+        "pop"
       ],
       "tags": [
         "christmas",
@@ -3309,13 +6456,94 @@
       ]
     },
     {
+      "id": "awb_192f5668a3105420b545",
+      "name": "540 Radio Zion (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, Baja California",
+      "country": "MX",
+      "subdivision": "Tijuana, Baja California",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "christmas",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "540 am",
+        "am",
+        "américa",
+        "baja california",
+        "california",
+        "christian",
+        "christian contemporary",
+        "christian music",
+        "christian talk",
+        "christian-gospel",
+        "christmas music",
+        "contemporary christian",
+        "cristian",
+        "cristiana",
+        "cristianas",
+        "cristiano",
+        "español",
+        "estación",
+        "latinoamérica",
+        "mensajes cristianos",
+        "moi merino",
+        "musica cristiana",
+        "méxico",
+        "música religiosa",
+        "norteamérica",
+        "programas en vivo",
+        "radio",
+        "radio cristiana",
+        "radio zion",
+        "religion",
+        "religiosa",
+        "religious",
+        "religión",
+        "religous",
+        "san diego",
+        "spanish christian",
+        "tijuana",
+        "zion multimedia"
+      ],
+      "homepage": "https://radiozion540.com/",
+      "favicon": "https://i.postimg.cc/sfYcY111/radiozion.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-16T22:08:31Z",
+      "streams": [
+        {
+          "id": "aws_ab6e9c1e1137c233c8df",
+          "stationId": "awb_192f5668a3105420b545",
+          "name": "540 Radio Zion (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, Baja California",
+          "country": "MX",
+          "url": "http://zionmultimedia.live/radio/8010/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3279fedd-9925-4e50-b88a-da3a159b09d4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:22:59Z"
+        }
+      ]
+    },
+    {
       "id": "awb_fe7949c3e36d4f64f35a",
       "name": "melyh christmas",
       "country": "MX",
       "subdivision": null,
       "languages": [],
       "categories": [
-        "christmas"
+        "christmas",
+        "pop"
       ],
       "tags": [
         "christmas music",
@@ -3351,6 +6579,157 @@
       ]
     },
     {
+      "id": "awb_f25c288d0893c3807b56",
+      "name": "Radio Zion (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, BC",
+      "country": "MX",
+      "subdivision": "Baja California",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "christmas",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "540",
+        "540 am",
+        "am",
+        "baja california",
+        "california",
+        "christian",
+        "christian contemporary",
+        "christian music",
+        "christian talk",
+        "christian-gospel",
+        "christmas music",
+        "contemporary christian",
+        "cristian",
+        "cristiana",
+        "cristianas",
+        "cristiano",
+        "estación",
+        "mensajes cristianos",
+        "musica cristiana",
+        "música religiosa",
+        "radio",
+        "radio cristiana",
+        "religion",
+        "religiosa",
+        "religious",
+        "religión",
+        "religous",
+        "san diego",
+        "spanish christian",
+        "tijuana",
+        "zion multimedia"
+      ],
+      "homepage": "https://www.radiozion.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:25:25Z",
+      "streams": [
+        {
+          "id": "aws_87a97f6ae6c9025f305f",
+          "stationId": "awb_f25c288d0893c3807b56",
+          "name": "Radio Zion (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, BC",
+          "country": "MX",
+          "url": "http://zionmultimedia.live/radio/8010/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "55fc8c64-20f2-45ea-b2e7-6fd08a60b37e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:52:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_59ccf76d9c34341afdbe",
+      "name": "RADIO ZION 540 (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, Baja California",
+      "country": "MX",
+      "subdivision": "Tijuana, Baja California",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "christmas",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "540 am",
+        "am",
+        "américa",
+        "baja california",
+        "california",
+        "christian",
+        "christian contemporary",
+        "christian music",
+        "christian talk",
+        "christian-gospel",
+        "christmas music",
+        "contemporary christian",
+        "cristian",
+        "cristiana",
+        "cristianas",
+        "cristiano",
+        "español",
+        "estación",
+        "latinoamérica",
+        "mensajes cristianos",
+        "moi merino",
+        "musica cristiana",
+        "méxico",
+        "música religiosa",
+        "norteamérica",
+        "radio",
+        "radio cristiana",
+        "religion",
+        "religiosa",
+        "religious",
+        "religión",
+        "religous",
+        "san diego",
+        "spanish christian",
+        "tijuana",
+        "zion multimedia"
+      ],
+      "homepage": "https://radiozion540.com/",
+      "favicon": "https://cdn-profiles.tunein.com/s24699/images/logod.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:25:31Z",
+      "streams": [
+        {
+          "id": "aws_0d4adabd23c76c05c9ab",
+          "stationId": "awb_59ccf76d9c34341afdbe",
+          "name": "RADIO ZION 540 (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, Baja California",
+          "country": "MX",
+          "url": "http://zionmultimedia.live/radio/8010/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "127119b1-94ec-48ed-90db-f5e31d9fd964"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:54:18Z"
+        }
+      ]
+    },
+    {
       "id": "awb_bbc3989b451f78e7e0bc",
       "name": "Christmas Hits Radio NL",
       "country": "NL",
@@ -3360,7 +6739,8 @@
         "nl"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "rock"
       ],
       "tags": [
         "season",
@@ -3396,6 +6776,47 @@
       ]
     },
     {
+      "id": "awb_a78132675192e247c921",
+      "name": "Sky Radio Christmas",
+      "country": "NL",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.skyradio.nl/player/sky-radio-christmas",
+      "favicon": "http://www.skyradio.nl/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:56:14Z",
+      "streams": [
+        {
+          "id": "aws_c149083d7dc28b3cae2d",
+          "stationId": "awb_a78132675192e247c921",
+          "name": "Sky Radio Christmas",
+          "country": "NL",
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "961f1bea-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:04:46Z"
+        }
+      ]
+    },
+    {
       "id": "awb_d78af2311eacf1988273",
       "name": "P7 Klem (AAC HQ)",
       "country": "NO",
@@ -3404,9 +6825,9 @@
         "no"
       ],
       "categories": [
-        "pop",
+        "christmas",
         "oldies",
-        "christmas"
+        "pop"
       ],
       "tags": [
         "80s",
@@ -3484,14 +6905,56 @@
       ]
     },
     {
+      "id": "awb_1d84df0c32c373adfc31",
+      "name": "Christmas Radio Philippines - Powered By www.amfmph.net",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "internet radio"
+      ],
+      "homepage": "https://www.amfmph.com/",
+      "favicon": "https://3.bp.blogspot.com/-XIKo9uslHNI/UjxFM6XsReI/AAAAAAAAAO0/OdA6V6Oxy0c/s200/christmas-radio.jpg",
+      "type": "internet",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_9673a465a952d4ad28a5",
+          "stationId": "awb_1d84df0c32c373adfc31",
+          "name": "Christmas Radio Philippines - Powered By www.amfmph.net",
+          "country": "PH",
+          "url": "https://us1.amfmph.com/ssl/christmasradio?mp=/stream&1641738050672",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "PH:christmas-radio-philippines-powered-by-www-amfmp",
+            "e945e96d-a8e7-44eb-92d0-e6aa4272a212"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:23:50Z"
+        }
+      ]
+    },
+    {
       "id": "awb_81492ed00dce050ffdbc",
       "name": "OPM Christmas",
       "country": "PH",
       "subdivision": null,
       "languages": [],
       "categories": [
-        "pop",
-        "christmas"
+        "christmas",
+        "pop"
       ],
       "tags": [
         "christmas",
@@ -3524,6 +6987,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:26:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ca629142d768799cc9af",
+      "name": "Chilli ZET Christmas",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.chillizet.pl/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-03-30T16:48:45Z",
+      "streams": [
+        {
+          "id": "aws_dbb849f61ca31db75df8",
+          "stationId": "awb_ca629142d768799cc9af",
+          "name": "Chilli ZET Christmas",
+          "country": "PL",
+          "url": "https://ch03.cdn.eurozet.pl/CHISWI.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d3baf4a9-ad84-4864-a69f-0886a986b6b2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:31:22Z"
         }
       ]
     },
@@ -3570,6 +7072,211 @@
       ]
     },
     {
+      "id": "awb_acc35263df8ed7b60f13",
+      "name": "RMF Koledy",
+      "country": "PL",
+      "subdivision": "Krakow",
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.rmfon.pl/play,80",
+      "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:45:19Z",
+      "streams": [
+        {
+          "id": "aws_24f3886fc9bfda6c3772",
+          "stationId": "awb_acc35263df8ed7b60f13",
+          "name": "RMF Koledy",
+          "country": "PL",
+          "url": "http://31.192.216.7/KOLEDY",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9626da80-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:21:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1f0a922a684b57acd44c",
+      "name": "RMF Koledy + FAKTY",
+      "country": "PL",
+      "subdivision": "Krakow",
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.rmfon.pl/play,80",
+      "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:23:20Z",
+      "streams": [
+        {
+          "id": "aws_9208f483e9341c51fff6",
+          "stationId": "awb_1f0a922a684b57acd44c",
+          "name": "RMF Koledy + FAKTY",
+          "country": "PL",
+          "url": "http://31.192.216.7/KOLEDYF",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "89a6d753-e409-4906-9d57-0e18318d9eb3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:26:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e57228f80f67daaea970",
+      "name": "RMF Swieta",
+      "country": "PL",
+      "subdivision": "Krakow",
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.rmfon.pl/play,17",
+      "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:31:56Z",
+      "streams": [
+        {
+          "id": "aws_f4c915afa0dfc2fe0254",
+          "stationId": "awb_e57228f80f67daaea970",
+          "name": "RMF Swieta",
+          "country": "PL",
+          "url": "http://195.150.20.7/SWIETA",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960f7b1f-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:22:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cb07cced916d8eebb36b",
+      "name": "RMF Swieta + FAKTY",
+      "country": "PL",
+      "subdivision": "Krakow",
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.rmfon.pl/play,17",
+      "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:34:57Z",
+      "streams": [
+        {
+          "id": "aws_eaa9c284c8cb87cd07cc",
+          "stationId": "awb_cb07cced916d8eebb36b",
+          "name": "RMF Swieta + FAKTY",
+          "country": "PL",
+          "url": "http://195.150.20.7/SWIETAF",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fa4bbcbd-4970-49dc-85e2-800976639e05"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:29:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3b11a0549ca4286d7ff2",
+      "name": "Radio Paraiso 92.9 FM",
+      "country": "PR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "christmas music"
+      ],
+      "homepage": "https://www.wtpm.org/",
+      "favicon": "https://static.wixstatic.com/media/40af02_89e36a03a4e14aa385dab6105615ed24~mv2.png/v1/fill/w_105,h_81,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-dig_1.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:11Z",
+      "streams": [
+        {
+          "id": "aws_f126274cb5dc17f86812",
+          "stationId": "awb_3b11a0549ca4286d7ff2",
+          "name": "Radio Paraiso 92.9 FM",
+          "country": "PR",
+          "url": "http://stream.eleden.com:8240/wtpm.aac",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b3fef8c6-b2bc-4f84-a770-5b149028a4ab"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:07:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2081bd6c9979e3e25202",
       "name": "EBS | Xmas",
       "country": "RO",
@@ -3607,6 +7314,86 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:28:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f82242ada69e05f833a3",
+      "name": "Radio GMusic Colinde",
+      "country": "RO",
+      "subdivision": "Bucuresti",
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas songs",
+        "colinde"
+      ],
+      "homepage": "https://radiogmusic.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:10Z",
+      "streams": [
+        {
+          "id": "aws_a1a27c5bb46a622be63b",
+          "stationId": "awb_f82242ada69e05f833a3",
+          "name": "Radio GMusic Colinde",
+          "country": "RO",
+          "url": "https://s9.webradio-hosting.com/proxy/rgmcolinde/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "43fb5134-28a8-4ae1-8db8-1dd453b4d30a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:21:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b78da998661ce3c79d86",
+      "name": "Smart Radio -Smart for Christmas",
+      "country": "RO",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "colinde"
+      ],
+      "homepage": "https://www.smartradio.ro/",
+      "favicon": "https://media.smartradio.ro/2019/10/radio.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-24T06:02:16Z",
+      "streams": [
+        {
+          "id": "aws_e4d5160b783a7197009a",
+          "stationId": "awb_b78da998661ce3c79d86",
+          "name": "Smart Radio -Smart for Christmas",
+          "country": "RO",
+          "url": "https://web.smartradio.ro:8443/smartforchristmas",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7ae42e14-2fa1-4d00-8c4d-0820a1f45421"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:45:36Z"
         }
       ]
     },
@@ -3692,6 +7479,50 @@
       ]
     },
     {
+      "id": "awb_2540e989731a5dd736f5",
+      "name": "Radio NV",
+      "country": "UA",
+      "subdivision": null,
+      "languages": [
+        "ru",
+        "uk"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "christmas music"
+      ],
+      "homepage": "https://radio.nv.ua/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:32:25Z",
+      "streams": [
+        {
+          "id": "aws_4f793e3a8d6a1c9db0ef",
+          "stationId": "awb_2540e989731a5dd736f5",
+          "name": "Radio NV",
+          "country": "UA",
+          "url": "https://online-radio.nv.ua/radionv.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a05a6ebb-b01e-48ae-bab3-2cdbf53635f7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:20:47Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9c6f4b9334e3c886016b",
       "name": "104 Christmas Hits (Radiostorm)",
       "country": "US",
@@ -3700,7 +7531,8 @@
         "en"
       ],
       "categories": [
-        "christmas"
+        "christmas",
+        "rock"
       ],
       "tags": [
         "christmas",
@@ -3740,6 +7572,760 @@
       ]
     },
     {
+      "id": "awb_9d3f9195aebf3e2f2688",
+      "name": "181.FM - Christmas Blender",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:28:02Z",
+      "streams": [
+        {
+          "id": "aws_60606fd6bc3bf5d270af",
+          "stationId": "awb_9d3f9195aebf3e2f2688",
+          "name": "181.FM - Christmas Blender",
+          "country": "US",
+          "url": "https://listen.181fm.com/181-xblender_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638d528-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:23:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4bf82b8016402e021c99",
+      "name": "181.FM - Christmas Classics",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:06:33Z",
+      "streams": [
+        {
+          "id": "aws_859e184cc16630fac075",
+          "stationId": "awb_4bf82b8016402e021c99",
+          "name": "181.FM - Christmas Classics",
+          "country": "US",
+          "url": "https://listen.181fm.com/181-xtraditional_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96301ea7-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:27:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d600fa88d0985d8fd0cc",
+      "name": "181.FM - Christmas Fun",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "comedy",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:44:15Z",
+      "streams": [
+        {
+          "id": "aws_5f5374938582fcb5f0fa",
+          "stationId": "awb_d600fa88d0985d8fd0cc",
+          "name": "181.FM - Christmas Fun",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xfun_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638d108-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:37:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0d168daf2b16adf55288",
+      "name": "181.FM - Christmas Gospel",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christmas music",
+        "gospel",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_9d826ad89f30ddd06a56",
+          "stationId": "awb_0d168daf2b16adf55288",
+          "name": "181.FM - Christmas Gospel",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xgospel_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638cd23-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:23:40Z"
+        },
+        {
+          "id": "aws_99add125775cbcb58fec",
+          "stationId": "awb_0d168daf2b16adf55288",
+          "name": "181.FM - Christmas Gospel",
+          "country": "US",
+          "url": "https://listen.181fm.com/181-xgospel_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "US:181-fm-christmas-gospel"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-24"
+        }
+      ]
+    },
+    {
+      "id": "awb_ac0f75dbe4864631eb23",
+      "name": "181.FM - Christmas Highway",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/images/playerlanding/181.FM.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:02:56Z",
+      "streams": [
+        {
+          "id": "aws_51333f535a87af9d819a",
+          "stationId": "awb_ac0f75dbe4864631eb23",
+          "name": "181.FM - Christmas Highway",
+          "country": "US",
+          "url": "https://listen.181fm.com/181-xhighway_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96350d40-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:02:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d81b2a8f4b1003206a74",
+      "name": "181.FM - Christmas Kids",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "kids"
+      ],
+      "tags": [
+        "children",
+        "christmas music",
+        "kids",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:49:40Z",
+      "streams": [
+        {
+          "id": "aws_9a66b71a387c9caa55c6",
+          "stationId": "awb_d81b2a8f4b1003206a74",
+          "name": "181.FM - Christmas Kids",
+          "country": "US",
+          "url": "https://listen.181fm.com/181-xkids_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638ca6a-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:13:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4d72ac72963910d318ff",
+      "name": "181.FM - Christmas Kountry",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "country"
+      ],
+      "tags": [
+        "christmas music",
+        "country",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:56:10Z",
+      "streams": [
+        {
+          "id": "aws_16b33df650cd8cbdb2df",
+          "stationId": "awb_4d72ac72963910d318ff",
+          "name": "181.FM - Christmas Kountry",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xkkountry_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638cfa5-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:23:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_af1096d6e865281211c8",
+      "name": "181.FM - Christmas Mix",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:18:28Z",
+      "streams": [
+        {
+          "id": "aws_e74e57fa861efdee3536",
+          "stationId": "awb_af1096d6e865281211c8",
+          "name": "181.FM - Christmas Mix",
+          "country": "US",
+          "url": "https://listen.181fm.com/181-xmix_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638c4a3-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:15:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_261aecdad397c9cb9175",
+      "name": "181.FM - Christmas Oldies",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "christmas music",
+        "classic hits",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:34:00Z",
+      "streams": [
+        {
+          "id": "aws_d0ebc31f9ed8b8c4c59a",
+          "stationId": "awb_261aecdad397c9cb9175",
+          "name": "181.FM - Christmas Oldies",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xoldies_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638cbd5-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:41:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_12dcfa3c542ca7b6a8ae",
+      "name": "181.FM - Christmas Power",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:12:36Z",
+      "streams": [
+        {
+          "id": "aws_93209dec801e2234407a",
+          "stationId": "awb_12dcfa3c542ca7b6a8ae",
+          "name": "181.FM - Christmas Power",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xpower_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638c748-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:06:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_89adaf9e04c3b05ca1a6",
+      "name": "181.FM - Christmas R&B",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "rnb",
+        "soul",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/images/playerlanding/181.FM.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:17:31Z",
+      "streams": [
+        {
+          "id": "aws_acb877c456c905900239",
+          "stationId": "awb_89adaf9e04c3b05ca1a6",
+          "name": "181.FM - Christmas R&B",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xtrue_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "961fd4b6-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:06:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_05314db9095138e4273f",
+      "name": "181.FM - Christmas Rock",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:58:24Z",
+      "streams": [
+        {
+          "id": "aws_9204f0e4f988997bfa7c",
+          "stationId": "awb_05314db9095138e4273f",
+          "name": "181.FM - Christmas Rock",
+          "country": "US",
+          "url": "https://listen.181fm.com/181-xrock_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638d263-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:31:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8761dd8f4794948b2e3c",
+      "name": "181.FM - Christmas Smooth Jazz",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "jazz"
+      ],
+      "tags": [
+        "christmas music",
+        "smooth jazz",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:55:39Z",
+      "streams": [
+        {
+          "id": "aws_3d3117c05ac3b6e2e4f9",
+          "stationId": "awb_8761dd8f4794948b2e3c",
+          "name": "181.FM - Christmas Smooth Jazz",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xsmooth_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638c5fb-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:16:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bced500832bcf26d3d6d",
+      "name": "181.FM - Christmas Soundtracks",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "soundtracks",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:56:33Z",
+      "streams": [
+        {
+          "id": "aws_58f018ff0919e26e1132",
+          "stationId": "awb_bced500832bcf26d3d6d",
+          "name": "181.FM - Christmas Soundtracks",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xsoundtrax_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9637f981-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:32:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fe45512d07c00f57b907",
+      "name": "181.FM - Christmas Spirit",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian contemporary",
+        "christmas music",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:26:25Z",
+      "streams": [
+        {
+          "id": "aws_4a838b2fb7c602f4f09f",
+          "stationId": "awb_fe45512d07c00f57b907",
+          "name": "181.FM - Christmas Spirit",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xspirit_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638d3bd-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:26:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5f5b0ba16d867a00e48d",
+      "name": "181.FM - Christmas Standards",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "adult standards",
+        "christmas music",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:39:32Z",
+      "streams": [
+        {
+          "id": "aws_94701769405e29cc0c7c",
+          "stationId": "awb_5f5b0ba16d867a00e48d",
+          "name": "181.FM - Christmas Standards",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xstandards_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638c208-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:17:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_efeb6da1338a11534701",
+      "name": "181.FM - Christmas Swing",
+      "country": "US",
+      "subdivision": "Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "jazz"
+      ],
+      "tags": [
+        "christmas music",
+        "jazz",
+        "swing",
+        "waynesboro"
+      ],
+      "homepage": "http://www.181.fm/",
+      "favicon": "http://www.181.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:16:26Z",
+      "streams": [
+        {
+          "id": "aws_4a155d956e2f1698a1af",
+          "stationId": "awb_efeb6da1338a11534701",
+          "name": "181.FM - Christmas Swing",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-xswing_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9638ce63-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:56:06Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6af6a4a97a40852a089c",
       "name": "2020 the beacon",
       "country": "US",
@@ -3748,10 +8334,10 @@
         "en"
       ],
       "categories": [
-        "pop",
-        "rock",
+        "christmas",
         "country",
-        "christmas"
+        "pop",
+        "rock"
       ],
       "tags": [
         "adult contemporary",
@@ -3801,11 +8387,11 @@
         "en"
       ],
       "categories": [
-        "talk",
+        "christmas",
+        "country",
         "pop",
         "rock",
-        "country",
-        "christmas"
+        "talk"
       ],
       "tags": [
         "adult contemporary",
@@ -3845,6 +8431,128 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:48:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_78be7a75f8f510425b47",
+      "name": "24/7 Christmas Music Radio Station",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://live365.com/station/24-7-Christmas-Music-Radio-Station-a29903",
+      "favicon": "https://i.ibb.co/P1FYJrb/c78f6922-f4ce-4208-8d6f-4ce033342c14.jpg",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-01-15T08:31:59Z",
+      "streams": [
+        {
+          "id": "aws_5f4d04358155d37a031d",
+          "stationId": "awb_78be7a75f8f510425b47",
+          "name": "24/7 Christmas Music Radio Station",
+          "country": "US",
+          "url": "http://ais-edge101-live365-dal02.cdnstream.com/a29903",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "89761288-bdc7-4557-ad5e-2304c7c00ce9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:55:36Z"
+        },
+        {
+          "id": "aws_3f72fbec8af7bfa1e413",
+          "stationId": "awb_78be7a75f8f510425b47",
+          "name": "24/7 Christmas Music Radio Station",
+          "country": "US",
+          "url": "http://streaming.live365.com/a29903",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "29c3132a-f1b3-42a9-9fcb-1b20677fe1d0",
+            "6f614a54-2f1c-4de8-b075-7364bacfccbe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:29:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3f92afffb3365f21c24b",
+      "name": "24/7 Christmas Music Radio Station (MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://live365.com/station/24-7-Christmas-Music-Radio-Station-a29903",
+      "favicon": "https://live365.com/favicon.ico",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-01-15T06:26:48Z",
+      "streams": [
+        {
+          "id": "aws_89ad00e5544281c72a3c",
+          "stationId": "awb_3f92afffb3365f21c24b",
+          "name": "24/7 Christmas Music Radio Station (MP3)",
+          "country": "US",
+          "url": "http://ais-edge101-live365-dal02.cdnstream.com/a29903",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c0491125-f576-4353-a1e0-010ef3ef3103"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:58:53Z"
+        },
+        {
+          "id": "aws_71cd6ef47b084b48872f",
+          "stationId": "awb_3f92afffb3365f21c24b",
+          "name": "24/7 Christmas Music Radio Station (MP3)",
+          "country": "US",
+          "url": "http://streaming.live365.com/a29903",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "17c95b61-d616-4ac3-8991-fb08ed168574",
+            "9a230c30-5fc6-433d-8d61-607c6a8614cd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:40:37Z"
         }
       ]
     },
@@ -3940,8 +8648,8 @@
         "en"
       ],
       "categories": [
-        "country",
-        "christmas"
+        "christmas",
+        "country"
       ],
       "tags": [
         "christmas",
@@ -4024,8 +8732,8 @@
         "en"
       ],
       "categories": [
-        "country",
-        "christmas"
+        "christmas",
+        "country"
       ],
       "tags": [
         "christmas",
@@ -4129,8 +8837,8 @@
         "en"
       ],
       "categories": [
-        "classical",
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "christmas",
@@ -4165,6 +8873,135 @@
       ]
     },
     {
+      "id": "awb_36c785143233a6b36718",
+      "name": "Christmas 365 - Santa's Radio (MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "holiday",
+        "seasonal"
+      ],
+      "homepage": "http://xmas365.fm/",
+      "favicon": "https://i.ibb.co/hFrT99b/default.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:15:05Z",
+      "streams": [
+        {
+          "id": "aws_d88b59bbfbf9237a5741",
+          "stationId": "awb_36c785143233a6b36718",
+          "name": "Christmas 365 - Santa's Radio (MP3)",
+          "country": "US",
+          "url": "http://us3.streamingpulse.com/ssl/7038",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "24080e23-0e6d-4af2-99c4-d094f4da1a01"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:52:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_50f4fb5528494003694e",
+      "name": "Christmas Radio 247 - Toledo (MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.christmasradio247.com/",
+      "favicon": "https://i.ibb.co/zrMYJBd/image.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:35:49Z",
+      "streams": [
+        {
+          "id": "aws_98d7be31ab739bf605a0",
+          "stationId": "awb_50f4fb5528494003694e",
+          "name": "Christmas Radio 247 - Toledo (MP3)",
+          "country": "US",
+          "url": "http://stream.zeno.fm/mppcb4efxvruv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7db489ea-86fd-4ed9-9782-1f841f86f877"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:41:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ad1b0076ae8ca75a5935",
+      "name": "CHRISTMAS STATION (MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "christmas music",
+        "classic hits",
+        "decades",
+        "holiday"
+      ],
+      "homepage": "https://www.classicoldiesradio.com/",
+      "favicon": "https://i.ibb.co/8YczKmL/ca1117b7-730c-4228-8ebd-9b3a3046bf25.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:27:30Z",
+      "streams": [
+        {
+          "id": "aws_a11efcb8cfb95585dca0",
+          "stationId": "awb_ad1b0076ae8ca75a5935",
+          "name": "CHRISTMAS STATION (MP3)",
+          "country": "US",
+          "url": "http://streaming.live365.com/a48206",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "79878499-d42a-4451-83bd-3d3177cf3be7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:24:19Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a8f796917a6fd8709ef8",
       "name": "Christmas Vinyl HD",
       "country": "US",
@@ -4173,8 +9010,8 @@
         "en"
       ],
       "categories": [
-        "religious",
-        "christmas"
+        "christmas",
+        "religious"
       ],
       "tags": [
         "christian",
@@ -4227,8 +9064,8 @@
         "en"
       ],
       "categories": [
-        "religious",
-        "christmas"
+        "christmas",
+        "religious"
       ],
       "tags": [
         "christian",
@@ -4270,6 +9107,102 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T23:20:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ad46209d305037817749",
+      "name": "Classic Country Legends Radio",
+      "country": "US",
+      "subdivision": "Wisconsin",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "country",
+        "oldies"
+      ],
+      "tags": [
+        "christmas music",
+        "classic country",
+        "classics",
+        "country",
+        "country music",
+        "golden",
+        "legends",
+        "music for study",
+        "music radio",
+        "oldies",
+        "radio",
+        "retro",
+        "roots"
+      ],
+      "homepage": "https://classiccountrylegendsradio.neocities.org/",
+      "favicon": "https://classiccountrylegendsradio.neocities.org/android-chrome-192x192.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-07-27T18:11:50Z",
+      "streams": [
+        {
+          "id": "aws_296e38d06e2e3522bd0f",
+          "stationId": "awb_ad46209d305037817749",
+          "name": "Classic Country Legends Radio",
+          "country": "US",
+          "url": "https://stream-178.surfernetwork.com/wf3w5y2rjdhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ZjN3NXkycmpkaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJFM1FWVGQ4eVNmdXBlbWRuSllHa2pnIiwiaWF0IjoxNzg1MTczMjEzLCJleHAiOjE3ODUxNzMyNzN9.dPM3C02OEnU6dj4DHGiC4_0QK07CO86tjQlDOYWARj8",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5b0384ad-bde9-4828-aefd-4a4884d87ddf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:58:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_288ddb805da8583f5118",
+      "name": "CleansingMusic - Cleansing Christmas (MP3)",
+      "country": "US",
+      "subdivision": "Utah",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.cleansingmusic.com/",
+      "favicon": "https://i.ibb.co/HDv7pgX/22399-v3.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:38:05Z",
+      "streams": [
+        {
+          "id": "aws_55ed1637dc12c8f08f56",
+          "stationId": "awb_288ddb805da8583f5118",
+          "name": "CleansingMusic - Cleansing Christmas (MP3)",
+          "country": "US",
+          "url": "http://hemnos.cdnstream.com/1488_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7f2c247f-0e32-49a6-bcbf-0013fa16b50d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:36:47Z"
         }
       ]
     },
@@ -4327,8 +9260,8 @@
         "en"
       ],
       "categories": [
-        "classical",
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "boston",
@@ -4372,8 +9305,8 @@
         "en"
       ],
       "categories": [
-        "classical",
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "boston",
@@ -4417,8 +9350,8 @@
         "en"
       ],
       "categories": [
-        "classical",
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "boston",
@@ -4460,8 +9393,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "religious",
-        "christmas"
+        "christmas",
+        "religious"
       ],
       "tags": [
         "christian",
@@ -4492,6 +9425,88 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T05:21:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8e10ee6a98a319073556",
+      "name": "Family Life - A Family Life Christmas (AAC)",
+      "country": "US",
+      "subdivision": "New York",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.familylife.org/",
+      "favicon": "https://i.ibb.co/TTdwnKS/8a1330fe-0426-4740-8fbf-8ca215350cae.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:51:17Z",
+      "streams": [
+        {
+          "id": "aws_6813124b3a69dc035eeb",
+          "stationId": "awb_8e10ee6a98a319073556",
+          "name": "Family Life - A Family Life Christmas (AAC)",
+          "country": "US",
+          "url": "http://streaming.live365.com/a86427_2",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "faa25d61-1b71-4997-8ff0-420fa2ed3883"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:28:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b35747bfd7d01c5a9fef",
+      "name": "Family Life - A Family Life Christmas (MP3)",
+      "country": "US",
+      "subdivision": "New York",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.familylife.org/",
+      "favicon": "https://i.ibb.co/TTdwnKS/8a1330fe-0426-4740-8fbf-8ca215350cae.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:58:18Z",
+      "streams": [
+        {
+          "id": "aws_559163ccc06382a58635",
+          "stationId": "awb_b35747bfd7d01c5a9fef",
+          "name": "Family Life - A Family Life Christmas (MP3)",
+          "country": "US",
+          "url": "http://streaming.live365.com/a86427",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3186dc5d-b882-4bd9-928b-35b6a1ea6b44"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:42:13Z"
         }
       ]
     },
@@ -4539,14 +9554,55 @@
       ]
     },
     {
+      "id": "awb_6ab381533386a5943fa4",
+      "name": "Greenhouse Christmas (MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "http://www.greenhousechristmas.com/",
+      "favicon": "https://i.ibb.co/JzScJHc/image-2.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:45:24Z",
+      "streams": [
+        {
+          "id": "aws_c2108f0ea04e542b5cfd",
+          "stationId": "awb_6ab381533386a5943fa4",
+          "name": "Greenhouse Christmas (MP3)",
+          "country": "US",
+          "url": "http://stream.zeno.fm/1cz2q2u3uc9uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c9eea523-3b6f-4402-ac12-d6f0f56afd8d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:06:50Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f1ad7acb493128c40619",
       "name": "HPR-3 Heartland Christmas",
       "country": "US",
       "subdivision": null,
       "languages": [],
       "categories": [
-        "country",
-        "christmas"
+        "christmas",
+        "country"
       ],
       "tags": [
         "christmas",
@@ -4627,8 +9683,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "religious",
-        "christmas"
+        "christmas",
+        "religious"
       ],
       "tags": [
         "christian",
@@ -4670,8 +9726,8 @@
         "en"
       ],
       "categories": [
-        "classical",
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "christmas",
@@ -4705,6 +9761,56 @@
       ]
     },
     {
+      "id": "awb_d1d7772bd90ea5081f6e",
+      "name": "KSRN -- The Krazey Stacey Radio network",
+      "country": "US",
+      "subdivision": "Seattle, Washington",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "country",
+        "jazz",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "adult contemporary",
+        "christmas music",
+        "country",
+        "jazz",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://krazeystacey25.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-07-27T01:37:24Z",
+      "streams": [
+        {
+          "id": "aws_8ee7c4b211178b8e5181",
+          "stationId": "awb_d1d7772bd90ea5081f6e",
+          "name": "KSRN -- The Krazey Stacey Radio network",
+          "country": "US",
+          "url": "https://das-edge16-live365-dal02.cdnstream.com/a68889",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "55bf491b-0272-482b-b6b4-adb37b0a47d2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:56:34Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f7f4354cd0e075e3ca77",
       "name": "KUSC A Classical California Christmas",
       "country": "US",
@@ -4713,8 +9819,8 @@
         "en"
       ],
       "categories": [
-        "classical",
-        "christmas"
+        "christmas",
+        "classical"
       ],
       "tags": [
         "christmas",
@@ -4744,6 +9850,141 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:42:04Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1bb7bbda5270191fea4e",
+      "name": "Mistletoe Radio (Christmas)",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "oldies"
+      ],
+      "tags": [
+        "christmas music",
+        "holiday",
+        "oldies",
+        "traditional"
+      ],
+      "homepage": "https://www.mistletoeradio.com/",
+      "favicon": "https://i.ibb.co/dL9Vm3K/f811d12a-bf79-4e9d-ae12-9bf05711cd15.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:37:33Z",
+      "streams": [
+        {
+          "id": "aws_f609b31929dc9e072c3c",
+          "stationId": "awb_1bb7bbda5270191fea4e",
+          "name": "Mistletoe Radio (Christmas)",
+          "country": "US",
+          "url": "http://streaming.live365.com/a22508",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "80d081de-5ba5-4f0b-a005-40c5b7906101"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:56:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_58bc827aa451fc370975",
+      "name": "Mistletoe Radio (Christmas) - Philadelphia (MP3)",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "oldies"
+      ],
+      "tags": [
+        "christmas music",
+        "holiday",
+        "oldies",
+        "traditional"
+      ],
+      "homepage": "https://www.mistletoeradio.com/",
+      "favicon": "https://i.ibb.co/dL9Vm3K/f811d12a-bf79-4e9d-ae12-9bf05711cd15.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:13:09Z",
+      "streams": [
+        {
+          "id": "aws_ab5e2c01b228120eee8f",
+          "stationId": "awb_58bc827aa451fc370975",
+          "name": "Mistletoe Radio (Christmas) - Philadelphia (MP3)",
+          "country": "US",
+          "url": "http://streaming.live365.com/a22508",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "061c68fa-7dee-4930-9447-21316c091c24"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:11:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9cb7d820bdddd18d929e",
+      "name": "Mistletoe Radio (Christmas) (MP3)",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "oldies"
+      ],
+      "tags": [
+        "christmas music",
+        "holiday",
+        "oldies",
+        "traditional"
+      ],
+      "homepage": "https://www.mistletoeradio.com/",
+      "favicon": "https://i.ibb.co/dL9Vm3K/f811d12a-bf79-4e9d-ae12-9bf05711cd15.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:26:25Z",
+      "streams": [
+        {
+          "id": "aws_ab68b763cf5cb2a9b34d",
+          "stationId": "awb_9cb7d820bdddd18d929e",
+          "name": "Mistletoe Radio (Christmas) (MP3)",
+          "country": "US",
+          "url": "http://streaming.live365.com/a22508",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "54dd41af-6ac7-47ee-be44-32a6780a6a86"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:56:11Z"
         }
       ]
     },
@@ -4799,8 +10040,8 @@
         "en"
       ],
       "categories": [
-        "oldies",
-        "christmas"
+        "christmas",
+        "oldies"
       ],
       "tags": [
         "christmas",
@@ -4843,10 +10084,10 @@
         "en"
       ],
       "categories": [
-        "jazz",
+        "christmas",
         "classical",
-        "religious",
-        "christmas"
+        "jazz",
+        "religious"
       ],
       "tags": [
         "christian",
@@ -4884,6 +10125,175 @@
       ]
     },
     {
+      "id": "awb_a3b37c1f8b9bd6b0c0f5",
+      "name": "Power 88 WBHY",
+      "country": "US",
+      "subdivision": "Alabama",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "christian contemporary",
+        "christmas music"
+      ],
+      "homepage": "https://www.goforth.org/Power88",
+      "favicon": "https://content.schoolinsites.com/api/documents/a15a4c0911154e35af747b8ba26786c4.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:42:03Z",
+      "streams": [
+        {
+          "id": "aws_e535df68e2e5a705d047",
+          "stationId": "awb_a3b37c1f8b9bd6b0c0f5",
+          "name": "Power 88 WBHY",
+          "country": "US",
+          "url": "https://us2.maindigitalstream.com/ssl/POWER88",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bcd7484d-4d5f-46bd-8066-b7ec7dc740b2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:04:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_122849922b9254422cfd",
+      "name": "Radio Alma Navidad (Cristiana)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "radio alma navidad cristiana"
+      ],
+      "homepage": "https://zeno.fm/radio/feliznavidad/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:48:59Z",
+      "streams": [
+        {
+          "id": "aws_b71531c6c7eb35ff1332",
+          "stationId": "awb_122849922b9254422cfd",
+          "name": "Radio Alma Navidad (Cristiana)",
+          "country": "US",
+          "url": "http://stream.zeno.fm/7h4nadwseg0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dff67e6d-cd73-4ad4-8698-15e5684e59dd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c3dfaa3e172e415d4bfd",
+      "name": "Radio North Pole",
+      "country": "US",
+      "subdivision": "Alaska",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "fairbanks",
+        "rsl"
+      ],
+      "homepage": "https://www.radionorthpole.com/",
+      "favicon": "https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:01:25Z",
+      "streams": [
+        {
+          "id": "aws_dbe25b4a1441049d7870",
+          "stationId": "awb_c3dfaa3e172e415d4bfd",
+          "name": "Radio North Pole",
+          "country": "US",
+          "url": "https://streaming.radiostreamlive.com/radionorthpole_devices",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "edffdf29-d626-11e8-a54a-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:12:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_24726cdf385c37b23ee3",
+      "name": "Radio Santa (MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.radiosanta.com/",
+      "favicon": "https://i.ibb.co/VMLf3Ds/750d9e80-9e84-49ab-bdcf-7b59e5b9157b-jpg.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:28:27Z",
+      "streams": [
+        {
+          "id": "aws_ae366c122bea43860ffe",
+          "stationId": "awb_24726cdf385c37b23ee3",
+          "name": "Radio Santa (MP3)",
+          "country": "US",
+          "url": "http://streaming.live365.com/a53827",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4c88fbe0-c469-408e-ae8c-5b43845a0ccf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:40:19Z"
+        }
+      ]
+    },
+    {
       "id": "awb_695e85ca21b85e8cc55a",
       "name": "Santa's North Pole Radio | Stupid Potato",
       "country": "US",
@@ -4892,8 +10302,8 @@
         "en"
       ],
       "categories": [
-        "oldies",
-        "christmas"
+        "christmas",
+        "oldies"
       ],
       "tags": [
         "christmas",
@@ -4979,9 +10389,9 @@
         "en"
       ],
       "categories": [
+        "christmas",
         "pop",
-        "rock",
-        "christmas"
+        "rock"
       ],
       "tags": [
         "christmad",
@@ -5131,8 +10541,8 @@
         "en"
       ],
       "categories": [
-        "rock",
-        "christmas"
+        "christmas",
+        "rock"
       ],
       "tags": [
         "alternative",
@@ -5209,6 +10619,94 @@
       ]
     },
     {
+      "id": "awb_e860e3e5c0941d759552",
+      "name": "SomaFM Xmas in Frisco (32k AAC)",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "nsfw",
+        "san francisco",
+        "seasonal"
+      ],
+      "homepage": "https://somafm.com/xmasinfrisko/",
+      "favicon": "https://somafm.com/img3/xmasinfrisko-400.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-11T22:00:58Z",
+      "streams": [
+        {
+          "id": "aws_ac28923ceb09bafd17ec",
+          "stationId": "awb_e860e3e5c0941d759552",
+          "name": "SomaFM Xmas in Frisco (32k AAC)",
+          "country": "US",
+          "url": "https://ice2.somafm.com/xmasinfrisko-32-aac",
+          "codec": "aac",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dd9de9de-9ba3-4d33-92b0-66f7129b164b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:01:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_42697b38a62345bbb491",
+      "name": "SomaFM Xmas in Frisco (64k AAC)",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music",
+        "nsfw",
+        "san francisco",
+        "seasonal"
+      ],
+      "homepage": "https://somafm.com/xmasinfrisko/",
+      "favicon": "https://somafm.com/img3/xmasinfrisko-400.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-11T21:31:03Z",
+      "streams": [
+        {
+          "id": "aws_c7c43444e66a19de5fd5",
+          "stationId": "awb_42697b38a62345bbb491",
+          "name": "SomaFM Xmas in Frisco (64k AAC)",
+          "country": "US",
+          "url": "https://ice6.somafm.com/xmasinfrisko-64-aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "da163975-de68-11e8-a9cc-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:31:04Z"
+        }
+      ]
+    },
+    {
       "id": "awb_37fea3efd66754b5f8e7",
       "name": "Sunny 105 - Feel Good Christmas Variety",
       "country": "US",
@@ -5217,9 +10715,9 @@
         "en"
       ],
       "categories": [
+        "christmas",
         "classical",
-        "oldies",
-        "christmas"
+        "oldies"
       ],
       "tags": [
         "70s",
@@ -5265,11 +10763,13 @@
         "en"
       ],
       "categories": [
-        "jazz",
-        "hip-hop",
+        "christmas",
         "country",
+        "electronic",
+        "hip-hop",
+        "jazz",
         "oldies",
-        "christmas"
+        "rock"
       ],
       "tags": [
         "2000s",
@@ -5328,12 +10828,13 @@
         "en"
       ],
       "categories": [
-        "jazz",
-        "hip-hop",
+        "christmas",
         "country",
-        "religious",
+        "hip-hop",
+        "jazz",
         "oldies",
-        "christmas"
+        "religious",
+        "rock"
       ],
       "tags": [
         "2000s",
@@ -5383,6 +10884,217 @@
       ]
     },
     {
+      "id": "awb_b67f39ff0afb16e7fc79",
+      "name": "That Christmas Channel (MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://thatchristmaschannel.com/",
+      "favicon": "https://thatchristmaschannel.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:27:11Z",
+      "streams": [
+        {
+          "id": "aws_c34edaeeb182cc0492cf",
+          "stationId": "awb_b67f39ff0afb16e7fc79",
+          "name": "That Christmas Channel (MP3)",
+          "country": "US",
+          "url": "http://ais-edge105-live365-dal02.cdnstream.com/a37180",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "03b36d9d-f382-48bf-a26a-5d1a620ed762"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:13:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f871dfd7d6deb4562728",
+      "name": "The Alway's Christmas Channel (MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://www.thealwayschristmaschannel.com/",
+      "favicon": "https://i.ibb.co/Wkp73hm/600.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:38:09Z",
+      "streams": [
+        {
+          "id": "aws_39a0db4269ee717d01dc",
+          "stationId": "awb_f871dfd7d6deb4562728",
+          "name": "The Alway's Christmas Channel (MP3)",
+          "country": "US",
+          "url": "http://kea.cdnstream.com/1837_128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2a21a72a-4c32-4b14-abf9-f76fbcc3218d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:03:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4df08b16d196906ac819",
+      "name": "The Christmas Station (M3U 192 kb/s)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://thechristmasstation.org/",
+      "favicon": "https://i.ibb.co/4JtDFkJ/stationlogo.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:12:47Z",
+      "streams": [
+        {
+          "id": "aws_4141a21229732d50fb3d",
+          "stationId": "awb_4df08b16d196906ac819",
+          "name": "The Christmas Station (M3U 192 kb/s)",
+          "country": "US",
+          "url": "http://stream.radio.co/s63541ce9b/listen",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a360a161-e9ab-46f4-adb2-77cb62cd23bd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:17:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_81f77d2e95b4e7c99b96",
+      "name": "The Christmas Station (MP3 192 kb/s)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://thechristmasstation.org/",
+      "favicon": "https://thechristmasstation.org/icon.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:20:44Z",
+      "streams": [
+        {
+          "id": "aws_2d24bd7c0f2e3562c615",
+          "stationId": "awb_81f77d2e95b4e7c99b96",
+          "name": "The Christmas Station (MP3 192 kb/s)",
+          "country": "US",
+          "url": "http://stream.radio.co/s63541ce9b/listen",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1ff4f20a-c455-444d-bf8d-082b5bc3d1f7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:34:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_70f41f2fb74445386d71",
+      "name": "The Cutting Edge of Christmas (MP3)",
+      "country": "US",
+      "subdivision": "New York",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "country",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "christmas music",
+        "country",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://www.thecuttingedgeofchristmas.com/",
+      "favicon": "https://i.ibb.co/sXqfKR1/m1j1-Xeli-Sgqxi-MOdxgb-H-T0r-W3-RB0-OEms6j65.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:29:03Z",
+      "streams": [
+        {
+          "id": "aws_521467d6ec1ea5cf706b",
+          "stationId": "awb_70f41f2fb74445386d71",
+          "name": "The Cutting Edge of Christmas (MP3)",
+          "country": "US",
+          "url": "http://s5.radio.co/sb3c8084dd/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "502c0a21-3f71-448e-a23a-88152c0e7e75"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:21:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_0086b8dc0c261453cddd",
       "name": "The Miller Lights Radio",
       "country": "US",
@@ -5420,6 +11132,86 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:15:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_00e6a75d0890f355b963",
+      "name": "Totally Christmas Radio",
+      "country": "US",
+      "subdivision": "NY",
+      "languages": [],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://totallychristmasradio.weebly.com/",
+      "favicon": "https://totallychristmasradio.weebly.com/uploads/6/0/1/4/60142111/totally-christmas-radio-logo-600x600_orig.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:07Z",
+      "streams": [
+        {
+          "id": "aws_de3b91893002c0b251f1",
+          "stationId": "awb_00e6a75d0890f355b963",
+          "name": "Totally Christmas Radio",
+          "country": "US",
+          "url": "http://67.249.184.45:8008/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6786001f-12b4-4e57-bc96-b50d6625dacf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:05:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_eedd09381a1b584d9bbc",
+      "name": "Totally Christmas Radio - Little Falls (MP3)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://totallychristmasradio.weebly.com/",
+      "favicon": "https://i.ibb.co/2yndrcS/image.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:29:21Z",
+      "streams": [
+        {
+          "id": "aws_c111a7d3e9d9ac5bcc4b",
+          "stationId": "awb_eedd09381a1b584d9bbc",
+          "name": "Totally Christmas Radio - Little Falls (MP3)",
+          "country": "US",
+          "url": "http://stream.zeno.fm/oegn3anzamyuv",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5457433a-d0dd-486e-9949-260c1941f028"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:31:04Z"
         }
       ]
     },
@@ -5474,8 +11266,8 @@
         "en"
       ],
       "categories": [
-        "folk",
-        "christmas"
+        "christmas",
+        "folk"
       ],
       "tags": [
         "acoustic",
@@ -5506,6 +11298,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:30:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5070ac53c1eb35ed50e7",
+      "name": "Your Classical - Holiday",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "classical"
+      ],
+      "tags": [
+        "christmas music",
+        "classical",
+        "holiday",
+        "seasonal"
+      ],
+      "homepage": "https://www.yourclassical.org/",
+      "favicon": "https://www.yourclassical.org/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:18:04Z",
+      "streams": [
+        {
+          "id": "aws_59244f2036e24fe2d6e9",
+          "stationId": "awb_5070ac53c1eb35ed50e7",
+          "name": "Your Classical - Holiday",
+          "country": "US",
+          "url": "https://holiday.stream.publicradio.org/holiday_yc.mp3?cb=8282040137",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96471b51-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:38:01Z"
         }
       ]
     },
@@ -5567,8 +11404,8 @@
         "en"
       ],
       "categories": [
-        "community",
-        "christmas"
+        "christmas",
+        "community"
       ],
       "tags": [
         "automated",
@@ -5612,6 +11449,49 @@
       ]
     },
     {
+      "id": "awb_5070d35d92c6efae3a20",
+      "name": "ZChristmas",
+      "country": "US",
+      "subdivision": "Florida",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "christmas music"
+      ],
+      "homepage": "https://zchristmas.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:33:37Z",
+      "streams": [
+        {
+          "id": "aws_068f0b1e7e84d8554380",
+          "stationId": "awb_5070d35d92c6efae3a20",
+          "name": "ZChristmas",
+          "country": "US",
+          "url": "https://ice.zradio.org/c/high.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2b61e6be-fb00-45b1-b36e-9045d6365c76"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:54:12Z"
+        }
+      ]
+    },
+    {
       "id": "awb_fed47b581dcdb97dd4c6",
       "name": "Navidad Venezuela",
       "country": "VE",
@@ -5620,8 +11500,8 @@
         "es"
       ],
       "categories": [
-        "religious",
-        "christmas"
+        "christmas",
+        "religious"
       ],
       "tags": [
         "general",
@@ -5653,6 +11533,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:23:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3e6bd7eccd1f225a3b2e",
+      "name": "Classical Christmas FM",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas music"
+      ],
+      "homepage": "https://christmasfm.com/",
+      "favicon": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:12:02Z",
+      "streams": [
+        {
+          "id": "aws_1ff5edad39bc6c2085de",
+          "stationId": "awb_3e6bd7eccd1f225a3b2e",
+          "name": "Classical Christmas FM",
+          "country": "ZZ",
+          "url": "https://christmasfm.cdnstream1.com/2550_128.mp3?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1605423292",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "225e51f4-d04a-48a6-9c84-c1b103e8eea1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:39:39Z"
         }
       ]
     }

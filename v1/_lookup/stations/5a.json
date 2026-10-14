@@ -85,7 +85,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "italian pop"
     ],
@@ -286,8 +288,8 @@
       "es"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "60's",
@@ -372,7 +374,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "folk"
+      "blues",
+      "folk",
+      "rock"
     ],
     "tags": [
       "blues and r&b",
@@ -415,8 +419,8 @@
       "en"
     ],
     "categories": [
-      "public",
-      "classical"
+      "classical",
+      "public"
     ],
     "tags": [
       "classical",
@@ -810,9 +814,9 @@
     "subdivision": "Rio Grande do Sul",
     "languages": [],
     "categories": [
-      "rock",
+      "blues",
       "jazz",
-      "blues"
+      "rock"
     ],
     "tags": [
       "blues",
@@ -854,7 +858,9 @@
     "country": "BR",
     "subdivision": "Alagoas",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "jornalismo(all news)"
     ],
@@ -885,13 +891,56 @@
       }
     ]
   },
+  "awb_5a67593fbef64eacd75a": {
+    "id": "awb_5a67593fbef64eacd75a",
+    "name": "Radio Comunitaria Serrana FM",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "campeira",
+      "gauchesca",
+      "gauderia",
+      "tradicionalista"
+    ],
+    "homepage": "https://www.radioserranafm106-3.com/",
+    "favicon": "https://platform-upload.cdn-brlogic.com/247197/favicon/43989fda08315584fe1b09619c8f630a.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:51:29Z",
+    "streams": [
+      {
+        "id": "aws_3da4b3094f06c32690df",
+        "stationId": "awb_5a67593fbef64eacd75a",
+        "name": "Radio Comunitaria Serrana FM",
+        "country": "BR",
+        "url": "https://servidor32-2.brlogic.com:7008/live",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8018f626-3ee6-4b32-ac51-4951153feb90"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_5a311aadaacd76fd95c6": {
     "id": "awb_5a311aadaacd76fd95c6",
     "name": "Rádio Rural de Natal 91.9 FM",
     "country": "BR",
     "subdivision": "Rio Grande do Norte",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "news",
+      "pop"
+    ],
     "tags": [
       "local news",
       "mpb",
@@ -1048,9 +1097,9 @@
       "en"
     ],
     "categories": [
-      "pop",
       "hip-hop",
-      "latin"
+      "latin",
+      "pop"
     ],
     "tags": [
       "hiphop",
@@ -1169,7 +1218,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "news radio",
       "vancouver"
@@ -1357,7 +1408,9 @@
     "languages": [
       "ta"
     ],
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "tags": [
       "christian praise&worship",
       "tamil",
@@ -1616,7 +1669,9 @@
     "languages": [
       "zh"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "music",
       "pop music"
@@ -1898,7 +1953,9 @@
       "es"
     ],
     "categories": [
-      "news"
+      "news",
+      "sports",
+      "talk"
     ],
     "tags": [
       "culture",
@@ -2031,8 +2088,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "#",
@@ -2251,9 +2308,9 @@
       "de"
     ],
     "categories": [
-      "pop",
+      "electronic",
       "jazz",
-      "electronic"
+      "pop"
     ],
     "tags": [
       "afrolatine lebensfreude",
@@ -2335,9 +2392,9 @@
       "de"
     ],
     "categories": [
-      "rock",
       "metal",
-      "punk"
+      "punk",
+      "rock"
     ],
     "tags": [
       "1970s",
@@ -2388,11 +2445,11 @@
       "de"
     ],
     "categories": [
-      "pop",
-      "rock",
       "folk",
       "metal",
-      "punk"
+      "pop",
+      "punk",
+      "rock"
     ],
     "tags": [
       "aor",
@@ -2442,8 +2499,8 @@
       "de"
     ],
     "categories": [
-      "rock",
-      "metal"
+      "metal",
+      "rock"
     ],
     "tags": [
       "gothic",
@@ -3008,9 +3065,9 @@
       "es"
     ],
     "categories": [
-      "pop",
       "electronic",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "80s",
@@ -3215,9 +3272,9 @@
       "es"
     ],
     "categories": [
+      "oldies",
       "pop",
-      "rock",
-      "oldies"
+      "rock"
     ],
     "tags": [
       "80's",
@@ -3604,7 +3661,10 @@
     "country": "GB",
     "subdivision": "Liverpool",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
     "tags": [
       "pop music",
       "pop rock"
@@ -3722,8 +3782,8 @@
       "en"
     ],
     "categories": [
-      "pop",
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "00s",
@@ -3860,7 +3920,8 @@
       "el"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "news",
@@ -3899,7 +3960,9 @@
     "country": "GR",
     "subdivision": "Chios",
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "greek pop"
     ],
@@ -3939,8 +4002,8 @@
       "el"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "oldies",
@@ -3982,7 +4045,8 @@
       "el"
     ],
     "categories": [
-      "news"
+      "news",
+      "talk"
     ],
     "tags": [
       "greek music",
@@ -4293,7 +4357,9 @@
     "country": "HU",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits",
       "classic-hits",
@@ -5039,7 +5105,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "90.3 fm",
       "adictivo radio",
@@ -5235,7 +5303,9 @@
     "languages": [
       "es"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "99.9 fm",
       "américa",
@@ -5500,7 +5570,8 @@
       "es"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "101.1 fm",
@@ -5719,7 +5790,9 @@
     "languages": [
       "nl"
     ],
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "tags": [
       "local news",
       "local radio",
@@ -5876,8 +5949,8 @@
       "es"
     ],
     "categories": [
-      "news",
-      "jazz"
+      "jazz",
+      "news"
     ],
     "tags": [
       "jazz",
@@ -5958,7 +6031,9 @@
     "subdivision": null,
     "languages": [],
     "categories": [
+      "latin",
       "news",
+      "pop",
       "talk"
     ],
     "tags": [
@@ -6109,8 +6184,8 @@
     ],
     "categories": [
       "news",
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "chansons françaises",
@@ -6269,8 +6344,8 @@
       "sr"
     ],
     "categories": [
-      "pop",
-      "folk"
+      "folk",
+      "pop"
     ],
     "tags": [
       "folk",
@@ -6315,8 +6390,8 @@
       "sr"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "2000s",
@@ -6507,7 +6582,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "ballads",
       "pop ballads"
@@ -6699,7 +6776,11 @@
     "country": "SA",
     "subdivision": null,
     "languages": [],
-    "categories": [],
+    "categories": [
+      "jazz",
+      "pop",
+      "rock"
+    ],
     "tags": [
       "others",
       "pop.rock.jazz"
@@ -7072,7 +7153,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "rock"
+    ],
     "tags": [
       "indie rock"
     ],
@@ -7111,7 +7194,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "classic hits"
     ],
@@ -7194,7 +7279,8 @@
       "en"
     ],
     "categories": [
-      "oldies"
+      "oldies",
+      "pop"
     ],
     "tags": [
       "70s",
@@ -7477,8 +7563,8 @@
       "en"
     ],
     "categories": [
-      "talk",
-      "ambient"
+      "ambient",
+      "talk"
     ],
     "tags": [
       "ambient",
@@ -7641,8 +7727,8 @@
     ],
     "categories": [
       "news",
-      "talk",
-      "public"
+      "public",
+      "talk"
     ],
     "tags": [
       "local music",
@@ -7915,8 +8001,8 @@
       "en"
     ],
     "categories": [
-      "rock",
-      "oldies"
+      "oldies",
+      "rock"
     ],
     "tags": [
       "90s",
@@ -8282,7 +8368,9 @@
     "languages": [
       "en"
     ],
-    "categories": [],
+    "categories": [
+      "oldies"
+    ],
     "tags": [
       "oldies 60s 70s 80s"
     ],

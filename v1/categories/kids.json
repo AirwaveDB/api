@@ -1,6 +1,6 @@
 {
   "id": "kids",
-  "stationCount": 147,
+  "stationCount": 151,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -11,8 +11,8 @@
         "en"
       ],
       "categories": [
-        "talk",
-        "kids"
+        "kids",
+        "talk"
       ],
       "tags": [
         "books",
@@ -63,6 +63,7 @@
         "en"
       ],
       "categories": [
+        "ambient",
         "kids"
       ],
       "tags": [
@@ -232,8 +233,8 @@
         "en"
       ],
       "categories": [
-        "public",
-        "kids"
+        "kids",
+        "public"
       ],
       "tags": [
         "children",
@@ -277,6 +278,7 @@
         "en"
       ],
       "categories": [
+        "christmas",
         "kids"
       ],
       "tags": [
@@ -353,6 +355,48 @@
       ]
     },
     {
+      "id": "awb_6602a32e5abcae9c2262",
+      "name": "LiSTNR - Kids Hits (HLS)",
+      "country": "AU",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "kids",
+        "pop"
+      ],
+      "tags": [
+        "kids hits"
+      ],
+      "homepage": "https://play.listnr.com/station/kids-hits",
+      "favicon": "https://i.ibb.co/Q75v6mTp/Li-STNR-Square-Tile-3000x3000-KIDS-HITS.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-31T08:02:26Z",
+      "streams": [
+        {
+          "id": "aws_2b4502eefd7dfe702b0f",
+          "stationId": "awb_6602a32e5abcae9c2262",
+          "name": "LiSTNR - Kids Hits (HLS)",
+          "country": "AU",
+          "url": "http://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0b8b8e88-210d-4a23-b1ba-c4f8103d479a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:15:11Z"
+        }
+      ]
+    },
+    {
       "id": "awb_01a7c9130d48a4f728a6",
       "name": "Tank FM - Kempsey - 103.1 FM (AAC)",
       "country": "AU",
@@ -362,10 +406,11 @@
       ],
       "categories": [
         "community",
-        "rock",
         "country",
+        "kids",
+        "pop",
         "religious",
-        "kids"
+        "rock"
       ],
       "tags": [
         "classic hits",
@@ -414,10 +459,11 @@
       ],
       "categories": [
         "community",
-        "rock",
         "country",
+        "kids",
+        "pop",
         "religious",
-        "kids"
+        "rock"
       ],
       "tags": [
         "classic hits",
@@ -465,8 +511,8 @@
         "nl"
       ],
       "categories": [
-        "pop",
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "kids",
@@ -594,8 +640,8 @@
         "gsw"
       ],
       "categories": [
-        "religious",
-        "kids"
+        "kids",
+        "religious"
       ],
       "tags": [
         "children",
@@ -640,8 +686,8 @@
         "gsw"
       ],
       "categories": [
-        "religious",
-        "kids"
+        "kids",
+        "religious"
       ],
       "tags": [
         "children",
@@ -935,8 +981,8 @@
         "zh"
       ],
       "categories": [
-        "pop",
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "106.7",
@@ -1216,7 +1262,8 @@
         "zh"
       ],
       "categories": [
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "children",
@@ -1726,6 +1773,61 @@
       ]
     },
     {
+      "id": "awb_b3a6fd9bb2a8d6e2814d",
+      "name": "KiKA HD - Kinderkanal von ARD und ZDF",
+      "country": "DE",
+      "subdivision": "Deutschland (Germany)",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "tags": [
+        "ard",
+        "cartoon network",
+        "checkeins",
+        "children tv",
+        "disney channel",
+        "iptv",
+        "kika",
+        "kinderfernsehen",
+        "kinderkanal",
+        "livestream",
+        "mdr",
+        "super rtl",
+        "toggo",
+        "zdf",
+        "zdftivi"
+      ],
+      "homepage": "https://www.kika.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:13:35Z",
+      "streams": [
+        {
+          "id": "aws_4f068a021c2974237a78",
+          "stationId": "awb_b3a6fd9bb2a8d6e2814d",
+          "name": "KiKA HD - Kinderkanal von ARD und ZDF",
+          "country": "DE",
+          "url": "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
+          "codec": "aac",
+          "bitrate": 1672,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a6d8ac49-3dbc-4de1-92da-2ec6affc1d35"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:33:14Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7fa22a09b60ba26ac38e",
       "name": "Kinder Rockradio",
       "country": "DE",
@@ -1734,8 +1836,8 @@
         "de"
       ],
       "categories": [
-        "rock",
-        "kids"
+        "kids",
+        "rock"
       ],
       "tags": [
         "children",
@@ -1780,6 +1882,7 @@
         "de"
       ],
       "categories": [
+        "christmas",
         "kids"
       ],
       "tags": [
@@ -2001,8 +2104,8 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "children",
@@ -2075,9 +2178,9 @@
         "de"
       ],
       "categories": [
-        "pop",
         "folk",
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "children",
@@ -2371,8 +2474,8 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "kids",
@@ -2838,6 +2941,7 @@
         "de"
       ],
       "categories": [
+        "christmas",
         "kids"
       ],
       "tags": [
@@ -3010,8 +3114,8 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "hits",
@@ -3055,8 +3159,8 @@
         "de"
       ],
       "categories": [
-        "pop",
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "hits",
@@ -3142,7 +3246,8 @@
         "de"
       ],
       "categories": [
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "children",
@@ -3938,8 +4043,8 @@
         "el"
       ],
       "categories": [
-        "talk",
-        "kids"
+        "kids",
+        "talk"
       ],
       "tags": [
         "children",
@@ -4269,6 +4374,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T21:30:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b1eb7e0b7802c46e684d",
+      "name": "Sfera Kids",
+      "country": "GR",
+      "subdivision": "Athens",
+      "languages": [],
+      "categories": [
+        "kids"
+      ],
+      "tags": [
+        "kids’ party music"
+      ],
+      "homepage": "https://sfera.gr/",
+      "favicon": "https://static.app.sfera.gr/radios/61c052dae643494d49ac04d2/kid-radio-1655793766318.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:09Z",
+      "streams": [
+        {
+          "id": "aws_4681055e0b6630c6bfd5",
+          "stationId": "awb_b1eb7e0b7802c46e684d",
+          "name": "Sfera Kids",
+          "country": "GR",
+          "url": "https://politismedia-sec3.live24.gr/sfera1022kids",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "df231d5e-42c7-4761-ac50-39c698a3c5cc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:48:11Z"
         }
       ]
     },
@@ -4620,8 +4764,8 @@
         "it"
       ],
       "categories": [
-        "public",
-        "kids"
+        "kids",
+        "public"
       ],
       "tags": [
         "children",
@@ -4704,8 +4848,8 @@
       "subdivision": null,
       "languages": [],
       "categories": [
-        "religious",
-        "kids"
+        "kids",
+        "religious"
       ],
       "tags": [
         "christian",
@@ -4976,8 +5120,11 @@
         "en"
       ],
       "categories": [
+        "kids",
+        "news",
         "pop",
-        "kids"
+        "religious",
+        "talk"
       ],
       "tags": [
         "christian-gospel",
@@ -5233,8 +5380,8 @@
         "pt"
       ],
       "categories": [
-        "pop",
-        "kids"
+        "kids",
+        "pop"
       ],
       "tags": [
         "children",
@@ -5605,6 +5752,48 @@
       ]
     },
     {
+      "id": "awb_35ab6ee434a10b233c89",
+      "name": "Детский Канал - Русское Радио",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "tags": [
+        "children music",
+        "fairytales"
+      ],
+      "homepage": "https://rusradio.ru/online/detskii-kanal",
+      "favicon": "https://rusradio.ru/uploads/8e/08/4ce3ff8344dd6e98f853daa1ec9d.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:53:43Z",
+      "streams": [
+        {
+          "id": "aws_557389d40527bf7b7969",
+          "stationId": "awb_35ab6ee434a10b233c89",
+          "name": "Детский Канал - Русское Радио",
+          "country": "RU",
+          "url": "https://rr-detskijkanal.hostingradio.ru/detskijkanal96.aacp",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "464bcd7d-6be6-4ae2-9232-38dda51effc7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:12:11Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8e0bebd6e156c0b8a9c8",
       "name": "Детское радио Сыктывкар 92.0 FM",
       "country": "RU",
@@ -5701,8 +5890,8 @@
         "ru"
       ],
       "categories": [
-        "talk",
-        "kids"
+        "kids",
+        "talk"
       ],
       "tags": [
         "audio guide",
@@ -5803,8 +5992,10 @@
         "sv"
       ],
       "categories": [
+        "kids",
+        "news",
         "religious",
-        "kids"
+        "talk"
       ],
       "tags": [
         "children",
@@ -5910,8 +6101,8 @@
         "sk"
       ],
       "categories": [
-        "public",
-        "kids"
+        "kids",
+        "public"
       ],
       "tags": [
         "children",
@@ -5995,6 +6186,7 @@
         "en"
       ],
       "categories": [
+        "christmas",
         "kids"
       ],
       "tags": [
@@ -6039,8 +6231,8 @@
         "en"
       ],
       "categories": [
-        "religious",
-        "kids"
+        "kids",
+        "religious"
       ],
       "tags": [
         "children",
@@ -6316,8 +6508,8 @@
         "en"
       ],
       "categories": [
-        "public",
-        "kids"
+        "kids",
+        "public"
       ],
       "tags": [
         "kids",
@@ -6489,8 +6681,8 @@
         "en"
       ],
       "categories": [
-        "oldies",
-        "kids"
+        "kids",
+        "oldies"
       ],
       "tags": [
         "80s",
