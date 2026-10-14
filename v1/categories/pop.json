@@ -1,6 +1,6 @@
 {
   "id": "pop",
-  "stationCount": 9109,
+  "stationCount": 9110,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -17216,8 +17216,8 @@
       "homepage": "https://www.antennevorarlberg.at/",
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-08-24",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-14T07:32:20Z",
       "streams": [
         {
           "id": "aws_05372a831371dd368bb9",
@@ -17239,6 +17239,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:44:45Z"
+        },
+        {
+          "id": "aws_35221527e55c9c3d04e4",
+          "stationId": "awb_8c96e4c76e63dc04b9b3",
+          "name": "ANTENNE VORARLBERG Coffee Hits",
+          "country": "AT",
+          "url": "https://web.radio.antennevorarlberg.at/av-coffee/stream/mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b26e98a3-a60c-4940-b1b7-4a4dd6737253"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -113908,7 +113927,7 @@
         "youth"
       ],
       "homepage": "https://n-joy.de/",
-      "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Njoy-logo.svg/512px-Njoy-logo.svg.png",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-01-15T08:34:02Z",
@@ -178144,7 +178163,7 @@
       "id": "awb_0d84734a9ee1e4dddcf0",
       "name": "Soul Rhythms Radio UK",
       "country": "GB",
-      "subdivision": "Kent",
+      "subdivision": "London, England",
       "languages": [
         "en"
       ],
@@ -178186,7 +178205,7 @@
         "soul",
         "soul music"
       ],
-      "homepage": "https://soulrhythmsradio.com/",
+      "homepage": "https://soulrhythmsradio.com/home/",
       "favicon": "https://soulrhythmsradio.com/wp-content/uploads/2023/12/SRR-LOGOTHIS_ONE.jpg",
       "type": null,
       "sourceCount": 5,
@@ -215313,7 +215332,7 @@
         "pop"
       ],
       "homepage": "https://radiofm.novawap.com/",
-      "favicon": "https://liveonlineradio.net/wp-content/uploads/2013/12%20/gen-fm-1.Jpg",
+      "favicon": "https://liveonlineradio.net/wp-content/uploads/2013/12/gen-fm-1.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-27T21:50:27Z",
@@ -349898,6 +349917,51 @@
       ]
     },
     {
+      "id": "awb_a5e1d86859ad9c45494d",
+      "name": "NLROXX Radio",
+      "country": "NL",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hollandse hits",
+        "nederlands",
+        "nederlandstalig",
+        "nieuwe nederlandse",
+        "piratenhits"
+      ],
+      "homepage": "https://www.nlroxx.nl/",
+      "favicon": "https://www.nlroxx.nl/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T05:30:37Z",
+      "streams": [
+        {
+          "id": "aws_7754fd60f59530fcff5e",
+          "stationId": "awb_a5e1d86859ad9c45494d",
+          "name": "NLROXX Radio",
+          "country": "NL",
+          "url": "https://a13.asurahosting.com/listen/nlvoxx_radio/radio.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8a3496d2-aeee-424e-bc02-7e39992ee493"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_ac7f31be6085a8748fa6",
       "name": "Non Stop AlexFM",
       "country": "NL",
@@ -404156,7 +404220,7 @@
     },
     {
       "id": "awb_e409ed31da9366df648d",
-      "name": "Радио ViBE Новый Звук",
+      "name": "Радио Vibe Новый Звук",
       "country": "RU",
       "subdivision": "russia",
       "languages": [
@@ -404171,7 +404235,7 @@
         "pop"
       ],
       "homepage": "https://radiovibe.ru/",
-      "favicon": "https://radiovibe.ru/img/vibe_500.png",
+      "favicon": "https://radiovibe.ru/favicon.ico",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T13:24:17Z",
@@ -433705,7 +433769,7 @@
         "oldies",
         "wisconsin"
       ],
-      "homepage": "https://classiccountrylegendsradio.neocities.org/",
+      "homepage": "https://classiccountrylegendsradio.neocities.org/goldenoldies",
       "favicon": "https://images.zeno.fm/oLsvZnvFd_rx-U_Xvki0Uu8RpK46_XVfSbMunX5q0us/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2JhNDE3OWEzLTExMjEtNDUwMi1hNGZkLTU0MjUzYWExNjg3YS9pbWFnZS8_dT0xNzkxMTQyNTg2NzEy.webp",
       "type": null,
       "sourceCount": 2,

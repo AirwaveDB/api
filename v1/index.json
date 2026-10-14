@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-14T03:49:38.671Z",
+  "generatedAt": "2026-10-14T09:31:33.217Z",
   "schemaVersion": 1,
-  "stationCount": 54232,
-  "streamCount": 57412,
+  "stationCount": 54240,
+  "streamCount": 57421,
   "countryCount": 243,
   "languageCount": 147,
   "categoryCount": 25,
-  "databaseGeneratedAt": "2026-10-14T03:45:53.162Z",
-  "streamsGeneratedAt": "2026-10-14T03:47:13.049Z",
+  "databaseGeneratedAt": "2026-10-14T07:40:19.627Z",
+  "streamsGeneratedAt": "2026-10-14T08:49:47.676Z",
   "databaseSchemaVersion": 1,
   "streamsSchemaVersion": 1,
   "sourceSnapshots": {
     "database": {
-      "commit": "2918873f4e10fdb822c400a3d97d7ff69a84c299",
-      "generatedAt": "2026-10-14T03:45:53.162Z",
+      "commit": "5eff6d494ae840361deb8be3d2c214d3e8d676da",
+      "generatedAt": "2026-10-14T07:40:19.627Z",
       "schemaVersion": 1
     },
     "streams": {
-      "commit": "ef7dd0ddb291784494faf8f18f2e76cbbec476a3",
-      "generatedAt": "2026-10-14T03:47:13.049Z",
+      "commit": "6ebefd45bff7115a72969a4e59b84f908e340f2c",
+      "generatedAt": "2026-10-14T08:49:47.676Z",
       "schemaVersion": 1,
-      "databaseGeneratedAt": "2026-10-14T03:45:53.162Z",
+      "databaseGeneratedAt": "2026-10-14T07:40:19.627Z",
       "idStrategy": "source-provenance-v1"
     }
   },
   "quality": {
     "database": {
-      "withHomepage": 51727,
-      "withFavicon": 33456,
-      "withLanguage": 34285,
-      "withCategory": 26528,
+      "withHomepage": 51734,
+      "withFavicon": 33460,
+      "withLanguage": 34291,
+      "withCategory": 26531,
       "unknownCountry": 1101,
       "withType": 2547,
-      "normalizedLanguageValues": 472
+      "normalizedLanguageValues": 473
     },
     "streams": {
       "withCodec": 57392,
       "withBitrate": 48530,
       "hls": 3850,
-      "sourceCheckOk": 57412,
+      "sourceCheckOk": 57421,
       "unknownCountry": 1211,
-      "identityReused": 57410,
-      "identityNew": 2
+      "identityReused": 57412,
+      "identityNew": 9
     }
   },
   "routes": {

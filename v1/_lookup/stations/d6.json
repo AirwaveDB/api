@@ -3687,6 +3687,45 @@
       }
     ]
   },
+  "awb_d6bf3d0e532275f44806": {
+    "id": "awb_d6bf3d0e532275f44806",
+    "name": "Channel 5",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "tv"
+    ],
+    "homepage": "https://channel5.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T05:57:57Z",
+    "streams": [
+      {
+        "id": "aws_daf7bd9b596e2e9ea626",
+        "stationId": "awb_d6bf3d0e532275f44806",
+        "name": "Channel 5",
+        "country": "GB",
+        "url": "http://onj2.andrelouis.com:8000/channel5",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6890a465-27e3-414e-9e88-89483c90ddf3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_d6332a45aa16944fdf0d": {
     "id": "awb_d6332a45aa16944fdf0d",
     "name": "Powerhouse Radio",
@@ -7892,6 +7931,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T07:14:01Z"
+      }
+    ]
+  },
+  "awb_d65648d9640e4aa8773b": {
+    "id": "awb_d65648d9640e4aa8773b",
+    "name": "Z104.5 THE EDGE",
+    "country": "US",
+    "subdivision": "Oklahoma",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://edgetulsa.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T07:13:23Z",
+    "streams": [
+      {
+        "id": "aws_9e750d560cbb8636a53a",
+        "stationId": "awb_d65648d9640e4aa8773b",
+        "name": "Z104.5 THE EDGE",
+        "country": "US",
+        "url": "https://ice8.securenetsystems.net/KMYZ",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c6add5a0-3925-4969-8c34-b4ccabc13ef3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },
