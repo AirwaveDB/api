@@ -38,7 +38,16 @@ async function main() {
     getJson(`${STREAM_RAW}/index.json`),
   ]);
 
-  if (streamIndex.databaseGeneratedAt && streamIndex.databaseGeneratedAt !== dbIndex.generatedAt) {
+  if (Number(dbIndex.schemaVersion) !== 1) {
+    throw new Error(`Unsupported database schema version: ${dbIndex.schemaVersion}`);
+  }
+  if (Number(streamIndex.schemaVersion) !== 1) {
+    throw new Error(`Unsupported streams schema version: ${streamIndex.schemaVersion}`);
+  }
+  if (!dbIndex.generatedAt || !streamIndex.generatedAt || !streamIndex.databaseGeneratedAt) {
+    throw new Error('Source indexes are missing required snapshot timestamps');
+  }
+  if (streamIndex.databaseGeneratedAt !== dbIndex.generatedAt) {
     throw new Error(
       `Source snapshots are inconsistent: streams were built from database ${streamIndex.databaseGeneratedAt}, ` +
       `but current database is ${dbIndex.generatedAt}`,
@@ -151,13 +160,13 @@ async function main() {
       countryCount: countries.length,
       languageCount: languages.length,
       categoryCount: categories.length,
-      databaseGeneratedAt: dbIndex.generatedAt || null,
-      streamsGeneratedAt: streamIndex.generatedAt || null,
-      databaseSchemaVersion: dbIndex.schemaVersion ?? null,
-      streamsSchemaVersion: streamIndex.schemaVersion ?? null,
+      databaseGeneratedAt: dbIndex.generatedAt,
+      streamsGeneratedAt: streamIndex.generatedAt,
+      databaseSchemaVersion: dbIndex.schemaVersion,
+      streamsSchemaVersion: streamIndex.schemaVersion,
       quality: {
-        database: dbIndex.quality || null,
-        streams: streamIndex.quality || null,
+        database: dbIndex.quality || {},
+        streams: streamIndex.quality || {},
       },
       routes: {
         station: '/v1/stations/:id',
