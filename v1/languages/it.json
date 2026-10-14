@@ -1,6 +1,6 @@
 {
   "code": "it",
-  "stationCount": 1250,
+  "stationCount": 1251,
   "stations": [
     {
       "id": "awb_6305d0e72050caf9b6e7",
@@ -17195,6 +17195,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:05:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_82fb46b1c7d85ac91347",
+      "name": "Radio 906",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "dab+",
+        "dance",
+        "hits",
+        "pop"
+      ],
+      "homepage": "https://radio906.com/",
+      "favicon": "https://radio906.com/img/favicon-192.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T00:01:18Z",
+      "streams": [
+        {
+          "id": "aws_2c34ebfc9c70df55af12",
+          "stationId": "awb_82fb46b1c7d85ac91347",
+          "name": "Radio 906",
+          "country": "IT",
+          "url": "https://stream.rcs.revma.com/e580f9f39yuvv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b62acbc1-e4fc-4d36-8e31-7bcfedaeaf2a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:01:19Z"
         }
       ]
     },

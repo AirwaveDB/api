@@ -1,6 +1,6 @@
 {
   "code": "pl",
-  "stationCount": 661,
+  "stationCount": 663,
   "stations": [
     {
       "id": "awb_9edf0e1b9ec504d15456",
@@ -1198,6 +1198,54 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T08:06:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6285ba99fe2d645033d5",
+      "name": "24Dubstep.pl || CalmFlow",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "pl"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "chillout",
+        "chillstep",
+        "lo-fi",
+        "various"
+      ],
+      "homepage": "https://24dubstep.pl/",
+      "favicon": "https://24dubstep.pl/wp-content/uploads/2020/10/xcropped-logo_po_kompresji.png.pagespeed.ic.YxsjiF_JYL.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_139c5255fe1059f0088c",
+          "stationId": "awb_6285ba99fe2d645033d5",
+          "name": "24Dubstep.pl || CalmFlow",
+          "country": "PL",
+          "url": "https://stream.24dubstep.pl/listen/chillstep/mp3_normal",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "PL:24dubstep-pl-calmflow",
+            "f14a48b6-d712-484a-8eea-bdd75a28b0c7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:21:28Z"
         }
       ]
     },
@@ -7349,6 +7397,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:58:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_04da4cec79eb515a496a",
+      "name": "PolNexus Radio",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "news",
+        "polish",
+        "polonia",
+        "polskie radio",
+        "pop",
+        "radio online",
+        "rock"
+      ],
+      "homepage": "https://polnexus.pl/radio",
+      "favicon": "https://www.polnexus.pl/branding/polnexus-logo-full.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-02T12:14:42Z",
+      "streams": [
+        {
+          "id": "aws_250d8896c795f50ae80b",
+          "stationId": "awb_04da4cec79eb515a496a",
+          "name": "PolNexus Radio",
+          "country": "PL",
+          "url": "https://polnexus.pl/listen.mp3",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "380c7c1f-ad28-4920-9c86-2753731625e1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:57:28Z"
         }
       ]
     },

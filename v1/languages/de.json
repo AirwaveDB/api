@@ -1,6 +1,6 @@
 {
   "code": "de",
-  "stationCount": 3785,
+  "stationCount": 3788,
   "stations": [
     {
       "id": "awb_19663c72c5a4d3d4c86c",
@@ -13372,8 +13372,7 @@
       "country": "CH",
       "subdivision": null,
       "languages": [
-        "de",
-        "ger"
+        "de"
       ],
       "categories": [
         "pop",
@@ -13418,8 +13417,7 @@
       "country": "CH",
       "subdivision": null,
       "languages": [
-        "de",
-        "ger"
+        "de"
       ],
       "categories": [
         "news",
@@ -31485,8 +31483,7 @@
       "country": "DE",
       "subdivision": "North Rhine-Westphalia",
       "languages": [
-        "de",
-        "ger"
+        "de"
       ],
       "categories": [
         "pop",
@@ -73469,8 +73466,7 @@
       "country": "DE",
       "subdivision": null,
       "languages": [
-        "de",
-        "ger"
+        "de"
       ],
       "categories": [
         "sports"
@@ -73686,8 +73682,7 @@
       "country": "DE",
       "subdivision": null,
       "languages": [
-        "de",
-        "ger"
+        "de"
       ],
       "categories": [
         "sports"
@@ -99667,9 +99662,7 @@
       "subdivision": "Bayern",
       "languages": [
         "de",
-        "deu",
-        "en",
-        "eng"
+        "en"
       ],
       "categories": [
         "electronic"
@@ -100461,6 +100454,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:21:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_06250ff2e3ded15f3955",
+      "name": "N-JOY HQ",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "youth"
+      ],
+      "homepage": "https://www.n-joy.de/",
+      "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-01T10:31:12Z",
+      "streams": [
+        {
+          "id": "aws_4791040d816745318673",
+          "stationId": "awb_06250ff2e3ded15f3955",
+          "name": "N-JOY HQ",
+          "country": "DE",
+          "url": "https://ndr-radio.ard-mcdn.de/ndr/radio/njoy/hls/192/seglist.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb898e3d-35b0-424f-95de-e00c7312c2e8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:10:34Z"
         }
       ]
     },
@@ -115892,8 +115927,7 @@
       "country": "DE",
       "subdivision": "Hessen",
       "languages": [
-        "de",
-        "ger"
+        "de"
       ],
       "categories": [
         "oldies",
@@ -126459,8 +126493,7 @@
       "country": "DE",
       "subdivision": "NRW",
       "languages": [
-        "de",
-        "ger"
+        "de"
       ],
       "categories": [],
       "tags": [
@@ -127296,6 +127329,56 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T02:09:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_00055d87469342066a8a",
+      "name": "Radio Onimai",
+      "country": "DE",
+      "subdivision": "Sachsen",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "categories": [
+        "anime",
+        "community",
+        "electronic",
+        "pop"
+      ],
+      "tags": [
+        "anime",
+        "community",
+        "dance",
+        "electronic",
+        "j-pop",
+        "pop"
+      ],
+      "homepage": "https://radio.onimai.eu/",
+      "favicon": "https://radio.onimai.eu/assets/radio/radio-onimai-600.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-09-19T17:46:27Z",
+      "streams": [
+        {
+          "id": "aws_618aedf9b7f9ebc9875c",
+          "stationId": "awb_00055d87469342066a8a",
+          "name": "Radio Onimai",
+          "country": "DE",
+          "url": "https://radio.onimai.eu/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "efaf2cbc-2f1a-47cb-8102-61ec8980300e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:23:55Z"
         }
       ]
     },
@@ -156356,8 +156439,7 @@
       "country": "DE",
       "subdivision": "Baden-Württemberg",
       "languages": [
-        "de",
-        "deu"
+        "de"
       ],
       "categories": [
         "electronic"
@@ -161972,6 +162054,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:53:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_540885861f4568c90f31",
+      "name": "TIDE.radio",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [],
+      "tags": [
+        "misc"
+      ],
+      "homepage": "http://www.tidenet.de/radio",
+      "favicon": "https://www.tidenet.de/assets/icons/android-icon-192x192.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:48:55Z",
+      "streams": [
+        {
+          "id": "aws_b32dfa858fb29946c3ba",
+          "stationId": "awb_540885861f4568c90f31",
+          "name": "TIDE.radio",
+          "country": "DE",
+          "url": "https://rcstream0001.redcastle.net/radio/8000/tide-128.mp3?rp_source=1&=&&___cb=916093692175132",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b57f1ce9-00ce-4f7e-95bf-c83c2e0a78f7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:20:47Z"
         }
       ]
     },

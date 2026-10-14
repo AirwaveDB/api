@@ -1,15 +1,1768 @@
 {
   "code": "heb",
-  "stationCount": 1,
+  "canonicalCode": "he",
+  "stationCount": 71,
   "stations": [
+    {
+      "id": "awb_3aa20fe54e04955490e1",
+      "name": "toker fm",
+      "country": "AD",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "homepage": "https://live.toker.fm:6060/;",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:31:17Z",
+      "streams": [
+        {
+          "id": "aws_cd9dddd4b563535662fb",
+          "stationId": "awb_3aa20fe54e04955490e1",
+          "name": "toker fm",
+          "country": "AD",
+          "url": "https://live.toker.fm:6060/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8ddbeb32-fa21-4141-9004-a2ae0e58f248"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:15:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d0cda6d20e292884b5a1",
+      "name": "Kinshasa FM",
+      "country": "AR",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://kinshasafm.xyz/",
+      "favicon": "https://radio.kinshasafm.xyz/static/uploads/browser_icon/192.1755366087.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T23:53:35Z",
+      "streams": [
+        {
+          "id": "aws_92c6607a34416e54b1f1",
+          "stationId": "awb_d0cda6d20e292884b5a1",
+          "name": "Kinshasa FM",
+          "country": "AR",
+          "url": "http://radio.kinshasafm.xyz/listen/kinshasafm/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bbb93064-e6de-44aa-b5a5-a16f6fb196cf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:28:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_765900f44e7fe31a998f",
+      "name": "Kinshasa FM (64 kbps)",
+      "country": "AR",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "eclectic"
+      ],
+      "homepage": "https://kinshasafm.xyz/",
+      "favicon": "https://radio.kinshasafm.xyz/static/uploads/browser_icon/192.1755366087.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T23:54:50Z",
+      "streams": [
+        {
+          "id": "aws_b21b01d1ef3c63c04b39",
+          "stationId": "awb_765900f44e7fe31a998f",
+          "name": "Kinshasa FM (64 kbps)",
+          "country": "AR",
+          "url": "https://radio.kinshasafm.xyz/listen/kinshasafm/mobile.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "09d496d5-5b2e-4cf7-aad3-d8fac05df4f2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:20:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_31ec42c4d18705be6044",
+      "name": "Kol Radio",
+      "country": "GB",
+      "subdivision": "London",
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "hebrew",
+        "jewish"
+      ],
+      "homepage": "https://kolradio.co.uk/",
+      "favicon": "https://kolradio.co.uk/storage/media/kol-radio/8f18a04f-ba9c-443a-a11f-01f724e88555.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-03-04T20:34:35Z",
+      "streams": [
+        {
+          "id": "aws_958634ed87efe9e9293c",
+          "stationId": "awb_31ec42c4d18705be6044",
+          "name": "Kol Radio",
+          "country": "GB",
+          "url": "http://uksoutha.streaming.broadcast.radio:20691/kolradio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "43fe1597-55fa-4c67-b8e5-57476e8ccf96"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:39:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7e258b9cd41f5cbd3b3c",
+      "name": "101.5fm נותנים למוזיקה לדבר רדיו דרום",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://1015.radiodarom.co.il/",
+      "favicon": "https://1015.radiodarom.co.il/Upload/Media/RadioStationLogo/radioStation_6_Logo_27072021180024.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:02:30Z",
+      "streams": [
+        {
+          "id": "aws_15d2e2b25ad650f8055c",
+          "stationId": "awb_7e258b9cd41f5cbd3b3c",
+          "name": "101.5fm נותנים למוזיקה לדבר רדיו דרום",
+          "country": "IL",
+          "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e673a4df-e224-4787-a8ec-52c391992bb6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:14:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0a6f42ab847bd0ca5e6f",
+      "name": "101.5fm רדיו התחנה",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://www.hatahana.co.il/",
+      "favicon": "https://www.hatahana.co.il/wp-content/uploads/2023/03/logo.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_701d9339ab40272f505b",
+          "stationId": "awb_0a6f42ab847bd0ca5e6f",
+          "name": "101.5fm רדיו התחנה",
+          "country": "IL",
+          "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IL:101-5fm",
+            "b42c9d1b-22c2-41a0-b13c-207a8c92f982"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:54:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_582904ac370f93fe409a",
+      "name": "101fm radio jerusalem",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.rlive.co.il/station/101fm",
+      "favicon": "https://static.rlive.co.il/storage/uploads/stations/zdB75EspkE93lzmOQQDmaI8tmOGtVzW2xzsuaqdU.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_760c9e326f8e52958508",
+          "stationId": "awb_582904ac370f93fe409a",
+          "name": "101fm radio jerusalem",
+          "country": "IL",
+          "url": "https://radio.streamgates.net/stream/101fm",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "51342243-d0eb-4265-b2b4-7d5c7c836f1a",
+            "IL:101fm-radio-jerusalem"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:51:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6a4824e01d808ec78275",
+      "name": "104.5fm radio זשכםמ",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "homepage": "https://1045fm.maariv.co.il/",
+      "favicon": "https://static.rlive.co.il/storage/uploads/stations/idOPKeykio01mD3JccdAJwveMAqfDOGsKgiJ43SN.jpeg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:01:29Z",
+      "streams": [
+        {
+          "id": "aws_994ce3ad6fab56ebd486",
+          "stationId": "awb_6a4824e01d808ec78275",
+          "name": "104.5fm radio זשכםמ",
+          "country": "IL",
+          "url": "https://radio.streamgates.net/stream/1045fm",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8cca0e0b-ccd9-416e-89cc-325ecc325f69"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:07:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f184de2bb41ead95d104",
+      "name": "94fm רדיו גלי ישראל",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.gly.co.il/",
+      "favicon": "https://www.gly.co.il/Upload/Media/RadioStationLogo/radioStation_2_Logo_26042021170757.svg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:28:14Z",
+      "streams": [
+        {
+          "id": "aws_b7b31c7c9c8cb7be7d73",
+          "stationId": "awb_f184de2bb41ead95d104",
+          "name": "94fm רדיו גלי ישראל",
+          "country": "IL",
+          "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d793e2f9-5532-4033-96a0-33d021ec0c86"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:44:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ea2547731d17cc59e746",
+      "name": "Eco 99fm",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "music",
+        "talk"
+      ],
+      "homepage": "https://eco99fm.maariv.co.il/",
+      "favicon": "https://eco99fm.maariv.co.il/",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-17T06:24:55Z",
+      "streams": [
+        {
+          "id": "aws_bdb81d28cb1efee37eb0",
+          "stationId": "awb_ea2547731d17cc59e746",
+          "name": "Eco 99fm",
+          "country": "IL",
+          "url": "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dd08fbb3-277e-4a49-9866-7fd6c21bb124"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:42:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dcad941a2830a0c2120a",
+      "name": "ECO99FM",
+      "country": "IL",
+      "subdivision": "telford",
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "top 40"
+      ],
+      "homepage": "http://eco99fm.maariv.co.il/",
+      "favicon": "https://www.radio.net/images/broadcasts/39/23/20612/1/c300.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:09:15Z",
+      "streams": [
+        {
+          "id": "aws_9692a351f143621f8f99",
+          "stationId": "awb_dcad941a2830a0c2120a",
+          "name": "ECO99FM",
+          "country": "IL",
+          "url": "https://eco-live.mediacast.co.il/99fm_aac",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5357dc24-46cc-4671-9b55-26b811820c6c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:02:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bb19c921aa24753f904b",
+      "name": "Galei Zahal",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://glzwizzlv.bynetcdn.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:09:18Z",
+      "streams": [
+        {
+          "id": "aws_a294089b7be96271deda",
+          "stationId": "awb_bb19c921aa24753f904b",
+          "name": "Galei Zahal",
+          "country": "IL",
+          "url": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "962326cb-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:11:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5666cb61232836fb39ca",
+      "name": "Galgalatz",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:56:47Z",
+      "streams": [
+        {
+          "id": "aws_fafb01cd4974e3c8064b",
+          "stationId": "awb_5666cb61232836fb39ca",
+          "name": "Galgalatz",
+          "country": "IL",
+          "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "45700958-16ab-422a-85bb-d402722463f0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:55:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d780a718e44f4975b8d7",
+      "name": "Galgalatz 91.8 FM",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "world"
+      ],
+      "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_addd7f1b5192a1e110b5",
+          "stationId": "awb_d780a718e44f4975b8d7",
+          "name": "Galgalatz 91.8 FM",
+          "country": "IL",
+          "url": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "8407749b-aa65-4aee-b503-bd6e196bea9d",
+            "IL:galgalatz-91-8-fm"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:12:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_463a214511caa0404758",
+      "name": "Glglz",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+      "favicon": "https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:49:38Z",
+      "streams": [
+        {
+          "id": "aws_3d8b7690bc37d5d2398b",
+          "stationId": "awb_463a214511caa0404758",
+          "name": "Glglz",
+          "country": "IL",
+          "url": "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "29cd4b62-14e2-11e9-a80b-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:51:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9411a01cec9bcba0e8d0",
+      "name": "Glz",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://glz.co.il/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-14T23:17:02Z",
+      "streams": [
+        {
+          "id": "aws_c89d33ee767ec2f9ca69",
+          "stationId": "awb_9411a01cec9bcba0e8d0",
+          "name": "Glz",
+          "country": "IL",
+          "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2f605613-f5f8-4c8f-8edc-c7c3945023fb",
+            "ef4cfa77-f36d-4b08-a24a-4288cae3b7fe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1f3aa2fffc907b683cf4",
+      "name": "Hedva Shaltiel",
+      "country": "IL",
+      "subdivision": "Israel",
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.israelivoiceradio.co.il/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:38:06Z",
+      "streams": [
+        {
+          "id": "aws_a2495ae34b2c11659d24",
+          "stationId": "awb_1f3aa2fffc907b683cf4",
+          "name": "Hedva Shaltiel",
+          "country": "IL",
+          "url": "https://icecast.live/ivr",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0eb7423c-bb73-4772-8d12-ea602e875d9f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:00:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c3b089732cc3139a6e44",
+      "name": "Israeli voice radio",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "60's",
+        "70's",
+        "80's",
+        "90's pop",
+        "rock and ballads"
+      ],
+      "homepage": "https://israelivoiceradio.co.il/",
+      "favicon": "https://israelivoiceradio.co.il/wp-content/webp-express/webp-images/uploads/2025/01/site-top.png.webp",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_a93c57836fd603947322",
+          "stationId": "awb_c3b089732cc3139a6e44",
+          "name": "Israeli voice radio",
+          "country": "IL",
+          "url": "https://icecast.live/ivr",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "07c8fe2a-af70-4b7e-8aee-2eabb89d9368",
+            "IL:israeli-voice-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:05:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c7cf297bf64d05f453d2",
+      "name": "Ivri 6",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://ivri6.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:46:56Z",
+      "streams": [
+        {
+          "id": "aws_149c260bca3baf6abd00",
+          "stationId": "awb_c7cf297bf64d05f453d2",
+          "name": "Ivri 6",
+          "country": "IL",
+          "url": "https://streaming.radio.co/sa06221901/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b1a2d866-eeff-427f-9d92-f53b290e16c9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:24:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_68f416c5f811c3b13948",
+      "name": "Jewish Music Stream",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://jewishmusicstream.com/",
+      "favicon": "https://jewishmusicstream.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:33:03Z",
+      "streams": [
+        {
+          "id": "aws_86182dd4d127158224d5",
+          "stationId": "awb_68f416c5f811c3b13948",
+          "name": "Jewish Music Stream",
+          "country": "IL",
+          "url": "https://stream.jewishmusicstream.com:8000/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "006ffcf8-e541-11e8-a9cc-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:17:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_87b24b71a7551ac27a33",
+      "name": "KAN 88",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://kan.org.il/",
+      "favicon": "https://www.kan.org.il/media/44oe24fl/01white-logo-channel-header-kan88-2026.svg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-07-29T10:45:06Z",
+      "streams": [
+        {
+          "id": "aws_7d5e6bcae66193f66dc8",
+          "stationId": "awb_87b24b71a7551ac27a33",
+          "name": "KAN 88",
+          "country": "IL",
+          "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8?renditions&dvr=7200000",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4add95c3-ddf9-49bc-9815-bb729d66c1f8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:39:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_359d0e2718769a1b1a7a",
+      "name": "Kan Bet",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "news"
+      ],
+      "homepage": "https://www.kan.org.il/",
+      "favicon": "https://www.kan.org.il/media/wgtfcyp2/%D7%91-%D7%9C%D7%95%D7%92%D7%95-%D7%9C%D7%91%D7%9F-2.svg",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_6df82031665e0cba60f9",
+          "stationId": "awb_359d0e2718769a1b1a7a",
+          "name": "Kan Bet",
+          "country": "IL",
+          "url": "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect&1737047133",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0dd41509-199c-458c-84d5-44ed192ba9a8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:45:36Z"
+        },
+        {
+          "id": "aws_ac21f6303d3d97564f12",
+          "stationId": "awb_359d0e2718769a1b1a7a",
+          "name": "Kan Bet",
+          "country": "IL",
+          "url": "https://28563.live.streamtheworld.com/KAN_BET.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IL:kan-bet",
+            "c2b724db-9ddb-41e2-b190-324014c55467"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:54:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9898fb1f3e1305174220",
+      "name": "KAN Gimel כאן גימל",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.kan.org.il/content/kan/kan-gimel/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_aaafd573242ba12ff613",
+          "stationId": "awb_9898fb1f3e1305174220",
+          "name": "KAN Gimel כאן גימל",
+          "country": "IL",
+          "url": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IL:kan-gimel",
+            "e8c19fc3-7409-4999-a9dd-b3d81cf934ed"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:07:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c80ed164f5eb133b2f5d",
+      "name": "KAN Kol HaMusica כאן קול המוזיקה",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "classical",
+        "jazz",
+        "public"
+      ],
+      "tags": [
+        "classical",
+        "jazz",
+        "public radio"
+      ],
+      "homepage": "https://www.kan.org.il/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-01T19:07:04Z",
+      "streams": [
+        {
+          "id": "aws_c617366e93418cd261d9",
+          "stationId": "awb_c80ed164f5eb133b2f5d",
+          "name": "KAN Kol HaMusica כאן קול המוזיקה",
+          "country": "IL",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7ded7fe1-a2b5-4de4-b906-a1a4bd1c3c99"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:30:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7414d540316cc55d2d09",
+      "name": "Kcm FM Channel 01 Live",
+      "country": "IL",
+      "subdivision": "Jerusalem",
+      "languages": [
+        "he",
+        "yi"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "hasidic",
+        "hebrew",
+        "israël",
+        "religious",
+        "yiddish"
+      ],
+      "homepage": "https://kcm.fm/",
+      "favicon": "https://kcm.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:32:00Z",
+      "streams": [
+        {
+          "id": "aws_67e61d168eb18a9b8f8b",
+          "stationId": "awb_7414d540316cc55d2d09",
+          "name": "Kcm FM Channel 01 Live",
+          "country": "IL",
+          "url": "https://media2.93fm.co.il/livemusic",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5b7a953b-98a6-4823-a9f9-3ad52aa2ed88"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:13:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_10900b4d5899f5f03618",
+      "name": "kol hai",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://live.kcm.fm/livemusic",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:58:19Z",
+      "streams": [
+        {
+          "id": "aws_5bec3dffb1ff997d04fc",
+          "stationId": "awb_10900b4d5899f5f03618",
+          "name": "kol hai",
+          "country": "IL",
+          "url": "https://live.kcm.fm/livemusic",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ed1d2969-5c0e-4575-a0ac-dd76b29c9ddd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:20:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7ecb3c95666b382f1ac4",
+      "name": "Kol Rega קול רגע 91.5/96",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "pop",
+        "talk & speech"
+      ],
+      "homepage": "https://96fm.co.il/",
+      "favicon": "https://96fm.co.il/wp-content/uploads/2022/10/cropped-Logo-192x192.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_d7848116b75581b95174",
+          "stationId": "awb_7ecb3c95666b382f1ac4",
+          "name": "Kol Rega קול רגע 91.5/96",
+          "country": "IL",
+          "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IL:kol-rega-91-5-96",
+            "b83ca2b1-4674-4944-9110-35c41fe25d70"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:52:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c18a7b302fe344aeab00",
+      "name": "Mizrahit FM Best",
+      "country": "IL",
+      "subdivision": "Jerusalém",
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://mizrahit.fm/",
+      "favicon": "https://mizrahit.fm/wp-content/uploads/2020/04/diki-logo-official-e1734684643817-700x525.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:45:26Z",
+      "streams": [
+        {
+          "id": "aws_996711674a02ccc54d71",
+          "stationId": "awb_c18a7b302fe344aeab00",
+          "name": "Mizrahit FM Best",
+          "country": "IL",
+          "url": "http://rs.mizrahit.fm:7777/arabellavie",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "abfcd777-432c-4c66-b622-d8582080e743"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:37:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_20eaaf96d828181e3c99",
+      "name": "Mizrahit_Fm",
+      "country": "IL",
+      "subdivision": "Jerusalém",
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://mizrahit.fm/",
+      "favicon": "https://mizrahit.fm/wp-content/uploads/2020/04/diki-logo-official-e1734684643817-700x525.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:40:27Z",
+      "streams": [
+        {
+          "id": "aws_24bcc567424f68b48a67",
+          "stationId": "awb_20eaaf96d828181e3c99",
+          "name": "Mizrahit_Fm",
+          "country": "IL",
+          "url": "http://rs.mizrahit.fm:7777/arabellavie",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d55bf952-b767-426e-9376-e932f169f36e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:43:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9d43eb5632a1cb3e25ee",
+      "name": "radio darom 95.8fm 97fm",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.radiodarom.co.il/",
+      "favicon": "https://odsv.org/wp-content/uploads/2020/03/%D7%A8%D7%93%D7%99%D7%95-%D7%93%D7%A8%D7%95%D7%9D-1.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:17:04Z",
+      "streams": [
+        {
+          "id": "aws_2d96a85c08d540580fb2",
+          "stationId": "awb_9d43eb5632a1cb3e25ee",
+          "name": "radio darom 95.8fm 97fm",
+          "country": "IL",
+          "url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "91929581-befa-4f52-bb5b-07cb376906d5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:47:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6095ba329b9668033690",
+      "name": "Radio Haifa רדיו חיפה",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://1075.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:29:48Z",
+      "streams": [
+        {
+          "id": "aws_8a421e863bdf91f00bd1",
+          "stationId": "awb_6095ba329b9668033690",
+          "name": "Radio Haifa רדיו חיפה",
+          "country": "IL",
+          "url": "https://1075.livecdn.biz/radiohaifa",
+          "codec": "aac+",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4a3e0c55-774e-47db-929b-e8841d38a871"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:19:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2a21739a8e612fc3be5b",
+      "name": "radio lev hamedina",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.91fm.co.il/",
+      "favicon": "https://www.xoox.co.il/service/radio/img/radio_m14.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:38:30Z",
+      "streams": [
+        {
+          "id": "aws_02f3e6181e0683936d20",
+          "stationId": "awb_2a21739a8e612fc3be5b",
+          "name": "radio lev hamedina",
+          "country": "IL",
+          "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "40bbb648-fa7b-469b-86bc-153f6b4aec54"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:33:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2f8888d41c24530525f4",
+      "name": "Radio Sahar",
+      "country": "IL",
+      "subdivision": "south",
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [
+        "hip-hop",
+        "jazz",
+        "news",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "alternative rock",
+        "classic rock",
+        "hebrew",
+        "hip-hop",
+        "indie rock",
+        "interviews",
+        "jazz",
+        "music",
+        "news",
+        "news talk",
+        "news talk music",
+        "pop",
+        "pop music",
+        "pop rock",
+        "psychedelic",
+        "psytrance",
+        "r&b",
+        "radio",
+        "rap",
+        "rock",
+        "soul",
+        "trap"
+      ],
+      "homepage": "https://radiosahar.co.il/",
+      "favicon": "https://radiosahar.co.il/images/logo.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T06:48:55Z",
+      "streams": [
+        {
+          "id": "aws_9734e2e7157a27faa538",
+          "stationId": "awb_2f8888d41c24530525f4",
+          "name": "Radio Sahar",
+          "country": "IL",
+          "url": "https://live.ecast.co.il/stream/sahar/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b5b9d7ed-2c9f-4f8a-98ac-440631f2b100",
+            "e1be6105-91ef-4190-80ec-f93928837323"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:26:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_591167992b809f834364",
+      "name": "Radio Yasoo",
+      "country": "IL",
+      "subdivision": "Tel Aviv",
+      "languages": [
+        "el",
+        "he"
+      ],
+      "categories": [
+        "folk"
+      ],
+      "tags": [
+        "greek folk",
+        "greek folk music",
+        "greek internet radio",
+        "greek music",
+        "greek traditional"
+      ],
+      "homepage": "https://www.radio-yasoo.com/",
+      "favicon": "https://www.radio-yasoo.com/index.files/image009.jpg",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-06-23T09:44:34Z",
+      "streams": [
+        {
+          "id": "aws_c6a85fdf6f68efe26cd9",
+          "stationId": "awb_591167992b809f834364",
+          "name": "Radio Yasoo",
+          "country": "IL",
+          "url": "http://radio-yasoo.ath.cx:7500/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "37e8f5fa-23b1-4e8f-ba02-5323e5ead172"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:58:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_20ec105e641586b89ede",
+      "name": "Radios 100FM - 100% Nostalgia",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "nostalgia"
+      ],
+      "homepage": "https://digital.100fm.co.il/#Nostalgia",
+      "favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-nostalgia.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-22T15:56:02Z",
+      "streams": [
+        {
+          "id": "aws_6fa37f090859c851955f",
+          "stationId": "awb_20ec105e641586b89ede",
+          "name": "Radios 100FM - 100% Nostalgia",
+          "country": "IL",
+          "url": "https://gb25.streamgates.net/radios-audio/100Nostalgia/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 145,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "186c4d9b-28bc-4b95-b4ba-b342752dc7f5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:53:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_569220229147dd58d447",
+      "name": "Radios 100FM - 100% StandUp",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "standup"
+      ],
+      "homepage": "https://digital.100fm.co.il/#standup",
+      "favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-standup.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_cf389290bd5fdc9ac493",
+          "stationId": "awb_569220229147dd58d447",
+          "name": "Radios 100FM - 100% StandUp",
+          "country": "IL",
+          "url": "https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IL:radios-100fm-100-standup",
+            "ecd6c262-3ebf-40e8-9388-7e03e6a7330b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:49:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_92ff84857f74f3c1f1f2",
+      "name": "Radios 100FM - 100% Stars (ערוץ הכוכבים)",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "tags": [
+        "kids"
+      ],
+      "homepage": "https://digital.100fm.co.il/#stars",
+      "favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-stars.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-11T12:29:09Z",
+      "streams": [
+        {
+          "id": "aws_bd38a1154080b097e386",
+          "stationId": "awb_92ff84857f74f3c1f1f2",
+          "name": "Radios 100FM - 100% Stars (ערוץ הכוכבים)",
+          "country": "IL",
+          "url": "https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "85b06d10-6007-4891-af95-51e00448e0af"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:28:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_07f49620db8040e3c595",
+      "name": "Radios 100FM - 100% Top40",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://digital.100fm.co.il/#top40",
+      "favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-top40.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-11T12:05:07Z",
+      "streams": [
+        {
+          "id": "aws_5622f217955d8e34622f",
+          "stationId": "awb_07f49620db8040e3c595",
+          "name": "Radios 100FM - 100% Top40",
+          "country": "IL",
+          "url": "https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0c071206-7e91-46f2-8f2e-0bac6d8afcfa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:40:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_36223a9d4069312f7708",
+      "name": "Radios 100FM רדיוס",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.100fm.co.il/",
+      "favicon": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/12/SmallLogo.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_87eb8113367bfd40f8f9",
+          "stationId": "awb_36223a9d4069312f7708",
+          "name": "Radios 100FM רדיוס",
+          "country": "IL",
+          "url": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "5ae9af57-5254-44c7-8632-8d638468ca38",
+            "IL:radios-100fm"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:25:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_84de9dbc8a24f6fff1bc",
+      "name": "Tel Aviv 102FM רדיו תל אביב",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "contenmporary",
+        "music",
+        "talk",
+        "ישראל"
+      ],
+      "homepage": "https://102fm.co.il/",
+      "favicon": "https://102fm.co.il/img/images/logo-top-menu.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:23:20Z",
+      "streams": [
+        {
+          "id": "aws_3f5940074c5d6aedcfea",
+          "stationId": "awb_84de9dbc8a24f6fff1bc",
+          "name": "Tel Aviv 102FM רדיו תל אביב",
+          "country": "IL",
+          "url": "https://102.livecdn.biz/102fm_aac",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "08993f63-44f2-4fa0-8541-99194d5fd838"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:35:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_000f04661d0f9720a8bb",
+      "name": "toker",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "homepage": "https://fmstream.org/index.php?s=Toker",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:26:33Z",
+      "streams": [
+        {
+          "id": "aws_1a93b82fd6d160d389b7",
+          "stationId": "awb_000f04661d0f9720a8bb",
+          "name": "toker",
+          "country": "IL",
+          "url": "https://live.toker.fm:6060/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3a752591-4cc0-4949-bd5d-2fb2b1935cd3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:48:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f63ef1b0b55952c553b9",
+      "name": "toker fm",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "homepage": "https://live.toker.fm:6060/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:06:33Z",
+      "streams": [
+        {
+          "id": "aws_c1a945ef4cc58c5008bc",
+          "stationId": "awb_f63ef1b0b55952c553b9",
+          "name": "toker fm",
+          "country": "IL",
+          "url": "https://live.toker.fm:6060/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0285cac9-9f41-4a51-82ad-0ef6695f533a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:48:07Z"
+        }
+      ]
+    },
     {
       "id": "awb_e4a97a0fe9e820c01a65",
       "name": "yStream",
       "country": "IL",
       "subdivision": null,
       "languages": [
-        "eng",
-        "heb"
+        "en",
+        "he"
       ],
       "categories": [
         "pop"
@@ -50,6 +1803,1208 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T20:30:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2ccac7771e814b7efd7a",
+      "name": "Ze Rock Radio",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "indy",
+        "metal",
+        "post punk",
+        "punk",
+        "rock"
+      ],
+      "homepage": "https://zerockradio.com/",
+      "favicon": "https://zerockradio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_319f167958c847d2a6eb",
+          "stationId": "awb_2ccac7771e814b7efd7a",
+          "name": "Ze Rock Radio",
+          "country": "IL",
+          "url": "https://icecast.live/proxy/zerock/zerock",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IL:ze-rock-radio",
+            "e77ab056-eda4-4438-8e0f-6e8522e75343"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:25:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2020366d42c6b34ae182",
+      "name": "אקו eco 99fm",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "ilstations"
+      ],
+      "homepage": "http://eco99fm.maariv.co.il/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:31:18Z",
+      "streams": [
+        {
+          "id": "aws_c4ae3395a7425b6144fa",
+          "stationId": "awb_2020366d42c6b34ae182",
+          "name": "אקו eco 99fm",
+          "country": "IL",
+          "url": "http://99.mediacast.co.il/99fm_aac?hash=1559501510715.m4a",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "63d80255-3707-4c84-a4de-3da487c5f2bf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:45:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9a7dca0f78e6f8444da9",
+      "name": "ברסלב פוריו: דעת רבנו",
+      "country": "IL",
+      "subdivision": "Jerusalem",
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "jewish",
+        "music"
+      ],
+      "homepage": "https://breslevforyou.co.il/",
+      "favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-22T12:14:57Z",
+      "streams": [
+        {
+          "id": "aws_d63ee40118583c5697d6",
+          "stationId": "awb_9a7dca0f78e6f8444da9",
+          "name": "ברסלב פוריו: דעת רבנו",
+          "country": "IL",
+          "url": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1ac65585-0443-4f95-8d67-f232ec5915a2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:22:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3b7044c0397b2496f461",
+      "name": "ברסלב פוריו: הלכות ודף יומי",
+      "country": "IL",
+      "subdivision": "Jerusalem",
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "jewish",
+        "music"
+      ],
+      "homepage": "https://breslevforyou.co.il/",
+      "favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-22T12:17:34Z",
+      "streams": [
+        {
+          "id": "aws_b457d1e35f1b753156f1",
+          "stationId": "awb_3b7044c0397b2496f461",
+          "name": "ברסלב פוריו: הלכות ודף יומי",
+          "country": "IL",
+          "url": "https://cast.breslevforyou.co.il/listen/halachot/radio.mp3",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "29632b43-283d-4156-8210-596b439c554c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:06:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_58cc2c074dd485bbce6f",
+      "name": "ברסלב פוריו: ספרי ברסלב",
+      "country": "IL",
+      "subdivision": "Jerusalem",
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "books",
+        "jewish"
+      ],
+      "homepage": "https://breslevforyou.co.il/",
+      "favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-22T12:26:34Z",
+      "streams": [
+        {
+          "id": "aws_4572be236d2ac1edaac2",
+          "stationId": "awb_58cc2c074dd485bbce6f",
+          "name": "ברסלב פוריו: ספרי ברסלב",
+          "country": "IL",
+          "url": "https://cast.breslevforyou.co.il/listen/books/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "567c0d2b-e276-4db4-b4e1-0b0904c3d491"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:09:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bbc8c5209648897bc510",
+      "name": "ברסלב פוריו: קצר וקולע",
+      "country": "IL",
+      "subdivision": "Jerusalem",
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "jewish",
+        "music"
+      ],
+      "homepage": "https://breslevforyou.co.il/",
+      "favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-22T12:19:08Z",
+      "streams": [
+        {
+          "id": "aws_c7437426e0b02ecfa342",
+          "stationId": "awb_bbc8c5209648897bc510",
+          "name": "ברסלב פוריו: קצר וקולע",
+          "country": "IL",
+          "url": "https://cast.breslevforyou.co.il/listen/shorts/radio.mp3",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "25d7d098-ff20-4568-ad8a-c8e23e2ac18a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:33:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_690aae3d04114faafdcb",
+      "name": "ברסלב פוריו: תורה וזימרה",
+      "country": "IL",
+      "subdivision": "Jerusalem",
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "jewish",
+        "music",
+        "trance"
+      ],
+      "homepage": "https://breslevforyou.co.il/",
+      "favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-22T12:24:50Z",
+      "streams": [
+        {
+          "id": "aws_c5a4fcaacf039a1cbf67",
+          "stationId": "awb_690aae3d04114faafdcb",
+          "name": "ברסלב פוריו: תורה וזימרה",
+          "country": "IL",
+          "url": "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "38c81bbc-f8c3-4447-ae0e-ff8880017e04"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:52:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9a3a1e65a0a1837fcb21",
+      "name": "גלגלצ - Glglz",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "ilstations"
+      ],
+      "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+      "favicon": "https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:42:14Z",
+      "streams": [
+        {
+          "id": "aws_c10611eaf2704eb71a97",
+          "stationId": "awb_9a3a1e65a0a1837fcb21",
+          "name": "גלגלצ - Glglz",
+          "country": "IL",
+          "url": "http://glzwizzlv.bynetcdn.com/glglz_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fc22f9c5-efa0-4099-9e37-c1d3448c25ce"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:15:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e755d2e3af54ce39dc81",
+      "name": "גלי צה\"ל",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "local news"
+      ],
+      "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%A6",
+      "favicon": "https://glz.co.il/%D7%92%D7%9C%D7%A6",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:05:50Z",
+      "streams": [
+        {
+          "id": "aws_232d3fcc520cf4b1f6ac",
+          "stationId": "awb_e755d2e3af54ce39dc81",
+          "name": "גלי צה\"ל",
+          "country": "IL",
+          "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1fb7e37b-a0cb-4c70-a386-0b002de3bafe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T20:30:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_074bd0bc9fdf2ec92901",
+      "name": "גלצ",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "local music",
+        "local news",
+        "local radio",
+        "politics & current affairs"
+      ],
+      "homepage": "https://glz.co.il/%D7%92%D7%9C%D7%A6",
+      "favicon": "https://glz.co.il/Content/assets/favicons/glz/ms-icon-144x144.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_d102837022de4ce4230f",
+          "stationId": "awb_074bd0bc9fdf2ec92901",
+          "name": "גלצ",
+          "country": "IL",
+          "url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IL:glz",
+            "fbf80cc4-281b-4f39-9973-75486a6d54e6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:07:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8eb27d556eee938ae6a3",
+      "name": "הקצה - Hakatze",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "ilstations"
+      ],
+      "homepage": "https://kzradio.net/",
+      "favicon": "https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:03:36Z",
+      "streams": [
+        {
+          "id": "aws_d3f57ce8444bfcac37da",
+          "stationId": "awb_8eb27d556eee938ae6a3",
+          "name": "הקצה - Hakatze",
+          "country": "IL",
+          "url": "http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "80d7414f-1ff8-4c1a-b081-6888a7bcf564"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:01:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_291ca02ce83fb3abf1e9",
+      "name": "נושמים מזרחית - Noshmim Mizrahit",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "ilstations",
+        "oriental",
+        "מזרחי"
+      ],
+      "homepage": "http://www.mizrahit.fm/",
+      "favicon": "https://www.mizrahit.fm/wp-content/uploads/2014/03/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:45:49Z",
+      "streams": [
+        {
+          "id": "aws_71a23afcf6af30916967",
+          "stationId": "awb_291ca02ce83fb3abf1e9",
+          "name": "נושמים מזרחית - Noshmim Mizrahit",
+          "country": "IL",
+          "url": "http://www.rs.mizrahit.fm:7777/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "60f56ca4-3e39-45a6-ad94-cee362330fd5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:16:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_046d463634854b701e6c",
+      "name": "קבלה לעם עברית - Kabbalah heb",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "ilstations"
+      ],
+      "homepage": "http://www.kab.info/",
+      "favicon": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:34:02Z",
+      "streams": [
+        {
+          "id": "aws_80c540fae9c4bfa670f7",
+          "stationId": "awb_046d463634854b701e6c",
+          "name": "קבלה לעם עברית - Kabbalah heb",
+          "country": "IL",
+          "url": "http://icecast.kab.tv/live1-heb-574bcfd5.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "268e07ee-b1b5-4604-9b13-53c6e167abad"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:56:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d3359808d784dae12564",
+      "name": "קול ברמה - Kol Barama",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "ilstations",
+        "דתי"
+      ],
+      "homepage": "http://kol-barama.co.il/",
+      "favicon": "https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-120x120.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:15:07Z",
+      "streams": [
+        {
+          "id": "aws_8c454ba856e13a3c952d",
+          "stationId": "awb_d3359808d784dae12564",
+          "name": "קול ברמה - Kol Barama",
+          "country": "IL",
+          "url": "http://kb.cdnwz.net/kol_barama",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "92abc8dc-8af4-495e-824d-36f89f7ebd57"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:32:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f78f438f37a3feef8232",
+      "name": "קול השפלה - Kol Hashfela",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "ilstations"
+      ],
+      "homepage": "https://www.1036kh.com/",
+      "favicon": "https://static.wixstatic.com/media/cbf57a_82d58bf0f55940b8b288c481497d43c7~mv2.png/v1/crop/x_54,y_238,w_1861,h_624/fill/w_376,h_124,al_c,q_85,usm_0.66_1.00_0.01/kol.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:43:38Z",
+      "streams": [
+        {
+          "id": "aws_091227ce3728bb5cf6b3",
+          "stationId": "awb_f78f438f37a3feef8232",
+          "name": "קול השפלה - Kol Hashfela",
+          "country": "IL",
+          "url": "http://1036kh.cdnwz.net/1036kh",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e13d3c86-a635-436d-96a8-cde0fe08a4d0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:06:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4a1314b2643e98f1a4e7",
+      "name": "קול חי - Kol Chai",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "israel",
+        "jewish",
+        "orthodox",
+        "דתי"
+      ],
+      "homepage": "https://www.93fm.co.il/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T08:24:53Z",
+      "streams": [
+        {
+          "id": "aws_9b2d4af8350b30dd9387",
+          "stationId": "awb_4a1314b2643e98f1a4e7",
+          "name": "קול חי - Kol Chai",
+          "country": "IL",
+          "url": "https://media2.93fm.co.il/live-new",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "22cb6f71-ca0e-4f53-9093-c4760e646d2d",
+            "a757be45-799e-40b4-a23e-ee57ac55512b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:12:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e4d2d3fb05342bb3763e",
+      "name": "קול חי מיוזיק - Kol Chai Music",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "israel",
+        "jewish",
+        "music",
+        "orthodox",
+        "דתי"
+      ],
+      "homepage": "https://kcm.fm/",
+      "favicon": "https://kcm.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-01-15T04:42:48Z",
+      "streams": [
+        {
+          "id": "aws_a020850c9b5527d28066",
+          "stationId": "awb_e4d2d3fb05342bb3763e",
+          "name": "קול חי מיוזיק - Kol Chai Music",
+          "country": "IL",
+          "url": "https://media2.93fm.co.il/livemusic",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b9eafe1-e6e2-4e9a-8f64-281b6ae31665",
+            "6698d366-17a6-4969-a28e-185c8dc1f91b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:29:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7b85a08cdc539e7ebb0e",
+      "name": "קול פליי | kol-play",
+      "country": "IL",
+      "subdivision": "Tel Aviv",
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://kol-play.co.il/",
+      "favicon": "https://kol-play.co.il/wp-content/themes/kolplay/images/fv-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:22:41Z",
+      "streams": [
+        {
+          "id": "aws_b6ba1b28cfd2fec87bd2",
+          "stationId": "awb_7b85a08cdc539e7ebb0e",
+          "name": "קול פליי | kol-play",
+          "country": "IL",
+          "url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "712c3a1d-8387-4cf1-b354-4be74b153ee0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:18:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b05a60d73b0301ee9121",
+      "name": "תל אביב Tel Aviv 102FM",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hebrew",
+        "ilstations",
+        "israeli pop",
+        "pop",
+        "tel aviv"
+      ],
+      "homepage": "http://102fm.co.il/",
+      "favicon": "http://102fm.co.il/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:44:38Z",
+      "streams": [
+        {
+          "id": "aws_a6b4777e47a136d7b1cd",
+          "stationId": "awb_b05a60d73b0301ee9121",
+          "name": "תל אביב Tel Aviv 102FM",
+          "country": "IL",
+          "url": "http://102.livecdn.biz/102fm_aac",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "82333dc7-7622-4cf1-a8d8-2068e0b79ec9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:18:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff80f859d2181e085381",
+      "name": "Ajyal - Palestine",
+      "country": "PS",
+      "subdivision": null,
+      "languages": [
+        "ar",
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "arabic music"
+      ],
+      "homepage": "https://arn.ps/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_0c0fbc3bd4c0c8778146",
+          "stationId": "awb_ff80f859d2181e085381",
+          "name": "Ajyal - Palestine",
+          "country": "PS",
+          "url": "https://streamer.mada.ps:8208/ajyal",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "8cd9d640-ed84-4584-82e2-36567c23249b",
+            "PS:ajyal-palestine"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:46:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_970bc559de99b7cbbc8a",
+      "name": "Chabad.org Jewish Music",
+      "country": "US",
+      "subdivision": "New York",
+      "languages": [
+        "en",
+        "he",
+        "yi"
+      ],
+      "categories": [],
+      "tags": [
+        "jewish",
+        "judaism"
+      ],
+      "homepage": "https://www.chabad.org/library/article_cdo/aid/3963652/jewish/Jewish-Music-App.htm",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:48:14Z",
+      "streams": [
+        {
+          "id": "aws_4855271c1fcd15828085",
+          "stationId": "awb_970bc559de99b7cbbc8a",
+          "name": "Chabad.org Jewish Music",
+          "country": "US",
+          "url": "https://stream.radio.co/sdfd68a101/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4b95137f-1367-464a-8fc1-18492cbb0964"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:41:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4503d8b63c6bba958391",
+      "name": "Chabad.org Torah Classes Radio",
+      "country": "US",
+      "subdivision": "New York",
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "jewish",
+        "judaism"
+      ],
+      "homepage": "https://www.chabad.org/library/article_cdo/aid/3921992/jewish/Chabadorg-Radio.htm",
+      "favicon": "https://www.chabad.org/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:42:03Z",
+      "streams": [
+        {
+          "id": "aws_4aad0876dc084fcf17d5",
+          "stationId": "awb_4503d8b63c6bba958391",
+          "name": "Chabad.org Torah Classes Radio",
+          "country": "US",
+          "url": "https://streams.radio.co/s9f35c3afc/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a4926e73-3056-4279-b57d-6549393fdf63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:12:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1c592d772d1af41cb588",
+      "name": "Martha Kowaski",
+      "country": "US",
+      "subdivision": "Florida",
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [
+        "religious",
+        "rock"
+      ],
+      "tags": [
+        "bluegrass",
+        "christian rock",
+        "classic rock",
+        "encouragement",
+        "gospel",
+        "praise",
+        "scripture reading",
+        "worship"
+      ],
+      "homepage": "https://beholdersemporium.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:13:27Z",
+      "streams": [
+        {
+          "id": "aws_b0f4b4056956a0e76139",
+          "stationId": "awb_1c592d772d1af41cb588",
+          "name": "Martha Kowaski",
+          "country": "US",
+          "url": "https://streaming.live365.com/a95708",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0432abeb-22cf-4dbb-84e7-dcd9b7819b80"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:05:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_82216c81c34cbd6484b0",
+      "name": "Salt:30 Radio",
+      "country": "US",
+      "subdivision": "Florida",
+      "languages": [
+        "en",
+        "he"
+      ],
+      "categories": [
+        "news",
+        "religious",
+        "rock"
+      ],
+      "tags": [
+        "apocrypha",
+        "bible study",
+        "christian rock",
+        "classic rock",
+        "encouragement",
+        "genesis to revelation",
+        "news clips",
+        "old time radio clips",
+        "praise",
+        "prophecy",
+        "scripture reading",
+        "worship"
+      ],
+      "homepage": "https://live365.com/station/Beholder-s-Emporium-Salt-30-Radio-a95708",
+      "favicon": "https://live365.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:47:34Z",
+      "streams": [
+        {
+          "id": "aws_4bbd6359c206468b2ac7",
+          "stationId": "awb_82216c81c34cbd6484b0",
+          "name": "Salt:30 Radio",
+          "country": "US",
+          "url": "https://streaming.live365.com/a95708",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0bd0288b-cc55-4feb-926f-766bc540c705"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_049a43b5bf4d260f023a",
+      "name": "toker",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "homepage": "https://fmstream.org/index.php?s=Toker",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:20:33Z",
+      "streams": [
+        {
+          "id": "aws_b08626ef43b41177b95f",
+          "stationId": "awb_049a43b5bf4d260f023a",
+          "name": "toker",
+          "country": "US",
+          "url": "https://live.toker.fm:6060/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dca99d52-4163-4986-b10b-881ecbac4639"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:25:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dd432d9464926562ba10",
+      "name": "toker",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "homepage": "https://live.toker.fm:6060/;",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:23:35Z",
+      "streams": [
+        {
+          "id": "aws_89fab375420d48f4584f",
+          "stationId": "awb_dd432d9464926562ba10",
+          "name": "toker",
+          "country": "US",
+          "url": "https://live.toker.fm:6060/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c9366174-56e2-4d23-82ac-65ac70e273b2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:45:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0de92bc51cf5de33ddfc",
+      "name": "toker fm",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "religious"
+      ],
+      "homepage": "https://live.toker.fm:6060/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T05:40:19Z",
+      "streams": [
+        {
+          "id": "aws_18c8bd56e783045c950a",
+          "stationId": "awb_0de92bc51cf5de33ddfc",
+          "name": "toker fm",
+          "country": "US",
+          "url": "https://live.toker.fm:6060/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "10a7da05-c7ad-41fe-a3f2-41ec5af4111d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:05:03Z"
+        },
+        {
+          "id": "aws_47b53cdaeb8aa67ccf3b",
+          "stationId": "awb_0de92bc51cf5de33ddfc",
+          "name": "toker fm",
+          "country": "US",
+          "url": "https://live.toker.fm:6060/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6b35c2ad-7935-4f27-b988-0929f5a9895d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:31:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_163c56b4b90f6bf9ced5",
+      "name": "WJPR 1640 AM - The Jhper - Edison, New Jersey",
+      "country": "US",
+      "subdivision": "New Jersey",
+      "languages": [
+        "en",
+        "he",
+        "yi"
+      ],
+      "categories": [
+        "community",
+        "oldies"
+      ],
+      "tags": [
+        "jewish community",
+        "oldies"
+      ],
+      "homepage": "https://www.1640wjpr.com/",
+      "favicon": "https://www.1640wjpr.com/uploads/1/8/9/3/18935425/published/1103929.png?1496261942",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T21:07:26Z",
+      "streams": [
+        {
+          "id": "aws_b0b9cffaf70a2566a6e4",
+          "stationId": "awb_163c56b4b90f6bf9ced5",
+          "name": "WJPR 1640 AM - The Jhper - Edison, New Jersey",
+          "country": "US",
+          "url": "https://ice41.securenetsystems.net:80/WJPRAM",
+          "codec": "aac",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9c5413aa-508b-41b2-9c6b-d7ce38bd152c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:07:28Z"
         }
       ]
     }

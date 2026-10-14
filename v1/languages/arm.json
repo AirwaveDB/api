@@ -1,0 +1,701 @@
+{
+  "code": "arm",
+  "canonicalCode": "hy",
+  "stationCount": 16,
+  "stations": [
+    {
+      "id": "awb_08a84e7502607c0b2990",
+      "name": "Armenian Radio",
+      "country": "AM",
+      "subdivision": "Yerevan",
+      "languages": [
+        "en",
+        "hy",
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "entertainment",
+        "pop music",
+        "pop-music"
+      ],
+      "homepage": "https://www.laarmenianradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_e09e7d61bd9debaba0b2",
+          "stationId": "awb_08a84e7502607c0b2990",
+          "name": "Armenian Radio",
+          "country": "AM",
+          "url": "https://cast.thiff.com/proxy/laarmeni?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "067467aa-0430-4c24-9d17-6de0e4258349",
+            "AM:armenian-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:37:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8132ef44b24c57cf5d82",
+      "name": "Jazz FM 106.9 Yerevan Radio",
+      "country": "AM",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "homepage": "https://www.radiojazzfm.am/",
+      "favicon": "https://www.radiojazzfm.am/img/core-img/logo2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-25T22:08:43Z",
+      "streams": [
+        {
+          "id": "aws_25e522fd5ab618ffa1ee",
+          "stationId": "awb_8132ef44b24c57cf5d82",
+          "name": "Jazz FM 106.9 Yerevan Radio",
+          "country": "AM",
+          "url": "https://de.auroramedia.am/jazz.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b30af0d8-73fb-409f-a237-6aa1dc066cc3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:44:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_17d3e006c35f77e6c5ec",
+      "name": "Lav Radio",
+      "country": "AM",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "https://www.lavradio.am/",
+      "favicon": "https://www.lavradio.am/wp-content/uploads/2020/08/lav350.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_8c46673f2b26c3139e6f",
+          "stationId": "awb_17d3e006c35f77e6c5ec",
+          "name": "Lav Radio",
+          "country": "AM",
+          "url": "https://eu.stream4cast.com/proxy/lavradio/stream",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "27effcfc-5821-437d-be8a-872b2b65f994",
+            "AM:lav-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:33:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_194c9e2ccc30badae358",
+      "name": "Lratvakan Radio",
+      "country": "AM",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "armenian",
+        "debates & interviews",
+        "news"
+      ],
+      "homepage": "https://www.lratvakan.am/",
+      "favicon": "https://www.lratvakan.am/media/company/logo/corporate-logo_IAoQCpL.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-25T22:17:29Z",
+      "streams": [
+        {
+          "id": "aws_0779f919677009fa8c61",
+          "stationId": "awb_194c9e2ccc30badae358",
+          "name": "Lratvakan Radio",
+          "country": "AM",
+          "url": "http://212.34.233.78:8000/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9122772c-d9c9-4b08-ae42-3e81c1701d26"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:24:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b70bf6b17f359a9a0630",
+      "name": "2TripleO - Sydney - 98.5 FM (AAC)",
+      "country": "AU",
+      "subdivision": "Sydney NSW",
+      "languages": [
+        "ar",
+        "hy",
+        "sq"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "multilingual"
+      ],
+      "homepage": "https://www.radio2tripleo.com.au/",
+      "favicon": "https://i.ibb.co/vsywPPQ/logo-scaled.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:19:21Z",
+      "streams": [
+        {
+          "id": "aws_a9a769310bb7b4abea9c",
+          "stationId": "awb_b70bf6b17f359a9a0630",
+          "name": "2TripleO - Sydney - 98.5 FM (AAC)",
+          "country": "AU",
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2OOOAAC.aac",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cc6e1e72-69e8-4a20-ac48-131325a1ff4d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:48:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7e418787a1a8ae6c351f",
+      "name": "Trik Trak Radio",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "https://triktrak.ca/",
+      "favicon": "https://triktrak.ca/wp-content/uploads/2015/07/Triktrak_LOGO_small1.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-25T22:51:40Z",
+      "streams": [
+        {
+          "id": "aws_11317f0b184d3b055873",
+          "stationId": "awb_7e418787a1a8ae6c351f",
+          "name": "Trik Trak Radio",
+          "country": "CA",
+          "url": "https://cast3.my-control-panel.com/proxy/triktrak/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02ccf60f-f0a3-47d8-b25d-389750547d50"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:30:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9a566c06e2e5012e79f7",
+      "name": "Radio A 97.8",
+      "country": "FR",
+      "subdivision": "Drôme-Ardèche",
+      "languages": [
+        "fr",
+        "hy"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radioa.net/",
+      "favicon": "https://www.pagesjaunes.fr/media/agc/resize/800x1500/a7/ac/85/00/00/a0/51/bf/21/1b/5d39a7ac850000a051bf211b/5d39a7ac850000a051bf211c.png?v=2",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:48:40Z",
+      "streams": [
+        {
+          "id": "aws_438e285726c4eb6accc2",
+          "stationId": "awb_9a566c06e2e5012e79f7",
+          "name": "Radio A 97.8",
+          "country": "FR",
+          "url": "https://stream.votreradiosurlenet.eu/radioa.mp3",
+          "codec": "mp3",
+          "bitrate": 120,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "047e7524-1f31-4dcb-9388-2ce0e665c109"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:18:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_26af0fc5be7be42342d5",
+      "name": "Radio AYP FM",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "https://radio-aypfm.com/",
+      "favicon": "https://radio-aypfm.com/assets/img/logo-header.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-25T21:38:50Z",
+      "streams": [
+        {
+          "id": "aws_0cf17e88d385bfc2c59c",
+          "stationId": "awb_26af0fc5be7be42342d5",
+          "name": "Radio AYP FM",
+          "country": "FR",
+          "url": "https://stric6.streamakaci.com/radioayp.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f1e026f-c10f-4f9e-b43f-298bb0524eed"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:57:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ec1fc65b5811e289582c",
+      "name": "Radio YAN",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "https://www.radioyan.com/",
+      "favicon": "https://www.radioyan.com/wp-content/uploads/2025/11/radio-yan-logo-1.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-25T20:56:58Z",
+      "streams": [
+        {
+          "id": "aws_4047fc093b9b616bf265",
+          "stationId": "awb_ec1fc65b5811e289582c",
+          "name": "Radio YAN",
+          "country": "FR",
+          "url": "https://237.185.153.160.host.secureserver.net/proxy/radioyan1/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "723b119a-37ea-431a-be85-f725ebafb948"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:25:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e0fed01659b0a04d9905",
+      "name": "Libano",
+      "country": "LB",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "https://libanohayazkitsayn.wixsite.com/index",
+      "favicon": "https://libanohayazkitsayn.wixsite.com/index",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_af130ac2acab02e4c4ce",
+          "stationId": "awb_e0fed01659b0a04d9905",
+          "name": "Libano",
+          "country": "LB",
+          "url": "https://c7.radioboss.fm:18299/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "LB:libano",
+            "b151c7c0-9afa-4d47-9ad6-f1e4d3e0b083"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:28:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8f8a6a6e857d158fba3c",
+      "name": "Radio Voice of Van",
+      "country": "LB",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "https://www.voiceofvan.net/",
+      "favicon": "https://www.voiceofvan.net/backend/uploads/setting/1723180428.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-05-25T18:16:51Z",
+      "streams": [
+        {
+          "id": "aws_83b5d72e920bb402e37f",
+          "stationId": "awb_8f8a6a6e857d158fba3c",
+          "name": "Radio Voice of Van",
+          "country": "LB",
+          "url": "https://vovan.s3ming.com/vovan.aac",
+          "codec": "mp3",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cee5d76c-dc30-4446-b4b4-db1512bbad2f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:08:52Z"
+        },
+        {
+          "id": "aws_512b6d2f55b7ae640bb5",
+          "stationId": "awb_8f8a6a6e857d158fba3c",
+          "name": "Radio Voice of Van",
+          "country": "LB",
+          "url": "https://vovan.s3ming.com/vovan.mp3",
+          "codec": "mp3",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "797a3f43-9ff0-4173-8071-6f3f21e664ed"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:43:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_48cb43d73f8989c51f47",
+      "name": "Yeridasartoutian Tsayne",
+      "country": "LB",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "https://yeridasartoutiantsayne.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-25T21:48:28Z",
+      "streams": [
+        {
+          "id": "aws_41e4f1edc9dd36b94557",
+          "stationId": "awb_48cb43d73f8989c51f47",
+          "name": "Yeridasartoutian Tsayne",
+          "country": "LB",
+          "url": "http://65.108.98.93:8123/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "54bfa49a-44ed-4e82-8f58-572b3df53743"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:40:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1fc057c392d609ecd75a",
+      "name": "Radio Yeraz",
+      "country": "SY",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "https://www.radioyeraz.com/radioyeraz/index.htm",
+      "favicon": "https://scontent.ftll3-1.fna.fbcdn.net/v/t39.30808-6/674624289_1402826788529549_5608444496263804532_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rMCWWIDFXwEQ7kNvwGRoBNS&_nc_oc=AdqPQ-oKTMe6TplHsW-MqBathna_Yhj7zKfAYC-PTkPy2atSaAGdD3TWNv5vbCkCs8T3BIPgYtFXf9TAqQW-g6jH&_nc_zt=23&_nc_ht=scontent.ftll3-1.fna&_nc_gid=Mn6ra687-izylQc4Too91w&_nc_ss=7b289&oh=00_Af5EWX-ZmTEzOoyyGxMgU0ZkxvvJA4FcszjV7_D1-GTRjg&oe=6A1A9569",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-25T21:20:11Z",
+      "streams": [
+        {
+          "id": "aws_eea887affb2e7fa7bead",
+          "stationId": "awb_1fc057c392d609ecd75a",
+          "name": "Radio Yeraz",
+          "country": "SY",
+          "url": "http://149.255.60.194:8008/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c5e512cd-66d6-4ff9-b0be-99defe2017f7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:12:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_df0495c269dedf57f069",
+      "name": "HyeVibes",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "ar",
+        "el",
+        "en",
+        "fa",
+        "hy"
+      ],
+      "categories": [
+        "folk",
+        "pop"
+      ],
+      "tags": [
+        "armenian",
+        "folk",
+        "pop",
+        "world music"
+      ],
+      "homepage": "https://hyevibes.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-01T21:30:47Z",
+      "streams": [
+        {
+          "id": "aws_02fba5ccad8af6021b33",
+          "stationId": "awb_df0495c269dedf57f069",
+          "name": "HyeVibes",
+          "country": "US",
+          "url": "https://stream.hyevibes.com/listen/hyevibes/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "489989fe-8d0f-49c1-b286-588ffb2584b7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:41:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_276bdd027a358481b085",
+      "name": "Radio Hairenik",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "https://hairenik.com/radio/",
+      "favicon": "https://hairenik.com/wp-content/uploads/2014/10/haireniklogo2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-25T23:15:44Z",
+      "streams": [
+        {
+          "id": "aws_62231347266e3f5a8c9a",
+          "stationId": "awb_276bdd027a358481b085",
+          "name": "Radio Hairenik",
+          "country": "US",
+          "url": "https://streaming.radio.co/sb64369622/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7babe57d-9353-4f1b-91d6-5199ff50e1b7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:45:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3d9c10d142538a5a5f62",
+      "name": "Radio Jan USA",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "hy"
+      ],
+      "categories": [],
+      "tags": [
+        "armenian"
+      ],
+      "homepage": "http://radiojan.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T05:35:49Z",
+      "streams": [
+        {
+          "id": "aws_f1a98845c9d1e0c5fa0a",
+          "stationId": "awb_3d9c10d142538a5a5f62",
+          "name": "Radio Jan USA",
+          "country": "US",
+          "url": "http://s4.voscast.com:8864/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "99cba792-e195-494e-b95a-f3a174ec67cd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:47:37Z"
+        },
+        {
+          "id": "aws_774d1e350d1c3252d1e3",
+          "stationId": "awb_3d9c10d142538a5a5f62",
+          "name": "Radio Jan USA",
+          "country": "US",
+          "url": "https://s4.voscast.com:8865/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "33be7333-5cf5-4128-8986-6e84edc8553a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:05:39Z"
+        }
+      ]
+    }
+  ]
+}

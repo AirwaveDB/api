@@ -1,0 +1,5048 @@
+{
+  "code": "swe",
+  "canonicalCode": "sv",
+  "stationCount": 109,
+  "stations": [
+    {
+      "id": "awb_b06d8d84b0d4474c2630",
+      "name": "Ålands Radio",
+      "country": "AX",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://alandsradio.ax/",
+      "favicon": "https://alandsradio.ax/sites/default/files/favicon_artv.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:48:53Z",
+      "streams": [
+        {
+          "id": "aws_9e22760e49123d22bb53",
+          "stationId": "awb_b06d8d84b0d4474c2630",
+          "name": "Ålands Radio",
+          "country": "AX",
+          "url": "https://stream.alandsradio.ax/stream.ogg",
+          "codec": "ogg",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a940d9eb-b262-4d06-917b-457a03e0e140"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:29:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_adb5c3e57eb16e3b4d55",
+      "name": "Strul FM",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "sv"
+      ],
+      "categories": [
+        "electronic",
+        "hip-hop",
+        "reggae"
+      ],
+      "tags": [
+        "deep house",
+        "disco",
+        "hip-hop",
+        "house",
+        "r&b",
+        "rap",
+        "reggae",
+        "soul"
+      ],
+      "homepage": "https://strul.fm/",
+      "favicon": "https://strul.fm/apple-icon.png?797d65e4f93e83ea",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:18:04Z",
+      "streams": [
+        {
+          "id": "aws_167d785dba2207a4c123",
+          "stationId": "awb_adb5c3e57eb16e3b4d55",
+          "name": "Strul FM",
+          "country": "DE",
+          "url": "https://stream.streamaudio.de:8000/strul-fm",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a36af453-3668-4cfa-8959-8617aa6ae38a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:40:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6a360b62a124a2e2c0a3",
+      "name": "Ålands Radio",
+      "country": "FI",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://alandsradio.ax/",
+      "favicon": "https://alandsradio.ax/sites/all/themes/alandsradio/images/ar-default-60x60.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_d2bbf9815d844377bff9",
+          "stationId": "awb_6a360b62a124a2e2c0a3",
+          "name": "Ålands Radio",
+          "country": "FI",
+          "url": "https://stream.alandsradio.ax/stream.ogg",
+          "codec": "ogg",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "942a812b-1fa2-4112-8a78-65e74bf67006",
+            "FI:alands-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:28:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7bb7226bd35aa46ed880",
+      "name": "Sveriges Radio - SR Sisuradio",
+      "country": "FI",
+      "subdivision": null,
+      "languages": [
+        "fi",
+        "sv"
+      ],
+      "categories": [
+        "news",
+        "public"
+      ],
+      "tags": [
+        "finnish",
+        "music",
+        "news",
+        "public radio",
+        "sveriges radio"
+      ],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": "public",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_2a4cf0cc772df184ea89",
+          "stationId": "awb_7bb7226bd35aa46ed880",
+          "name": "Sveriges Radio - SR Sisuradio",
+          "country": "FI",
+          "url": "https://live1.sr.se/finska-aac-320",
+          "codec": "aac",
+          "bitrate": 288,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "960c6812-0601-11e8-ae97-52543be04c81",
+            "FI:sveriges-radio-sr-sisuradio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:03:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e13eb04115058c7cd802",
+      "name": "Yle Vega Västnyland",
+      "country": "FI",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://arenan.yle.fi/poddar/program/yle-vega?_c=radio-vega-vastnyland",
+      "favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_6491c0c54b8aedb006a7",
+          "stationId": "awb_e13eb04115058c7cd802",
+          "name": "Yle Vega Västnyland",
+          "country": "FI",
+          "url": "https://icecast.live.yle.fi/radio/YleVegaVastnyland/icecast.audio",
+          "codec": "aac+",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "892e5cbd-bd92-494f-a96b-ecb367221666",
+            "FI:yle-vega-vastnyland"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:48:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_424cb43b15e956f43dad",
+      "name": "YLE X3M",
+      "country": "FI",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://svenska.yle.fi/x3m",
+      "favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:53:10Z",
+      "streams": [
+        {
+          "id": "aws_8b0a3eab387f8f41a333",
+          "stationId": "awb_424cb43b15e956f43dad",
+          "name": "YLE X3M",
+          "country": "FI",
+          "url": "http://icecast.live.yle.fi/radio/YleX3M/icecast.audio",
+          "codec": "aac+",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f8682eca-5a74-4385-ba72-5cde13e8ce98"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:50:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a5256e005b08e907fcd4",
+      "name": "106,7 Rockklassiker",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "classic rock"
+      ],
+      "homepage": "http://www.rockklassiker.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:39:47Z",
+      "streams": [
+        {
+          "id": "aws_8e3d5fccd07d0d5fd56f",
+          "stationId": "awb_a5256e005b08e907fcd4",
+          "name": "106,7 Rockklassiker",
+          "country": "SE",
+          "url": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9642ad8b-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:24:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_27d0887f7d1d23f0eba1",
+      "name": "Bakerman Radio",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "hits",
+        "pop",
+        "rock",
+        "swedish"
+      ],
+      "homepage": "https://madmix.se/radio/bakerman-radio",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T14:41:29Z",
+      "streams": [
+        {
+          "id": "aws_18751f8c41a9812be6a5",
+          "stationId": "awb_27d0887f7d1d23f0eba1",
+          "name": "Bakerman Radio",
+          "country": "SE",
+          "url": "https://mml2.prostream.se/listen/bakerman_radio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0ec29ca7-a458-4f36-96e3-0f0436b5554c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:41:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9c345ecf28dc63413227",
+      "name": "BANANRADION",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "sv"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "tags": [
+        "caribbean",
+        "children",
+        "kids",
+        "misc",
+        "tropical",
+        "various"
+      ],
+      "homepage": "https://www.bananradion.se/",
+      "favicon": "https://lyssna.bananradion.se/static/uploads/bananradion/background.1740701637.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-12T09:20:06Z",
+      "streams": [
+        {
+          "id": "aws_3b616a12ce6e022e9a92",
+          "stationId": "awb_9c345ecf28dc63413227",
+          "name": "BANANRADION",
+          "country": "SE",
+          "url": "https://lyssna.bananradion.se/listen/bananradion/128aac",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "236f5c02-ac75-4f0f-b4f7-86dcad159765",
+            "SE:bananradion"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:20:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3c16744d484f4e6b8e1b",
+      "name": "Bandit Classic Rock",
+      "country": "SE",
+      "subdivision": "National, Sweden",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "classic rock",
+        "classic-rock"
+      ],
+      "homepage": "https://www.ilikeradio.se/banditclassicrock/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_cc1b6d6fe31998363d91",
+          "stationId": "awb_3c16744d484f4e6b8e1b",
+          "name": "Bandit Classic Rock",
+          "country": "SE",
+          "url": "https://wr11-ice.stream.khz.se/wr11_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "40dfa430-7988-4b02-ae1b-ce5fe8b5aad3",
+            "SE:bandit-classic-rock"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:23:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bf70d74fafbc042ab25c",
+      "name": "Bandit ÍRock",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "homepage": "https://www.ilikeradio.se/banditrock/",
+      "favicon": "https://www.ilikeradio.se/banditrock/wp-content/themes/ilikeradio/favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_759f5ba7463e940c9ffb",
+          "stationId": "awb_bf70d74fafbc042ab25c",
+          "name": "Bandit ÍRock",
+          "country": "SE",
+          "url": "https://fm02-ice.stream.khz.se/fm02_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "22567e75-4c10-4dde-9c51-5940b128f6cb",
+            "SE:bandit-irock"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:40:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_00c757fe8920cb37224a",
+      "name": "Bandit Metal",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "metal"
+      ],
+      "tags": [
+        "metal"
+      ],
+      "homepage": "https://www.ilikeradio.se/banditmetal/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:15:07Z",
+      "streams": [
+        {
+          "id": "aws_e12542c2978281f23fa7",
+          "stationId": "awb_00c757fe8920cb37224a",
+          "name": "Bandit Metal",
+          "country": "SE",
+          "url": "http://wr03-ice.stream.khz.se/wr03_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a9fc150a-579c-44b9-b8c1-6f0e972be3d2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:28:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f90924707eed6c0f4e24",
+      "name": "Bandit Rock",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "metal",
+        "rock"
+      ],
+      "tags": [
+        "alternative rock",
+        "classic rock",
+        "hard rock",
+        "heavy metal",
+        "metal",
+        "rock"
+      ],
+      "homepage": "https://www.ilikeradio.se/banditrock/",
+      "favicon": "https://cdn.khz.se/images/161x80/63808dd23f61e6193a9007a927189e13.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:51:16Z",
+      "streams": [
+        {
+          "id": "aws_3e8ccd6d1048c9cd9c9b",
+          "stationId": "awb_f90924707eed6c0f4e24",
+          "name": "Bandit Rock",
+          "country": "SE",
+          "url": "http://fm02-ice.stream.khz.se/fm02_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "168e0796-3b97-479c-949d-b1871ef07379"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:03:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7755781e858b6615fb43",
+      "name": "Borås Närradio",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.borasnarradio.se/",
+      "favicon": "https://websitebuilder.one.com/favicon/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:34:17Z",
+      "streams": [
+        {
+          "id": "aws_2762ada3f7866cd67f93",
+          "stationId": "awb_7755781e858b6615fb43",
+          "name": "Borås Närradio",
+          "country": "SE",
+          "url": "http://lyssna.fnf.nu:8080/radioboras.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "964338ec-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:11:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_336c7ef15eaba37b5eda",
+      "name": "Borås Närradioförening",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "fi",
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.borasnarradio.se/",
+      "favicon": "https://websitebuilder.one.com/favicon/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:06:33Z",
+      "streams": [
+        {
+          "id": "aws_c4dc5244c6c5c7b7077f",
+          "stationId": "awb_336c7ef15eaba37b5eda",
+          "name": "Borås Närradioförening",
+          "country": "SE",
+          "url": "http://lyssna.fnf.nu:8080/radioboras.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1ca4c790-7797-4b00-afa0-19e276302d64"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:45:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bd49538b5951f4cb8c52",
+      "name": "Country Rocks Radio",
+      "country": "SE",
+      "subdivision": "Skåne",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "country"
+      ],
+      "tags": [
+        "country",
+        "new country"
+      ],
+      "homepage": "http://www.countryrocksradio.com/",
+      "favicon": "http://www.countryrocksradio.com/images/CRR_web.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T06:08:23Z",
+      "streams": [
+        {
+          "id": "aws_7ccaf6629d7cfca4380c",
+          "stationId": "awb_bd49538b5951f4cb8c52",
+          "name": "Country Rocks Radio",
+          "country": "SE",
+          "url": "http://stream.dbmedia.se/crr96",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "daef257f-eb1a-11e8-a471-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:50:24Z"
+        },
+        {
+          "id": "aws_425db48c47c078006a7c",
+          "stationId": "awb_bd49538b5951f4cb8c52",
+          "name": "Country Rocks Radio",
+          "country": "SE",
+          "url": "http://stream.dbmedia.se/crrMP3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fe4b3646-7164-11e8-83fa-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:45:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b58257f34bf7f67e3787",
+      "name": "Dagnys Jukebox",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "rock",
+        "rockabilly"
+      ],
+      "homepage": "http://www.dagnysjukebox.se/",
+      "favicon": "https://www.dagnysjukebox.se/wp-content/uploads/2021/06/cropped-dagnys-jukebox-logo-180x180.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_bfeff3502e1de2bfde73",
+          "stationId": "awb_b58257f34bf7f67e3787",
+          "name": "Dagnys Jukebox",
+          "country": "SE",
+          "url": "https://stream.dagnysjukebox.se/dagny",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:dagnys-jukebox",
+            "b8f2ef5c-eaac-499c-b006-6a2fd276efb1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:15:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8b5d2f235895c98044c5",
+      "name": "Dansbandskanalen",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "dance"
+      ],
+      "homepage": "http://dansbandskanalen.se/",
+      "favicon": "https://dansbandskanalen.se/wp-content/uploads/2021/10/logo.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_1bc54fab1a4cf41be454",
+          "stationId": "awb_8b5d2f235895c98044c5",
+          "name": "Dansbandskanalen",
+          "country": "SE",
+          "url": "https://fm09-ice.stream.khz.se/fm09_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "817d37ef-474f-4072-bc48-8619eedafd97",
+            "SE:dansbandskanalen"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:52:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fa723a5923d31e323bbe",
+      "name": "DansBandsRadio.se",
+      "country": "SE",
+      "subdivision": "Skåne",
+      "languages": [
+        "da",
+        "en",
+        "no",
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "dans",
+        "dansband",
+        "dansbandsradio",
+        "danseband",
+        "dansk",
+        "norsk",
+        "svensk",
+        "swedish"
+      ],
+      "homepage": "https://dansbandsradio.se/",
+      "favicon": "https://dansbandsradio.se/images/dbr2.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-01T04:27:43Z",
+      "streams": [
+        {
+          "id": "aws_56c85297ce570e1cc2c2",
+          "stationId": "awb_fa723a5923d31e323bbe",
+          "name": "DansBandsRadio.se",
+          "country": "SE",
+          "url": "https://sc.dansbandsradio.se/dbr64.aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7cd8a7f7-138e-453b-a3fc-4ced0968f86b",
+            "SE:dansbandsradio-se"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:14:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ba335c87ea29117d0112",
+      "name": "Disco 54",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "disco",
+        "i like radio"
+      ],
+      "homepage": "https://www.ilikeradio.se/disco54/",
+      "favicon": "https://cdn.khz.se/images/700x700/6b59e6982399fcdbc7f545c1e23d4896.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_42479bf4da2853fe0206",
+          "stationId": "awb_ba335c87ea29117d0112",
+          "name": "Disco 54",
+          "country": "SE",
+          "url": "https://wr15-ice.stream.khz.se/wr15_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:disco-54",
+            "e0e2a64e-3ec4-4da4-8aec-a4aa7b502163"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:40:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d5e1338320f32c3c013a",
+      "name": "Dunken FM",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.dunkenfm.se/",
+      "favicon": "https://i0.wp.com/www.dunkenfm.se/wp-content/uploads/2015/12/12341492_10153354784835292_7253184332756180756_n.jpg?fit=180%2c138",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T00:33:22Z",
+      "streams": [
+        {
+          "id": "aws_8d244ede5e12e0db90ba",
+          "stationId": "awb_d5e1338320f32c3c013a",
+          "name": "Dunken FM",
+          "country": "SE",
+          "url": "http://stream.nsp.se:8000/DFM_AAC_Hi",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "71f377fc-3c53-4881-a53d-2a3e25ff030f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:16:24Z"
+        },
+        {
+          "id": "aws_7a7ffe462c4ffd75b6b9",
+          "stationId": "awb_d5e1338320f32c3c013a",
+          "name": "Dunken FM",
+          "country": "SE",
+          "url": "http://stream.nsp.se:8000/DFM_MP3_Hi",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7ca8f95e-a67b-4d07-9712-e829e70ff7f3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:13:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bf9b27e1a3cfa59ac449",
+      "name": "Go Country",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "sv"
+      ],
+      "categories": [
+        "country"
+      ],
+      "tags": [
+        "country"
+      ],
+      "homepage": "https://www.ilikeradio.se/gocountry/",
+      "favicon": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_d3d1b019b0bcb62cbeeb",
+          "stationId": "awb_bf9b27e1a3cfa59ac449",
+          "name": "Go Country",
+          "country": "SE",
+          "url": "https://wr14-ice.stream.khz.se/wr14_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "101f70e8-15f9-4a1c-b48f-7cbd4a7838f7",
+            "SE:go-country"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:09:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_44e18ecffa7846adaa35",
+      "name": "Göteborgs Närradio 102.6 MHz",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://gnf.nu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:28:27Z",
+      "streams": [
+        {
+          "id": "aws_4baaeb309d23749cfea4",
+          "stationId": "awb_44e18ecffa7846adaa35",
+          "name": "Göteborgs Närradio 102.6 MHz",
+          "country": "SE",
+          "url": "http://lyssna.fnf.nu:8080/gnf102.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96434238-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:47:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d2e77fef96f33b71c772",
+      "name": "Göteborgs Närradio 103.1 MHz",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://gnf.nu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:18:50Z",
+      "streams": [
+        {
+          "id": "aws_b849db6cea6882f37a89",
+          "stationId": "awb_d2e77fef96f33b71c772",
+          "name": "Göteborgs Närradio 103.1 MHz",
+          "country": "SE",
+          "url": "http://lyssna.fnf.nu:8080/gnf103.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9611e396-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:22:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1355689a114040ed9609",
+      "name": "Göteborgs Närradio 94.9 Mhz",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://gnf.nu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:38:05Z",
+      "streams": [
+        {
+          "id": "aws_01defc80330eb646fd95",
+          "stationId": "awb_1355689a114040ed9609",
+          "name": "Göteborgs Närradio 94.9 Mhz",
+          "country": "SE",
+          "url": "http://lyssna.fnf.nu:8080/gnf094.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "964340cd-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:23:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d367f4cf5ab2e2527c39",
+      "name": "Guldkanalen (80-tal)",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://playnow.se/guldkanalen-webbradio/",
+      "favicon": "https://playnow.se/wp-content/uploads/gk_play.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_98de6de9dce5e2bbd2e2",
+          "stationId": "awb_d367f4cf5ab2e2527c39",
+          "name": "Guldkanalen (80-tal)",
+          "country": "SE",
+          "url": "https://stream.dbmedia.se/gk80tal96",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "678cb641-f43d-456b-8980-cba70cb7c414",
+            "SE:guldkanalen-80-tal"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:13:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2fa776d53aeabbad20dc",
+      "name": "Guldkanalen 60-tal",
+      "country": "SE",
+      "subdivision": "Skåne",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "homepage": "https://stream.dbmedia.se/gk60tal96",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_d553a6b37675027056fb",
+          "stationId": "awb_2fa776d53aeabbad20dc",
+          "name": "Guldkanalen 60-tal",
+          "country": "SE",
+          "url": "https://stream.dbmedia.se/gk60tal96",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:guldkanalen-60-tal",
+            "a6a09847-6e2e-4076-9b30-773023caf2e7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:48:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_13ddfc60dfebd6cc5551",
+      "name": "Guldkanalen Helsingborg",
+      "country": "SE",
+      "subdivision": "Helsingborg",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "homepage": "http://www.guldkanalen.se/",
+      "favicon": "https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:30:27Z",
+      "streams": [
+        {
+          "id": "aws_c060e6546db556b4f531",
+          "stationId": "awb_13ddfc60dfebd6cc5551",
+          "name": "Guldkanalen Helsingborg",
+          "country": "SE",
+          "url": "http://stream.dbmedia.se/gkhbg96",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "961d9ecf-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:27:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_640f82765ced127c4277",
+      "name": "Guldkanalen Malmö/Lund",
+      "country": "SE",
+      "subdivision": "Malmoe",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "homepage": "http://guldkanalen.se/",
+      "favicon": "https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:57:09Z",
+      "streams": [
+        {
+          "id": "aws_92fbe8afcbb537cab675",
+          "stationId": "awb_640f82765ced127c4277",
+          "name": "Guldkanalen Malmö/Lund",
+          "country": "SE",
+          "url": "http://stream.dbmedia.se/gk96",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9642aad0-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:20:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3fe14ffbb4bf2bd84c2b",
+      "name": "Helsinborgs närradio",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.hnfradio.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:56:00Z",
+      "streams": [
+        {
+          "id": "aws_3e1487cc74eacb01c7e6",
+          "stationId": "awb_3fe14ffbb4bf2bd84c2b",
+          "name": "Helsinborgs närradio",
+          "country": "SE",
+          "url": "http://deb.patrikmalmgrenrask.se:8010/",
+          "codec": "mp3",
+          "bitrate": 140,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f334270f-0a63-4c84-832e-a5291f2b4612"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:47:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d192b8acf04baf2ffba0",
+      "name": "Himlen TV7",
+      "country": "SE",
+      "subdivision": "Uppsala",
+      "languages": [
+        "en",
+        "sv"
+      ],
+      "categories": [
+        "kids",
+        "news",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "children",
+        "christian",
+        "family",
+        "news talk",
+        "youth"
+      ],
+      "homepage": "https://www.himlentv7.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:11:54Z",
+      "streams": [
+        {
+          "id": "aws_ea96a45b68ba2114bcd9",
+          "stationId": "awb_d192b8acf04baf2ffba0",
+          "name": "Himlen TV7",
+          "country": "SE",
+          "url": "http://vod.tv7.fi:1935/tv7-se/mp4:tv7-se.stream_720p/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 2973,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4a5ce51f-7966-11ea-8a3b-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:38:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_437dfe09343bc24cb572",
+      "name": "HITCITY",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "sv"
+      ],
+      "categories": [
+        "electronic",
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "00s",
+        "2010s",
+        "2020s",
+        "80s",
+        "90s",
+        "hot ac",
+        "pop music",
+        "pop-music",
+        "techno",
+        "trance"
+      ],
+      "homepage": "https://hitcity.se/live",
+      "favicon": "https://hitcity.se/HITCITY_logga.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_6999e82edbe4b5b59254",
+          "stationId": "awb_437dfe09343bc24cb572",
+          "name": "HITCITY",
+          "country": "SE",
+          "url": "https://stream.hitcity.se/live",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1067bc4c-fed3-459a-b0dd-045d68cc225e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:21:10Z"
+        },
+        {
+          "id": "aws_6c4e17835c4decb1c9fb",
+          "stationId": "awb_437dfe09343bc24cb572",
+          "name": "HITCITY",
+          "country": "SE",
+          "url": "https://stream.hitcity.se/live.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "229845c8-bcae-4067-8767-c34114d5b4b3",
+            "SE:hitcity"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:24:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c8be28e746e5bc63d6bf",
+      "name": "Höganäs Närradio",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "blues",
+        "country",
+        "jazz",
+        "pop",
+        "religious",
+        "rock"
+      ],
+      "tags": [
+        "1950s",
+        "1960s",
+        "blues",
+        "classic rock",
+        "country",
+        "jazz",
+        "pop",
+        "religious"
+      ],
+      "homepage": "https://radio-kullabygden.se/",
+      "favicon": "https://www.radio-kullabygden.se/wp-content/uploads/2016/04/hnfloggo_100px.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:08:13Z",
+      "streams": [
+        {
+          "id": "aws_960a7ce8c8bd8d093ded",
+          "stationId": "awb_c8be28e746e5bc63d6bf",
+          "name": "Höganäs Närradio",
+          "country": "SE",
+          "url": "https://deb.patrikmalmgrenrask.se:10443/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1808e244-4ca2-4a4d-be3a-17babddef88a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:13:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c4ee7e0579729b9b0446",
+      "name": "Lite FM 101.1",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.litefm.se/",
+      "favicon": "http://www.litefm.se/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:30:19Z",
+      "streams": [
+        {
+          "id": "aws_cf4145dd6761d890e663",
+          "stationId": "awb_c4ee7e0579729b9b0446",
+          "name": "Lite FM 101.1",
+          "country": "SE",
+          "url": "http://live.litefm.se:8000/stream_mp3",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96434319-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:24:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ac636cfacbeb3f9806b5",
+      "name": "Lugna Favoriter Stockholm",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "romantic"
+      ],
+      "homepage": "https://lugnafavoriter.se./",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:28:14Z",
+      "streams": [
+        {
+          "id": "aws_19debc94a649ed6c59fb",
+          "stationId": "awb_ac636cfacbeb3f9806b5",
+          "name": "Lugna Favoriter Stockholm",
+          "country": "SE",
+          "url": "http://fm03-ice.stream.khz.se/fm03_mp3?",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2f869fa1-9f35-4ab3-a417-e8cef6880f48"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:24:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_be9a0145f78a0ca09bb3",
+      "name": "Mix Megapol",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.mixmegapol.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:02:57Z",
+      "streams": [
+        {
+          "id": "aws_bdaabb1cfddbd9479cca",
+          "stationId": "awb_be9a0145f78a0ca09bb3",
+          "name": "Mix Megapol",
+          "country": "SE",
+          "url": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=mixmegapol_instream_se_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96342772-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:59:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b27c02c669837cefde9a",
+      "name": "Mix Megapol 104,3",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://radioplay.se/mixmegapol",
+      "favicon": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/451.jpg",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_006ad1482e2e7cd1e53d",
+          "stationId": "awb_b27c02c669837cefde9a",
+          "name": "Mix Megapol 104,3",
+          "country": "SE",
+          "url": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp",
+          "codec": "aac+",
+          "bitrate": 56,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5df76756-534f-4af9-879c-268dce9b9b80"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:30:20Z"
+        },
+        {
+          "id": "aws_a10ec27d8e091d93eb01",
+          "stationId": "awb_b27c02c669837cefde9a",
+          "name": "Mix Megapol 104,3",
+          "country": "SE",
+          "url": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "0772676d-9fe4-4945-b63f-3e88e5aeb374",
+            "SE:mix-megapol-104-3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:43:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3b8536903cc5bc08c013",
+      "name": "Narradion Boden",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.bodensradio.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:21:48Z",
+      "streams": [
+        {
+          "id": "aws_359fe8a87a4b7257f0c4",
+          "stationId": "awb_3b8536903cc5bc08c013",
+          "name": "Narradion Boden",
+          "country": "SE",
+          "url": "http://radio.bodensradio.se:8000/stream.ogg",
+          "codec": "ogg",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e35b1892-da16-48fa-8fb2-edf6803b6177"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:01:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_41044b8b5688c55b88ac",
+      "name": "NRJ",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.radioplay.se/nrj",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:44:04Z",
+      "streams": [
+        {
+          "id": "aws_771d01c1b3dd8a85b651",
+          "stationId": "awb_41044b8b5688c55b88ac",
+          "name": "NRJ",
+          "country": "SE",
+          "url": "http://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5dfe2bf3-0d7b-4df3-a3e3-ce7c465cf115"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:06:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d633fe671893cb172f91",
+      "name": "NRJ Sweden",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "top 40"
+      ],
+      "homepage": "http://www.nrj.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:58:28Z",
+      "streams": [
+        {
+          "id": "aws_b0e03288b5b39e4d27f8",
+          "stationId": "awb_d633fe671893cb172f91",
+          "name": "NRJ Sweden",
+          "country": "SE",
+          "url": "http://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96414222-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:44:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_19b81fe2a8a79d223315",
+      "name": "P4 Kalmar",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news talk music"
+      ],
+      "homepage": "https://sverigesradio.se/kalmar",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_2b4b9f8b2aa3920fb8f5",
+          "stationId": "awb_19b81fe2a8a79d223315",
+          "name": "P4 Kalmar",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4kalm-mp3-96",
+          "codec": "mp3",
+          "bitrate": 176,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "5352f351-b5ac-4141-b886-9c44ac446511",
+            "SE:p4-kalmar"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:58:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_50839cf3c20b515680a5",
+      "name": "P4 Västerbotten",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://sverigesradio.se/vasterbotten",
+      "favicon": "https://static-cdn.sr.se/images/109/b945bd34-5b64-4190-a82f-fd3ac87c5d64.jpg?preset=100x100",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_0789fab4ca39ea87276b",
+          "stationId": "awb_50839cf3c20b515680a5",
+          "name": "P4 Västerbotten",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4vbtn-mp3-96",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "39a437bb-aa17-420b-a748-41b35312d1de",
+            "SE:p4-vasterbotten"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:00:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_51d6a26c92a04ee1ac7c",
+      "name": "P4 Västernorrland",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": null,
+      "sourceCount": 4,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_37d7aafac23d89767eed",
+          "stationId": "awb_51d6a26c92a04ee1ac7c",
+          "name": "P4 Västernorrland",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4vnrl-aac-320",
+          "codec": "aac",
+          "bitrate": 312,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4b226edb-15be-4563-b74b-372b103091f7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:46:45Z"
+        },
+        {
+          "id": "aws_33de6b13145c4ae0a903",
+          "stationId": "awb_51d6a26c92a04ee1ac7c",
+          "name": "P4 Västernorrland",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4vnrl-mp3-96",
+          "codec": "mp3",
+          "bitrate": 148,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "51b2e520-417d-4c91-8bf3-f2a664289c9b",
+            "SE:p4-vasternorrland"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:22:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_53feddf269189065c60a",
+      "name": "P4 Västmanland",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_79c2540048c6e3a67e4b",
+          "stationId": "awb_53feddf269189065c60a",
+          "name": "P4 Västmanland",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4vstm-mp3-96",
+          "codec": "mp3",
+          "bitrate": 164,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "73b5026f-40f2-49e8-846d-4d6f77e20d18",
+            "SE:p4-vastmanland"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:26:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e4e97f5774f8e3553169",
+      "name": "Pirate Rock Västkustens bästa rock",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "classic rock",
+        "hardrock",
+        "rock"
+      ],
+      "homepage": "https://piraterock.se/",
+      "favicon": "https://piraterock.se/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:54:52Z",
+      "streams": [
+        {
+          "id": "aws_9325f2734cfc4208d13d",
+          "stationId": "awb_e4e97f5774f8e3553169",
+          "name": "Pirate Rock Västkustens bästa rock",
+          "country": "SE",
+          "url": "http://stream.piraterock.se:8101/webradio",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f4fcca1a-ba7e-11e9-acb2-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:02:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_47b77ac4f37bdd3b4c81",
+      "name": "Pop & Rock",
+      "country": "SE",
+      "subdivision": "Umeao",
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "local radio"
+      ],
+      "homepage": "http://www.poporock.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:53:54Z",
+      "streams": [
+        {
+          "id": "aws_b10d8d00cfdcbad25481",
+          "stationId": "awb_47b77ac4f37bdd3b4c81",
+          "name": "Pop & Rock",
+          "country": "SE",
+          "url": "http://62.101.46.15:8000/poporock",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9642b0c2-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:21:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_521479d3da757741a3e2",
+      "name": "Pop Radio Stockholm",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "homepage": "https://popradio.se/",
+      "favicon": "https://popradio.se/data/media/0/0/jrMediaPro_logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:06:33Z",
+      "streams": [
+        {
+          "id": "aws_e4a6d3a9497f4c70fc41",
+          "stationId": "awb_521479d3da757741a3e2",
+          "name": "Pop Radio Stockholm",
+          "country": "SE",
+          "url": "http://master.shoutcast.com:8000/popradio-stockholm",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ccfd647b-93da-4275-aa8f-0c39f56feac5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:18:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c48c227e46d1ec241565",
+      "name": "Power Club",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "club",
+        "i like radio"
+      ],
+      "homepage": "https://www.ilikeradio.se/powerclub/",
+      "favicon": "https://cdn.khz.se/images/700x700/413c0945925c2a8eefe0f574c5a01a15.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_425cc902692edd41901b",
+          "stationId": "awb_c48c227e46d1ec241565",
+          "name": "Power Club",
+          "country": "SE",
+          "url": "https://wr06-ice.stream.khz.se/wr06_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "4b089827-c6e2-44d7-8689-00c47c9d8650",
+            "SE:power-club"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:23:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_495303e065948a053831",
+      "name": "Radio 94,3",
+      "country": "SE",
+      "subdivision": "Närke",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "country",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "country",
+        "dansband",
+        "easy listening",
+        "easy-listening",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://radio943.se/",
+      "favicon": "https://radio943.se/Logotype.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_550f64be5920c3077a1f",
+          "stationId": "awb_495303e065948a053831",
+          "name": "Radio 94,3",
+          "country": "SE",
+          "url": "https://stream.radio943.se/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "6067a78f-6b1a-49f0-b0cc-7dec506552b6",
+            "SE:radio-94-3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:48:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4d8582b9baf4d7977df4",
+      "name": "Radio bubb.la",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radio.bubb.la/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_1293b1545bce533eab69",
+          "stationId": "awb_4d8582b9baf4d7977df4",
+          "name": "Radio bubb.la",
+          "country": "SE",
+          "url": "https://live.radio.bubb.la/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "91c407ca-7561-11e9-af37-52543be04c81",
+            "SE:radio-bubb-la"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:36:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f8773b4e87b3e34fa913",
+      "name": "Radio Haninge",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radiohaninge.se/",
+      "favicon": "https://www.radiohaninge.se/images/logo/rhdlogo01.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:22:38Z",
+      "streams": [
+        {
+          "id": "aws_ac2d56ffa5af322a565d",
+          "stationId": "awb_f8773b4e87b3e34fa913",
+          "name": "Radio Haninge",
+          "country": "SE",
+          "url": "http://213.115.49.175:1157/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cda260eb-ede7-4417-97f6-55dea02abd80"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:28:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_649bd0a1bc34596fbff5",
+      "name": "Radio Hope",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "homepage": "http://www.radiohope.se/",
+      "favicon": "http://www.radiohope.se/favicon.ico",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_8c6f408b794f054c46c6",
+          "stationId": "awb_649bd0a1bc34596fbff5",
+          "name": "Radio Hope",
+          "country": "SE",
+          "url": "http://s2.radio.co/sfbf5f5b85/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f705d3e2-d76e-47eb-8f24-fb739fee8a8f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:40:22Z"
+        },
+        {
+          "id": "aws_61f9927f0572c6ce1961",
+          "stationId": "awb_649bd0a1bc34596fbff5",
+          "name": "Radio Hope",
+          "country": "SE",
+          "url": "https://s2.radio.co/sfbf5f5b85/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:radio-hope",
+            "c8904795-b56f-4abc-afac-476169325741"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:43:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e6e6e7ab2a27c6052ac1",
+      "name": "Radio Laholm",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "news",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "60s",
+        "70s",
+        "80s",
+        "contemporary adult",
+        "local radio",
+        "news",
+        "pop",
+        "rock"
+      ],
+      "homepage": "http://radiolaholm.nu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:00:03Z",
+      "streams": [
+        {
+          "id": "aws_cc91e2980daef5a74333",
+          "stationId": "awb_e6e6e7ab2a27c6052ac1",
+          "name": "Radio Laholm",
+          "country": "SE",
+          "url": "http://stream.zeno.fm/tf8vczzxrg0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3c9f18c4-2d3a-4cc0-ae29-bbb1de69984c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:08:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_de90a1800dfc06687189",
+      "name": "Radio Nostalgi SE",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radioplay.se/radio-nostalgi/play/",
+      "favicon": "https://radioplay.se/tesla/static/favicons/radioplay-se/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_3d7b54a5cf13ed65a240",
+          "stationId": "awb_de90a1800dfc06687189",
+          "name": "Radio Nostalgi SE",
+          "country": "SE",
+          "url": "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:radio-nostalgi-se",
+            "be9cd5b3-570c-410c-ab98-7f99af678b20"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:45:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_317fc912e3de80aad2de",
+      "name": "Radio Rainbow",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "dance",
+        "dj remix",
+        "house"
+      ],
+      "homepage": "https://www.ilikeradio.se/radiorainbow/",
+      "favicon": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ed6cb38600f0824c24a0",
+          "stationId": "awb_317fc912e3de80aad2de",
+          "name": "Radio Rainbow",
+          "country": "SE",
+          "url": "https://wr20-ice.stream.khz.se/wr20_mp3?platform=web",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "5baebcb0-15c1-4562-b4f8-4219b32cea5d",
+            "SE:radio-rainbow"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:28:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_48e59814ad58e1d26b96",
+      "name": "Radio Sandviken",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "local radio",
+        "music"
+      ],
+      "homepage": "http://www.radiosandviken.se/",
+      "favicon": "https://radiosandviken.se/wp-content/uploads/2024/12/rslogotyp2-1.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ac0b6d2efc70b53c6b16",
+          "stationId": "awb_48e59814ad58e1d26b96",
+          "name": "Radio Sandviken",
+          "country": "SE",
+          "url": "http://rssand.se:4027/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3fc2ea83-9ed6-44a5-b6ed-cc0e648c7ee0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:02:19Z"
+        },
+        {
+          "id": "aws_4094ad5cd8b6ea3ec0bb",
+          "stationId": "awb_48e59814ad58e1d26b96",
+          "name": "Radio Sandviken",
+          "country": "SE",
+          "url": "https://shout.rs8990.com/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "48798f54-d904-426b-b9e3-cd75aa5816b2",
+            "SE:radio-sandviken"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:50:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b6d8b5e2e0c8571e03a2",
+      "name": "Radio Skövde",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radioskovde.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:30:19Z",
+      "streams": [
+        {
+          "id": "aws_eec0c8fada42b4b0800a",
+          "stationId": "awb_b6d8b5e2e0c8571e03a2",
+          "name": "Radio Skövde",
+          "country": "SE",
+          "url": "http://video.webbplay.se:1935/liveradio/narradio/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb4855dc-2835-4974-958b-1a3ca10ddadc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:49:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_02c1e25463186036a571",
+      "name": "Radio Sotenäs",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "00s",
+        "70s",
+        "80s",
+        "90s",
+        "pop",
+        "rock",
+        "top 40"
+      ],
+      "homepage": "http://www.radiosotenas.se/",
+      "favicon": "http://www.radiosotenas.se/favicon.png?509110",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:49:44Z",
+      "streams": [
+        {
+          "id": "aws_2a04ac11896f5be61cae",
+          "stationId": "awb_02c1e25463186036a571",
+          "name": "Radio Sotenäs",
+          "country": "SE",
+          "url": "http://sc1.radiosotenas.se/",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "962afe61-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:37:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d56c76258c5c1ba5cac7",
+      "name": "Radio Uppsala",
+      "country": "SE",
+      "subdivision": "Uppsala County",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community",
+        "local",
+        "music",
+        "uppsala"
+      ],
+      "homepage": "https://radiouppsala.se/",
+      "favicon": "https://radiouppsala.se/favicon.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T20:24:14Z",
+      "streams": [
+        {
+          "id": "aws_459ff845cdc9b6c1c66a",
+          "stationId": "awb_d56c76258c5c1ba5cac7",
+          "name": "Radio Uppsala",
+          "country": "SE",
+          "url": "https://radio.mediarosenqvist.com/listen/radio-uppsala/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2e16a698-2fe8-47eb-8b1d-74fa2bcc9f10"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:24:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9c6ceee1aad7ae4e6eb6",
+      "name": "REPLAY NEWS - Svenska",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "news"
+      ],
+      "homepage": "https://www.replaynews.net/",
+      "favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-SE.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_cef808819b4474a9ebbb",
+          "stationId": "awb_9c6ceee1aad7ae4e6eb6",
+          "name": "REPLAY NEWS - Svenska",
+          "country": "SE",
+          "url": "https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "271de73b-4fa6-4c19-8132-33397f31bf7c",
+            "SE:replay-news-svenska"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:25:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d2fd137aa9d98164fd8f",
+      "name": "Retro FM Skåne",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "homepage": "http://www.retrofm.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_b1e9d8b1f7bdad01d9fa",
+          "stationId": "awb_d2fd137aa9d98164fd8f",
+          "name": "Retro FM Skåne",
+          "country": "SE",
+          "url": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "8b00bcfc-4d94-11ea-b877-52543be04c81",
+            "SE:retro-fm-skane"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:13:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_db6b386109bf42c2f1c3",
+      "name": "Retro FM Sverige",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "sv"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "homepage": "https://www.retrofm.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_7fe7ce4776124c96de6a",
+          "stationId": "awb_db6b386109bf42c2f1c3",
+          "name": "Retro FM Sverige",
+          "country": "SE",
+          "url": "https://stream.rcs.revma.com/25knctp5vepwv",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "3a7f738e-a823-4680-ba93-c5de8217e3df",
+            "SE:retro-fm-sverige"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:49:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_74a7c1c496272e51ebf0",
+      "name": "Rix FM",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://www.ilikeradio.se/rixfm/",
+      "favicon": "https://www.ilikeradio.se/rixfm/wp-content/themes/ilikeradio/assets/images/apple-icon-touch.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-01-15T08:16:49Z",
+      "streams": [
+        {
+          "id": "aws_ef8a8b6e28eae8200f30",
+          "stationId": "awb_74a7c1c496272e51ebf0",
+          "name": "Rix FM",
+          "country": "SE",
+          "url": "http://fm01-ice.stream.khz.se/fm01_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0a1d8945-08fe-4092-96c4-019ac9a38022",
+            "50d2c7dd-dec7-4169-84a1-a2f1614278ad"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:27:49Z"
+        },
+        {
+          "id": "aws_05775b111aa77727a4d9",
+          "stationId": "awb_74a7c1c496272e51ebf0",
+          "name": "RIX FM",
+          "country": "SE",
+          "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d1620588-c6f3-4e40-a828-a0fd3f945c07"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:19:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7609f4590ce5083343bf",
+      "name": "RIX FM 106,7",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://www.ilikeradio.se/rixfm",
+      "favicon": "https://cdn.khz.se/images/161x80/c4b8642fb86f50849ac5ca144afdc365.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_7e39a129b4d61093b7a9",
+          "stationId": "awb_7609f4590ce5083343bf",
+          "name": "RIX FM 106,7",
+          "country": "SE",
+          "url": "https://fm01-ice.stream.khz.se/fm01_aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a72d9bd0-86b9-4450-8958-c53688e1e956"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:49:28Z"
+        },
+        {
+          "id": "aws_60e375c558d18997928a",
+          "stationId": "awb_7609f4590ce5083343bf",
+          "name": "RIX FM 106,7",
+          "country": "SE",
+          "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "0d3a2fd0-4c71-46ee-8700-2686fb699307",
+            "SE:rix-fm-106-7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:29:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2b95b65c2385971b47ad",
+      "name": "RIX FM Fresh",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "homepage": "https://www.ilikeradio.se/rixfmfresh/",
+      "favicon": "https://cdn.khz.se/images/700x700/63d7c54c7bc4a8d5cd1ee7b9296beef8.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:12:36Z",
+      "streams": [
+        {
+          "id": "aws_53e941e63d7b7e8b46fb",
+          "stationId": "awb_2b95b65c2385971b47ad",
+          "name": "RIX FM Fresh",
+          "country": "SE",
+          "url": "https://wr04-ice.stream.khz.se/wr04_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f589db8-fb66-4d2a-b4d9-03a8bece9b7e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:01:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ee624abfeed4a7f5af81",
+      "name": "Roslagen Live",
+      "country": "SE",
+      "subdivision": "Stockholm County",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community",
+        "local",
+        "music",
+        "norrtälje",
+        "roslagen"
+      ],
+      "homepage": "https://roslagenlive.com/",
+      "favicon": "https://roslagenlive.com/icons/icon-180.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T06:33:21Z",
+      "streams": [
+        {
+          "id": "aws_54b1009db62c09dcffed",
+          "stationId": "awb_ee624abfeed4a7f5af81",
+          "name": "Roslagen Live",
+          "country": "SE",
+          "url": "https://radio.mediarosenqvist.com/listen/roslagen-live/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0acb4fc1-f062-4111-9eff-740c66bd9e44"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:33:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a5a1d147b7da869cac27",
+      "name": "Sauna Radio",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "en",
+        "sv"
+      ],
+      "categories": [
+        "community",
+        "electronic"
+      ],
+      "tags": [
+        "community radio",
+        "dj sets",
+        "electronic",
+        "live",
+        "stockholm"
+      ],
+      "homepage": "https://www.saunaradio.com/",
+      "favicon": "https://cdn.prod.website-files.com/68299d95b4257010638944e5/6a95f1c5530f9b3492a55af3_sauna-radio-favicon-512.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-09-02T05:38:52Z",
+      "streams": [
+        {
+          "id": "aws_2b676899d6bcc27608a7",
+          "stationId": "awb_a5a1d147b7da869cac27",
+          "name": "Sauna Radio",
+          "country": "SE",
+          "url": "https://stream.saunaradio.com/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d11fc90-1129-4b76-b42d-98fe127c9317"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:16:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7921fa9570c9ebf30b54",
+      "name": "Soul Classics",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "classic soul"
+      ],
+      "homepage": "https://www.ilikeradio.se/soulclassics/",
+      "favicon": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_4de08adab68f543f7efe",
+          "stationId": "awb_7921fa9570c9ebf30b54",
+          "name": "Soul Classics",
+          "country": "SE",
+          "url": "https://wr08-ice.stream.khz.se/wr08_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:soul-classics",
+            "fa0f560a-e7f4-4918-b02d-d61a740b075e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:21:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_02c41c3da99289399cef",
+      "name": "SR P1",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "public service"
+      ],
+      "homepage": "https://www.sverigesradio.se/kanaler",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-17T15:19:33Z",
+      "streams": [
+        {
+          "id": "aws_8699820ad5029ee3b911",
+          "stationId": "awb_02c41c3da99289399cef",
+          "name": "SR P1",
+          "country": "SE",
+          "url": "https://live1.sr.se/p1-aac-32",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bfb5ad64-4a32-45cb-ae1d-a4b4d9415470"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:09:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_42d601942cd0038b100a",
+      "name": "SR P4 Jönköping",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "local news"
+      ],
+      "homepage": "https://www.sverigesradio.se/nyheter/p4-jonkoping",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/6/63/SR_P4_logo.svg?utm_source=sv.wikipedia.org&utm_campaign=index&utm_content=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-31T13:37:18Z",
+      "streams": [
+        {
+          "id": "aws_d0ad16dc29b4a256ac2e",
+          "stationId": "awb_42d601942cd0038b100a",
+          "name": "SR P4 Jönköping",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4jkpg-aac-320",
+          "codec": "aac",
+          "bitrate": 312,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d49cfff7-ce57-475d-8ce1-c37d0e150574"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:15:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8a70ae2670dc17aab34f",
+      "name": "SR4- Sthlm",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.sverigesradio.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-16T09:39:28Z",
+      "streams": [
+        {
+          "id": "aws_8b35c02f04487b64d6b3",
+          "stationId": "awb_8a70ae2670dc17aab34f",
+          "name": "SR4- Sthlm",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4sth-aac-32",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9ccab272-2072-4baa-baad-52170ecd0c11"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:31:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f8384fd705d62158d4e5",
+      "name": "Star 70's",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "70's",
+        "70-tal",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://www.ilikeradio.se/star70s/",
+      "favicon": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:43:13Z",
+      "streams": [
+        {
+          "id": "aws_88efdb63a8cb98395627",
+          "stationId": "awb_f8384fd705d62158d4e5",
+          "name": "Star 70's",
+          "country": "SE",
+          "url": "http://wr10-ice.stream.khz.se/wr10_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d5644326-77e9-4c6a-9444-b1dc636ce8e8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:31:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_717d99a08926ee1f8517",
+      "name": "Star 80's",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80's",
+        "80-tal",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://www.ilikeradio.se/star80s/",
+      "favicon": "https://www.ilikeradio.se/starfm/wp-content/themes/ilikeradio/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:50:37Z",
+      "streams": [
+        {
+          "id": "aws_106928cff63d6c5a3947",
+          "stationId": "awb_717d99a08926ee1f8517",
+          "name": "Star 80's",
+          "country": "SE",
+          "url": "http://wr02-ice.stream.khz.se/wr02_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2d106b56-62e5-4ced-8a5f-9f57721f760a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:37:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_eb1c41113ae2e0cd0fc5",
+      "name": "Star 90's",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "90's",
+        "90-tal",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://www.ilikeradio.se/star90s/",
+      "favicon": "https://cdn.khz.se/images/90x90/36c929ecf6458a078f49fc6ac5f1ea1b.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:54:34Z",
+      "streams": [
+        {
+          "id": "aws_4f1caace7efd6d1a14f9",
+          "stationId": "awb_eb1c41113ae2e0cd0fc5",
+          "name": "Star 90's",
+          "country": "SE",
+          "url": "http://wr12-ice.stream.khz.se/wr12_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6a26ca98-58b4-4127-8c3d-869564bc672c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:45:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0c4ca63f7397992df25e",
+      "name": "Star FM",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.ilikeradio.se/starfm/",
+      "favicon": "https://www.ilikeradio.se/starfm/wp-content/themes/ilikeradio/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:26:33Z",
+      "streams": [
+        {
+          "id": "aws_ac99add536c6d123f656",
+          "stationId": "awb_0c4ca63f7397992df25e",
+          "name": "Star FM",
+          "country": "SE",
+          "url": "http://fm05-ice.stream.khz.se/fm05_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "49b761c3-0564-4501-857f-f1ee6831b387"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:04:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3aeb5256e48f53367093",
+      "name": "STAR FM 107,1",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://www.ilikeradio.se/starfm",
+      "favicon": "https://cdn.khz.se/images/90x90/283491c5df7ee85947ab916a80f50578.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_3bd7fa124eccc1b4f69b",
+          "stationId": "awb_3aeb5256e48f53367093",
+          "name": "STAR FM 107,1",
+          "country": "SE",
+          "url": "https://fm05-ice.stream.khz.se/fm05_aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ce877b75-fbb5-4b67-a39c-707e59ab38cc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:01:18Z"
+        },
+        {
+          "id": "aws_b279fc340cd2e457bcb8",
+          "stationId": "awb_3aeb5256e48f53367093",
+          "name": "STAR FM 107,1",
+          "country": "SE",
+          "url": "https://fm05-ice.stream.khz.se/fm05_mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:star-fm-107-1",
+            "b30f805d-8402-4555-b182-dcf5fa0820da"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:51:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0bb7c1c6d70f8014eafd",
+      "name": "Stocholm Närradio FM 95.3",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "http://www.narradio.se/",
+      "favicon": "http://www.narradio.se/logo_205.gif",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:32:55Z",
+      "streams": [
+        {
+          "id": "aws_481114b33b7ae6b5808d",
+          "stationId": "awb_0bb7c1c6d70f8014eafd",
+          "name": "Stocholm Närradio FM 95.3",
+          "country": "SE",
+          "url": "http://live.narradio.se:8020/;stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "54e3f7cd-47a0-414a-ac11-1b7850ed5973"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:59:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a6f81bdd50527f59d209",
+      "name": "Stockholm FM 101,1 Sweden",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "international",
+        "variety"
+      ],
+      "homepage": "http://www.narradio.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:04:00Z",
+      "streams": [
+        {
+          "id": "aws_a442fc0b4b5bf3ec56c8",
+          "stationId": "awb_a6f81bdd50527f59d209",
+          "name": "Stockholm FM 101,1 Sweden",
+          "country": "SE",
+          "url": "http://radiostreamthree.mine.nu:18020/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "957584f4-cef4-11e8-a54a-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:49:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_795dd64c067f10cec9fa",
+      "name": "Stockholm FM 88,0 Sweden",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "church",
+        "culture",
+        "politics",
+        "talk",
+        "various"
+      ],
+      "homepage": "http://www.narradio.se/",
+      "favicon": "http://www.narradio.se/logo_205.gif",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:08:58Z",
+      "streams": [
+        {
+          "id": "aws_9eb9393be27a97dcddfd",
+          "stationId": "awb_795dd64c067f10cec9fa",
+          "name": "Stockholm FM 88,0 Sweden",
+          "country": "SE",
+          "url": "http://radiostreamtwo.mine.nu:18000/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "20aee753-cef5-11e8-a54a-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:47:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f7b9e099bfbe95993354",
+      "name": "Stockholm Närradio FM 101.1",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "http://www.narradio.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:36:04Z",
+      "streams": [
+        {
+          "id": "aws_c76ed20297ef2d71b13e",
+          "stationId": "awb_f7b9e099bfbe95993354",
+          "name": "Stockholm Närradio FM 101.1",
+          "country": "SE",
+          "url": "http://live.narradio.se:8030/;stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b667d92a-e0a3-4b84-aba6-1f455cc5e592"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:07:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9bea6cb65ee0cd194186",
+      "name": "Stockholm Närradio FM 88.0",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "talk radio"
+      ],
+      "homepage": "http://www.narradio.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:18:28Z",
+      "streams": [
+        {
+          "id": "aws_e75b000b3fb4f7437e83",
+          "stationId": "awb_9bea6cb65ee0cd194186",
+          "name": "Stockholm Närradio FM 88.0",
+          "country": "SE",
+          "url": "http://live.narradio.se:8010/;stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "587e1851-aa43-4c62-a4b1-8b7f2517a31a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:05:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6ac50a51c183c972eaa6",
+      "name": "Svensk Folkmusik - AkkA radio",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "folk"
+      ],
+      "tags": [
+        "folk",
+        "folk music",
+        "folkmusik",
+        "svensk",
+        "svensk folkmusik",
+        "swedish",
+        "traditional"
+      ],
+      "homepage": "http://www.svenskfolkmusik.nu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:48:31Z",
+      "streams": [
+        {
+          "id": "aws_cd382bbe0995df8561d9",
+          "stationId": "awb_6ac50a51c183c972eaa6",
+          "name": "Svensk Folkmusik - AkkA radio",
+          "country": "SE",
+          "url": "http://mediaserv38.live-streams.nl:8107/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d077ae1e-60ef-422b-b9ac-159e56b319d4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:04:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_77ef220724b1fa8bb6c6",
+      "name": "Sveriges Kristna Radio",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "gospel",
+        "talk"
+      ],
+      "homepage": "https://sverigeskristnaradio.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:11:46Z",
+      "streams": [
+        {
+          "id": "aws_720da7339847a94fd47e",
+          "stationId": "awb_77ef220724b1fa8bb6c6",
+          "name": "Sveriges Kristna Radio",
+          "country": "SE",
+          "url": "https://s2.radio.co/sfbf5f5b85/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9a58e0e1-7718-4d9a-8179-c9c95a255fd6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:25:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_96c917dc93d3519d3264",
+      "name": "Sveriges Radio - Ekot sänder direkt",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "news",
+        "public"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "sveriges radio"
+      ],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": "public",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_6d50050a9519a3cb00ad",
+          "stationId": "awb_96c917dc93d3519d3264",
+          "name": "Sveriges Radio - Ekot sänder direkt",
+          "country": "SE",
+          "url": "https://live1.sr.se/ekotdirekt-aac-320",
+          "codec": "aac",
+          "bitrate": 312,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "96412afe-0601-11e8-ae97-52543be04c81",
+            "SE:sveriges-radio-ekot-sander-direkt"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:23:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_990458c3309e75c35437",
+      "name": "Sveriges Radio - P1",
+      "country": "SE",
+      "subdivision": "Västra Götaland",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "news",
+        "public",
+        "talk"
+      ],
+      "tags": [
+        "culture",
+        "news",
+        "news talk music",
+        "public radio",
+        "sveriges radio",
+        "talk"
+      ],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": "public",
+      "sourceCount": 6,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_28a4d02b7d507119c728",
+          "stationId": "awb_990458c3309e75c35437",
+          "name": "Sveriges Radio - P1",
+          "country": "SE",
+          "url": "http://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "07c6d96f-1d15-4d36-9833-dee758087659"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:10:26Z"
+        },
+        {
+          "id": "aws_628b7814455278640e1b",
+          "stationId": "awb_990458c3309e75c35437",
+          "name": "Sveriges Radio - P1",
+          "country": "SE",
+          "url": "https://live1.sr.se/p1-aac-320",
+          "codec": "aac",
+          "bitrate": 312,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "960c660b-0601-11e8-ae97-52543be04c81",
+            "SE:sveriges-radio-p1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:00:33Z"
+        },
+        {
+          "id": "aws_742ccd6f81c900bd8c40",
+          "stationId": "awb_990458c3309e75c35437",
+          "name": "Sveriges Radio P1",
+          "country": "SE",
+          "url": "https://live1.sr.se/p1-aac-32",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1e6e8797-ca3e-41d2-881b-56fa455f3ee1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:18:14Z"
+        },
+        {
+          "id": "aws_5344dedac18985ea6ea1",
+          "stationId": "awb_990458c3309e75c35437",
+          "name": "Sveriges Radio P1",
+          "country": "SE",
+          "url": "https://live1.sr.se/p1-mp3-96",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5c7ef11f-a6a0-4697-9d87-6df7a3209258",
+            "95019533-f24b-4eb2-ba07-2ccdf1ea683e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:41:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2bc6ad1d849928292673",
+      "name": "Sveriges Radio - P2",
+      "country": "SE",
+      "subdivision": "National, Sweden",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz",
+        "public"
+      ],
+      "tags": [
+        "classical",
+        "classical music",
+        "folk",
+        "jazz",
+        "opera",
+        "public radio",
+        "sveriges radio",
+        "world music"
+      ],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": "public",
+      "sourceCount": 4,
+      "updatedAt": "2026-10-12T18:16:46Z",
+      "streams": [
+        {
+          "id": "aws_0dd6d4b545257e6935cf",
+          "stationId": "awb_2bc6ad1d849928292673",
+          "name": "Sveriges Radio - P2",
+          "country": "SE",
+          "url": "https://edge1.sr.se/p2-flac",
+          "codec": "ogg",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "697e5012-5cdc-46b5-abe6-18cebd3b3dd1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:37:29Z"
+        },
+        {
+          "id": "aws_8959643bcbd7da9c349b",
+          "stationId": "awb_2bc6ad1d849928292673",
+          "name": "Sveriges Radio - P2",
+          "country": "SE",
+          "url": "https://live1.sr.se/p2-aac-320",
+          "codec": "aac",
+          "bitrate": 312,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "960c62c1-0601-11e8-ae97-52543be04c81",
+            "SE:sveriges-radio-p2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:01:25Z"
+        },
+        {
+          "id": "aws_2706f6b526197d2fa82b",
+          "stationId": "awb_2bc6ad1d849928292673",
+          "name": "Sveriges Radio P2",
+          "country": "SE",
+          "url": "https://live1.sr.se/p2-aac-128",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af0682ee-3a81-40d6-b474-70e3f2ce5468"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:16:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3cb2c1cd384034dd96ca",
+      "name": "Sveriges Radio - P2 Språk och musik",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "music",
+        "public radio",
+        "sveriges radio"
+      ],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": "public",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ebda3b04c25e72f206e4",
+          "stationId": "awb_3cb2c1cd384034dd96ca",
+          "name": "Sveriges Radio - P2 Språk och musik",
+          "country": "SE",
+          "url": "https://live1.sr.se/p2sm-aac-320",
+          "codec": "aac",
+          "bitrate": 312,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "960c6720-0601-11e8-ae97-52543be04c81",
+            "SE:sveriges-radio-p2-sprak-och-musik"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:03:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_90deb178091c42f29f45",
+      "name": "Sveriges Radio - P3",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "music",
+        "public radio",
+        "sveriges radio",
+        "youth"
+      ],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": "public",
+      "sourceCount": 4,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_0e68a82a888ecb9da4dd",
+          "stationId": "awb_90deb178091c42f29f45",
+          "name": "Sveriges Radio - P3",
+          "country": "SE",
+          "url": "https://live1.sr.se/p3-aac-320",
+          "codec": "aac",
+          "bitrate": 312,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "960c4e01-0601-11e8-ae97-52543be04c81",
+            "SE:sveriges-radio-p3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:30:46Z"
+        },
+        {
+          "id": "aws_92ac9b21b96fdbaee780",
+          "stationId": "awb_90deb178091c42f29f45",
+          "name": "Sveriges Radio - P3",
+          "country": "SE",
+          "url": "https://live1.sr.se/p3-mp3-96",
+          "codec": "mp3",
+          "bitrate": 148,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e4f6d392-f704-4cf0-8d26-9c931cebeaf6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:27:57Z"
+        },
+        {
+          "id": "aws_cf82bd2183289f75c499",
+          "stationId": "awb_90deb178091c42f29f45",
+          "name": "Sveriges Radio P3",
+          "country": "SE",
+          "url": "https://edge1.sr.se/p3-aac-320",
+          "codec": "aac",
+          "bitrate": 328,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "01a0db86-1f60-4473-9601-1de61587b255"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:44:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0a5bb37a06bc661bf11c",
+      "name": "Sveriges Radio - P3 Din gata",
+      "country": "SE",
+      "subdivision": "Malmoe",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "hip-hop",
+        "public"
+      ],
+      "tags": [
+        "local radio",
+        "public radio",
+        "rap",
+        "sveriges radio"
+      ],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": "public",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_0bfce3763dd74140b0c5",
+          "stationId": "awb_0a5bb37a06bc661bf11c",
+          "name": "Sveriges Radio - P3 Din gata",
+          "country": "SE",
+          "url": "https://live1.sr.se/dingata-aac-320",
+          "codec": "aac",
+          "bitrate": 288,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "960c63d8-0601-11e8-ae97-52543be04c81",
+            "SE:sveriges-radio-p3-din-gata"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:35:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c589badd1b5dd4a7f688",
+      "name": "Sveriges Radio - P4 Blekinge",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "local",
+        "music",
+        "talkshow"
+      ],
+      "homepage": "https://sverigesradio.se/blekinge",
+      "favicon": "https://static-cdn.sr.se/images/105/6a0862c4-ed4b-4e04-b703-c73cd1067ac7.jpg?preset=100x100",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_86d1d78a30cb1020e032",
+          "stationId": "awb_c589badd1b5dd4a7f688",
+          "name": "Sveriges Radio - P4 Blekinge",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4blek-mp3-96",
+          "codec": "mp3",
+          "bitrate": 152,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:sveriges-radio-p4-blekinge",
+            "a20f86e9-ec1b-425a-9ebe-831720249f74"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T22:23:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b9d6b49ce6e5425fdf61",
+      "name": "Sveriges Radio - P4 Halland",
+      "country": "SE",
+      "subdivision": "Halland",
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://sverigesradio.se/halland",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ff901a438a989918a538",
+          "stationId": "awb_b9d6b49ce6e5425fdf61",
+          "name": "Sveriges Radio - P4 Halland",
+          "country": "SE",
+          "url": "https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "1576f6f2-8949-4106-a870-d6a2c11c99f4",
+            "SE:sveriges-radio-p4-halland"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:21:12Z"
+        },
+        {
+          "id": "aws_9a890081c2f4788f7535",
+          "stationId": "awb_b9d6b49ce6e5425fdf61",
+          "name": "Sveriges Radio P4 Halland",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4hall-aac-128",
+          "codec": "aac",
+          "bitrate": 120,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "79d17f42-620e-437d-b7e6-ed1c1d26c670"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:51:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_eb8de0357f980bf28f91",
+      "name": "Sveriges Radio - P4 Plus",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "oldies",
+        "public"
+      ],
+      "tags": [
+        "00s",
+        "30s",
+        "40s",
+        "50s",
+        "60s",
+        "70s",
+        "80s",
+        "90s",
+        "public radio",
+        "sveriges radio"
+      ],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": "public",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_18d3605d00bd8d95af13",
+          "stationId": "awb_eb8de0357f980bf28f91",
+          "name": "Sveriges Radio - P4 Plus",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4plus-aac-320",
+          "codec": "aac",
+          "bitrate": 304,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "962c1da9-0601-11e8-ae97-52543be04c81",
+            "SE:sveriges-radio-p4-plus"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:28:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a65efbbaaf7e54756f62",
+      "name": "Sveriges Radio - P4 Sjuhärad",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.sverigesradio.se/nyheter/p4-sjuharad",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtosAvN4DU-pQuFNjv-DkYUobGoZnBrfsYdv-ZfWEHw&s",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_3fc3ec18def862eae061",
+          "stationId": "awb_a65efbbaaf7e54756f62",
+          "name": "Sveriges Radio - P4 Sjuhärad",
+          "country": "SE",
+          "url": "https://www.sverigesradio.se/topsy/direkt/srapi/206.mp3",
+          "codec": "mp3",
+          "bitrate": 180,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:sveriges-radio-p4-sjuharad",
+            "e12c31f2-3d73-4af4-b8db-11ad20989c5a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:22:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8a7a0069739324c51fd2",
+      "name": "Sveriges Radio - P6",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "public radio",
+        "sveriges radio"
+      ],
+      "homepage": "https://sverigesradio.se/",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+      "type": "public",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_e53909481dc169591e0e",
+          "stationId": "awb_8a7a0069739324c51fd2",
+          "name": "Sveriges Radio - P6",
+          "country": "SE",
+          "url": "https://live1.sr.se/p6-aac-320",
+          "codec": "aac",
+          "bitrate": 336,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "9642a6a5-0601-11e8-ae97-52543be04c81",
+            "SE:sveriges-radio-p6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:24:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1ae58b46ba9ea2628268",
+      "name": "Sveriges Radio P1",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "culture",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://www.sverigesradio/p1",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p1.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ca1a0e6970ad99baa3c9",
+          "stationId": "awb_1ae58b46ba9ea2628268",
+          "name": "Sveriges Radio P1",
+          "country": "SE",
+          "url": "https://edge1.sr.se/p1-aac-320",
+          "codec": "aac",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "418fc299-18ff-478e-a2c8-4da07e1f3d28",
+            "SE:sveriges-radio-p1-2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:10:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_48fa770fc10943b7b95c",
+      "name": "Sveriges Radio P2 flac",
+      "country": "SE",
+      "subdivision": "National, Sweden",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz"
+      ],
+      "tags": [
+        "classical",
+        "classical music",
+        "folk",
+        "jazz"
+      ],
+      "homepage": "https://www.sverigesradio/p2",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p2.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_ac9288f4c69d92588da2",
+          "stationId": "awb_48fa770fc10943b7b95c",
+          "name": "Sveriges radio P2 flac",
+          "country": "SE",
+          "url": "https://edge1.sr.se/p2-flac",
+          "codec": "ogg",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7517e554-81cd-411c-aa27-13844283a5ed",
+            "SE:sveriges-radio-p2-flac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:17:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7da7b68019d9dbcbcf97",
+      "name": "Sveriges Radio P2 flac",
+      "country": "SE",
+      "subdivision": "Sweden",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz"
+      ],
+      "tags": [
+        "classical",
+        "folk",
+        "jazz"
+      ],
+      "homepage": "https://www.sverigesradio.se/p2",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p2.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_2d9bc677f3e9633ce9ac",
+          "stationId": "awb_7da7b68019d9dbcbcf97",
+          "name": "Sveriges Radio P2 flac",
+          "country": "SE",
+          "url": "https://edge1.sr.se/p2-flac",
+          "codec": "ogg",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c8c4a599-7230-4a08-997d-36c74b08c2ce"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:46:14Z"
+        },
+        {
+          "id": "aws_f6a4bd913991e9af560e",
+          "stationId": "awb_7da7b68019d9dbcbcf97",
+          "name": "Sveriges Radio P2 flac",
+          "country": "SE",
+          "url": "https://live1.sr.se/p2-flac",
+          "codec": "ogg",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:sveriges-radio-p2-flac-2",
+            "fc34869b-77f3-4483-87ad-813361bbbfd0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:19:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9df8aec40b167067b31a",
+      "name": "Sveriges radio P3 (mp3)",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "public radio",
+        "sveriges radio",
+        "youth"
+      ],
+      "homepage": "https://sverigesradio.se/P3",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p3.png",
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:15:05Z",
+      "streams": [
+        {
+          "id": "aws_a2b16a4fa03bfd08e142",
+          "stationId": "awb_9df8aec40b167067b31a",
+          "name": "Sveriges radio P3 (mp3)",
+          "country": "SE",
+          "url": "https://live1.sr.se/p3-mp3-96",
+          "codec": "mp3",
+          "bitrate": 148,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1d35c168-deb1-4751-a1e6-ae19fb3e7a3e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:54:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3be72f36fdbda9fa28f7",
+      "name": "Sveriges Radio P4 Göteborg",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "local radio",
+        "music"
+      ],
+      "homepage": "https://www.sverigesradio/p4goteborg",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_e66292d82148b8790174",
+          "stationId": "awb_3be72f36fdbda9fa28f7",
+          "name": "Sveriges Radio P4 Göteborg",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4gbg-aac-320",
+          "codec": "aac",
+          "bitrate": 312,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "003dea75-02eb-40c2-8a92-5150a709b74d",
+            "SE:sveriges-radio-p4-goteborg"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:10:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5e26f96559ab410880cb",
+      "name": "Sveriges Radio P4 Malmöhus",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "public service"
+      ],
+      "homepage": "https://sverigesradio.se/tabla.aspx?programid=207",
+      "favicon": "https://image-proxy.clipsource.com/eyJidWNrZXQiOiJjbGlwc291cmNlLXNvdXJjZS1pbWFnZXMtYW5kLWZpbGVzIiwia2V5IjoiNjlhYWJkOWRlNmE5MFwvc3ZlLTY5YWFiZGI3MTgyYjVcLzIwMjZcLzA0XC8xN1wvNjllMjA1OTIyMmZjZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyODAsImhlaWdodCI6bnVsbH19fQ==?format=webp",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_52a0f3cd8d3da9d045ce",
+          "stationId": "awb_5e26f96559ab410880cb",
+          "name": "Sveriges Radio P4 Malmöhus",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4malm-aac-32",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "3a901003-189a-4a40-a754-401b56a131ee",
+            "SE:sveriges-radio-p4-malmohus"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:15:53Z"
+        },
+        {
+          "id": "aws_191d386243c704eb71cf",
+          "stationId": "awb_5e26f96559ab410880cb",
+          "name": "Sveriges Radio P4 Malmöhus",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4malm-mp3-96",
+          "codec": "mp3",
+          "bitrate": 168,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "058e8017-4257-4565-bc22-fc6a17c32a2e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:59:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fac7ddbda4c593ecd832",
+      "name": "Sveriges Radio P4 Stockholm",
+      "country": "SE",
+      "subdivision": "Stockholm",
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.sverigesradio.se/stockholm",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_7d7877a919053c3d70b3",
+          "stationId": "awb_fac7ddbda4c593ecd832",
+          "name": "Sveriges Radio -P4 Stockholm",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4sth-aac-32",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "478c1254-cd56-472d-8f12-24f110d76d8d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:39:14Z"
+        },
+        {
+          "id": "aws_e9e2eaa09c0a46c40b65",
+          "stationId": "awb_fac7ddbda4c593ecd832",
+          "name": "Sveriges Radio P4 Stockholm",
+          "country": "SE",
+          "url": "https://edge1.sr.se/p4sth-aac-320",
+          "codec": "aac",
+          "bitrate": 312,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:sveriges-radio-p4-stockholm",
+            "ac551e97-29fe-4eb2-979f-7438ad647d15"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:26:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b8d95cbb996dad7cb2d9",
+      "name": "Sveriges Radion P4 Östergötland",
+      "country": "SE",
+      "subdivision": "Select One",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "local news",
+        "local talk",
+        "music",
+        "sport",
+        "östergötland"
+      ],
+      "homepage": "https://sverigesradio.se/ostergotland",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_eb04db3c1a4599c631e6",
+          "stationId": "awb_b8d95cbb996dad7cb2d9",
+          "name": "Sveriges Radion P4 Östergötland",
+          "country": "SE",
+          "url": "https://live1.sr.se/p4ostg-mp3-96",
+          "codec": "mp3",
+          "bitrate": 144,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "1497077e-2db2-4579-a911-5f8cddff3529",
+            "SE:sveriges-radion-p4-ostergotland"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:45:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2d31cb61e3fd21c150e6",
+      "name": "SVT P1 192kps",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://sverigesradio.se/p1#",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p1.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_3a1476342f9ca7fe5780",
+          "stationId": "awb_2d31cb61e3fd21c150e6",
+          "name": "SVT P1 192kps",
+          "country": "SE",
+          "url": "https://live1.sr.se/p1-mp3-96",
+          "codec": "mp3",
+          "bitrate": 140,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:svt-p1-192kps",
+            "ec17a150-5a0c-11e8-b0ce-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:02:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ca2dcb1d74512aecf5d4",
+      "name": "Tjenamors Radio!",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "sv"
+      ],
+      "categories": [
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "punk",
+        "reagge",
+        "rock",
+        "ska"
+      ],
+      "homepage": "https://tjenamors.se/",
+      "favicon": "https://radio.tjenamors.se/static/uploads/tjenamors_radio/album_art.1781430542.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_7f5b237eb255847c6be4",
+          "stationId": "awb_ca2dcb1d74512aecf5d4",
+          "name": "Tjenamors Radio!",
+          "country": "SE",
+          "url": "https://radio.tjenamors.se/listen/tjenamors_radio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7a30b1de-88ab-48ef-a797-1f9b3c80dd5d",
+            "SE:tjenamors-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:15:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0fe25a4fbe830670675e",
+      "name": "Vinylgodis",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [
+        "1970s"
+      ],
+      "homepage": "https://vinylgodis.se/?#",
+      "favicon": "https://play-lh.googleusercontent.com/sjJ6efGC0YpjeT2ehVnVuIewLsEyf2SmqGTWr-wIxc12Ch4rJYBtxJnsedvVNLHTkDYYL8pxvoEgtT6vWm5btYo",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_b6ed502040ce83517287",
+          "stationId": "awb_0fe25a4fbe830670675e",
+          "name": "Vinylgodis",
+          "country": "SE",
+          "url": "https://fwd.autopo.st/runedervall",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "SE:vinylgodis",
+            "b66bf5c5-1630-4d4c-9e7b-5017ca9594cc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:24:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e874d8a103396d75b27f",
+      "name": "Wolf FM",
+      "country": "SE",
+      "subdivision": "Dalarna",
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "country"
+      ],
+      "tags": [
+        "country",
+        "rockabilly"
+      ],
+      "homepage": "https://wolffmradio.se/",
+      "favicon": "https://wolffmradio.se/wp-content/uploads/2026/01/logotype.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_d8b0f88743b75a371beb",
+          "stationId": "awb_e874d8a103396d75b27f",
+          "name": "Wolf FM",
+          "country": "SE",
+          "url": "https://sstream.ueteknik.se/listen/wolffm/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "376cb244-4116-4ba4-a525-c6cc8283fc9b",
+            "SE:wolf-fm"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:33:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cfbd139b02e23fb88be9",
+      "name": "SR P1",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:59:15Z",
+      "streams": [
+        {
+          "id": "aws_419fb4191f7e3d0e09d8",
+          "stationId": "awb_cfbd139b02e23fb88be9",
+          "name": "SR P1",
+          "country": "ZZ",
+          "url": "https://live1.sr.se/p1-mp3-96",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0a1463c1-2e08-11ea-aa0c-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:06:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f85fe1399818e667fefd",
+      "name": "Vinyl FM",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radioplay.se/vinylfm/",
+      "favicon": "https://radioplay.se/tesla/static/favicons/radioplay-se/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:52:50Z",
+      "streams": [
+        {
+          "id": "aws_7c7410479df2f211c9b6",
+          "stationId": "awb_f85fe1399818e667fefd",
+          "name": "Vinyl FM",
+          "country": "ZZ",
+          "url": "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp?direct=true&listenerid=&aw_0_1st.bauer_listenerid=&amsparams=playerid:BMUK_inpage_html5;skey:1602161945;&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1602161945&aw_0_1st.bauer_loggedin=false&awparams=loggedin:false;&aw_0_req.userConsent=false",
+          "codec": "aac+",
+          "bitrate": 56,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bbd43c99-7932-42ad-b153-c4c2afadd367"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:10:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c141dd4ec754c796cd01",
+      "name": "Vinyl FM (SE)",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radioplay.se/vinylfm/spelare/",
+      "favicon": "https://assets.planetradio.co.uk/img/ConfigStraplineImageUrl/458.svg?ver=1589463934",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:32:55Z",
+      "streams": [
+        {
+          "id": "aws_27efa711919e61a79666",
+          "stationId": "awb_c141dd4ec754c796cd01",
+          "name": "Vinyl FM (SE)",
+          "country": "ZZ",
+          "url": "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&amsparams=playerid:SBS_RP_WEB;skey:1602162911;&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1602162911&aw_0_1st.bauer_loggedin=false&awparams=loggedin:false;&aw_0_req.userConsent=false",
+          "codec": "aac+",
+          "bitrate": 56,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "35ad3807-b724-4f15-aa38-12050556f716"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:27:34Z"
+        }
+      ]
+    }
+  ]
+}

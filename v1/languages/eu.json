@@ -1,6 +1,6 @@
 {
   "code": "eu",
-  "stationCount": 25,
+  "stationCount": 26,
   "stations": [
     {
       "id": "awb_bdc2c3cdff7cb63b0c1c",
@@ -1051,6 +1051,68 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T08:05:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e1ce79c7a9b39d49896e",
+      "name": "Radio Lapurdi Irratia",
+      "country": "FR",
+      "subdivision": "Nouvelle-Aquitaine",
+      "languages": [
+        "eu",
+        "fr"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "kristau irratia - radio chretienne"
+      ],
+      "homepage": "https://www.lapurdi.net/",
+      "favicon": "https://www.lapurdi.net/squelettes/img/logo_web_small.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-12T06:33:21Z",
+      "streams": [
+        {
+          "id": "aws_c1a8df853976dc485205",
+          "stationId": "awb_e1ce79c7a9b39d49896e",
+          "name": "Radio LAPURDI Irratia",
+          "country": "FR",
+          "url": "http://stric6.streamakaci.com/radiolapurdi.mp3",
+          "codec": "mp3",
+          "bitrate": 170,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96150fa2-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:35:09Z"
+        },
+        {
+          "id": "aws_8b9f84db64d8515ce02e",
+          "stationId": "awb_e1ce79c7a9b39d49896e",
+          "name": "Radio Lapurdi Irratia",
+          "country": "FR",
+          "url": "https://direct.lapurdi.net/radio-lapurdi",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9a118736-445c-40cb-9bd4-3a73a4a34dfc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:33:21Z"
         }
       ]
     },

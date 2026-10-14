@@ -1,46 +1,47 @@
 {
-  "generatedAt": "2026-10-14T02:16:53.755Z",
+  "generatedAt": "2026-10-14T03:49:38.671Z",
   "schemaVersion": 1,
-  "stationCount": 54230,
-  "streamCount": 57410,
+  "stationCount": 54232,
+  "streamCount": 57412,
   "countryCount": 243,
-  "languageCount": 166,
+  "languageCount": 147,
   "categoryCount": 25,
-  "databaseGeneratedAt": "2026-10-14T02:09:00.510Z",
-  "streamsGeneratedAt": "2026-10-14T02:10:42.802Z",
+  "databaseGeneratedAt": "2026-10-14T03:45:53.162Z",
+  "streamsGeneratedAt": "2026-10-14T03:47:13.049Z",
   "databaseSchemaVersion": 1,
   "streamsSchemaVersion": 1,
   "sourceSnapshots": {
     "database": {
-      "commit": "8aa248db4529469412b92606449c924b0817339e",
-      "generatedAt": "2026-10-14T02:09:00.510Z",
+      "commit": "2918873f4e10fdb822c400a3d97d7ff69a84c299",
+      "generatedAt": "2026-10-14T03:45:53.162Z",
       "schemaVersion": 1
     },
     "streams": {
-      "commit": "ee552c580e265042df2f733dc343add6392e6944",
-      "generatedAt": "2026-10-14T02:10:42.802Z",
+      "commit": "ef7dd0ddb291784494faf8f18f2e76cbbec476a3",
+      "generatedAt": "2026-10-14T03:47:13.049Z",
       "schemaVersion": 1,
-      "databaseGeneratedAt": "2026-10-14T02:09:00.510Z",
+      "databaseGeneratedAt": "2026-10-14T03:45:53.162Z",
       "idStrategy": "source-provenance-v1"
     }
   },
   "quality": {
     "database": {
-      "withHomepage": 51725,
-      "withFavicon": 33455,
-      "withLanguage": 34284,
+      "withHomepage": 51727,
+      "withFavicon": 33456,
+      "withLanguage": 34285,
       "withCategory": 26528,
       "unknownCountry": 1101,
-      "withType": 2547
+      "withType": 2547,
+      "normalizedLanguageValues": 472
     },
     "streams": {
       "withCodec": 57392,
       "withBitrate": 48530,
       "hls": 3850,
-      "sourceCheckOk": 57410,
+      "sourceCheckOk": 57412,
       "unknownCountry": 1211,
-      "identityReused": 57409,
-      "identityNew": 1
+      "identityReused": 57410,
+      "identityNew": 2
     }
   },
   "routes": {
@@ -48,5 +49,6 @@
     "country": "/v1/countries/:code",
     "category": "/v1/categories/:id",
     "language": "/v1/languages/:code"
-  }
+  },
+  "languageAliasCount": 94
 }

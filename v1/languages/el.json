@@ -1,6 +1,6 @@
 {
   "code": "el",
-  "stationCount": 1092,
+  "stationCount": 1096,
   "stations": [
     {
       "id": "awb_72d12533f55261bd2041",
@@ -7289,6 +7289,90 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:33:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_612e36817f327b26479d",
+      "name": "BEST GREEK",
+      "country": "GR",
+      "subdivision": null,
+      "languages": [
+        "el"
+      ],
+      "categories": [],
+      "tags": [
+        "entehno",
+        "greece",
+        "greek",
+        "laiko"
+      ],
+      "homepage": "https://bestgreek.info/",
+      "favicon": "https://bestgreek.info/logo-bestgreek-1200.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T14:18:25Z",
+      "streams": [
+        {
+          "id": "aws_0123e1f2ede7b07bfb23",
+          "stationId": "awb_612e36817f327b26479d",
+          "name": "BEST GREEK",
+          "country": "GR",
+          "url": "https://stream.bestgreek.info/bestgreek",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "56976747-744d-4d6d-b01b-7282febe661d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:18:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e5c77006738233c95385",
+      "name": "BEST GREEK 128k",
+      "country": "GR",
+      "subdivision": null,
+      "languages": [
+        "el"
+      ],
+      "categories": [],
+      "tags": [
+        "entehno",
+        "greece",
+        "greek",
+        "laiko"
+      ],
+      "homepage": "https://bestgreek.info/",
+      "favicon": "https://bestgreek.info/logo-bestgreek-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-11T23:57:23Z",
+      "streams": [
+        {
+          "id": "aws_229eac4c01326e90a0eb",
+          "stationId": "awb_e5c77006738233c95385",
+          "name": "BEST GREEK 128k",
+          "country": "GR",
+          "url": "https://stream.bestgreek.info/bestgreek128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5c067cf3-01cb-47ae-a46d-8352bd3fc604"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:57:25Z"
         }
       ]
     },
@@ -22610,6 +22694,53 @@
       ]
     },
     {
+      "id": "awb_5e8838218c94329ecc51",
+      "name": "PLANET RADIO",
+      "country": "GR",
+      "subdivision": null,
+      "languages": [
+        "el",
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "disco",
+        "greece",
+        "oldies",
+        "pop"
+      ],
+      "homepage": "https://bestgreek.info/",
+      "favicon": "https://bestgreek.info/logo-planetradio-1200.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T19:13:45Z",
+      "streams": [
+        {
+          "id": "aws_5b4f81d963822eb38056",
+          "stationId": "awb_5e8838218c94329ecc51",
+          "name": "PLANET RADIO",
+          "country": "GR",
+          "url": "https://stream.bestgreek.info/planetradio",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "28d3a4bb-3c2a-42cb-898d-ff920f50522e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:13:46Z"
+        }
+      ]
+    },
+    {
       "id": "awb_48faad13e448df6b77ea",
       "name": "Play 91.5",
       "country": "GR",
@@ -23654,8 +23785,7 @@
       "country": "GR",
       "subdivision": "Lesvos",
       "languages": [
-        "el",
-        "gre"
+        "el"
       ],
       "categories": [
         "rock"
@@ -23688,6 +23818,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:00:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d993b8b0410980cd14d2",
+      "name": "Radio 108 Mytilene",
+      "country": "GR",
+      "subdivision": null,
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "homepage": "http://www.radiofono108.blogspot.com/",
+      "favicon": "https://onradio.gr/wp-content/uploads/2020/04/108-300x300.gif",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-11T09:40:31Z",
+      "streams": [
+        {
+          "id": "aws_5ab0cb9b28f70db09fe6",
+          "stationId": "awb_d993b8b0410980cd14d2",
+          "name": "Radio 108 Mytilene",
+          "country": "GR",
+          "url": "http://s5.onweb.gr:8498/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1af7d356-248b-4932-a451-0707780154ef"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:10:01Z"
         }
       ]
     },

@@ -1,0 +1,1199 @@
+{
+  "code": "aze",
+  "canonicalCode": "az",
+  "stationCount": 28,
+  "stations": [
+    {
+      "id": "awb_5bd892f9a471c193051c",
+      "name": "Araz Supermarket Radio",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.arazmarket.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-18T22:36:55Z",
+      "streams": [
+        {
+          "id": "aws_2fec62a10c5a5d5c2d22",
+          "stationId": "awb_5bd892f9a471c193051c",
+          "name": "Araz Supermarket Radio",
+          "country": "AZ",
+          "url": "http://5.191.241.101:8000/arazmarket",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f422a504-8c0d-49ed-a9d3-bcefbe9a7e21"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:34:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_858e922a650dec710b41",
+      "name": "Asan Radio",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.asanradio.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_609f17c4f64acfaecac7",
+          "stationId": "awb_858e922a650dec710b41",
+          "name": "Asan Radio",
+          "country": "AZ",
+          "url": "http://94.20.74.206:4448/stream1",
+          "codec": "mp3",
+          "bitrate": 112,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0ad8350d-7d03-4f0d-9f35-b38cc42c40af"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:43:52Z"
+        },
+        {
+          "id": "aws_350b53073947deb1370c",
+          "stationId": "awb_858e922a650dec710b41",
+          "name": "ASAN Radio",
+          "country": "AZ",
+          "url": "https://play.asanradio.az/",
+          "codec": "mp3",
+          "bitrate": 112,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "21198a50-06a2-4691-801e-047f8b4df555",
+            "AZ:asan-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:09:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3991cff5ecd54ec53ecb",
+      "name": "AutoLife Radio Azerbaijan",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az",
+        "en",
+        "ru",
+        "tr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "pop music"
+      ],
+      "homepage": "https://autoliferadio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:10:11Z",
+      "streams": [
+        {
+          "id": "aws_df3ad2489ecd9e07140b",
+          "stationId": "awb_3991cff5ecd54ec53ecb",
+          "name": "AutoLife Radio Azerbaijan",
+          "country": "AZ",
+          "url": "http://radio.autoliferadio.com:8090/radio",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5b42c7de-0774-4d6b-b2dc-3e41d7fc2daf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:23:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b07ae99a324f57c9222a",
+      "name": "AVTO FM",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "classic hits"
+      ],
+      "homepage": "http://avtofm.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:52:28Z",
+      "streams": [
+        {
+          "id": "aws_ea904ef958f98615253c",
+          "stationId": "awb_b07ae99a324f57c9222a",
+          "name": "AVTO FM",
+          "country": "AZ",
+          "url": "http://5.191.241.101:8000/avtofm",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3916a021-7c99-43eb-a77b-c43b9316257f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:38:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5be573df0a1cdd1d6e8b",
+      "name": "Ayaz tv",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://www.ayaztv.com/tv",
+      "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.LCYzOISfqivijhTGmmJYWQHaEF%3Fpid%3DApi&f=1&ipt=3d8b10dabddd6d58f61c88efe43e3fe1d38c84a005e1be6b833971c7af7a2e7a&ipo=images",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T06:51:37Z",
+      "streams": [
+        {
+          "id": "aws_7c79e5f06da71bd2c5b0",
+          "stationId": "awb_5be573df0a1cdd1d6e8b",
+          "name": "Ayaz tv",
+          "country": "AZ",
+          "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8",
+          "codec": "aac",
+          "bitrate": 800,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d2c6cf9f-a1a6-4b8e-b091-f8529d12f076"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:51:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cab7144eef6599bcdaf4",
+      "name": "Azerbaycan Radiosu 105.0 FM",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://aztv.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-18T22:43:18Z",
+      "streams": [
+        {
+          "id": "aws_3b9b0bd7ef0a6c9593a7",
+          "stationId": "awb_cab7144eef6599bcdaf4",
+          "name": "Azerbaycan Radiosu 105.0 FM",
+          "country": "AZ",
+          "url": "http://str.yodacdn.net/radio_respublica/video.m3u8",
+          "codec": "aac",
+          "bitrate": 210,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3a98b5ca-516e-400f-ba72-fb40e036944f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:07:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0d7292ba283c11ad789a",
+      "name": "Azərbaycan Radiosu Baku 105.0 FM",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://azradio.az/az",
+      "favicon": "https://images.keepone.net/1678714997-2023-03-13.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-21T19:18:25Z",
+      "streams": [
+        {
+          "id": "aws_8d5b4821dc1b8f93dd85",
+          "stationId": "awb_0d7292ba283c11ad789a",
+          "name": "Azərbaycan Radiosu Baku 105.0 FM",
+          "country": "AZ",
+          "url": "http://str.yodacdn.net/radio_respublica/video.m3u8",
+          "codec": "aac",
+          "bitrate": 210,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d46c7c68-4af4-4fe5-8cda-0c49d631536d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T09:02:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_586d0d41857b36d3681a",
+      "name": "Bravo Supermarket Radio",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.bravosupermarket.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-18T22:39:51Z",
+      "streams": [
+        {
+          "id": "aws_0ce082409c867a599ff6",
+          "stationId": "awb_586d0d41857b36d3681a",
+          "name": "Bravo Supermarket Radio",
+          "country": "AZ",
+          "url": "http://5.191.241.101:8000/bravo",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4f0fe0f4-1bb8-47ed-8235-e5896f650f4c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:07:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8849d00112d244882a93",
+      "name": "Caspian Business Radio BOSS",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az",
+        "en",
+        "ru"
+      ],
+      "categories": [
+        "hip-hop",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "alternative rock",
+        "baku",
+        "business",
+        "easy listening",
+        "easy-listening",
+        "hip-hop and rap oldies",
+        "motivational",
+        "pop music",
+        "pop-music",
+        "radio",
+        "rap hiphop rnb",
+        "top hits",
+        "top-hits"
+      ],
+      "homepage": "https://boss.com.az/radio",
+      "favicon": "https://boss.com.az/wp-content/uploads/2018/04/BOSS-MAGAZINE-LOGO.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_dc98ce0262b87e4df80d",
+          "stationId": "awb_8849d00112d244882a93",
+          "name": "Caspian Business Radio BOSS",
+          "country": "AZ",
+          "url": "https://myradio24.org/bosscomaz",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "834ac917-6231-4807-a309-9e2f4de66d30",
+            "AZ:caspian-business-radio-boss"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:46:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b77955bd500bc4880c4f",
+      "name": "DalğaFM 92.5",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://dalgafm.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_36df519da4a0322fa34b",
+          "stationId": "awb_b77955bd500bc4880c4f",
+          "name": "DalğaFM 92.5",
+          "country": "AZ",
+          "url": "https://live.dinle.az/dalgafm",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "89dc1620-c572-4fb8-a16e-8506dab2a648",
+            "AZ:dalgafm-92-5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9a5caa4863a4415c8b09",
+      "name": "İctimai Radio – 90 FM",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://90fm.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T02:56:10Z",
+      "streams": [
+        {
+          "id": "aws_1f724e85ecd1931c4b39",
+          "stationId": "awb_9a5caa4863a4415c8b09",
+          "name": "İctimai Radio – 90 FM",
+          "country": "AZ",
+          "url": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 322,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "79c59ff3-333d-49ab-b24a-6be6eadb1d9d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:13:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_379026aafecca851a9f6",
+      "name": "KN Music TV",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [
+        "traditional"
+      ],
+      "homepage": "https://www.live.knmusictv.com/",
+      "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.zKj08couzQQ0rTNXcQngswAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=86f3869faa05e2f77e5218cf3397decd4f4cb6ecda45a0ce21c42d0a5fdcb0b4&ipo=images",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T05:08:23Z",
+      "streams": [
+        {
+          "id": "aws_eb8c57c6065048d46d1d",
+          "stationId": "awb_379026aafecca851a9f6",
+          "name": "KN Music TV",
+          "country": "AZ",
+          "url": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "56c62239-98df-4e2e-88ee-014898cf65f6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:08:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1fbeabd5bad7de7c02d4",
+      "name": "Media Fm 105.5",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://icecast.livetv.az/mediafm",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_c1703814b040606da6df",
+          "stationId": "awb_1fbeabd5bad7de7c02d4",
+          "name": "Media Fm 105.5",
+          "country": "AZ",
+          "url": "https://icecast.livetv.az/mediafm",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "34800c3f-87a1-4e77-932c-21bfc89a325d",
+            "AZ:media-fm-105-5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:19:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ce6adad0685c7438b092",
+      "name": "Media FM Classic",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://mediafm.az/",
+      "favicon": "https://mediafm.az/wp-content/uploads/2026/03/Media_Classic_309x309.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-09-23T09:36:58Z",
+      "streams": [
+        {
+          "id": "aws_fa622b1d28cb884afe77",
+          "stationId": "awb_ce6adad0685c7438b092",
+          "name": "Media FM Classic",
+          "country": "AZ",
+          "url": "https://icecast.livetv.az/mediafm",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "25a44f17-f2be-4a0a-8dfd-a8bdcc1c526e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:11:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d7f70117ce40881b5aac",
+      "name": "Media fm jazz",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz fusion"
+      ],
+      "homepage": "https://mediafm.az/",
+      "favicon": "https://mediafm.az/wp-content/uploads/2026/02/Media_JazzLogo309x309.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-09-22T22:11:10Z",
+      "streams": [
+        {
+          "id": "aws_e92ed1da460a9ca4fcf9",
+          "stationId": "awb_d7f70117ce40881b5aac",
+          "name": "Media FM Jazz",
+          "country": "AZ",
+          "url": "http://icecast.livetv.az/mediajazz",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "32b58b3d-4227-4afc-ac53-7e19a6c2ed9d",
+            "8348b60b-a3a6-43e8-a83b-4e612db52fc6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:26:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_43efd19e7a83ccb5a68a",
+      "name": "Media fm mugam",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "folk"
+      ],
+      "tags": [
+        "folk music",
+        "folk/ethno/national music",
+        "narodna - etno"
+      ],
+      "homepage": "https://mediafm.az/",
+      "favicon": "https://mediafm.az/wp-content/uploads/2026/02/Media_MugamLogo309x309.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-09-21T05:43:33Z",
+      "streams": [
+        {
+          "id": "aws_865ae9e99f64889e92fc",
+          "stationId": "awb_43efd19e7a83ccb5a68a",
+          "name": "Media FM Mugam",
+          "country": "AZ",
+          "url": "http://icecast.livetv.az/mediamugam",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5a24bae2-2f31-439e-ac30-86d16a403200",
+            "95efc006-fa7a-4934-95e8-05b1cfa61d25"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:25:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5aefbdef109962e15f5a",
+      "name": "Naxçıvan Radiosu",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [
+        "general",
+        "music"
+      ],
+      "homepage": "https://radio.ntv.az/",
+      "favicon": "https://radio.ntv.az/images/logo.png?v=2",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:35:17Z",
+      "streams": [
+        {
+          "id": "aws_b7ed1f2eac035923ea17",
+          "stationId": "awb_5aefbdef109962e15f5a",
+          "name": "Naxçıvan Radiosu",
+          "country": "AZ",
+          "url": "http://s33.myradiostream.com:12782/listen.mp3",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "29f72451-9c67-4c81-a413-1ae82ca36ef8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:19:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_43fe8858d737ad2fbe58",
+      "name": "NAZ RADIO",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "music",
+        "pop"
+      ],
+      "homepage": "https://www.nazradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_f37afb20ed39be54e57e",
+          "stationId": "awb_43fe8858d737ad2fbe58",
+          "name": "NAZ RADIO",
+          "country": "AZ",
+          "url": "https://s2.myradiostream.com/5286/listen.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "8409f9b6-79ea-4111-b178-32437c806870",
+            "AZ:naz-radio"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:15:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6710502ee23743af247b",
+      "name": "PlanetFM 88.7",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://planetfm.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_71bc31b54fc03ddf0986",
+          "stationId": "awb_6710502ee23743af247b",
+          "name": "PlanetFM 88.7",
+          "country": "AZ",
+          "url": "https://live.dinle.az/planetfm",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "6b353f38-5b59-4569-8b1e-c2ed52b7d9be",
+            "AZ:planetfm-88-7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:22:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e056e16e3d51eacb860e",
+      "name": "Radio Enerji 101.1 FM",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://enerjifm.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_3d766fd8f70aacbf3699",
+          "stationId": "awb_e056e16e3d51eacb860e",
+          "name": "Radio Enerji 101.1 FM",
+          "country": "AZ",
+          "url": "https://icecast.livetv.az/antennfm",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "AZ:radio-enerji-101-1-fm",
+            "fe74e26c-96c5-4682-9078-dbde6796a919"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:45:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1f59fe9f8f0182d508ea",
+      "name": "Rahat Supermarket Radio",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://rahatmarket.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-18T22:41:55Z",
+      "streams": [
+        {
+          "id": "aws_7f5c1fba11ce136cd65d",
+          "stationId": "awb_1f59fe9f8f0182d508ea",
+          "name": "Rahat Supermarket Radio",
+          "country": "AZ",
+          "url": "http://5.191.241.101:8000/rahatmarket",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f8148ba1-c5b5-4c3e-8726-efeae27880d6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:30:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2242aa9ceda0f62a6715",
+      "name": "Real FM 107",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://realfm.az/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:25:16Z",
+      "streams": [
+        {
+          "id": "aws_ab124655a72c397e578e",
+          "stationId": "awb_2242aa9ceda0f62a6715",
+          "name": "Real FM 107",
+          "country": "AZ",
+          "url": "http://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "562ad1b5-0fc3-4d08-b8bf-76ce11b34a4d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:01:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e42fbf3d3bcc2e86edeb",
+      "name": "Vintage Radio Azerbaijan",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az",
+        "en",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://vintageradio.az/",
+      "favicon": "https://streamurl.link/logos/uFZrTYg4pHL.webp?t=8gWg0kVY3FJrekgVUv5NUw&e=1790020800",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-09-21T19:07:07Z",
+      "streams": [
+        {
+          "id": "aws_da10150ee58491c8df96",
+          "stationId": "awb_e42fbf3d3bcc2e86edeb",
+          "name": "Vintage Radio Azerbaijan",
+          "country": "AZ",
+          "url": "https://trucker.autoliferadio.com:1045/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "590a06ad-56cb-4fde-b533-3b3f0c97f781",
+            "c01e8286-4bfb-4dd7-b783-53b4d21409ad"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:34:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9b9329dbb263287aab0c",
+      "name": "Xezer FM",
+      "country": "AZ",
+      "subdivision": null,
+      "languages": [
+        "az",
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "classic hits",
+        "classic-hits",
+        "hits"
+      ],
+      "homepage": "http://xezerfm.az/",
+      "favicon": "http://xezerfm.az/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_96cb5026d04abf16d23c",
+          "stationId": "awb_9b9329dbb263287aab0c",
+          "name": "Xezer FM",
+          "country": "AZ",
+          "url": "https://s40.myradiostream.com/:22546/listen.mp3?",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "33e4041e-714d-402a-b7ee-cbdbadee670f",
+            "AZ:xezer-fm"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:28:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_085ae0f94b37c192de93",
+      "name": "Yurd FM",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "folk"
+      ],
+      "tags": [
+        "folk music"
+      ],
+      "homepage": "http://www.yurdfm.az/",
+      "favicon": "https://yurdfm.az/logo.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-09-22T22:04:03Z",
+      "streams": [
+        {
+          "id": "aws_aba2c1220d14bda5568c",
+          "stationId": "awb_085ae0f94b37c192de93",
+          "name": "Yurd fm",
+          "country": "AZ",
+          "url": "http://icecast.livetv.az/yurdfm",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "857b97de-f97e-4c08-9d19-54b108e021be"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:30:10Z"
+        },
+        {
+          "id": "aws_d1b387a959edb2ad4ea5",
+          "stationId": "awb_085ae0f94b37c192de93",
+          "name": "Yurd FM",
+          "country": "AZ",
+          "url": "https://icecast.livetv.az/yurdfm",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "AZ:yurd-fm",
+            "aeb8bc72-b103-46c5-b9dd-4ebbb96af3fb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:40:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_704bbacf0e319794e6be",
+      "name": "AzStarTV",
+      "country": "CA",
+      "subdivision": "Toronto",
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [
+        "traditional"
+      ],
+      "homepage": "https://www.azstartv.com/home/About",
+      "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.gKfahNAkDBbWH-x6okspwQHaEo%3Fpid%3DApi&f=1&ipt=b54ad8af054b0f3cdb5c2434108ced19e3153353bc39e8c49781eb26178dcd04&ipo=images",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-12T15:44:22Z",
+      "streams": [
+        {
+          "id": "aws_e5ed23307ab47e0f6321",
+          "stationId": "awb_704bbacf0e319794e6be",
+          "name": "AzStarTV",
+          "country": "CA",
+          "url": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 4140,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "420f308e-36a2-4434-929b-1820cbda0e88",
+            "e6d82d42-57bb-4fc7-8dd3-6fe1f9080847"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:44:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ba406e0f3c2c233c5af9",
+      "name": "102.1 Arabeskin Merkezi Fm",
+      "country": "TR",
+      "subdivision": "Istanbul",
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "arabesk",
+        "arabesk fantazi",
+        "arabic",
+        "pop"
+      ],
+      "homepage": "https://www.arabeskinmerkezi.com/",
+      "favicon": "https://images.keepone.net/1376-2022-10-17.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T05:47:23Z",
+      "streams": [
+        {
+          "id": "aws_c112a31f68554186a768",
+          "stationId": "awb_ba406e0f3c2c233c5af9",
+          "name": "102.1 Arabeskin Merkezi Fm",
+          "country": "TR",
+          "url": "http://canli.arabeskinmerkezi.com:9180/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "474b5f9f-6202-4928-a3c0-0a9068ce040e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:04:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0c195706856cb9f26e84",
+      "name": "Damarın Merkezi Fm",
+      "country": "TR",
+      "subdivision": "Istanbul",
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "arabesk fantazi",
+        "arabic",
+        "pop",
+        "pop music"
+      ],
+      "homepage": "https://www.arabeskinmerkezi.com/",
+      "favicon": "https://images.keepone.net/1376-2022-10-17.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:17:43Z",
+      "streams": [
+        {
+          "id": "aws_b1f20b2372d58d545040",
+          "stationId": "awb_0c195706856cb9f26e84",
+          "name": "Damarın Merkezi Fm",
+          "country": "TR",
+          "url": "http://canli.arabeskinmerkezi.com:9180/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c8b83fcd-74c3-426c-a213-f17717b4f88e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:44:24Z"
+        }
+      ]
+    }
+  ]
+}

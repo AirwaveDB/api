@@ -1,0 +1,275 @@
+{
+  "code": "cym",
+  "canonicalCode": "cy",
+  "stationCount": 6,
+  "stations": [
+    {
+      "id": "awb_51d329181de9faebf9cf",
+      "name": "BBC Radio Cymru (128k)",
+      "country": "GB",
+      "subdivision": "Wales",
+      "languages": [
+        "cy"
+      ],
+      "categories": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "news",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://www.bbc.co.uk/radiocymru",
+      "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:32:05Z",
+      "streams": [
+        {
+          "id": "aws_5bbb1600e67d633939be",
+          "stationId": "awb_51d329181de9faebf9cf",
+          "name": "BBC Radio Cymru (128k)",
+          "country": "GB",
+          "url": "http://as-hls-ww-live.akamaized.net/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d128000.norewind.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3894a19f-7f69-4be0-9d68-83020f147145"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:08:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5af3bd6f2ebf2ac0b0b8",
+      "name": "BBC Radio Cymru 2 (128k)",
+      "country": "GB",
+      "subdivision": "Wales",
+      "languages": [
+        "cy"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.bbc.co.uk/radiocymru2",
+      "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:11:16Z",
+      "streams": [
+        {
+          "id": "aws_9c6d403df6a5cbedb3f2",
+          "stationId": "awb_5af3bd6f2ebf2ac0b0b8",
+          "name": "BBC Radio Cymru 2 (128k)",
+          "country": "GB",
+          "url": "http://as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3d128000.norewind.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a6928604-52fb-4eba-968e-a8c1735a3433"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:12:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_01afce9613995a7063a0",
+      "name": "broradio",
+      "country": "GB",
+      "subdivision": "Wales",
+      "languages": [
+        "cy",
+        "en"
+      ],
+      "categories": [
+        "community",
+        "news"
+      ],
+      "tags": [
+        "community radio",
+        "local news",
+        "music",
+        "welsh language"
+      ],
+      "homepage": "https://www.broradio.fm/",
+      "favicon": null,
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:00:48Z",
+      "streams": [
+        {
+          "id": "aws_3afd08a59768d11fa361",
+          "stationId": "awb_01afce9613995a7063a0",
+          "name": "broradio",
+          "country": "GB",
+          "url": "https://streaming.broadcastradio.com:8422/brorad?=&&___cb=380218828489260",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8787051e-b4f7-4748-b70d-300532da5164"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:10:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a149c81b4f3f2ed5618e",
+      "name": "Capital FM Cymru",
+      "country": "GB",
+      "subdivision": "Wales",
+      "languages": [
+        "cy"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "bilingual",
+        "contemporary",
+        "contemporary hits",
+        "english language",
+        "welsh language"
+      ],
+      "homepage": "http://www.capitalfm.com/cymru/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:07:55Z",
+      "streams": [
+        {
+          "id": "aws_a4d0fd905af2f394e805",
+          "stationId": "awb_a149c81b4f3f2ed5618e",
+          "name": "Capital FM Cymru",
+          "country": "GB",
+          "url": "http://media-ice.musicradio.com/CapitalCymru",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b42d24b4-73eb-11e8-83fa-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T19:13:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_97ca9d9f479f8e9141b0",
+      "name": "Radio Camarthenshire",
+      "country": "GB",
+      "subdivision": "Wales",
+      "languages": [
+        "cy"
+      ],
+      "categories": [
+        "news",
+        "pop"
+      ],
+      "tags": [
+        "local news",
+        "pop music",
+        "welsh language"
+      ],
+      "homepage": "https://www.nationplayer.com/radio-carmarthenshire/",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Radiocarmar.png/250px-Radiocarmar.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-03-28T12:36:08Z",
+      "streams": [
+        {
+          "id": "aws_d3f335efe8abd27d51f8",
+          "stationId": "awb_97ca9d9f479f8e9141b0",
+          "name": "Radio Camarthenshire",
+          "country": "GB",
+          "url": "https://listen-nation.sharp-stream.com/tccarmarthenshire.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5bd70f6e-b7a5-4f3b-ab52-0ac20f7e9624"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T22:42:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ce0acc947199e389519f",
+      "name": "Radio Platfform",
+      "country": "GB",
+      "subdivision": "Wales",
+      "languages": [
+        "cy",
+        "en"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "charity",
+        "pop",
+        "youth programming"
+      ],
+      "homepage": "https://www.wmc.org.uk/en/your-visit/our-spaces/radio-platfform",
+      "favicon": "https://api.broadcast.radio/api/image/6e6f77d8-b2fb-4bc9-bf0b-f33ca848becb.jpeg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-11T21:18:53Z",
+      "streams": [
+        {
+          "id": "aws_234db3a1d50d2d057813",
+          "stationId": "awb_ce0acc947199e389519f",
+          "name": "Radio Platfform",
+          "country": "GB",
+          "url": "https://streaming.broadcastradio.com/wmcorg",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "efe22e6f-6257-487a-ad7b-dbd80e1c36be"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:02:50Z"
+        }
+      ]
+    }
+  ]
+}

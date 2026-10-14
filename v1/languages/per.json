@@ -1,15 +1,585 @@
 {
   "code": "per",
-  "stationCount": 2,
+  "canonicalCode": "fa",
+  "stationCount": 33,
   "stations": [
+    {
+      "id": "awb_1306bfea2af2214375c6",
+      "name": "MIBL Radio",
+      "country": "AU",
+      "subdivision": "New South Wales",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "categories": [
+        "ambient",
+        "electronic"
+      ],
+      "tags": [
+        "24/7",
+        "ai music",
+        "ambient",
+        "australia",
+        "electronic",
+        "persian",
+        "sydney",
+        "world music"
+      ],
+      "homepage": "https://www.miblradio.com.au/",
+      "favicon": "https://www.miblradio.com.au/LOGO.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-06-11T23:05:38Z",
+      "streams": [
+        {
+          "id": "aws_5b0ea95a3af406a14925",
+          "stationId": "awb_1306bfea2af2214375c6",
+          "name": "MIBL Radio",
+          "country": "AU",
+          "url": "https://www.miblradio.com.au/mibl",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "89885017-3c53-46e3-af16-2a192ce61664"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:14:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_afe6826a10e41d0aed25",
+      "name": "MIBL Radio — Instrumental",
+      "country": "AU",
+      "subdivision": "New South Wales",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "categories": [
+        "ambient",
+        "electronic"
+      ],
+      "tags": [
+        "24/7",
+        "ai music",
+        "ambient",
+        "australia",
+        "electronic",
+        "instrumental",
+        "persian",
+        "sydney",
+        "world music"
+      ],
+      "homepage": "https://www.miblradio.com.au/",
+      "favicon": "https://www.miblradio.com.au/LOGO.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
+      "streams": [
+        {
+          "id": "aws_0c4c24c00cfae6fecbb2",
+          "stationId": "awb_afe6826a10e41d0aed25",
+          "name": "MIBL Radio — Instrumental",
+          "country": "AU",
+          "url": "https://www.miblradio.com.au/mibl2",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "90d91f17-5c1c-4189-a218-e7a0cfff4732",
+            "AU:mibl-radio-instrumental"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T04:07:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4427986bd5031cf62c4d",
+      "name": "radio campus",
+      "country": "BE",
+      "subdivision": "Brussels",
+      "languages": [
+        "fa",
+        "fr"
+      ],
+      "categories": [
+        "college",
+        "community"
+      ],
+      "tags": [
+        "alternative",
+        "community radio",
+        "free radio",
+        "university radio"
+      ],
+      "homepage": "http://www.radiocampus.be/",
+      "favicon": "http://www.radiocampus.be/favicon.ico",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:54:20Z",
+      "streams": [
+        {
+          "id": "aws_519d784b4fb64345b7b7",
+          "stationId": "awb_4427986bd5031cf62c4d",
+          "name": "radio campus",
+          "country": "BE",
+          "url": "http://streamer.radiocampus.be/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f1d3248-26db-468d-9667-df088b018fdc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:37:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8f8b45c786bfe3d9666b",
+      "name": "CJRK-FM 102.7 \"East FM\" Toronto, ON",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "fa",
+        "hi",
+        "ko",
+        "ta",
+        "tl"
+      ],
+      "categories": [],
+      "tags": [
+        "multicultural",
+        "multilingual"
+      ],
+      "homepage": "http://www.eastfm.ca/",
+      "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/CJRK_EastFM102.7_logo.png/220px-CJRK_EastFM102.7_logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:11:16Z",
+      "streams": [
+        {
+          "id": "aws_cd95bd52e79502e57f28",
+          "stationId": "awb_8f8b45c786bfe3d9666b",
+          "name": "CJRK-FM 102.7 \"East FM\" Toronto, ON",
+          "country": "CA",
+          "url": "https://centova.radioservers.biz/proxy/eastfmc1/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "753394b9-f6ee-47fc-be25-7de91c19295b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:40:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_751d1355decd2df39747",
+      "name": "RFE/RL Radio Farda",
+      "country": "CZ",
+      "subdivision": "Prague",
+      "languages": [
+        "fa"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "persian",
+        "rfe-rl",
+        "talk"
+      ],
+      "homepage": "http://www.radiofarda.com/",
+      "favicon": "http://www.radiofarda.com//Content/responsive/RFE/img/webApp/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T01:58:28Z",
+      "streams": [
+        {
+          "id": "aws_814d728f6fe3a38c75b5",
+          "stationId": "awb_751d1355decd2df39747",
+          "name": "RFE/RL Radio Farda",
+          "country": "CZ",
+          "url": "http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96494925-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:36:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3e806bf7b9a885d06825",
+      "name": "RFI Persian",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [
+        "persian"
+      ],
+      "homepage": "http://fa.rfi.fr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:17:04Z",
+      "streams": [
+        {
+          "id": "aws_fa3283724da8d306f0eb",
+          "stationId": "awb_3e806bf7b9a885d06825",
+          "name": "RFI Persian",
+          "country": "FR",
+          "url": "http://live02.rfi.fr/rfienpersan-64k.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "96167407-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T13:32:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b20ef869297fc4a06171",
+      "name": "Persian Vibe Radio",
+      "country": "GB",
+      "subdivision": "London, England",
+      "languages": [
+        "en",
+        "fa"
+      ],
+      "categories": [
+        "ambient",
+        "pop"
+      ],
+      "tags": [
+        "chill",
+        "farsi",
+        "farsi music",
+        "farsi pop",
+        "iranian",
+        "iranian music",
+        "persian music",
+        "persian pop",
+        "persian radio",
+        "world music"
+      ],
+      "homepage": "https://radio.aydayazdani.com/",
+      "favicon": "https://radio.aydayazdani.com/assets/img/pvr-logo.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-03-11T11:31:04Z",
+      "streams": [
+        {
+          "id": "aws_4c29afb21d5891e4d96f",
+          "stationId": "awb_b20ef869297fc4a06171",
+          "name": "Persian Vibe Radio",
+          "country": "GB",
+          "url": "https://radio.aydayazdani.com/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7a42739e-4e9f-4e1b-a939-c58d618a7db3",
+            "c058d821-47b2-4ef4-9ff9-f435a9ca1c21"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:40:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_01eee97b541f3ca008cd",
+      "name": "Al-bilad Radio/Yaqoubi",
+      "country": "IQ",
+      "subdivision": "Baghdad",
+      "languages": [
+        "ar",
+        "fa"
+      ],
+      "categories": [],
+      "tags": [
+        "al-bilad radio",
+        "baghdad",
+        "iraq radio",
+        "islam",
+        "shia",
+        "البلاد"
+      ],
+      "homepage": "http://www.albilad.org/",
+      "favicon": "https://images.radio.co/station_logos/sb38bf6e66.20180614123831.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_d6da0e96ed8212ab2fd4",
+          "stationId": "awb_01eee97b541f3ca008cd",
+          "name": "Al-bilad Radio/Yaqoubi",
+          "country": "IQ",
+          "url": "https://streamer.radio.co/sb38bf6e66/listen",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IQ:al-bilad-radio-yaqoubi",
+            "a29b614a-6dd1-4e98-a7f7-a70eb21f82fb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:45:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_235350574af1995a79c9",
+      "name": "go",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [
+        "donya"
+      ],
+      "homepage": "https://zeno.fm/radio/radiodonya/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T04:00:03Z",
+      "streams": [
+        {
+          "id": "aws_9896f1140f1e90109577",
+          "stationId": "awb_235350574af1995a79c9",
+          "name": "go",
+          "country": "IR",
+          "url": "https://stream.zeno.fm/v5kxmagseg0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a23469c1-a0f4-42f7-80d3-ca69f6ddaa01"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T16:08:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7e5198caa78a4567280c",
+      "name": "go",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [
+        "donya"
+      ],
+      "homepage": "https://stream.zeno.fm/v5kxmagseg0uv",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T08:36:02Z",
+      "streams": [
+        {
+          "id": "aws_a199305cbe2658ea20b9",
+          "stationId": "awb_7e5198caa78a4567280c",
+          "name": "go",
+          "country": "IR",
+          "url": "https://stream.zeno.fm/v5kxmagseg0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "454ea479-97c5-49e3-8399-15c0bc2b977c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:35:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bff68062bfdf3d32b689",
+      "name": "hamsafar",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.hamsafarradio.se/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:27:30Z",
+      "streams": [
+        {
+          "id": "aws_7dca03533d0834757d7e",
+          "stationId": "awb_bff68062bfdf3d32b689",
+          "name": "hamsafar",
+          "country": "IR",
+          "url": "http://n04.radiojar.com/pyea7q9h5ehvv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a9e20c5b-0758-46e6-8f70-fa2ab481b72d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:06:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c2983493399cd2ef0a40",
+      "name": "Harrooz",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://shows.acast.com/sobhe-harrooz",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_7a0c388e7d82b76c04ef",
+          "stationId": "awb_c2983493399cd2ef0a40",
+          "name": "Harrooz",
+          "country": "IR",
+          "url": "https://streams.radio.co/s163d89567/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IR:harrooz"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "id": "awb_66a03935388e5252c3e4",
+      "name": "Iran International (HTTPS stream)",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.iranintl.com/",
+      "favicon": "https://www.iranintl.com/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_3a6976e26b94bfc7ec0b",
+          "stationId": "awb_66a03935388e5252c3e4",
+          "name": "Iran International (HTTPS stream)",
+          "country": "IR",
+          "url": "https://stream.radiojar.com/iintl_c",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "37acc36e-e070-4225-9d9f-d3c3610470fd",
+            "IR:iran-international-https-stream"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T10:42:03Z"
+        }
+      ]
+    },
     {
       "id": "awb_2add8223d04543078284",
       "name": "Iran Intl (Iran International)",
       "country": "IR",
       "subdivision": null,
       "languages": [
-        "ira",
-        "per"
+        "fa",
+        "ira"
       ],
       "categories": [
         "news"
@@ -62,13 +632,138 @@
       ]
     },
     {
+      "id": "awb_86664299a9b16cbc093b",
+      "name": "Iran On Air",
+      "country": "IR",
+      "subdivision": "Tehran",
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.iranonair.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:05:37Z",
+      "streams": [
+        {
+          "id": "aws_e3b04109e738c560d1cf",
+          "stationId": "awb_86664299a9b16cbc093b",
+          "name": "Iran On Air",
+          "country": "IR",
+          "url": "http://ice41.securenetsystems.net/KIRN",
+          "codec": "aac+",
+          "bitrate": 24,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "964807c7-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:21:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_74b315643fbc078dd92e",
+      "name": "iraninternational",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "iran",
+        "news",
+        "persian"
+      ],
+      "homepage": "https://iranintl.com/",
+      "favicon": "https://iranintl.com/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_a6461eeb2cdc09338e1d",
+          "stationId": "awb_74b315643fbc078dd92e",
+          "name": "iraninternational",
+          "country": "IR",
+          "url": "https://radio.iraninternational.app/iintl_c",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "5c6c092b-2b8b-4ac1-a8d0-090f87037fd9",
+            "IR:iraninternational"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:01:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4fe2ce422f17a28e414a",
+      "name": "Radio Faaz",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "http://www.radiofaaz.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_e0149fa4fa3d252bdc22",
+          "stationId": "awb_4fe2ce422f17a28e414a",
+          "name": "Radio Faaz",
+          "country": "IR",
+          "url": "https://free.rcast.net/230792",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "3c807031-f9f0-4d60-b696-1482249cb74c",
+            "IR:radio-faaz"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:30:46Z"
+        }
+      ]
+    },
+    {
       "id": "awb_e34ac04820652f1a511d",
       "name": "Radio Iran International",
       "country": "IR",
       "subdivision": null,
       "languages": [
-        "ira",
-        "per"
+        "fa",
+        "ira"
       ],
       "categories": [
         "news"
@@ -118,6 +813,638 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:00:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f284179721839684c88c",
+      "name": "Radio Mojahed - رادیو مجاهد",
+      "country": "IR",
+      "subdivision": "Tehran",
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [
+        "iran",
+        "mek",
+        "mko",
+        "mojahed",
+        "pmoi",
+        "radio mojahed",
+        "رادیو مجاهد",
+        "سازمان مجاهدین خلق ایران"
+      ],
+      "homepage": "https://radio.mojahedin.org/",
+      "favicon": "https://assets.mojahedin.org/assets/images/fav.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_fc73551c352b95e9ab53",
+          "stationId": "awb_f284179721839684c88c",
+          "name": "Radio Mojahed - رادیو مجاهد",
+          "country": "IR",
+          "url": "https://s2.radio.co/s830691c74/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IR:radio-mojahed",
+            "c4f39ae5-e9f5-11e8-a471-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T17:06:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e6e8403d4b420dd93ca5",
+      "name": "Radio Mojdeh",
+      "country": "IR",
+      "subdivision": "Tehran",
+      "languages": [
+        "fa"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "adventista",
+        "christian",
+        "persian"
+      ],
+      "homepage": "http://www.radiomojdeh.com/",
+      "favicon": "http://www.radiomojdeh.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T06:45:25Z",
+      "streams": [
+        {
+          "id": "aws_f25b5f8db8be27a561b1",
+          "stationId": "awb_e6e8403d4b420dd93ca5",
+          "name": "Radio Mojdeh",
+          "country": "IR",
+          "url": "http://ic2326.c1261.fast-serv.com/rm128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9614d7a0-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T20:28:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2ed0d9ba7126580bc819",
+      "name": "Radio Mojdeh - Iranian Farsi/Persian Christian music and talk",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa",
+        "fo"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "music",
+        "talk",
+        "world"
+      ],
+      "homepage": "https://radiomojdeh.com/",
+      "favicon": "https://radiomojdeh.com/favicon.ico",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_8b4c2aae2db998cc2d9e",
+          "stationId": "awb_2ed0d9ba7126580bc819",
+          "name": "Radio Mojdeh - Iranian Farsi/Persian Christian music and talk",
+          "country": "IR",
+          "url": "https://ic2326.c1261.fastserv.com/rm128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7460fe1a-700e-4925-9990-72df7e00e1a3",
+            "IR:radio-mojdeh-iranian-farsi-persian-christian-mus"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:37:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f5c9a1719c941d084a93",
+      "name": "Radio Navahang",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "middle eastern music",
+        "pop"
+      ],
+      "homepage": "https://www.navahang.com/",
+      "favicon": "https://www.navahang.com/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_65f1d6df3052a8699da4",
+          "stationId": "awb_f5c9a1719c941d084a93",
+          "name": "Radio Navahang",
+          "country": "IR",
+          "url": "https://navairan.com/;stream.nsv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "IR:radio-navahang",
+            "aa408a3b-3d07-415d-8af1-a60b64e07043"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:06:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4e22febf9e18fe904c2a",
+      "name": "Radio Sarcheshme",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://sarcheshmeh.icdndhcp.com:18452/stream",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:26:37Z",
+      "streams": [
+        {
+          "id": "aws_69067eba2228fd125a54",
+          "stationId": "awb_4e22febf9e18fe904c2a",
+          "name": "Radio Sarcheshme",
+          "country": "IR",
+          "url": "http://sarcheshmeh.icdndhcp.com:18452/stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "365deb9d-4422-433c-9f4a-5f243220624c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T01:53:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_268ed755fbcc2ee3b4a7",
+      "name": "Radio Yar Plus2",
+      "country": "IR",
+      "subdivision": "California",
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radioyar.com/plus2/",
+      "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/uqBFFhHClAuDfVunuQIJoSXPy3OlnXHUGEyXhzY-vqU/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWNjYzgzNTQtOWFkYi00ZjJjLTg4NmUtZmU4YzA5MDhiMWM5L2ltYWdlLz91PTE3NTc2MTE4MzkwMDA.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-02-24T20:49:17Z",
+      "streams": [
+        {
+          "id": "aws_1dcc3f0eacc52d185e7e",
+          "stationId": "awb_268ed755fbcc2ee3b4a7",
+          "name": "Radio Yar Plus2",
+          "country": "IR",
+          "url": "https://stream-163.zeno.fm/yxemzpoaocavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eGVtenBvYW9jYXZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InhKNHZlRTRtVFFPQTZ6RWJwMy1MOXciLCJpYXQiOjE3NTc2MzE3MDEsImV4cCI6MTc1NzYzMTc2MX0.KyIREwfc-nOvruWM_wiFaNS-xCgh1CfF2i8PE-xSm9E",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "216ac46a-1e79-4683-8d5d-832e65876b4a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:18:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f3cfe98bd1a677fc6486",
+      "name": "Radio ZZA (Zan Zendegi Azadi)",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiozza.com/",
+      "favicon": "https://image.radioking.io/radios/526993/logo/0586ce95-5dac-4996-ba76-2a051f3dffe4.jpeg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_a21c5cfc0c69c874f6f8",
+          "stationId": "awb_f3cfe98bd1a677fc6486",
+          "name": "Radio ZZA (Zan Zendegi Azadi)",
+          "country": "IR",
+          "url": "https://listen.radioking.com/radio/526993/stream/585379",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "1b1e2389-c406-4a61-bcb0-09ae798259ad",
+            "IR:radio-zza-zan-zendegi-azadi"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:09:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6e1102f08d44be1a858f",
+      "name": "RadioYar",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "music",
+        "talk & speech"
+      ],
+      "homepage": "https://www.radioyar.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-08-23",
+      "streams": [
+        {
+          "id": "aws_aeb4b842a239bf69dc1c",
+          "stationId": "awb_6e1102f08d44be1a858f",
+          "name": "RadioYar",
+          "country": "IR",
+          "url": "https://shoutcast.glwiz.com/RadioYAR.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "7714000a-8b12-47b0-932c-c946527aec12",
+            "IR:radioyar"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T21:29:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_80898bbd83729fe2df79",
+      "name": "امبدد",
+      "country": "IR",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://auds1.intacs.com/adorationgospelfm",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:18:06Z",
+      "streams": [
+        {
+          "id": "aws_6895743cdbbdf5b35491",
+          "stationId": "awb_80898bbd83729fe2df79",
+          "name": "امبدد",
+          "country": "IR",
+          "url": "http://auds1.intacs.com/adorationgospelfm",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ec4aa3a1-fbbe-4aa1-b1a9-cfc721bbdbda"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:36:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_63ad4122628203760e57",
+      "name": "Radio Ava Turkiye",
+      "country": "TR",
+      "subdivision": null,
+      "languages": [
+        "fa",
+        "tr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "homepage": "http://play.markaradyo.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:41:42Z",
+      "streams": [
+        {
+          "id": "aws_1aa9a3914b9df2262377",
+          "stationId": "awb_63ad4122628203760e57",
+          "name": "Radio Ava Turkiye",
+          "country": "TR",
+          "url": "http://play.markaradyo.com:8002/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dfd64544-4dd7-49a9-8fd2-90a571b418ec"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:43:04Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_df0495c269dedf57f069",
+      "name": "HyeVibes",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "ar",
+        "el",
+        "en",
+        "fa",
+        "hy"
+      ],
+      "categories": [
+        "folk",
+        "pop"
+      ],
+      "tags": [
+        "armenian",
+        "folk",
+        "pop",
+        "world music"
+      ],
+      "homepage": "https://hyevibes.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-01T21:30:47Z",
+      "streams": [
+        {
+          "id": "aws_02fba5ccad8af6021b33",
+          "stationId": "awb_df0495c269dedf57f069",
+          "name": "HyeVibes",
+          "country": "US",
+          "url": "https://stream.hyevibes.com/listen/hyevibes/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "489989fe-8d0f-49c1-b286-588ffb2584b7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:41:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2e733e2bf18436b2ec91",
+      "name": "Radio Hamrah رادیو همراه",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "fa"
+      ],
+      "categories": [
+        "public",
+        "talk"
+      ],
+      "tags": [
+        "farsi",
+        "persian",
+        "public radio",
+        "talk",
+        "رادیو",
+        "فارسی"
+      ],
+      "homepage": "http://www.radiohamrah.com/",
+      "favicon": "http://www.radiohamrah.com/favicon.ico",
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T23:42:14Z",
+      "streams": [
+        {
+          "id": "aws_cca5ad3589063448e42c",
+          "stationId": "awb_2e733e2bf18436b2ec91",
+          "name": "Radio Hamrah رادیو همراه",
+          "country": "US",
+          "url": "https://stream.zenolive.com/gxdq0awu30duv.aac",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "70fdae0c-8528-11e9-aa30-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:43:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ed543599d49b126d5225",
+      "name": "Radio Yar LA",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radioyar.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T07:23:17Z",
+      "streams": [
+        {
+          "id": "aws_19d81991a951cb207ff7",
+          "stationId": "awb_ed543599d49b126d5225",
+          "name": "Radio Yar LA",
+          "country": "US",
+          "url": "https://stream-170.zeno.fm/oyb5oh6ne3tuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJveWI1b2g2bmUzdHV2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkF1XzRzR2NnU3AyeHFxT2lPTnFkWHciLCJpYXQiOjE3MjU4Mzg0ODAsImV4cCI6MTcyNTgzODU0MH0.iqMp83z8l5E3MVzpCuZufblxNRnuoxkJ2dPMpReLpIE",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "50ab8ea4-e9ab-4459-8096-9a52fbb58ae2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_352f773815326e94ec94",
+      "name": "Iran International",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "news"
+      ],
+      "homepage": "https://iranintl.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T00:18:06Z",
+      "streams": [
+        {
+          "id": "aws_441d84ac98846aa72876",
+          "stationId": "awb_352f773815326e94ec94",
+          "name": "Iran International",
+          "country": "ZZ",
+          "url": "https://radio.iraninternational.app/iintl_c",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c3357cf1-5108-11ea-b877-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T07:37:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6c55b7dd2cf498adf2de",
+      "name": "Radio Shadi",
+      "country": "ZZ",
+      "subdivision": null,
+      "languages": [
+        "fa"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://radioshadi.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-15T03:39:23Z",
+      "streams": [
+        {
+          "id": "aws_076f439c2001ec917b21",
+          "stationId": "awb_6c55b7dd2cf498adf2de",
+          "name": "Radio Shadi",
+          "country": "ZZ",
+          "url": "https://ice9.securenetsystems.net/SHADI",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8e2d7025-2fa0-4059-af4c-084f056fc998"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:16:24Z"
         }
       ]
     }
