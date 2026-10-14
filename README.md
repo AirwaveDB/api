@@ -16,7 +16,7 @@ streams  (playable URLs)  ───┘
 
 | Route | Description |
 | --- | --- |
-| `GET /v1` | Dataset counts and build timestamps |
+| `GET /v1` | Dataset counts, source snapshots, and build timestamps |
 | `GET /v1/stations` | All station metadata |
 | `GET /v1/stations/:id` | One station with its streams |
 | `GET /v1/streams` | All playable stream records |
@@ -71,6 +71,12 @@ The generated lookup shards under `v1/_lookup/` are implementation details and a
 A station is a radio service. A stream is one playable endpoint belonging to that station.
 
 Station identity and metadata are maintained in [`AirwaveDB/database`](https://github.com/AirwaveDB/database). Stream endpoints are maintained in [`AirwaveDB/streams`](https://github.com/AirwaveDB/streams). Consumer-facing country, category, language, and station responses join both datasets.
+
+## Reproducible snapshots
+
+Each API build resolves the current `database` and `streams` branches to immutable Git commit SHAs before reading any source files. Every file in a build therefore comes from one fixed commit in each canonical repository rather than a moving `main` URL.
+
+`v1/index.json` records those commits under `sourceSnapshots`, together with the canonical generation timestamps, schema versions, and the stream identity strategy. The build is rejected if the selected streams snapshot was generated from a different database snapshot. This also avoids transient `raw.githubusercontent.com/main` cache skew after canonical data updates.
 
 ## Deployment
 
