@@ -34,8 +34,12 @@ jobs:
         run: node --check src/worker.js
       - name: Build public JSON API from pinned canonical snapshots
         run: node scripts/build.mjs
+      - name: Build language alias compatibility files
+        run: node scripts/build-language-aliases.mjs
       - name: Validate static API files
         run: node scripts/validate.mjs
+      - name: Validate language aliases
+        run: node scripts/validate-language-aliases.mjs
       - name: Commit changes
         run: |
           if [ -z "$(git status --porcelain -- v1)" ]; then
@@ -56,7 +60,9 @@ jobs:
             git rebase origin/main
             node --check src/worker.js
             node scripts/build.mjs
+            node scripts/build-language-aliases.mjs
             node scripts/validate.mjs
+            node scripts/validate-language-aliases.mjs
             git add v1
             if ! git diff --cached --quiet; then
               git commit --amend --no-edit
