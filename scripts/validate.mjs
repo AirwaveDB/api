@@ -62,7 +62,11 @@ async function main() {
     if (!stationIds.has(stream.stationId)) fail(`stream ${stream.id} references unknown station ${stream.stationId}`);
     const station = stationById.get(stream.stationId);
     if (station && stream.country !== station.country) fail(`stream ${stream.id} country ${stream.country} != station country ${station.country}`);
-    if (!Array.isArray(stream.sources) || stream.sources.length !== stream.sourceIds?.length) fail(`stream ${stream.id} has invalid provenance`);
+    if (!Array.isArray(stream.sources) || !stream.sources.length || !Array.isArray(stream.sourceIds) || !stream.sourceIds.length) {
+      fail(`stream ${stream.id} has invalid source metadata`);
+    }
+    if (new Set(stream.sources || []).size !== (stream.sources || []).length) fail(`stream ${stream.id} has duplicate source names`);
+    if (new Set(stream.sourceIds || []).size !== (stream.sourceIds || []).length) fail(`stream ${stream.id} has duplicate source ids`);
     streamCounts.set(stream.country, (streamCounts.get(stream.country) || 0) + 1);
     streamCountsByStation.set(stream.stationId, (streamCountsByStation.get(stream.stationId) || 0) + 1);
     try {
