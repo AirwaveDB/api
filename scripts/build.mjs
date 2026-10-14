@@ -5,9 +5,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'v1');
-const DB_RAW = 'https://raw.githubusercontent.com/AirwaveDB/database/main/data';
-const STREAM_RAW = 'https://raw.githubusercontent.com/AirwaveDB/streams/main/data';
-const USER_AGENT = 'AirwaveDB-api/1.4 (+https://github.com/AirwaveDB/api)';
+const USER_AGENT = 'AirwaveDB-api/1.5 (+https://github.com/AirwaveDB/api)';
 const TIMEOUT_MS = 20_000;
 const pretty = (value) => JSON.stringify(value, null, 2) + '\n';
 
@@ -26,6 +24,14 @@ async function getArray(url) {
   return value;
 }
 
+async function resolveMainSha(repo) {
+  const value = await getJson(`https://api.github.com/repos/AirwaveDB/${repo}/commits/main`);
+  if (!/^[0-9a-f]{40}$/.test(value?.sha || '')) {
+    throw new Error(`Could not resolve immutable main commit for AirwaveDB/${repo}`);
+  }
+  return value.sha;
+}
+
 function addTo(map, key, value) {
   const list = map.get(key) || [];
   list.push(value);
@@ -33,6 +39,16 @@ function addTo(map, key, value) {
 }
 
 async function main() {
+  // Resolve both repositories once, then read every file through those immutable
+  // commit URLs. This prevents raw.githubusercontent.com/main cache skew or a
+  // mid-build upstream push from mixing two source generations.
+  const [databaseCommit, streamsCommit] = await Promise.all([
+    resolveMainSha('database'),
+    resolveMainSha('streams'),
+  ]);
+  const DB_RAW = `https://raw.githubusercontent.com/AirwaveDB/database/${databaseCommit}/data`;
+  const STREAM_RAW = `https://raw.githubusercontent.com/AirwaveDB/streams/${streamsCommit}/data`;
+
   const [dbIndex, streamIndex] = await Promise.all([
     getJson(`${DB_RAW}/index.json`),
     getJson(`${STREAM_RAW}/index.json`),
@@ -50,7 +66,7 @@ async function main() {
   if (streamIndex.databaseGeneratedAt !== dbIndex.generatedAt) {
     throw new Error(
       `Source snapshots are inconsistent: streams were built from database ${streamIndex.databaseGeneratedAt}, ` +
-      `but current database is ${dbIndex.generatedAt}`,
+      `but pinned database ${databaseCommit.slice(0, 12)} contains ${dbIndex.generatedAt}`,
     );
   }
 
@@ -164,6 +180,20 @@ async function main() {
       streamsGeneratedAt: streamIndex.generatedAt,
       databaseSchemaVersion: dbIndex.schemaVersion,
       streamsSchemaVersion: streamIndex.schemaVersion,
+      sourceSnapshots: {
+        database: {
+          commit: databaseCommit,
+          generatedAt: dbIndex.generatedAt,
+          schemaVersion: dbIndex.schemaVersion,
+        },
+        streams: {
+          commit: streamsCommit,
+          generatedAt: streamIndex.generatedAt,
+          schemaVersion: streamIndex.schemaVersion,
+          databaseGeneratedAt: streamIndex.databaseGeneratedAt,
+          idStrategy: streamIndex.idStrategy || null,
+        },
+      },
       quality: {
         database: dbIndex.quality || {},
         streams: streamIndex.quality || {},
