@@ -49,7 +49,7 @@ Canonical language responses look like:
 ```json
 {
   "code": "ja",
-  "stationCount": 116,
+  "stationCount": 117,
   "stations": []
 }
 ```
@@ -60,7 +60,7 @@ Alias responses preserve the requested code and expose the canonical target:
 {
   "code": "jpn",
   "canonicalCode": "ja",
-  "stationCount": 116,
+  "stationCount": 117,
   "stations": []
 }
 ```
