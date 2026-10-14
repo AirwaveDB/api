@@ -1065,6 +1065,46 @@
       }
     ]
   },
+  "awb_c04fd27653cf8b943ce3": {
+    "id": "awb_c04fd27653cf8b943ce3",
+    "name": "Rádio Cisma Gaudéria",
+    "country": "BR",
+    "subdivision": "Parana",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "gauchesca",
+      "gaudéria",
+      "sertanejo raiz",
+      "tradicionalista"
+    ],
+    "homepage": "https://cismagauderia.site.radio.br/",
+    "favicon": "https://site.radio.br//sites/cismagauderia.site.radio.br/images/icone/user_78936280.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:09:40Z",
+    "streams": [
+      {
+        "id": "aws_a0f7c5c6802c47f9d4f5",
+        "stationId": "awb_c04fd27653cf8b943ce3",
+        "name": "Rádio Cisma Gaudéria",
+        "country": "BR",
+        "url": "https://player-ssl.painelstream.net:8394/live?1791939878154",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c7d885bb-025e-49b2-b20a-63d6f37e445e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_c012c00160963b8f9b09": {
     "id": "awb_c012c00160963b8f9b09",
     "name": "Rádio Grande Vale 93.1 FM",
@@ -4383,7 +4423,7 @@
         "codec": "aac",
         "bitrate": 95,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -6166,8 +6206,7 @@
         ],
         "sourceIds": [
           "RU:radio-record-megamix",
-          "a1c3d110-9136-4564-bd41-5ec1b97c41ac",
-          "e89fccf9-a210-4158-aa2a-74a4c392496f"
+          "a1c3d110-9136-4564-bd41-5ec1b97c41ac"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T02:46:13Z"
@@ -6579,8 +6618,7 @@
         ],
         "sourceIds": [
           "9a09b7c9-3254-4a1c-be15-d039938742b4",
-          "SG:yes-933-2",
-          "a0d91c55-3965-4a03-a0b7-2e76c8faa2cd"
+          "SG:yes-933-2"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T21:26:58Z"
@@ -6764,10 +6802,7 @@
         ],
         "sourceIds": [
           "0d5c50a2-dc97-44e2-a41e-73d7c280d5e0",
-          "47d8dc09-03d4-4a34-970c-128695ee4c0f",
-          "563a838b-c968-4e1b-924a-686c3ee68bb5",
-          "9789f823-8770-470c-b570-dd41f9b3410a",
-          "b1771553-1310-4d5c-ad2f-353ed6aaed4a"
+          "9789f823-8770-470c-b570-dd41f9b3410a"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T17:44:28Z"
@@ -7623,8 +7658,7 @@
         ],
         "sourceIds": [
           "239976d3-d46f-4671-991d-f6784abfa454",
-          "41a96a58-8d1d-468d-a12b-a6a2ab016284",
-          "8bab5c1f-0146-4e4b-9636-af80685d8878"
+          "41a96a58-8d1d-468d-a12b-a6a2ab016284"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T09:19:22Z"

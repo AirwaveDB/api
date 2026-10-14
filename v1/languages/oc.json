@@ -1,6 +1,6 @@
 {
   "code": "oc",
-  "stationCount": 5,
+  "stationCount": 6,
   "stations": [
     {
       "id": "awb_dab69794bf8df9e0b644",
@@ -139,6 +139,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:10:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e74b7473605770c58d53",
+      "name": "Radio Entre 2 Mers",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr",
+        "oc"
+      ],
+      "categories": [
+        "rock",
+        "electronic"
+      ],
+      "tags": [
+        "pop rock",
+        "rock",
+        "techno"
+      ],
+      "homepage": "https://remradio.fr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T00:37:37Z",
+      "streams": [
+        {
+          "id": "aws_618d8f5cb00b2746b99a",
+          "stationId": "awb_e74b7473605770c58d53",
+          "name": "Radio Entre 2 Mers",
+          "country": "FR",
+          "url": "https://remradio.ice.infomaniak.ch/remradio-aac-128.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "534581ba-206d-4ed8-b64f-2197e7bb7d53"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

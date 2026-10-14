@@ -288,9 +288,7 @@
         ],
         "sourceIds": [
           "28b09ba3-2b4a-4a53-bd41-1ac026118f84",
-          "936c0964-ea41-4fb9-892a-cc6fe0609fcd",
-          "e9169431-3a07-4b8c-8d78-8a48fd639556",
-          "eb93eef0-87e2-4578-bdaf-ac75a8e59fa8"
+          "936c0964-ea41-4fb9-892a-cc6fe0609fcd"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:53:11Z"
@@ -1916,7 +1914,6 @@
         ],
         "sourceIds": [
           "120f9ba0-c55a-498a-ae36-58b5c27ac2af",
-          "28bf6c75-4377-4488-a898-c44ee1152803",
           "CZ:funkstar-radio"
         ],
         "lastCheckOk": true,
@@ -2655,14 +2652,17 @@
     "languages": [
       "de"
     ],
-    "categories": [],
+    "categories": [
+      "electronic"
+    ],
     "tags": [
+      "electronic",
       "gothique"
     ],
     "homepage": "https://www.schwarze-welle.de/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-01-15T07:07:34Z",
     "streams": [
       {
@@ -2683,6 +2683,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:26:06Z"
+      },
+      {
+        "id": "aws_f338ed8e0d718000197d",
+        "stationId": "awb_eb5505e48b03652e0281",
+        "name": "Radio Schwarze Welle",
+        "country": "DE",
+        "url": "http://www.schwarze-welle.de:7500/",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bfad48c2-86c5-4361-a495-ed88b2598412"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T14:22:00Z"
       },
       {
         "id": "aws_17a626a363c94a4b90a9",
@@ -4672,8 +4691,7 @@
         ],
         "sourceIds": [
           "1f0cc3e4-73aa-40c9-af9d-e8cc2646abee",
-          "2b4130d4-c6b1-4280-bc0e-e8359b1f070e",
-          "91e6b5cb-efc3-4187-ad04-eea62bd06856"
+          "2b4130d4-c6b1-4280-bc0e-e8359b1f070e"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:29:29Z"
@@ -6429,8 +6447,7 @@
         ],
         "sourceIds": [
           "6d58066b-6825-4a18-8727-2a45d07d4138",
-          "RO:rockfm",
-          "e76147c6-7657-11ea-b1cf-52543be04c81"
+          "RO:rockfm"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:55:48Z"
@@ -6740,8 +6757,7 @@
         ],
         "sourceIds": [
           "731ff19a-2c9c-4d35-af38-ef05e8b2b3cb",
-          "9622cd46-0601-11e8-ae97-52543be04c81",
-          "d12a9f51-f603-4e30-9707-3e5c657b7fca"
+          "9622cd46-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:52:43Z"

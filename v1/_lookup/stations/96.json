@@ -517,7 +517,6 @@
         ],
         "sourceIds": [
           "6c564099-d863-46a3-901c-0fcec456db10",
-          "73e9c54e-2f1a-436f-a24c-25019a5a6708",
           "BA:patrisamato-radio"
         ],
         "lastCheckOk": true,
@@ -635,7 +634,6 @@
         ],
         "sourceIds": [
           "309f2ec8-5c52-4fb2-bc49-28020ce4242b",
-          "91fd7a6b-df10-4bbc-9d19-182c0b09b54f",
           "f4433c2c-6e2a-4a75-a44d-dd0f658f18dc"
         ],
         "lastCheckOk": true,
@@ -1025,7 +1023,7 @@
         "codec": "unknown",
         "bitrate": 0,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -3549,6 +3547,47 @@
       }
     ]
   },
+  "awb_963a01033105c28f45fc": {
+    "id": "awb_963a01033105c28f45fc",
+    "name": "BBC Radio 5 Sports Extra (UK only)",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_live_sports_extra",
+    "favicon": "https://ichef.bbci.co.uk/images/ic/raw/p0mw75dn.png.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T10:56:48Z",
+    "streams": [
+      {
+        "id": "aws_9d69fcd43f7af44d774f",
+        "stationId": "awb_963a01033105c28f45fc",
+        "name": "BBC Radio 5 Sports Extra (UK only)",
+        "country": "GB",
+        "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live_sports_extra.m3u8",
+        "codec": "aac",
+        "bitrate": 135,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e3740a99-2ce3-413f-b6d4-074620d4243b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
   "awb_96815a151d35e4102808": {
     "id": "awb_96815a151d35e4102808",
     "name": "Big L 1",
@@ -3864,7 +3903,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.atticaradios.gr/athens-deejay-952/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NVxJAkegta5hGh8IW16JZH-h0fEU01y9dmKUz8nJaw&s",
+    "favicon": "https://www.atticaradios.gr/Content/ImagesDatabase/p/crop/both/9d/9d212880d56d43a7bc49cb7e531ecb4c.svg?quality=85&404=default&v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-07T10:16:56Z",
@@ -4516,8 +4555,7 @@
         ],
         "sourceIds": [
           "41bc81db-6d6e-4bc2-8728-2194d1513635",
-          "IN:89-4-tamil-fm",
-          "e75a90d7-b812-49f2-a6be-a3585977ee12"
+          "IN:89-4-tamil-fm"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:21:28Z"
@@ -4723,8 +4761,7 @@
         ],
         "sourceIds": [
           "2bfd332d-5601-4f1e-9ae4-52bb92a4f604",
-          "IN:sooriyan-fm",
-          "fcc47b57-5b5a-4de5-8f65-cf2fda367514"
+          "IN:sooriyan-fm"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:42:38Z"
@@ -7814,8 +7851,7 @@
         ],
         "sourceIds": [
           "18655cc6-c57c-4c9f-876a-e7255ba599c1",
-          "6e08964d-6518-4861-b98e-956243465cab",
-          "86dbe614-19c3-44c7-8b36-b9acb94e3dde"
+          "6e08964d-6518-4861-b98e-956243465cab"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T13:52:21Z"

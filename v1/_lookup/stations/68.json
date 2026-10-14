@@ -1200,6 +1200,48 @@
       }
     ]
   },
+  "awb_6897b0df347a8592aeba": {
+    "id": "awb_6897b0df347a8592aeba",
+    "name": "Rádio Gaudéria",
+    "country": "BR",
+    "subdivision": "Santa Catarina",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "campeira",
+      "gauchesca",
+      "gaudéria",
+      "palhoça",
+      "sertanejo",
+      "tradicionalista"
+    ],
+    "homepage": "https://radiogauderia.com.br/",
+    "favicon": "https://websitenoar.net/contents/137/icon/xm3ad80e6804ee9d841d357a9a64ae3a54_137_1754798063.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:24:51Z",
+    "streams": [
+      {
+        "id": "aws_5e6d8c95dd22a9ec002a",
+        "stationId": "awb_6897b0df347a8592aeba",
+        "name": "Rádio Gaudéria",
+        "country": "BR",
+        "url": "https://hts01.brascast.com:12036/stream?1791940594702",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0ca4d1f7-c92c-4537-a7db-b3b578d18bec"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_6899f780dfe7e2de611c": {
     "id": "awb_6899f780dfe7e2de611c",
     "name": "Rede 3.16",
@@ -3114,7 +3156,6 @@
         ],
         "sourceIds": [
           "5c8e306e-c81b-4acd-b41a-11f4197b0492",
-          "84da4bc3-73d6-40d8-ae03-2c0d7b68fe14",
           "DZ:zaman-fm"
         ],
         "lastCheckOk": true,
@@ -4869,41 +4910,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T12:01:18Z"
-      }
-    ]
-  },
-  "awb_6899e3237c10d95ea9f0": {
-    "id": "awb_6899e3237c10d95ea9f0",
-    "name": "https://ardanradio.com/",
-    "country": "ID",
-    "subdivision": "Jakarta",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://ardanradio.com/",
-    "favicon": "https://ardanradio.com/",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T01:06:58Z",
-    "streams": [
-      {
-        "id": "aws_69a338bf30be1c70da38",
-        "stationId": "awb_6899e3237c10d95ea9f0",
-        "name": "https://ardanradio.com/",
-        "country": "ID",
-        "url": "https://ardanradio.com/",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "f56f63e3-a155-44c9-baac-13c9d3a77f83"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
       }
     ]
   },

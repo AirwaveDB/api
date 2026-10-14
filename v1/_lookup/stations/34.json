@@ -1434,8 +1434,7 @@
         ],
         "sourceIds": [
           "98014013-e76f-4156-aaf8-d994a6134039",
-          "CL:radio-edelweiss",
-          "c814bc71-e223-42ba-a3e7-b0aece90d6c2"
+          "CL:radio-edelweiss"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:07:32Z"
@@ -4518,7 +4517,6 @@
         ],
         "sourceIds": [
           "03a299c6-db3e-48fd-aace-a3a8c69f39bd",
-          "6dbc64d2-b00c-4fe0-ab4f-6fe936aa4569",
           "fb523525-d522-4216-922c-4b39c2826f64"
         ],
         "lastCheckOk": true,
@@ -7050,8 +7048,8 @@
         "name": "KUPO 105.5 - Port Orford, Oregon",
         "country": "US",
         "url": "https://s2.stationplaylist.com:7070/listen.mp3",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -7061,7 +7059,7 @@
           "0254dd2d-91ef-407e-ba52-8c6cab8c39b2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },
@@ -7955,6 +7953,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:26:42Z"
+      }
+    ]
+  },
+  "awb_34617d6ce133ad97871a": {
+    "id": "awb_34617d6ce133ad97871a",
+    "name": "Yacht Rock Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "adult contemporary",
+      "easy listening"
+    ],
+    "homepage": "https://yachtrock.radio/",
+    "favicon": "https://yachtrock.radio/wp-content/uploads/2023/01/Designer-15.avif",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T21:55:53Z",
+    "streams": [
+      {
+        "id": "aws_b496b325ed123ccb6f61",
+        "stationId": "awb_34617d6ce133ad97871a",
+        "name": "Yacht Rock Radio",
+        "country": "US",
+        "url": "https://digitalaudiobroadcasting.net:1045/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d999294b-368a-40a8-b564-3c0035711eb1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

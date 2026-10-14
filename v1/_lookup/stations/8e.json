@@ -1117,6 +1117,41 @@
       }
     ]
   },
+  "awb_8e9415064359f4952d1f": {
+    "id": "awb_8e9415064359f4952d1f",
+    "name": "BPM 100.9 Quebec",
+    "country": "CA",
+    "subdivision": "Québec",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://arsenalsports.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:07:07Z",
+    "streams": [
+      {
+        "id": "aws_a39ccc11963fa14d76ce",
+        "stationId": "awb_8e9415064359f4952d1f",
+        "name": "BPM 100.9 Quebec",
+        "country": "CA",
+        "url": "https://18503.live.streamtheworld.com/CFTXFMAAC.aac",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3045c96f-d6b7-428a-be3a-c8ad07dd1fdd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_8ed67db27b7e4fa4fb9d": {
     "id": "awb_8ed67db27b7e4fa4fb9d",
     "name": "CBC Radio One - Grand Falls-Windsor, NL (MP3 stream)",
@@ -1494,8 +1529,7 @@
         ],
         "sourceIds": [
           "961ac56b-0601-11e8-ae97-52543be04c81",
-          "97796a69-e2f9-4346-b878-70e1a49bbde2",
-          "d97faf80-324a-4a00-8e39-da5b473ab987"
+          "97796a69-e2f9-4346-b878-70e1a49bbde2"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:18:02Z"
@@ -1515,7 +1549,6 @@
         ],
         "sourceIds": [
           "9625d631-0601-11e8-ae97-52543be04c81",
-          "9a368941-71a3-4bda-9186-6604d9030514",
           "eec3a93a-744e-4c7a-b6fa-0b07e803b942"
         ],
         "lastCheckOk": true,
@@ -3154,6 +3187,46 @@
       }
     ]
   },
+  "awb_8e6bed8d71023a170cc1": {
+    "id": "awb_8e6bed8d71023a170cc1",
+    "name": "Josema MSX Radio",
+    "country": "ES",
+    "subdivision": "Almería",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "msx",
+      "msx turbor",
+      "msx2",
+      "msx2+"
+    ],
+    "homepage": "https://radio.josema.zapto.org:8443/public/msx",
+    "favicon": "https://radio.josema.zapto.org:8443/static/uploads/browser_icon/192.1791617283.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T19:25:16Z",
+    "streams": [
+      {
+        "id": "aws_4c6378eee34328274702",
+        "stationId": "awb_8e6bed8d71023a170cc1",
+        "name": "Josema MSX Radio",
+        "country": "ES",
+        "url": "https://radio.josema.zapto.org:8443/listen/msx/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ffe71234-db25-4cdf-8e27-d544d2a2523b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
   "awb_8efde95940964d2235c4": {
     "id": "awb_8efde95940964d2235c4",
     "name": "Onda Cero Las Palmas",
@@ -3188,7 +3261,7 @@
         "codec": "aac",
         "bitrate": 128,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -4744,8 +4817,7 @@
         ],
         "sourceIds": [
           "70b5b316-8810-41eb-bfb1-8c76a7cd7df3",
-          "IE:eist",
-          "d12bc36f-0262-44c5-8ef8-12f9fbb7aada"
+          "IE:eist"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:21:28Z"
@@ -6514,8 +6586,7 @@
         ],
         "sourceIds": [
           "76fba99d-0a3f-4cdc-942a-9038f7a9700c",
-          "NI:radio-estrella-del-mar",
-          "a743d2de-f931-4985-930f-e6d7eeb3e1bd"
+          "NI:radio-estrella-del-mar"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:28:39Z"

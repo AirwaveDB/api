@@ -769,41 +769,6 @@
       }
     ]
   },
-  "awb_adf214c4858dcb735a05": {
-    "id": "awb_adf214c4858dcb735a05",
-    "name": "Hope 103.2",
-    "country": "AU",
-    "subdivision": "Sydney",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://hope1032.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T02:08:58Z",
-    "streams": [
-      {
-        "id": "aws_849c7a7945d55f1668b4",
-        "stationId": "awb_adf214c4858dcb735a05",
-        "name": "Hope 103.2",
-        "country": "AU",
-        "url": "https://hope1032.com.au/player/hope1032/",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "c41f6b8c-06a3-4cb6-8dad-4aafdf83cbc6"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
-      }
-    ]
-  },
   "awb_adf58a75c0778c0ec940": {
     "id": "awb_adf58a75c0778c0ec940",
     "name": "iHeartAustralia (AAC)",
@@ -1083,6 +1048,54 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:46:45Z"
+      }
+    ]
+  },
+  "awb_ad49a1c2df465f4401b9": {
+    "id": "awb_ad49a1c2df465f4401b9",
+    "name": "����� ����������� ����",
+    "country": "BG",
+    "subdivision": null,
+    "languages": [
+      "bg"
+    ],
+    "categories": [],
+    "tags": [
+      "christian orthodox",
+      "christianity",
+      "faith",
+      "orthodox",
+      "orthodox christian",
+      "orthodox church",
+      "orthodoxy",
+      "����",
+      "�����������",
+      "������������"
+    ],
+    "homepage": "https://radio-glas.mitropolia-sofia.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-12T12:16:58Z",
+    "streams": [
+      {
+        "id": "aws_75b8a6f3a6705a356dee",
+        "stationId": "awb_ad49a1c2df465f4401b9",
+        "name": "����� ����������� ����",
+        "country": "BG",
+        "url": "http://radio.mitropolia-sofia.org:8610/stream",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4b44f4fe-ba82-4c06-a6ec-5847ef4da937"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T12:17:00Z"
       }
     ]
   },
@@ -2280,8 +2293,6 @@
         ],
         "sourceIds": [
           "021bfbad-9a32-4f50-8c97-c0464ba4d723",
-          "59ed1948-3a05-4607-892b-880c44df0aba",
-          "5fff59b2-7371-488e-9988-8f62e9345cc2",
           "8bcdd9f3-6556-413a-af4b-d008e19d1586"
         ],
         "lastCheckOk": true,
@@ -2862,8 +2873,7 @@
         ],
         "sourceIds": [
           "96091e65-0601-11e8-ae97-52543be04c81",
-          "961c85e5-0601-11e8-ae97-52543be04c81",
-          "96399c4a-0601-11e8-ae97-52543be04c81"
+          "961c85e5-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T15:04:06Z"
@@ -4813,8 +4823,7 @@
         ],
         "sourceIds": [
           "85038c56-31f9-455b-a4bd-e43a5264d51f",
-          "IE:mpb-radio-1",
-          "ccb67f6e-cb99-43b9-85b9-f328be2e310f"
+          "IE:mpb-radio-1"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T04:57:00Z"
@@ -4925,7 +4934,6 @@
         ],
         "sourceIds": [
           "45264b45-6f3d-4220-9b38-c3cc7a03f588",
-          "49614190-690d-4e89-80e7-4883df4a8876",
           "IN:fnffmbollywood"
         ],
         "lastCheckOk": true,
@@ -5707,8 +5715,7 @@
         ],
         "sourceIds": [
           "MM:cherry-fm",
-          "b5218804-957c-4f0f-a1fd-969e8343994b",
-          "b84ffeeb-29ba-4fa2-ba93-73f11a1c00c9"
+          "b5218804-957c-4f0f-a1fd-969e8343994b"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T07:45:46Z"
@@ -6506,13 +6513,7 @@
         ],
         "sourceIds": [
           "234ed83c-f423-4f12-8e58-4b32fdfbaab7",
-          "53e7be69-67d5-4314-a737-05462a895c4e",
-          "55ca16d0-4881-41c7-bfb6-a74b18a0a38f",
-          "8bdd623c-da6e-45d1-8abc-be946111738d",
-          "NL:ah-fm-electronic-dance-music-trance",
-          "a94d5209-f061-4f28-be4a-8159d3303768",
-          "dfa84622-0d6b-49d0-afaf-b751fdb5e555",
-          "f13b3458-1b90-47b2-9874-db731eaf0a5a"
+          "NL:ah-fm-electronic-dance-music-trance"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:33:14Z"
@@ -6563,7 +6564,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiobnt.nl/",
-    "favicon": "https://radiobnt.nl/wp-content/uploads/2026/04/BNT-LOGO-1_Without-Tagline-768x234.png",
+    "favicon": "https://radiobnt.nl/images/default.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-07-18T05:46:05Z",
@@ -7465,41 +7466,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T02:04:46Z"
-      }
-    ]
-  },
-  "awb_ada765e41e1fc404b72a": {
-    "id": "awb_ada765e41e1fc404b72a",
-    "name": "Heavy Blues",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z",
-    "streams": [
-      {
-        "id": "aws_8b7156a5f8f45535500f",
-        "stationId": "awb_ada765e41e1fc404b72a",
-        "name": "Heavy Blues",
-        "country": "RU",
-        "url": "http://79.120.77.11:8000/heavyblues",
-        "codec": "aac+",
-        "bitrate": 320,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "189fff0d-1227-45b6-b922-c05826261a34"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T23:27:30Z"
       }
     ]
   },

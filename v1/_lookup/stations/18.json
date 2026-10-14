@@ -2323,10 +2323,7 @@
         ],
         "sourceIds": [
           "14d25cb0-59a9-442e-96d0-9b1289962ede",
-          "6dea18d3-8126-11e9-aa30-52543be04c81",
-          "a4e584b6-811e-11e9-aa30-52543be04c81",
-          "c6856d88-9937-4e03-bddc-b4f5c6117753",
-          "efc30c1d-8127-11e9-aa30-52543be04c81"
+          "6dea18d3-8126-11e9-aa30-52543be04c81"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T15:56:46Z"
@@ -2677,22 +2674,24 @@
   },
   "awb_18d78034b55988554d63": {
     "id": "awb_18d78034b55988554d63",
-    "name": "SHUFFLE-RADIO",
+    "name": "Shuffle Radio",
     "country": "DE",
     "subdivision": "https://laut.fm/shuffle-radio",
     "languages": [],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "misc"
+    ],
     "homepage": null,
     "favicon": "https://assets.laut.fm/218467472df9172a0faa96a7af8c09a1?t=_120x120",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:12Z",
     "streams": [
       {
         "id": "aws_14f1e9b2238630dcc0a2",
         "stationId": "awb_18d78034b55988554d63",
-        "name": "SHUFFLE-RADIO",
+        "name": "Shuffle Radio",
         "country": "DE",
         "url": "http://stream.laut.fm/shuffle-radio",
         "codec": "mp3",
@@ -2703,10 +2702,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "04c80ee3-1807-4352-bce0-cb959c5eafb7"
+          "04c80ee3-1807-4352-bce0-cb959c5eafb7",
+          "858e4856-8c61-4503-99bf-f07586f524cb"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T23:06:28Z"
+        "lastCheckedAt": "2026-10-12T12:28:08Z"
       }
     ]
   },
@@ -3517,8 +3517,7 @@
         ],
         "sourceIds": [
           "4dc41329-dfdb-47df-8904-2f9894c3c6c4",
-          "61188e85-4d06-4e00-9964-38a7b4a055e9",
-          "f4b954a0-4118-4e99-be84-9177c67c6cbf"
+          "61188e85-4d06-4e00-9964-38a7b4a055e9"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T15:04:06Z"
@@ -3647,7 +3646,6 @@
         ],
         "sourceIds": [
           "6b196a52-1468-48fe-948b-476fe90b6f54",
-          "b4ec1804-02cc-40fd-95f9-31ebb4c53d2b",
           "de5ea11d-189d-4717-95a4-d0efa15cfe6c"
         ],
         "lastCheckOk": true,
@@ -8118,8 +8116,7 @@
         ],
         "sourceIds": [
           "45c12674-0160-4fb7-a707-4a8b9ee6cb3d",
-          "TR:playdanceradio",
-          "d315094f-6af9-4e34-a274-920035f9b3b2"
+          "TR:playdanceradio"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:23:26Z"

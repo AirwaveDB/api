@@ -817,7 +817,6 @@
         ],
         "sourceIds": [
           "77017883-8042-45a8-89ef-78b7d3d1ade0",
-          "7b4d8065-273d-4120-be34-23c0f4e57076",
           "BG:radio-ruse"
         ],
         "lastCheckOk": true,
@@ -2492,8 +2491,7 @@
         ],
         "sourceIds": [
           "325cca45-da7d-40d4-bb77-897b7a122d52",
-          "57b8f306-8a9e-4743-8969-40f5d8e50713",
-          "a06e659f-f49c-4dd5-b19b-297d61135a71"
+          "57b8f306-8a9e-4743-8969-40f5d8e50713"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T17:34:41Z"
@@ -3305,63 +3303,9 @@
       }
     ]
   },
-  "awb_d2181cb74090a72eb7f1": {
-    "id": "awb_d2181cb74090a72eb7f1",
-    "name": "Fip",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://icecast.radiofrance.fr/fip-hifi.aac",
-    "favicon": "https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance%20format:%20aac,%20bitrate:%20192",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-05-07T05:53:48Z",
-    "streams": [
-      {
-        "id": "aws_3a456e7e13905bd03451",
-        "stationId": "awb_d2181cb74090a72eb7f1",
-        "name": "Fip",
-        "country": "FR",
-        "url": "http://icecast.radiofrance.fr/fip-hifi.aac",
-        "codec": "aac",
-        "bitrate": 192,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "8c4b96bf-e383-471a-91d4-8414bd09e838"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T04:14:11Z"
-      },
-      {
-        "id": "aws_91f0667522cb76cba11f",
-        "stationId": "awb_d2181cb74090a72eb7f1",
-        "name": "Fip",
-        "country": "FR",
-        "url": "https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance%20%20%20format:%20aac,%20bitrate:%20192",
-        "codec": "aac",
-        "bitrate": 192,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "1fbc9d0a-6a72-40c6-bebc-a4103073c76f"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T06:37:54Z"
-      }
-    ]
-  },
   "awb_d24df9c1df3e24fa57cb": {
     "id": "awb_d24df9c1df3e24fa57cb",
-    "name": "Fip Cultes",
+    "name": "FIP Cultes",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -4392,7 +4336,6 @@
         ],
         "sourceIds": [
           "2752be59-6ab9-4437-86a5-42d84c858535",
-          "2e8e4cd5-7600-40a1-a2d4-ef687e9f9f2c",
           "HR:radio-megaton"
         ],
         "lastCheckOk": true,
@@ -4718,11 +4661,13 @@
       "hi"
     ],
     "categories": [],
-    "tags": [],
-    "homepage": null,
+    "tags": [
+      "music"
+    ],
+    "homepage": "https://s1.citrus3.com:8124/stream",
     "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/10/dance-asia-radio.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24",
     "streams": [
       {
@@ -4741,7 +4686,7 @@
         ],
         "sourceIds": [
           "IN:dance-asia-radio",
-          "fb4f5b30-7972-4e46-86a2-5bb47ac39690"
+          "ecc31682-4775-4077-8a2a-c01b2ca22ecf"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:02:19Z"
@@ -5183,8 +5128,7 @@
         ],
         "sourceIds": [
           "6d179402-1d2a-4bd5-a475-14e7e60ee550",
-          "96185693-0601-11e8-ae97-52543be04c81",
-          "ba123667-3fa2-4398-b275-d16064b1f038"
+          "96185693-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T05:41:26Z"
@@ -5369,8 +5313,7 @@
         ],
         "sourceIds": [
           "37d1f4fb-0812-432d-af30-e91ca28ae05c",
-          "JP:big-b-radio-jpop",
-          "ce46492b-3512-48e5-bf12-e992df4b4906"
+          "JP:big-b-radio-jpop"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:27:36Z"
@@ -5892,45 +5835,6 @@
       }
     ]
   },
-  "awb_d26112dae1e9862addb1": {
-    "id": "awb_d26112dae1e9862addb1",
-    "name": "radiomaya",
-    "country": "MX",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "https://myradio24.org/edwyonz",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z",
-    "streams": [
-      {
-        "id": "aws_f6153a6916116e8424a0",
-        "stationId": "awb_d26112dae1e9862addb1",
-        "name": "radiomaya",
-        "country": "MX",
-        "url": "https://myradio24.org/edwyonz",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "6fb80ff1-bc6c-4984-aadd-a00bca9da258"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T06:51:37Z"
-      }
-    ]
-  },
   "awb_d2eb9ad7a537b8fba1b7": {
     "id": "awb_d2eb9ad7a537b8fba1b7",
     "name": "L.O.V.E. (Lokale Omroep Volendam Edam) DAB",
@@ -6023,8 +5927,7 @@
         ],
         "sourceIds": [
           "NL:nixxfm",
-          "dea53371-b3a3-4a1e-a13c-8f5dadd5ec8f",
-          "e2e82c41-96fc-422f-a982-9523a0038201"
+          "dea53371-b3a3-4a1e-a13c-8f5dadd5ec8f"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:52:40Z"
@@ -6188,8 +6091,7 @@
         ],
         "sourceIds": [
           "3bd39221-b930-418b-9a8a-3f7f25b2f8d8",
-          "PE:radio-huancayo",
-          "c6fa893b-8530-4d7c-803e-724e1575239f"
+          "PE:radio-huancayo"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:36:47Z"
@@ -7451,8 +7353,7 @@
         ],
         "sourceIds": [
           "a8ec8c26-6864-4746-a460-edc7b0d3b4b9",
-          "d8503d63-1468-4edf-8d25-e8dbb789d477",
-          "e4acb662-d8dd-46d2-bfd4-63be2f9b84f6"
+          "d8503d63-1468-4edf-8d25-e8dbb789d477"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:28:39Z"

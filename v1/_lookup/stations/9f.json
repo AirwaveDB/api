@@ -226,8 +226,7 @@
         ],
         "sourceIds": [
           "902e817e-36d0-490e-a61a-09fb1ba9c3a8",
-          "AR:rock-pop-95-9-fm",
-          "c8d58585-109d-4486-ab89-9e7fe5a41968"
+          "AR:rock-pop-95-9-fm"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T07:43:50Z"
@@ -794,8 +793,7 @@
         ],
         "sourceIds": [
           "14234878-05b0-445a-86ee-e56ad6ae3090",
-          "25603ce0-8175-411d-9b65-72d60d7e32d0",
-          "74363c66-0f86-4574-8e2d-75f490f2794a"
+          "25603ce0-8175-411d-9b65-72d60d7e32d0"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:10:31Z"
@@ -1024,7 +1022,6 @@
         ],
         "sourceIds": [
           "6132375d-dccc-40d2-8c53-6f4522d500ce",
-          "a63f0d6b-59a2-458e-8ea2-0301b712f14c",
           "b6b7acab-2417-4dd3-84d7-dbdb622bed66"
         ],
         "lastCheckOk": true,
@@ -1204,7 +1201,6 @@
         ],
         "sourceIds": [
           "838b7009-5a0c-4bfe-ab5f-65bfe420e499",
-          "88026e68-5744-41ff-b5fe-108d94b31a05",
           "CA:ritmo-x99"
         ],
         "lastCheckOk": true,
@@ -2424,7 +2420,6 @@
         ],
         "sourceIds": [
           "96399acb-0601-11e8-ae97-52543be04c81",
-          "963b3686-0601-11e8-ae97-52543be04c81",
           "963b6753-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
@@ -4418,51 +4413,6 @@
       }
     ]
   },
-  "awb_9fa91437e03c7b8daafc": {
-    "id": "awb_9fa91437e03c7b8daafc",
-    "name": "Hobby Rádió",
-    "country": "HU",
-    "subdivision": null,
-    "languages": [
-      "hu"
-    ],
-    "categories": [
-      "talk",
-      "oldies"
-    ],
-    "tags": [
-      "70s",
-      "80s",
-      "90s",
-      "talk"
-    ],
-    "homepage": "http://www.hobbyradio.hu/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:49:38Z",
-    "streams": [
-      {
-        "id": "aws_c65428c3879ce369b6cb",
-        "stationId": "awb_9fa91437e03c7b8daafc",
-        "name": "Hobby Rádió",
-        "country": "HU",
-        "url": "http://www.hobbyradio.hu:8000/hobbyradio.mp3",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "960ca20d-0601-11e8-ae97-52543be04c81"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T20:30:46Z"
-      }
-    ]
-  },
   "awb_9f80cbf0ad0befe44b23": {
     "id": "awb_9f80cbf0ad0befe44b23",
     "name": "Guns N' Roses",
@@ -4959,7 +4909,7 @@
         "codec": "unknown",
         "bitrate": 0,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],

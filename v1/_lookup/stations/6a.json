@@ -1563,7 +1563,6 @@
         ],
         "sourceIds": [
           "64249e90-2db4-4fa1-8d86-9dc82da6e8af",
-          "76ad0d14-47e6-4618-8082-b2acaf319201",
           "CN:fm106-6"
         ],
         "lastCheckOk": true,
@@ -6519,7 +6518,7 @@
   },
   "awb_6a099e7d3c6d0b4bfad9": {
     "id": "awb_6a099e7d3c6d0b4bfad9",
-    "name": "ЧИСТАЯ ВОЛНА",
+    "name": "Чистая волна",
     "country": "RU",
     "subdivision": null,
     "languages": [
@@ -6854,9 +6853,7 @@
         ],
         "sourceIds": [
           "333d11b1-7841-4352-b023-549c87b27f8e",
-          "8586f9dc-278c-411b-89de-ba114db35c32",
-          "9b801122-248a-46ab-b15b-c4a7bacf36d4",
-          "aa653f36-283a-4191-b980-33c5740c39f4"
+          "8586f9dc-278c-411b-89de-ba114db35c32"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:21:28Z"
@@ -8133,8 +8130,8 @@
         "name": "WMQY 103.7 Smyrna, Tennessee",
         "country": "US",
         "url": "https://streaming.live365.com/a89261",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac+",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -8144,7 +8141,7 @@
           "d7745446-4e0a-458b-8ded-fef6c5217bcf"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

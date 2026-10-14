@@ -2458,45 +2458,6 @@
       }
     ]
   },
-  "awb_e3ce71a1f6139e753f88": {
-    "id": "awb_e3ce71a1f6139e753f88",
-    "name": "RADIO BOB Unplugged",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z",
-    "streams": [
-      {
-        "id": "aws_27386d9cd3eb6166c412",
-        "stationId": "awb_e3ce71a1f6139e753f88",
-        "name": "RADIO BOB Unplugged",
-        "country": "DE",
-        "url": "https://streams.radiobob.de/bob-chillout/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671329893&cb=578119&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
-        "codec": "mp3",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "34139557-bce7-4fa6-9b0b-d050563e0e5c"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T01:32:17Z"
-      }
-    ]
-  },
   "awb_e3689e7c104573a81ba1": {
     "id": "awb_e3689e7c104573a81ba1",
     "name": "Radio70",
@@ -4099,7 +4060,6 @@
         ],
         "sourceIds": [
           "007ef0cb-333e-4ee3-be75-03cdc3b954d5",
-          "ac1827e2-d38d-4f5e-abc3-2ca147cd27bf",
           "b9e1f76e-41fd-11e9-aa55-52543be04c81"
         ],
         "lastCheckOk": true,
@@ -7916,10 +7876,7 @@
         ],
         "sourceIds": [
           "02b04687-4dd7-476f-887c-e38a2d714f3a",
-          "521050ee-ed59-4b3b-bb6b-c5b86d703b62",
-          "95a9b1b1-548c-41ce-8001-bc4e5be30ddc",
-          "SR:radio-10-magic-fm",
-          "af00f161-31c0-4aff-a817-b18f7ec90878"
+          "SR:radio-10-magic-fm"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T21:02:39Z"
@@ -8272,19 +8229,43 @@
     "name": "True Black Metal Radio",
     "country": "UA",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "en"
+    ],
     "categories": [
-      "rock"
+      "rock",
+      "metal"
     ],
     "tags": [
+      "black metal",
+      "metal",
       "rock"
     ],
-    "homepage": null,
+    "homepage": "http://trueblackmetalradio.com/#/home",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24",
     "streams": [
+      {
+        "id": "aws_1ac6f363f09e5db9104f",
+        "stationId": "awb_e30adb5644183baa8e09",
+        "name": "True Black Metal Radio",
+        "country": "UA",
+        "url": "http://trueblackmetalradio.com:666/radio",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "47278da2-b2c1-4f1b-90ac-e8ffb4918cfb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T00:05:57Z"
+      },
       {
         "id": "aws_4de8f3028f10f7038320",
         "stationId": "awb_e30adb5644183baa8e09",

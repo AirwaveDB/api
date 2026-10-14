@@ -1,6 +1,6 @@
 {
   "id": "pop",
-  "stationCount": 6616,
+  "stationCount": 6613,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -1069,7 +1069,6 @@
           ],
           "sourceIds": [
             "127e77a8-c2bf-4513-b564-77e31fbb3dfc",
-            "50eea9ac-3526-4a61-af9b-9fadbe60d132",
             "6e167ffc-16a6-4fc0-b69f-7deedc6e7aa6"
           ],
           "lastCheckOk": true,
@@ -3829,8 +3828,7 @@
           ],
           "sourceIds": [
             "AE:love-radio-indie-romance",
-            "d75ccb5c-3400-44b6-b58f-aeed4434ab43",
-            "f513b274-1ac1-4ecf-84f8-fe9b87f2028f"
+            "d75ccb5c-3400-44b6-b58f-aeed4434ab43"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:21:44Z"
@@ -5364,9 +5362,7 @@
           ],
           "sourceIds": [
             "53e22c4d-f363-4067-95a6-40995b24c7e6",
-            "5b656aef-076e-4c43-b473-7b73aac61756",
-            "9c1346b1-1c3d-4376-85c2-c6b547e4aab0",
-            "c5fa2e7d-288a-4ce1-82cd-fc9ac101d3a1"
+            "9c1346b1-1c3d-4376-85c2-c6b547e4aab0"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:02:50Z"
@@ -5414,7 +5410,6 @@
           ],
           "sourceIds": [
             "709ba5b8-276c-461e-975f-1b48fd98a64a",
-            "9e73347a-aba1-41b1-b584-112677c6a65f",
             "AL:radio-saranda"
           ],
           "lastCheckOk": true,
@@ -10248,9 +10243,7 @@
           ],
           "sourceIds": [
             "04b78f5a-a9f3-4555-8938-ba680b8bb402",
-            "685fc4dd-f883-4c57-b3a6-d1fc83c51696",
-            "AR:radio-rio-cuarto",
-            "c149fdd5-fe73-45a0-8d2d-56f3799b726d"
+            "AR:radio-rio-cuarto"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:46:48Z"
@@ -10705,8 +10698,7 @@
           ],
           "sourceIds": [
             "902e817e-36d0-490e-a61a-09fb1ba9c3a8",
-            "AR:rock-pop-95-9-fm",
-            "c8d58585-109d-4486-ab89-9e7fe5a41968"
+            "AR:rock-pop-95-9-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:43:50Z"
@@ -11493,7 +11485,6 @@
           ],
           "sourceIds": [
             "7308ec18-42c0-4bbf-ab0e-72b1800d3cba",
-            "99d39cb5-0106-42d9-a656-3071ec3b4738",
             "AT:antenne-vorarlberg-chillout-lounge"
           ],
           "lastCheckOk": true,
@@ -12580,7 +12571,9 @@
       "name": "Popwelle. Das Musikradio,AutoDJ",
       "country": "AT",
       "subdivision": "St. Gallen",
-      "languages": [],
+      "languages": [
+        "de"
+      ],
       "categories": [
         "pop",
         "rock"
@@ -12594,7 +12587,7 @@
       "homepage": null,
       "favicon": "https://popwelle.at/pimages/popwelle_logo.png",
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 4,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -12614,52 +12607,6 @@
           "sourceIds": [
             "AT:popwelle-das-musikradio-autodj",
             "baaf6fc4-c6ef-4d19-929b-193dc21e360e"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T11:44:45Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_fde9316a2737cfd3c402",
-      "name": "Popwelle. Das Musikradio,AutoDJ",
-      "country": "AT",
-      "subdivision": null,
-      "languages": [
-        "de"
-      ],
-      "categories": [
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "indie",
-        "oldie",
-        "pop",
-        "rock"
-      ],
-      "homepage": null,
-      "favicon": "https://popwelle.at/pimages/popwelle_logo.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-01-15T08:11:44Z",
-      "streams": [
-        {
-          "id": "aws_b1b5c2b4d732b9cbba06",
-          "stationId": "awb_fde9316a2737cfd3c402",
-          "name": "Popwelle. Das Musikradio,AutoDJ",
-          "country": "AT",
-          "url": "https://popwelle.sp.radio.fm/stream",
-          "codec": "mp3",
-          "bitrate": 320,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "ec0240dd-4e43-40e4-b200-b8417ddaf796",
-            "f8ccc082-8845-4a7f-94e9-dd781047f0c6"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:56:46Z"
@@ -13122,9 +13069,6 @@
           ],
           "sourceIds": [
             "606e04df-9d70-44bf-83b3-c3f44e53680b",
-            "6adaf8fa-c2a4-48f9-ba22-d6c363c27a13",
-            "786d8d2f-0b9b-4cee-9da3-d692f63b08c7",
-            "9540fdde-b5bf-4531-b3d4-22ce905f0ae6",
             "AU:93-9"
           ],
           "lastCheckOk": true,
@@ -19099,8 +19043,7 @@
           ],
           "sourceIds": [
             "19b4f64b-3983-4493-85f8-c4e6d7778e63",
-            "AU:station-x-xrn-australia",
-            "fc9d83cc-7166-4a8f-a0e6-1b8e432b5bcb"
+            "AU:station-x-xrn-australia"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:46:09Z"
@@ -20558,8 +20501,7 @@
           ],
           "sourceIds": [
             "1111f6b2-cc07-4247-813d-4e4b4148b241",
-            "BB:the-beat-104-1-fm",
-            "ebd20fbd-3b96-49f8-86d7-d962a6afbe26"
+            "BB:the-beat-104-1-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:29:40Z"
@@ -21503,8 +21445,7 @@
           ],
           "sourceIds": [
             "2456c34c-527e-430e-9ce0-d29f78af2d63",
-            "BE:joe-80-s-90-s",
-            "cdf1baaf-ed22-41c5-8c9e-90b4133fda8f"
+            "BE:joe-80-s-90-s"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:13:47Z"
@@ -21548,8 +21489,7 @@
           ],
           "sourceIds": [
             "18755444-1a74-4b92-98ef-b7ad49d35a8c",
-            "5fe682ec-3e99-4462-92d4-12464b8a95e7",
-            "eca42c69-afa8-427c-8ee0-604d474839a2"
+            "5fe682ec-3e99-4462-92d4-12464b8a95e7"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:22:56Z"
@@ -21594,7 +21534,6 @@
           ],
           "sourceIds": [
             "5318e680-4c9b-4325-968b-1801e3067eb8",
-            "60c17848-6cbb-4d36-89a7-6e66728a122e",
             "96296561-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
@@ -22236,11 +22175,7 @@
           ],
           "sourceIds": [
             "025b77d1-c4ca-4c87-ba47-ab92e1e22109",
-            "070ab013-9d67-46cf-830a-f65cc6d9c79f",
-            "3191d3dc-b949-4112-a466-907dda157108",
-            "59f62cb6-de84-4c6a-b502-c5c14b2b6720",
-            "BE:pink",
-            "f6fb04c5-1328-4b05-96b7-7cb96a7b9bf6"
+            "BE:pink"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:15:49Z"
@@ -23329,9 +23264,7 @@
           ],
           "sourceIds": [
             "24ef489b-1006-46bb-832e-6c5b884114eb",
-            "46508721-ac71-4420-a51c-c1ec424b4623",
-            "566e434c-f911-4fa1-a558-619a2ee38057",
-            "fb2a894e-fdce-42e1-b997-a156c2364392"
+            "566e434c-f911-4fa1-a558-619a2ee38057"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:02:19Z"
@@ -23438,8 +23371,7 @@
           ],
           "sourceIds": [
             "8a9c2648-0a9a-4af2-9523-6f0ad7f9e4e1",
-            "BE:rtbf-classic-21",
-            "ad3d3e30-76e8-11e9-8b97-52543be04c81"
+            "BE:rtbf-classic-21"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:23:55Z"
@@ -23984,7 +23916,6 @@
           ],
           "sourceIds": [
             "309f2ec8-5c52-4fb2-bc49-28020ce4242b",
-            "91fd7a6b-df10-4bbc-9d19-182c0b09b54f",
             "f4433c2c-6e2a-4a75-a44d-dd0f658f18dc"
           ],
           "lastCheckOk": true,
@@ -24028,7 +23959,6 @@
           ],
           "sourceIds": [
             "09756bab-d326-4384-b8dc-c309b1c41292",
-            "5b355e6f-4383-4bee-ac00-4ef7bfe76b82",
             "9888766e-df02-4feb-8e7d-caf714b64cd4"
           ],
           "lastCheckOk": true,
@@ -24207,9 +24137,7 @@
           ],
           "sourceIds": [
             "3a016286-5baa-4e42-acd1-dbdf3425f1a2",
-            "88479a84-19f8-4d4b-843b-9aec01a5ec4a",
-            "960ef35c-0601-11e8-ae97-52543be04c81",
-            "cdda243e-f714-4965-b48b-9afbfe62874a"
+            "960ef35c-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:04:43Z"
@@ -24536,7 +24464,6 @@
           ],
           "sourceIds": [
             "40ccc5e3-d30a-44f7-990f-c6b72feac5e6",
-            "96163d8b-0601-11e8-ae97-52543be04c81",
             "BG:bg-estrada"
           ],
           "lastCheckOk": true,
@@ -26023,9 +25950,7 @@
           ],
           "sourceIds": [
             "41b7e7f7-9542-4393-9b81-ce99000f62b4",
-            "652b1a93-eb0f-41d9-b030-a9215a73b21f",
-            "BG:note-fm",
-            "f716da14-3b8b-4d87-a680-6f40dba97f65"
+            "BG:note-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:21:10Z"
@@ -27706,11 +27631,7 @@
           ],
           "sourceIds": [
             "020ffe98-a5dc-4b6e-9913-864ab12a2f58",
-            "0ce7577f-df66-440f-aeb5-c6ee2988208b",
-            "1f3efc9f-8eff-49bf-a589-809a7d722368",
-            "3e71f3bc-b950-4b32-8e56-ada2ce0da600",
-            "e88b436e-b28c-4e49-b554-e31609f68e5d",
-            "f55f78a8-43e3-4b82-be4a-ad3e022ada65"
+            "1f3efc9f-8eff-49bf-a589-809a7d722368"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:22:06Z"
@@ -28700,7 +28621,6 @@
           ],
           "sourceIds": [
             "0314dcbc-da16-4ca2-90d4-15a2cd761ba8",
-            "4922824c-0f93-4d25-b6cc-be67c8c8b34d",
             "BQ:mega-hit-fm"
           ],
           "lastCheckOk": true,
@@ -31134,8 +31054,7 @@
           ],
           "sourceIds": [
             "85f353b9-864f-4226-82e9-b178d5c493ca",
-            "946f5071-1993-47bc-9ef5-b24d84ad292e",
-            "ba0fb815-7ffb-465d-9f11-dc4ab7cd8fc2"
+            "946f5071-1993-47bc-9ef5-b24d84ad292e"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:54:47Z"
@@ -32655,8 +32574,7 @@
           ],
           "sourceIds": [
             "7af712d3-5d31-4fd3-9bcf-1957fe892ecd",
-            "971fd611-7552-4ef2-8cf9-302d73e9e1ab",
-            "f074f268-1d13-42d7-8f75-23ec723dee73"
+            "971fd611-7552-4ef2-8cf9-302d73e9e1ab"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T09:17:21Z"
@@ -39476,8 +39394,7 @@
           ],
           "sourceIds": [
             "26a66154-7de4-4583-b78d-ba0b8c6a71fb",
-            "CA:radio-unicite",
-            "a4fdf689-3c11-4102-8fa2-8604f9f1b19c"
+            "CA:radio-unicite"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:57:05Z"
@@ -39576,7 +39493,6 @@
           ],
           "sourceIds": [
             "838b7009-5a0c-4bfe-ab5f-65bfe420e499",
-            "88026e68-5744-41ff-b5fe-108d94b31a05",
             "CA:ritmo-x99"
           ],
           "lastCheckOk": true,
@@ -40598,8 +40514,7 @@
           ],
           "sourceIds": [
             "CH:gds-fm",
-            "b4e554a2-f0d2-449d-99d5-5ba11dc784ff",
-            "fd35b7de-99a6-4257-ba41-fe85c9fc2966"
+            "b4e554a2-f0d2-449d-99d5-5ba11dc784ff"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:42:40Z"
@@ -41054,7 +40969,6 @@
           ],
           "sourceIds": [
             "4cde8f3b-17fc-4802-ba40-e8feae5395a1",
-            "9ba6be84-7690-4fbe-8d35-7a455628ec42",
             "CH:neo1"
           ],
           "lastCheckOk": true,
@@ -41146,8 +41060,7 @@
           ],
           "sourceIds": [
             "3eab2963-3d0d-43ee-bcba-d686a569e0ce",
-            "CH:one-fm-new-hits",
-            "f190cd5f-c91b-429e-af7b-dbc47d70be0e"
+            "CH:one-fm-new-hits"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:28:08Z"
@@ -41398,7 +41311,6 @@
           ],
           "sourceIds": [
             "0c1afdef-1078-41fd-a585-c69b347ac045",
-            "3bb2d57f-f7a6-49e7-afb5-89daf251de9d",
             "CH:radio-argovia"
           ],
           "lastCheckOk": true,
@@ -41525,10 +41437,7 @@
           ],
           "sourceIds": [
             "23e128cb-60e6-47d3-97e9-71522969bd74",
-            "3786ca1c-bcbd-4c90-8ce2-6e363756b320",
-            "3d18bca6-df71-4d40-bfd9-0d37635574c9",
-            "CH:radio-fm1",
-            "c9b6d938-31fa-4276-ae8a-4313c4a9cf96"
+            "CH:radio-fm1"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:45:34Z"
@@ -45202,8 +45111,7 @@
           ],
           "sourceIds": [
             "98014013-e76f-4156-aaf8-d994a6134039",
-            "CL:radio-edelweiss",
-            "c814bc71-e223-42ba-a3e7-b0aece90d6c2"
+            "CL:radio-edelweiss"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:07:32Z"
@@ -47615,8 +47523,7 @@
           ],
           "sourceIds": [
             "096ab895-df1f-4bcd-8d02-e8f55a9ade7a",
-            "CN:fm90-7",
-            "a9a02b27-501c-41f8-944c-b4590a84c97e"
+            "CN:fm90-7"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T08:12:29Z"
@@ -50655,10 +50562,7 @@
           ],
           "sourceIds": [
             "190fdaae-d871-48d3-81c3-17aa887cd0d9",
-            "630a785c-fd55-41d5-b244-0c2b13e6cea2",
-            "9a84edd7-0744-435c-a220-28aa57dde475",
-            "CO:musical-stereo",
-            "e8f4047c-bb1a-4be7-b96f-8e222130c81d"
+            "CO:musical-stereo"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:52:40Z"
@@ -54245,7 +54149,6 @@
           ],
           "sourceIds": [
             "09583181-fc2c-4e96-b432-55bbeacd040b",
-            "511c1130-53b9-478c-8ec7-29d36f7e90aa",
             "CZ:radio-fonlord"
           ],
           "lastCheckOk": true,
@@ -56583,8 +56486,7 @@
           ],
           "sourceIds": [
             "8a41b60c-f115-11e8-a471-52543be04c81",
-            "DE:0-n-80s-on-radio",
-            "f963b8cb-6921-4b1a-817e-21dee718cffb"
+            "DE:0-n-80s-on-radio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:37:11Z"
@@ -57748,7 +57650,6 @@
           ],
           "sourceIds": [
             "28444f06-3a91-11e9-9b4e-52543be04c81",
-            "3492b57b-f8d2-4291-87c5-47a063c90d01",
             "DE:0-n-pop-on-radio"
           ],
           "lastCheckOk": true,
@@ -58083,7 +57984,6 @@
           ],
           "sourceIds": [
             "3d3fc522-0a50-11ea-a87e-52543be04c81",
-            "6257ba01-f366-11e8-a471-52543be04c81",
             "DE:0-n-top-40-on-radio"
           ],
           "lastCheckOk": true,
@@ -58218,8 +58118,7 @@
           ],
           "sourceIds": [
             "DE:1-a-70er-von-1a-radio",
-            "eb1930be-f372-11e8-a471-52543be04c81",
-            "fd77ab08-c7f4-41d4-acec-e80c15b37976"
+            "eb1930be-f372-11e8-a471-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:49:35Z"
@@ -63497,8 +63396,7 @@
           ],
           "sourceIds": [
             "904dc6ee-50c8-4f16-bb00-d03360b6b6d4",
-            "9606f727-0601-11e8-ae97-52543be04c81",
-            "d2afc7d4-2b94-4699-9b9f-35a09bd5f2f6"
+            "9606f727-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:23:26Z"
@@ -67462,8 +67360,7 @@
           ],
           "sourceIds": [
             "1cf9bfbf-d4fa-4cf7-87fa-4ccbcb840c92",
-            "5335db58-6d1e-4678-b47c-df7d257c4d15",
-            "a0ce38a3-cca2-4e74-b9e6-d5688d0b04b1"
+            "5335db58-6d1e-4678-b47c-df7d257c4d15"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:16:48Z"
@@ -73611,8 +73508,7 @@
           ],
           "sourceIds": [
             "2244f473-7973-466e-9da3-2b35ac7c9f99",
-            "9dc3f808-ec83-48a6-83d2-8d86c114bf3c",
-            "bf3b8c5a-f8d7-4262-937c-f185433e3bae"
+            "9dc3f808-ec83-48a6-83d2-8d86c114bf3c"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:13:09Z"
@@ -80165,8 +80061,7 @@
           ],
           "sourceIds": [
             "44b493f7-0cae-4973-83a0-adfc8ccfe7f8",
-            "961696dc-0601-11e8-ae97-52543be04c81",
-            "cafe5180-3246-40b7-a600-85c32b266253"
+            "961696dc-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:45:28Z"
@@ -81430,8 +81325,8 @@
       ]
     },
     {
-      "id": "awb_a9630d6ebd7d239e79ce",
-      "name": "Memoryradio 1",
+      "id": "awb_2cf70ff8bf55b7e42a1c",
+      "name": "memoryradio 1",
       "country": "DE",
       "subdivision": null,
       "languages": [
@@ -81439,21 +81334,45 @@
       ],
       "categories": [
         "pop",
-        "rock"
+        "rock",
+        "oldies"
       ],
       "tags": [
+        "50s",
+        "60s",
+        "70s",
         "pop",
-        "rock"
+        "rock",
+        "schlager"
       ],
-      "homepage": null,
+      "homepage": "http://memoryradio.de/memoryradio1.php",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T04:06:00Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T08:07:13Z",
       "streams": [
         {
-          "id": "aws_6fcbfe2f5d4358a7bf28",
-          "stationId": "awb_a9630d6ebd7d239e79ce",
+          "id": "aws_579d53f13e53e850ca22",
+          "stationId": "awb_2cf70ff8bf55b7e42a1c",
+          "name": "memoryradio 1",
+          "country": "DE",
+          "url": "http://www.memoryradio.de:4000/",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "960bc069-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:52:35Z"
+        },
+        {
+          "id": "aws_162d6ed09aa3455f77e1",
+          "stationId": "awb_2cf70ff8bf55b7e42a1c",
           "name": "Memoryradio 1",
           "country": "DE",
           "url": "http://www.memoryradio.de/radio1",
@@ -81473,8 +81392,8 @@
       ]
     },
     {
-      "id": "awb_ca53c271c5f8930ee3af",
-      "name": "Memoryradio 2",
+      "id": "awb_66885155af1b3c1a2b6b",
+      "name": "memoryradio 2",
       "country": "DE",
       "subdivision": null,
       "languages": [
@@ -81482,21 +81401,46 @@
       ],
       "categories": [
         "pop",
-        "rock"
+        "rock",
+        "oldies"
       ],
       "tags": [
+        "20s",
+        "30s",
+        "40s",
+        "50s",
         "pop",
-        "rock"
+        "rock",
+        "schlager"
       ],
-      "homepage": null,
+      "homepage": "http://memoryradio.de/memoryradio2.php",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T02:11:33Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T05:28:01Z",
       "streams": [
         {
-          "id": "aws_9c4a26cdffb11cfaac74",
-          "stationId": "awb_ca53c271c5f8930ee3af",
+          "id": "aws_5c595d48f0e142483b89",
+          "stationId": "awb_66885155af1b3c1a2b6b",
+          "name": "memoryradio 2",
+          "country": "DE",
+          "url": "http://www.memoryradio.de:5000/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9607875b-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T18:27:49Z"
+        },
+        {
+          "id": "aws_12ca35dd14777b51429d",
+          "stationId": "awb_66885155af1b3c1a2b6b",
           "name": "Memoryradio 2",
           "country": "DE",
           "url": "http://www.memoryradio.de/radio2",
@@ -81901,7 +81845,7 @@
         "youth"
       ],
       "homepage": "https://n-joy.de/",
-      "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Njoy-logo.svg/512px-Njoy-logo.svg.png",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-01-15T08:34:02Z",
@@ -85165,7 +85109,6 @@
           ],
           "sourceIds": [
             "ad331ab5-d1df-4fa8-afb9-76770b88617c",
-            "b21037d3-97e4-452c-bf9b-5bdfafd1c61c",
             "e2bb38dd-c0c4-4e02-b6ef-f6a724277dcd"
           ],
           "lastCheckOk": true,
@@ -88724,7 +88667,6 @@
           ],
           "sourceIds": [
             "1a0a1864-6ccd-4341-9239-583a6e2e95a2",
-            "5c035978-f31d-408e-9f1c-e98acb9f0487",
             "8df4f214-c35b-4206-8818-3e1cef1c7660"
           ],
           "lastCheckOk": true,
@@ -92545,22 +92487,7 @@
           ],
           "sourceIds": [
             "075e11b5-9306-40a5-9f42-9608221b6976",
-            "0ea85455-cb2f-47b4-a5c7-e26ba75211b6",
-            "108b8e27-fd60-404e-9ddf-ade29e1ab9c1",
-            "158ece20-6624-11ea-be63-52543be04c81",
-            "1bc9dc3a-4fc8-467c-b06a-2ec38d64a864",
-            "5049aa14-d819-43ab-a818-fc8f52c9a34c",
-            "64bb973d-5bde-4c87-8517-c0ca1dc3d739",
-            "8dd9afa8-1389-435f-a367-1a1e425984db",
-            "8ea1ee6e-d491-4856-b55f-5e4c1a2b8f1a",
-            "9614fa5e-0601-11e8-ae97-52543be04c81",
-            "b9d35ba2-9f6e-4cda-8d82-e62cb1976f46",
-            "b9e0b4ea-def1-4819-a633-6938c06cb8e5",
-            "c9a44077-4526-4908-818b-3d13e06119ba",
-            "d4f505fa-2a58-4276-8863-c22e291b0dc2",
-            "e2c68c3b-0b14-4773-b074-f113242329d2",
-            "e33a1383-6623-11ea-be63-52543be04c81",
-            "e6775bec-a98c-4d15-85f5-5fd4f0b890f1"
+            "d4f505fa-2a58-4276-8863-c22e291b0dc2"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:46:38Z"
@@ -96769,64 +96696,6 @@
       ]
     },
     {
-      "id": "awb_49c5bdb1a1ecf3c1fad7",
-      "name": "SWR1",
-      "country": "DE",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "pop"
-      ],
-      "homepage": null,
-      "favicon": null,
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-01-14T22:54:04Z",
-      "streams": [
-        {
-          "id": "aws_ed55d3908fbf5498a540",
-          "stationId": "awb_49c5bdb1a1ecf3c1fad7",
-          "name": "SWR1",
-          "country": "DE",
-          "url": "https://liveradio.swr.de/sw331ch/swr1bw/",
-          "codec": "aac",
-          "bitrate": 96,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "3a44c9a7-08df-4c1e-ae1c-19ddc50bd1b7"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:21:44Z"
-        },
-        {
-          "id": "aws_7f570dfbd849c30e15f2",
-          "stationId": "awb_49c5bdb1a1ecf3c1fad7",
-          "name": "SWR1",
-          "country": "DE",
-          "url": "https://liveradio.swr.de/sw890cl/swr1bw/",
-          "codec": "aac",
-          "bitrate": 96,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "ce4b8451-221d-4c57-ace8-076f53c1ca18"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T11:09:55Z"
-        }
-      ]
-    },
-    {
       "id": "awb_56954675e89e4be7763b",
       "name": "SWR1",
       "country": "DE",
@@ -96841,7 +96710,7 @@
       "homepage": "https://liveradio.swr.de/",
       "favicon": "https://liveradio.swr.de/favicon.ico",
       "type": null,
-      "sourceCount": 3,
+      "sourceCount": 5,
       "updatedAt": "2026-01-14T22:54:12Z",
       "streams": [
         {
@@ -96877,11 +96746,30 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "6bdd4d94-8215-4085-9094-34e14959dec3",
-            "77f6d242-a647-47ee-abe8-ed371fb5fd73"
+            "3a44c9a7-08df-4c1e-ae1c-19ddc50bd1b7",
+            "6bdd4d94-8215-4085-9094-34e14959dec3"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:53:58Z"
+        },
+        {
+          "id": "aws_f711db0821444cc8f773",
+          "stationId": "awb_56954675e89e4be7763b",
+          "name": "SWR1",
+          "country": "DE",
+          "url": "https://liveradio.swr.de/sw890cl/swr1bw/",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ce4b8451-221d-4c57-ace8-076f53c1ca18"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T11:09:55Z"
         }
       ]
     },
@@ -98379,8 +98267,7 @@
           ],
           "sourceIds": [
             "2d87f993-7ef7-43b8-a8b9-a707aed3b639",
-            "8428e146-2a21-4a56-b520-b0db94d0af78",
-            "f6c8a82e-67f5-4bf0-8358-5872c23bbabd"
+            "8428e146-2a21-4a56-b520-b0db94d0af78"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:52:21Z"
@@ -99252,8 +99139,7 @@
           ],
           "sourceIds": [
             "1eb0a70c-2cc1-11e9-a35e-52543be04c81",
-            "DK:nova-100-dansk",
-            "effb3b79-8c7f-41c9-83d4-b7bdc393b937"
+            "DK:nova-100-dansk"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:39:27Z"
@@ -99315,7 +99201,6 @@
           ],
           "sourceIds": [
             "16e4f32b-81d3-42e5-b6ac-38a15ef148f1",
-            "9cb2aa9d-b96d-497e-8389-85664ebbf867",
             "DK:radio-abc"
           ],
           "lastCheckOk": true,
@@ -100222,8 +100107,7 @@
           ],
           "sourceIds": [
             "6d04fce8-238d-4a15-8999-32333c870169",
-            "DZ:hitradio-rtl-chemnitz",
-            "a7989b64-675c-46d0-9597-78f5e70450c9"
+            "DZ:hitradio-rtl-chemnitz"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:10:48Z"
@@ -101608,8 +101492,7 @@
           ],
           "sourceIds": [
             "4a3bd909-1245-43bd-b77d-58053ad16f50",
-            "ES:80-exitos",
-            "b1cae36e-6db3-455c-ab2e-60be72e55b7c"
+            "ES:80-exitos"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:24:47Z"
@@ -105752,11 +105635,7 @@
           ],
           "sourceIds": [
             "13935adc-0cdf-429c-bc79-cff630a4e4db",
-            "3a2c9df4-16b0-487a-b6a5-c8cccc56a519",
-            "710df20e-1d09-4370-adfa-b1ed843c8a46",
-            "9b00262c-d0be-4497-a4f9-e7a6740a3930",
-            "f49d2d6a-50d8-4fdc-86eb-2bd4e5868110",
-            "f9159284-4f37-4291-9233-5c91828b1e74"
+            "f49d2d6a-50d8-4fdc-86eb-2bd4e5868110"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:45:28Z"
@@ -108534,7 +108413,6 @@
           ],
           "sourceIds": [
             "3f123871-dbca-4e37-b97c-6caf70315a1d",
-            "85166474-fa4a-4063-acd2-4990c1644810",
             "FI:radio-nova"
           ],
           "lastCheckOk": true,
@@ -108644,8 +108522,7 @@
           ],
           "sourceIds": [
             "8d2b0d19-687e-420b-a29a-31d62e939c97",
-            "FI:radio-sun",
-            "f46a7f78-6fbd-4251-a44f-33024264fab6"
+            "FI:radio-sun"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:22:27Z"
@@ -110506,7 +110383,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao Radio",
+      "name": "Cacao-Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -110886,7 +110763,6 @@
           ],
           "sourceIds": [
             "9b412b14-6820-4942-ae2a-ee7610f100e7",
-            "c4de91e4-1d7a-487b-9def-54e3750f5214",
             "dc589856-0400-4583-a786-0b81d9b2d57d"
           ],
           "lastCheckOk": true,
@@ -111460,7 +111336,6 @@
           ],
           "sourceIds": [
             "3a6c5454-a001-4800-ae33-813b1227789e",
-            "76b129aa-45cc-46cf-b6b2-1fde08a2c8f9",
             "FR:fip-pop"
           ],
           "lastCheckOk": true,
@@ -111575,8 +111450,7 @@
           ],
           "sourceIds": [
             "FR:fm-80-funky-music",
-            "e1d428c9-6896-4b27-ae75-e00e69e0ca7d",
-            "f872bfc4-b09a-405f-9c7f-d535adba238e"
+            "e1d428c9-6896-4b27-ae75-e00e69e0ca7d"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:06:49Z"
@@ -118797,8 +118671,7 @@
           ],
           "sourceIds": [
             "2e4c0f8a-ac41-48c2-918c-7f878e989a69",
-            "FR:radio-italopower",
-            "bce2e737-431e-4780-881c-4591143487df"
+            "FR:radio-italopower"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:12:42Z"
@@ -119050,7 +118923,6 @@
           ],
           "sourceIds": [
             "121cc91e-1f4d-41d5-b7f3-5d09c688fc2f",
-            "8a728f88-35f3-4ebf-95bb-46730999bc8a",
             "963fb390-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
@@ -119072,10 +118944,7 @@
           ],
           "sourceIds": [
             "2e76e323-8116-45a9-bd9d-649ede261b93",
-            "797a1245-f5b0-4a8c-a450-2d74c3defa6e",
-            "FR:radio-nova",
-            "cbeb2834-6ad7-4d68-b898-37f9b82c6976",
-            "f132b6db-9d2f-4fc6-a495-174140e43d18"
+            "FR:radio-nova"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:59:59Z"
@@ -120330,8 +120199,7 @@
           ],
           "sourceIds": [
             "0353169f-1d78-41b1-8d0d-3dc01330b4bc",
-            "7eaa0ce9-71f5-499c-bfaf-e4e583e7c20a",
-            "c04bc62d-4485-4bad-81d5-8b78d3a945d0"
+            "7eaa0ce9-71f5-499c-bfaf-e4e583e7c20a"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:11:40Z"
@@ -133752,7 +133620,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "http",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -139074,8 +138942,7 @@
           ],
           "sourceIds": [
             "349d7042-656b-4267-aeff-69f7d121f972",
-            "GR:jackson-palace",
-            "d49fdaa4-1284-4d54-8d1b-4a8426388579"
+            "GR:jackson-palace"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:57:05Z"
@@ -141283,9 +141150,7 @@
           ],
           "sourceIds": [
             "7c5db646-55d3-40be-bd84-6b1762a554ac",
-            "80ec01a0-6b12-491e-b22d-3ddfc39aa7a1",
-            "GR:metro-radio",
-            "f3e1b8f6-9ba1-40c6-8ead-f66c4ef13f89"
+            "GR:metro-radio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:39:35Z"
@@ -141601,7 +141466,6 @@
           ],
           "sourceIds": [
             "62dd6873-8747-4d00-967d-fd6ff20c474b",
-            "63607b14-5817-45f9-b9b5-f1cae57f06d3",
             "GR:my-radio-89-6"
           ],
           "lastCheckOk": true,
@@ -148980,8 +148844,7 @@
           ],
           "sourceIds": [
             "05b53b3a-5538-47e7-ba8c-6e8f25a4fa42",
-            "GR:99-2",
-            "c320801b-7d2f-493b-af29-4f37b83bb112"
+            "GR:99-2"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T08:17:00Z"
@@ -153074,7 +152937,6 @@
           ],
           "sourceIds": [
             "51501335-c294-4084-97d6-6ee4e8441c0d",
-            "52ec6f2a-79d8-4a2c-8088-d16caf2ddb00",
             "HR:otvoreni-radio"
           ],
           "lastCheckOk": true,
@@ -154353,7 +154215,6 @@
           ],
           "sourceIds": [
             "2752be59-6ab9-4437-86a5-42d84c858535",
-            "2e8e4cd5-7600-40a1-a2d4-ef687e9f9f2c",
             "HR:radio-megaton"
           ],
           "lastCheckOk": true,
@@ -157675,7 +157536,6 @@
           ],
           "sourceIds": [
             "6c9bcdf4-3ed3-48bd-84fd-31506035f551",
-            "74329c0a-b611-406f-a246-a342e0b98b04",
             "ID:bellasalam-87-6-fm-tasikmalaya"
           ],
           "lastCheckOk": true,
@@ -158191,7 +158051,6 @@
           ],
           "sourceIds": [
             "231336ef-6a7c-4b35-bd11-36164f6b16ab",
-            "4a81cd8d-4d78-4711-a351-5ccd5bd02d68",
             "ID:dengerin-musik-indonesia"
           ],
           "lastCheckOk": true,
@@ -158280,7 +158139,6 @@
           ],
           "sourceIds": [
             "5e9e974d-4768-463b-ad9d-19c6e48a9361",
-            "6d586733-f2d6-4a76-b96c-5f28f2e3ea1d",
             "ID:dna-fm-jepara"
           ],
           "lastCheckOk": true,
@@ -158602,8 +158460,7 @@
           ],
           "sourceIds": [
             "ID:galuh-media-streaming-cianjur-indonesia",
-            "b8e071ba-e538-40bf-8863-0f6d189214ad",
-            "cfb016db-c9cd-448d-9043-e6284789da17"
+            "b8e071ba-e538-40bf-8863-0f6d189214ad"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:39:35Z"
@@ -158803,8 +158660,7 @@
           ],
           "sourceIds": [
             "4f25ac5b-9688-4c72-9aa2-0ae61358909e",
-            "56b2ae3e-9b35-4a05-991f-460a5bd898f3",
-            "6d66e5e3-bd84-49a5-978d-6c19560dcd14"
+            "56b2ae3e-9b35-4a05-991f-460a5bd898f3"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:29:40Z"
@@ -158884,7 +158740,7 @@
         "pop"
       ],
       "homepage": "https://radiofm.novawap.com/",
-      "favicon": "https://liveonlineradio.net/wp-content/uploads/2013/12%20/gen-fm-1.Jpg",
+      "favicon": "https://liveonlineradio.net/wp-content/uploads/2013/12/gen-fm-1.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-27T21:50:27Z",
@@ -159973,8 +159829,7 @@
           ],
           "sourceIds": [
             "ID:kiara-4u",
-            "d088d180-ffe2-4de3-ac8d-5fcb07f09af3",
-            "d28a9fd2-f0f9-4839-bbad-c98eec2d1f66"
+            "d088d180-ffe2-4de3-ac8d-5fcb07f09af3"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:29:40Z"
@@ -160259,8 +160114,7 @@
           ],
           "sourceIds": [
             "ID:kradio-hss",
-            "de0fb880-c53c-4065-b2da-43da53bbeb4c",
-            "fbe3f55d-e2a4-4b8e-9a9d-43fbb92b95ee"
+            "de0fb880-c53c-4065-b2da-43da53bbeb4c"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:44:24Z"
@@ -162677,8 +162531,7 @@
           ],
           "sourceIds": [
             "54064684-9e8c-45ad-85b9-4dd90d8ee01c",
-            "ID:rri-voice-of-indonesia",
-            "a66636e2-6edb-443b-b5a0-9b9b400e73b2"
+            "ID:rri-voice-of-indonesia"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:10:47Z"
@@ -163618,8 +163471,7 @@
           ],
           "sourceIds": [
             "59862988-9172-4fc1-9322-69c2ba55187a",
-            "ID:wawa-radio-101-2",
-            "da361a92-fa6b-4855-8a31-0ce8434be791"
+            "ID:wawa-radio-101-2"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:56:06Z"
@@ -163792,8 +163644,7 @@
           ],
           "sourceIds": [
             "0ba01db3-4616-432b-bcc3-634547a4e857",
-            "IE:beat-102-103",
-            "b27fcc5a-2949-4df6-8d0a-d812f6f48063"
+            "IE:beat-102-103"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T08:30:39Z"
@@ -164423,8 +164274,7 @@
           ],
           "sourceIds": [
             "85038c56-31f9-455b-a4bd-e43a5264d51f",
-            "IE:mpb-radio-1",
-            "ccb67f6e-cb99-43b9-85b9-f328be2e310f"
+            "IE:mpb-radio-1"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:57:00Z"
@@ -168939,7 +168789,6 @@
           ],
           "sourceIds": [
             "3436ccf1-6abc-4719-ad5c-9d35f7e7fd2e",
-            "38767341-e305-4b48-9251-d833ba561dd9",
             "IT:music-star-franco-battiato"
           ],
           "lastCheckOk": true,
@@ -171150,8 +170999,7 @@
           ],
           "sourceIds": [
             "83dcfac4-b3c3-4731-afc1-a80dd271dffa",
-            "IT:radio-armisa",
-            "b1201e74-2979-44d8-866e-02f74347a8d0"
+            "IT:radio-armisa"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:49:32Z"
@@ -176505,8 +176353,7 @@
           ],
           "sourceIds": [
             "533035b4-6352-4775-b7e0-4e7657e47dce",
-            "IT:radio-legends",
-            "e15a2339-b82b-4d12-97bd-e637b3a5d7c7"
+            "IT:radio-legends"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:42:23Z"
@@ -180321,7 +180168,6 @@
           ],
           "sourceIds": [
             "1eb62d5d-da5e-4c18-b989-33874e52514c",
-            "1fe3e755-51ea-413c-98cf-0c68acb579dc",
             "IT:radio-station-one"
           ],
           "lastCheckOk": true,
@@ -182232,7 +182078,6 @@
           ],
           "sourceIds": [
             "04416a89-0149-4bbe-a38a-599314470063",
-            "2842bf39-a660-435b-ab48-a5a14a897223",
             "370437b8-878d-4efd-b4f5-17f060a49a6e"
           ],
           "lastCheckOk": true,
@@ -185734,8 +185579,7 @@
           ],
           "sourceIds": [
             "37d1f4fb-0812-432d-af30-e91ca28ae05c",
-            "JP:big-b-radio-jpop",
-            "ce46492b-3512-48e5-bf12-e992df4b4906"
+            "JP:big-b-radio-jpop"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:27:36Z"
@@ -185906,7 +185750,6 @@
           ],
           "sourceIds": [
             "200ca311-c613-4d51-9c84-7eac9631b2ae",
-            "51f0066d-6de7-40b5-83a0-f264727f30a4",
             "JP:j-rock-powerplay-asia-dream-radio"
           ],
           "lastCheckOk": true,
@@ -186998,7 +186841,6 @@
           ],
           "sourceIds": [
             "33abb82a-5f4f-4405-aa22-1a1005b63a1b",
-            "56963e07-ab34-4a52-9149-b4a6ee37fbe3",
             "KZ:darhan-radio"
           ],
           "lastCheckOk": true,
@@ -187048,7 +186890,6 @@
           ],
           "sourceIds": [
             "2866af84-c9ad-4c68-bb72-ea7b1f22d2e0",
-            "41a64f88-c639-4f5b-8dec-0543f94ceb1a",
             "KZ:pioner-fm"
           ],
           "lastCheckOk": true,
@@ -187994,7 +187835,7 @@
         "lithuanian music",
         "pop"
       ],
-      "homepage": "https://taktasfm.lt/",
+      "homepage": "https://taktasfm.lt/?lang=en",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -188964,8 +188805,7 @@
           ],
           "sourceIds": [
             "31d2f37d-facc-4a52-ac63-ceb1b0866abe",
-            "LV:njoyradio",
-            "ebe13afc-9ede-4596-a313-e8db4b2b0f16"
+            "LV:njoyradio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:26:06Z"
@@ -189375,7 +189215,6 @@
           ],
           "sourceIds": [
             "18b8f6c5-60c9-4944-9469-0ea7a3e2b858",
-            "9a22e57f-7b7c-4e10-84db-e9b46479a8d6",
             "LV:top-radio"
           ],
           "lastCheckOk": true,
@@ -194097,6 +193936,72 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:22:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_78311a62fd4f569bce6c",
+      "name": "+Wow (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+      "country": "MX",
+      "subdivision": "Mérida, Yucatán",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "américa",
+        "cadena rasa",
+        "entretenimiento",
+        "español",
+        "estación",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "mérida",
+        "méxico",
+        "música",
+        "música en inglés",
+        "música pop",
+        "norteamérica",
+        "online",
+        "online only",
+        "online radio",
+        "pop",
+        "pop en inglés",
+        "pop music",
+        "radio",
+        "radio online",
+        "sureste",
+        "wow",
+        "yucatán"
+      ],
+      "homepage": "https://cadenarasa.com/yucatan/merida/wow",
+      "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-06-06T02:21:20Z",
+      "streams": [
+        {
+          "id": "aws_19abfec72c5f5f5717c5",
+          "stationId": "awb_78311a62fd4f569bce6c",
+          "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+          "country": "MX",
+          "url": "https://stream.zeno.fm/jf0uuhbqekguv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
+            "55699759-b52e-418e-b6dd-606de2b362f6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:09:00Z"
         }
       ]
     },
@@ -230390,8 +230295,7 @@
           ],
           "sourceIds": [
             "38b9f61f-15b9-4081-898f-4e9d8efce4c7",
-            "c7aed219-a717-488b-8b20-ac28a6331273",
-            "cf78d0fe-8886-4dc4-94e4-8379523d5c21"
+            "c7aed219-a717-488b-8b20-ac28a6331273"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:20:12Z"
@@ -231580,7 +231484,6 @@
           ],
           "sourceIds": [
             "0b79e286-c5ae-4b9a-b570-272e227e6351",
-            "0e4b8d3a-606a-4a52-b7e8-a649084c67cd",
             "c5fd1de0-f842-4c6f-b7a9-c65f8560837e"
           ],
           "lastCheckOk": true,
@@ -247209,72 +247112,6 @@
       ]
     },
     {
-      "id": "awb_78311a62fd4f569bce6c",
-      "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-      "country": "MX",
-      "subdivision": "Mérida, Yucatán",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "américa",
-        "cadena rasa",
-        "entretenimiento",
-        "español",
-        "estación",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "mérida",
-        "méxico",
-        "música",
-        "música en inglés",
-        "música pop",
-        "norteamérica",
-        "online",
-        "online only",
-        "online radio",
-        "pop",
-        "pop en inglés",
-        "pop music",
-        "radio",
-        "radio online",
-        "sureste",
-        "wow",
-        "yucatán"
-      ],
-      "homepage": "https://cadenarasa.com/yucatan/merida/wow",
-      "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-06-06T02:21:20Z",
-      "streams": [
-        {
-          "id": "aws_19abfec72c5f5f5717c5",
-          "stationId": "awb_78311a62fd4f569bce6c",
-          "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-          "country": "MX",
-          "url": "https://stream.zeno.fm/jf0uuhbqekguv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
-            "55699759-b52e-418e-b6dd-606de2b362f6"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:09:00Z"
-        }
-      ]
-    },
-    {
       "id": "awb_945f9a3e1743a49ce27f",
       "name": "WOW 101.1 (Torreón) - 101.1 FM - XHDN-FM - GPS Media - Torreón, Coahuila",
       "country": "MX",
@@ -249119,8 +248956,7 @@
           ],
           "sourceIds": [
             "72514d03-46b6-44bb-9fa7-fda2c3b83180",
-            "NG:konga103-7fm",
-            "f835db87-94b4-4256-a893-b8194316df3f"
+            "NG:konga103-7fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:08:10Z"
@@ -249391,9 +249227,7 @@
           ],
           "sourceIds": [
             "NL:40up-radio",
-            "a95180b5-4e17-42fd-9ce8-bad85e7893fd",
-            "de833de7-884a-41d7-a7a7-834f64290313",
-            "f9586dfc-e8db-4b68-b455-bc407ae47a2e"
+            "a95180b5-4e17-42fd-9ce8-bad85e7893fd"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:26:34Z"
@@ -250490,8 +250324,7 @@
           ],
           "sourceIds": [
             "00dedc59-313d-4d57-85c8-51573ba32bfe",
-            "01ddfe9d-d97e-4165-bb67-b0f883e12ad5",
-            "6b79d860-77e9-4d65-856d-2185e02f6d2e"
+            "01ddfe9d-d97e-4165-bb67-b0f883e12ad5"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:00:52Z"
@@ -252009,7 +251842,6 @@
           ],
           "sourceIds": [
             "07eb6945-5023-461e-9064-234075472cff",
-            "6add27d4-5573-47b4-ae27-1d05834a9a4a",
             "NL:joe"
           ],
           "lastCheckOk": true,
@@ -252770,8 +252602,7 @@
           ],
           "sourceIds": [
             "NL:nixxfm",
-            "dea53371-b3a3-4a1e-a13c-8f5dadd5ec8f",
-            "e2e82c41-96fc-422f-a982-9523a0038201"
+            "dea53371-b3a3-4a1e-a13c-8f5dadd5ec8f"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:52:40Z"
@@ -253080,7 +252911,6 @@
           ],
           "sourceIds": [
             "5a19f8eb-a99d-45cc-8e39-a02c17f60650",
-            "765e18f8-abc3-452e-983a-842ec9e151fe",
             "f9a419f9-c0c3-49b2-8ed7-9785a052b59b"
           ],
           "lastCheckOk": true,
@@ -255213,8 +255043,7 @@
           ],
           "sourceIds": [
             "045ef289-a91e-4e77-a51d-38c34eec5c3a",
-            "NL:studio040",
-            "d3c011d3-8239-491f-bbf8-90f5032a1540"
+            "NL:studio040"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:45:24Z"
@@ -255537,7 +255366,6 @@
           ],
           "sourceIds": [
             "7385df09-8f0f-4426-bd38-310b32a2c053",
-            "83bc086e-f3d5-43df-8f80-55d95911d056",
             "NL:vibe-radio"
           ],
           "lastCheckOk": true,
@@ -255640,8 +255468,7 @@
           ],
           "sourceIds": [
             "1c39045f-c2e3-4faf-9c7f-d764bde5fe87",
-            "cbdc76a2-2dc5-4167-aad2-1650c5b31b4d",
-            "cce107dc-95a9-45bb-962d-995d274342dd"
+            "cbdc76a2-2dc5-4167-aad2-1650c5b31b4d"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:18:01Z"
@@ -255689,8 +255516,7 @@
           ],
           "sourceIds": [
             "42668dbe-ab86-47aa-85de-afc785660bb8",
-            "NL:world-music-radio-classic",
-            "fb70c8ab-d576-413a-9a31-dfbc7cc8a386"
+            "NL:world-music-radio-classic"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:15:43Z"
@@ -256440,7 +256266,6 @@
           ],
           "sourceIds": [
             "5e6bd2c0-b52a-4208-ad37-a305886c8c62",
-            "77257628-c51f-43ca-94b4-52f4ac0296db",
             "NO:radio-troms-hits"
           ],
           "lastCheckOk": true,
@@ -258931,10 +258756,7 @@
           ],
           "sourceIds": [
             "3e758e7e-63e2-4517-96d6-8dc95b691b42",
-            "5cef5eb4-8666-42a7-8ae2-22e96946bcbc",
-            "PE:z-rock-pop",
-            "a57621f1-f88c-4157-9d29-c3e88b8a8af8",
-            "a856a1dc-8d76-4e56-9116-8fbc385c4d13"
+            "PE:z-rock-pop"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:20:12Z"
@@ -259027,8 +258849,7 @@
           ],
           "sourceIds": [
             "5c5beb65-ef62-4730-ac64-b3b24e046620",
-            "PF:polynesie-1ere",
-            "ea360929-b30d-4c00-b7c4-a95e77e48eb7"
+            "PF:polynesie-1ere"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:12:28Z"
@@ -259930,7 +259751,7 @@
       "id": "awb_5989de5122b255078072",
       "name": "99.5 DZYW koolFM",
       "country": "PH",
-      "subdivision": "Quezon City",
+      "subdivision": "Metro Manila",
       "languages": [
         "en"
       ],
@@ -259967,11 +259788,7 @@
           ],
           "sourceIds": [
             "224de782-c5ef-48e2-a1d5-f4dacf9ba135",
-            "39659f0d-1fe0-481b-a861-de8d943acb60",
-            "78b513da-f7d8-4b6e-a1be-8892b2237f31",
-            "84cea319-9e18-4b7d-b0ab-d0311daf785f",
-            "b23d07e5-9d4f-4f84-8000-0ce3ead69349",
-            "d1dd6c65-a1b0-4b7f-93a2-89f007726d72"
+            "39659f0d-1fe0-481b-a861-de8d943acb60"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:02:50Z"
@@ -260055,8 +259872,7 @@
           ],
           "sourceIds": [
             "24aa9b14-9f26-4e49-b7c0-48a4917f472e",
-            "PH:bespren-radio",
-            "f9627c9c-5e8d-4876-ac14-9916b758df09"
+            "PH:bespren-radio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:56:46Z"
@@ -262504,8 +262320,7 @@
           ],
           "sourceIds": [
             "88f25822-8d53-455e-a709-da0bd62a47b9",
-            "PL:mega-radio",
-            "a7a9392d-f6a1-418a-aff3-58381fe9525f"
+            "PL:mega-radio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:27:49Z"
@@ -264292,7 +264107,6 @@
           ],
           "sourceIds": [
             "76efd4c4-b0f0-4cdf-b280-4e85bfd5945d",
-            "7c396e00-acce-4b86-bd88-a2e38689ce7b",
             "PL:radio-lublin"
           ],
           "lastCheckOk": true,
@@ -266090,8 +265904,7 @@
           ],
           "sourceIds": [
             "PL:radio-strefa-muzy",
-            "a7a6c35d-8fc3-4b80-9a03-01775f097f58",
-            "ca22cd5b-0bc6-4391-b723-418955f2d279"
+            "a7a6c35d-8fc3-4b80-9a03-01775f097f58"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T09:17:21Z"
@@ -266351,8 +266164,7 @@
           ],
           "sourceIds": [
             "8514d965-80ab-41a1-9c7f-b682891c9e23",
-            "8c486370-53c7-40ab-a611-8a591adecee1",
-            "a3cf1aec-5835-4bab-803a-5d0bd82d7c54"
+            "8c486370-53c7-40ab-a611-8a591adecee1"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:05:03Z"
@@ -267221,7 +267033,7 @@
       "id": "awb_ccafb97eb92dab888427",
       "name": "RMF MAXX",
       "country": "PL",
-      "subdivision": "Malopolskie",
+      "subdivision": "Małopolskie",
       "languages": [
         "pl"
       ],
@@ -267895,7 +267707,7 @@
       "homepage": null,
       "favicon": "https://trendyradio.pl/assets/images/logo.gif",
       "type": null,
-      "sourceCount": 3,
+      "sourceCount": 4,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -267914,52 +267726,10 @@
           ],
           "sourceIds": [
             "42a4e30b-da54-428f-bc6d-6df84f52910c",
-            "857bb58b-61a8-4192-8426-afaeb9bb2a23",
             "PL:trendy-radio-mobile"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:37:54Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_59da3732877854a634d4",
-      "name": "Trendy Radio Mobile",
-      "country": "PL",
-      "subdivision": null,
-      "languages": [
-        "pl"
-      ],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "pop"
-      ],
-      "homepage": null,
-      "favicon": "https://trendyradio.pl/assets/images/logo.gif",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-22T01:16:48Z",
-      "streams": [
-        {
-          "id": "aws_fc4996481e6f7cfed4fa",
-          "stationId": "awb_59da3732877854a634d4",
-          "name": "Trendy Radio Mobile",
-          "country": "PL",
-          "url": "https://stream.trendyradio.pl/m",
-          "codec": "ogg",
-          "bitrate": 96,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "91bfada2-22ee-40ac-a767-4a75ecd8f7d7"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T05:39:14Z"
         }
       ]
     },
@@ -268000,7 +267770,6 @@
           ],
           "sourceIds": [
             "65b03e42-ffb8-40f3-8d70-fa1be58b6928",
-            "65d9b254-f0ef-43f8-aaf0-93f1832b56fb",
             "PL:vibefm"
           ],
           "lastCheckOk": true,
@@ -269801,7 +269570,6 @@
           ],
           "sourceIds": [
             "25847e5e-2769-478a-9bb3-a9ae9b8a0a9e",
-            "56db1998-4d48-42b4-a424-bfcec290aeb3",
             "PT:radio-festival-madeira-98-4-fm"
           ],
           "lastCheckOk": true,
@@ -270315,7 +270083,7 @@
       "id": "awb_b50cb907af6bc5319d0e",
       "name": "Rádio Perlépia",
       "country": "PT",
-      "subdivision": null,
+      "subdivision": "Viseu",
       "languages": [
         "pt"
       ],
@@ -270325,13 +270093,15 @@
       ],
       "tags": [
         "children",
-        "pop"
+        "local",
+        "pop",
+        "viseu"
       ],
       "homepage": "https://radio.nitro-server.uk/public/rdioperlpia",
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-08-24",
+      "sourceCount": 3,
+      "updatedAt": "2026-09-27T20:10:01Z",
       "streams": [
         {
           "id": "aws_23bde3a68107ba39064a",
@@ -270349,10 +270119,10 @@
           ],
           "sourceIds": [
             "PT:radio-perlepia",
-            "e04a54c7-cb9b-4f7e-bb44-39846880904b"
+            "d5a57e7d-e035-4a5d-83ed-b02b0e67ec43"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:44:11Z"
+          "lastCheckedAt": "2026-10-12T15:06:11Z"
         }
       ]
     },
@@ -271916,8 +271686,7 @@
           ],
           "sourceIds": [
             "2b69e691-a6a0-48b4-ad1c-76413b9f8507",
-            "PY:radio-arasuncion",
-            "a1015afb-7399-47b7-8787-0a0dd5ce2c23"
+            "PY:radio-arasuncion"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:26:53Z"
@@ -272436,7 +272205,7 @@
           "codec": "aac",
           "bitrate": 33,
           "protocol": "http",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -273834,8 +273603,7 @@
           ],
           "sourceIds": [
             "841a24b5-45b0-4f1c-9f6b-31c4bfb64ce3",
-            "RO:ebs-music",
-            "cda8a4e5-28e6-4275-9efd-0c34ddfd2e84"
+            "RO:ebs-music"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:43:25Z"
@@ -277102,8 +276870,6 @@
           ],
           "sourceIds": [
             "349eb141-0bed-4fc9-a923-0076f0c8c0c0",
-            "aff54a6e-1d1c-43f7-a3cb-d29129ec84b7",
-            "cade6c07-5aef-46ce-bbe1-7684a6c8908e",
             "cd2ff65c-4efc-4074-a75a-fabdba74fbdb"
           ],
           "lastCheckOk": true,
@@ -280378,8 +280144,7 @@
           ],
           "sourceIds": [
             "RO:supersonic-radio",
-            "a923100c-8c7a-4323-83ed-52e0c93cb6c8",
-            "e4ed8cd5-aa8e-40ca-bc02-94a4c588f8a6"
+            "a923100c-8c7a-4323-83ed-52e0c93cb6c8"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:20:37Z"
@@ -282439,8 +282204,7 @@
           ],
           "sourceIds": [
             "4cb59d7c-e434-4619-9de9-6e15df12d09f",
-            "RS:radio-as-fm",
-            "af0f6503-1ed7-41ae-b008-75db8e144e70"
+            "RS:radio-as-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:16:48Z"
@@ -285064,8 +284828,7 @@
           ],
           "sourceIds": [
             "731ff19a-2c9c-4d35-af38-ef05e8b2b3cb",
-            "9622cd46-0601-11e8-ae97-52543be04c81",
-            "d12a9f51-f603-4e30-9707-3e5c657b7fca"
+            "9622cd46-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:52:43Z"
@@ -286496,9 +286259,7 @@
           ],
           "sourceIds": [
             "470106de-7105-11e9-af37-52543be04c81",
-            "b3fb507d-6f27-4ca5-8b54-4a2ca2e6db34",
-            "c9325eed-7726-4832-b37b-c7052601f563",
-            "f8e8db99-b527-407e-9890-4193aa7fe0dc"
+            "c9325eed-7726-4832-b37b-c7052601f563"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:01:15Z"
@@ -286996,10 +286757,7 @@
           ],
           "sourceIds": [
             "2f05efaf-bf54-482d-a410-f9cfb8484728",
-            "8c74f089-48fc-4752-8c5a-675efebe266c",
-            "a48e50cb-32c5-450a-bbe1-a92a4cfb7091",
-            "b78025cf-e68d-43f9-8e59-2a68ae84e7d7",
-            "d91bde3e-91b4-4712-a61a-f60dc7bb6150"
+            "a48e50cb-32c5-450a-bbe1-a92a4cfb7091"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:28:39Z"
@@ -288894,7 +288652,6 @@
           ],
           "sourceIds": [
             "02614f2f-994a-4bfa-a48e-52f94040390e",
-            "4e285d46-4491-4df0-a6d8-974b8b9a49f8",
             "RU:radio-record-russian-gold"
           ],
           "lastCheckOk": true,
@@ -298104,9 +297861,7 @@
           ],
           "sourceIds": [
             "960faade-0601-11e8-ae97-52543be04c81",
-            "9e3606c9-9cff-4626-92dd-e463f2c69968",
-            "ac5fd263-1410-462b-a967-5c01d1373815",
-            "b3064b6c-c847-4ff0-a6f3-44d28fd23a62"
+            "9e3606c9-9cff-4626-92dd-e463f2c69968"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:03:36Z"
@@ -298449,7 +298204,7 @@
       "id": "awb_37f285b28fb0471cffed",
       "name": "Русское Радио",
       "country": "RU",
-      "subdivision": null,
+      "subdivision": "Москва",
       "languages": [],
       "categories": [
         "pop"
@@ -298458,10 +298213,10 @@
         "misc",
         "pop"
       ],
-      "homepage": null,
+      "homepage": "https://rusradio.hostingradio.ru/rusradio96.aacp",
       "favicon": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
       "type": null,
-      "sourceCount": 3,
+      "sourceCount": 5,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -298486,7 +298241,7 @@
         {
           "id": "aws_7e3da34929076c80c869",
           "stationId": "awb_37f285b28fb0471cffed",
-          "name": "Русское Радио",
+          "name": "РУССКОЕ РАДИО",
           "country": "RU",
           "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
           "codec": "aac",
@@ -300746,8 +300501,7 @@
           ],
           "sourceIds": [
             "2e8eed71-d123-4572-a36b-0d19c36a26b1",
-            "SE:24-7-cotinuous-music",
-            "e05592ac-2bbd-431f-8c52-c7aced93a0d7"
+            "SE:24-7-cotinuous-music"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:37:36Z"
@@ -303465,8 +303219,7 @@
           ],
           "sourceIds": [
             "5d4051ee-246c-429f-9fa2-651d9f043659",
-            "SK:europa-2",
-            "cb61763d-d635-4983-82c1-4a6a1e8ad17b"
+            "SK:europa-2"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:15:48Z"
@@ -303512,9 +303265,7 @@
           ],
           "sourceIds": [
             "188a79f7-f612-43b9-8216-afc25d9ce2bd",
-            "2faf7516-b743-4c34-a949-0e10a5c5b76f",
-            "SK:fresh-radio",
-            "c32c44f8-5493-4c9b-a1dc-ec5dc59ba611"
+            "SK:fresh-radio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:06:58Z"
@@ -303642,7 +303393,6 @@
           ],
           "sourceIds": [
             "10ee764e-6213-488b-bc2b-5b6d973a5c06",
-            "8fb8daed-9737-4848-84ff-83998d24f993",
             "SK:hitradio-slovakia"
           ],
           "lastCheckOk": true,
@@ -303831,8 +303581,7 @@
           ],
           "sourceIds": [
             "24b5be31-68e8-4cb9-a5ce-4cefefeef98f",
-            "329577b0-b2ed-4191-bab7-a44dd1d790c0",
-            "ec91bee4-2482-4e7a-bdf0-05e02bcae6fb"
+            "329577b0-b2ed-4191-bab7-a44dd1d790c0"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:47:09Z"
@@ -304386,7 +304135,6 @@
           ],
           "sourceIds": [
             "7c46c1ce-376c-4b38-ab73-a43b9e2681e3",
-            "ed3d4fe9-bb9e-4d9d-9985-fa0bda0c08dd",
             "f6da7b70-916b-4c64-bf73-ddbb5a561734"
           ],
           "lastCheckOk": true,
@@ -306406,7 +306154,6 @@
           ],
           "sourceIds": [
             "30377852-8d25-4773-be20-5dc65ba6b4f2",
-            "455c485f-9d57-4b4a-a00d-c0d77347327c",
             "TR:max-fm-95-8-maximum-music"
           ],
           "lastCheckOk": true,
@@ -306601,13 +306348,7 @@
           ],
           "sourceIds": [
             "0319bd18-73e3-4cfc-bc0b-f4f82ca9b1ca",
-            "0a2c0043-02b4-422f-8238-deb715f47779",
-            "17a2edeb-d1c4-4163-bfed-4554456832c9",
-            "5f0b487c-cc58-4bc0-95da-ac8804390618",
-            "61b83023-f93c-49d5-b463-350b4511cd89",
-            "79c77adc-ca1a-49f3-925c-c8bdef55194b",
-            "ab3f51c9-7ceb-45db-b48c-12e22515d086",
-            "fb1fd397-78fd-11ea-8a3b-52543be04c81"
+            "61b83023-f93c-49d5-b463-350b4511cd89"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:44:28Z"
@@ -307808,9 +307549,7 @@
           ],
           "sourceIds": [
             "706def0c-7017-4601-8305-db1cdb2e9420",
-            "TR:super-fm",
-            "a413a04d-46b8-4a67-9690-a042fb95fb3d",
-            "d3279cf6-5703-4990-a693-eed1b34cc81d"
+            "TR:super-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:54:47Z"
@@ -309385,8 +309124,7 @@
           ],
           "sourceIds": [
             "192405d7-e683-418d-8bcc-07c4cc8e9aa1",
-            "UA:tim-fm-chernihiv",
-            "e20c1c8b-7e5a-4112-a9ca-502bae53792a"
+            "UA:tim-fm-chernihiv"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:41:33Z"
@@ -310181,9 +309919,7 @@
           ],
           "sourceIds": [
             "2354188e-32a3-4fe8-8219-cb537c92eaf9",
-            "43d6ed69-bb53-44ab-bc5d-919c238e7708",
-            "47e055f1-d6be-4e67-b2b3-22d318e4a245",
-            "d0da17ac-8dac-42c3-a0fa-017bbd91311b"
+            "47e055f1-d6be-4e67-b2b3-22d318e4a245"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:52:43Z"
@@ -310243,7 +309979,6 @@
           ],
           "sourceIds": [
             "1c818d0a-31a3-432f-900c-1ed958838d21",
-            "804ed08f-71b9-4a7d-900d-40994584b1b1",
             "UA:hd"
           ],
           "lastCheckOk": true,
@@ -311272,8 +311007,7 @@
           ],
           "sourceIds": [
             "38bbd5f5-49e6-4472-9148-d26087c282cb",
-            "d9dc9bd1-9625-4578-a504-ea6bf484c048",
-            "fb65132c-1194-4ef4-91b7-09d9f55a8cc5"
+            "d9dc9bd1-9625-4578-a504-ea6bf484c048"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:28:24Z"
@@ -312829,8 +312563,7 @@
           ],
           "sourceIds": [
             "US:102-7-kiis-fm",
-            "c76686ca-a8b9-4db9-9839-1470c9599623",
-            "ffa61df7-f408-48a5-b4fb-ca07e8ec3c1a"
+            "c76686ca-a8b9-4db9-9839-1470c9599623"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:10:34Z"
@@ -314083,9 +313816,9 @@
     },
     {
       "id": "awb_55d09ea1a556d2936616",
-      "name": "2020 The Beacon -- Shining A Light On You",
+      "name": "2020 The Beacon -- Shining A light on you",
       "country": "US",
-      "subdivision": "Colorado",
+      "subdivision": "col",
       "languages": [
         "en"
       ],
@@ -321502,8 +321235,7 @@
           ],
           "sourceIds": [
             "0fab2a15-1e79-4e79-8b5a-dc3fde073093",
-            "9688e8bd-005b-4820-9568-cad1a7ea335f",
-            "9c079867-db7a-4149-af99-22f7cf6b843e"
+            "9688e8bd-005b-4820-9568-cad1a7ea335f"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:50:27Z"
@@ -326141,8 +325873,7 @@
           ],
           "sourceIds": [
             "1460042c-4f10-49f5-96a1-add6b66aa97c",
-            "UY:fm-hit-90-3-uruguay",
-            "c1fcf486-32a4-483d-b320-b18e8f0a93ce"
+            "UY:fm-hit-90-3-uruguay"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T08:01:26Z"

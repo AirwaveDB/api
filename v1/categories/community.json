@@ -1,6 +1,6 @@
 {
   "id": "community",
-  "stationCount": 890,
+  "stationCount": 889,
   "stations": [
     {
       "id": "awb_264633f48847fb757bbd",
@@ -994,12 +994,7 @@
           ],
           "sourceIds": [
             "6e2f0bbc-478e-496d-96ae-cf3bb7519302",
-            "8670730e-b548-4a37-a1f7-9b3b08230c79",
-            "95d67d43-7094-46d7-9b70-86b0ec11b1f7",
-            "a3bf209a-6d94-4204-9258-37cff93cb234",
-            "e536ad8a-3f2a-407e-95ff-26732b47df22",
-            "f615635d-da20-44d8-b351-20e855593498",
-            "fe48a1f1-30e4-4991-b677-37cae87f07fe"
+            "95d67d43-7094-46d7-9b70-86b0ec11b1f7"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:22:56Z"
@@ -1043,11 +1038,6 @@
           ],
           "sourceIds": [
             "0098443b-370c-4cec-8743-cb58f9b70a0d",
-            "0ef65c6a-bc2f-4191-8557-34d91902de55",
-            "289086bd-f04b-42f5-a660-e8a1dab888d4",
-            "29d0cb6f-5d96-46ff-891b-529674653198",
-            "3b756d80-3d2b-4330-9c28-e641e201394c",
-            "57300ec2-7dad-46e7-aab6-46a271156292",
             "c48c01a3-394a-413f-b612-8389d5a87559"
           ],
           "lastCheckOk": true,
@@ -1865,7 +1855,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "http",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -4804,7 +4794,6 @@
           ],
           "sourceIds": [
             "7ca5d959-37f3-42a6-837c-ac779208be15",
-            "a4dea563-28ea-4981-ba5d-1d97d6b3e940",
             "cdbe0a98-ed37-4cc3-9ae3-81fce91ddca3"
           ],
           "lastCheckOk": true,
@@ -4847,7 +4836,6 @@
           ],
           "sourceIds": [
             "5e775fc6-6ade-4cc7-942f-dc9129b60515",
-            "ae7143ff-9575-4733-a0a5-6d6c7069e764",
             "ee2ae716-5f15-4890-b687-fee4d2727df3"
           ],
           "lastCheckOk": true,
@@ -8801,8 +8789,8 @@
           "name": "PBA-FM",
           "country": "AU",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/5PBAAAC.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -8812,7 +8800,7 @@
             "5da9e61c-add8-47d5-b648-3f4420fc4b60"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -10630,9 +10618,7 @@
           ],
           "sourceIds": [
             "31c8fa88-bb15-11e9-acb2-52543be04c81",
-            "3cae3864-217f-4032-b3dc-61b0b33741f1",
-            "AU:rtrfm",
-            "fc926951-0a2f-4a6c-9cb0-2a051640b053"
+            "AU:rtrfm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:25:52Z"
@@ -12621,10 +12607,7 @@
           ],
           "sourceIds": [
             "3d7c2b4e-cd40-4615-a9b2-ab373daa5198",
-            "400d8827-6c46-4076-b175-e445fce9db10",
-            "6157234d-049f-47fa-be8f-41bc81e746fc",
-            "6b066e5a-6588-4f86-a806-ac6703d52fdd",
-            "f3fd3888-d36f-463c-9a62-687f3c51d149"
+            "6157234d-049f-47fa-be8f-41bc81e746fc"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:30:42Z"
@@ -12667,9 +12650,7 @@
           ],
           "sourceIds": [
             "0f8e48ef-48dc-4f6a-889b-aad2af1c8566",
-            "1e0a2c25-259b-4895-958f-6fde4a27edb4",
-            "5e206f9c-35ab-490e-a626-7a2c040c20d7",
-            "945cb993-d8ad-4584-bbbe-bfaf3ef65ec0"
+            "5e206f9c-35ab-490e-a626-7a2c040c20d7"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:30:53Z"
@@ -14333,7 +14314,7 @@
     },
     {
       "id": "awb_cf43b81c65d37d9dc650",
-      "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+      "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
       "country": "CA",
       "subdivision": "Quebec",
       "languages": [
@@ -14351,7 +14332,7 @@
         "talk",
         "trad"
       ],
-      "homepage": "http://www.cfnj.net/",
+      "homepage": "http://cfnj.net/",
       "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
       "type": "community",
       "sourceCount": 2,
@@ -18860,8 +18841,7 @@
           ],
           "sourceIds": [
             "376610fe-f91e-4b9e-b0ed-0350afe57dbc",
-            "8ca379b8-85ce-4e76-af2f-319b41a527ad",
-            "ce3326ed-1775-4780-ae83-9b0dd81c978e"
+            "8ca379b8-85ce-4e76-af2f-319b41a527ad"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:39:49Z"
@@ -21435,8 +21415,7 @@
           ],
           "sourceIds": [
             "62f09fc0-a46c-4843-bbf5-767773403e83",
-            "8b8f077a-1b6c-4480-a6f5-a866214cddce",
-            "fff5284d-ffcb-4e98-889d-939021e20fe0"
+            "8b8f077a-1b6c-4480-a6f5-a866214cddce"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:56:11Z"
@@ -22380,7 +22359,6 @@
           ],
           "sourceIds": [
             "6b196a52-1468-48fe-948b-476fe90b6f54",
-            "b4ec1804-02cc-40fd-95f9-31ebb4c53d2b",
             "de5ea11d-189d-4717-95a4-d0efa15cfe6c"
           ],
           "lastCheckOk": true,
@@ -26473,8 +26451,7 @@
           ],
           "sourceIds": [
             "e6966fa8-8fa6-49fc-bc37-0de3763ba6ad",
-            "e81caf1f-5049-48ad-99b7-b5ebdd03d3f3",
-            "f040eba8-1cef-45e7-a20d-8134bb5ea7e8"
+            "e81caf1f-5049-48ad-99b7-b5ebdd03d3f3"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:30:19Z"
@@ -32492,12 +32469,7 @@
           ],
           "sourceIds": [
             "3418b0e0-026d-4b2a-8a12-bf8d9de56165",
-            "41d9f9ac-ff15-4f08-929c-32f3d9270394",
-            "8729ad8c-9842-4737-a1fb-3823b92c2610",
-            "a97a1351-d151-4689-ade3-bbdb918d256b",
-            "ce26d234-1413-4a97-8f7d-5a476bacf104",
-            "d14b4b92-7c34-49c6-8b65-2da15bc51346",
-            "d2bd2aa6-5fef-4a78-b664-49626f79be98"
+            "a97a1351-d151-4689-ade3-bbdb918d256b"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
@@ -33077,6 +33049,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:49:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5db71dc57861ca4b8890",
+      "name": "Hey Decatur",
+      "country": "US",
+      "subdivision": "Georgia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "adult contemporary",
+        "atlanta",
+        "community",
+        "decatur",
+        "local news",
+        "r&b",
+        "variety"
+      ],
+      "homepage": "https://heydecatur.com/",
+      "favicon": "https://heydecatur.com/img/art/night.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T01:30:40Z",
+      "streams": [
+        {
+          "id": "aws_ef3d8d7dc3f2049ad35e",
+          "stationId": "awb_5db71dc57861ca4b8890",
+          "name": "Hey Decatur",
+          "country": "US",
+          "url": "https://studiob.loovacast.com/listen/hey_decatur/radio.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "773e3997-d6f1-4263-bdd9-18dd5c72b7ae"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -34752,50 +34771,6 @@
       ]
     },
     {
-      "id": "awb_5f3e949d33cce056f288",
-      "name": "KOCF 92.7 - \"Fern Ridge Community Radio\" - Veneta, Oregon",
-      "country": "US",
-      "subdivision": "Oregon",
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "community",
-        "jazz"
-      ],
-      "tags": [
-        "community radio",
-        "jazz",
-        "variety"
-      ],
-      "homepage": "https://www.kocf.org/",
-      "favicon": "https://www.kocf.org/wp-content/uploads/2024/04/KOCF_Logo.png",
-      "type": "community",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-13T01:50:58Z",
-      "streams": [
-        {
-          "id": "aws_84ba6ecd67f9237b5919",
-          "stationId": "awb_5f3e949d33cce056f288",
-          "name": "KOCF 92.7 - \"Fern Ridge Community Radio\" - Veneta, Oregon",
-          "country": "US",
-          "url": "https://stream.pacificaservice.org:9000/kocf",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "a48a44e8-1db0-4da8-8888-f7bfb6397a2d"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
       "id": "awb_8bfc78eeb9551f81ecba",
       "name": "KOOP",
       "country": "US",
@@ -35086,7 +35061,6 @@
           ],
           "sourceIds": [
             "5d8f9a32-fc4f-4ebd-9278-0fe7487ec766",
-            "66799bff-79f4-4f09-9ae7-d3e0cbb3c375",
             "6c7a4ef9-af2f-4cce-8c56-57ad9dcf68f4"
           ],
           "lastCheckOk": true,
@@ -36260,8 +36234,8 @@
           "name": "KUPO 105.5 - Port Orford, Oregon",
           "country": "US",
           "url": "https://s2.stationplaylist.com:7070/listen.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -36271,7 +36245,7 @@
             "0254dd2d-91ef-407e-ba52-8c6cab8c39b2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -38764,8 +38738,8 @@
           "name": "WMDA 93.5 - The Memphis Clarion - Memphis, Tennessee",
           "country": "US",
           "url": "http://www.radioking.com/play/the-memphis-clarion",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -38775,7 +38749,7 @@
             "7eee0d0c-b7dd-4174-a5c9-008d5e867652"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -39966,50 +39940,6 @@
       ]
     },
     {
-      "id": "awb_4e66d724f8c4d211e430",
-      "name": "WVVX 100.1 - Providence, Rhode Island - Providence Community Radio",
-      "country": "US",
-      "subdivision": "Rhode Island",
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "community",
-        "jazz"
-      ],
-      "tags": [
-        "community radio",
-        "jazz",
-        "music variety"
-      ],
-      "homepage": "https://www.procomrad.org/",
-      "favicon": "https://64.media.tumblr.com/b1711b2324de779073a1c9f67b6d5d89/25a9e8e0c8fbfae2-e4/s128x128u_c1/1683aa250d9af8a1c2922c41dbfbd58a2eb8c24e.pnj",
-      "type": "community",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-13T02:46:39Z",
-      "streams": [
-        {
-          "id": "aws_81aff41aa738601cd231",
-          "stationId": "awb_4e66d724f8c4d211e430",
-          "name": "WVVX 100.1 - Providence, Rhode Island - Providence Community Radio",
-          "country": "US",
-          "url": "http://stream.procomrad.org/public/wvvx.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "9d66fe44-e98c-4cae-bd2c-6399ea77de23"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
       "id": "awb_dd4292649adeda22a942",
       "name": "WWUC - Mix 96.7 - Union City, Pennsylvania",
       "country": "US",
@@ -40036,8 +39966,8 @@
           "name": "WWUC - Mix 96.7 - Union City, Pennsylvania",
           "country": "US",
           "url": "https://ice.ucfsc.org/livemount",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -40047,7 +39977,7 @@
             "736d6add-9c0d-45c0-a5b0-5fa1a04a1d56"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -40279,8 +40209,7 @@
           ],
           "sourceIds": [
             "83e1cdad-e0af-4913-ad6f-13966ffe9c91",
-            "99d637fe-994b-42d4-b7dd-c32fd2e7fc70",
-            "9f6ee4bb-dc9e-4582-8c39-0300a878416b"
+            "99d637fe-994b-42d4-b7dd-c32fd2e7fc70"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:23:26Z"
@@ -40447,8 +40376,7 @@
           ],
           "sourceIds": [
             "7fbe2af9-f23b-46a3-9e9d-579aed3aef5e",
-            "98aa93a7-af33-4af9-a5ee-cb8d44069980",
-            "a9cb886b-5411-42b7-baea-b1728bf1957c"
+            "98aa93a7-af33-4af9-a5ee-cb8d44069980"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:22:56Z"

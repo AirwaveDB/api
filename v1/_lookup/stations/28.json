@@ -1496,7 +1496,6 @@
         ],
         "sourceIds": [
           "4cde8f3b-17fc-4802-ba40-e8feae5395a1",
-          "9ba6be84-7690-4fbe-8d35-7a455628ec42",
           "CH:neo1"
         ],
         "lastCheckOk": true,
@@ -2569,16 +2568,20 @@
   },
   "awb_285493f799f056bdd0f0": {
     "id": "awb_285493f799f056bdd0f0",
-    "name": "Radio Bob Grunge",
+    "name": "RADIO BOB Grunge",
     "country": "DE",
     "subdivision": "Schleswig-Holstein",
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:08Z",
     "streams": [
       {
@@ -2599,6 +2602,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T05:31:59Z"
+      },
+      {
+        "id": "aws_a6d46f1ab349251860e1",
+        "stationId": "awb_285493f799f056bdd0f0",
+        "name": "RADIO BOB Grunge",
+        "country": "DE",
+        "url": "https://streams.radiobob.de/bob-grunge/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671670293&cb=146032260&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%2C%22tcn2pw7tc%22%2C%22trfvrpkpq%22%2C%22uo5ss1kr5%22%2C%22upxsvbudn%22%2C%22uphudti45%22%2C%22ual9zjoqj%22%2C%22uuslgimlz%22%2C%22ual6nqoj8%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "277c4cce-62db-4152-837c-fb19811167b8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T07:33:01Z"
       }
     ]
   },
@@ -3383,7 +3405,6 @@
         ],
         "sourceIds": [
           "1742f2e9-ae7e-4197-8acb-969b0775b2dd",
-          "9e219cbd-9bd0-4950-997d-f17bd8fbe793",
           "FR:radio-metal"
         ],
         "lastCheckOk": true,
@@ -4106,8 +4127,6 @@
         ],
         "sourceIds": [
           "595e04c5-ac06-4ee0-95c7-c66ec151e807",
-          "6615d1b0-b782-4c2f-a8cf-e813490b9e54",
-          "7d390034-928b-4c7b-a5cb-966471ea12da",
           "ddb576eb-449b-481b-9939-b676bbdfce84"
         ],
         "lastCheckOk": true,
@@ -5680,8 +5699,7 @@
         ],
         "sourceIds": [
           "59857b36-3071-4dc9-8a36-d426999cbd0c",
-          "NL:alswin-ambient-music",
-          "d765d8ca-992f-4d59-946a-0877c12f0f28"
+          "NL:alswin-ambient-music"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T11:26:12Z"
@@ -6529,8 +6547,7 @@
         ],
         "sourceIds": [
           "4cb59d7c-e434-4619-9de9-6e15df12d09f",
-          "RS:radio-as-fm",
-          "af0f6503-1ed7-41ae-b008-75db8e144e70"
+          "RS:radio-as-fm"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:16:48Z"
@@ -6857,12 +6874,7 @@
         ],
         "sourceIds": [
           "3418b0e0-026d-4b2a-8a12-bf8d9de56165",
-          "41d9f9ac-ff15-4f08-929c-32f3d9270394",
-          "8729ad8c-9842-4737-a1fb-3823b92c2610",
-          "a97a1351-d151-4689-ade3-bbdb918d256b",
-          "ce26d234-1413-4a97-8f7d-5a476bacf104",
-          "d14b4b92-7c34-49c6-8b65-2da15bc51346",
-          "d2bd2aa6-5fef-4a78-b664-49626f79be98"
+          "a97a1351-d151-4689-ade3-bbdb918d256b"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:15:37Z"

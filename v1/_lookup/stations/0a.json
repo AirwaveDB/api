@@ -1547,8 +1547,8 @@
         "name": "La Carrangoza 90.6 FM",
         "country": "CO",
         "url": "https://lacarrangozafm.com/escuchar",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -1558,7 +1558,7 @@
           "acf5ec8a-5d50-4a77-8cbc-d29b726dad21"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },
@@ -3153,15 +3153,7 @@
         ],
         "sourceIds": [
           "2decba6a-5a6f-4908-9854-6f64dde03b0e",
-          "3026c7a0-ecf9-4108-b149-ba2b0423bdf9",
-          "3af331a7-3fb5-4055-9a16-dd347a2f57ee",
-          "471c34a6-48ca-44cd-8aa2-2aa31dde3390",
-          "4831b509-1925-4c21-9457-84f6f5a0032b",
-          "6fd35d59-0c5b-4cba-aac6-d943872a5644",
-          "9240b9fd-5a96-4aba-9404-01af5fb7ac0e",
-          "d65cde57-c93c-4ae9-bac8-7cfc895601f7",
-          "dfcb0b9b-824b-4634-bfb9-2a79902f8a78",
-          "fd24da45-a85b-49e2-b8da-56ea1dfee39b"
+          "3af331a7-3fb5-4055-9a16-dd347a2f57ee"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T22:05:53Z"
@@ -5881,45 +5873,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:46:09Z"
-      }
-    ]
-  },
-  "awb_0a9e8279db1be7984373": {
-    "id": "awb_0a9e8279db1be7984373",
-    "name": "Radio sputnik",
-    "country": "NL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "electronic"
-    ],
-    "tags": [
-      "electronic"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z",
-    "streams": [
-      {
-        "id": "aws_c5dbd4ce68aa72e0ecfe",
-        "stationId": "awb_0a9e8279db1be7984373",
-        "name": "Radio sputnik",
-        "country": "NL",
-        "url": "http://radiosputnik.nl:8002/flac",
-        "codec": "ogg",
-        "bitrate": 0,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "081bfc58-342c-4cb5-894c-3c4cb0ae850a"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T23:41:56Z"
       }
     ]
   },
@@ -8729,6 +8682,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T06:33:21Z"
+      }
+    ]
+  },
+  "awb_0a35dbb2a75eb3186ee1": {
+    "id": "awb_0a35dbb2a75eb3186ee1",
+    "name": "Radio 2000",
+    "country": "VE",
+    "subdivision": "Sucre",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "programacion variada"
+    ],
+    "homepage": "https://radio2000.com.ve/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T23:51:28Z",
+    "streams": [
+      {
+        "id": "aws_db8b9137f43828d70e42",
+        "stationId": "awb_0a35dbb2a75eb3186ee1",
+        "name": "Radio 2000",
+        "country": "VE",
+        "url": "https://streaming.panelautomatizado.com/listen/adclic/radio2000.mp3?refresh=1791934738679",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "86e2057d-bda4-4ed0-8e8f-1e520cc04709"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

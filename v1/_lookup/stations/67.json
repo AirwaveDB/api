@@ -292,8 +292,7 @@
         ],
         "sourceIds": [
           "46441e95-bc58-46c2-b094-49abf929a24c",
-          "AR:el-destape-radio",
-          "d76b99ea-c4bf-47e5-8a42-e336ee48c031"
+          "AR:el-destape-radio"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:22:33Z"
@@ -1616,9 +1615,9 @@
   },
   "awb_67b575dc9dedd10323f3": {
     "id": "awb_67b575dc9dedd10323f3",
-    "name": "Radio Alesia",
+    "name": "Radio ALESIA",
     "country": "BY",
-    "subdivision": "belarus",
+    "subdivision": "Belarus",
     "languages": [
       "be",
       "pl",
@@ -4112,7 +4111,6 @@
         ],
         "sourceIds": [
           "4a382d48-2c06-4151-8eb4-080f6d284045",
-          "590d7147-9a0a-4a75-8788-5308c84d30c7",
           "b317a787-4772-413e-9295-d15320cb7446"
         ],
         "lastCheckOk": true,
@@ -6784,8 +6782,7 @@
         ],
         "sourceIds": [
           "99f52282-6f5c-49b9-a8de-831658ee37b7",
-          "SV:radio-el-camino",
-          "bdbefe7d-67fb-4841-a4a2-f97ae9df3123"
+          "SV:radio-el-camino"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:59:17Z"
@@ -7022,48 +7019,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:58:53Z"
-      }
-    ]
-  },
-  "awb_675c3102d34abcd49006": {
-    "id": "awb_675c3102d34abcd49006",
-    "name": "True Black Metal Radio",
-    "country": "UA",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "metal"
-    ],
-    "tags": [
-      "black metal",
-      "metal"
-    ],
-    "homepage": "http://trueblackmetalradio.com/#/home",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:38:30Z",
-    "streams": [
-      {
-        "id": "aws_c107ee6fbb4c43708d04",
-        "stationId": "awb_675c3102d34abcd49006",
-        "name": "True Black Metal Radio",
-        "country": "UA",
-        "url": "http://trueblackmetalradio.com:666/radio",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "47278da2-b2c1-4f1b-90ac-e8ffb4918cfb"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T00:05:57Z"
       }
     ]
   },
@@ -7343,6 +7298,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T09:15:06Z"
+      }
+    ]
+  },
+  "awb_67a23ed876c612d14ba0": {
+    "id": "awb_67a23ed876c612d14ba0",
+    "name": "KCNP 89.5 - Chickasaw Nation Radio - Ada, Oklahoma",
+    "country": "US",
+    "subdivision": "Oklahoma",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic hits",
+      "classic rock",
+      "native american"
+    ],
+    "homepage": "https://kcnp.org/",
+    "favicon": "https://kcnp.org/getmedia/bbae23dc-83de-41cb-98fc-4508f442698f/newLogoNoText.aspx",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T12:04:32Z",
+    "streams": [
+      {
+        "id": "aws_0783fd7041fbb73c93dd",
+        "stationId": "awb_67a23ed876c612d14ba0",
+        "name": "KCNP 89.5 - Chickasaw Nation Radio - Ada, Oklahoma",
+        "country": "US",
+        "url": "http://kcnp.streamon.fm:8000/KCNP-24k.aac?starttime=1791929081",
+        "codec": "aac",
+        "bitrate": 96,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a8d64533-60f3-43da-8c78-1927385084af"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

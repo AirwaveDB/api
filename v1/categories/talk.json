@@ -1,6 +1,6 @@
 {
   "id": "talk",
-  "stationCount": 1556,
+  "stationCount": 1559,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -1479,9 +1479,7 @@
           ],
           "sourceIds": [
             "6a66aa84-57f2-4904-a737-af1521597f16",
-            "AU:104-1-territory-fm-darwin-104-1-fm-mp3",
-            "a0b53465-58bb-4d63-a08a-f15cec9a63f5",
-            "cd338b1a-2400-4768-a5fa-115b4aff6d2c"
+            "AU:104-1-territory-fm-darwin-104-1-fm-mp3"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:02:39Z"
@@ -8194,9 +8192,7 @@
           ],
           "sourceIds": [
             "3a016286-5baa-4e42-acd1-dbdf3425f1a2",
-            "88479a84-19f8-4d4b-843b-9aec01a5ec4a",
-            "960ef35c-0601-11e8-ae97-52543be04c81",
-            "cdda243e-f714-4965-b48b-9afbfe62874a"
+            "960ef35c-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:04:43Z"
@@ -8682,6 +8678,184 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:27:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ceac03347026f81dacb7",
+      "name": "��� � ����� �����",
+      "country": "BG",
+      "subdivision": "Vidin",
+      "languages": [
+        "bg"
+      ],
+      "categories": [
+        "news",
+        "talk",
+        "public"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "talk"
+      ],
+      "homepage": "https://bnrnews.bg/vidin",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 8,
+      "updatedAt": "2026-09-27T08:28:16Z",
+      "streams": [
+        {
+          "id": "aws_21294edd7d8fc640b672",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �����",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f675794-db36-455c-9976-ad332e529071"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:46:14Z"
+        },
+        {
+          "id": "aws_1c477b34fa1e5979f2de",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �����",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb0ec624-7e9a-4a2a-bed0-e744ac2c4c25"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:23:56Z"
+        },
+        {
+          "id": "aws_18f68173373dd7db117b",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �����",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Vidin.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "31b00ae5-cb3f-4b05-855d-5034f0af5af2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:37:12Z"
+        },
+        {
+          "id": "aws_d265f68ada343550bcee",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� ������",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Burgas.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "27162a0c-5171-43d0-b13e-dde5b123cb38"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:10:47Z"
+        },
+        {
+          "id": "aws_3a1b81ffee843b5ea0a1",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �������",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "eebf99ef-f8a9-48cf-8772-4c28f4fdd22a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:43:52Z"
+        },
+        {
+          "id": "aws_55b43d00f155cf46f26f",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� ��������",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "08a488cf-9301-4ab4-9161-35d757d28e09"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:15:11Z"
+        },
+        {
+          "id": "aws_73c08221f2c66f032878",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �����������",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Blagoevgrad.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "06c0897c-572b-46a4-b227-b66f2fb11cfa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:12:29Z"
+        },
+        {
+          "id": "aws_a3b683dc333cc541f4ee",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� ��������",
+          "country": "BG",
+          "url": "https://play.global.audio/testbhi.aac",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4c0b539e-a32c-4e0c-b56a-de79254626b6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:53:34Z"
         }
       ]
     },
@@ -9979,7 +10153,7 @@
     },
     {
       "id": "awb_cf43b81c65d37d9dc650",
-      "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+      "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
       "country": "CA",
       "subdivision": "Quebec",
       "languages": [
@@ -9997,7 +10171,7 @@
         "talk",
         "trad"
       ],
-      "homepage": "http://www.cfnj.net/",
+      "homepage": "http://cfnj.net/",
       "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
       "type": "community",
       "sourceCount": 2,
@@ -10164,7 +10338,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -11170,7 +11344,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -12635,8 +12809,7 @@
           ],
           "sourceIds": [
             "98014013-e76f-4156-aaf8-d994a6134039",
-            "CL:radio-edelweiss",
-            "c814bc71-e223-42ba-a3e7-b0aece90d6c2"
+            "CL:radio-edelweiss"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:07:32Z"
@@ -15295,6 +15468,52 @@
       ]
     },
     {
+      "id": "awb_dd58b57e08a5b36ce156",
+      "name": "Andreas’ Nacht – Hörbücher zum Einschlafen",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "audiobook",
+        "einschlafen",
+        "hörbuch",
+        "märchen",
+        "sleep",
+        "spoken word"
+      ],
+      "homepage": "https://andreasnacht.de/radio/",
+      "favicon": "https://andreasnacht.de/assets/img/monogramm-240.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T12:53:23Z",
+      "streams": [
+        {
+          "id": "aws_d6b15417e1b135f9bd00",
+          "stationId": "awb_dd58b57e08a5b36ce156",
+          "name": "Andreas’ Nacht – Hörbücher zum Einschlafen",
+          "country": "DE",
+          "url": "https://andreasnacht.de/radio/stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f676fb0-3870-4494-8ef2-8ea05ae97300"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_eb6da282efb299af5bf4",
       "name": "B5 aktuell",
       "country": "DE",
@@ -15750,7 +15969,7 @@
         "youth"
       ],
       "homepage": "https://n-joy.de/",
-      "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Njoy-logo.svg/512px-Njoy-logo.svg.png",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-01-15T08:34:02Z",
@@ -17308,7 +17527,6 @@
           ],
           "sourceIds": [
             "3116a515-835a-41ff-9e6d-b9f2272ad876",
-            "3d4c97c7-e122-4304-b8c8-52336683bda1",
             "eb1bdcef-b4e1-4dee-8d53-67605db73b3f"
           ],
           "lastCheckOk": true,
@@ -19758,7 +19976,7 @@
           "codec": "aac",
           "bitrate": 128,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -20158,7 +20376,6 @@
           ],
           "sourceIds": [
             "35b92fe1-ee81-46a6-bceb-1271b3fc22d3",
-            "8ab655f2-d710-4e66-a430-2dcd0187383e",
             "ES:radio-filispim"
           ],
           "lastCheckOk": true,
@@ -20698,8 +20915,7 @@
           ],
           "sourceIds": [
             "13811715-e6ba-4212-a37c-4223137824e7",
-            "ES:radios-libres",
-            "e4e286c7-7fc8-46d1-911f-aa6e584111f5"
+            "ES:radios-libres"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:36:47Z"
@@ -21088,8 +21304,7 @@
           ],
           "sourceIds": [
             "FI:jarviradio-puhe",
-            "c064ffac-4d14-431b-8cac-40572e49466e",
-            "d6684d02-578f-43f9-95c8-61b837bb2caf"
+            "c064ffac-4d14-431b-8cac-40572e49466e"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
@@ -21343,7 +21558,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -21667,9 +21882,7 @@
           ],
           "sourceIds": [
             "10652211-3b97-411b-ab87-128be29356ac",
-            "2d1cb9b5-0b7e-4d09-80a4-787140c3c015",
-            "5515db8e-8d5e-4f11-a923-f41fef8b7032",
-            "cf8bbd60-3f86-45e0-b0a3-0b30d4214a41"
+            "2d1cb9b5-0b7e-4d09-80a4-787140c3c015"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:18:22Z"
@@ -21858,10 +22071,7 @@
           ],
           "sourceIds": [
             "13b9c89c-8ceb-4899-ae9f-7e246f0b4ec8",
-            "21c167ad-ef09-4753-bee7-20ecb5ba97ac",
-            "8281d611-2d9f-440b-a7d2-242fefa62aa4",
-            "92c74333-ebb6-4246-b025-522a376637a9",
-            "d41cd653-89f0-4ca9-b849-70ce516e8a99"
+            "92c74333-ebb6-4246-b025-522a376637a9"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:19:49Z"
@@ -21935,8 +22145,7 @@
           ],
           "sourceIds": [
             "21b83eb8-370d-4076-a9bb-3d443fa5a449",
-            "33f93e78-ea93-4a36-a725-a8458c66d819",
-            "8a499272-c9d6-4114-9e8e-52053818d8ab"
+            "33f93e78-ea93-4a36-a725-a8458c66d819"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:50:27Z"
@@ -22182,9 +22391,7 @@
           ],
           "sourceIds": [
             "0cfd4973-7608-46c5-9337-64fefc80949a",
-            "4f599346-3680-4eee-ab53-ad93facb9fef",
-            "FR:radio-broussaille",
-            "e2463686-5185-44b5-bc98-1fb63a929600"
+            "FR:radio-broussaille"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:24:38Z"
@@ -23193,7 +23400,6 @@
           ],
           "sourceIds": [
             "6b196a52-1468-48fe-948b-476fe90b6f54",
-            "b4ec1804-02cc-40fd-95f9-31ebb4c53d2b",
             "de5ea11d-189d-4717-95a4-d0efa15cfe6c"
           ],
           "lastCheckOk": true,
@@ -23612,6 +23818,51 @@
       ]
     },
     {
+      "id": "awb_4b312b344c426aaf65f8",
+      "name": "BBC Radio 5 Live (UK)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "talk",
+        "sports"
+      ],
+      "tags": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_live",
+      "favicon": "https://ichef.bbci.co.uk/images/ic/raw/p0mw75bg.png.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T19:55:18Z",
+      "streams": [
+        {
+          "id": "aws_db3e7989f70904bec806",
+          "stationId": "awb_4b312b344c426aaf65f8",
+          "name": "BBC Radio 5 Live (UK)",
+          "country": "GB",
+          "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live.m3u8",
+          "codec": "aac",
+          "bitrate": 135,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "22cf6ca2-cb22-46e3-bc75-ae0f8edc4e4b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_51d329181de9faebf9cf",
       "name": "BBC Radio Cymru (128k)",
       "country": "GB",
@@ -23793,7 +24044,6 @@
           ],
           "sourceIds": [
             "3d858afe-779c-4ae1-89a9-58bec0c14ba9",
-            "a6d18be5-282c-42ea-90f5-40320466399a",
             "c7c46f53-f15e-4945-823f-9ff3da0c40b8"
           ],
           "lastCheckOk": true,
@@ -31920,49 +32170,6 @@
       "name": "Hobby Rádió",
       "country": "HU",
       "subdivision": null,
-      "languages": [],
-      "categories": [
-        "talk",
-        "oldies"
-      ],
-      "tags": [
-        "70s",
-        "80s",
-        "90s",
-        "talk"
-      ],
-      "homepage": null,
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-07-15T11:12:28Z",
-      "streams": [
-        {
-          "id": "aws_3a89a6dacf224d3061dd",
-          "stationId": "awb_23e9138197208507c580",
-          "name": "Hobby Rádió",
-          "country": "HU",
-          "url": "http://www.hobbyradio.hu:8000/hobbyradio.mp3",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "33f89d19-549b-4c61-ba30-43a0e67aca1b"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T23:17:34Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9fa91437e03c7b8daafc",
-      "name": "Hobby Rádió",
-      "country": "HU",
-      "subdivision": null,
       "languages": [
         "hu"
       ],
@@ -31979,12 +32186,12 @@
       "homepage": "http://www.hobbyradio.hu/",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T03:49:38Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-07-15T11:12:28Z",
       "streams": [
         {
-          "id": "aws_c65428c3879ce369b6cb",
-          "stationId": "awb_9fa91437e03c7b8daafc",
+          "id": "aws_3a89a6dacf224d3061dd",
+          "stationId": "awb_23e9138197208507c580",
           "name": "Hobby Rádió",
           "country": "HU",
           "url": "http://www.hobbyradio.hu:8000/hobbyradio.mp3",
@@ -31996,6 +32203,7 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "33f89d19-549b-4c61-ba30-43a0e67aca1b",
             "960ca20d-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
@@ -32532,8 +32740,7 @@
           ],
           "sourceIds": [
             "4f25ac5b-9688-4c72-9aa2-0ae61358909e",
-            "56b2ae3e-9b35-4a05-991f-460a5bd898f3",
-            "6d66e5e3-bd84-49a5-978d-6c19560dcd14"
+            "56b2ae3e-9b35-4a05-991f-460a5bd898f3"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:29:40Z"
@@ -33131,8 +33338,7 @@
           ],
           "sourceIds": [
             "54064684-9e8c-45ad-85b9-4dd90d8ee01c",
-            "ID:rri-voice-of-indonesia",
-            "a66636e2-6edb-443b-b5a0-9b9b400e73b2"
+            "ID:rri-voice-of-indonesia"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:10:47Z"
@@ -37251,7 +37457,6 @@
           ],
           "sourceIds": [
             "04416a89-0149-4bbe-a38a-599314470063",
-            "2842bf39-a660-435b-ab48-a5a14a897223",
             "370437b8-878d-4efd-b4f5-17f060a49a6e"
           ],
           "lastCheckOk": true,
@@ -37320,7 +37525,6 @@
           ],
           "sourceIds": [
             "31ff593f-3088-4d04-b698-ec6c93ccf649",
-            "40cf9f8f-7479-4388-9a86-8da77e28a18f",
             "5b3c0b41-f11c-4e2a-b954-074792fd09f7"
           ],
           "lastCheckOk": true,
@@ -45117,8 +45321,7 @@
           ],
           "sourceIds": [
             "005a6ede-1c98-4c5c-be2c-da9eaeba8029",
-            "936cab85-2fb1-4c91-b35f-2b795544cfcb",
-            "f31ae7e2-d5e6-4c88-9445-edf00f6cba40"
+            "936cab85-2fb1-4c91-b35f-2b795544cfcb"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:44:24Z"
@@ -46161,7 +46364,7 @@
       "id": "awb_5989de5122b255078072",
       "name": "99.5 DZYW koolFM",
       "country": "PH",
-      "subdivision": "Quezon City",
+      "subdivision": "Metro Manila",
       "languages": [
         "en"
       ],
@@ -46198,11 +46401,7 @@
           ],
           "sourceIds": [
             "224de782-c5ef-48e2-a1d5-f4dacf9ba135",
-            "39659f0d-1fe0-481b-a861-de8d943acb60",
-            "78b513da-f7d8-4b6e-a1be-8892b2237f31",
-            "84cea319-9e18-4b7d-b0ab-d0311daf785f",
-            "b23d07e5-9d4f-4f84-8000-0ce3ead69349",
-            "d1dd6c65-a1b0-4b7f-93a2-89f007726d72"
+            "39659f0d-1fe0-481b-a861-de8d943acb60"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:02:50Z"
@@ -46799,8 +46998,7 @@
           ],
           "sourceIds": [
             "1dfa48a0-1a07-4d14-ba04-00e9206acee3",
-            "PH:palawan-wave-fm",
-            "cce4aaa7-b00e-460f-b072-a68477d8163e"
+            "PH:palawan-wave-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:37:12Z"
@@ -46885,7 +47083,6 @@
           ],
           "sourceIds": [
             "61ce9f58-7b18-476b-80f3-db273b23dc85",
-            "78865ecb-d9c6-428b-94fa-c052a15330e9",
             "PH:radio-maria-philippines"
           ],
           "lastCheckOk": true,
@@ -47485,7 +47682,6 @@
           ],
           "sourceIds": [
             "76efd4c4-b0f0-4cdf-b280-4e85bfd5945d",
-            "7c396e00-acce-4b86-bd88-a2e38689ce7b",
             "PL:radio-lublin"
           ],
           "lastCheckOk": true,
@@ -47796,8 +47992,7 @@
           ],
           "sourceIds": [
             "PL:radio-strefa-muzy",
-            "a7a6c35d-8fc3-4b80-9a03-01775f097f58",
-            "ca22cd5b-0bc6-4391-b723-418955f2d279"
+            "a7a6c35d-8fc3-4b80-9a03-01775f097f58"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T09:17:21Z"
@@ -47808,7 +48003,7 @@
       "id": "awb_4b49e5c817ec766fe4aa",
       "name": "radiOFF",
       "country": "PL",
-      "subdivision": "Oderland",
+      "subdivision": "Lubuskie",
       "languages": [
         "de",
         "pl"
@@ -47840,11 +48035,11 @@
         "storytelling",
         "viadrina"
       ],
-      "homepage": "https://radioff.com/",
+      "homepage": "http://radioff.com/",
       "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-09-11T22:11:04Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-13T19:07:23Z",
       "streams": [
         {
           "id": "aws_6eee021a3987c64510ce",
@@ -47864,7 +48059,7 @@
             "4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T20:16:22Z"
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -48004,8 +48199,7 @@
           ],
           "sourceIds": [
             "7293d8f3-941d-4a7b-ace0-01c9584410f0",
-            "aab4fa49-bf54-4c76-8ba4-79ee27f2602e",
-            "dbc018ae-1848-4f26-a677-367011a1f4b2"
+            "aab4fa49-bf54-4c76-8ba4-79ee27f2602e"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:11:50Z"
@@ -49123,8 +49317,7 @@
           ],
           "sourceIds": [
             "9db6ad3d-d922-4c79-9713-db90a254fa74",
-            "RO:cross-one-radio",
-            "ea92d0e2-4aaf-479f-a677-5811fe24388a"
+            "RO:cross-one-radio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:14:52Z"
@@ -50367,8 +50560,7 @@
           ],
           "sourceIds": [
             "128183d0-29ca-419f-ba01-1b85c159ed4d",
-            "a937cbfe-2eed-47de-8387-b1b3f27adce0",
-            "ec830183-c384-4f24-80c0-cd3d119e0081"
+            "a937cbfe-2eed-47de-8387-b1b3f27adce0"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:53:31Z"
@@ -55830,7 +56022,6 @@
           ],
           "sourceIds": [
             "043fba3d-9977-4991-97b1-64576df4da6d",
-            "1592f35d-74f8-4ed1-a2bf-ad2df2f4e50d",
             "SK:radio-regina-zapad"
           ],
           "lastCheckOk": true,
@@ -56470,12 +56661,7 @@
           ],
           "sourceIds": [
             "3418b0e0-026d-4b2a-8a12-bf8d9de56165",
-            "41d9f9ac-ff15-4f08-929c-32f3d9270394",
-            "8729ad8c-9842-4737-a1fb-3823b92c2610",
-            "a97a1351-d151-4689-ade3-bbdb918d256b",
-            "ce26d234-1413-4a97-8f7d-5a476bacf104",
-            "d14b4b92-7c34-49c6-8b65-2da15bc51346",
-            "d2bd2aa6-5fef-4a78-b664-49626f79be98"
+            "a97a1351-d151-4689-ade3-bbdb918d256b"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
@@ -58801,9 +58987,9 @@
     },
     {
       "id": "awb_55d09ea1a556d2936616",
-      "name": "2020 The Beacon -- Shining A Light On You",
+      "name": "2020 The Beacon -- Shining A light on you",
       "country": "US",
-      "subdivision": "Colorado",
+      "subdivision": "col",
       "languages": [
         "en"
       ],
@@ -62626,8 +62812,7 @@
           ],
           "sourceIds": [
             "80c2932d-122d-49eb-a65b-dd41aad520a5",
-            "961a4cdd-0601-11e8-ae97-52543be04c81",
-            "db145cff-6ea6-4382-ad96-19183eb58079"
+            "961a4cdd-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:18:00Z"
@@ -67188,7 +67373,6 @@
           ],
           "sourceIds": [
             "0e034caa-b0b4-474b-a5cd-2729f3b5d0ed",
-            "98737672-ac29-4040-87c4-f3126969bcd4",
             "f0ff7973-99c8-43f2-a853-19d9224e32af"
           ],
           "lastCheckOk": true,
@@ -67301,8 +67485,7 @@
           ],
           "sourceIds": [
             "14543b1e-44bf-4151-ae89-ec23b6eb711f",
-            "7c5d35d2-5c63-49ec-b611-75e4f55b7036",
-            "dfd6b4a9-4617-4318-b863-c820555437d5"
+            "7c5d35d2-5c63-49ec-b611-75e4f55b7036"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:34:29Z"
@@ -68675,7 +68858,6 @@
           ],
           "sourceIds": [
             "2ea6106d-15f2-4e5d-aa54-40e2ff8e0616",
-            "2f0987bb-ac33-451e-bdce-4e0be5f65d3c",
             "5445e13b-7e1f-46f6-825b-210874a85810"
           ],
           "lastCheckOk": true,
@@ -69573,6 +69755,47 @@
       ]
     },
     {
+      "id": "awb_c9a2d4db071362fa5dd1",
+      "name": "The America first radio network",
+      "country": "US",
+      "subdivision": "Allentown",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "talk radio"
+      ],
+      "homepage": "https://www.nobexradio.com/radio/ns-theamericafirstradionetwork/the-america-first-radio-network",
+      "favicon": "https://api.nobexradio.com/public/stations/theamericafirstradionetwork/logo",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T18:13:15Z",
+      "streams": [
+        {
+          "id": "aws_b18ad6fc703d392da441",
+          "stationId": "awb_c9a2d4db071362fa5dd1",
+          "name": "The America first radio network",
+          "country": "US",
+          "url": "https://listen.nobexradio.com/station_theamericafirstradionetwork?ref=radiobrowser",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e4e2c442-268f-4ff1-8a3c-61248c2ca300"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_49aed7f9d3a30939aa96",
       "name": "The Big 550 KTRS",
       "country": "US",
@@ -70303,8 +70526,7 @@
           ],
           "sourceIds": [
             "4b302d30-2c20-4c15-95c9-f22b3d889380",
-            "b96225b2-8536-4b9b-8add-03582fd2e6a2",
-            "f20380d2-1b07-4d62-b9d5-a24354172d9b"
+            "b96225b2-8536-4b9b-8add-03582fd2e6a2"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:46:14Z"
@@ -71546,8 +71768,7 @@
           ],
           "sourceIds": [
             "26f7a16f-59f3-4e6b-ac0d-5c42cc4125a6",
-            "6df71a46-dffa-4d09-a984-845ae94184b3",
-            "750065e0-6247-4182-8b2c-97f97d9b9e7d"
+            "6df71a46-dffa-4d09-a984-845ae94184b3"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:39:49Z"
@@ -74008,8 +74229,7 @@
           ],
           "sourceIds": [
             "83e1cdad-e0af-4913-ad6f-13966ffe9c91",
-            "99d637fe-994b-42d4-b7dd-c32fd2e7fc70",
-            "9f6ee4bb-dc9e-4582-8c39-0300a878416b"
+            "99d637fe-994b-42d4-b7dd-c32fd2e7fc70"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:23:26Z"
@@ -74269,9 +74489,7 @@
           ],
           "sourceIds": [
             "3bb3e61f-d17c-4ad5-b68f-49c77e2eca36",
-            "59f0d41a-0583-4fe4-ad48-249af3ea1789",
-            "a75b2642-a237-4cc5-bf65-784acd358075",
-            "cd4c5cad-c927-408b-834e-2efd090d780e"
+            "59f0d41a-0583-4fe4-ad48-249af3ea1789"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:56:41Z"

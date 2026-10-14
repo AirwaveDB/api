@@ -769,8 +769,7 @@
         ],
         "sourceIds": [
           "46caf738-9e39-4882-8102-93c31d2c0585",
-          "75171a08-0b7e-4aea-a15a-b761c41b5ae2",
-          "e4bb67e1-925b-4fea-aedb-79ebe0f2f403"
+          "75171a08-0b7e-4aea-a15a-b761c41b5ae2"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:06:58Z"
@@ -1362,6 +1361,78 @@
       }
     ]
   },
+  "awb_57f9db05a98cc576052a": {
+    "id": "awb_57f9db05a98cc576052a",
+    "name": "Radio Punto Siete Osorno Chile",
+    "country": "CL",
+    "subdivision": "Los Lagos",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://redirector.dps.live/p7osorno/mp3/icecast.audio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T13:18:21Z",
+    "streams": [
+      {
+        "id": "aws_432d3eb3a8b59ddbcfb6",
+        "stationId": "awb_57f9db05a98cc576052a",
+        "name": "Radio Punto Siete Osorno Chile",
+        "country": "CL",
+        "url": "https://redirector.dps.live/p7osorno/mp3/icecast.audio",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "68bdd539-63ae-4d46-aeab-f669a444d339"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
+  "awb_575774bcdabb86e149af": {
+    "id": "awb_575774bcdabb86e149af",
+    "name": "Ritmo Urbano CL",
+    "country": "CL",
+    "subdivision": "Santiago, Región Metropolitana",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "variada"
+    ],
+    "homepage": "https://ritmourbano25.usuarios.space/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T13:39:35Z",
+    "streams": [
+      {
+        "id": "aws_4f6549c7ed6e5146daa7",
+        "stationId": "awb_575774bcdabb86e149af",
+        "name": "Ritmo Urbano CL",
+        "country": "CL",
+        "url": "https://stream3.mcvhost.com/ritmourbano25/",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "435e09b5-85b9-4bbd-8cd9-16c805adbbb8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
   "awb_577f4fa56e7a494cb488": {
     "id": "awb_577f4fa56e7a494cb488",
     "name": "V家电台·Vocaloid Radio",
@@ -1838,7 +1909,6 @@
         ],
         "sourceIds": [
           "45a63332-a7d0-4e5f-a30f-18cae83fafb3",
-          "6654baa5-dd56-4b61-a07e-f5625ab314f9",
           "cd31f31f-f36b-11e8-a471-52543be04c81"
         ],
         "lastCheckOk": true,
@@ -2093,6 +2163,7 @@
       "de"
     ],
     "categories": [
+      "rock",
       "electronic",
       "oldies"
     ],
@@ -2104,14 +2175,35 @@
       "legends",
       "oldie",
       "oldies",
+      "rock",
       "techno"
     ],
     "homepage": "http://laut.fm/schlagerradio",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
+    "sourceCount": 6,
     "updatedAt": "2026-09-25T19:24:22Z",
     "streams": [
+      {
+        "id": "aws_c8b16e283a3040256db2",
+        "stationId": "awb_5745b5ccb1c9a7f3b538",
+        "name": "laut fm",
+        "country": "DE",
+        "url": "https://laut.fm/full_crossover",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "08e04644-2ef5-4eb5-aab2-8d34b7aa5921",
+          "86860458-0917-4138-812a-28c6f07462bd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T02:46:14Z"
+      },
       {
         "id": "aws_d1072cd4f5edf6d4b2ec",
         "stationId": "awb_5745b5ccb1c9a7f3b538",
@@ -4014,36 +4106,15 @@
     "name": "Ardan",
     "country": "ID",
     "subdivision": "Bandung, West Java",
-    "languages": [
-      "id"
-    ],
+    "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://ardanradio.com/",
     "favicon": "https://ardanradio.com/storage/logo/Logo%20Ardan.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-13T01:03:50Z",
+    "sourceCount": 1,
+    "updatedAt": "2026-01-16T23:00:58Z",
     "streams": [
-      {
-        "id": "aws_621d2d67ee4ca507260e",
-        "stationId": "awb_5707f306f66cb3db9e0c",
-        "name": "Ardan",
-        "country": "ID",
-        "url": "https://ardanradio.com/",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "54b0cfd8-d1ca-4594-bb4d-c2e0b9e0b706"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
-      },
       {
         "id": "aws_ed1c4e751eb85a0288c6",
         "stationId": "awb_5707f306f66cb3db9e0c",
@@ -4568,7 +4639,7 @@
         "codec": "unknown",
         "bitrate": 0,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -6585,41 +6656,6 @@
       }
     ]
   },
-  "awb_57342a7dd2690efe0125": {
-    "id": "awb_57342a7dd2690efe0125",
-    "name": "Guitar Jazz",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z",
-    "streams": [
-      {
-        "id": "aws_6c56d8b1fb2a5512b0c3",
-        "stationId": "awb_57342a7dd2690efe0125",
-        "name": "Guitar Jazz",
-        "country": "RU",
-        "url": "http://79.120.77.11:8000/guitarjazz",
-        "codec": "aac+",
-        "bitrate": 320,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "155bf5f3-93ff-4c5b-95d1-46baef6a272a"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T20:01:26Z"
-      }
-    ]
-  },
   "awb_57b1f4a31653d94d56ef": {
     "id": "awb_57b1f4a31653d94d56ef",
     "name": "Instrumental Jazz",
@@ -6901,7 +6937,6 @@
         ],
         "sourceIds": [
           "4090c429-71c2-11ea-b1cf-52543be04c81",
-          "5bd7f94f-0802-4acc-9a75-3fdf816054cf",
           "RU:2-0"
         ],
         "lastCheckOk": true,
@@ -7399,7 +7434,6 @@
         ],
         "sourceIds": [
           "962241db-8d31-4ed1-9187-80d899414cf4",
-          "c9b8ccba-55e6-4675-a77b-dd2d7aaacdd8",
           "de8111da-abeb-4881-a538-da68541f333a"
         ],
         "lastCheckOk": true,

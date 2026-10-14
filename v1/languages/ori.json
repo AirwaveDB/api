@@ -1,6 +1,6 @@
 {
   "code": "ori",
-  "stationCount": 15,
+  "stationCount": 13,
   "stations": [
     {
       "id": "awb_ea45916fd2ac323850d0",
@@ -64,8 +64,8 @@
           "name": "Jay Jagannath",
           "country": "IN",
           "url": "https://stream.zeno.fm/xm5ezmsj7efuv",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 32,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -75,7 +75,7 @@
             "8c89084d-a7fb-4d2d-b5c1-00013e151623"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -181,8 +181,8 @@
           "name": "Radio Bhakti",
           "country": "IN",
           "url": "http://104.243.44.53:7598/chok5648",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -192,7 +192,7 @@
             "7bd22d8e-d795-41ef-b1bb-fe931b7e897b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -229,11 +229,10 @@
           ],
           "sourceIds": [
             "1824cf5c-2c17-4e66-8518-be70f4f7dc56",
-            "3b80ffbd-f6d7-4c73-9151-bfe198c705a9",
-            "587f9a3e-86ca-4d09-b3ee-9b3e8c069638"
+            "3b80ffbd-f6d7-4c73-9151-bfe198c705a9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:34:56Z"
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -269,50 +268,10 @@
           ],
           "sourceIds": [
             "0416c859-4857-488e-9b24-591bd08e5df6",
-            "1201ceb6-02b4-4e8c-9932-5af9623da074",
-            "8f0fa17c-1c27-44d9-bbf0-5df90098cf37"
+            "1201ceb6-02b4-4e8c-9932-5af9623da074"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:27:00Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_cd6b744eb7313c46c0fc",
-      "name": "Radio Jajabara",
-      "country": "IN",
-      "subdivision": null,
-      "languages": [
-        "ori"
-      ],
-      "categories": [],
-      "tags": [
-        "odia"
-      ],
-      "homepage": null,
-      "favicon": "https://liveradios.in/wp-content/uploads/radio-jajabara.jpg",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-13T05:31:05Z",
-      "streams": [
-        {
-          "id": "aws_88e743b2b9ba1e891793",
-          "stationId": "awb_cd6b744eb7313c46c0fc",
-          "name": "Radio Jajabara",
-          "country": "IN",
-          "url": "https://streams.radiojajabara.com/hdradio_jajabara.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "40bf2e3e-aad1-4db9-bc83-e854efd4b5d3"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },
@@ -380,8 +339,8 @@
           "name": "Radio Nataka",
           "country": "IN",
           "url": "http://172.93.108.138:5839/chok5648",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -391,7 +350,7 @@
             "4bbf26ef-bcea-4646-af3f-e2b5ab606649"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -419,8 +378,8 @@
           "name": "Radio Sampark",
           "country": "IN",
           "url": "http://sp14.instainternet.com:8248/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -430,46 +389,7 @@
             "6229d224-c4b1-4856-ae84-833eebe973ae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
-      "id": "awb_012a27189cd3cc7643b7",
-      "name": "Radio Sanskar",
-      "country": "IN",
-      "subdivision": null,
-      "languages": [
-        "ori"
-      ],
-      "categories": [],
-      "tags": [
-        "odia"
-      ],
-      "homepage": null,
-      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63dYHkBvYiw7TjDFI-kNdEvgjhoMpw_3B4g&s",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-13T05:33:54Z",
-      "streams": [
-        {
-          "id": "aws_51d05cf023fe5eb64ad3",
-          "stationId": "awb_012a27189cd3cc7643b7",
-          "name": "Radio Sanskar",
-          "country": "IN",
-          "url": "https://mehramedia.com/stream.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "01ca33b9-94d9-449b-b49b-a0f9b76ffb5c"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -542,8 +462,8 @@
           "name": "Visionary Odiya",
           "country": "IN",
           "url": "http://malta2044.startdedicated.com:8853/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -553,7 +473,7 @@
             "3c8b42bb-f1ae-4fea-802a-facdb2d8ad6c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },

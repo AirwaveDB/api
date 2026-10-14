@@ -1,12 +1,25 @@
 {
-  "generatedAt": "2026-10-13T11:47:34.465Z",
-  "stationCount": 54238,
-  "streamCount": 57397,
+  "generatedAt": "2026-10-14T01:52:24.347Z",
+  "schemaVersion": 1,
+  "stationCount": 54229,
+  "streamCount": 57409,
   "countryCount": 243,
-  "languageCount": 164,
+  "languageCount": 166,
   "categoryCount": 25,
-  "databaseGeneratedAt": "2026-10-13T09:27:00.403Z",
+  "databaseGeneratedAt": "2026-10-14T01:44:10.357Z",
   "streamsGeneratedAt": "2026-10-13T10:44:56.556Z",
+  "databaseSchemaVersion": 1,
+  "streamsSchemaVersion": null,
+  "quality": {
+    "database": {
+      "withHomepage": 51724,
+      "withFavicon": 33454,
+      "withLanguage": 34284,
+      "withCategory": 23053,
+      "unknownCountry": 1101
+    },
+    "streams": null
+  },
   "routes": {
     "station": "/v1/stations/:id",
     "country": "/v1/countries/:code",

@@ -2194,8 +2194,7 @@
         ],
         "sourceIds": [
           "269db43e-3967-4d4c-b229-3845a1f8641d",
-          "4579447c-baff-4d5b-84ee-26c8acdf8498",
-          "d847f067-69b8-4ab6-aad0-e3f5b59f24ca"
+          "4579447c-baff-4d5b-84ee-26c8acdf8498"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T17:09:53Z"
@@ -2983,9 +2982,7 @@
         ],
         "sourceIds": [
           "1028b3ce-6086-4125-9b1a-ba09223ffd30",
-          "762fbe46-c1e4-4ad5-acfb-d37ac0e1eece",
-          "8d406f12-985f-4af3-967e-697854f283e3",
-          "c56cbeec-b198-4376-a5ce-dea667a90684"
+          "762fbe46-c1e4-4ad5-acfb-d37ac0e1eece"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:18:22Z"
@@ -3334,45 +3331,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T17:01:15Z"
-      }
-    ]
-  },
-  "awb_9457d42c47e4001d088d": {
-    "id": "awb_9457d42c47e4001d088d",
-    "name": "France Info",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "informations"
-    ],
-    "homepage": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:15:15Z",
-    "streams": [
-      {
-        "id": "aws_97cf8f1f18173f901b38",
-        "stationId": "awb_9457d42c47e4001d088d",
-        "name": "France Info",
-        "country": "FR",
-        "url": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
-        "codec": "aac",
-        "bitrate": 192,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "717fc5d5-fe02-462c-8d41-64c4c6895d98"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T13:04:43Z"
       }
     ]
   },
@@ -3772,20 +3730,6 @@
         ],
         "sourceIds": [
           "041d166a-a7da-41cc-b931-f9d03cfc985a",
-          "08c426d1-c4c1-4124-a3c5-7a455ffa5ad3",
-          "0f64d18e-ad53-4e72-9d97-8116d63b8147",
-          "21d3c1c4-f8aa-42f7-b50c-91c7aef69396",
-          "262d2c9e-c249-45e8-8cb8-2e1d9c960852",
-          "3153cf57-fc72-4743-93a8-0ee710faa8eb",
-          "459d106a-5361-4d3d-a3b8-716f460b532f",
-          "71bc5417-f4d8-49fe-a605-09255859b34d",
-          "918ed9f0-9569-4b3d-b7a2-bdd092a16d6b",
-          "a80fa26a-6270-450b-9931-ae4d5110cabd",
-          "bf8e19d3-ddf1-4fdf-8a81-7c40a852d473",
-          "c107095e-2239-4d7b-8fb2-a43142a178fd",
-          "cd990127-b51e-4175-b598-def862e7bb22",
-          "e6bc1071-baae-4cc9-a344-a937dfde8f97",
-          "f2c9af5f-2128-49e5-bd64-a7e87140edc3",
           "f9dad5bd-f27f-4283-8fa4-43436b0792e1"
         ],
         "lastCheckOk": true,
@@ -7347,9 +7291,7 @@
         ],
         "sourceIds": [
           "188a79f7-f612-43b9-8216-afc25d9ce2bd",
-          "2faf7516-b743-4c34-a949-0e10a5c5b76f",
-          "SK:fresh-radio",
-          "c32c44f8-5493-4c9b-a1dc-ec5dc59ba611"
+          "SK:fresh-radio"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:06:58Z"
@@ -8501,7 +8443,7 @@
         "codec": "aac+",
         "bitrate": 128,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],

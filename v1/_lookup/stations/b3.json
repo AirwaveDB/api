@@ -1606,7 +1606,6 @@
         ],
         "sourceIds": [
           "4d389715-c36a-43c5-b22f-68ef8e2dc6c9",
-          "7373ab5f-0d96-45ce-8cc0-0abd2edbb16b",
           "CL:radio-rtl-curico"
         ],
         "lastCheckOk": true,
@@ -1931,9 +1930,7 @@
         ],
         "sourceIds": [
           "4ff95bf5-4dec-40dc-990b-032e7976f318",
-          "6420a400-38fe-47e4-ab5c-28f0d00667bf",
-          "b80cca75-05ce-4dce-b097-a188e21ce5a8",
-          "e9b9b3d0-6f23-4acd-adf0-77896a569bd6"
+          "6420a400-38fe-47e4-ab5c-28f0d00667bf"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:41:31Z"
@@ -3317,7 +3314,6 @@
         ],
         "sourceIds": [
           "44bdb9fd-ee67-45c7-a3db-d080f8cf5ec1",
-          "44ee797f-b7c4-4f94-8853-ce9a9c8731ed",
           "DE:wdr4"
         ],
         "lastCheckOk": true,
@@ -5705,79 +5701,6 @@
       }
     ]
   },
-  "awb_b335915acd555c2496b3": {
-    "id": "awb_b335915acd555c2496b3",
-    "name": "+TKR (MTY) - Online - www.mmradio.com - Multimedios Radio - Monterrey, Nuevo León",
-    "country": "MX",
-    "subdivision": "Monterrey, Nuevo León",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "américa",
-      "entretenimiento",
-      "español",
-      "estación",
-      "latinoamérica",
-      "mexican music",
-      "moi merino",
-      "monterrey",
-      "mty",
-      "music",
-      "música",
-      "música en español",
-      "música mexicana",
-      "música popular mexicana",
-      "música regional",
-      "música regional mexicana",
-      "música tradicional mexicana",
-      "norteamérica",
-      "norteña",
-      "norteño",
-      "nuevo león",
-      "online",
-      "online only",
-      "online radio",
-      "onlineradio",
-      "radio",
-      "radio online",
-      "ranchera",
-      "rancheras",
-      "regional",
-      "regional mexican",
-      "regional mexicana",
-      "regional music",
-      "traditional mexican music"
-    ],
-    "homepage": "https://www.mmradio.com/",
-    "favicon": "https://i.postimg.cc/V6Wm0Yq4/tkr.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-26T17:29:15Z",
-    "streams": [
-      {
-        "id": "aws_0329148bbc256a3aff0a",
-        "stationId": "awb_b335915acd555c2496b3",
-        "name": "TKR (MTY) - Online - www.mmradio.com - Multimedios Radio - Monterrey, Nuevo León",
-        "country": "MX",
-        "url": "https://mdstrm.com/audio/672a61c2bef01359b6913aea/icecast.audio",
-        "codec": "aac",
-        "bitrate": 93,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "39a93e9b-054f-450a-aa68-74ec4e669c67",
-          "45f76b7a-63fa-4087-a978-e446f9c05d81"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T19:22:27Z"
-      }
-    ]
-  },
   "awb_b37a6086ff3e7e474af6": {
     "id": "awb_b37a6086ff3e7e474af6",
     "name": "102.9 Exa FM (Tehuacán) - 102.9 FM - XHWJ-FM - Radio TH Comunicación - Tehuacán, Puebla",
@@ -6536,6 +6459,79 @@
       }
     ]
   },
+  "awb_b335915acd555c2496b3": {
+    "id": "awb_b335915acd555c2496b3",
+    "name": "TKR (MTY) - Online - www.mmradio.com - Multimedios Radio - Monterrey, Nuevo León",
+    "country": "MX",
+    "subdivision": "Monterrey, Nuevo León",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "américa",
+      "entretenimiento",
+      "español",
+      "estación",
+      "latinoamérica",
+      "mexican music",
+      "moi merino",
+      "monterrey",
+      "mty",
+      "music",
+      "música",
+      "música en español",
+      "música mexicana",
+      "música popular mexicana",
+      "música regional",
+      "música regional mexicana",
+      "música tradicional mexicana",
+      "norteamérica",
+      "norteña",
+      "norteño",
+      "nuevo león",
+      "online",
+      "online only",
+      "online radio",
+      "onlineradio",
+      "radio",
+      "radio online",
+      "ranchera",
+      "rancheras",
+      "regional",
+      "regional mexican",
+      "regional mexicana",
+      "regional music",
+      "traditional mexican music"
+    ],
+    "homepage": "https://www.mmradio.com/",
+    "favicon": "https://i.postimg.cc/V6Wm0Yq4/tkr.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-09-26T17:29:15Z",
+    "streams": [
+      {
+        "id": "aws_0329148bbc256a3aff0a",
+        "stationId": "awb_b335915acd555c2496b3",
+        "name": "TKR (MTY) - Online - www.mmradio.com - Multimedios Radio - Monterrey, Nuevo León",
+        "country": "MX",
+        "url": "https://mdstrm.com/audio/672a61c2bef01359b6913aea/icecast.audio",
+        "codec": "aac",
+        "bitrate": 93,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "39a93e9b-054f-450a-aa68-74ec4e669c67",
+          "45f76b7a-63fa-4087-a978-e446f9c05d81"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T19:22:27Z"
+      }
+    ]
+  },
   "awb_b355c78146d030931fdb": {
     "id": "awb_b355c78146d030931fdb",
     "name": "W RADIO 101.5 (GDL) - 101.5 FM - XHWK-FM - Radiópolis - Guadalajara, Jalisco",
@@ -7216,8 +7212,7 @@
         ],
         "sourceIds": [
           "1dfa48a0-1a07-4d14-ba04-00e9206acee3",
-          "PH:palawan-wave-fm",
-          "cce4aaa7-b00e-460f-b072-a68477d8163e"
+          "PH:palawan-wave-fm"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:37:12Z"
@@ -8332,8 +8327,7 @@
         ],
         "sourceIds": [
           "38dc7a0e-0794-4fd9-b1ab-a263bd6d4c78",
-          "98364e0e-fa99-4b39-b44a-d46772e5951a",
-          "e79256a0-14d6-4aec-86eb-c2ce56007e1f"
+          "98364e0e-fa99-4b39-b44a-d46772e5951a"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T12:47:09Z"

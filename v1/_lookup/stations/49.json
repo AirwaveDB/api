@@ -2658,64 +2658,6 @@
       }
     ]
   },
-  "awb_49c5bdb1a1ecf3c1fad7": {
-    "id": "awb_49c5bdb1a1ecf3c1fad7",
-    "name": "SWR1",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:04Z",
-    "streams": [
-      {
-        "id": "aws_ed55d3908fbf5498a540",
-        "stationId": "awb_49c5bdb1a1ecf3c1fad7",
-        "name": "SWR1",
-        "country": "DE",
-        "url": "https://liveradio.swr.de/sw331ch/swr1bw/",
-        "codec": "aac",
-        "bitrate": 96,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "3a44c9a7-08df-4c1e-ae1c-19ddc50bd1b7"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T17:21:44Z"
-      },
-      {
-        "id": "aws_7f570dfbd849c30e15f2",
-        "stationId": "awb_49c5bdb1a1ecf3c1fad7",
-        "name": "SWR1",
-        "country": "DE",
-        "url": "https://liveradio.swr.de/sw890cl/swr1bw/",
-        "codec": "aac",
-        "bitrate": 96,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "ce4b8451-221d-4c57-ace8-076f53c1ca18"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T11:09:55Z"
-      }
-    ]
-  },
   "awb_49ae735733fcec01ceed": {
     "id": "awb_49ae735733fcec01ceed",
     "name": "WDR2 Rhein und Ruhr",
@@ -3114,6 +3056,41 @@
       }
     ]
   },
+  "awb_49a9b21e01c50d1c3a10": {
+    "id": "awb_49a9b21e01c50d1c3a10",
+    "name": "LA PENCA RADIO FM",
+    "country": "ES",
+    "subdivision": "Canary Islands",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://www.lapencarecord.com/",
+    "favicon": "https://lapenca-logo.lapencadominio.workers.dev/",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T16:12:25Z",
+    "streams": [
+      {
+        "id": "aws_d1245a815879add75e46",
+        "stationId": "awb_49a9b21e01c50d1c3a10",
+        "name": "LA PENCA RADIO FM",
+        "country": "ES",
+        "url": "http://82.145.63.6:5746/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "13620a89-1e4c-4459-8cd3-ea01d72ad268"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
   "awb_496b114e0f66d52debe9": {
     "id": "awb_496b114e0f66d52debe9",
     "name": "RadioMV Español El Antiguo Testamento",
@@ -3506,7 +3483,7 @@
     "id": "awb_4954e18326dc8c8498d1",
     "name": "OZ Tarkan Radio",
     "country": "FR",
-    "subdivision": "Ile de France",
+    "subdivision": "Île-de-France",
     "languages": [
       "tr"
     ],
@@ -3516,7 +3493,7 @@
       "arabesk fantazi",
       "turkish pop"
     ],
-    "homepage": "https://youtube.com/@oztarkan?si=GalYsZO5l2AhH-U5",
+    "homepage": "https://youtube.com/@oztarkan?si=HoHovorMf_seHqgw",
     "favicon": "https://cdn-profiles.tunein.com/s360777/images/logod.jpg?t=639242961550000000",
     "type": null,
     "sourceCount": 3,

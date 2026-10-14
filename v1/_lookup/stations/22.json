@@ -327,9 +327,7 @@
         ],
         "sourceIds": [
           "53e22c4d-f363-4067-95a6-40995b24c7e6",
-          "5b656aef-076e-4c43-b473-7b73aac61756",
-          "9c1346b1-1c3d-4376-85c2-c6b547e4aab0",
-          "c5fa2e7d-288a-4ce1-82cd-fc9ac101d3a1"
+          "9c1346b1-1c3d-4376-85c2-c6b547e4aab0"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:02:50Z"
@@ -544,8 +542,7 @@
         ],
         "sourceIds": [
           "6f87d8a9-b4f8-4654-ae82-6d79e04f0b3c",
-          "AT:antenne-vorarlberg-classic-rock",
-          "e0d81bc0-3523-495e-b7a9-797ab955260d"
+          "AT:antenne-vorarlberg-classic-rock"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T22:23:51Z"
@@ -1908,7 +1905,6 @@
         ],
         "sourceIds": [
           "5de82a19-5894-498e-935b-4c02cd826aa0",
-          "670526e2-4e5c-4900-a866-fcba98540310",
           "CY:russianradio"
         ],
         "lastCheckOk": true,
@@ -3293,6 +3289,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:27:33Z"
+      }
+    ]
+  },
+  "awb_22dcaa07cab92ac7655d": {
+    "id": "awb_22dcaa07cab92ac7655d",
+    "name": "METAL BROTHERS",
+    "country": "ES",
+    "subdivision": "Almería",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "metal"
+    ],
+    "tags": [
+      "heavy metal"
+    ],
+    "homepage": "https://azuracast.javidai.uk/public/metalmeria",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T18:27:05Z",
+    "streams": [
+      {
+        "id": "aws_12968552f95f865ed3f7",
+        "stationId": "awb_22dcaa07cab92ac7655d",
+        "name": "METAL BROTHERS",
+        "country": "ES",
+        "url": "https://azuracast.javidai.uk/listen/metalmeria/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "98e39928-1801-414c-b6e7-dd7b58614dd6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },
@@ -6919,7 +6957,7 @@
     "homepage": null,
     "favicon": "https://trendyradio.pl/assets/images/logo.gif",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 4,
     "updatedAt": "2026-08-24",
     "streams": [
       {
@@ -6938,7 +6976,6 @@
         ],
         "sourceIds": [
           "42a4e30b-da54-428f-bc6d-6df84f52910c",
-          "857bb58b-61a8-4192-8426-afaeb9bb2a23",
           "PL:trendy-radio-mobile"
         ],
         "lastCheckOk": true,

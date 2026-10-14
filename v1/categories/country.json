@@ -1,6 +1,6 @@
 {
   "id": "country",
-  "stationCount": 687,
+  "stationCount": 688,
   "stations": [
     {
       "id": "awb_29e9a4a80266c36730df",
@@ -4216,9 +4216,7 @@
           ],
           "sourceIds": [
             "36de98f9-00ae-451d-9c55-7fd25b6e3ec2",
-            "653b4b2a-399e-4ab6-9fbb-864503d23a2b",
-            "BR:radio-sertaneja",
-            "bb6ba0d5-294b-46e2-ba53-822d26655b8d"
+            "BR:radio-sertaneja"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:02:53Z"
@@ -9500,6 +9498,50 @@
       ]
     },
     {
+      "id": "awb_73692113d2aa92fb0460",
+      "name": "Highway Country Radio",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "country",
+        "blues"
+      ],
+      "tags": [
+        "americana",
+        "bluegrass",
+        "blues",
+        "country"
+      ],
+      "homepage": "https://highwaycountryradio.com/",
+      "favicon": "https://highwaycountryradio.com/logo/favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T10:06:34Z",
+      "streams": [
+        {
+          "id": "aws_9bbe65506d5237d2ad1f",
+          "stationId": "awb_73692113d2aa92fb0460",
+          "name": "Highway Country Radio",
+          "country": "CA",
+          "url": "https://puma.streemlion.com:2125/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6c01acde-1b25-4f2a-a759-acd6a73334dd",
+            "e1acc817-4627-40dc-a688-7078917df20c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_39a06875cb8ce37b83de",
       "name": "N10.AS",
       "country": "CA",
@@ -10987,8 +11029,7 @@
           ],
           "sourceIds": [
             "5690f708-8d47-4fed-a6c6-eecf8194197b",
-            "58e9e8c7-ce77-4044-8787-6043452002b7",
-            "5c8725e5-00c9-4684-9a78-49e253f4de88"
+            "58e9e8c7-ce77-4044-8787-6043452002b7"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:02:39Z"
@@ -12920,26 +12961,28 @@
       ]
     },
     {
-      "id": "awb_a7d9a4e3d83edd99c636",
+      "id": "awb_81b714b808f90c50a8db",
       "name": "Radio Marca",
       "country": "ES",
       "subdivision": null,
       "languages": [],
       "categories": [
+        "classical",
         "country"
       ],
       "tags": [
+        "classical",
         "country"
       ],
       "homepage": "https://sonic.mediatelekom.net/9316/stream",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:04Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
       "streams": [
         {
-          "id": "aws_1774b0748b4cbbfba2f6",
-          "stationId": "awb_a7d9a4e3d83edd99c636",
+          "id": "aws_6a63f2ae2ab9d6e38e0d",
+          "stationId": "awb_81b714b808f90c50a8db",
           "name": "Radio Marca",
           "country": "ES",
           "url": "https://sonic.mediatelekom.net/9316/stream",
@@ -12948,13 +12991,15 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser"
+            "radio-browser",
+            "verified-radio-streams"
           ],
           "sourceIds": [
-            "c0944630-04b4-4b9a-9842-670d19ed36d2"
+            "ES:radio-marca",
+            "b129bdd2-65bc-4363-8f74-14b474bc0500"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T23:23:55Z"
+          "lastCheckedAt": "2026-10-12T03:42:23Z"
         }
       ]
     },
@@ -14810,14 +14855,7 @@
           ],
           "sourceIds": [
             "25478d50-e167-438e-b60c-9de655e3760b",
-            "377b4fec-5890-4144-bdb1-c909a30c2415",
-            "40040b55-c7fb-4c57-a7cf-345c301c50a9",
-            "47efb303-d1d9-4ac9-8816-44aab98330b4",
-            "5b520a4e-031c-468a-9ba8-bb79f2ee9ebc",
-            "a0752f82-b573-4e5a-8a30-ac1c56915bfd",
-            "a62b3fd1-44f4-405d-ad45-26dbdf5b85ce",
-            "be8e0aee-c42b-4b3c-a597-4f8977587c26",
-            "c765a87c-f02b-4e7d-8df5-9760a6d55f37"
+            "377b4fec-5890-4144-bdb1-c909a30c2415"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:30:42Z"
@@ -15343,11 +15381,11 @@
       "updatedAt": "2026-01-14T22:54:03Z",
       "streams": [
         {
-          "id": "aws_d17583aaf261b7f0d015",
+          "id": "aws_841010761c978fd46f02",
           "stationId": "awb_5ff325c9605f007dc6d2",
           "name": "kbs해피fm",
           "country": "KR",
-          "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-02/2radio-bora-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDk5Mjc4Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=M5xGny3YP8aJVBZmf9zAIgYlvTy5sc~ovKzrmcggyrZPhLJs2eLrcUlY9nsCM8Ln2~WXDEnHWrveSgGPCUFLJ~jaoIOQEHfNR7Cjjn7FjjJRfvrTrVddmcUmZTA8xVVe8XZlUFFdYLess-WQ8NvkSfTDeifDF8w~IXf18HY4MKzrrq3XJzs8a6K9QvTeFJ7EMf2gtHU9QIfIRsSBr-6xv-SPGFJGOXDaMY1Nb0T5WuF~oub730VyyC-oQlbk5PRRm~lFN8ZgpCR~nsRU9~lxKxilE~n0YFjR~a-MdKLfIQkUIXzC2qCUZ0PVEj0VPVJ6cfjz75CTIN~j5jNiY5bf5w__",
+          "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjEwMTU2NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=TZRHDkK6Dth2YQ10htGBX4scqxBlWRAdP9xpr4u9PHDgjSjmXRqRNBZIyNWIgSyVV0N6aZfA1gMCJWmIbYrS5MckXfjcRjFxF7~H8J6NypbFAAOGkJX1QLU-ZqHGnqUc19GrQfP9XHIexzkPBTeRoTeWxHrtPjnuWvktvhbkXkz4Tdxer-1w7LTmf~Gc-nc4L~rRFKbtKJmf683tYYQh8TnCqc3t8Cnj~rLhLZrAtJpqbQluktezYCun2HD5rKnLVX3rP-mp7WUVE9JUUW~hBZMkUkxhz4kXPiEYRLsSYDVEPNt4VoU~ykaUVprKCl-rNVgqMNd-efo34znGpneLzw__",
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
@@ -15359,7 +15397,7 @@
             "8dc941a6-c866-4552-9fea-541c137cfb5d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-01T02:19:43Z"
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -15450,14 +15488,7 @@
           ],
           "sourceIds": [
             "12c55bd3-b56b-41a5-9728-32d58cb07a53",
-            "12cd03ef-e2d6-4f3b-a8f5-ac2774108e7c",
-            "2af07b02-7a29-403d-bc1c-ab8698af6faf",
-            "5c468731-affe-42a5-a483-9185efd0e218",
-            "7d3634f5-95a7-4761-9ac0-18a04e28afbb",
-            "LC:rfi-1021-fm",
-            "b9140822-9f21-4990-a9d0-d788e394830a",
-            "bc6fe4cc-24f3-4977-bba0-2bcd5c720114",
-            "cb44f46f-23af-4a5c-bc45-84a4b3999b43"
+            "LC:rfi-1021-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
@@ -16238,9 +16269,7 @@
           ],
           "sourceIds": [
             "44454e25-a3d0-4d58-bb1d-241848d6351e",
-            "NL:grolloo-radio",
-            "a438e66d-2ba7-46b4-89c9-01bc4204e161",
-            "b8c8f591-d41a-4047-8843-a0aa3ad33790"
+            "NL:grolloo-radio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:10:49Z"
@@ -17189,8 +17218,7 @@
           ],
           "sourceIds": [
             "PL:radio-strefa-muzy",
-            "a7a6c35d-8fc3-4b80-9a03-01775f097f58",
-            "ca22cd5b-0bc6-4391-b723-418955f2d279"
+            "a7a6c35d-8fc3-4b80-9a03-01775f097f58"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T09:17:21Z"
@@ -17700,8 +17728,7 @@
           ],
           "sourceIds": [
             "RO:supersonic-radio",
-            "a923100c-8c7a-4323-83ed-52e0c93cb6c8",
-            "e4ed8cd5-aa8e-40ca-bc02-94a4c588f8a6"
+            "a923100c-8c7a-4323-83ed-52e0c93cb6c8"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:20:37Z"
@@ -18724,12 +18751,7 @@
           ],
           "sourceIds": [
             "3418b0e0-026d-4b2a-8a12-bf8d9de56165",
-            "41d9f9ac-ff15-4f08-929c-32f3d9270394",
-            "8729ad8c-9842-4737-a1fb-3823b92c2610",
-            "a97a1351-d151-4689-ade3-bbdb918d256b",
-            "ce26d234-1413-4a97-8f7d-5a476bacf104",
-            "d14b4b92-7c34-49c6-8b65-2da15bc51346",
-            "d2bd2aa6-5fef-4a78-b664-49626f79be98"
+            "a97a1351-d151-4689-ade3-bbdb918d256b"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
@@ -18886,7 +18908,6 @@
           ],
           "sourceIds": [
             "30377852-8d25-4773-be20-5dc65ba6b4f2",
-            "455c485f-9d57-4b4a-a00d-c0d77347327c",
             "TR:max-fm-95-8-maximum-music"
           ],
           "lastCheckOk": true,
@@ -20177,9 +20198,9 @@
     },
     {
       "id": "awb_55d09ea1a556d2936616",
-      "name": "2020 The Beacon -- Shining A Light On You",
+      "name": "2020 The Beacon -- Shining A light on you",
       "country": "US",
-      "subdivision": "Colorado",
+      "subdivision": "col",
       "languages": [
         "en"
       ],

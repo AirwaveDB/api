@@ -749,43 +749,6 @@
       }
     ]
   },
-  "awb_c624eedae89903652292": {
-    "id": "awb_c624eedae89903652292",
-    "name": "SakibFM",
-    "country": "BD",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://mytuner-radio.com/ms/radio/sakibfm-495177/",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/YPLTzDKahr.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T06:01:50Z",
-    "streams": [
-      {
-        "id": "aws_77be99e94f6038ddda3c",
-        "stationId": "awb_c624eedae89903652292",
-        "name": "SakibFM",
-        "country": "BD",
-        "url": "https://mytuner-radio.com/ms/radio/sakibfm-495177/",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "7e4e7e93-bee6-443c-8294-7908e41090e3"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
-      }
-    ]
-  },
   "awb_c6944fce188d190965dc": {
     "id": "awb_c6944fce188d190965dc",
     "name": "depechemode.be",
@@ -861,8 +824,7 @@
         ],
         "sourceIds": [
           "96129899-0601-11e8-ae97-52543be04c81",
-          "BE:radio-panik",
-          "a23cdcb7-1db8-46e8-8b85-80eeabedbbeb"
+          "BE:radio-panik"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T03:57:56Z"
@@ -1319,8 +1281,7 @@
         ],
         "sourceIds": [
           "4cc3e959-b572-4285-99e2-069151d03b5e",
-          "CA:100-greatest-jazz-lounge-bar",
-          "aeab6366-373b-4fee-98c9-ad2c9a7e7d71"
+          "CA:100-greatest-jazz-lounge-bar"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T13:28:02Z"
@@ -2131,7 +2092,6 @@
         ],
         "sourceIds": [
           "0ba45fad-0a4a-11ea-a87e-52543be04c81",
-          "7b4ffc97-5b32-44c3-b419-4155c33b4a19",
           "8f231134-0a4a-11ea-a87e-52543be04c81"
         ],
         "lastCheckOk": true,
@@ -2277,7 +2237,6 @@
         ],
         "sourceIds": [
           "1d8dd5d6-a62c-4200-9d89-c723c2a89367",
-          "80f3c8c6-630f-46cf-9078-fe8435b50dc0",
           "e591b8d6-8247-4bcb-b8bf-bcb4df69d812"
         ],
         "lastCheckOk": true,
@@ -4571,9 +4530,7 @@
         ],
         "sourceIds": [
           "10010d86-b973-4d28-af1d-f11902262f46",
-          "4ee8e52f-5dad-4975-b48d-bb9950982119",
-          "7e698592-50bf-49f2-b610-b2784f226776",
-          "8683dd56-91aa-4f02-88ad-8fa4dc5ee28a"
+          "4ee8e52f-5dad-4975-b48d-bb9950982119"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:41:33Z"
@@ -7627,8 +7584,7 @@
         ],
         "sourceIds": [
           "1c5e50a7-ae07-4aae-b9d8-e167c2c2f5ec",
-          "a56b8f78-0ca0-4363-a326-97735b67482e",
-          "beb27462-45e9-48a5-82be-591c74347a12"
+          "a56b8f78-0ca0-4363-a326-97735b67482e"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:01:04Z"
@@ -8369,6 +8325,55 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T21:56:34Z"
+      }
+    ]
+  },
+  "awb_c62df4df8fca026f35ba": {
+    "id": "awb_c62df4df8fca026f35ba",
+    "name": "Sbempireradio",
+    "country": "US",
+    "subdivision": "California",
+    "languages": [
+      "eng"
+    ],
+    "categories": [
+      "jazz",
+      "hip-hop",
+      "reggae"
+    ],
+    "tags": [
+      "hip-hop",
+      "jazz",
+      "r&b",
+      "rap",
+      "reggae",
+      "urban",
+      "world"
+    ],
+    "homepage": "https://www.nobexradio.com/radio/ns-sbempireradio/sbempireradio",
+    "favicon": "https://api.nobexradio.com/public/stations/sbempireradio/logo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T22:27:10Z",
+    "streams": [
+      {
+        "id": "aws_0e047d2737eeb73c4fc1",
+        "stationId": "awb_c62df4df8fca026f35ba",
+        "name": "Sbempireradio",
+        "country": "US",
+        "url": "https://listen.nobexradio.com/station_sbempireradio?ref=radiobrowser",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9169de40-5af0-4794-a349-e2d6fe41ca47"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

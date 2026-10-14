@@ -1,6 +1,6 @@
 {
   "id": "sports",
-  "stationCount": 588,
+  "stationCount": 593,
   "stations": [
     {
       "id": "awb_10ca8b5c03a36ce2fd6c",
@@ -3676,8 +3676,7 @@
           ],
           "sourceIds": [
             "BR:radio-itatiaia-95-7-fm",
-            "e5844d74-ce83-4e37-9b01-006b07c649e0",
-            "f66f08c3-1616-4dd6-a54f-75aa29aa8249"
+            "e5844d74-ce83-4e37-9b01-006b07c649e0"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:05:31Z"
@@ -5902,8 +5901,7 @@
           ],
           "sourceIds": [
             "58b21904-5153-439e-b615-5be7c946587a",
-            "f9589065-62c7-4c6f-b28a-e3ee1735c9ca",
-            "fca33042-53cc-4e38-ab4f-08265da49ae0"
+            "f9589065-62c7-4c6f-b28a-e3ee1735c9ca"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:16:48Z"
@@ -6006,6 +6004,54 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T21:27:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2d89e02fab5c42ad0ad7",
+      "name": "cristal boyacá 98.3 fm",
+      "country": "CO",
+      "subdivision": "tunja",
+      "languages": [],
+      "categories": [
+        "news",
+        "sports",
+        "latin"
+      ],
+      "tags": [
+        "crossover",
+        "deportes",
+        "música popular mexicana",
+        "noticias",
+        "ranchera",
+        "romántica",
+        "salsa",
+        "tropical"
+      ],
+      "homepage": "https://www.cristalboyaca.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T01:40:34Z",
+      "streams": [
+        {
+          "id": "aws_b5067350bede21fa041b",
+          "stationId": "awb_2d89e02fab5c42ad0ad7",
+          "name": "cristal boyacá 98.3 fm",
+          "country": "CO",
+          "url": "https://impactodigitalcol.com/8020/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -7446,8 +7492,7 @@
           ],
           "sourceIds": [
             "476ae5be-d323-49eb-a53f-071c8abe83d9",
-            "59865fbe-7cb6-4e3d-b21c-9e689c2dda57",
-            "5e9bdf98-972f-4cc5-a205-20467e971778"
+            "59865fbe-7cb6-4e3d-b21c-9e689c2dda57"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:22:00Z"
@@ -9256,7 +9301,7 @@
           "codec": "aac",
           "bitrate": 128,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -9309,7 +9354,6 @@
           ],
           "sourceIds": [
             "38a33fc0-be05-4c98-8c6a-ba3869575bc1",
-            "4c289274-8f55-4e8e-b3e0-cbfff38df83b",
             "ES:rac1"
           ],
           "lastCheckOk": true,
@@ -10499,6 +10543,174 @@
       ]
     },
     {
+      "id": "awb_4b312b344c426aaf65f8",
+      "name": "BBC Radio 5 Live (UK)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "talk",
+        "sports"
+      ],
+      "tags": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_live",
+      "favicon": "https://ichef.bbci.co.uk/images/ic/raw/p0mw75bg.png.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T19:55:18Z",
+      "streams": [
+        {
+          "id": "aws_db3e7989f70904bec806",
+          "stationId": "awb_4b312b344c426aaf65f8",
+          "name": "BBC Radio 5 Live (UK)",
+          "country": "GB",
+          "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live.m3u8",
+          "codec": "aac",
+          "bitrate": 135,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "22cf6ca2-cb22-46e3-bc75-ae0f8edc4e4b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_963a01033105c28f45fc",
+      "name": "BBC Radio 5 Sports Extra (UK only)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "sports"
+      ],
+      "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_live_sports_extra",
+      "favicon": "https://ichef.bbci.co.uk/images/ic/raw/p0mw75dn.png.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T10:56:48Z",
+      "streams": [
+        {
+          "id": "aws_9d69fcd43f7af44d774f",
+          "stationId": "awb_963a01033105c28f45fc",
+          "name": "BBC Radio 5 Sports Extra (UK only)",
+          "country": "GB",
+          "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live_sports_extra.m3u8",
+          "codec": "aac",
+          "bitrate": 135,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e3740a99-2ce3-413f-b6d4-074620d4243b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d7848c3eeca8b2c67603",
+      "name": "BBC Radio 5 Sports Extra 2 (UK only)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "sports"
+      ],
+      "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_sports_extra_2",
+      "favicon": "https://ichef.bbci.co.uk/images/ic/raw/p0mwrhbj.png.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T16:58:37Z",
+      "streams": [
+        {
+          "id": "aws_84e28859cf4d9fd34d2d",
+          "stationId": "awb_d7848c3eeca8b2c67603",
+          "name": "BBC Radio 5 Sports Extra 2 (UK only)",
+          "country": "GB",
+          "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_2.m3u8",
+          "codec": "aac",
+          "bitrate": 135,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "578283ad-ddd8-4027-984e-c35b8ffa8270"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4a2d6934df1aca9d9e85",
+      "name": "BBC Radio 5 Sports Extra 3 (UK only)",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "sports"
+      ],
+      "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_sports_extra_3",
+      "favicon": "https://ichef.bbci.co.uk/images/ic/raw/p0mwrj3q.png.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T17:30:33Z",
+      "streams": [
+        {
+          "id": "aws_af34160fc5420a92db18",
+          "stationId": "awb_4a2d6934df1aca9d9e85",
+          "name": "BBC Radio 5 Sports Extra 3 (UK only)",
+          "country": "GB",
+          "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_3.m3u8",
+          "codec": "aac",
+          "bitrate": 135,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "80c172b6-4d4a-405d-8342-6427a373bca4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_51d329181de9faebf9cf",
       "name": "BBC Radio Cymru (128k)",
       "country": "GB",
@@ -10680,7 +10892,6 @@
           ],
           "sourceIds": [
             "3d858afe-779c-4ae1-89a9-58bec0c14ba9",
-            "a6d18be5-282c-42ea-90f5-40320466399a",
             "c7c46f53-f15e-4945-823f-9ff3da0c40b8"
           ],
           "lastCheckOk": true,
@@ -11721,8 +11932,7 @@
           ],
           "sourceIds": [
             "1f066f01-284d-41fd-8073-d19449ecf2c5",
-            "GH:citi-fm",
-            "da2b0cdc-57c6-4c84-81bf-33e4e165c0d4"
+            "GH:citi-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:39:51Z"
@@ -12953,12 +13163,13 @@
         "sports"
       ],
       "tags": [
-        "sport"
+        "sport",
+        "talk & speech"
       ],
       "homepage": "http://metropolis.live24.gr/",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "updatedAt": "2026-01-15T06:09:44Z",
       "streams": [
         {
@@ -12975,10 +13186,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "1aeb9f0a-fa65-4395-ad85-12efa8c3fea8"
+            "1aeb9f0a-fa65-4395-ad85-12efa8c3fea8",
+            "c8f270d9-4836-448b-83e0-773aab6f5440"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T13:28:02Z"
+          "lastCheckedAt": "2026-10-12T18:19:05Z"
         }
       ]
     },
@@ -15136,7 +15348,6 @@
           ],
           "sourceIds": [
             "04416a89-0149-4bbe-a38a-599314470063",
-            "2842bf39-a660-435b-ab48-a5a14a897223",
             "370437b8-878d-4efd-b4f5-17f060a49a6e"
           ],
           "lastCheckOk": true,
@@ -21693,8 +21904,7 @@
           ],
           "sourceIds": [
             "NO:nrk-sport",
-            "d4a0647e-d1b9-42d9-b09b-db2fe719d97c",
-            "f7339150-0cda-4505-a25f-8b6ceecd2674"
+            "d4a0647e-d1b9-42d9-b09b-db2fe719d97c"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:10:26Z"
@@ -22006,8 +22216,7 @@
           ],
           "sourceIds": [
             "7293d8f3-941d-4a7b-ace0-01c9584410f0",
-            "aab4fa49-bf54-4c76-8ba4-79ee27f2602e",
-            "dbc018ae-1848-4f26-a677-367011a1f4b2"
+            "aab4fa49-bf54-4c76-8ba4-79ee27f2602e"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:11:50Z"
@@ -22811,8 +23020,7 @@
           ],
           "sourceIds": [
             "128183d0-29ca-419f-ba01-1b85c159ed4d",
-            "a937cbfe-2eed-47de-8387-b1b3f27adce0",
-            "ec830183-c384-4f24-80c0-cd3d119e0081"
+            "a937cbfe-2eed-47de-8387-b1b3f27adce0"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:53:31Z"
@@ -23298,8 +23506,7 @@
           ],
           "sourceIds": [
             "0102d9a6-24c7-4491-87ae-e84a879b9ed9",
-            "9f897e16-14f1-470f-8f38-d0ddef347348",
-            "f47fbfc1-445a-4c31-afc1-4098d4e7591b"
+            "9f897e16-14f1-470f-8f38-d0ddef347348"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:06:49Z"
@@ -23434,7 +23641,7 @@
     },
     {
       "id": "awb_157cae45a63d534142e8",
-      "name": "Talksport",
+      "name": "TalkSport",
       "country": "UG",
       "subdivision": null,
       "languages": [
@@ -23446,7 +23653,7 @@
       "tags": [
         "sports"
       ],
-      "homepage": "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957",
+      "homepage": "https://radio.talksport.com/stream",
       "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241102_165602672.jpg?alt=media&token=e2a175e1-3810-4929-84e8-77833dbb5cfd",
       "type": null,
       "sourceCount": 3,
@@ -23531,8 +23738,7 @@
           ],
           "sourceIds": [
             "UG:talksport-1",
-            "a7f67ce6-da3a-489f-81bc-ef07946323e8",
-            "ef8c3b90-771f-48a1-8967-ae9ddd4f9295"
+            "a7f67ce6-da3a-489f-81bc-ef07946323e8"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:37:36Z"

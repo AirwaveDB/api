@@ -3142,9 +3142,7 @@
         ],
         "sourceIds": [
           "0555b35e-d8c7-4f92-bc7d-44bbd92ff054",
-          "9612fc35-0601-11e8-ae97-52543be04c81",
-          "9bb680bc-0476-434a-a3ef-d3d630912ed9",
-          "a0831ef4-dca7-43f8-8bb0-61b9a6e5d599"
+          "9612fc35-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T07:45:46Z"
@@ -3529,8 +3527,7 @@
         ],
         "sourceIds": [
           "912497fa-8532-491f-8987-95c45720a7be",
-          "FR:sun-soul-funk",
-          "e5df2775-8ae3-4c76-a5e5-c7c3d5c50eda"
+          "FR:sun-soul-funk"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T09:20:08Z"
@@ -3721,6 +3718,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:39:27Z"
+      }
+    ]
+  },
+  "awb_bbf09ae4422b671490c6": {
+    "id": "awb_bbf09ae4422b671490c6",
+    "name": "Slack City",
+    "country": "GB",
+    "subdivision": "Brighton",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.slackcity.org.uk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T22:28:30Z",
+    "streams": [
+      {
+        "id": "aws_a4f9820c991f52a78b46",
+        "stationId": "awb_bbf09ae4422b671490c6",
+        "name": "Slack City",
+        "country": "GB",
+        "url": "https://www.slackcity.org.uk/",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "71ec3918-b00f-4b24-9f86-a5fb094c2f6e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },
@@ -4526,9 +4558,9 @@
       "jjk"
     ],
     "homepage": "https://server.mixify.in/listen/evergreen/radio.mp3",
-    "favicon": null,
+    "favicon": "https://radiosindia.com/images/mixify.jpg",
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24",
     "streams": [
       {
@@ -4551,6 +4583,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T09:02:21Z"
+      },
+      {
+        "id": "aws_6b618420d686e79ad468",
+        "stationId": "awb_bb4bba519c5f7e059b6c",
+        "name": "mixify",
+        "country": "IN",
+        "url": "https://server.mixify.in/listen/listen/radio.mp3",
+        "codec": "aac+",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8a0b710d-8110-489d-9189-93e7cb3a018f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T14:52:35Z"
       }
     ]
   },
@@ -6784,8 +6835,7 @@
         ],
         "sourceIds": [
           "4732081d-1bb0-472d-8e1e-6c78cf7abf2c",
-          "8a6545d4-9b5e-4412-8e32-f221e8594fa9",
-          "96166d6e-0601-11e8-ae97-52543be04c81"
+          "8a6545d4-9b5e-4412-8e32-f221e8594fa9"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T09:00:05Z"
@@ -7225,7 +7275,6 @@
         ],
         "sourceIds": [
           "7ecdd570-f6ec-452b-88c4-d5aca9515aa9",
-          "9cf38955-186e-4f97-8455-187cad86636d",
           "fc4faa54-5861-4ca2-99a6-0f31d7d48f0a"
         ],
         "lastCheckOk": true,
@@ -8080,8 +8129,7 @@
         ],
         "sourceIds": [
           "UA:loungefm-chill-out",
-          "a854e4eb-78b0-4b48-a7d2-c20845da886c",
-          "abe16a8d-855e-4b5f-b74c-314671a4e6bb"
+          "a854e4eb-78b0-4b48-a7d2-c20845da886c"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T21:29:09Z"

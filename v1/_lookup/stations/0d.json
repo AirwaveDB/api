@@ -1989,10 +1989,7 @@
         ],
         "sourceIds": [
           "1d574063-f360-11e8-a471-52543be04c81",
-          "7224487f-c608-4a04-9015-a134d52a9278",
-          "8b596ce2-3a96-11e9-9b4e-52543be04c81",
-          "DE:0-n-dance-on-radio",
-          "a0ac995b-728d-4516-9a99-664c8aa66b43"
+          "DE:0-n-dance-on-radio"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:13:47Z"
@@ -2208,8 +2205,8 @@
         "name": "Club FM Bamberg",
         "country": "DE",
         "url": "https://stream.clubfm.de/clubfm.mp3",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 192,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -2219,7 +2216,7 @@
           "099b1a44-0475-4aa3-a0fb-ef9e878e650b"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },
@@ -2590,8 +2587,7 @@
         ],
         "sourceIds": [
           "15254a78-4335-4a89-aa40-6100146a5965",
-          "95e50e8c-7078-42da-9fee-0c4ca3fb30e5",
-          "bfe751b4-a321-4a00-afd6-24e87166767e"
+          "95e50e8c-7078-42da-9fee-0c4ca3fb30e5"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:13:46Z"
@@ -3417,6 +3413,68 @@
       }
     ]
   },
+  "awb_0d2a64a73086385cff7e": {
+    "id": "awb_0d2a64a73086385cff7e",
+    "name": "L'Eko des garrigues",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "alternative / indie",
+      "electro techno",
+      "electronic music",
+      "experimental electronic music",
+      "experimental techno"
+    ],
+    "homepage": "https://ekodesgarrigues.com/",
+    "favicon": "https://ekodesgarrigues.com/favicon",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-13T15:58:03Z",
+    "streams": [
+      {
+        "id": "aws_03668c197cbd619c13c0",
+        "stationId": "awb_0d2a64a73086385cff7e",
+        "name": "L'Eko des garrigues",
+        "country": "FR",
+        "url": "https://radio.ekodesgarrigues.com/eko-des-garrigues-128k.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ff1cef81-1331-45a8-a541-556381021ccc"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      },
+      {
+        "id": "aws_dc879bcad8a44a192a45",
+        "stationId": "awb_0d2a64a73086385cff7e",
+        "name": "L'Eko des garrigues",
+        "country": "FR",
+        "url": "https://radio.ekodesgarrigues.com/eko-des-garrigues-256k.ogg",
+        "codec": "ogg",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "855901b2-eba6-44aa-a986-1a6843bbd66d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
   "awb_0d1798cb0cd080bbc547": {
     "id": "awb_0d1798cb0cd080bbc547",
     "name": "NRJ Classic RNB",
@@ -3929,9 +3987,7 @@
         ],
         "sourceIds": [
           "4109e374-c310-4690-8455-c36e717a6e20",
-          "6b92af91-7a1d-443c-a382-22d6dc21d0b4",
-          "a933e805-8c3b-4842-b41f-05617340f68e",
-          "afd40da6-32bf-4249-9629-57dd5906a35c"
+          "a933e805-8c3b-4842-b41f-05617340f68e"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:50:27Z"
@@ -4507,8 +4563,7 @@
         ],
         "sourceIds": [
           "IE:rewind",
-          "df44c4d5-df63-4f39-9230-ea57fa8d916b",
-          "ee4af689-2f0d-490b-93d2-e72180b76784"
+          "df44c4d5-df63-4f39-9230-ea57fa8d916b"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:15:44Z"
@@ -7405,7 +7460,7 @@
         "codec": "aac",
         "bitrate": 128,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],

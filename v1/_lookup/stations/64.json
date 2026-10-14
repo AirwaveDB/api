@@ -910,6 +910,46 @@
       }
     ]
   },
+  "awb_64804a20467603a1a4a1": {
+    "id": "awb_64804a20467603a1a4a1",
+    "name": "Rádio Fábrica de Gaiteiros",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "gaita",
+      "instrumental",
+      "regional",
+      "tradicionalista"
+    ],
+    "homepage": "https://fabricadegaiteiros.com.br/",
+    "favicon": "https://fabricadegaiteiros.com.br/images/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T00:30:30Z",
+    "streams": [
+      {
+        "id": "aws_9bdfe8a02db026589f80",
+        "stationId": "awb_64804a20467603a1a4a1",
+        "name": "Rádio Fábrica de Gaiteiros",
+        "country": "BR",
+        "url": "https://servidor28-1.brlogic.com:8540/live",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "be7c6ab1-5092-45dd-a088-0232c7dc30da"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_648cd5c551be7a637311": {
     "id": "awb_648cd5c551be7a637311",
     "name": "Rádio Grenal",
@@ -1068,9 +1108,7 @@
         ],
         "sourceIds": [
           "36de98f9-00ae-451d-9c55-7fd25b6e3ec2",
-          "653b4b2a-399e-4ab6-9fbb-864503d23a2b",
-          "BR:radio-sertaneja",
-          "bb6ba0d5-294b-46e2-ba53-822d26655b8d"
+          "BR:radio-sertaneja"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:02:53Z"
@@ -3190,8 +3228,7 @@
         ],
         "sourceIds": [
           "04136062-baf3-478d-a7eb-7b334536b0cb",
-          "FR:le-grigri",
-          "d8104a4f-865d-438a-92c1-2ac2442459cf"
+          "FR:le-grigri"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T13:49:32Z"
@@ -3613,41 +3650,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T00:17:49Z"
-      }
-    ]
-  },
-  "awb_647c94aad6d3273bdefc": {
-    "id": "awb_647c94aad6d3273bdefc",
-    "name": "Vibes",
-    "country": "GD",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://tunein.com/radio/VIBES-101-FM-1013-s195981/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T23:08:16Z",
-    "streams": [
-      {
-        "id": "aws_c8c3561272fb2a77a8bc",
-        "stationId": "awb_647c94aad6d3273bdefc",
-        "name": "Vibes",
-        "country": "GD",
-        "url": "https://tunein.com/radio/VIBES-101-FM-1013-s195981/",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "3b11456b-54d0-4823-8f62-c5c6023eda12"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
       }
     ]
   },
@@ -6204,7 +6206,6 @@
         ],
         "sourceIds": [
           "7385df09-8f0f-4426-bd38-310b32a2c053",
-          "83bc086e-f3d5-43df-8f80-55d95911d056",
           "NL:vibe-radio"
         ],
         "lastCheckOk": true,
@@ -7578,8 +7579,7 @@
         ],
         "sourceIds": [
           "US:102-7-kiis-fm",
-          "c76686ca-a8b9-4db9-9839-1470c9599623",
-          "ffa61df7-f408-48a5-b4fb-ca07e8ec3c1a"
+          "c76686ca-a8b9-4db9-9839-1470c9599623"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:10:34Z"

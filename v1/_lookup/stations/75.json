@@ -595,7 +595,7 @@
         "codec": "unknown",
         "bitrate": 0,
         "protocol": "http",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -964,6 +964,41 @@
       }
     ]
   },
+  "awb_753afc670ee6d134c9cb": {
+    "id": "awb_753afc670ee6d134c9cb",
+    "name": "MHT Radio Petrich",
+    "country": "BG",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://mht.hopto.org/MHTRadio/",
+    "favicon": "https://mht.hopto.org/MHTRadio/mht-radio-icon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T20:16:33Z",
+    "streams": [
+      {
+        "id": "aws_5d83d0cf5255fa0b4280",
+        "stationId": "awb_753afc670ee6d134c9cb",
+        "name": "MHT Radio Petrich",
+        "country": "BG",
+        "url": "https://mht.hopto.org:8444/stream/1",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dc699a1f-9d20-4993-b42d-70d28e444a87"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
   "awb_75bbb26ccbf65d1b4b55": {
     "id": "awb_75bbb26ccbf65d1b4b55",
     "name": "Радио Велико Търново",
@@ -1134,7 +1169,6 @@
         ],
         "sourceIds": [
           "0b3ea1b5-5231-42d8-8604-698481cf7716",
-          "561d36aa-3dd2-48a4-8ef2-337b71ce2395",
           "BR:hunter-fm-master"
         ],
         "lastCheckOk": true,
@@ -1873,8 +1907,7 @@
         ],
         "sourceIds": [
           "CL:radiorara",
-          "b7290d05-36ea-44d6-acda-fc4856d24367",
-          "c4292112-294f-4d09-b57d-97bdc135d5c5"
+          "b7290d05-36ea-44d6-acda-fc4856d24367"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T13:30:05Z"
@@ -3525,8 +3558,7 @@
         ],
         "sourceIds": [
           "ES:gente-radio",
-          "baf103ee-0bc7-492e-b2eb-5b19aff48ddc",
-          "c359d0b0-26c1-401d-ab68-339b660ef1a6"
+          "baf103ee-0bc7-492e-b2eb-5b19aff48ddc"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T12:05:35Z"
@@ -5158,8 +5190,7 @@
         ],
         "sourceIds": [
           "41d84e62-d74d-48eb-9bef-c96aa39e45a7",
-          "HN:abdulbasit-abdulsamad",
-          "e24b36b4-f853-4d6b-8760-15a45035a7b7"
+          "HN:abdulbasit-abdulsamad"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T01:35:52Z"
@@ -5858,7 +5889,7 @@
         "codec": "unknown",
         "bitrate": 0,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],

@@ -3832,9 +3832,7 @@
         ],
         "sourceIds": [
           "34f13bf6-5a77-4d18-a302-81e0c59c8bb0",
-          "9612ef7e-0601-11e8-ae97-52543be04c81",
-          "e23b4571-d497-402b-84c4-f4677ead0bc2",
-          "f4e50286-2646-4b39-8e4b-e6d92cdcb1a9"
+          "9612ef7e-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:22:00Z"
@@ -5061,7 +5059,7 @@
         "codec": "aac",
         "bitrate": 28,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -5126,8 +5124,7 @@
         ],
         "sourceIds": [
           "212f40c2-cf2c-4ba5-a3e8-fb7a9ff8b3d2",
-          "77cd3a60-1db5-4a08-b188-443137b00bc2",
-          "8bcc5ed3-008a-4664-b8fa-0fc927cf784f"
+          "77cd3a60-1db5-4a08-b188-443137b00bc2"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T09:06:22Z"
@@ -5147,7 +5144,6 @@
         ],
         "sourceIds": [
           "09411514-ee92-4afa-8be1-5a21945a5502",
-          "964be8b7-0601-11e8-ae97-52543be04c81",
           "9a223699-5871-4828-8a01-f8cb85933cfd"
         ],
         "lastCheckOk": true,
@@ -5187,10 +5183,7 @@
         ],
         "sourceIds": [
           "438cf074-d324-482f-9cfa-e0d41641b0eb",
-          "50687b6d-2f08-485f-a1eb-c05fa81f4efa",
-          "58731948-665a-4f8e-8bca-49ef9ffed231",
-          "9a022a88-0cc8-4629-988e-8aaece49f084",
-          "a6692d00-d0ae-4573-88d6-7fbcf11bd860"
+          "50687b6d-2f08-485f-a1eb-c05fa81f4efa"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:53:11Z"
@@ -5930,7 +5923,6 @@
         ],
         "sourceIds": [
           "18b8f6c5-60c9-4944-9469-0ea7a3e2b858",
-          "9a22e57f-7b7c-4e10-84db-e9b46479a8d6",
           "LV:top-radio"
         ],
         "lastCheckOk": true,
@@ -8719,8 +8711,8 @@
         "name": "KTFB 89.3 - Texas Farm Bureau Radio - Waco, Texas",
         "country": "US",
         "url": "https://streaming.live365.com/a40335",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -8730,7 +8722,7 @@
           "ae27128a-3983-4baa-9e20-54bcf9f1ddf7"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

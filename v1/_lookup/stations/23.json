@@ -2929,15 +2929,7 @@
         ],
         "sourceIds": [
           "05fefb5f-d874-4f26-a4ec-2b35b4c8742e",
-          "1a1d5c9f-19c1-4649-939f-0122ebbc6709",
-          "5d3f8769-66ba-4d12-9238-3a39d3c2c75a",
-          "5ebc3f82-06c1-4879-ac9a-ebcdd9a3cd5e",
-          "5f3383bd-deb8-45a0-900c-cb6201d23619",
-          "84601b9a-9589-4ab0-ad7d-04320cb408f2",
-          "85368c9a-143e-4176-976d-d47033590db8",
-          "cd188aba-a0b0-4083-9819-810d98aaa5c3",
-          "ce0ca49b-b76c-40ca-8a38-86c1c2f9f626",
-          "eb1b2e6e-5d44-4a2c-8f22-8c5cf578822d"
+          "cd188aba-a0b0-4083-9819-810d98aaa5c3"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:52:40Z"
@@ -4465,7 +4457,9 @@
     "name": "Hobby Rádió",
     "country": "HU",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "hu"
+    ],
     "categories": [
       "talk",
       "oldies"
@@ -4476,10 +4470,10 @@
       "90s",
       "talk"
     ],
-    "homepage": null,
+    "homepage": "http://www.hobbyradio.hu/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-07-15T11:12:28Z",
     "streams": [
       {
@@ -4496,10 +4490,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "33f89d19-549b-4c61-ba30-43a0e67aca1b"
+          "33f89d19-549b-4c61-ba30-43a0e67aca1b",
+          "960ca20d-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T23:17:34Z"
+        "lastCheckedAt": "2026-10-12T20:30:46Z"
       }
     ]
   },
@@ -5072,8 +5067,7 @@
         ],
         "sourceIds": [
           "010cb97f-69a4-4248-809e-38d89251ef6e",
-          "IT:radio-mambo",
-          "b46e8ec3-f784-4a94-b852-3b59236b79bf"
+          "IT:radio-mambo"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T03:15:43Z"
@@ -5225,7 +5219,7 @@
         "codec": "aac",
         "bitrate": 97,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser",
           "verified-radio-streams"

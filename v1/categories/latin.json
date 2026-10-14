@@ -1,6 +1,6 @@
 {
   "id": "latin",
-  "stationCount": 859,
+  "stationCount": 860,
   "stations": [
     {
       "id": "awb_06ef4368f4f0622da461",
@@ -3305,8 +3305,6 @@
           ],
           "sourceIds": [
             "15928e36-5a32-4841-9edc-13b4f4c4462c",
-            "1c469232-1ce2-42af-ad9d-11ded64a5b8e",
-            "9fa14ddf-4fba-45dc-b630-50c2d120b935",
             "CA:la-bonita-x101"
           ],
           "lastCheckOk": true,
@@ -3360,7 +3358,6 @@
           ],
           "sourceIds": [
             "838b7009-5a0c-4bfe-ab5f-65bfe420e499",
-            "88026e68-5744-41ff-b5fe-108d94b31a05",
             "CA:ritmo-x99"
           ],
           "lastCheckOk": true,
@@ -4102,8 +4099,7 @@
           ],
           "sourceIds": [
             "72e22acc-7f8f-4da6-a11a-496cd7ea2acb",
-            "CL:radio-7-tazas-de-molina-fm",
-            "e980b858-8ecb-4896-9954-06c656ce4ded"
+            "CL:radio-7-tazas-de-molina-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:01:02Z"
@@ -6475,6 +6471,54 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:03:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2d89e02fab5c42ad0ad7",
+      "name": "cristal boyacá 98.3 fm",
+      "country": "CO",
+      "subdivision": "tunja",
+      "languages": [],
+      "categories": [
+        "news",
+        "sports",
+        "latin"
+      ],
+      "tags": [
+        "crossover",
+        "deportes",
+        "música popular mexicana",
+        "noticias",
+        "ranchera",
+        "romántica",
+        "salsa",
+        "tropical"
+      ],
+      "homepage": "https://www.cristalboyaca.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T01:40:34Z",
+      "streams": [
+        {
+          "id": "aws_b5067350bede21fa041b",
+          "stationId": "awb_2d89e02fab5c42ad0ad7",
+          "name": "cristal boyacá 98.3 fm",
+          "country": "CO",
+          "url": "https://impactodigitalcol.com/8020/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -9441,7 +9485,7 @@
           "codec": "unknown",
           "bitrate": 146,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser",
             "verified-radio-streams"
@@ -10532,8 +10576,6 @@
           ],
           "sourceIds": [
             "021bfbad-9a32-4f50-8c97-c0464ba4d723",
-            "59ed1948-3a05-4607-892b-880c44df0aba",
-            "5fff59b2-7371-488e-9988-8f62e9345cc2",
             "8bcdd9f3-6556-413a-af4b-d008e19d1586"
           ],
           "lastCheckOk": true,
@@ -13951,8 +13993,7 @@
           ],
           "sourceIds": [
             "35bc904f-514c-4faa-a547-8c7e887f4d0f",
-            "7a401c5a-ed82-4f4f-88f6-72275e334941",
-            "f5d63306-c394-484f-ba37-842092773a8f"
+            "7a401c5a-ed82-4f4f-88f6-72275e334941"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:33:14Z"
@@ -15198,7 +15239,6 @@
           ],
           "sourceIds": [
             "3116a515-835a-41ff-9e6d-b9f2272ad876",
-            "3d4c97c7-e122-4304-b8c8-52336683bda1",
             "eb1bdcef-b4e1-4dee-8d53-67605db73b3f"
           ],
           "lastCheckOk": true,
@@ -21264,7 +21304,6 @@
           ],
           "sourceIds": [
             "124c45d7-57a9-46ed-8b93-83b306992126",
-            "4b39f668-0225-400e-8ea4-0e3accbda347",
             "GB:xl-uk-radio"
           ],
           "lastCheckOk": true,
@@ -22868,8 +22907,7 @@
           ],
           "sourceIds": [
             "010cb97f-69a4-4248-809e-38d89251ef6e",
-            "IT:radio-mambo",
-            "b46e8ec3-f784-4a94-b852-3b59236b79bf"
+            "IT:radio-mambo"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:15:43Z"
@@ -37010,7 +37048,6 @@
           ],
           "sourceIds": [
             "33409387-4ddf-4987-9b90-3163672b82bc",
-            "37c8c143-7ea6-4bda-a28e-2535099c6ef7",
             "PE:radio-sensacion-chosica"
           ],
           "lastCheckOk": true,
@@ -39119,8 +39156,7 @@
           ],
           "sourceIds": [
             "af625f9a-63b0-4a6c-94a2-726660143ba5",
-            "f1470d9f-6393-4b64-88a1-48ad6a8453a5",
-            "f2b22b5d-2830-44d5-ae5d-706deeca7413"
+            "f1470d9f-6393-4b64-88a1-48ad6a8453a5"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:32:30Z"
@@ -40510,8 +40546,7 @@
           ],
           "sourceIds": [
             "2062e3ec-1643-4aea-9c59-f5c381a1f1f6",
-            "4556370e-28b1-4c49-9e06-f2e06a4fbe4f",
-            "842d24b0-a512-4407-a19e-4642d96551cd"
+            "4556370e-28b1-4c49-9e06-f2e06a4fbe4f"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:47:37Z"
@@ -41462,7 +41497,6 @@
           ],
           "sourceIds": [
             "03eccedf-bf40-4413-8d52-817c298331e2",
-            "1f531ac1-0f4d-444c-bd33-7576a19b820b",
             "US:z-92-miami-92-3-fm-wcmq-fm-spanish-broadcasting-"
           ],
           "lastCheckOk": true,

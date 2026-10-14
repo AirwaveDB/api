@@ -3714,6 +3714,51 @@
       }
     ]
   },
+  "awb_4b312b344c426aaf65f8": {
+    "id": "awb_4b312b344c426aaf65f8",
+    "name": "BBC Radio 5 Live (UK)",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk",
+      "sports"
+    ],
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_live",
+    "favicon": "https://ichef.bbci.co.uk/images/ic/raw/p0mw75bg.png.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T19:55:18Z",
+    "streams": [
+      {
+        "id": "aws_db3e7989f70904bec806",
+        "stationId": "awb_4b312b344c426aaf65f8",
+        "name": "BBC Radio 5 Live (UK)",
+        "country": "GB",
+        "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live.m3u8",
+        "codec": "aac",
+        "bitrate": 135,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "22cf6ca2-cb22-46e3-bc75-ae0f8edc4e4b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
   "awb_4befdb7dcd7ab2cbc677": {
     "id": "awb_4befdb7dcd7ab2cbc677",
     "name": "BBC World Service",
@@ -6912,7 +6957,7 @@
     "id": "awb_4b49e5c817ec766fe4aa",
     "name": "radiOFF",
     "country": "PL",
-    "subdivision": "Oderland",
+    "subdivision": "Lubuskie",
     "languages": [
       "de",
       "pl"
@@ -6944,11 +6989,11 @@
       "storytelling",
       "viadrina"
     ],
-    "homepage": "https://radioff.com/",
+    "homepage": "http://radioff.com/",
     "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-09-11T22:11:04Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-13T19:07:23Z",
     "streams": [
       {
         "id": "aws_6eee021a3987c64510ce",
@@ -6968,7 +7013,7 @@
           "4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T20:16:22Z"
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },
@@ -7520,10 +7565,7 @@
         ],
         "sourceIds": [
           "30ee6e42-bc1e-4f26-8d6d-0b064e9a2869",
-          "86bea340-a814-4c76-8fc5-7e09b07f585a",
-          "d669ce1a-f049-4b3f-be2c-d9ea905a96dc",
-          "f2a48cf8-7f87-4b8a-88f3-5101eb697bd3",
-          "feea0b0d-7fc3-46e8-8a04-4c4d6ef20ffc"
+          "86bea340-a814-4c76-8fc5-7e09b07f585a"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T13:05:32Z"
@@ -9620,11 +9662,6 @@
         ],
         "sourceIds": [
           "1d3d87d4-5248-4145-be90-116a6715f83f",
-          "24dfaf83-7783-4f74-a6a6-3e39d09224ca",
-          "37c24b73-8dda-4588-a5ce-62b748ab8f10",
-          "45c2948a-2630-41c1-86c0-219efafd2729",
-          "96441004-0601-11e8-ae97-52543be04c81",
-          "b4f4b759-129d-4d82-bbfe-30c22c7bca48",
           "e7ed23c0-f667-4b95-be47-9e560d6eaf80"
         ],
         "lastCheckOk": true,

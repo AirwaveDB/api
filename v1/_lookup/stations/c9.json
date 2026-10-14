@@ -899,7 +899,6 @@
         ],
         "sourceIds": [
           "097a6470-fa11-4480-b777-bd453ed82b8f",
-          "1bd6615c-aa0e-46ab-8a84-ea898eadc79e",
           "7c198f98-6f06-49ea-b84e-b5bf0ff72a5b"
         ],
         "lastCheckOk": true,
@@ -2846,7 +2845,6 @@
         ],
         "sourceIds": [
           "ad331ab5-d1df-4fa8-afb9-76770b88617c",
-          "b21037d3-97e4-452c-bf9b-5bdfafd1c61c",
           "e2bb38dd-c0c4-4e02-b6ef-f6a724277dcd"
         ],
         "lastCheckOk": true,
@@ -3795,8 +3793,7 @@
         ],
         "sourceIds": [
           "766f2be3-676f-40af-80e7-eab16f0da225",
-          "FR:made-in-80",
-          "f55cae84-f65b-4ad4-9da6-d2e4c79b66db"
+          "FR:made-in-80"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:54:47Z"
@@ -5828,7 +5825,6 @@
         ],
         "sourceIds": [
           "466a4d77-85c3-4c01-a8f8-8fc03c1eccc2",
-          "63b06607-97d8-487e-975b-82ef2fe0bb0b",
           "KY:z99-grand-cayman"
         ],
         "lastCheckOk": true,
@@ -8012,41 +8008,6 @@
       }
     ]
   },
-  "awb_c927dbee3088927c23cd": {
-    "id": "awb_c927dbee3088927c23cd",
-    "name": "Hard Rock",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z",
-    "streams": [
-      {
-        "id": "aws_949a274fc6a3b00b1475",
-        "stationId": "awb_c927dbee3088927c23cd",
-        "name": "Hard Rock",
-        "country": "RU",
-        "url": "http://79.120.77.11:8000/hardrock",
-        "codec": "aac+",
-        "bitrate": 320,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "aa3675c6-229b-4e49-8ada-12c41e3e36fa"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T20:56:24Z"
-      }
-    ]
-  },
   "awb_c9af3796a5cec1548af0": {
     "id": "awb_c9af3796a5cec1548af0",
     "name": "Radio Caprice - Gothic Metal",
@@ -9208,6 +9169,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:50:27Z"
+      }
+    ]
+  },
+  "awb_c9a2d4db071362fa5dd1": {
+    "id": "awb_c9a2d4db071362fa5dd1",
+    "name": "The America first radio network",
+    "country": "US",
+    "subdivision": "Allentown",
+    "languages": [
+      "eng"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "talk radio"
+    ],
+    "homepage": "https://www.nobexradio.com/radio/ns-theamericafirstradionetwork/the-america-first-radio-network",
+    "favicon": "https://api.nobexradio.com/public/stations/theamericafirstradionetwork/logo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T18:13:15Z",
+    "streams": [
+      {
+        "id": "aws_b18ad6fc703d392da441",
+        "stationId": "awb_c9a2d4db071362fa5dd1",
+        "name": "The America first radio network",
+        "country": "US",
+        "url": "https://listen.nobexradio.com/station_theamericafirstradionetwork?ref=radiobrowser",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e4e2c442-268f-4ff1-8a3c-61248c2ca300"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

@@ -1307,7 +1307,6 @@
         ],
         "sourceIds": [
           "2b957d50-4a98-4f70-a9e4-5860ddb6dc68",
-          "6e3cf16f-c5bb-45e5-9226-65bb33f0c9e7",
           "CL:super45-fm"
         ],
         "lastCheckOk": true,
@@ -3184,7 +3183,6 @@
         ],
         "sourceIds": [
           "9b412b14-6820-4942-ae2a-ee7610f100e7",
-          "c4de91e4-1d7a-487b-9def-54e3750f5214",
           "dc589856-0400-4583-a786-0b81d9b2d57d"
         ],
         "lastCheckOk": true,
@@ -3237,19 +3235,23 @@
     "name": "FRANCE INFO",
     "country": "FR",
     "subdivision": null,
-    "languages": [],
+    "languages": [
+      "fr"
+    ],
     "categories": [],
-    "tags": [],
-    "homepage": null,
+    "tags": [
+      "informations"
+    ],
+    "homepage": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T02:15:15Z",
     "streams": [
       {
         "id": "aws_7f2c52144540be7ca5e8",
         "stationId": "awb_7e4cdd77244e0cf3faa2",
-        "name": "FRANCE INFO",
+        "name": "France Info",
         "country": "FR",
         "url": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
         "codec": "aac",
@@ -3260,10 +3262,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "66f5501d-184c-4f0b-be12-809b9bfe4054"
+          "66f5501d-184c-4f0b-be12-809b9bfe4054",
+          "717fc5d5-fe02-462c-8d41-64c4c6895d98"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T21:49:47Z"
+        "lastCheckedAt": "2026-10-12T13:04:43Z"
       }
     ]
   },
@@ -4758,7 +4761,6 @@
         ],
         "sourceIds": [
           "3436ccf1-6abc-4719-ad5c-9d35f7e7fd2e",
-          "38767341-e305-4b48-9251-d833ba561dd9",
           "IT:music-star-franco-battiato"
         ],
         "lastCheckOk": true,
@@ -6130,7 +6132,7 @@
         "codec": "aac",
         "bitrate": 192,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -7116,6 +7118,46 @@
       }
     ]
   },
+  "awb_7e190c32f2fdf418b554": {
+    "id": "awb_7e190c32f2fdf418b554",
+    "name": "fark radyo",
+    "country": "TR",
+    "subdivision": "Turkey",
+    "languages": [
+      "tk"
+    ],
+    "categories": [],
+    "tags": [
+      "latin jazz",
+      "pop music"
+    ],
+    "homepage": "http://farkradyo.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T12:59:18Z",
+    "streams": [
+      {
+        "id": "aws_ba13b01d39e9a56c4f09",
+        "stationId": "awb_7e190c32f2fdf418b554",
+        "name": "fark radyo",
+        "country": "TR",
+        "url": "https://farkradyo.ozelip.com.tr:8058/stream",
+        "codec": "aac+",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "653a063c-6d10-46da-af43-ceaeee50c933"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
   "awb_7ec1bf46faa6688a14c1": {
     "id": "awb_7ec1bf46faa6688a14c1",
     "name": "literal",
@@ -7736,7 +7778,7 @@
         "codec": "unknown",
         "bitrate": 0,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -7865,7 +7907,6 @@
         ],
         "sourceIds": [
           "0e034caa-b0b4-474b-a5cd-2729f3b5d0ed",
-          "98737672-ac29-4040-87c4-f3126969bcd4",
           "f0ff7973-99c8-43f2-a853-19d9224e32af"
         ],
         "lastCheckOk": true,
@@ -8307,7 +8348,7 @@
         "codec": "unknown",
         "bitrate": 0,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],

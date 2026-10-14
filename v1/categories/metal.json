@@ -1135,7 +1135,6 @@
           ],
           "sourceIds": [
             "6c564099-d863-46a3-901c-0fcec456db10",
-            "73e9c54e-2f1a-436f-a24c-25019a5a6708",
             "BA:patrisamato-radio"
           ],
           "lastCheckOk": true,
@@ -1361,7 +1360,6 @@
           ],
           "sourceIds": [
             "326b707e-94b5-4ba0-973d-617637cc281f",
-            "960ef299-0601-11e8-ae97-52543be04c81",
             "BE:rtbf-classic-21-metal"
           ],
           "lastCheckOk": true,
@@ -2436,9 +2434,7 @@
           ],
           "sourceIds": [
             "6615c0f3-c43e-4b65-99f6-c5ea65bf8dfb",
-            "957eda2f-bb0b-4db4-b1fd-16d444dcf6fe",
-            "CA:irock24-7",
-            "b8efc30a-b7fb-4e2b-95c4-03b9439ee42d"
+            "CA:irock24-7"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:48:59Z"
@@ -2676,6 +2672,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T00:15:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_60054dddc6bdb234dd7e",
+      "name": "The Taint",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "rock",
+        "metal"
+      ],
+      "tags": [
+        "metal",
+        "rock"
+      ],
+      "homepage": "https://thetaint.ca/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T19:23:24Z",
+      "streams": [
+        {
+          "id": "aws_069999b58018b549534f",
+          "stationId": "awb_60054dddc6bdb234dd7e",
+          "name": "The Taint",
+          "country": "CA",
+          "url": "https://radio.thetaint.ca/listen/the_taint/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "339d3591-c1ca-44ec-925d-5ea20802a319"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -3400,8 +3439,7 @@
           ],
           "sourceIds": [
             "CO:nevermore-radio-nevermore-network",
-            "baccaeaf-4cfa-4e52-bd01-031c617263ec",
-            "d2a83065-4b07-4c1c-bc0c-75f7c29cfbe1"
+            "baccaeaf-4cfa-4e52-bd01-031c617263ec"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:25:22Z"
@@ -3765,7 +3803,6 @@
           ],
           "sourceIds": [
             "09583181-fc2c-4e96-b432-55bbeacd040b",
-            "511c1130-53b9-478c-8ec7-29d36f7e90aa",
             "CZ:radio-fonlord"
           ],
           "lastCheckOk": true,
@@ -4093,7 +4130,6 @@
           ],
           "sourceIds": [
             "1bf09691-f362-11e8-a471-52543be04c81",
-            "6e4f8762-17f3-4b11-8719-5ad18f5159ad",
             "DE:0-n-rock-on-radio"
           ],
           "lastCheckOk": true,
@@ -6631,7 +6667,6 @@
           ],
           "sourceIds": [
             "74b63d30-f3f1-4040-a09d-82a51196bc6c",
-            "8cd43257-3c70-4e85-92cb-d2728b296814",
             "b2fdd491-7376-4240-b11c-66af45e71579"
           ],
           "lastCheckOk": true,
@@ -6816,8 +6851,7 @@
           ],
           "sourceIds": [
             "269db43e-3967-4d4c-b229-3845a1f8641d",
-            "4579447c-baff-4d5b-84ee-26c8acdf8498",
-            "d847f067-69b8-4ab6-aad0-e3f5b59f24ca"
+            "4579447c-baff-4d5b-84ee-26c8acdf8498"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:09:53Z"
@@ -7290,9 +7324,12 @@
       "id": "awb_563187bb0c79d8cef2b7",
       "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
       "country": "DE",
-      "subdivision": null,
+      "subdivision": "Sanden, ID",
       "languages": [
-        "de"
+        "de",
+        "en",
+        "id",
+        "no"
       ],
       "categories": [
         "metal"
@@ -7303,8 +7340,8 @@
       "homepage": null,
       "favicon": "https://www.metal-only.de/fileadmin/tpl//fav.ico",
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-01-15T00:07:55Z",
+      "sourceCount": 4,
+      "updatedAt": "2026-01-15T08:44:04Z",
       "streams": [
         {
           "id": "aws_cd43fb1ab84cfd3ae2ed",
@@ -7325,88 +7362,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:15:34Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_afd57387938930a596a2",
-      "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
-      "country": "DE",
-      "subdivision": "Sanden, ID",
-      "languages": [
-        "en",
-        "id",
-        "no"
-      ],
-      "categories": [
-        "metal"
-      ],
-      "tags": [
-        "metal"
-      ],
-      "homepage": null,
-      "favicon": "https://i.imgur.com/1Cvlgew.jpeg",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T08:44:04Z",
-      "streams": [
-        {
-          "id": "aws_2e2545ad369c71dfcf63",
-          "stationId": "awb_afd57387938930a596a2",
-          "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
-          "country": "DE",
-          "url": "https://metal-only.sp.radio.fm/stream",
-          "codec": "mp3",
-          "bitrate": 192,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "71859f45-72b1-44b4-a419-871ae1a05073"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:03:59Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_f5e6402b605ff149a1b0",
-      "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
-      "country": "DE",
-      "subdivision": "St. Gallen",
-      "languages": [],
-      "categories": [
-        "metal"
-      ],
-      "tags": [
-        "metal"
-      ],
-      "homepage": null,
-      "favicon": "https://jukebox.kreuzbergswiss.ch/logo.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:45Z",
-      "streams": [
-        {
-          "id": "aws_f69e75d8166be3fa049f",
-          "stationId": "awb_f5e6402b605ff149a1b0",
-          "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
-          "country": "DE",
-          "url": "https://metal-only.sp.radio.fm/stream",
-          "codec": "mp3",
-          "bitrate": 192,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1f6e36cc-de24-4750-b8c4-58a777b61c45"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:35:34Z"
         }
       ]
     },
@@ -7446,8 +7401,7 @@
           ],
           "sourceIds": [
             "92b51587-eab4-4417-8cad-b6018a46ef89",
-            "cbccd4ff-fbbf-4136-9c64-c01dcee69b2e",
-            "ed801bb5-3c2c-48cb-8c9a-33e69e159d80"
+            "cbccd4ff-fbbf-4136-9c64-c01dcee69b2e"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:15:49Z"
@@ -8377,6 +8331,72 @@
       ]
     },
     {
+      "id": "awb_81750a27c35b05f650a2",
+      "name": "RADIO BOB Metal",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "en"
+      ],
+      "categories": [
+        "rock",
+        "metal"
+      ],
+      "tags": [
+        "hard rock",
+        "metal",
+        "radio bob",
+        "radiobob",
+        "rock"
+      ],
+      "homepage": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T04:42:48Z",
+      "streams": [
+        {
+          "id": "aws_aba78f2c09a7f2c55b45",
+          "stationId": "awb_81750a27c35b05f650a2",
+          "name": "RADIO BOB Metal",
+          "country": "DE",
+          "url": "https://streams.radiobob.de/bob-metal/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671667687&cb=705450347&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "22585394-5294-43c3-897e-ed9e7d480836"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T05:03:13Z"
+        },
+        {
+          "id": "aws_35f3097a27051501c687",
+          "stationId": "awb_81750a27c35b05f650a2",
+          "name": "RADIO BOB! Metal",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ca89adf8-760f-484f-8fc7-96ac1b412c79"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T15:19:36Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a213f8fc7ff0996aa6db",
       "name": "Radio BOB! AC DC",
       "country": "DE",
@@ -8864,53 +8884,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:43:05Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_81750a27c35b05f650a2",
-      "name": "RADIO BOB! Metal",
-      "country": "DE",
-      "subdivision": null,
-      "languages": [
-        "de",
-        "en"
-      ],
-      "categories": [
-        "rock",
-        "metal"
-      ],
-      "tags": [
-        "hard rock",
-        "metal",
-        "radio bob",
-        "radiobob",
-        "rock"
-      ],
-      "homepage": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T04:42:48Z",
-      "streams": [
-        {
-          "id": "aws_35f3097a27051501c687",
-          "stationId": "awb_81750a27c35b05f650a2",
-          "name": "RADIO BOB! Metal",
-          "country": "DE",
-          "url": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
-          "codec": "mp3",
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "ca89adf8-760f-484f-8fc7-96ac1b412c79"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T15:19:36Z"
         }
       ]
     },
@@ -11247,6 +11220,48 @@
       ]
     },
     {
+      "id": "awb_22dcaa07cab92ac7655d",
+      "name": "METAL BROTHERS",
+      "country": "ES",
+      "subdivision": "Almería",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "categories": [
+        "metal"
+      ],
+      "tags": [
+        "heavy metal"
+      ],
+      "homepage": "https://azuracast.javidai.uk/public/metalmeria",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T18:27:05Z",
+      "streams": [
+        {
+          "id": "aws_12968552f95f865ed3f7",
+          "stationId": "awb_22dcaa07cab92ac7655d",
+          "name": "METAL BROTHERS",
+          "country": "ES",
+          "url": "https://azuracast.javidai.uk/listen/metalmeria/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "98e39928-1801-414c-b6e7-dd7b58614dd6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9b1cb4c6464a6742b55c",
       "name": "RADIOPERMU",
       "country": "ES",
@@ -12231,7 +12246,6 @@
           ],
           "sourceIds": [
             "1742f2e9-ae7e-4197-8acb-969b0775b2dd",
-            "9e219cbd-9bd0-4950-997d-f17bd8fbe793",
             "FR:radio-metal"
           ],
           "lastCheckOk": true,
@@ -12355,7 +12369,7 @@
         "metal"
       ],
       "homepage": "https://lesonunique.com/mysun/parcourir/sun-metal",
-      "favicon": "https://assets.radioplayer.org/250/2501928/600/600/m6gk7w9y.png",
+      "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-02T03:21:24Z",
@@ -13213,7 +13227,6 @@
           ],
           "sourceIds": [
             "2f9a7d6c-1e4d-4511-9943-347ad136e98d",
-            "94e61c2c-a6fb-4ff0-8b3d-1041a3e8e42e",
             "GB:the-voice-of-doom"
           ],
           "lastCheckOk": true,
@@ -13301,8 +13314,7 @@
           ],
           "sourceIds": [
             "6cb06d85-3079-4f36-84f2-8eb8f3d1e97c",
-            "GB:totalrock-radio",
-            "ee843b89-e69d-4a64-bb8f-0ed8da7a558a"
+            "GB:totalrock-radio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:25:06Z"
@@ -13601,8 +13613,7 @@
           ],
           "sourceIds": [
             "69012315-9077-4779-97af-0f453c4ba593",
-            "GR:rock-angels",
-            "ed3dd158-bef7-4c6c-9af6-81b79ae8099e"
+            "GR:rock-angels"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:45:08Z"
@@ -15634,9 +15645,7 @@
           ],
           "sourceIds": [
             "7005fb24-5b0e-4880-9243-54b42287ddcc",
-            "9617d67b-0601-11e8-ae97-52543be04c81",
-            "PL:antyradio",
-            "f4dfff67-876a-4f2d-b49a-7bb643f4665d"
+            "PL:antyradio"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T05:41:26Z"
@@ -22310,7 +22319,7 @@
       ]
     },
     {
-      "id": "awb_675c3102d34abcd49006",
+      "id": "awb_e30adb5644183baa8e09",
       "name": "True Black Metal Radio",
       "country": "UA",
       "subdivision": null,
@@ -22318,21 +22327,23 @@
         "en"
       ],
       "categories": [
+        "rock",
         "metal"
       ],
       "tags": [
         "black metal",
-        "metal"
+        "metal",
+        "rock"
       ],
       "homepage": "http://trueblackmetalradio.com/#/home",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T04:38:30Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-08-24",
       "streams": [
         {
-          "id": "aws_c107ee6fbb4c43708d04",
-          "stationId": "awb_675c3102d34abcd49006",
+          "id": "aws_1ac6f363f09e5db9104f",
+          "stationId": "awb_e30adb5644183baa8e09",
           "name": "True Black Metal Radio",
           "country": "UA",
           "url": "http://trueblackmetalradio.com:666/radio",
@@ -22348,6 +22359,27 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T00:05:57Z"
+        },
+        {
+          "id": "aws_4de8f3028f10f7038320",
+          "stationId": "awb_e30adb5644183baa8e09",
+          "name": "True Black Metal Radio",
+          "country": "UA",
+          "url": "https://trueblackmetalradio.com:8000/radio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "UA:true-black-metal-radio",
+            "a6e7696f-e9bb-4b0e-9bba-728a6e92a150"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:06:28Z"
         }
       ]
     },
@@ -22483,9 +22515,7 @@
           ],
           "sourceIds": [
             "45e702c2-b8a0-4c94-8298-423a249cab55",
-            "617df2eb-cd9b-4fb0-a584-8e5e2b7230ff",
-            "7be55ace-d961-48bf-8f3d-b20c308aba29",
-            "e3a89ae3-ced1-46bb-8b9e-c91877860824"
+            "617df2eb-cd9b-4fb0-a584-8e5e2b7230ff"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:39:25Z"
@@ -22531,8 +22561,7 @@
           ],
           "sourceIds": [
             "039d540e-3d6e-4e1b-9707-f031d5362368",
-            "4552f53b-cc17-4b85-a601-607c010fb575",
-            "ecf0014f-a5ee-49e4-a8a9-470c81102a3f"
+            "4552f53b-cc17-4b85-a601-607c010fb575"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:21:12Z"

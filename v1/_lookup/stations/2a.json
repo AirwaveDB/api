@@ -1304,7 +1304,7 @@
         "codec": "unknown",
         "bitrate": 0,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -4330,8 +4330,7 @@
         ],
         "sourceIds": [
           "0b80a32f-3779-42c1-a71f-39175d76c8f2",
-          "GB:chocolate-radio-com",
-          "a3331a6c-03cd-40b8-aa12-26e99ecdc10b"
+          "GB:chocolate-radio-com"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T23:28:19Z"
@@ -6524,7 +6523,6 @@
         ],
         "sourceIds": [
           "25847e5e-2769-478a-9bb3-a9ae9b8a0a9e",
-          "56db1998-4d48-42b4-a424-bfcec290aeb3",
           "PT:radio-festival-madeira-98-4-fm"
         ],
         "lastCheckOk": true,
@@ -7050,8 +7048,7 @@
         ],
         "sourceIds": [
           "1d7bf408-11cd-4ae2-b3ea-7c435503045c",
-          "SI:radio-nula-beatz",
-          "ba098fa3-057b-4ec6-bfd8-f00a319a155a"
+          "SI:radio-nula-beatz"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T03:23:40Z"
@@ -7846,7 +7843,7 @@
   },
   "awb_2a1c7f4ed90413017c5e": {
     "id": "awb_2a1c7f4ed90413017c5e",
-    "name": "octave radio",
+    "name": "Octave radio",
     "country": "US",
     "subdivision": null,
     "languages": [],
@@ -7854,12 +7851,13 @@
       "classical"
     ],
     "tags": [
-      "classical"
+      "classical",
+      "international"
     ],
-    "homepage": null,
+    "homepage": "https://octaverecords.out.airtime.pro/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z",
     "streams": [
       {
@@ -7876,10 +7874,11 @@
           "radio-browser"
         ],
         "sourceIds": [
+          "1b729d28-f0cc-4dc4-be1c-2a09e5f4c5cd",
           "9bb29268-6a49-4304-8bc1-cf576545682a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T11:07:06Z"
+        "lastCheckedAt": "2026-10-12T19:48:17Z"
       }
     ]
   },

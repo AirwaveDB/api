@@ -1396,6 +1396,49 @@
       }
     ]
   },
+  "awb_60054dddc6bdb234dd7e": {
+    "id": "awb_60054dddc6bdb234dd7e",
+    "name": "The Taint",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "eng"
+    ],
+    "categories": [
+      "rock",
+      "metal"
+    ],
+    "tags": [
+      "metal",
+      "rock"
+    ],
+    "homepage": "https://thetaint.ca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T19:23:24Z",
+    "streams": [
+      {
+        "id": "aws_069999b58018b549534f",
+        "stationId": "awb_60054dddc6bdb234dd7e",
+        "name": "The Taint",
+        "country": "CA",
+        "url": "https://radio.thetaint.ca/listen/the_taint/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "339d3591-c1ca-44ec-925d-5ea20802a319"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
+      }
+    ]
+  },
   "awb_60595173b6b17a1d5278": {
     "id": "awb_60595173b6b17a1d5278",
     "name": "Arc Musique",
@@ -2680,8 +2723,7 @@
         ],
         "sourceIds": [
           "92e8654d-e8af-4d45-acca-f06c95ae77c3",
-          "ad155ded-acfb-47a6-b65d-56aadc4ec966",
-          "d1f704c9-3420-4adc-a2e7-5096a3a4a93d"
+          "ad155ded-acfb-47a6-b65d-56aadc4ec966"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:33:05Z"
@@ -3247,8 +3289,8 @@
     "homepage": "https://radio.xecod.com/listen/albanna",
     "favicon": null,
     "type": null,
-    "sourceCount": 15,
-    "updatedAt": "2026-10-12T17:48:57Z",
+    "sourceCount": 16,
+    "updatedAt": "2026-10-13T18:02:03Z",
     "streams": [
       {
         "id": "aws_f88eb02cb872b229cd38",
@@ -3265,23 +3307,10 @@
         ],
         "sourceIds": [
           "062706e2-be5f-44a6-b179-c314d5432699",
-          "2432e4df-d932-4bfe-91a3-94532b0b18cc",
-          "2475eaa5-53b8-47c1-b30c-1a2c6433e81e",
-          "37f245dc-36ea-424c-ab48-a809acc4c548",
-          "46a23eaa-7b04-4c10-98e4-08eb301a39fb",
-          "46d2dee4-b5f0-4bdb-8d49-8f2ac5250fd5",
-          "6e6d480d-e35d-4f3b-a5c7-20a0629b8895",
-          "95e5e69a-2228-4cea-ac1f-749adcc0865c",
-          "a0e62d56-7b21-45c6-b16a-b695d0992352",
-          "a57c831b-bd64-434d-88aa-573e1587367e",
-          "b4c8e494-eaa5-4be9-9c9c-eb2c3a296911",
-          "dadc4713-4c94-495f-989b-dfc1d420fb1e",
-          "e14b4baf-b544-493a-9698-34138cf30b6b",
-          "e814deb9-a699-4cc9-abc6-2cfb174e3b08",
-          "f343d3a3-8ad0-432c-9d95-903aa6b08dfa"
+          "a57c831b-bd64-434d-88aa-573e1587367e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T20:26:34Z"
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },
@@ -5043,8 +5072,7 @@
         ],
         "sourceIds": [
           "000c2bf6-0780-4470-807f-23d938f7d59b",
-          "IE:gravity-hits",
-          "da8d25af-df97-4ab2-8b7f-2d9f674ff7e2"
+          "IE:gravity-hits"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T07:01:25Z"
@@ -5833,41 +5861,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T23:18:14Z"
-      }
-    ]
-  },
-  "awb_60e3336525f644b0d7a9": {
-    "id": "awb_60e3336525f644b0d7a9",
-    "name": "Skonto Plus",
-    "country": "LV",
-    "subdivision": "Rīgā",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z",
-    "streams": [
-      {
-        "id": "aws_3034fa4c2511509af2d7",
-        "stationId": "awb_60e3336525f644b0d7a9",
-        "name": "Skonto Plus",
-        "country": "LV",
-        "url": "https://stream.radioskontoplus.lv:8443/st128",
-        "codec": "aac+",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "8dcbd860-5165-4cfa-b947-9a7b6c5dbf7a"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T21:21:07Z"
       }
     ]
   },
@@ -8576,7 +8569,6 @@
         ],
         "sourceIds": [
           "54af555b-6d18-477d-b8f8-a5d1b67d4328",
-          "74034a84-2746-43cf-9779-90a3ab796833",
           "7b2b0b81-38c0-4ad6-95a6-4f46b89323e9"
         ],
         "lastCheckOk": true,
@@ -10218,8 +10210,7 @@
         ],
         "sourceIds": [
           "4b302d30-2c20-4c15-95c9-f22b3d889380",
-          "b96225b2-8536-4b9b-8add-03582fd2e6a2",
-          "f20380d2-1b07-4d62-b9d5-a24354172d9b"
+          "b96225b2-8536-4b9b-8add-03582fd2e6a2"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:46:14Z"

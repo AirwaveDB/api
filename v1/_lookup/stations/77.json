@@ -1808,14 +1808,16 @@
     "name": "Absolut Relax",
     "country": "DE",
     "subdivision": "Bayern, München, AAC 128",
-    "languages": [],
+    "languages": [
+      "de"
+    ],
     "categories": [],
     "tags": [],
-    "homepage": null,
+    "homepage": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/aacp",
     "favicon": "https://absolutradio.de/images/stations/229_relax.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-06-25T14:12:57Z",
     "streams": [
       {
         "id": "aws_11bb8a6961d3d660a6b5",
@@ -1835,6 +1837,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T12:08:52Z"
+      },
+      {
+        "id": "aws_20d20d6ec587362c7614",
+        "stationId": "awb_777c1728c63bfcd6b87e",
+        "name": "Absolut Relax",
+        "country": "DE",
+        "url": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/aacp",
+        "codec": "aac",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "96d2c507-bf24-440f-86c7-56094c897598"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T20:33:14Z"
       }
     ]
   },
@@ -6368,8 +6389,8 @@
         "name": "DFM PIONEER",
         "country": "RU",
         "url": "https://hls-01-dfm.hostingradio.ru/pioneer/playlist.m3u8",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 100,
         "protocol": "https",
         "hls": true,
         "sources": [
@@ -6379,7 +6400,7 @@
           "e248b080-9195-42e1-909f-b43a7a3d935f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },
@@ -6600,8 +6621,7 @@
         ],
         "sourceIds": [
           "35c5595b-fb89-43a0-84d7-240e4ce57200",
-          "777bd7cf-53c2-4f8b-86a3-23da1239f2a9",
-          "c514eb93-5ddd-4544-8c1c-e8177415ec13"
+          "777bd7cf-53c2-4f8b-86a3-23da1239f2a9"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:10:34Z"

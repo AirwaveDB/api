@@ -1,6 +1,6 @@
 {
   "code": "eng",
-  "stationCount": 56,
+  "stationCount": 60,
   "stations": [
     {
       "id": "awb_02c2c0b05a14e9a84b36",
@@ -37,7 +37,6 @@
           ],
           "sourceIds": [
             "4fdaf6ec-52c9-48e3-bbe6-5b5b9db05847",
-            "dc9ecc9d-49b6-4043-9534-af158c36ba56",
             "e619602d-1e37-486e-8277-b0f85a9425ac"
           ],
           "lastCheckOk": true,
@@ -167,6 +166,49 @@
       ]
     },
     {
+      "id": "awb_60054dddc6bdb234dd7e",
+      "name": "The Taint",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "rock",
+        "metal"
+      ],
+      "tags": [
+        "metal",
+        "rock"
+      ],
+      "homepage": "https://thetaint.ca/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T19:23:24Z",
+      "streams": [
+        {
+          "id": "aws_069999b58018b549534f",
+          "stationId": "awb_60054dddc6bdb234dd7e",
+          "name": "The Taint",
+          "country": "CA",
+          "url": "https://radio.thetaint.ca/listen/the_taint/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "339d3591-c1ca-44ec-925d-5ea20802a319"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_948600d048c0e97ad67a",
       "name": "move IT Radio",
       "country": "DE",
@@ -281,6 +323,68 @@
       ]
     },
     {
+      "id": "awb_be1451c86d5da07c8951",
+      "name": "Radio Wa3 (راديو وع)",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "ar",
+        "ara",
+        "en",
+        "eng",
+        "fr",
+        "fre"
+      ],
+      "categories": [
+        "jazz",
+        "electronic",
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "arabic",
+        "dabke",
+        "drum and bass",
+        "eclectic",
+        "electronic",
+        "funk",
+        "house",
+        "jazz",
+        "lofi",
+        "mahraganat",
+        "tarab",
+        "techno",
+        "underground",
+        "world music"
+      ],
+      "homepage": "https://wa3.live/",
+      "favicon": "https://wa3.live/wa3-logo-assets/wa3-icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T23:12:31Z",
+      "streams": [
+        {
+          "id": "aws_8d7fa82cbce31ea88900",
+          "stationId": "awb_be1451c86d5da07c8951",
+          "name": "Radio Wa3 (راديو وع)",
+          "country": "FR",
+          "url": "https://stream.wa3.live/wa3.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b444dadd-28b2-4dcb-84f2-3e2b73094f24"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_c888ccbf33cf9d20a0d5",
       "name": "BBC Live News (128k)",
       "country": "GB",
@@ -316,8 +420,7 @@
           ],
           "sourceIds": [
             "59813592-9a30-4e5c-bfc6-665724728582",
-            "b71664b3-93b3-4d6a-8c56-8b4c25482790",
-            "be2f9e99-7b30-4a19-a9a9-702a802bba08"
+            "b71664b3-93b3-4d6a-8c56-8b4c25482790"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:23:50Z"
@@ -366,7 +469,6 @@
           ],
           "sourceIds": [
             "3d858afe-779c-4ae1-89a9-58bec0c14ba9",
-            "a6d18be5-282c-42ea-90f5-40320466399a",
             "c7c46f53-f15e-4945-823f-9ff3da0c40b8"
           ],
           "lastCheckOk": true,
@@ -789,8 +891,7 @@
           ],
           "sourceIds": [
             "1dfa48a0-1a07-4d14-ba04-00e9206acee3",
-            "PH:palawan-wave-fm",
-            "cce4aaa7-b00e-460f-b072-a68477d8163e"
+            "PH:palawan-wave-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:37:12Z"
@@ -830,7 +931,6 @@
           ],
           "sourceIds": [
             "8a93fc65-55f8-4dc8-b0ee-fdfd3fde6372",
-            "9663abd4-45a3-48bc-b74c-66f91f7a9f71",
             "PH:radyo-natin-argao"
           ],
           "lastCheckOk": true,
@@ -923,7 +1023,6 @@
           ],
           "sourceIds": [
             "364bafed-107e-4735-bb9d-8ce2d32e25ca",
-            "767f0506-e473-49fd-ad41-24e6909229c8",
             "PH:radyo-natin-buhi"
           ],
           "lastCheckOk": true,
@@ -964,7 +1063,6 @@
           ],
           "sourceIds": [
             "12ae4787-b17a-44db-8359-fe10cf9d1ae9",
-            "3c624ab1-534d-4f03-aa4a-a258a47c62c6",
             "PH:radyo-natin-cdo"
           ],
           "lastCheckOk": true,
@@ -1167,10 +1265,7 @@
           ],
           "sourceIds": [
             "2f05efaf-bf54-482d-a410-f9cfb8484728",
-            "8c74f089-48fc-4752-8c5a-675efebe266c",
-            "a48e50cb-32c5-450a-bbe1-a92a4cfb7091",
-            "b78025cf-e68d-43f9-8e59-2a68ae84e7d7",
-            "d91bde3e-91b4-4712-a61a-f60dc7bb6150"
+            "a48e50cb-32c5-450a-bbe1-a92a4cfb7091"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:28:39Z"
@@ -1681,6 +1776,55 @@
       ]
     },
     {
+      "id": "awb_c62df4df8fca026f35ba",
+      "name": "Sbempireradio",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "jazz",
+        "hip-hop",
+        "reggae"
+      ],
+      "tags": [
+        "hip-hop",
+        "jazz",
+        "r&b",
+        "rap",
+        "reggae",
+        "urban",
+        "world"
+      ],
+      "homepage": "https://www.nobexradio.com/radio/ns-sbempireradio/sbempireradio",
+      "favicon": "https://api.nobexradio.com/public/stations/sbempireradio/logo",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T22:27:10Z",
+      "streams": [
+        {
+          "id": "aws_0e047d2737eeb73c4fc1",
+          "stationId": "awb_c62df4df8fca026f35ba",
+          "name": "Sbempireradio",
+          "country": "US",
+          "url": "https://listen.nobexradio.com/station_sbempireradio?ref=radiobrowser",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9169de40-5af0-4794-a349-e2d6fe41ca47"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_efbd32d5a1f2fe621a16",
       "name": "Soma FM Bossa Beyond",
       "country": "US",
@@ -2115,6 +2259,47 @@
       ]
     },
     {
+      "id": "awb_c9a2d4db071362fa5dd1",
+      "name": "The America first radio network",
+      "country": "US",
+      "subdivision": "Allentown",
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "talk radio"
+      ],
+      "homepage": "https://www.nobexradio.com/radio/ns-theamericafirstradionetwork/the-america-first-radio-network",
+      "favicon": "https://api.nobexradio.com/public/stations/theamericafirstradionetwork/logo",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T18:13:15Z",
+      "streams": [
+        {
+          "id": "aws_b18ad6fc703d392da441",
+          "stationId": "awb_c9a2d4db071362fa5dd1",
+          "name": "The America first radio network",
+          "country": "US",
+          "url": "https://listen.nobexradio.com/station_theamericafirstradionetwork?ref=radiobrowser",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e4e2c442-268f-4ff1-8a3c-61248c2ca300"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_365e1b3a15a16f60d224",
       "name": "WBRU Brown University",
       "country": "US",
@@ -2240,11 +2425,6 @@
           ],
           "sourceIds": [
             "1d3d87d4-5248-4145-be90-116a6715f83f",
-            "24dfaf83-7783-4f74-a6a6-3e39d09224ca",
-            "37c24b73-8dda-4588-a5ce-62b748ab8f10",
-            "45c2948a-2630-41c1-86c0-219efafd2729",
-            "96441004-0601-11e8-ae97-52543be04c81",
-            "b4f4b759-129d-4d82-bbfe-30c22c7bca48",
             "e7ed23c0-f667-4b95-be47-9e560d6eaf80"
           ],
           "lastCheckOk": true,
@@ -2378,7 +2558,6 @@
           ],
           "sourceIds": [
             "762979f1-f0da-4f57-96f6-497db80837c6",
-            "afcda3db-05d5-41b6-8a83-4d99f6090674",
             "fbd47272-fdc6-457c-ac93-98410bb4c777"
           ],
           "lastCheckOk": true,

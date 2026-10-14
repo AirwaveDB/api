@@ -1,7 +1,7 @@
 {
   "code": "JO",
-  "stationCount": 23,
-  "streamCount": 23,
+  "stationCount": 22,
+  "streamCount": 22,
   "stations": [
     {
       "id": "awb_17740f149da6952944bd",
@@ -475,9 +475,7 @@
           ],
           "sourceIds": [
             "6cc8dac5-70c2-40bb-b095-8606fe1ed0f8",
-            "79feed6a-4975-4bf1-995c-822e0f41426b",
-            "JO:mazaj-fm",
-            "d04217b3-11be-4f7e-b6d7-8e238ca27efa"
+            "JO:mazaj-fm"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:38:38Z"
@@ -648,54 +646,15 @@
       "tags": [
         "classical"
       ],
-      "homepage": null,
+      "homepage": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "updatedAt": "2026-01-14T22:54:03Z",
       "streams": [
         {
           "id": "aws_56e8f37ae32d6facee5c",
           "stationId": "awb_02ba5b9e542ead7d7086",
-          "name": "noursat jorden",
-          "country": "JO",
-          "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-          "codec": "aac,h.264",
-          "bitrate": 581,
-          "protocol": "http",
-          "hls": true,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "4b0b64d4-15b0-4f62-b233-326d6fff15e5"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T18:19:05Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_71642bcabb613642c70c",
-      "name": "noursat jorden",
-      "country": "JO",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "classical"
-      ],
-      "tags": [
-        "classical"
-      ],
-      "homepage": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:03Z",
-      "streams": [
-        {
-          "id": "aws_f6ae1e447e7f0a68c7c2",
-          "stationId": "awb_71642bcabb613642c70c",
           "name": "noursat jorden",
           "country": "JO",
           "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
@@ -707,10 +666,11 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "4b0b64d4-15b0-4f62-b233-326d6fff15e5",
             "523bbd9f-6ca8-4799-9c9a-5c9c75cc4d60"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:29:25Z"
+          "lastCheckedAt": "2026-10-12T18:19:05Z"
         }
       ]
     },

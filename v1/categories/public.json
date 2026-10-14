@@ -1,6 +1,6 @@
 {
   "id": "public",
-  "stationCount": 980,
+  "stationCount": 981,
   "stations": [
     {
       "id": "awb_ee82c064aaf7a19bf5c6",
@@ -5873,6 +5873,184 @@
       ]
     },
     {
+      "id": "awb_ceac03347026f81dacb7",
+      "name": "��� � ����� �����",
+      "country": "BG",
+      "subdivision": "Vidin",
+      "languages": [
+        "bg"
+      ],
+      "categories": [
+        "news",
+        "talk",
+        "public"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "talk"
+      ],
+      "homepage": "https://bnrnews.bg/vidin",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 8,
+      "updatedAt": "2026-09-27T08:28:16Z",
+      "streams": [
+        {
+          "id": "aws_21294edd7d8fc640b672",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �����",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f675794-db36-455c-9976-ad332e529071"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:46:14Z"
+        },
+        {
+          "id": "aws_1c477b34fa1e5979f2de",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �����",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb0ec624-7e9a-4a2a-bed0-e744ac2c4c25"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T12:23:56Z"
+        },
+        {
+          "id": "aws_18f68173373dd7db117b",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �����",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Vidin.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "31b00ae5-cb3f-4b05-855d-5034f0af5af2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T21:37:12Z"
+        },
+        {
+          "id": "aws_d265f68ada343550bcee",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� ������",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Burgas.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "27162a0c-5171-43d0-b13e-dde5b123cb38"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T03:10:47Z"
+        },
+        {
+          "id": "aws_3a1b81ffee843b5ea0a1",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �������",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "eebf99ef-f8a9-48cf-8772-4c28f4fdd22a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-11T23:43:52Z"
+        },
+        {
+          "id": "aws_55b43d00f155cf46f26f",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� ��������",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "08a488cf-9301-4ab4-9161-35d757d28e09"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T00:15:11Z"
+        },
+        {
+          "id": "aws_73c08221f2c66f032878",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� � ����� �����������",
+          "country": "BG",
+          "url": "https://lb-hls.cdn.bg/2032/fls/Blagoevgrad.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 41,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "06c0897c-572b-46a4-b227-b66f2fb11cfa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T08:12:29Z"
+        },
+        {
+          "id": "aws_a3b683dc333cc541f4ee",
+          "stationId": "awb_ceac03347026f81dacb7",
+          "name": "��� ��������",
+          "country": "BG",
+          "url": "https://play.global.audio/testbhi.aac",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4c0b539e-a32c-4e0c-b56a-de79254626b6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T06:53:34Z"
+        }
+      ]
+    },
+    {
       "id": "awb_fd8205f606fa3ba729c8",
       "name": "Educativa FM Maceió",
       "country": "BR",
@@ -6423,8 +6601,7 @@
           ],
           "sourceIds": [
             "4cc3e959-b572-4285-99e2-069151d03b5e",
-            "CA:100-greatest-jazz-lounge-bar",
-            "aeab6366-373b-4fee-98c9-ad2c9a7e7d71"
+            "CA:100-greatest-jazz-lounge-bar"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:28:02Z"
@@ -9474,8 +9651,7 @@
           ],
           "sourceIds": [
             "1ff4a420-f6a8-4c09-8084-5cc834882cd2",
-            "9628ea33-0601-11e8-ae97-52543be04c81",
-            "b6202b76-06b4-11e8-ae97-52543be04c81"
+            "9628ea33-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:07:32Z"
@@ -9563,8 +9739,7 @@
           ],
           "sourceIds": [
             "961ac56b-0601-11e8-ae97-52543be04c81",
-            "97796a69-e2f9-4346-b878-70e1a49bbde2",
-            "d97faf80-324a-4a00-8e39-da5b473ab987"
+            "97796a69-e2f9-4346-b878-70e1a49bbde2"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:18:02Z"
@@ -9584,7 +9759,6 @@
           ],
           "sourceIds": [
             "9625d631-0601-11e8-ae97-52543be04c81",
-            "9a368941-71a3-4bda-9186-6604d9030514",
             "eec3a93a-744e-4c7a-b6fa-0b07e803b942"
           ],
           "lastCheckOk": true,
@@ -10309,8 +10483,7 @@
           ],
           "sourceIds": [
             "48681bc8-21cd-46e3-a1ef-d8582f6daf6b",
-            "960ed987-0601-11e8-ae97-52543be04c81",
-            "9764de08-38be-4a9d-acbc-4b7d4ff2607b"
+            "960ed987-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:59:01Z"
@@ -12469,7 +12642,6 @@
           ],
           "sourceIds": [
             "64249e90-2db4-4fa1-8d86-9dc82da6e8af",
-            "76ad0d14-47e6-4618-8082-b2acaf319201",
             "CN:fm106-6"
           ],
           "lastCheckOk": true,
@@ -14702,8 +14874,7 @@
           ],
           "sourceIds": [
             "904dc6ee-50c8-4f16-bb00-d03360b6b6d4",
-            "9606f727-0601-11e8-ae97-52543be04c81",
-            "d2afc7d4-2b94-4699-9b9f-35a09bd5f2f6"
+            "9606f727-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:23:26Z"
@@ -17706,7 +17877,6 @@
           ],
           "sourceIds": [
             "3a6c5454-a001-4800-ae33-813b1227789e",
-            "76b129aa-45cc-46cf-b6b2-1fde08a2c8f9",
             "FR:fip-pop"
           ],
           "lastCheckOk": true,
@@ -18171,8 +18341,7 @@
           ],
           "sourceIds": [
             "0679b093-a1fa-409e-9912-922657f6a8fb",
-            "6a1440b2-e6f0-11e9-a96c-52543be04c81",
-            "b1b6dac2-e41d-4d6f-b942-67230bf16eee"
+            "6a1440b2-e6f0-11e9-a96c-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:12:28Z"
@@ -18241,9 +18410,7 @@
           ],
           "sourceIds": [
             "10652211-3b97-411b-ab87-128be29356ac",
-            "2d1cb9b5-0b7e-4d09-80a4-787140c3c015",
-            "5515db8e-8d5e-4f11-a923-f41fef8b7032",
-            "cf8bbd60-3f86-45e0-b0a3-0b30d4214a41"
+            "2d1cb9b5-0b7e-4d09-80a4-787140c3c015"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:18:22Z"
@@ -18397,7 +18564,6 @@
           ],
           "sourceIds": [
             "1cfb151d-a341-11e9-a787-52543be04c81",
-            "9aa4b420-52a9-4a05-ba24-16843801ccf0",
             "e158f1af-a4cd-4990-85d0-0e4bee122478"
           ],
           "lastCheckOk": true,
@@ -18418,11 +18584,7 @@
           ],
           "sourceIds": [
             "003baf55-9ac9-4352-bceb-375ee4203133",
-            "22c0d602-ed7a-4347-9056-40c22faff480",
-            "31074f8a-e6f4-11e9-a96c-52543be04c81",
-            "9df3c7af-26d1-4100-8bad-9cb2432ecdf4",
-            "b726b3cb-4d82-488d-bd7c-bd98d6306785",
-            "ba19a7c3-9d5a-46cf-89a4-00c27a0cfcab"
+            "22c0d602-ed7a-4347-9056-40c22faff480"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:28:39Z"
@@ -18696,10 +18858,7 @@
           ],
           "sourceIds": [
             "13b9c89c-8ceb-4899-ae9f-7e246f0b4ec8",
-            "21c167ad-ef09-4753-bee7-20ecb5ba97ac",
-            "8281d611-2d9f-440b-a7d2-242fefa62aa4",
-            "92c74333-ebb6-4246-b025-522a376637a9",
-            "d41cd653-89f0-4ca9-b849-70ce516e8a99"
+            "92c74333-ebb6-4246-b025-522a376637a9"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:19:49Z"
@@ -18861,8 +19020,7 @@
           ],
           "sourceIds": [
             "21b83eb8-370d-4076-a9bb-3d443fa5a449",
-            "33f93e78-ea93-4a36-a725-a8458c66d819",
-            "8a499272-c9d6-4114-9e8e-52053818d8ab"
+            "33f93e78-ea93-4a36-a725-a8458c66d819"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:50:27Z"
@@ -20711,8 +20869,7 @@
           ],
           "sourceIds": [
             "07cdff02-57c7-46ef-8a7c-33ead8434b12",
-            "961d1adb-0601-11e8-ae97-52543be04c81",
-            "ca5f7478-6631-40d8-84b7-cc60ae3acf3d"
+            "961d1adb-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:18:01Z"
@@ -24261,8 +24418,7 @@
           ],
           "sourceIds": [
             "6d179402-1d2a-4bd5-a475-14e7e60ee550",
-            "96185693-0601-11e8-ae97-52543be04c81",
-            "ba123667-3fa2-4398-b275-d16064b1f038"
+            "96185693-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T05:41:26Z"
@@ -24376,7 +24532,6 @@
           ],
           "sourceIds": [
             "31ff593f-3088-4d04-b698-ec6c93ccf649",
-            "40cf9f8f-7479-4388-9a86-8da77e28a18f",
             "5b3c0b41-f11c-4e2a-b954-074792fd09f7"
           ],
           "lastCheckOk": true,
@@ -32025,9 +32180,7 @@
           ],
           "sourceIds": [
             "1c3bf64c-8f62-4209-9cfb-5f51f144ba9d",
-            "960f9341-0601-11e8-ae97-52543be04c81",
-            "98152a6d-9a3d-46d7-8019-c8c03f29be38",
-            "a0892d0e-7093-4f05-887a-235e426aa900"
+            "960f9341-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:18:22Z"
@@ -32369,7 +32522,6 @@
           ],
           "sourceIds": [
             "29d78408-3fd3-4778-9786-526a03a7f428",
-            "2ee024c7-2561-4b38-894d-1be1a7b5f2e8",
             "PL:radio-freee-89-9"
           ],
           "lastCheckOk": true,
@@ -32672,8 +32824,7 @@
           ],
           "sourceIds": [
             "162edc5a-2882-4958-9063-44a51b430e06",
-            "d33eb5f1-6250-4a28-a39a-b5f85f12c92a",
-            "da2706a1-8aa7-46f4-907f-aee51b56dfad"
+            "d33eb5f1-6250-4a28-a39a-b5f85f12c92a"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:42:23Z"
@@ -34148,8 +34299,7 @@
           ],
           "sourceIds": [
             "24b5be31-68e8-4cb9-a5ce-4cefefeef98f",
-            "329577b0-b2ed-4191-bab7-a44dd1d790c0",
-            "ec91bee4-2482-4e7a-bdf0-05e02bcae6fb"
+            "329577b0-b2ed-4191-bab7-a44dd1d790c0"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:47:09Z"
@@ -34717,8 +34867,7 @@
           ],
           "sourceIds": [
             "23fb9ea6-caa7-4fc0-9cf5-85531d1e0391",
-            "7e7f197f-6a5a-4d08-9b5b-52eee51bdae2",
-            "b6027daf-b96f-44a6-a337-cf5b265a8376"
+            "7e7f197f-6a5a-4d08-9b5b-52eee51bdae2"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:05:02Z"
@@ -41974,8 +42123,7 @@
           ],
           "sourceIds": [
             "14543b1e-44bf-4151-ae89-ec23b6eb711f",
-            "7c5d35d2-5c63-49ec-b611-75e4f55b7036",
-            "dfd6b4a9-4617-4318-b863-c820555437d5"
+            "7c5d35d2-5c63-49ec-b611-75e4f55b7036"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:34:29Z"
@@ -44657,8 +44805,7 @@
           ],
           "sourceIds": [
             "6eaaefcc-af6f-4976-9a9a-b3124ab328d8",
-            "c0873830-b2a6-4661-b99c-0655cb3c775f",
-            "f1223f0c-8863-4a43-927d-64f8163327a0"
+            "c0873830-b2a6-4661-b99c-0655cb3c775f"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:33:14Z"
@@ -45902,7 +46049,6 @@
           ],
           "sourceIds": [
             "281d2206-7635-4403-b367-ac435dbc3af0",
-            "8fb7d792-2727-44d8-af88-bb6c59860640",
             "fc88c9e6-4a87-40af-96c9-84d073cab7bb"
           ],
           "lastCheckOk": true,
@@ -47932,9 +48078,7 @@
           ],
           "sourceIds": [
             "0557ebb3-5caa-4568-8fe9-379180f28fe6",
-            "1105607a-ffa7-4d68-8d4b-ce122583e027",
-            "92853798-e9f0-4013-b06d-c0010f9d6b0d",
-            "ae0f798a-6ce0-45db-ae77-479fad8c77ca"
+            "1105607a-ffa7-4d68-8d4b-ce122583e027"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:17:02Z"

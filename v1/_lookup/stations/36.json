@@ -3766,14 +3766,14 @@
     "id": "awb_36fd6222f734c674bf97",
     "name": "Jazz Ethopia World",
     "country": "ET",
-    "subdivision": "Amharic,Engilsh",
+    "subdivision": "amharic,engilsh",
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": null,
+    "homepage": "http://mediaserv38.live-streams.nl:8006/live",
     "favicon": "https://www.sovspot.com/wp-content/uploads/2022/07/coat-of-arms-of-ethiopia.png",
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z",
     "streams": [
       {
@@ -3794,6 +3794,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T22:03:07Z"
+      },
+      {
+        "id": "aws_447fe695ca5521fe93a5",
+        "stationId": "awb_36fd6222f734c674bf97",
+        "name": "Jazz Ethopia World",
+        "country": "ET",
+        "url": "http://mediaserv38.live-streams.nl:8006/live",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "44bdfe71-e1ce-4852-ad81-0836401df9d3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T16:18:02Z"
       }
     ]
   },
@@ -7532,7 +7551,7 @@
         "codec": "aac",
         "bitrate": 192,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],

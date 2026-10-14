@@ -1042,7 +1042,6 @@
         ],
         "sourceIds": [
           "18ab38fe-ab15-448d-8a23-542a9daea2c4",
-          "2e2e802e-6036-47cc-96fb-b68df6783099",
           "CH:kanal-k"
         ],
         "lastCheckOk": true,
@@ -2411,6 +2410,72 @@
       }
     ]
   },
+  "awb_81750a27c35b05f650a2": {
+    "id": "awb_81750a27c35b05f650a2",
+    "name": "RADIO BOB Metal",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de",
+      "en"
+    ],
+    "categories": [
+      "rock",
+      "metal"
+    ],
+    "tags": [
+      "hard rock",
+      "metal",
+      "radio bob",
+      "radiobob",
+      "rock"
+    ],
+    "homepage": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-01-15T04:42:48Z",
+    "streams": [
+      {
+        "id": "aws_aba78f2c09a7f2c55b45",
+        "stationId": "awb_81750a27c35b05f650a2",
+        "name": "RADIO BOB Metal",
+        "country": "DE",
+        "url": "https://streams.radiobob.de/bob-metal/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671667687&cb=705450347&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "22585394-5294-43c3-897e-ed9e7d480836"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T05:03:13Z"
+      },
+      {
+        "id": "aws_35f3097a27051501c687",
+        "stationId": "awb_81750a27c35b05f650a2",
+        "name": "RADIO BOB! Metal",
+        "country": "DE",
+        "url": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ca89adf8-760f-484f-8fc7-96ac1b412c79"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T15:19:36Z"
+      }
+    ]
+  },
   "awb_811b83c1cc67b3ad2958": {
     "id": "awb_811b83c1cc67b3ad2958",
     "name": "RADIO BOB! EMO",
@@ -2443,53 +2508,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:01:02Z"
-      }
-    ]
-  },
-  "awb_81750a27c35b05f650a2": {
-    "id": "awb_81750a27c35b05f650a2",
-    "name": "RADIO BOB! Metal",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [
-      "de",
-      "en"
-    ],
-    "categories": [
-      "rock",
-      "metal"
-    ],
-    "tags": [
-      "hard rock",
-      "metal",
-      "radio bob",
-      "radiobob",
-      "rock"
-    ],
-    "homepage": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T04:42:48Z",
-    "streams": [
-      {
-        "id": "aws_35f3097a27051501c687",
-        "stationId": "awb_81750a27c35b05f650a2",
-        "name": "RADIO BOB! Metal",
-        "country": "DE",
-        "url": "http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
-        "codec": "mp3",
-        "bitrate": 0,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "ca89adf8-760f-484f-8fc7-96ac1b412c79"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T15:19:36Z"
       }
     ]
   },
@@ -3028,15 +3046,17 @@
     "subdivision": null,
     "languages": [],
     "categories": [
-      "classical"
+      "classical",
+      "country"
     ],
     "tags": [
-      "classical"
+      "classical",
+      "country"
     ],
-    "homepage": null,
+    "homepage": "https://sonic.mediatelekom.net/9316/stream",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24",
     "streams": [
       {
@@ -6098,7 +6118,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:07Z",
     "streams": [
       {
@@ -6115,6 +6135,7 @@
           "radio-browser"
         ],
         "sourceIds": [
+          "189fff0d-1227-45b6-b922-c05826261a34",
           "92d4351f-157d-4382-9178-fa6f4d5b5651"
         ],
         "lastCheckOk": true,
@@ -6435,8 +6456,7 @@
         ],
         "sourceIds": [
           "643974fe-900c-4581-9080-483ba60c5558",
-          "92a05c89-1d25-4bd6-868d-c8590d906b50",
-          "efca83cc-60ed-46d4-bed6-2f0402067932"
+          "92a05c89-1d25-4bd6-868d-c8590d906b50"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T07:10:12Z"

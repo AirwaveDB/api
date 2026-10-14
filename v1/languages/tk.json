@@ -1,6 +1,6 @@
 {
   "code": "tk",
-  "stationCount": 2,
+  "stationCount": 3,
   "stations": [
     {
       "id": "awb_ba406e0f3c2c233c5af9",
@@ -91,6 +91,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:44:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7e190c32f2fdf418b554",
+      "name": "fark radyo",
+      "country": "TR",
+      "subdivision": "Turkey",
+      "languages": [
+        "tk"
+      ],
+      "categories": [],
+      "tags": [
+        "latin jazz",
+        "pop music"
+      ],
+      "homepage": "http://farkradyo.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T12:59:18Z",
+      "streams": [
+        {
+          "id": "aws_ba13b01d39e9a56c4f09",
+          "stationId": "awb_7e190c32f2fdf418b554",
+          "name": "fark radyo",
+          "country": "TR",
+          "url": "https://farkradyo.ozelip.com.tr:8058/stream",
+          "codec": "aac+",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "653a063c-6d10-46da-af43-ceaeee50c933"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     }

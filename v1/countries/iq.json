@@ -1,7 +1,7 @@
 {
   "code": "IQ",
-  "stationCount": 26,
-  "streamCount": 26,
+  "stationCount": 25,
+  "streamCount": 25,
   "stations": [
     {
       "id": "awb_cd36e2360eb58135580e",
@@ -656,7 +656,7 @@
       "id": "awb_b46b139b753136fc86c7",
       "name": "radio maria iraq",
       "country": "IQ",
-      "subdivision": null,
+      "subdivision": "اربيل",
       "languages": [],
       "categories": [
         "classical"
@@ -664,10 +664,10 @@
       "tags": [
         "classical"
       ],
-      "homepage": null,
-      "favicon": null,
+      "homepage": "http://dreamsiteradiocp4.com:8046/stream",
+      "favicon": "http://dreamsiteradiocp4.com:8046/stream",
       "type": null,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "updatedAt": "2026-01-14T22:54:04Z",
       "streams": [
         {
@@ -684,45 +684,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "8c8be036-e206-462f-9ed9-65d36b214319"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T19:45:28Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_d3c05b83d9c59f4bdaee",
-      "name": "radio maria iraq",
-      "country": "IQ",
-      "subdivision": "اربيل",
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "http://dreamsiteradiocp4.com:8046/stream",
-      "favicon": "http://dreamsiteradiocp4.com:8046/stream",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:04Z",
-      "streams": [
-        {
-          "id": "aws_ede0236cb3a10c620b87",
-          "stationId": "awb_d3c05b83d9c59f4bdaee",
-          "name": "radio maria iraq",
-          "country": "IQ",
-          "url": "http://dreamsiteradiocp4.com:8046/stream",
-          "codec": "mp3",
-          "bitrate": 64,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
+            "8c8be036-e206-462f-9ed9-65d36b214319",
             "e1393f04-f2eb-42d0-961f-e4de13a489b4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:30:31Z"
+          "lastCheckedAt": "2026-10-12T19:45:28Z"
         }
       ]
     },

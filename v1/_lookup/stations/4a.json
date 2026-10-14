@@ -982,9 +982,7 @@
         ],
         "sourceIds": [
           "0865e273-90cf-47fd-8edc-354b2fef32b6",
-          "52691bbc-72f0-4b1c-93f0-2a0fd13d9018",
-          "AU:sawt-sydney",
-          "ec7122c8-ffd6-4bd8-bd86-b6995892aab3"
+          "AU:sawt-sydney"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:45:28Z"
@@ -3783,6 +3781,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T23:11:30Z"
+      }
+    ]
+  },
+  "awb_4a2d6934df1aca9d9e85": {
+    "id": "awb_4a2d6934df1aca9d9e85",
+    "name": "BBC Radio 5 Sports Extra 3 (UK only)",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_sports_extra_3",
+    "favicon": "https://ichef.bbci.co.uk/images/ic/raw/p0mwrj3q.png.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T17:30:33Z",
+    "streams": [
+      {
+        "id": "aws_af34160fc5420a92db18",
+        "stationId": "awb_4a2d6934df1aca9d9e85",
+        "name": "BBC Radio 5 Sports Extra 3 (UK only)",
+        "country": "GB",
+        "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_sports_extra_3.m3u8",
+        "codec": "aac",
+        "bitrate": 135,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "80c172b6-4d4a-405d-8342-6427a373bca4"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

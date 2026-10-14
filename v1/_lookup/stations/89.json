@@ -1002,8 +1002,6 @@
         ],
         "sourceIds": [
           "3999c6df-6b30-44f2-bf11-39ed56f3f1c3",
-          "41bafb95-dfd1-4c80-9d05-cfeb9cf34c6f",
-          "4d1b2716-8aaf-40a5-8100-50ce7e0e29f9",
           "b0e15156-d111-412e-a962-3c7975265391"
         ],
         "lastCheckOk": true,
@@ -3117,7 +3115,6 @@
         ],
         "sourceIds": [
           "3d858afe-779c-4ae1-89a9-58bec0c14ba9",
-          "a6d18be5-282c-42ea-90f5-40320466399a",
           "c7c46f53-f15e-4945-823f-9ff3da0c40b8"
         ],
         "lastCheckOk": true,
@@ -3638,41 +3635,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:18:02Z"
-      }
-    ]
-  },
-  "awb_893b466a48eef7abc079": {
-    "id": "awb_893b466a48eef7abc079",
-    "name": "Power 95 FM Grenada",
-    "country": "GD",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.power95fm.com/index.html",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-12T22:57:30Z",
-    "streams": [
-      {
-        "id": "aws_ccf12d3fb979f54710fa",
-        "stationId": "awb_893b466a48eef7abc079",
-        "name": "Power 95 FM Grenada",
-        "country": "GD",
-        "url": "https://www.power95fm.com/index.html",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "de813f69-78bc-416b-abe7-a2de745f80f4"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
       }
     ]
   },
@@ -7145,8 +7107,7 @@
         ],
         "sourceIds": [
           "3e6cac20-bfcd-4141-880f-a58ee9ad2a21",
-          "TR:x-radio",
-          "f21b4940-2b6e-4436-b30f-fe16ce46f15a"
+          "TR:x-radio"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:54:12Z"
@@ -7686,13 +7647,13 @@
     "updatedAt": "2026-10-13T04:03:45Z",
     "streams": [
       {
-        "id": "aws_3c0fcb67d821c58073f0",
+        "id": "aws_cfd231e4cc096cef5e89",
         "stationId": "awb_8968a39c1ca9b22fe96a",
         "name": "KEZB 90.7 Beaver, Utah",
         "country": "US",
-        "url": "http://energy20.egihosting.com:4334/listen.pls",
-        "codec": null,
-        "bitrate": 0,
+        "url": "http://energy20.egihosting.com:4334/",
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "http",
         "hls": false,
         "sources": [
@@ -7702,7 +7663,7 @@
           "a02dce0d-4554-418e-aa6e-e7eb0bd96e7a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

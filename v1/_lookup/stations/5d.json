@@ -783,8 +783,6 @@
         ],
         "sourceIds": [
           "226c97ce-d088-4242-b354-27b4122951ae",
-          "6c57e7dc-3f30-4791-91de-5e4f6632af1a",
-          "d734c21f-a6b1-4a4a-9365-3afc13453eb7",
           "f3c6cae3-5f81-4e7c-bb5f-2f1bd4fbca7e"
         ],
         "lastCheckOk": true,
@@ -1015,43 +1013,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T12:50:45Z"
-      }
-    ]
-  },
-  "awb_5d5bcdcb2e938e63e485": {
-    "id": "awb_5d5bcdcb2e938e63e485",
-    "name": "Sakib FM",
-    "country": "BD",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [
-      "music"
-    ],
-    "homepage": "https://sakibfm.tumblr.com/",
-    "favicon": "https://static2.mytuner.mobi/media/tvos_radios/YPLTzDKahr.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T05:41:13Z",
-    "streams": [
-      {
-        "id": "aws_bd3fe9f15428e237e96b",
-        "stationId": "awb_5d5bcdcb2e938e63e485",
-        "name": "Sakib FM",
-        "country": "BD",
-        "url": "https://sakibfm.tumblr.com/",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "d0eae407-f122-4eaf-a86b-563dd48690fb"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
       }
     ]
   },
@@ -4656,9 +4617,7 @@
         ],
         "sourceIds": [
           "0312cdac-7f97-4322-9bff-b79f865d1959",
-          "GB:radio-central-24",
-          "bd24e3d2-3e2e-47c4-b0a2-73e551728f4c",
-          "d1762707-7919-45ca-bf5e-73067049053c"
+          "GB:radio-central-24"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T01:35:52Z"
@@ -5799,9 +5758,7 @@
         ],
         "sourceIds": [
           "11208a93-9194-4a60-84f8-99bfe1912b83",
-          "8a0a3735-907c-4535-9c01-8f1e60b669d2",
-          "KZ:radio-tmk",
-          "cfbc1dc9-b8e1-4e7c-8205-efe774f6dbbf"
+          "KZ:radio-tmk"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:22:27Z"
@@ -6737,8 +6694,7 @@
         ],
         "sourceIds": [
           "4406eb02-8077-4035-999a-73ec35bf51d9",
-          "NZ:mouthfull-radio",
-          "de0f20c2-a5b9-41fd-91e0-8b419acf52da"
+          "NZ:mouthfull-radio"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:56:11Z"
@@ -8701,6 +8657,53 @@
       }
     ]
   },
+  "awb_5db71dc57861ca4b8890": {
+    "id": "awb_5db71dc57861ca4b8890",
+    "name": "Hey Decatur",
+    "country": "US",
+    "subdivision": "Georgia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "adult contemporary",
+      "atlanta",
+      "community",
+      "decatur",
+      "local news",
+      "r&b",
+      "variety"
+    ],
+    "homepage": "https://heydecatur.com/",
+    "favicon": "https://heydecatur.com/img/art/night.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:30:40Z",
+    "streams": [
+      {
+        "id": "aws_ef3d8d7dc3f2049ad35e",
+        "stationId": "awb_5db71dc57861ca4b8890",
+        "name": "Hey Decatur",
+        "country": "US",
+        "url": "https://studiob.loovacast.com/listen/hey_decatur/radio.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "773e3997-d6f1-4263-bdd9-18dd5c72b7ae"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_5d088d08ece00d594b9b": {
     "id": "awb_5d088d08ece00d594b9b",
     "name": "KNSJ Community Radio",
@@ -9465,7 +9468,6 @@
         ],
         "sourceIds": [
           "281d2206-7635-4403-b367-ac435dbc3af0",
-          "8fb7d792-2727-44d8-af88-bb6c59860640",
           "fc88c9e6-4a87-40af-96c9-84d073cab7bb"
         ],
         "lastCheckOk": true,

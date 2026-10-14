@@ -612,8 +612,7 @@
         ],
         "sourceIds": [
           "1111f6b2-cc07-4247-813d-4e4b4148b241",
-          "BB:the-beat-104-1-fm",
-          "ebd20fbd-3b96-49f8-86d7-d962a6afbe26"
+          "BB:the-beat-104-1-fm"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T17:29:40Z"
@@ -2623,45 +2622,6 @@
       }
     ]
   },
-  "awb_f5e6402b605ff149a1b0": {
-    "id": "awb_f5e6402b605ff149a1b0",
-    "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
-    "country": "DE",
-    "subdivision": "St. Gallen",
-    "languages": [],
-    "categories": [
-      "metal"
-    ],
-    "tags": [
-      "metal"
-    ],
-    "homepage": null,
-    "favicon": "https://jukebox.kreuzbergswiss.ch/logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z",
-    "streams": [
-      {
-        "id": "aws_f69e75d8166be3fa049f",
-        "stationId": "awb_f5e6402b605ff149a1b0",
-        "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
-        "country": "DE",
-        "url": "https://metal-only.sp.radio.fm/stream",
-        "codec": "mp3",
-        "bitrate": 192,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "1f6e36cc-de24-4750-b8c4-58a777b61c45"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T07:35:34Z"
-      }
-    ]
-  },
   "awb_f55500b3e019b4b5c4c7": {
     "id": "awb_f55500b3e019b4b5c4c7",
     "name": "NRG Homeoffice",
@@ -3280,8 +3240,7 @@
         ],
         "sourceIds": [
           "394136ea-c672-49d8-b98a-fdd3c5b9c4a0",
-          "EE:pcr-fm-parnu-club-radio",
-          "fce644c0-558c-4c4b-9835-7c67f1ea6dca"
+          "EE:pcr-fm-parnu-club-radio"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:03:44Z"
@@ -4430,8 +4389,7 @@
         ],
         "sourceIds": [
           "1de391b2-f053-4d76-a9b8-79f638119695",
-          "1ffeb894-ead5-4053-8999-ceddff44849b",
-          "2399b27e-5699-464e-abce-2ddb9b8684b8"
+          "1ffeb894-ead5-4053-8999-ceddff44849b"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T17:34:41Z"
@@ -4697,7 +4655,7 @@
     "id": "awb_f53e91b975cc47c55673",
     "name": "Kossuth",
     "country": "HU",
-    "subdivision": null,
+    "subdivision": "Budapest",
     "languages": [],
     "categories": [
       "news"
@@ -4705,10 +4663,10 @@
     "tags": [
       "news"
     ],
-    "homepage": null,
+    "homepage": "https://icast.connectmedia.hu/4736/mr1.mp3",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 3,
     "updatedAt": "2026-08-24",
     "streams": [
       {
@@ -4730,7 +4688,7 @@
           "HU:kossuth"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T19:11:40Z"
+        "lastCheckedAt": "2026-10-12T21:00:33Z"
       }
     ]
   },
@@ -7914,6 +7872,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T02:49:10Z"
+      }
+    ]
+  },
+  "awb_f55ead3d8e6cab64899b": {
+    "id": "awb_f55ead3d8e6cab64899b",
+    "name": "The WIKD 102.5FM",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://wikd102.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T01:37:21Z",
+    "streams": [
+      {
+        "id": "aws_036baea87e8f67f2cab4",
+        "stationId": "awb_f55ead3d8e6cab64899b",
+        "name": "The WIKD 102.5FM",
+        "country": "US",
+        "url": "https://stream.casthost.net/listen/wikd_1025/radio.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "63239b3e-6d52-4c8b-b635-239e13b62a06"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

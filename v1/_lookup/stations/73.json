@@ -681,7 +681,6 @@
         ],
         "sourceIds": [
           "231b256b-06b1-44c6-abe4-cc6b136ec706",
-          "3a3b1465-6a6f-4289-901c-bd5890cb8370",
           "BG:bnr-horizont"
         ],
         "lastCheckOk": true,
@@ -1038,6 +1037,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:43:58Z"
+      }
+    ]
+  },
+  "awb_73692113d2aa92fb0460": {
+    "id": "awb_73692113d2aa92fb0460",
+    "name": "Highway Country Radio",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "country",
+      "blues"
+    ],
+    "tags": [
+      "americana",
+      "bluegrass",
+      "blues",
+      "country"
+    ],
+    "homepage": "https://highwaycountryradio.com/",
+    "favicon": "https://highwaycountryradio.com/logo/favicon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-13T10:06:34Z",
+    "streams": [
+      {
+        "id": "aws_9bbe65506d5237d2ad1f",
+        "stationId": "awb_73692113d2aa92fb0460",
+        "name": "Highway Country Radio",
+        "country": "CA",
+        "url": "https://puma.streemlion.com:2125/stream",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6c01acde-1b25-4f2a-a759-acd6a73334dd",
+          "e1acc817-4627-40dc-a688-7078917df20c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },
@@ -7911,8 +7954,7 @@
         ],
         "sourceIds": [
           "0fab2a15-1e79-4e79-8b5a-dc3fde073093",
-          "9688e8bd-005b-4820-9568-cad1a7ea335f",
-          "9c079867-db7a-4149-af99-22f7cf6b843e"
+          "9688e8bd-005b-4820-9568-cad1a7ea335f"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:50:27Z"

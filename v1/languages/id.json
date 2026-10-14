@@ -1,13 +1,14 @@
 {
   "code": "id",
-  "stationCount": 176,
+  "stationCount": 175,
   "stations": [
     {
-      "id": "awb_afd57387938930a596a2",
+      "id": "awb_563187bb0c79d8cef2b7",
       "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
       "country": "DE",
       "subdivision": "Sanden, ID",
       "languages": [
+        "de",
         "en",
         "id",
         "no"
@@ -19,14 +20,14 @@
         "metal"
       ],
       "homepage": null,
-      "favicon": "https://i.imgur.com/1Cvlgew.jpeg",
+      "favicon": "https://www.metal-only.de/fileadmin/tpl//fav.ico",
       "type": null,
-      "sourceCount": 1,
+      "sourceCount": 4,
       "updatedAt": "2026-01-15T08:44:04Z",
       "streams": [
         {
-          "id": "aws_2e2545ad369c71dfcf63",
-          "stationId": "awb_afd57387938930a596a2",
+          "id": "aws_cd43fb1ab84cfd3ae2ed",
+          "stationId": "awb_563187bb0c79d8cef2b7",
           "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
           "country": "DE",
           "url": "https://metal-only.sp.radio.fm/stream",
@@ -38,10 +39,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "71859f45-72b1-44b4-a419-871ae1a05073"
+            "1873ef36-f1d6-4610-aec7-c43bab20b3a5",
+            "259e410c-b516-11e8-afe1-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:03:59Z"
+          "lastCheckedAt": "2026-10-12T13:15:34Z"
         }
       ]
     },
@@ -515,62 +517,6 @@
       ]
     },
     {
-      "id": "awb_5707f306f66cb3db9e0c",
-      "name": "Ardan",
-      "country": "ID",
-      "subdivision": "Bandung, West Java",
-      "languages": [
-        "id"
-      ],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://ardanradio.com/",
-      "favicon": "https://ardanradio.com/storage/logo/Logo%20Ardan.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-13T01:03:50Z",
-      "streams": [
-        {
-          "id": "aws_621d2d67ee4ca507260e",
-          "stationId": "awb_5707f306f66cb3db9e0c",
-          "name": "Ardan",
-          "country": "ID",
-          "url": "https://ardanradio.com/",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "54b0cfd8-d1ca-4594-bb4d-c2e0b9e0b706"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        },
-        {
-          "id": "aws_ed1c4e751eb85a0288c6",
-          "stationId": "awb_5707f306f66cb3db9e0c",
-          "name": "Ardan",
-          "country": "ID",
-          "url": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
-          "codec": "aac",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "d0d5c057-c111-4975-9034-40ee02fcd7c4"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:43:50Z"
-        }
-      ]
-    },
-    {
       "id": "awb_feecb47a8ac5f6d99cf8",
       "name": "Arif Channel",
       "country": "ID",
@@ -776,7 +722,6 @@
           ],
           "sourceIds": [
             "6c9bcdf4-3ed3-48bd-84fd-31506035f551",
-            "74329c0a-b611-406f-a246-a342e0b98b04",
             "ID:bellasalam-87-6-fm-tasikmalaya"
           ],
           "lastCheckOk": true,
@@ -1493,7 +1438,6 @@
           ],
           "sourceIds": [
             "231336ef-6a7c-4b35-bd11-36164f6b16ab",
-            "4a81cd8d-4d78-4711-a351-5ccd5bd02d68",
             "ID:dengerin-musik-indonesia"
           ],
           "lastCheckOk": true,
@@ -1539,7 +1483,6 @@
           ],
           "sourceIds": [
             "5e9e974d-4768-463b-ad9d-19c6e48a9361",
-            "6d586733-f2d6-4a76-b96c-5f28f2e3ea1d",
             "ID:dna-fm-jepara"
           ],
           "lastCheckOk": true,
@@ -1878,8 +1821,7 @@
           ],
           "sourceIds": [
             "ID:galuh-media-streaming-cianjur-indonesia",
-            "b8e071ba-e538-40bf-8863-0f6d189214ad",
-            "cfb016db-c9cd-448d-9043-e6284789da17"
+            "b8e071ba-e538-40bf-8863-0f6d189214ad"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:39:35Z"
@@ -2040,8 +1982,7 @@
           ],
           "sourceIds": [
             "4f25ac5b-9688-4c72-9aa2-0ae61358909e",
-            "56b2ae3e-9b35-4a05-991f-460a5bd898f3",
-            "6d66e5e3-bd84-49a5-978d-6c19560dcd14"
+            "56b2ae3e-9b35-4a05-991f-460a5bd898f3"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:29:40Z"
@@ -3347,8 +3288,7 @@
           ],
           "sourceIds": [
             "ID:kradio-hss",
-            "de0fb880-c53c-4065-b2da-43da53bbeb4c",
-            "fbe3f55d-e2a4-4b8e-9a9d-43fbb92b95ee"
+            "de0fb880-c53c-4065-b2da-43da53bbeb4c"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:44:24Z"
@@ -4770,8 +4710,6 @@
           ],
           "sourceIds": [
             "595e04c5-ac06-4ee0-95c7-c66ec151e807",
-            "6615d1b0-b782-4c2f-a8cf-e813490b9e54",
-            "7d390034-928b-4c7b-a5cb-966471ea12da",
             "ddb576eb-449b-481b-9939-b676bbdfce84"
           ],
           "lastCheckOk": true,
@@ -4812,7 +4750,6 @@
           ],
           "sourceIds": [
             "a70e843f-9814-4e24-9163-63b028efffc4",
-            "cafdc879-71bc-4a92-9eea-e6016503749d",
             "dece7108-ae17-4f4f-a5db-394ea8a71b1b"
           ],
           "lastCheckOk": true,
@@ -5417,7 +5354,6 @@
           ],
           "sourceIds": [
             "0beac7cf-6bcd-47ee-a3d9-d4faf372a068",
-            "4dcf5e2c-0898-4e93-8243-95fd5009e61a",
             "ID:rri-channel-5"
           ],
           "lastCheckOk": true,
@@ -6640,7 +6576,6 @@
           ],
           "sourceIds": [
             "0aee2a47-19d6-4532-9442-567b4820e89b",
-            "39e6bd0f-27d4-4748-93de-c9ce86c09611",
             "bce51a67-e922-48c2-9d52-0dd686d37cba"
           ],
           "lastCheckOk": true,
@@ -7661,8 +7596,7 @@
           ],
           "sourceIds": [
             "59862988-9172-4fc1-9322-69c2ba55187a",
-            "ID:wawa-radio-101-2",
-            "da361a92-fa6b-4855-8a31-0ce8434be791"
+            "ID:wawa-radio-101-2"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:56:06Z"

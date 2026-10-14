@@ -1,7 +1,7 @@
 {
   "code": "CA",
-  "stationCount": 1411,
-  "streamCount": 1446,
+  "stationCount": 1417,
+  "streamCount": 1452,
   "stations": [
     {
       "id": "awb_654770d3387f31abb729",
@@ -343,8 +343,7 @@
           ],
           "sourceIds": [
             "4cc3e959-b572-4285-99e2-069151d03b5e",
-            "CA:100-greatest-jazz-lounge-bar",
-            "aeab6366-373b-4fee-98c9-ad2c9a7e7d71"
+            "CA:100-greatest-jazz-lounge-bar"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:28:02Z"
@@ -2920,7 +2919,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -4588,6 +4587,41 @@
       ]
     },
     {
+      "id": "awb_8e9415064359f4952d1f",
+      "name": "BPM 100.9 Quebec",
+      "country": "CA",
+      "subdivision": "Québec",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://arsenalsports.ca/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T01:07:07Z",
+      "streams": [
+        {
+          "id": "aws_a39ccc11963fa14d76ce",
+          "stationId": "awb_8e9415064359f4952d1f",
+          "name": "BPM 100.9 Quebec",
+          "country": "CA",
+          "url": "https://18503.live.streamtheworld.com/CFTXFMAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3045c96f-d6b7-428a-be3a-c8ad07dd1fdd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_606f8ba745133ee2e900",
       "name": "BPM 91,9",
       "country": "CA",
@@ -4623,6 +4657,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:13:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e038d3f496e65532ed5e",
+      "name": "BPM 96.5 Gatineau",
+      "country": "CA",
+      "subdivision": "Québec",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://arsenalsports.ca/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T01:03:04Z",
+      "streams": [
+        {
+          "id": "aws_c74b0850f7829e9a7e51",
+          "stationId": "awb_e038d3f496e65532ed5e",
+          "name": "BPM 96.5 Gatineau",
+          "country": "CA",
+          "url": "https://26383.live.streamtheworld.com/CFTXFMAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "17870a88-c273-4192-ac2d-6bbcf914e419"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -11675,7 +11744,7 @@
     },
     {
       "id": "awb_cf43b81c65d37d9dc650",
-      "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+      "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
       "country": "CA",
       "subdivision": "Quebec",
       "languages": [
@@ -11693,7 +11762,7 @@
         "talk",
         "trad"
       ],
-      "homepage": "http://www.cfnj.net/",
+      "homepage": "http://cfnj.net/",
       "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
       "type": "community",
       "sourceCount": 2,
@@ -16336,7 +16405,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -24345,9 +24414,7 @@
           ],
           "sourceIds": [
             "48d409af-2bc4-4f0d-89cf-3b92b8f6041d",
-            "76f17288-698f-11e9-af37-52543be04c81",
-            "9a1a7669-d592-4440-9dba-436d9bf95306",
-            "e4a914a1-ec25-4127-b1df-4fe2fd50d5f8"
+            "9a1a7669-d592-4440-9dba-436d9bf95306"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:25:00Z"
@@ -24505,8 +24572,7 @@
           ],
           "sourceIds": [
             "9b35e640-6a0f-11e9-af37-52543be04c81",
-            "d7e95d26-0c2e-4fcf-a2ce-20e1d0502036",
-            "f37acb6e-2e37-419c-8775-d3e8345387b2"
+            "d7e95d26-0c2e-4fcf-a2ce-20e1d0502036"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:31:27Z"
@@ -29996,7 +30062,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -30031,7 +30097,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -35201,7 +35267,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -35236,7 +35302,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -35445,7 +35511,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -39396,7 +39462,6 @@
           ],
           "sourceIds": [
             "4ffed054-89e0-4fe9-a8c8-c73a2bd456bb",
-            "564daf87-b53e-45c4-8be6-7a5e42eda415",
             "cdf7102b-850c-4642-a908-844ac0974b04"
           ],
           "lastCheckOk": true,
@@ -41149,7 +41214,6 @@
           ],
           "sourceIds": [
             "1a310409-363b-4ef6-aa3f-178d53c9a05a",
-            "36daf245-b754-4490-a4b1-7a131a2d7fb1",
             "CA:flow-98-7-ckfg-fm-toronto"
           ],
           "lastCheckOk": true,
@@ -41180,7 +41244,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -41256,7 +41320,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -42101,6 +42165,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:00:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_73692113d2aa92fb0460",
+      "name": "Highway Country Radio",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "country",
+        "blues"
+      ],
+      "tags": [
+        "americana",
+        "bluegrass",
+        "blues",
+        "country"
+      ],
+      "homepage": "https://highwaycountryradio.com/",
+      "favicon": "https://highwaycountryradio.com/logo/favicon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T10:06:34Z",
+      "streams": [
+        {
+          "id": "aws_9bbe65506d5237d2ad1f",
+          "stationId": "awb_73692113d2aa92fb0460",
+          "name": "Highway Country Radio",
+          "country": "CA",
+          "url": "https://puma.streemlion.com:2125/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6c01acde-1b25-4f2a-a759-acd6a73334dd",
+            "e1acc817-4627-40dc-a688-7078917df20c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -43280,9 +43388,7 @@
           ],
           "sourceIds": [
             "6615c0f3-c43e-4b65-99f6-c5ea65bf8dfb",
-            "957eda2f-bb0b-4db4-b1fd-16d444dcf6fe",
-            "CA:irock24-7",
-            "b8efc30a-b7fb-4e2b-95c4-03b9439ee42d"
+            "CA:irock24-7"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:48:59Z"
@@ -44095,7 +44201,6 @@
           ],
           "sourceIds": [
             "17d032f2-f706-4fd6-91ae-d6bbb9debbdf",
-            "714057c6-5ab0-41a7-8ed4-3e96bcdb349c",
             "CA:jb-radio-2"
           ],
           "lastCheckOk": true,
@@ -45027,7 +45132,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -45094,8 +45199,6 @@
           ],
           "sourceIds": [
             "15928e36-5a32-4841-9edc-13b4f4c4462c",
-            "1c469232-1ce2-42af-ad9d-11ded64a5b8e",
-            "9fa14ddf-4fba-45dc-b630-50c2d120b935",
             "CA:la-bonita-x101"
           ],
           "lastCheckOk": true,
@@ -45286,7 +45389,6 @@
           ],
           "sourceIds": [
             "1677d63b-0986-418b-b3d4-3e436bd40420",
-            "7fc4b2c3-3348-40a9-a13a-b02f2f58bbaa",
             "CA:labgate-classic-rock"
           ],
           "lastCheckOk": true,
@@ -45562,8 +45664,7 @@
           ],
           "sourceIds": [
             "CA:labgate-pop-rock",
-            "c288c3cd-3193-4745-bc04-9ca7ebd5e9bf",
-            "ef5c6c3c-bd1e-404a-b2cf-70e41cbe435c"
+            "c288c3cd-3193-4745-bc04-9ca7ebd5e9bf"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:30:46Z"
@@ -46836,7 +46937,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -51724,7 +51825,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser"
           ],
@@ -51815,8 +51916,7 @@
           ],
           "sourceIds": [
             "26a66154-7de4-4583-b78d-ba0b8c6a71fb",
-            "CA:radio-unicite",
-            "a4fdf689-3c11-4102-8fa2-8604f9f1b19c"
+            "CA:radio-unicite"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:57:05Z"
@@ -52584,8 +52684,7 @@
           ],
           "sourceIds": [
             "CA:reggae-chill-cafe",
-            "a3253a96-a1ba-4cf5-bf4b-ec7988afcfd3",
-            "bceb7e71-3564-4cf6-aec6-3ba8adbe7e8a"
+            "a3253a96-a1ba-4cf5-bf4b-ec7988afcfd3"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:52:40Z"
@@ -52867,7 +52966,6 @@
           ],
           "sourceIds": [
             "838b7009-5a0c-4bfe-ab5f-65bfe420e499",
-            "88026e68-5744-41ff-b5fe-108d94b31a05",
             "CA:ritmo-x99"
           ],
           "lastCheckOk": true,
@@ -54123,9 +54221,7 @@
           ],
           "sourceIds": [
             "1ab9f31d-41ee-43bc-b92b-f3c54b0bcf06",
-            "9c4eb345-7fd5-4020-af13-97a5f82ebdb8",
-            "a9001ace-0a44-4abb-a5fb-f0977971be3c",
-            "dcd73261-f866-4f1d-a8fe-acf05f064b78"
+            "9c4eb345-7fd5-4020-af13-97a5f82ebdb8"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:22:00Z"
@@ -54959,7 +55055,7 @@
       "id": "awb_84f94cc037b298681456",
       "name": "Stingray Smoot Jazz",
       "country": "CA",
-      "subdivision": "Toronto, ON",
+      "subdivision": "Toronto",
       "languages": [],
       "categories": [
         "jazz"
@@ -54968,7 +55064,7 @@
         "jazz",
         "smooth jazz"
       ],
-      "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+      "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
       "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
       "type": null,
       "sourceCount": 3,
@@ -54989,8 +55085,7 @@
           ],
           "sourceIds": [
             "4bf15c8f-dd4a-4bd1-9f70-03e6caedc5ab",
-            "4de3b9dc-f1cd-45dd-8cc0-95fe2b063436",
-            "e9fd09e3-78d0-44fb-9ceb-73d1c62f9dd9"
+            "4de3b9dc-f1cd-45dd-8cc0-95fe2b063436"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:17:34Z"
@@ -55623,7 +55718,7 @@
           "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
-          "hls": false,
+          "hls": true,
           "sources": [
             "radio-browser",
             "verified-radio-streams"
@@ -56058,10 +56153,7 @@
           ],
           "sourceIds": [
             "00e82dee-e8ca-4cc8-abfe-1e83986718d2",
-            "121eaf3b-eb54-4ac8-9622-7123b3665d91",
-            "51554df2-3d51-4193-9e9f-6ea3be53206b",
-            "7fe27eca-4684-4b00-b01b-6c9acf1e9bbe",
-            "ff24f0c9-2531-46f3-9de2-e35820a2f6d6"
+            "7fe27eca-4684-4b00-b01b-6c9acf1e9bbe"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:21:28Z"
@@ -56384,6 +56476,84 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:12:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_07d8533ac46367ba22e1",
+      "name": "The Rooster",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://theroosteronline.ca/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T17:01:59Z",
+      "streams": [
+        {
+          "id": "aws_7652bff243297a1dadd0",
+          "stationId": "awb_07d8533ac46367ba22e1",
+          "name": "The Rooster",
+          "country": "CA",
+          "url": "https://s44.myradiostream.com:6488/listen.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "850578f4-9466-4c92-8fd6-8dd65efd41da"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_60054dddc6bdb234dd7e",
+      "name": "The Taint",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [
+        "eng"
+      ],
+      "categories": [
+        "rock",
+        "metal"
+      ],
+      "tags": [
+        "metal",
+        "rock"
+      ],
+      "homepage": "https://thetaint.ca/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-13T19:23:24Z",
+      "streams": [
+        {
+          "id": "aws_069999b58018b549534f",
+          "stationId": "awb_60054dddc6bdb234dd7e",
+          "name": "The Taint",
+          "country": "CA",
+          "url": "https://radio.thetaint.ca/listen/the_taint/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "339d3591-c1ca-44ec-925d-5ea20802a319"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -57053,6 +57223,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T20:52:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff22f85e9f1c9f4d3b6d",
+      "name": "TSN 690 Montreal",
+      "country": "CA",
+      "subdivision": "Canada",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.iheart.com/live/tsn-690-7450",
+      "favicon": "https://www.iheart.com/public/assets/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T00:54:07Z",
+      "streams": [
+        {
+          "id": "aws_b90fdef01ec8f15da6b9",
+          "stationId": "awb_ff22f85e9f1c9f4d3b6d",
+          "name": "TSN 690 Montreal",
+          "country": "CA",
+          "url": "https://www.iheart.com/live/tsn-690-7450/now-playing",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4758873a-167a-43b8-a3ef-566bedb29dc4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

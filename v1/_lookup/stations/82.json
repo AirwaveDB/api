@@ -199,8 +199,7 @@
         ],
         "sourceIds": [
           "3d1b2ed6-f073-448e-a319-9195de90bb64",
-          "AT:radio-rudina",
-          "c24d963c-f4b5-4346-8001-ed30af0add6a"
+          "AT:radio-rudina"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:50:59Z"
@@ -559,8 +558,7 @@
         ],
         "sourceIds": [
           "542ef53c-b349-4dea-9262-9b22eb91c736",
-          "AU:vintage-fm",
-          "e695d417-1b34-4806-8acd-a4332d2437ba"
+          "AU:vintage-fm"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T12:38:18Z"
@@ -5981,8 +5979,7 @@
         ],
         "sourceIds": [
           "7077dc4d-4c48-46cf-827d-feb3096718be",
-          "PH:favorite-all-hit-radio-tagum",
-          "c5a82161-a0f0-4875-b49c-11ca3614321e"
+          "PH:favorite-all-hit-radio-tagum"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T02:30:10Z"
@@ -6710,8 +6707,8 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:07Z",
     "streams": [
       {
         "id": "aws_fd4781afb0c5345c5edb",
@@ -6727,10 +6724,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "02da8452-68da-47e4-87eb-7ee278ec23ea"
+          "02da8452-68da-47e4-87eb-7ee278ec23ea",
+          "4ac14645-ce8b-47f1-b1ba-6f4ad8df7a03"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T21:18:48Z"
+        "lastCheckedAt": "2026-10-11T23:13:23Z"
       }
     ]
   },
@@ -7841,8 +7839,7 @@
         ],
         "sourceIds": [
           "2062e3ec-1643-4aea-9c59-f5c381a1f1f6",
-          "4556370e-28b1-4c49-9e06-f2e06a4fbe4f",
-          "842d24b0-a512-4407-a19e-4642d96551cd"
+          "4556370e-28b1-4c49-9e06-f2e06a4fbe4f"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T13:47:37Z"
@@ -8043,6 +8040,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T03:06:17Z"
+      }
+    ]
+  },
+  "awb_82a49d2c0e7b438291ef": {
+    "id": "awb_82a49d2c0e7b438291ef",
+    "name": "Smooth Static Radio",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://smoothstaticradio.com/",
+    "favicon": "https://smoothstaticradio.com/assets/images/image04.jpg?v=066926aa",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-13T20:33:55Z",
+    "streams": [
+      {
+        "id": "aws_8a316e4d58a2e777a0a9",
+        "stationId": "awb_82a49d2c0e7b438291ef",
+        "name": "Smooth Static Radio",
+        "country": "US",
+        "url": "https://streaming.live365.com/a37678",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "64053944-142e-4df4-a235-f35b5513d043"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

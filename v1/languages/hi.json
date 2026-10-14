@@ -1,6 +1,6 @@
 {
   "code": "hi",
-  "stationCount": 403,
+  "stationCount": 399,
   "stations": [
     {
       "id": "awb_63261574c5ec040bacdc",
@@ -1667,9 +1667,7 @@
           ],
           "sourceIds": [
             "0312cdac-7f97-4322-9bff-b79f865d1959",
-            "GB:radio-central-24",
-            "bd24e3d2-3e2e-47c4-b0a2-73e551728f4c",
-            "d1762707-7919-45ca-bf5e-73067049053c"
+            "GB:radio-central-24"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:35:52Z"
@@ -4394,7 +4392,6 @@
           ],
           "sourceIds": [
             "653ec48e-d763-4e0f-965f-6b9c6bf41562",
-            "7f0bcc30-5fa9-4027-8dbf-94484068cb8b",
             "IN:bollywood-2000-s"
           ],
           "lastCheckOk": true,
@@ -5240,8 +5237,7 @@
           ],
           "sourceIds": [
             "94b89cc4-79aa-454b-b798-a1b360bd9ee1",
-            "IN:bollywood-dance",
-            "a442429b-11bb-4811-bbf5-bf1347098d0f"
+            "IN:bollywood-dance"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:03:12Z"
@@ -5299,7 +5295,6 @@
           ],
           "sourceIds": [
             "4088a674-566b-4a6e-9712-0fee910cfc5a",
-            "74d38be4-c044-40b0-a897-2bd3aea0d2b1",
             "IN:bollywoodandbeyond"
           ],
           "lastCheckOk": true,
@@ -5799,7 +5794,7 @@
       ]
     },
     {
-      "id": "awb_b61e4c8666c3702737a3",
+      "id": "awb_d2daa28325252f0e74af",
       "name": "Dance Asia Radio",
       "country": "IN",
       "subdivision": null,
@@ -5811,46 +5806,9 @@
         "music"
       ],
       "homepage": "https://s1.citrus3.com:8124/stream",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T03:43:13Z",
-      "streams": [
-        {
-          "id": "aws_cecd061b52d846846d34",
-          "stationId": "awb_b61e4c8666c3702737a3",
-          "name": "Dance Asia Radio",
-          "country": "IN",
-          "url": "https://s1.citrus3.com:8124/stream",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "ecc31682-4775-4077-8a2a-c01b2ca22ecf"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T22:48:56Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_d2daa28325252f0e74af",
-      "name": "Dance Asia Radio",
-      "country": "IN",
-      "subdivision": null,
-      "languages": [
-        "hi"
-      ],
-      "categories": [],
-      "tags": [],
-      "homepage": null,
       "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/10/dance-asia-radio.jpg",
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 3,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -5869,7 +5827,7 @@
           ],
           "sourceIds": [
             "IN:dance-asia-radio",
-            "fb4f5b30-7972-4e46-86a2-5bb47ac39690"
+            "ecc31682-4775-4077-8a2a-c01b2ca22ecf"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:02:19Z"
@@ -6527,7 +6485,6 @@
           ],
           "sourceIds": [
             "45264b45-6f3d-4220-9b38-c3cc7a03f588",
-            "49614190-690d-4e89-80e7-4883df4a8876",
             "IN:fnffmbollywood"
           ],
           "lastCheckOk": true,
@@ -8692,43 +8649,6 @@
       ]
     },
     {
-      "id": "awb_725f20c9c8c71b990b50",
-      "name": "mixify",
-      "country": "IN",
-      "subdivision": null,
-      "languages": [
-        "hi"
-      ],
-      "categories": [],
-      "tags": [],
-      "homepage": null,
-      "favicon": "https://radiosindia.com/images/mixify.jpg",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T03:51:41Z",
-      "streams": [
-        {
-          "id": "aws_10af01e8e054d4952656",
-          "stationId": "awb_725f20c9c8c71b990b50",
-          "name": "mixify",
-          "country": "IN",
-          "url": "https://server.mixify.in/listen/listen/radio.mp3",
-          "codec": "aac+",
-          "bitrate": 64,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "8a0b710d-8110-489d-9189-93e7cb3a018f"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:52:35Z"
-        }
-      ]
-    },
-    {
       "id": "awb_bb4bba519c5f7e059b6c",
       "name": "mixify",
       "country": "IN",
@@ -8741,9 +8661,9 @@
         "jjk"
       ],
       "homepage": "https://server.mixify.in/listen/evergreen/radio.mp3",
-      "favicon": null,
+      "favicon": "https://radiosindia.com/images/mixify.jpg",
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 3,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -8766,6 +8686,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T09:02:21Z"
+        },
+        {
+          "id": "aws_6b618420d686e79ad468",
+          "stationId": "awb_bb4bba519c5f7e059b6c",
+          "name": "mixify",
+          "country": "IN",
+          "url": "https://server.mixify.in/listen/listen/radio.mp3",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8a0b710d-8110-489d-9189-93e7cb3a018f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T14:52:35Z"
         }
       ]
     },
@@ -8879,7 +8818,6 @@
           ],
           "sourceIds": [
             "5e51c2ce-2fc3-4e98-9c05-7a4fbed73e36",
-            "899eabc2-0240-47ad-95b3-22b6bfaf8ed0",
             "IN:mixify-hindi-hits"
           ],
           "lastCheckOk": true,
@@ -9426,10 +9364,7 @@
           ],
           "sourceIds": [
             "2cc6ba46-d801-436e-8121-9c7513a10c7e",
-            "5192e46e-df9b-4fe2-8ba4-6d9a49be7ce6",
-            "53b808be-9d37-43dd-b6a0-dd1492ab6f3a",
-            "9ee9e24f-7905-45af-9e5f-af72eb4c90b5",
-            "cfa9c7c3-aefd-4bb4-af82-bf3deebc101b"
+            "53b808be-9d37-43dd-b6a0-dd1492ab6f3a"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:26:11Z"
@@ -9732,10 +9667,10 @@
         "hindi"
       ],
       "homepage": "https://stream.zeno.fm/",
-      "favicon": null,
+      "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/05/radio-badal-fm.jpg",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T05:24:52Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T06:00:56Z",
       "streams": [
         {
           "id": "aws_f756ff63e64ea0a7ca5f",
@@ -9751,43 +9686,7 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "9881240e-6e89-4262-a7f1-b918eebe1fb7"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T04:54:09Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_afb5b38576397286d8d3",
-      "name": "Radio Badal",
-      "country": "IN",
-      "subdivision": null,
-      "languages": [
-        "hi"
-      ],
-      "categories": [],
-      "tags": [],
-      "homepage": null,
-      "favicon": "https://onlineradiohub.com/wp-content/uploads/2023/05/radio-badal-fm.jpg",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T06:00:56Z",
-      "streams": [
-        {
-          "id": "aws_819c368372ec2d3ef301",
-          "stationId": "awb_afb5b38576397286d8d3",
-          "name": "Radio Badal",
-          "country": "IN",
-          "url": "https://stream.zeno.fm/nhrtcxg09u8uv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
+            "9881240e-6e89-4262-a7f1-b918eebe1fb7",
             "a519fdd3-e5de-4639-aeef-f97390b66724"
           ],
           "lastCheckOk": true,
@@ -10111,8 +10010,7 @@
           ],
           "sourceIds": [
             "0416c859-4857-488e-9b24-591bd08e5df6",
-            "1201ceb6-02b4-4e8c-9932-5af9623da074",
-            "8f0fa17c-1c27-44d9-bbf0-5df90098cf37"
+            "1201ceb6-02b4-4e8c-9932-5af9623da074"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:27:00Z"
@@ -10313,12 +10211,7 @@
           ],
           "sourceIds": [
             "1766618a-62c7-45ea-9d2f-19378ee51830",
-            "354a6477-586d-42f9-9d17-b89631882f0c",
-            "459908f6-58d2-438a-ac40-dbac3af8e0b6",
-            "62c70fcc-763c-47da-a9ca-6f587758ba49",
-            "7e06eb4a-3623-49e7-8fc4-d920eea53e89",
-            "beccc01d-747d-4654-b55f-bd86997f9bc8",
-            "cb39d08a-3d51-4116-b581-7642f2983bb2"
+            "beccc01d-747d-4654-b55f-bd86997f9bc8"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:45:46Z"
@@ -12118,8 +12011,8 @@
       ]
     },
     {
-      "id": "awb_12956f2d694f506330a9",
-      "name": "Radio90fm",
+      "id": "awb_155f0baf3dcea21a324e",
+      "name": "radio90fm",
       "country": "IN",
       "subdivision": null,
       "languages": [
@@ -12130,46 +12023,9 @@
         "music"
       ],
       "homepage": "https://ice42.securenetsystems.net/CR90?type=.mp3",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T01:58:28Z",
-      "streams": [
-        {
-          "id": "aws_730027271bdb91b58e78",
-          "stationId": "awb_12956f2d694f506330a9",
-          "name": "Radio90fm",
-          "country": "IN",
-          "url": "https://ice42.securenetsystems.net/CR90?type=.mp3",
-          "codec": "aac+",
-          "bitrate": 32,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "bc5e163b-83f9-44f3-a73f-1fa5700f0a5a"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T01:58:09Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_155f0baf3dcea21a324e",
-      "name": "radio90fm",
-      "country": "IN",
-      "subdivision": null,
-      "languages": [
-        "hi"
-      ],
-      "categories": [],
-      "tags": [],
-      "homepage": null,
       "favicon": "https://radiosindia.com/images/radio90fm.jpg",
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 3,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -12526,8 +12382,7 @@
           ],
           "sourceIds": [
             "492606d9-c464-4653-968b-02226bea7727",
-            "61732d10-49d5-4c0e-a7e2-69765fe41c40",
-            "f36602c7-0ab0-431c-86e6-e5e927f39dbb"
+            "61732d10-49d5-4c0e-a7e2-69765fe41c40"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T22:05:53Z"
@@ -14896,8 +14751,7 @@
           ],
           "sourceIds": [
             "486357a2-a312-4e25-b948-a0e03dda94a7",
-            "NL:radio-sangam",
-            "a5700462-a3ba-47d1-835f-c72bc2ef81e7"
+            "NL:radio-sangam"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:06:46Z"
@@ -15665,7 +15519,6 @@
           ],
           "sourceIds": [
             "7a8aa71d-812f-4cd6-aec2-85dc52e9c50c",
-            "8c0dab72-4ee5-4530-b91f-683cc65db155",
             "TT:sangeet-fm"
           ],
           "lastCheckOk": true,

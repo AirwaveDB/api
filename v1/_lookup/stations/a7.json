@@ -1526,7 +1526,7 @@
         "codec": "unknown",
         "bitrate": 0,
         "protocol": "https",
-        "hls": false,
+        "hls": true,
         "sources": [
           "radio-browser"
         ],
@@ -3533,45 +3533,6 @@
       }
     ]
   },
-  "awb_a7d9a4e3d83edd99c636": {
-    "id": "awb_a7d9a4e3d83edd99c636",
-    "name": "Radio Marca",
-    "country": "ES",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "country"
-    ],
-    "tags": [
-      "country"
-    ],
-    "homepage": "https://sonic.mediatelekom.net/9316/stream",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z",
-    "streams": [
-      {
-        "id": "aws_1774b0748b4cbbfba2f6",
-        "stationId": "awb_a7d9a4e3d83edd99c636",
-        "name": "Radio Marca",
-        "country": "ES",
-        "url": "https://sonic.mediatelekom.net/9316/stream",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "c0944630-04b4-4b9a-9842-670d19ed36d2"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T23:23:55Z"
-      }
-    ]
-  },
   "awb_a7aa9b9befd586847e6f": {
     "id": "awb_a7aa9b9befd586847e6f",
     "name": "salvaje fm",
@@ -4939,8 +4900,7 @@
         ],
         "sourceIds": [
           "05b53b3a-5538-47e7-ba8c-6e8f25a4fa42",
-          "GR:99-2",
-          "c320801b-7d2f-493b-af29-4f37b83bb112"
+          "GR:99-2"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:17:00Z"
@@ -6924,8 +6884,7 @@
         ],
         "sourceIds": [
           "773602b7-8528-11e8-aa66-52543be04c81",
-          "aed03853-2276-4fca-a6f4-375e6c66fa65",
-          "d319f7f6-12c9-4943-a62d-1504d2e9bff1"
+          "aed03853-2276-4fca-a6f4-375e6c66fa65"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T11:09:55Z"
@@ -7979,9 +7938,7 @@
         ],
         "sourceIds": [
           "031bc790-6628-478b-8bd7-f19cba4813ba",
-          "bcfc1a98-dff1-414d-945f-de1b4430ed48",
-          "ecc9faec-51a8-430f-815b-fc1df7d03463",
-          "f374e425-237b-487e-af93-f3dbda74debb"
+          "bcfc1a98-dff1-414d-945f-de1b4430ed48"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:45:34Z"
@@ -9035,8 +8992,8 @@
         "name": "WIGV 96.5 - Radio Renacer - Providence, Rhode Island",
         "country": "US",
         "url": "http://198.7.59.28:8072/stream",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 64,
         "protocol": "http",
         "hls": false,
         "sources": [
@@ -9046,7 +9003,7 @@
           "3f00f321-fdfb-4a3e-b321-54c33aa83aa8"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

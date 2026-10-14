@@ -2169,49 +2169,6 @@
       }
     ]
   },
-  "awb_ca53c271c5f8930ee3af": {
-    "id": "awb_ca53c271c5f8930ee3af",
-    "name": "Memoryradio 2",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "pop",
-      "rock"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:11:33Z",
-    "streams": [
-      {
-        "id": "aws_9c4a26cdffb11cfaac74",
-        "stationId": "awb_ca53c271c5f8930ee3af",
-        "name": "Memoryradio 2",
-        "country": "DE",
-        "url": "http://www.memoryradio.de/radio2",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "b8e1ea4d-2c80-4264-a393-bc987a49ebd5"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T09:49:46Z"
-      }
-    ]
-  },
   "awb_cab058bc1a488215a89a": {
     "id": "awb_cab058bc1a488215a89a",
     "name": "Pineapple Juice",
@@ -2249,7 +2206,7 @@
   },
   "awb_ca495b7747dd284c6935": {
     "id": "awb_ca495b7747dd284c6935",
-    "name": "Radio Bob! unplugged",
+    "name": "RADIO BOB Unplugged",
     "country": "DE",
     "subdivision": "Schleswig-Holstein",
     "languages": [
@@ -2266,9 +2223,28 @@
     "homepage": "http://streams.radiobob.de/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
+    "sourceCount": 2,
     "updatedAt": "2026-01-15T01:18:04Z",
     "streams": [
+      {
+        "id": "aws_9086662d8b9b37b304f6",
+        "stationId": "awb_ca495b7747dd284c6935",
+        "name": "RADIO BOB Unplugged",
+        "country": "DE",
+        "url": "https://streams.radiobob.de/bob-chillout/mp3-192/homepage/?mode=preroll&aw_0_1st.skey=1671329893&cb=578119&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=%5B%22vz9c46692%22%5D&listenerid=c47683ff451bdf8ebe068dea8a897b50",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "34139557-bce7-4fa6-9b0b-d050563e0e5c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T01:32:17Z"
+      },
       {
         "id": "aws_32d598fcf2d515ed1f58",
         "stationId": "awb_ca495b7747dd284c6935",
@@ -2783,8 +2759,7 @@
         ],
         "sourceIds": [
           "4a3bd909-1245-43bd-b77d-58053ad16f50",
-          "ES:80-exitos",
-          "b1cae36e-6db3-455c-ab2e-60be72e55b7c"
+          "ES:80-exitos"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T21:24:47Z"
@@ -4163,7 +4138,7 @@
     "id": "awb_cae5d806d79650d3c313",
     "name": "Ράδιο Ελληνικά Ακούσματα",
     "country": "GR",
-    "subdivision": "Athens",
+    "subdivision": "Αττικής (Νησιά)",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -4456,8 +4431,7 @@
         ],
         "sourceIds": [
           "492606d9-c464-4653-968b-02226bea7727",
-          "61732d10-49d5-4c0e-a7e2-69765fe41c40",
-          "f36602c7-0ab0-431c-86e6-e5e927f39dbb"
+          "61732d10-49d5-4c0e-a7e2-69765fe41c40"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T22:05:53Z"
