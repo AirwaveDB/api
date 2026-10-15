@@ -1,6 +1,6 @@
 {
   "id": "electronic",
-  "stationCount": 2155,
+  "stationCount": 2158,
   "stations": [
     {
       "id": "awb_9d3073b16c97ffe0e45d",
@@ -37793,7 +37793,7 @@
         "hardstyle",
         "music"
       ],
-      "homepage": "https://decibeliafm.es/web/",
+      "homepage": "https://decibeliafm.es/",
       "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
       "type": null,
       "sourceCount": 2,
@@ -39404,6 +39404,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T23:31:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9ebcce3667de2b8f1b9c",
+      "name": "Jarvis FM",
+      "country": "ES",
+      "subdivision": "Madrid",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "electronic",
+        "pop"
+      ],
+      "tags": [
+        "electronic",
+        "pop",
+        "various"
+      ],
+      "homepage": "https://jarvisfm.es/",
+      "favicon": "https://jarvisfm.es/icons/icon-192.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T17:28:14Z",
+      "streams": [
+        {
+          "id": "aws_c94339d1e7cbb37ed57a",
+          "stationId": "awb_9ebcce3667de2b8f1b9c",
+          "name": "Jarvis FM",
+          "country": "ES",
+          "url": "https://jarvisfm.es/radio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fd760390-fd42-4fd9-9949-b55b492f1548"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -42768,7 +42812,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao-Radio",
+      "name": "Cacao Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -46261,8 +46305,8 @@
           "name": "Radio Entre 2 Mers",
           "country": "FR",
           "url": "https://remradio.ice.infomaniak.ch/remradio-aac-128.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -46272,7 +46316,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -46983,8 +47027,8 @@
           "name": "Radio Wa3 (راديو وع)",
           "country": "FR",
           "url": "https://stream.wa3.live/wa3.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -46994,7 +47038,7 @@
             "b444dadd-28b2-4dcb-84f2-3e2b73094f24"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -52410,6 +52454,56 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:09:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2339cdaa6fa5f3322286",
+      "name": "LIFEFM.TV",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "electronic",
+        "reggae"
+      ],
+      "tags": [
+        "deep house",
+        "drum and bass",
+        "dub",
+        "dub reggae",
+        "funk",
+        "house",
+        "jungle",
+        "ragga jungle",
+        "soul",
+        "tech house",
+        "uk garage"
+      ],
+      "homepage": "https://lifefm.tv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:31:53Z",
+      "streams": [
+        {
+          "id": "aws_7d404b1196a3a3c49730",
+          "stationId": "awb_2339cdaa6fa5f3322286",
+          "name": "LIFEFM.TV",
+          "country": "GB",
+          "url": "https://streamer.radio.co/s1ed160262/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e936956c-fc26-4566-ae61-dce98c8524c9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -74818,6 +74912,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:07:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_06e1c3825571709cdaee",
+      "name": "Radio ProteusPL",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "electronica"
+      ],
+      "homepage": "https://proteuspl.pl/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T15:50:06Z",
+      "streams": [
+        {
+          "id": "aws_cb7707f9a96dbbb9a4e2",
+          "stationId": "awb_06e1c3825571709cdaee",
+          "name": "Radio ProteusPL",
+          "country": "PL",
+          "url": "https://radio.proteuspl.pl/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c839a643-9bf3-4759-b38b-95c331dbd441"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

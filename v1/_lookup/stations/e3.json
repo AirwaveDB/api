@@ -2545,6 +2545,49 @@
       }
     ]
   },
+  "awb_e36b89706f42a2bd7b00": {
+    "id": "awb_e36b89706f42a2bd7b00",
+    "name": "Störsignal.com",
+    "country": "DE",
+    "subdivision": "Hessen",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "dark phunk",
+      "hip hop",
+      "rap"
+    ],
+    "homepage": "https://xn--strsignal-17a.com/",
+    "favicon": "https://yt3.googleusercontent.com/Ep9n8Grny_A4ge9sXZJ9LwTZArFCRsGydB0GNxD0hY1ihQXr97llHa_MU2EMh8b-OvUMlssEhr0=s900-c-k-c0x00ffffff-no-rj",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T13:17:48Z",
+    "streams": [
+      {
+        "id": "aws_1834d0fdd02e5d66a200",
+        "stationId": "awb_e36b89706f42a2bd7b00",
+        "name": "Störsignal.com",
+        "country": "DE",
+        "url": "https://eu8.fastcast4u.com/proxy/mindbeated/stream",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "446814ba-9628-43d0-9ea3-22404d0e6983"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
+      }
+    ]
+  },
   "awb_e3a6fb821abf08872b2c": {
     "id": "awb_e3a6fb821abf08872b2c",
     "name": "TranceBase.FM - AAC HD 256k",
@@ -2690,8 +2733,8 @@
     "homepage": "https://radio.xecod.com/listen/salah-bukhatir",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T21:05:01Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-14T19:00:48Z",
     "streams": [
       {
         "id": "aws_4e90d0f388f2052d6e35",
@@ -2711,7 +2754,7 @@
           "c667427e-2d30-4f22-8cda-30a48ed01fed"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T21:05:03Z"
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },
@@ -5216,6 +5259,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:50:26Z"
+      }
+    ]
+  },
+  "awb_e3820dac7f6b639bb5c0": {
+    "id": "awb_e3820dac7f6b639bb5c0",
+    "name": "Riviera Radio",
+    "country": "MC",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.rivieraradio.mc/",
+    "favicon": "https://www.rivieraradio.mc/favicon-96x96.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T21:52:34Z",
+    "streams": [
+      {
+        "id": "aws_07cf4cef8328d6c28669",
+        "stationId": "awb_e3820dac7f6b639bb5c0",
+        "name": "Riviera Radio",
+        "country": "MC",
+        "url": "https://media-ice.musicradio.com/RivieraRadio",
+        "codec": "aac",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3f68c6ee-6b03-45e9-a3b7-0118518fd2db"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },

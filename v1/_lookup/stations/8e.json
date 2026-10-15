@@ -1141,8 +1141,8 @@
         "name": "BPM 100.9 Quebec",
         "country": "CA",
         "url": "https://18503.live.streamtheworld.com/CFTXFMAAC.aac",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac+",
+        "bitrate": 64,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -1152,7 +1152,7 @@
           "3045c96f-d6b7-428a-be3a-c8ad07dd1fdd"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },
@@ -3206,19 +3206,26 @@
     "name": "Josema MSX Radio",
     "country": "ES",
     "subdivision": "Almería",
-    "languages": [],
+    "languages": [
+      "es"
+    ],
     "categories": [],
     "tags": [
+      "chiptune",
       "msx",
+      "msx turbo r",
       "msx turbor",
       "msx2",
-      "msx2+"
+      "msx2+",
+      "retro",
+      "vgm",
+      "video game music"
     ],
     "homepage": "https://radio.josema.zapto.org:8443/public/msx",
     "favicon": "https://radio.josema.zapto.org:8443/static/uploads/browser_icon/192.1791617283.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-13T19:25:16Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-14T15:43:12Z",
     "streams": [
       {
         "id": "aws_4c6378eee34328274702",
@@ -3234,10 +3241,11 @@
           "radio-browser"
         ],
         "sourceIds": [
+          "0da4f047-089f-4331-b30a-d0babea6a71d",
           "ffe71234-db25-4cdf-8e27-d544d2a2523b"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-13T22:04:58Z"
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },
@@ -9420,6 +9428,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:54:54Z"
+      }
+    ]
+  },
+  "awb_8ed9acc8b2013f3dd30b": {
+    "id": "awb_8ed9acc8b2013f3dd30b",
+    "name": "WXZY 101.7 - Kane, Pennsylvania",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock",
+      "sports"
+    ],
+    "tags": [
+      "classic hits",
+      "classic rock",
+      "local sports"
+    ],
+    "homepage": "https://www.wxzyradio.com/",
+    "favicon": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/277562042_414993350627163_5262683815766632502_n.png?stp=dst-png&cstp=mx500x500&ctp=s200x200&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Qd7a-JA5T5IQ7kNvwHLjI4-&_nc_oc=AdoNBC-O5kk9G-7jOmgIdul3i3f6bBQL7dz13RMZe9u2jft0KFIJ_mtPLXc5CIGCUbU&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=z1GDMJp8F7xSBoD3vUppDw&_nc_ss=7a2a8&oh=00_AQPrKOsa1gFrF771d98-zQaLXS5QAw_znlo5PYWnfQMMVA&oe=6AD6142F",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T04:09:35Z",
+    "streams": [
+      {
+        "id": "aws_177fa6e88031f05c775b",
+        "stationId": "awb_8ed9acc8b2013f3dd30b",
+        "name": "WXZY 101.7 - Kane, Pennsylvania",
+        "country": "US",
+        "url": "https://ice64.securenetsystems.net/WXZY",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3c4ebf2e-ef75-453e-8b9f-38ebfb17b442"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

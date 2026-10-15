@@ -1930,7 +1930,7 @@
       "pop"
     ],
     "homepage": "https://www.bremenzwei.de/",
-    "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
+    "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:44:42Z",
@@ -1989,6 +1989,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T06:35:38Z"
+      }
+    ]
+  },
+  "awb_95184550d567b67e479a": {
+    "id": "awb_95184550d567b67e479a",
+    "name": "Nachklang FM - Zwei",
+    "country": "DE",
+    "subdivision": "Niedersachsen",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "audio drama",
+      "geschichten",
+      "hörspiel",
+      "hörspiele",
+      "musik",
+      "nachklang fm"
+    ],
+    "homepage": "https://nachklang.fm/",
+    "favicon": "https://nachklang.fm/storage/uploads/sender-zwei-cover-mux5j7er.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T23:08:17Z",
+    "streams": [
+      {
+        "id": "aws_e1e0a2daa5b463c3d196",
+        "stationId": "awb_95184550d567b67e479a",
+        "name": "Nachklang FM - Zwei",
+        "country": "DE",
+        "url": "https://zwei.nachklang.fm/stream.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ad8c4d53-774d-482d-97c3-aa31c243748a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },

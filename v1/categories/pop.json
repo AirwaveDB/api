@@ -1,6 +1,6 @@
 {
   "id": "pop",
-  "stationCount": 9110,
+  "stationCount": 9124,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -17246,8 +17246,8 @@
           "name": "ANTENNE VORARLBERG Coffee Hits",
           "country": "AT",
           "url": "https://web.radio.antennevorarlberg.at/av-coffee/stream/mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -17257,7 +17257,7 @@
             "b26e98a3-a60c-4940-b1b7-4a4dd6737253"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -50910,6 +50910,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:44:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a48b3985f6b67a8c659f",
+      "name": "wisleyschafer",
+      "country": "BR",
+      "subdivision": "São Paulo (SP)",
+      "languages": [],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "homepage": "https://stream.zeno.fm/9vs3cfayczquv",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T18:53:43Z",
+      "streams": [
+        {
+          "id": "aws_fc35995bbf6f8c78e69e",
+          "stationId": "awb_a48b3985f6b67a8c659f",
+          "name": "wisleyschafer",
+          "country": "BR",
+          "url": "https://stream.zeno.fm/9vs3cfayczquv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bd62f435-a868-43fc-8ff8-d699193d59d0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -98986,7 +99025,7 @@
         "pop"
       ],
       "homepage": "https://www.bremenzwei.de/",
-      "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
+      "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T08:44:42Z",
@@ -104263,7 +104302,7 @@
         "rock",
         "soul"
       ],
-      "homepage": "https://flaemingradio.de/",
+      "homepage": "https://www.flaemingradio.de/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -109333,6 +109372,55 @@
       ]
     },
     {
+      "id": "awb_ed1a514e8235f93b6960",
+      "name": "Kiel FM",
+      "country": "DE",
+      "subdivision": "Schleswig-Holstein",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "community",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "community",
+        "local",
+        "pop",
+        "rock",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://www.oksh.de/ki/hoeren/kiel-fm/",
+      "favicon": "https://www.oksh.de/ki/wp-content/uploads/sites/2/2018/11/Kiel-FM.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:19:02Z",
+      "streams": [
+        {
+          "id": "aws_0fe03ffaea0a26745553",
+          "stationId": "awb_ed1a514e8235f93b6960",
+          "name": "Kiel FM",
+          "country": "DE",
+          "url": "https://radio.oksh.de/kielfm.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "feb24e11-3602-4102-8563-f3cbc2ca7111"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_34c60db16c56e3354f4e",
       "name": "Klangwelt",
       "country": "DE",
@@ -113927,7 +114015,7 @@
         "youth"
       ],
       "homepage": "https://n-joy.de/",
-      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Njoy-logo.svg/512px-Njoy-logo.svg.png",
+      "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-01-15T08:34:02Z",
@@ -119996,6 +120084,117 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T00:05:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d877c802cdfca6104d91",
+      "name": "Radio Deck 1",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "soul",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://radiodeck1.de/wp-content/uploads/2025/06/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:30:44Z",
+      "streams": [
+        {
+          "id": "aws_a51a2259113f23628776",
+          "stationId": "awb_d877c802cdfca6104d91",
+          "name": "Radio Deck 1",
+          "country": "DE",
+          "url": "https://rde1.de/320",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_ef96fa8b73b56f2295e9",
+      "name": "Radio Deck 1 Hamburg",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "cultural",
+        "dance",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://rde1.de/player-live/assets/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:38:08Z",
+      "streams": [
+        {
+          "id": "aws_3766ef101f67198ffb97",
+          "stationId": "awb_ef96fa8b73b56f2295e9",
+          "name": "Radio Deck 1 Hamburg",
+          "country": "DE",
+          "url": "https://rde1.de/192",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -143586,6 +143785,50 @@
       ]
     },
     {
+      "id": "awb_9ebcce3667de2b8f1b9c",
+      "name": "Jarvis FM",
+      "country": "ES",
+      "subdivision": "Madrid",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "electronic",
+        "pop"
+      ],
+      "tags": [
+        "electronic",
+        "pop",
+        "various"
+      ],
+      "homepage": "https://jarvisfm.es/",
+      "favicon": "https://jarvisfm.es/icons/icon-192.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T17:28:14Z",
+      "streams": [
+        {
+          "id": "aws_c94339d1e7cbb37ed57a",
+          "stationId": "awb_9ebcce3667de2b8f1b9c",
+          "name": "Jarvis FM",
+          "country": "ES",
+          "url": "https://jarvisfm.es/radio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fd760390-fd42-4fd9-9949-b55b492f1548"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_1cbb7c7dd217b809a58c",
       "name": "KISS FM",
       "country": "ES",
@@ -144028,7 +144271,7 @@
       "tags": [
         "hits"
       ],
-      "homepage": "https://www.locafm.com/",
+      "homepage": "http://www.locafm.com/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -150440,7 +150683,7 @@
     },
     {
       "id": "awb_200891c5235ae1cf1f57",
-      "name": "Boombox radio",
+      "name": "Boombox Radio",
       "country": "FR",
       "subdivision": "Occitanie",
       "languages": [
@@ -150893,7 +151136,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao-Radio",
+      "name": "Cacao Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -161239,8 +161482,8 @@
           "name": "Radio Entre 2 Mers",
           "country": "FR",
           "url": "https://remradio.ice.infomaniak.ch/remradio-aac-128.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -161250,7 +161493,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -161548,6 +161791,60 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:29:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_063b0433382cf269e654",
+      "name": "Radio Laser",
+      "country": "FR",
+      "subdivision": "Bretagne",
+      "languages": [],
+      "categories": [
+        "community",
+        "hip-hop",
+        "jazz",
+        "pop",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "community",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "pop mondiale",
+        "r&b",
+        "reggae",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://www.radiolaser.fr/",
+      "favicon": "https://www.radiolaser.fr/assets/images/radiolaser.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:24:43Z",
+      "streams": [
+        {
+          "id": "aws_d5b5e69fb76636cf9f81",
+          "stationId": "awb_063b0433382cf269e654",
+          "name": "Radio Laser",
+          "country": "FR",
+          "url": "https://stream.radios.bzh/listen/radiolaser/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "82018398-3e60-4792-9bd4-bc354e2526e6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -173667,7 +173964,7 @@
       "id": "awb_6ccd96adbde9f3c95959",
       "name": "LOVERADIO247",
       "country": "GB",
-      "subdivision": "England",
+      "subdivision": "London, England",
       "languages": [
         "en"
       ],
@@ -177531,6 +177828,73 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T00:20:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_62345d01e03837f8072c",
+      "name": "RKNW Pirate Radio",
+      "country": "GB",
+      "subdivision": "London, England",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "disco",
+        "funk",
+        "oldies",
+        "pop",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://tunein.com/radio/RKNW-s263810/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-15T02:19:29Z",
+      "streams": [
+        {
+          "id": "aws_93b8d890e93a3c08e517",
+          "stationId": "awb_62345d01e03837f8072c",
+          "name": "RKNW Pirate Radio",
+          "country": "GB",
+          "url": "http://quasar.shoutca.st:8108/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af927ce9-35d4-4d98-b36e-0812039bd16d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        },
+        {
+          "id": "aws_914fd860afc3514780ad",
+          "stationId": "awb_62345d01e03837f8072c",
+          "name": "RKNW Pirate Radio",
+          "country": "GB",
+          "url": "http://quasar.shoutca.st:8108/stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1deb3bde-5507-4624-a780-5986312c88c3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -202007,6 +202371,46 @@
       ]
     },
     {
+      "id": "awb_a052f629244619b175df",
+      "name": "Μουσικό Κανάλι Ελασσόνας 107.3",
+      "country": "GR",
+      "subdivision": "Elassona",
+      "languages": [],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "greek pop",
+        "mainstream"
+      ],
+      "homepage": "https://mousikokanali1073.com/",
+      "favicon": "https://mousikokanali1073.com/img/logo.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T18:12:41Z",
+      "streams": [
+        {
+          "id": "aws_c5b8d3649a27cc57dded",
+          "stationId": "awb_a052f629244619b175df",
+          "name": "Μουσικό Κανάλι Ελασσόνας 107.3",
+          "country": "GR",
+          "url": "https://solid2.streamupsolutions.com/proxy/unhrkhgh?mp=/;type=mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "462ee757-f7cb-4f5b-b758-60aeb7ee5f22"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2c7b96bbd9b599bf57a8",
       "name": "Νέο Ραδιόφωνο 97.9",
       "country": "GR",
@@ -219590,6 +219994,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:15:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0a0473a87efd12291306",
+      "name": "She Radio 99.6 FM Surabaya",
+      "country": "ID",
+      "subdivision": "East Java",
+      "languages": [],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "pop music"
+      ],
+      "homepage": "https://www.sheradiofm.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T08:34:24Z",
+      "streams": [
+        {
+          "id": "aws_68d0b067856a7a6ed32d",
+          "stationId": "awb_0a0473a87efd12291306",
+          "name": "She Radio 99.6 FM Surabaya",
+          "country": "ID",
+          "url": "https://c4.siar.us/proxy/sheradio/stream",
+          "codec": "mp3",
+          "bitrate": 100,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ddfa0c91-d74d-4271-8f46-af32951e7fb9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -239119,6 +239563,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:18:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e88b770fabcaccdafc61",
+      "name": "Radio Messina",
+      "country": "IT",
+      "subdivision": "sicily",
+      "languages": [],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "pop",
+        "pop rock"
+      ],
+      "homepage": "https://www.anstv.it/radiomessina",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T21:49:20Z",
+      "streams": [
+        {
+          "id": "aws_d4efccd2292858f6798b",
+          "stationId": "awb_e88b770fabcaccdafc61",
+          "name": "Radio Messina",
+          "country": "IT",
+          "url": "https://ns3159873.ip-51-91-131.eu:2000/stream/radiomessina",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ce8a6fa9-355c-43f8-9754-e0ca57e5ca8d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -261213,6 +261698,89 @@
       ]
     },
     {
+      "id": "awb_9359ec9139ddfe95c6cf",
+      "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "metal",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "acir",
+        "acir online",
+        "adult album alternative",
+        "adult alternative",
+        "alternative",
+        "alternative 70s",
+        "alternative 80s",
+        "alternative metal",
+        "alternative pop",
+        "alternative rock",
+        "américa",
+        "cdmx",
+        "ciudad de méxico",
+        "classic rock; alternative rock indie",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "indie rock",
+        "latinoamérica",
+        "mexico city",
+        "mix",
+        "mix alternative",
+        "mix fm",
+        "moi merino",
+        "music",
+        "méxico",
+        "música alternativa",
+        "norteamérica",
+        "online",
+        "online only",
+        "radio",
+        "radio online",
+        "rock",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T04:25:31Z",
+      "streams": [
+        {
+          "id": "aws_e99a5227dad39e25927f",
+          "stationId": "awb_9359ec9139ddfe95c6cf",
+          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+            "a7a10889-e3af-4085-b800-1868e8cc8085"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_b129fd4eef05446a27b6",
       "name": "+Azul 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
       "country": "MX",
@@ -262189,72 +262757,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_78311a62fd4f569bce6c",
-      "name": "+Wow (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-      "country": "MX",
-      "subdivision": "Mérida, Yucatán",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "américa",
-        "cadena rasa",
-        "entretenimiento",
-        "español",
-        "estación",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "mérida",
-        "méxico",
-        "música",
-        "música en inglés",
-        "música pop",
-        "norteamérica",
-        "online",
-        "online only",
-        "online radio",
-        "pop",
-        "pop en inglés",
-        "pop music",
-        "radio",
-        "radio online",
-        "sureste",
-        "wow",
-        "yucatán"
-      ],
-      "homepage": "https://cadenarasa.com/yucatan/merida/wow",
-      "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-06-06T02:21:20Z",
-      "streams": [
-        {
-          "id": "aws_19abfec72c5f5f5717c5",
-          "stationId": "awb_78311a62fd4f569bce6c",
-          "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-          "country": "MX",
-          "url": "https://stream.zeno.fm/jf0uuhbqekguv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
-            "55699759-b52e-418e-b6dd-606de2b362f6"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:09:00Z"
         }
       ]
     },
@@ -284616,89 +285118,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:00:52Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9359ec9139ddfe95c6cf",
-      "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "metal",
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "80s",
-        "90s",
-        "acir",
-        "acir online",
-        "adult album alternative",
-        "adult alternative",
-        "alternative",
-        "alternative 70s",
-        "alternative 80s",
-        "alternative metal",
-        "alternative pop",
-        "alternative rock",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "classic rock; alternative rock indie",
-        "entretenimiento",
-        "español",
-        "estación",
-        "grupo acir",
-        "iheart",
-        "iheart radio",
-        "indie rock",
-        "latinoamérica",
-        "mexico city",
-        "mix",
-        "mix alternative",
-        "mix fm",
-        "moi merino",
-        "music",
-        "méxico",
-        "música alternativa",
-        "norteamérica",
-        "online",
-        "online only",
-        "radio",
-        "radio online",
-        "rock",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-13T04:25:31Z",
-      "streams": [
-        {
-          "id": "aws_e99a5227dad39e25927f",
-          "stationId": "awb_9359ec9139ddfe95c6cf",
-          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
-            "a7a10889-e3af-4085-b800-1868e8cc8085"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -342701,6 +343120,72 @@
       ]
     },
     {
+      "id": "awb_78311a62fd4f569bce6c",
+      "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+      "country": "MX",
+      "subdivision": "Mérida, Yucatán",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "américa",
+        "cadena rasa",
+        "entretenimiento",
+        "español",
+        "estación",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "mérida",
+        "méxico",
+        "música",
+        "música en inglés",
+        "música pop",
+        "norteamérica",
+        "online",
+        "online only",
+        "online radio",
+        "pop",
+        "pop en inglés",
+        "pop music",
+        "radio",
+        "radio online",
+        "sureste",
+        "wow",
+        "yucatán"
+      ],
+      "homepage": "https://cadenarasa.com/yucatan/merida/wow",
+      "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-06-06T02:21:20Z",
+      "streams": [
+        {
+          "id": "aws_19abfec72c5f5f5717c5",
+          "stationId": "awb_78311a62fd4f569bce6c",
+          "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+          "country": "MX",
+          "url": "https://stream.zeno.fm/jf0uuhbqekguv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
+            "55699759-b52e-418e-b6dd-606de2b362f6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:09:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5acb0579226cc26d2827",
       "name": "Wow (Torreón) - 101.1 FM - XHDN-FM - GPS Media - Torreón, Coahuila",
       "country": "MX",
@@ -349946,8 +350431,8 @@
           "name": "NLROXX Radio",
           "country": "NL",
           "url": "https://a13.asurahosting.com/listen/nlvoxx_radio/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -349957,7 +350442,7 @@
             "8a3496d2-aeee-424e-bc02-7e39992ee493"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -361323,6 +361808,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T09:26:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fff9ac30299ffdf36fa2",
+      "name": "Monster Radio RX 93.1",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "anime",
+        "pop"
+      ],
+      "tags": [
+        "alternative",
+        "indie",
+        "kpop",
+        "philippines",
+        "pop"
+      ],
+      "homepage": "https://www.rx931.com/",
+      "favicon": "https://www.rx931.com/images/logo-main.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T06:48:46Z",
+      "streams": [
+        {
+          "id": "aws_7b01340866c28ec1de33",
+          "stationId": "awb_fff9ac30299ffdf36fa2",
+          "name": "Monster Radio RX 93.1",
+          "country": "PH",
+          "url": "https://in-icecast.eradioportal.com:8443/monsterrrx",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "17ecaa05-f3af-410b-a768-f0d17e82e212"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -374932,7 +375463,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radiaura.net/apple-touch-icon.png",
+      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -381642,7 +382173,7 @@
         "stuttgart",
         "torino"
       ],
-      "homepage": "https://radiogiurgiu.net/mobile.html",
+      "homepage": "https://radiogiurgiu.net/",
       "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
       "type": null,
       "sourceCount": 4,
@@ -386378,7 +386909,7 @@
     },
     {
       "id": "awb_8c58d1b71fc265acb0b8",
-      "name": "UBB Radio -Universitatea Babeș Bolyai Cluj Napoca",
+      "name": "UBB Radio (Universitatea Babeș Bolyai) -Cluj Napoca",
       "country": "RO",
       "subdivision": null,
       "languages": [],
@@ -404220,7 +404751,7 @@
     },
     {
       "id": "awb_e409ed31da9366df648d",
-      "name": "Радио Vibe Новый Звук",
+      "name": "Радио ViBE Новый Звук",
       "country": "RU",
       "subdivision": "russia",
       "languages": [
@@ -404235,7 +404766,7 @@
         "pop"
       ],
       "homepage": "https://radiovibe.ru/",
-      "favicon": "https://radiovibe.ru/favicon.ico",
+      "favicon": "https://radiovibe.ru/img/vibe_500.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T13:24:17Z",
@@ -429161,6 +429692,51 @@
       ]
     },
     {
+      "id": "awb_52e8d012f32fafb53884",
+      "name": "93.7 The River Sacramento KYRV",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "classic hits",
+        "greatest hits",
+        "oldies",
+        "sacramento"
+      ],
+      "homepage": "https://937theriver.iheart.com/",
+      "favicon": "https://i.iheart.com/v3/re/assets.streams/6abec98607c647f54a8e7e11",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T05:50:17Z",
+      "streams": [
+        {
+          "id": "aws_159a4b00907228064672",
+          "stationId": "awb_52e8d012f32fafb53884",
+          "name": "93.7 The River Sacramento KYRV",
+          "country": "US",
+          "url": "https://stream.revma.ihrhls.com/zc4314",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "07c935e0-e828-4b29-889b-1f0b8837b847"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_adfaf3a417103de652d8",
       "name": "93.9 WLIT-FM LITE FM",
       "country": "US",
@@ -433769,7 +434345,7 @@
         "oldies",
         "wisconsin"
       ],
-      "homepage": "https://classiccountrylegendsradio.neocities.org/goldenoldies",
+      "homepage": "https://classiccountrylegendsradio.neocities.org/",
       "favicon": "https://images.zeno.fm/oLsvZnvFd_rx-U_Xvki0Uu8RpK46_XVfSbMunX5q0us/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2JhNDE3OWEzLTExMjEtNDUwMi1hNGZkLTU0MjUzYWExNjg3YS9pbWFnZS8_dT0xNzkxMTQyNTg2NzEy.webp",
       "type": null,
       "sourceCount": 2,
@@ -446683,6 +447259,49 @@
       ]
     },
     {
+      "id": "awb_5fc3aa79e8732e1bae15",
+      "name": "WGYT 92.7 - Greer, South Carolina",
+      "country": "US",
+      "subdivision": "South Carolina",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock"
+      ],
+      "homepage": "https://921wgyt.com/#",
+      "favicon": "https://cdn-profiles.tunein.com/s293087/images/logod.png?t=639160607720000000",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:45:44Z",
+      "streams": [
+        {
+          "id": "aws_29d4671b26d5509242d0",
+          "stationId": "awb_5fc3aa79e8732e1bae15",
+          "name": "WGYT 92.7 - Greer, South Carolina",
+          "country": "US",
+          "url": "https://582f0aabbc5ab.streamlock.net/ZZ_WGYT/wgyt.stream/playlist.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f5c9416b-c6f5-4321-b5d4-9035c7a4d4ea"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_ce7c183c227bd54a1495",
       "name": "WHII 106.5 Warminster, Pennsylvania - Радио Филадельфия",
       "country": "US",
@@ -449301,6 +449920,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T20:54:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8ed9acc8b2013f3dd30b",
+      "name": "WXZY 101.7 - Kane, Pennsylvania",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock",
+        "local sports"
+      ],
+      "homepage": "https://www.wxzyradio.com/",
+      "favicon": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/277562042_414993350627163_5262683815766632502_n.png?stp=dst-png&cstp=mx500x500&ctp=s200x200&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Qd7a-JA5T5IQ7kNvwHLjI4-&_nc_oc=AdoNBC-O5kk9G-7jOmgIdul3i3f6bBQL7dz13RMZe9u2jft0KFIJ_mtPLXc5CIGCUbU&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=z1GDMJp8F7xSBoD3vUppDw&_nc_ss=7a2a8&oh=00_AQPrKOsa1gFrF771d98-zQaLXS5QAw_znlo5PYWnfQMMVA&oe=6AD6142F",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:09:35Z",
+      "streams": [
+        {
+          "id": "aws_177fa6e88031f05c775b",
+          "stationId": "awb_8ed9acc8b2013f3dd30b",
+          "name": "WXZY 101.7 - Kane, Pennsylvania",
+          "country": "US",
+          "url": "https://ice64.securenetsystems.net/WXZY",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3c4ebf2e-ef75-453e-8b9f-38ebfb17b442"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

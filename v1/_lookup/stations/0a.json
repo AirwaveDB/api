@@ -4072,6 +4072,46 @@
       }
     ]
   },
+  "awb_0a0473a87efd12291306": {
+    "id": "awb_0a0473a87efd12291306",
+    "name": "She Radio 99.6 FM Surabaya",
+    "country": "ID",
+    "subdivision": "East Java",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "pop music"
+    ],
+    "homepage": "https://www.sheradiofm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T08:34:24Z",
+    "streams": [
+      {
+        "id": "aws_68d0b067856a7a6ed32d",
+        "stationId": "awb_0a0473a87efd12291306",
+        "name": "She Radio 99.6 FM Surabaya",
+        "country": "ID",
+        "url": "https://c4.siar.us/proxy/sheradio/stream",
+        "codec": "mp3",
+        "bitrate": 100,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ddfa0c91-d74d-4271-8f46-af32951e7fb9"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
+      }
+    ]
+  },
   "awb_0a1cead45ffd0f52e1b0": {
     "id": "awb_0a1cead45ffd0f52e1b0",
     "name": "Sonora FM Palembang",
@@ -8751,8 +8791,8 @@
         "name": "Radio 2000",
         "country": "VE",
         "url": "https://streaming.panelautomatizado.com/listen/adclic/radio2000.mp3?refresh=1791934738679",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 96,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -8762,7 +8802,7 @@
           "86e2057d-bda4-4ed0-8e8f-1e520cc04709"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },

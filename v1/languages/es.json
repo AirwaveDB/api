@@ -1,6 +1,6 @@
 {
   "code": "es",
-  "stationCount": 5507,
+  "stationCount": 5510,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -44713,7 +44713,7 @@
     },
     {
       "id": "awb_f85d515686d208619eea",
-      "name": "Radio la Chúkara",
+      "name": "Radio La Chúkara",
       "country": "CL",
       "subdivision": null,
       "languages": [
@@ -48841,6 +48841,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:01:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_420d15d6b62cf70eb960",
+      "name": "Save Room FM",
+      "country": "CL",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "gaming",
+        "vgm",
+        "video game music"
+      ],
+      "homepage": "https://saveroomfm.duckdns.org/",
+      "favicon": "https://saveroomfm.duckdns.org/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:03:59Z",
+      "streams": [
+        {
+          "id": "aws_d7e065c42aa27eb4bfda",
+          "stationId": "awb_420d15d6b62cf70eb960",
+          "name": "Save Room FM",
+          "country": "CL",
+          "url": "https://saveroomfm.duckdns.org/stream",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2e781f03-dd07-4ae3-bf4d-d085a39df37c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -81687,7 +81733,7 @@
       "categories": [],
       "tags": [],
       "homepage": "https://cadenaser.com/radio-san-sebastian/",
-      "favicon": "http://cadenaser00.epimg.net/iconos/v1.x/v1.0/redes/imagenes_og/emisoras_v2/1200x630_imagen_control_radio_san_sebastian.jpg",
+      "favicon": "https://listaradio.com/storage/radios/17744/37779/conversions/mNYLhS77V1B5YyOMtoIV0T2cHSfukH-metaUmFkaW9TYW5TZWJhc3RpYW5DYWRlbmFTRVIucG5n--lg.webp",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T08:22:40Z",
@@ -83806,7 +83852,7 @@
         "hardstyle",
         "music"
       ],
-      "homepage": "https://decibeliafm.es/web/",
+      "homepage": "https://decibeliafm.es/",
       "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
       "type": null,
       "sourceCount": 2,
@@ -88981,6 +89027,50 @@
       ]
     },
     {
+      "id": "awb_9ebcce3667de2b8f1b9c",
+      "name": "Jarvis FM",
+      "country": "ES",
+      "subdivision": "Madrid",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "electronic",
+        "pop"
+      ],
+      "tags": [
+        "electronic",
+        "pop",
+        "various"
+      ],
+      "homepage": "https://jarvisfm.es/",
+      "favicon": "https://jarvisfm.es/icons/icon-192.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T17:28:14Z",
+      "streams": [
+        {
+          "id": "aws_c94339d1e7cbb37ed57a",
+          "stationId": "awb_9ebcce3667de2b8f1b9c",
+          "name": "Jarvis FM",
+          "country": "ES",
+          "url": "https://jarvisfm.es/radio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fd760390-fd42-4fd9-9949-b55b492f1548"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6429adbdb8d7f03a334e",
       "name": "Jazz FM Spain",
       "country": "ES",
@@ -89095,6 +89185,54 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:05:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8e6bed8d71023a170cc1",
+      "name": "Josema MSX Radio",
+      "country": "ES",
+      "subdivision": "Almería",
+      "languages": [
+        "es"
+      ],
+      "categories": [],
+      "tags": [
+        "chiptune",
+        "msx",
+        "msx turbo r",
+        "msx turbor",
+        "msx2",
+        "msx2+",
+        "retro",
+        "vgm",
+        "video game music"
+      ],
+      "homepage": "https://radio.josema.zapto.org:8443/public/msx",
+      "favicon": "https://radio.josema.zapto.org:8443/static/uploads/browser_icon/192.1791617283.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-14T15:43:12Z",
+      "streams": [
+        {
+          "id": "aws_4c6378eee34328274702",
+          "stationId": "awb_8e6bed8d71023a170cc1",
+          "name": "Josema MSX Radio",
+          "country": "ES",
+          "url": "https://radio.josema.zapto.org:8443/listen/msx/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0da4f047-089f-4331-b30a-d0babea6a71d",
+            "ffe71234-db25-4cdf-8e27-d544d2a2523b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -90225,7 +90363,7 @@
       "tags": [
         "hits"
       ],
-      "homepage": "https://www.locafm.com/",
+      "homepage": "http://www.locafm.com/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -91424,16 +91562,20 @@
         "es"
       ],
       "categories": [
-        "metal"
+        "metal",
+        "rock"
       ],
       "tags": [
-        "heavy metal"
+        "hard rock",
+        "heavy metal",
+        "metal",
+        "rock"
       ],
       "homepage": "https://azuracast.javidai.uk/public/metalmeria",
-      "favicon": null,
+      "favicon": "https://azuracast.javidai.uk/static/uploads/browser_icon/192.1792001088.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-13T18:27:05Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-14T18:19:58Z",
       "streams": [
         {
           "id": "aws_12968552f95f865ed3f7",
@@ -91449,10 +91591,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "98e39928-1801-414c-b6e7-dd7b58614dd6"
+            "98e39928-1801-414c-b6e7-dd7b58614dd6",
+            "ab6a1372-1364-4db8-848e-6bca16ef8523"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -109898,6 +110041,89 @@
       ]
     },
     {
+      "id": "awb_9359ec9139ddfe95c6cf",
+      "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "metal",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "acir",
+        "acir online",
+        "adult album alternative",
+        "adult alternative",
+        "alternative",
+        "alternative 70s",
+        "alternative 80s",
+        "alternative metal",
+        "alternative pop",
+        "alternative rock",
+        "américa",
+        "cdmx",
+        "ciudad de méxico",
+        "classic rock; alternative rock indie",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "indie rock",
+        "latinoamérica",
+        "mexico city",
+        "mix",
+        "mix alternative",
+        "mix fm",
+        "moi merino",
+        "music",
+        "méxico",
+        "música alternativa",
+        "norteamérica",
+        "online",
+        "online only",
+        "radio",
+        "radio online",
+        "rock",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T04:25:31Z",
+      "streams": [
+        {
+          "id": "aws_e99a5227dad39e25927f",
+          "stationId": "awb_9359ec9139ddfe95c6cf",
+          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+            "a7a10889-e3af-4085-b800-1868e8cc8085"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_da98882e1fea6d20c6f0",
       "name": "+Azteka Radio (Río Verde) - Online - www.aztekaradio.com - Río Verde, San Luis Potosí",
       "country": "MX",
@@ -111308,72 +111534,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_78311a62fd4f569bce6c",
-      "name": "+Wow (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-      "country": "MX",
-      "subdivision": "Mérida, Yucatán",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "américa",
-        "cadena rasa",
-        "entretenimiento",
-        "español",
-        "estación",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "mérida",
-        "méxico",
-        "música",
-        "música en inglés",
-        "música pop",
-        "norteamérica",
-        "online",
-        "online only",
-        "online radio",
-        "pop",
-        "pop en inglés",
-        "pop music",
-        "radio",
-        "radio online",
-        "sureste",
-        "wow",
-        "yucatán"
-      ],
-      "homepage": "https://cadenarasa.com/yucatan/merida/wow",
-      "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-06-06T02:21:20Z",
-      "streams": [
-        {
-          "id": "aws_19abfec72c5f5f5717c5",
-          "stationId": "awb_78311a62fd4f569bce6c",
-          "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-          "country": "MX",
-          "url": "https://stream.zeno.fm/jf0uuhbqekguv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
-            "55699759-b52e-418e-b6dd-606de2b362f6"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:09:00Z"
         }
       ]
     },
@@ -153589,89 +153749,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T23:22:12Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9359ec9139ddfe95c6cf",
-      "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "metal",
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "80s",
-        "90s",
-        "acir",
-        "acir online",
-        "adult album alternative",
-        "adult alternative",
-        "alternative",
-        "alternative 70s",
-        "alternative 80s",
-        "alternative metal",
-        "alternative pop",
-        "alternative rock",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "classic rock; alternative rock indie",
-        "entretenimiento",
-        "español",
-        "estación",
-        "grupo acir",
-        "iheart",
-        "iheart radio",
-        "indie rock",
-        "latinoamérica",
-        "mexico city",
-        "mix",
-        "mix alternative",
-        "mix fm",
-        "moi merino",
-        "music",
-        "méxico",
-        "música alternativa",
-        "norteamérica",
-        "online",
-        "online only",
-        "radio",
-        "radio online",
-        "rock",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-13T04:25:31Z",
-      "streams": [
-        {
-          "id": "aws_e99a5227dad39e25927f",
-          "stationId": "awb_9359ec9139ddfe95c6cf",
-          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
-            "a7a10889-e3af-4085-b800-1868e8cc8085"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -265588,6 +265665,72 @@
       ]
     },
     {
+      "id": "awb_78311a62fd4f569bce6c",
+      "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+      "country": "MX",
+      "subdivision": "Mérida, Yucatán",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "américa",
+        "cadena rasa",
+        "entretenimiento",
+        "español",
+        "estación",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "mérida",
+        "méxico",
+        "música",
+        "música en inglés",
+        "música pop",
+        "norteamérica",
+        "online",
+        "online only",
+        "online radio",
+        "pop",
+        "pop en inglés",
+        "pop music",
+        "radio",
+        "radio online",
+        "sureste",
+        "wow",
+        "yucatán"
+      ],
+      "homepage": "https://cadenarasa.com/yucatan/merida/wow",
+      "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-06-06T02:21:20Z",
+      "streams": [
+        {
+          "id": "aws_19abfec72c5f5f5717c5",
+          "stationId": "awb_78311a62fd4f569bce6c",
+          "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+          "country": "MX",
+          "url": "https://stream.zeno.fm/jf0uuhbqekguv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
+            "55699759-b52e-418e-b6dd-606de2b362f6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-12T02:09:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5acb0579226cc26d2827",
       "name": "Wow (Torreón) - 101.1 FM - XHDN-FM - GPS Media - Torreón, Coahuila",
       "country": "MX",
@@ -279172,7 +279315,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radiaura.net/apple-touch-icon.png",
+      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -279988,7 +280131,7 @@
         "stuttgart",
         "torino"
       ],
-      "homepage": "https://radiogiurgiu.net/mobile.html",
+      "homepage": "https://radiogiurgiu.net/",
       "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
       "type": null,
       "sourceCount": 4,
@@ -297454,8 +297597,8 @@
           "name": "Radio 2000",
           "country": "VE",
           "url": "https://streaming.panelautomatizado.com/listen/adclic/radio2000.mp3?refresh=1791934738679",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -297465,7 +297608,7 @@
             "86e2057d-bda4-4ed0-8e8f-1e520cc04709"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

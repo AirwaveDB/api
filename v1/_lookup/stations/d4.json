@@ -1087,6 +1087,47 @@
       }
     ]
   },
+  "awb_d4f0b9881644e8719175": {
+    "id": "awb_d4f0b9881644e8719175",
+    "name": "EHB Rock",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "heavy metal",
+      "rock"
+    ],
+    "homepage": "https://ehbrock.com.br/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T01:31:22Z",
+    "streams": [
+      {
+        "id": "aws_5513a084a73702bf043c",
+        "stationId": "awb_d4f0b9881644e8719175",
+        "name": "EHB Rock",
+        "country": "BR",
+        "url": "https://ehbrock.com.br/live/",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "af05cc2f-f4cd-4524-9b40-15352705945e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_d45490aaf72ec92547b0": {
     "id": "awb_d45490aaf72ec92547b0",
     "name": "MultiHuman EntheoMusic",
@@ -3520,7 +3561,7 @@
   },
   "awb_d4bfb7345ded7206638c": {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao-Radio",
+    "name": "Cacao Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -9544,6 +9585,46 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T04:45:15Z"
+      }
+    ]
+  },
+  "awb_d41386613f18b139d2d9": {
+    "id": "awb_d41386613f18b139d2d9",
+    "name": "WXLV - The X",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "languages": [],
+    "categories": [
+      "college"
+    ],
+    "tags": [
+      "alternative",
+      "college radio"
+    ],
+    "homepage": "https://www.lccc.edu/student-experience/clubs-and-organizations/wxlv-digital-media-and-production-lab/",
+    "favicon": "https://radiostationusa.fm/assets/image/radio/180/WXLV.jpg",
+    "type": "college",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T21:54:51Z",
+    "streams": [
+      {
+        "id": "aws_e1e873abf094128f1d2c",
+        "stationId": "awb_d41386613f18b139d2d9",
+        "name": "WXLV - The X",
+        "country": "US",
+        "url": "https://securestream.casthost.net:8047/live",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "42cd8934-9544-4ed5-99f9-234a8387d68f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

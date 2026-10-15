@@ -1108,6 +1108,45 @@
       }
     ]
   },
+  "awb_e83cec86c2b47985bfbc": {
+    "id": "awb_e83cec86c2b47985bfbc",
+    "name": "EDBRADIO",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "eletronica"
+    ],
+    "homepage": null,
+    "favicon": "https://plain-enam-prod-public.komododecks.com/202610/14/wMHwlP13QXdzPSnPqe24/image.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T18:54:18Z",
+    "streams": [
+      {
+        "id": "aws_50675d96a5920bd2da29",
+        "stationId": "awb_e83cec86c2b47985bfbc",
+        "name": "EDBRADIO",
+        "country": "BR",
+        "url": "https://cp-1.owh.radio.br/listen/owh_s35344/radio-mp3",
+        "codec": "aac",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e59ce01b-eed8-42f2-aed8-dc2ec13e75a6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
+      }
+    ]
+  },
   "awb_e869ac32604e15140736": {
     "id": "awb_e869ac32604e15140736",
     "name": "Hunter.FM - O Canal Pop",
@@ -5147,6 +5186,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:01:04Z"
+      }
+    ]
+  },
+  "awb_e88b770fabcaccdafc61": {
+    "id": "awb_e88b770fabcaccdafc61",
+    "name": "Radio Messina",
+    "country": "IT",
+    "subdivision": "sicily",
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "pop rock"
+    ],
+    "homepage": "https://www.anstv.it/radiomessina",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T21:49:20Z",
+    "streams": [
+      {
+        "id": "aws_d4efccd2292858f6798b",
+        "stationId": "awb_e88b770fabcaccdafc61",
+        "name": "Radio Messina",
+        "country": "IT",
+        "url": "https://ns3159873.ip-51-91-131.eu:2000/stream/radiomessina",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ce8a6fa9-355c-43f8-9754-e0ca57e5ca8d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },

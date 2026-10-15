@@ -1,7 +1,7 @@
 {
   "code": "CA",
-  "stationCount": 1417,
-  "streamCount": 1452,
+  "stationCount": 1419,
+  "streamCount": 1454,
   "stations": [
     {
       "id": "awb_654770d3387f31abb729",
@@ -2989,6 +2989,43 @@
       ]
     },
     {
+      "id": "awb_5af0615def426f1e53f4",
+      "name": "99.9 Sun FM",
+      "country": "CA",
+      "subdivision": "British Columbia",
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.myktownnow.com/",
+      "favicon": "https://www.myktownnow.com/wp-content/uploads/2025/08/SUN-FM-Logo_Primary-Full-Colour.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T17:07:21Z",
+      "streams": [
+        {
+          "id": "aws_550a17786a22a2ac26f2",
+          "stationId": "awb_5af0615def426f1e53f4",
+          "name": "99.9 Sun FM",
+          "country": "CA",
+          "url": "https://vistaradio.streamb.live/SB00397?args=web_01",
+          "codec": "aac+",
+          "bitrate": 57,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "74e9e192-f937-4c97-b412-fd6f6f287591"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_99c98d0b50e77d27c0a2",
       "name": "A Dick Ted Radio",
       "country": "CA",
@@ -4630,8 +4667,8 @@
           "name": "BPM 100.9 Quebec",
           "country": "CA",
           "url": "https://18503.live.streamtheworld.com/CFTXFMAAC.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -4641,7 +4678,7 @@
             "3045c96f-d6b7-428a-be3a-c8ad07dd1fdd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -4704,8 +4741,8 @@
           "name": "BPM 96.5 Gatineau",
           "country": "CA",
           "url": "https://26383.live.streamtheworld.com/CFTXFMAAC.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -4715,7 +4752,7 @@
             "17870a88-c273-4192-ac2d-6bbcf914e419"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -11817,7 +11854,7 @@
     },
     {
       "id": "awb_cf43b81c65d37d9dc650",
-      "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+      "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
       "country": "CA",
       "subdivision": "Quebec",
       "languages": [
@@ -11835,7 +11872,7 @@
         "talk",
         "trad"
       ],
-      "homepage": "http://cfnj.net/",
+      "homepage": "http://www.cfnj.net/",
       "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
       "type": "community",
       "sourceCount": 2,
@@ -39537,6 +39574,45 @@
       ]
     },
     {
+      "id": "awb_33684dbdc0639dd1b235",
+      "name": "Classic Hits 109 - 70s Hits!",
+      "country": "CA",
+      "subdivision": "Montreal",
+      "languages": [],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "70s"
+      ],
+      "homepage": "http://www.classichits109.com/",
+      "favicon": "https://cdn.onlineradiobox.com/img/l/2/69942.v18.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:25:07Z",
+      "streams": [
+        {
+          "id": "aws_f0af1463f4b03eaaf78a",
+          "stationId": "awb_33684dbdc0639dd1b235",
+          "name": "Classic Hits 109 - 70s Hits!",
+          "country": "CA",
+          "url": "https://broadcast.classichits109.com/70s",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "50afa332-86b9-48df-a4c1-e7d5bf47984f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_52bbc89f66fe168103bd",
       "name": "Classic Hits 109 - Classic Rock 109",
       "country": "CA",
@@ -42699,6 +42775,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T08:00:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_785f2a4be228fda4e752",
+      "name": "Holy Bible 24/7",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "audio bible",
+        "bible",
+        "christian",
+        "new testament",
+        "religious",
+        "spoken word"
+      ],
+      "homepage": "https://167-160-184-10.sslip.io/",
+      "favicon": "https://167-160-184-10.sslip.io/logo.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T14:22:16Z",
+      "streams": [
+        {
+          "id": "aws_f9972a13da3bf549af33",
+          "stationId": "awb_785f2a4be228fda4e752",
+          "name": "Holy Bible 24/7",
+          "country": "CA",
+          "url": "https://167-160-184-10.sslip.io/holybible.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "58d1b5ff-b1c1-48e1-894b-bfbe46e2c2cd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -55483,7 +55606,7 @@
       "id": "awb_84f94cc037b298681456",
       "name": "Stingray Smoot Jazz",
       "country": "CA",
-      "subdivision": "Toronto",
+      "subdivision": "Toronto, ON",
       "languages": [],
       "categories": [
         "jazz"
@@ -55492,7 +55615,7 @@
         "jazz",
         "smooth jazz"
       ],
-      "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+      "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
       "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
       "type": null,
       "sourceCount": 3,
@@ -57660,41 +57783,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T20:52:01Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_ff22f85e9f1c9f4d3b6d",
-      "name": "TSN 690 Montreal",
-      "country": "CA",
-      "subdivision": "Canada",
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://www.iheart.com/live/tsn-690-7450",
-      "favicon": "https://www.iheart.com/public/assets/favicon.ico",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-14T00:54:07Z",
-      "streams": [
-        {
-          "id": "aws_b90fdef01ec8f15da6b9",
-          "stationId": "awb_ff22f85e9f1c9f4d3b6d",
-          "name": "TSN 690 Montreal",
-          "country": "CA",
-          "url": "https://www.iheart.com/live/tsn-690-7450/now-playing",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "4758873a-167a-43b8-a3ef-566bedb29dc4"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },

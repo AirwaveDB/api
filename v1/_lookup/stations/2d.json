@@ -1379,6 +1379,48 @@
       }
     ]
   },
+  "awb_2dcce6cb244ddee7c2fc": {
+    "id": "awb_2dcce6cb244ddee7c2fc",
+    "name": ".听梦想FM（原态度电台）24小时音乐不打烊",
+    "country": "CN",
+    "subdivision": "Yunnan",
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "internet radio",
+      "music",
+      "podcast"
+    ],
+    "homepage": "http://imx.fm/",
+    "favicon": "https://imx.fm/wp-content/uploads/2025/09/logo.png",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T03:28:57Z",
+    "streams": [
+      {
+        "id": "aws_46aa715b6da88b64b795",
+        "stationId": "awb_2dcce6cb244ddee7c2fc",
+        "name": ".听梦想FM（原态度电台）24小时音乐不打烊",
+        "country": "CN",
+        "url": "https://lhttp-hw.qtfm.cn/live/4917/64k.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6cd64df1-25ac-4185-9635-072973d95e8b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_2dfa9bf76fd8213f0553": {
     "id": "awb_2dfa9bf76fd8213f0553",
     "name": "https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8?wsSession=99789a08add4ecdbfe9421e3-173752435390509&wsIPSercert=74983ed8210fffe44d53c2a258bb9a5d",
@@ -1895,8 +1937,8 @@
         "name": "cristal boyacá 98.3 fm",
         "country": "CO",
         "url": "https://impactodigitalcol.com/8020/stream",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac+",
+        "bitrate": 96,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -1906,7 +1948,7 @@
           "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "code": "GB",
-  "stationCount": 1972,
-  "streamCount": 2129,
+  "stationCount": 1973,
+  "streamCount": 2131,
   "stations": [
     {
       "id": "awb_9ff2145d6f9bd4c5abac",
@@ -19321,7 +19321,7 @@
           "name": "Channel 5",
           "country": "GB",
           "url": "http://onj2.andrelouis.com:8000/channel5",
-          "codec": null,
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "http",
           "hls": false,
@@ -19332,7 +19332,7 @@
             "6890a465-27e3-414e-9e88-89483c90ddf3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -40021,8 +40021,8 @@
           "name": "JAM Radio UK",
           "country": "GB",
           "url": "https://stream.jamradio.uk/live",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -40032,7 +40032,7 @@
             "ef23f52d-ea07-4cc7-a607-0ccd18c539e0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -43803,6 +43803,56 @@
       ]
     },
     {
+      "id": "awb_2339cdaa6fa5f3322286",
+      "name": "LIFEFM.TV",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "electronic",
+        "reggae"
+      ],
+      "tags": [
+        "deep house",
+        "drum and bass",
+        "dub",
+        "dub reggae",
+        "funk",
+        "house",
+        "jungle",
+        "ragga jungle",
+        "soul",
+        "tech house",
+        "uk garage"
+      ],
+      "homepage": "https://lifefm.tv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:31:53Z",
+      "streams": [
+        {
+          "id": "aws_7d404b1196a3a3c49730",
+          "stationId": "awb_2339cdaa6fa5f3322286",
+          "name": "LIFEFM.TV",
+          "country": "GB",
+          "url": "https://streamer.radio.co/s1ed160262/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e936956c-fc26-4566-ae61-dce98c8524c9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6a1a8472bf680b41f1fc",
       "name": "Lifestyle Radio UK",
       "country": "GB",
@@ -46526,7 +46576,7 @@
       "id": "awb_6ccd96adbde9f3c95959",
       "name": "LOVERADIO247",
       "country": "GB",
-      "subdivision": "England",
+      "subdivision": "London, England",
       "languages": [
         "en"
       ],
@@ -64489,6 +64539,53 @@
       ]
     },
     {
+      "id": "awb_e1c682dad897b57ca73c",
+      "name": "Real Rock Radio",
+      "country": "GB",
+      "subdivision": "England",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "hard rock",
+        "heavy metal",
+        "punk",
+        "rock",
+        "rock'n'roll"
+      ],
+      "homepage": "https://realrockradio.co.uk/",
+      "favicon": "https://realrockradio.co.uk/images/0/24448175/newlogonoback-tbpfStE5mODn1BrennfC0w.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:05:54Z",
+      "streams": [
+        {
+          "id": "aws_a9e7663dede389c43139",
+          "stationId": "awb_e1c682dad897b57ca73c",
+          "name": "Real Rock Radio",
+          "country": "GB",
+          "url": "https://eu10.fastcast4u.com/rrr1",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "da7d7480-3616-4ba6-bf43-e086deb71d1a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_675412a24c03ffbea5a8",
       "name": "Real roots radio",
       "country": "GB",
@@ -65680,6 +65777,73 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:24:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_62345d01e03837f8072c",
+      "name": "RKNW Pirate Radio",
+      "country": "GB",
+      "subdivision": "London, England",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "disco",
+        "funk",
+        "oldies",
+        "pop",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://tunein.com/radio/RKNW-s263810/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-15T02:19:29Z",
+      "streams": [
+        {
+          "id": "aws_93b8d890e93a3c08e517",
+          "stationId": "awb_62345d01e03837f8072c",
+          "name": "RKNW Pirate Radio",
+          "country": "GB",
+          "url": "http://quasar.shoutca.st:8108/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af927ce9-35d4-4d98-b36e-0812039bd16d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        },
+        {
+          "id": "aws_914fd860afc3514780ad",
+          "stationId": "awb_62345d01e03837f8072c",
+          "name": "RKNW Pirate Radio",
+          "country": "GB",
+          "url": "http://quasar.shoutca.st:8108/stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1deb3bde-5507-4624-a780-5986312c88c3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -68660,13 +68824,13 @@
     },
     {
       "id": "awb_79b40fbcc2b92a7fc70b",
-      "name": "Sine FM",
+      "name": "SINE FM",
       "country": "GB",
       "subdivision": null,
       "languages": [],
       "categories": [],
       "tags": [],
-      "homepage": "https://www.sinefm.com/",
+      "homepage": "http://www.sinefm.com/",
       "favicon": "https://www.sinefm.com/wp-content/uploads/2019/11/sine-fm-logo-new-800.png",
       "type": null,
       "sourceCount": 2,
@@ -68846,41 +69010,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:24:28Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_bbf09ae4422b671490c6",
-      "name": "Slack City",
-      "country": "GB",
-      "subdivision": "Brighton",
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://www.slackcity.org.uk/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-13T22:28:30Z",
-      "streams": [
-        {
-          "id": "aws_a4f9820c991f52a78b46",
-          "stationId": "awb_bbf09ae4422b671490c6",
-          "name": "Slack City",
-          "country": "GB",
-          "url": "https://www.slackcity.org.uk/",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "71ec3918-b00f-4b24-9f86-a5fb094c2f6e"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },
@@ -72762,49 +72891,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:58:53Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_cec133aaaa7ded2fe04f",
-      "name": "STV Rad!o",
-      "country": "GB",
-      "subdivision": "Glasgow",
-      "languages": [],
-      "categories": [],
-      "tags": [
-        "1970s",
-        "1980s",
-        "1990s",
-        "2000s",
-        "2010s",
-        "2020s",
-        "never the same song all day long"
-      ],
-      "homepage": "https://player.stv.tv/stv-radio",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-13T22:15:37Z",
-      "streams": [
-        {
-          "id": "aws_e96542813a9cbfb25682",
-          "stationId": "awb_cec133aaaa7ded2fe04f",
-          "name": "STV Rad!o",
-          "country": "GB",
-          "url": "http://www.radiofeeds.net/playlists/sharptemp.pls?station=stv_central-aac",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "598fa833-670d-45bb-8546-a507c4302fbf"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },
@@ -81314,7 +81400,7 @@
         "rock"
       ],
       "homepage": "https://www.xenonradio.co.uk/",
-      "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+      "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-07-07T20:43:57Z",

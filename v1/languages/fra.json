@@ -1,7 +1,7 @@
 {
   "code": "fra",
   "canonicalCode": "fr",
-  "stationCount": 2355,
+  "stationCount": 2356,
   "stations": [
     {
       "id": "awb_087ea30a01d453014922",
@@ -4876,7 +4876,7 @@
     },
     {
       "id": "awb_cf43b81c65d37d9dc650",
-      "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+      "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
       "country": "CA",
       "subdivision": "Quebec",
       "languages": [
@@ -4894,7 +4894,7 @@
         "talk",
         "trad"
       ],
-      "homepage": "http://cfnj.net/",
+      "homepage": "http://www.cfnj.net/",
       "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
       "type": "community",
       "sourceCount": 2,
@@ -14959,6 +14959,52 @@
       ]
     },
     {
+      "id": "awb_420d15d6b62cf70eb960",
+      "name": "Save Room FM",
+      "country": "CL",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "gaming",
+        "vgm",
+        "video game music"
+      ],
+      "homepage": "https://saveroomfm.duckdns.org/",
+      "favicon": "https://saveroomfm.duckdns.org/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:03:59Z",
+      "streams": [
+        {
+          "id": "aws_d7e065c42aa27eb4bfda",
+          "stationId": "awb_420d15d6b62cf70eb960",
+          "name": "Save Room FM",
+          "country": "CL",
+          "url": "https://saveroomfm.duckdns.org/stream",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2e781f03-dd07-4ae3-bf4d-d085a39df37c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_d09cb2f2f244c559b362",
       "name": "Balla Radio",
       "country": "CM",
@@ -23291,7 +23337,7 @@
     },
     {
       "id": "awb_200891c5235ae1cf1f57",
-      "name": "Boombox radio",
+      "name": "Boombox Radio",
       "country": "FR",
       "subdivision": "Occitanie",
       "languages": [
@@ -23867,7 +23913,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao-Radio",
+      "name": "Cacao Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -33581,7 +33627,7 @@
     },
     {
       "id": "awb_d24df9c1df3e24fa57cb",
-      "name": "FIP Cultes",
+      "name": "Fip Cultes",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -38468,7 +38514,7 @@
       "id": "awb_e7280c1281f2949961b8",
       "name": "France Musique",
       "country": "FR",
-      "subdivision": null,
+      "subdivision": "France",
       "languages": [
         "fr"
       ],
@@ -38493,9 +38539,28 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 7,
-      "updatedAt": "2026-09-12T21:29:09Z",
+      "sourceCount": 9,
+      "updatedAt": "2026-10-15T07:26:14Z",
       "streams": [
+        {
+          "id": "aws_e0290e3a2a295e2b56c3",
+          "stationId": "awb_e7280c1281f2949961b8",
+          "name": "France Musique",
+          "country": "FR",
+          "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7b931696-e172-4d63-9343-53a713144d69"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        },
         {
           "id": "aws_b91ebb9f0798e1f3173c",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -38534,6 +38599,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
+        },
+        {
+          "id": "aws_2d6dfa9c5fc7bf6306da",
+          "stationId": "awb_e7280c1281f2949961b8",
+          "name": "France Musique",
+          "country": "FR",
+          "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         },
         {
           "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -75555,8 +75639,8 @@
           "name": "Radio Entre 2 Mers",
           "country": "FR",
           "url": "https://remradio.ice.infomaniak.ch/remradio-aac-128.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -75566,7 +75650,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -82413,8 +82497,8 @@
           "name": "Radio Wa3 (راديو وع)",
           "country": "FR",
           "url": "https://stream.wa3.live/wa3.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -82424,7 +82508,7 @@
             "b444dadd-28b2-4dcb-84f2-3e2b73094f24"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -87157,8 +87241,8 @@
           "name": "RPH Radio",
           "country": "FR",
           "url": "https://stream10.vestaradio.com/RPH52",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -87168,7 +87252,7 @@
             "849145bb-c8d2-4536-a44d-fe2b3259e6d3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

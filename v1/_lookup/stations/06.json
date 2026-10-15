@@ -3681,6 +3681,60 @@
       }
     ]
   },
+  "awb_063b0433382cf269e654": {
+    "id": "awb_063b0433382cf269e654",
+    "name": "Radio Laser",
+    "country": "FR",
+    "subdivision": "Bretagne",
+    "languages": [],
+    "categories": [
+      "community",
+      "hip-hop",
+      "jazz",
+      "pop",
+      "reggae",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "community",
+      "dub",
+      "funk",
+      "hip hop",
+      "jazz",
+      "pop mondiale",
+      "r&b",
+      "reggae",
+      "rock",
+      "soul"
+    ],
+    "homepage": "https://www.radiolaser.fr/",
+    "favicon": "https://www.radiolaser.fr/assets/images/radiolaser.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T22:24:43Z",
+    "streams": [
+      {
+        "id": "aws_d5b5e69fb76636cf9f81",
+        "stationId": "awb_063b0433382cf269e654",
+        "name": "Radio Laser",
+        "country": "FR",
+        "url": "https://stream.radios.bzh/listen/radiolaser/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "82018398-3e60-4792-9bd4-bc354e2526e6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
+      }
+    ]
+  },
   "awb_06aeaaba006436fae5a8": {
     "id": "awb_06aeaaba006436fae5a8",
     "name": "Size Radio",
@@ -6835,6 +6889,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T21:02:39Z"
+      }
+    ]
+  },
+  "awb_06e1c3825571709cdaee": {
+    "id": "awb_06e1c3825571709cdaee",
+    "name": "Radio ProteusPL",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronica"
+    ],
+    "homepage": "https://proteuspl.pl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T15:50:06Z",
+    "streams": [
+      {
+        "id": "aws_cb7707f9a96dbbb9a4e2",
+        "stationId": "awb_06e1c3825571709cdaee",
+        "name": "Radio ProteusPL",
+        "country": "PL",
+        "url": "https://radio.proteuspl.pl/stream",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c839a643-9bf3-4759-b38b-95c331dbd441"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },

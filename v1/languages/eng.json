@@ -1,7 +1,7 @@
 {
   "code": "eng",
   "canonicalCode": "en",
-  "stationCount": 11538,
+  "stationCount": 11564,
   "stations": [
     {
       "id": "awb_26c711b396eefc7662f9",
@@ -33700,6 +33700,50 @@
       ]
     },
     {
+      "id": "awb_072179a5bdc6f5fdaf05",
+      "name": "5GTR",
+      "country": "AU",
+      "subdivision": "South Australia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "rock"
+      ],
+      "tags": [
+        "community",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://www.5gtr.net/",
+      "favicon": "https://www.5gtr.net/logo.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:11:51Z",
+      "streams": [
+        {
+          "id": "aws_eecd9de1fa5f86cc3b27",
+          "stationId": "awb_072179a5bdc6f5fdaf05",
+          "name": "5GTR",
+          "country": "AU",
+          "url": "https://s2.stationplaylist.com:7154/listen.aac",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "72452618-dcd0-4e72-adf2-a3df331956e4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_09170b0c3079a8e97293",
       "name": "5MBS 99.9FM",
       "country": "AU",
@@ -42621,6 +42665,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:21:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_aeced7f0601d384ee0b8",
+      "name": "Apple FM 98.5",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz",
+        "rock"
+      ],
+      "tags": [
+        "classic rock",
+        "jazz",
+        "local",
+        "variety"
+      ],
+      "homepage": "https://apple985fm.com.au/",
+      "favicon": "https://cdn-profiles.tunein.com/s161253/images/logod.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:06:36Z",
+      "streams": [
+        {
+          "id": "aws_97a98c4049a09b0a7966",
+          "stationId": "awb_aeced7f0601d384ee0b8",
+          "name": "Apple FM 98.5",
+          "country": "AU",
+          "url": "http://s23.myradiostream.com:13240/;stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "446e3b26-1dcd-408f-a7f2-3ac0c15ffb49"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -58423,6 +58512,63 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:52:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f726a4d7690c124351d4",
+      "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "metal",
+        "news",
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "local music",
+        "local sport",
+        "metal",
+        "news",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://www.caseyradio.com.au/",
+      "favicon": "https://www.caseyradio.com.au/wp-content/uploads/2020/02/3SER-Logo-2013-Xtreme-Smaller.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:22:42Z",
+      "streams": [
+        {
+          "id": "aws_0afa5ceb95ee7c7b0a2f",
+          "stationId": "awb_f726a4d7690c124351d4",
+          "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+          "country": "AU",
+          "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3de0ed72-b752-41df-99f9-26c5d95befe1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -98876,6 +99022,43 @@
       ]
     },
     {
+      "id": "awb_5af0615def426f1e53f4",
+      "name": "99.9 Sun FM",
+      "country": "CA",
+      "subdivision": "British Columbia",
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.myktownnow.com/",
+      "favicon": "https://www.myktownnow.com/wp-content/uploads/2025/08/SUN-FM-Logo_Primary-Full-Colour.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T17:07:21Z",
+      "streams": [
+        {
+          "id": "aws_550a17786a22a2ac26f2",
+          "stationId": "awb_5af0615def426f1e53f4",
+          "name": "99.9 Sun FM",
+          "country": "CA",
+          "url": "https://vistaradio.streamb.live/SB00397?args=web_01",
+          "codec": "aac+",
+          "bitrate": 57,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "74e9e192-f937-4c97-b412-fd6f6f287591"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a01d7f0591518a56f5de",
       "name": "A MISSISSIPPI BLUES",
       "country": "CA",
@@ -127088,6 +127271,53 @@
       ]
     },
     {
+      "id": "awb_785f2a4be228fda4e752",
+      "name": "Holy Bible 24/7",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "audio bible",
+        "bible",
+        "christian",
+        "new testament",
+        "religious",
+        "spoken word"
+      ],
+      "homepage": "https://167-160-184-10.sslip.io/",
+      "favicon": "https://167-160-184-10.sslip.io/logo.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T14:22:16Z",
+      "streams": [
+        {
+          "id": "aws_f9972a13da3bf549af33",
+          "stationId": "awb_785f2a4be228fda4e752",
+          "name": "Holy Bible 24/7",
+          "country": "CA",
+          "url": "https://167-160-184-10.sslip.io/holybible.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "58d1b5ff-b1c1-48e1-894b-bfbe46e2c2cd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_fb3b009285e4107690af",
       "name": "https://truskoolbreakz.com/now-playing/",
       "country": "CA",
@@ -139594,6 +139824,52 @@
       ]
     },
     {
+      "id": "awb_420d15d6b62cf70eb960",
+      "name": "Save Room FM",
+      "country": "CL",
+      "subdivision": null,
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "gaming",
+        "vgm",
+        "video game music"
+      ],
+      "homepage": "https://saveroomfm.duckdns.org/",
+      "favicon": "https://saveroomfm.duckdns.org/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:03:59Z",
+      "streams": [
+        {
+          "id": "aws_d7e065c42aa27eb4bfda",
+          "stationId": "awb_420d15d6b62cf70eb960",
+          "name": "Save Room FM",
+          "country": "CL",
+          "url": "https://saveroomfm.duckdns.org/stream",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2e781f03-dd07-4ae3-bf4d-d085a39df37c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a1000dfcf7bfdd4cff6d",
       "name": "Silens Clamor",
       "country": "CL",
@@ -139872,6 +140148,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T02:32:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2dcce6cb244ddee7c2fc",
+      "name": ".听梦想FM（原态度电台）24小时音乐不打烊",
+      "country": "CN",
+      "subdivision": "Yunnan",
+      "languages": [
+        "en",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "internet radio",
+        "music",
+        "podcast"
+      ],
+      "homepage": "http://imx.fm/",
+      "favicon": "https://imx.fm/wp-content/uploads/2025/09/logo.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T03:28:57Z",
+      "streams": [
+        {
+          "id": "aws_46aa715b6da88b64b795",
+          "stationId": "awb_2dcce6cb244ddee7c2fc",
+          "name": ".听梦想FM（原态度电台）24小时音乐不打烊",
+          "country": "CN",
+          "url": "https://lhttp-hw.qtfm.cn/live/4917/64k.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6cd64df1-25ac-4185-9635-072973d95e8b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -153205,6 +153523,53 @@
       ]
     },
     {
+      "id": "awb_39b0d911eed978541f91",
+      "name": "Ajar Security",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "hacking",
+        "infosec",
+        "news",
+        "security",
+        "technology"
+      ],
+      "homepage": "https://zingu.ai/cyber",
+      "favicon": "https://zingu.ai/site/cyber-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:38:02Z",
+      "streams": [
+        {
+          "id": "aws_361a1659c596c9c3376e",
+          "stationId": "awb_39b0d911eed978541f91",
+          "name": "Ajar Security",
+          "country": "DE",
+          "url": "https://zingu.ai/cyber-stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "41109c3a-db06-4149-88fa-9a5142c783be"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a64b5b95d0ba3ff519b5",
       "name": "Alles Bunt Gemischt",
       "country": "DE",
@@ -162131,6 +162496,50 @@
       ]
     },
     {
+      "id": "awb_bf24ed113bef6991ee53",
+      "name": "Groundwork Startups",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "business",
+        "entrepreneurship",
+        "founders",
+        "startups",
+        "tech",
+        "venture capital"
+      ],
+      "homepage": "https://zingu.ai/groundwork",
+      "favicon": "https://zingu.ai/site/groundwork-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:40:24Z",
+      "streams": [
+        {
+          "id": "aws_e4f0dc9971b841ee8ad0",
+          "stationId": "awb_bf24ed113bef6991ee53",
+          "name": "Groundwork Startups",
+          "country": "DE",
+          "url": "https://zingu.ai/groundwork-stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f75f4d49-4d40-405c-b84f-6cee59474ef1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_fa281c5bdc249bd14824",
       "name": "HARD ROCK PALACE",
       "country": "DE",
@@ -162182,6 +162591,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:53:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8a8b153176dc041408c1",
+      "name": "Hinged Robotics",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "ai",
+        "automation",
+        "drones",
+        "embodied ai",
+        "robotics",
+        "robots",
+        "technology"
+      ],
+      "homepage": "https://zingu.ai/robot",
+      "favicon": "https://zingu.ai/site/robot-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:37:13Z",
+      "streams": [
+        {
+          "id": "aws_f5dfc12bcf247ec55b4b",
+          "stationId": "awb_8a8b153176dc041408c1",
+          "name": "Hinged Robotics",
+          "country": "DE",
+          "url": "https://zingu.ai/robot-stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6f48e7e7-6274-4b27-b7de-b409063339be"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -172171,6 +172625,51 @@
       ]
     },
     {
+      "id": "awb_f9f7dc90a2c40210a033",
+      "name": "The Lead Biotech",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "ai",
+        "biotech",
+        "clinical trials",
+        "drug discovery",
+        "medicine",
+        "pharma",
+        "science"
+      ],
+      "homepage": "https://zingu.ai/drugdev",
+      "favicon": "https://zingu.ai/site/lead-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:37:13Z",
+      "streams": [
+        {
+          "id": "aws_f67af0d643a1aa459fcf",
+          "stationId": "awb_f9f7dc90a2c40210a033",
+          "name": "The Lead Biotech",
+          "country": "DE",
+          "url": "https://zingu.ai/drugdev-stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "55ba1adc-6379-448a-b529-99abec40d506"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4b11a697a298da36abce",
       "name": "TheRadio.cc [lq]",
       "country": "DE",
@@ -178424,16 +178923,20 @@
         "es"
       ],
       "categories": [
-        "metal"
+        "metal",
+        "rock"
       ],
       "tags": [
-        "heavy metal"
+        "hard rock",
+        "heavy metal",
+        "metal",
+        "rock"
       ],
       "homepage": "https://azuracast.javidai.uk/public/metalmeria",
-      "favicon": null,
+      "favicon": "https://azuracast.javidai.uk/static/uploads/browser_icon/192.1792001088.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-13T18:27:05Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-14T18:19:58Z",
       "streams": [
         {
           "id": "aws_12968552f95f865ed3f7",
@@ -178449,10 +178952,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "98e39928-1801-414c-b6e7-dd7b58614dd6"
+            "98e39928-1801-414c-b6e7-dd7b58614dd6",
+            "ab6a1372-1364-4db8-848e-6bca16ef8523"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -179520,6 +180024,61 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:05:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0bc50e871c92aad77e7b",
+      "name": "SAM Ibiza",
+      "country": "ES",
+      "subdivision": "Balearic Islands",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "70's",
+        "70s",
+        "80's",
+        "80s",
+        "90's",
+        "90s",
+        "dance",
+        "disco",
+        "funk",
+        "funky",
+        "r&b",
+        "soul"
+      ],
+      "homepage": "https://samibiza.com/",
+      "favicon": "https://samibiza.com/assets/images/logo-header.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T09:19:19Z",
+      "streams": [
+        {
+          "id": "aws_505c98f057e311a8d499",
+          "stationId": "awb_0bc50e871c92aad77e7b",
+          "name": "SAM Ibiza",
+          "country": "ES",
+          "url": "https://stream.aiir.com/a85tlgriuzyuv",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d7fde6f3-9f1b-4ea3-b50f-f58b26b51165"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -186751,8 +187310,8 @@
           "name": "Radio Wa3 (راديو وع)",
           "country": "FR",
           "url": "https://stream.wa3.live/wa3.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -186762,7 +187321,7 @@
             "b444dadd-28b2-4dcb-84f2-3e2b73094f24"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -198094,7 +198653,7 @@
           "name": "Channel 5",
           "country": "GB",
           "url": "http://onj2.andrelouis.com:8000/channel5",
-          "codec": null,
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "http",
           "hls": false,
@@ -198105,7 +198664,7 @@
             "6890a465-27e3-414e-9e88-89483c90ddf3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -209396,8 +209955,8 @@
           "name": "JAM Radio UK",
           "country": "GB",
           "url": "https://stream.jamradio.uk/live",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -209407,7 +209966,7 @@
             "ef23f52d-ea07-4cc7-a607-0ccd18c539e0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -213437,7 +213996,7 @@
       "id": "awb_6ccd96adbde9f3c95959",
       "name": "LOVERADIO247",
       "country": "GB",
-      "subdivision": "England",
+      "subdivision": "London, England",
       "languages": [
         "en"
       ],
@@ -222960,6 +223519,53 @@
       ]
     },
     {
+      "id": "awb_e1c682dad897b57ca73c",
+      "name": "Real Rock Radio",
+      "country": "GB",
+      "subdivision": "England",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "hard rock",
+        "heavy metal",
+        "punk",
+        "rock",
+        "rock'n'roll"
+      ],
+      "homepage": "https://realrockradio.co.uk/",
+      "favicon": "https://realrockradio.co.uk/images/0/24448175/newlogonoback-tbpfStE5mODn1BrennfC0w.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:05:54Z",
+      "streams": [
+        {
+          "id": "aws_a9e7663dede389c43139",
+          "stationId": "awb_e1c682dad897b57ca73c",
+          "name": "Real Rock Radio",
+          "country": "GB",
+          "url": "https://eu10.fastcast4u.com/rrr1",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "da7d7480-3616-4ba6-bf43-e086deb71d1a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_1c55180c7a7629fd2dab",
       "name": "Real World Sounds",
       "country": "GB",
@@ -223718,6 +224324,73 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:24:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_62345d01e03837f8072c",
+      "name": "RKNW Pirate Radio",
+      "country": "GB",
+      "subdivision": "London, England",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "disco",
+        "funk",
+        "oldies",
+        "pop",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://tunein.com/radio/RKNW-s263810/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-15T02:19:29Z",
+      "streams": [
+        {
+          "id": "aws_93b8d890e93a3c08e517",
+          "stationId": "awb_62345d01e03837f8072c",
+          "name": "RKNW Pirate Radio",
+          "country": "GB",
+          "url": "http://quasar.shoutca.st:8108/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af927ce9-35d4-4d98-b36e-0812039bd16d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        },
+        {
+          "id": "aws_914fd860afc3514780ad",
+          "stationId": "awb_62345d01e03837f8072c",
+          "name": "RKNW Pirate Radio",
+          "country": "GB",
+          "url": "http://quasar.shoutca.st:8108/stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1deb3bde-5507-4624-a780-5986312c88c3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -232127,7 +232800,7 @@
         "rock"
       ],
       "homepage": "https://www.xenonradio.co.uk/",
-      "favicon": "https://static.mytuner.mobi/media/tvos_radios/280/xenon-radio.99b28448.png",
+      "favicon": "https://mmo.aiircdn.com/2752/69d75b0fbff89.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-07-07T20:43:57Z",
@@ -253952,7 +254625,7 @@
     },
     {
       "id": "awb_ef17dfb7a806c053be76",
-      "name": "Bob FM",
+      "name": "Bob fm",
       "country": "IE",
       "subdivision": null,
       "languages": [
@@ -253963,7 +254636,7 @@
         "whatever"
       ],
       "homepage": "https://www.eastcoast.fm/player/bobfm/",
-      "favicon": "https://www.eastcoast.fm/player/bobfm/",
+      "favicon": "https://www.bobfm.ie/",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-06-22T23:37:53Z",
@@ -271142,6 +271815,43 @@
       ]
     },
     {
+      "id": "awb_e3820dac7f6b639bb5c0",
+      "name": "Riviera Radio",
+      "country": "MC",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.rivieraradio.mc/",
+      "favicon": "https://www.rivieraradio.mc/favicon-96x96.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T21:52:34Z",
+      "streams": [
+        {
+          "id": "aws_07cf4cef8328d6c28669",
+          "stationId": "awb_e3820dac7f6b639bb5c0",
+          "name": "Riviera Radio",
+          "country": "MC",
+          "url": "https://media-ice.musicradio.com/RivieraRadio",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3f68c6ee-6b03-45e9-a3b7-0118518fd2db"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_1cf82485f4772488e08b",
       "name": "Drive FM",
       "country": "MD",
@@ -277662,7 +278372,7 @@
           "name": "Roots Fm 97.1",
           "country": "NG",
           "url": "https://live.radioworld.fm/stream/rootsfmabeokuta",
-          "codec": null,
+          "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -277674,7 +278384,7 @@
             "7a387ac9-d43f-4989-8510-54c5eb19b79e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -287331,6 +288041,43 @@
       ]
     },
     {
+      "id": "awb_efb65cb87dfe14ca6b63",
+      "name": "BayRock",
+      "country": "NZ",
+      "subdivision": "Te Ika-a-Māui",
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.bayrock.co.nz/",
+      "favicon": "https://static.wixstatic.com/media/2997c4_b380cf8662944f00b372e715be70b53a~mv2.png/v1/fill/w_745,h_238,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Bayrock%20Main%20Logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T21:18:48Z",
+      "streams": [
+        {
+          "id": "aws_02b9f5063f5f25e858cf",
+          "stationId": "awb_efb65cb87dfe14ca6b63",
+          "name": "BayRock",
+          "country": "NZ",
+          "url": "https://stream-15.aiir.com/okom9fklptitv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1e3bed93-a6a3-454d-b8ab-fead7d526812"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_0f5a87713d87dd209796",
       "name": "BeachFM 106.3",
       "country": "NZ",
@@ -296289,6 +297036,52 @@
       ]
     },
     {
+      "id": "awb_fff9ac30299ffdf36fa2",
+      "name": "Monster Radio RX 93.1",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "anime",
+        "pop"
+      ],
+      "tags": [
+        "alternative",
+        "indie",
+        "kpop",
+        "philippines",
+        "pop"
+      ],
+      "homepage": "https://www.rx931.com/",
+      "favicon": "https://www.rx931.com/images/logo-main.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T06:48:46Z",
+      "streams": [
+        {
+          "id": "aws_7b01340866c28ec1de33",
+          "stationId": "awb_fff9ac30299ffdf36fa2",
+          "name": "Monster Radio RX 93.1",
+          "country": "PH",
+          "url": "https://in-icecast.eradioportal.com:8443/monsterrrx",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "17ecaa05-f3af-410b-a768-f0d17e82e212"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_1ace0129b9880b080d88",
       "name": "OPM Radio 105.5 FM",
       "country": "PH",
@@ -304202,7 +304995,7 @@
         "stuttgart",
         "torino"
       ],
-      "homepage": "https://radiogiurgiu.net/mobile.html",
+      "homepage": "https://radiogiurgiu.net/",
       "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
       "type": null,
       "sourceCount": 4,
@@ -312261,7 +313054,7 @@
     },
     {
       "id": "awb_bd594017bc56630ac7ca",
-      "name": "Radio Caprice Piano Blues / Boogie-Woogie",
+      "name": "Radio Caprice Piano Blues Boogie Woogie",
       "country": "RU",
       "subdivision": null,
       "languages": [
@@ -312277,7 +313070,7 @@
         "piano",
         "piano blues"
       ],
-      "homepage": "http://radcap.ru/",
+      "homepage": "http://www.radcap.ru/pianoblues.html",
       "favicon": "http://i.imgur.com/hSP42CX.jpg",
       "type": null,
       "sourceCount": 2,
@@ -326424,8 +327217,8 @@
         "chillout",
         "lounge"
       ],
-      "homepage": "https://loungefm.com.ua/",
-      "favicon": "https://loungefm.com.ua/img/icon-144x144.png",
+      "homepage": "https://loungefm.com.ua/chill",
+      "favicon": "https://loungefm.com.ua/img/favicon/favicon.ico",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-24",
@@ -327805,7 +328598,7 @@
     },
     {
       "id": "awb_50c906d8b25236ec2e93",
-      "name": "88.6 Kiira Fm",
+      "name": "88.6 Kiira FM",
       "country": "UG",
       "subdivision": null,
       "languages": [
@@ -330322,7 +331115,7 @@
         "gospel music"
       ],
       "homepage": "https://demagospel.com/",
-      "favicon": "https://demagospel.com/images/logos/faviconnew.png",
+      "favicon": "https://i.ibb.co/S5XYRs3/demagpwhite.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T08:29:20Z",
@@ -342370,6 +343163,47 @@
       ]
     },
     {
+      "id": "awb_b3127ca955e54d750bd7",
+      "name": "105.5 - The Moon KSXM-LP",
+      "country": "US",
+      "subdivision": "Oregon",
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "independent radio",
+        "non-commercial",
+        "non-profit"
+      ],
+      "homepage": "https://themoon.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:25:31Z",
+      "streams": [
+        {
+          "id": "aws_9e853894d62dd618d996",
+          "stationId": "awb_b3127ca955e54d750bd7",
+          "name": "105.5 - The Moon KSXM-LP",
+          "country": "US",
+          "url": "https://themoon.fm/listen-now/",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e11b5248-e349-44ca-a495-049fcb182495"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_bfce095e2df3cd66de2f",
       "name": "105.5 The Bridge",
       "country": "US",
@@ -353929,6 +354763,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:42:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_52e8d012f32fafb53884",
+      "name": "93.7 The River Sacramento KYRV",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "classic hits",
+        "greatest hits",
+        "oldies",
+        "sacramento"
+      ],
+      "homepage": "https://937theriver.iheart.com/",
+      "favicon": "https://i.iheart.com/v3/re/assets.streams/6abec98607c647f54a8e7e11",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T05:50:17Z",
+      "streams": [
+        {
+          "id": "aws_159a4b00907228064672",
+          "stationId": "awb_52e8d012f32fafb53884",
+          "name": "93.7 The River Sacramento KYRV",
+          "country": "US",
+          "url": "https://stream.revma.ihrhls.com/zc4314",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "07c935e0-e828-4b29-889b-1f0b8837b847"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -375622,45 +376501,6 @@
       ]
     },
     {
-      "id": "awb_b646de762ed103f82667",
-      "name": "Cool",
-      "country": "US",
-      "subdivision": "Massachusetts",
-      "languages": [
-        "en"
-      ],
-      "categories": [],
-      "tags": [
-        "smooth"
-      ],
-      "homepage": "https://music.apple.com/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-14T02:11:12Z",
-      "streams": [
-        {
-          "id": "aws_ee9735a053164e039bb6",
-          "stationId": "awb_b646de762ed103f82667",
-          "name": "Cool",
-          "country": "US",
-          "url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0abe5f97-6d67-4959-a309-2e453aa1673a"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
       "id": "awb_cd5e5ad579ca0230e9d6",
       "name": "Cool 102",
       "country": "US",
@@ -381443,6 +382283,51 @@
       ]
     },
     {
+      "id": "awb_082b39a786d278a6db5b",
+      "name": "ESPN Sacramento 1320 KIFM",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "espn radio",
+        "sacramento",
+        "sports",
+        "sports talk"
+      ],
+      "homepage": "https://www.audacy.com/espn1320",
+      "favicon": "https://i.iheart.com/v3/re/assets.streams/68487790c4ffec3cc815ae60",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T05:43:16Z",
+      "streams": [
+        {
+          "id": "aws_7ddff66ec3ff486457b1",
+          "stationId": "awb_082b39a786d278a6db5b",
+          "name": "ESPN Sacramento 1320 KIFM",
+          "country": "US",
+          "url": "https://live.amperwave.net/direct/audacy-kifmamaac-imc",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b07162f4-3e18-40b8-9144-4134d3c32e12"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_0a3d6329e60bd827c4ab",
       "name": "Exa FM",
       "country": "US",
@@ -385689,7 +386574,7 @@
         "oldies",
         "wisconsin"
       ],
-      "homepage": "https://classiccountrylegendsradio.neocities.org/goldenoldies",
+      "homepage": "https://classiccountrylegendsradio.neocities.org/",
       "favicon": "https://images.zeno.fm/oLsvZnvFd_rx-U_Xvki0Uu8RpK46_XVfSbMunX5q0us/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2JhNDE3OWEzLTExMjEtNDUwMi1hNGZkLTU0MjUzYWExNjg3YS9pbWFnZS8_dT0xNzkxMTQyNTg2NzEy.webp",
       "type": null,
       "sourceCount": 2,
@@ -389170,8 +390055,8 @@
           "name": "Hey Decatur",
           "country": "US",
           "url": "https://studiob.loovacast.com/listen/hey_decatur/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -389181,7 +390066,7 @@
             "773e3997-d6f1-4263-bdd9-18dd5c72b7ae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -447807,7 +448692,7 @@
           "name": "Sbempireradio",
           "country": "US",
           "url": "https://listen.nobexradio.com/station_sbempireradio?ref=radiobrowser",
-          "codec": null,
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -447818,7 +448703,7 @@
             "9169de40-5af0-4794-a349-e2d6fe41ca47"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -478232,6 +479117,49 @@
       ]
     },
     {
+      "id": "awb_5fc3aa79e8732e1bae15",
+      "name": "WGYT 92.7 - Greer, South Carolina",
+      "country": "US",
+      "subdivision": "South Carolina",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock"
+      ],
+      "homepage": "https://921wgyt.com/#",
+      "favicon": "https://cdn-profiles.tunein.com/s293087/images/logod.png?t=639160607720000000",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:45:44Z",
+      "streams": [
+        {
+          "id": "aws_29d4671b26d5509242d0",
+          "stationId": "awb_5fc3aa79e8732e1bae15",
+          "name": "WGYT 92.7 - Greer, South Carolina",
+          "country": "US",
+          "url": "https://582f0aabbc5ab.streamlock.net/ZZ_WGYT/wgyt.stream/playlist.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f5c9416b-c6f5-4321-b5d4-9035c7a4d4ea"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_507663a56153297790e1",
       "name": "WHAM 1180",
       "country": "US",
@@ -478614,8 +479542,8 @@
           "name": "WHIC 100.5 - Carthage Family Radio - Carthage, Tennessee",
           "country": "US",
           "url": "https://shout2.brnstream.com/proxy/whic?mp=/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -478625,7 +479553,7 @@
             "e0099161-ad6f-47df-a1d3-3e10ea4f4fa3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -483854,6 +484782,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:20:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0ccf0fc89b58dcfa9021",
+      "name": "WLBH 88.3 Greenville, South Carolina - Listen & Be Heard Radio",
+      "country": "US",
+      "subdivision": "South Carolina",
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "podcasts",
+        "poetry"
+      ],
+      "homepage": "https://listenandbeheard.net/wlbh/",
+      "favicon": "https://listenandbeheard.net/wp-content/uploads/2026/04/Listen-and-Be-Heard-logo-black-150x150.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:32:04Z",
+      "streams": [
+        {
+          "id": "aws_d950ec0a8aa16509f77a",
+          "stationId": "awb_0ccf0fc89b58dcfa9021",
+          "name": "WLBH 88.3 Greenville, South Carolina - Listen & Be Heard Radio",
+          "country": "US",
+          "url": "https://stream.radio.co/sd3eca376a/listen",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "71bc252e-e14e-4c95-95fd-81446c4fd28f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -495430,6 +496398,53 @@
       ]
     },
     {
+      "id": "awb_8d54b84824d221915440",
+      "name": "WSOV 101.7 - Millheim, Pennsylvania - \"The Sound Of The Valleys\"",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "jazz",
+        "rock"
+      ],
+      "tags": [
+        "childrens music",
+        "classic rock",
+        "community radio",
+        "smooth jazz",
+        "variety"
+      ],
+      "homepage": "https://www.wsov.org/",
+      "favicon": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/566225031_1216122987209795_8131726829605591614_n.jpg?stp=c45.53.536.536a_dst-jpg_tt6&cstp=mx536x536&ctp=s200x200&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NGKnb5Aa7r0Q7kNvwHCKg51&_nc_oc=AdqMP5y4WV1IdGOt6K445VZykTzDzg-EiGf0NSydrAxjuEnz5JvDWb6YhWaSMHwYHPs&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=_rLQYy1qVIP2-dZgsWQZrw&_nc_ss=7a2a8&oh=00_AQMNxQUYe8zzSRcVsD09obzzAzWAokk2zJ8kQRy4J-HaFQ&oe=6AD63BE2",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:17:14Z",
+      "streams": [
+        {
+          "id": "aws_827b581d60ece3fca00c",
+          "stationId": "awb_8d54b84824d221915440",
+          "name": "WSOV 101.7 - Millheim, Pennsylvania - \"The Sound Of The Valleys\"",
+          "country": "US",
+          "url": "https://kea.cdnstream.com/2054_128",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "369ffd1f-b8fa-437a-91d2-9f7adf9adf51"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_9de40dc6d0d6b1edf22a",
       "name": "WSOY-AM 1340 & 103.3 Decatur, IL",
       "country": "US",
@@ -496180,6 +497195,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:49:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_082745caa3984ed5b5c1",
+      "name": "WTBU Radio",
+      "country": "US",
+      "subdivision": "Massachusetts",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "college"
+      ],
+      "tags": [
+        "college radio"
+      ],
+      "homepage": "https://sites.bu.edu/wtbu/",
+      "favicon": "https://sites.bu.edu/wtbu/wp-content/themes/responsive-framework/icons/apple-touch-icon-precomposed.png",
+      "type": "college",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T19:40:42Z",
+      "streams": [
+        {
+          "id": "aws_cfe226906e91fd9be01f",
+          "stationId": "awb_082745caa3984ed5b5c1",
+          "name": "WTBU Radio",
+          "country": "US",
+          "url": "https://headphones.bu.edu:8443/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7c44d325-27cc-45dd-af1a-9885df5541bc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -499637,6 +500693,52 @@
       ]
     },
     {
+      "id": "awb_d3bf79ca8303944f9037",
+      "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
+      "country": "US",
+      "subdivision": "South Carolina",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "gospel",
+        "local music",
+        "local news",
+        "talk radio"
+      ],
+      "homepage": "https://wvffradio.com/",
+      "favicon": "https://img1.wsimg.com/isteam/ip/3e124595-4c23-47d0-b855-aa5a3e28b61f/Station%20Logo.png/:/rs=w:75,h:100,cg:true,m/cr=w:75,h:100/qt=q:95",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:45:44Z",
+      "streams": [
+        {
+          "id": "aws_1ab14537018467020768",
+          "stationId": "awb_d3bf79ca8303944f9037",
+          "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
+          "country": "US",
+          "url": "http://provisioning.streamtheworld.com/pls/SAM04AAC609.pls",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "05aba190-a0a2-40f3-93ca-47cd9f18f870"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_c15fef1abb1e6d3d737c",
       "name": "WVFM 106.5 Kalamazoo, MI",
       "country": "US",
@@ -502330,6 +503432,51 @@
       ]
     },
     {
+      "id": "awb_a402cfa3aef8339e36ee",
+      "name": "WXPI 88.5 Williamsport, Pennsylvania",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "jazz"
+      ],
+      "tags": [
+        "big band",
+        "community radio",
+        "environment",
+        "jazz"
+      ],
+      "homepage": "https://wxpiradio.org/",
+      "favicon": "https://wxpiradio.org/_media/images/graphics/logos/logo_wxpi.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:03:34Z",
+      "streams": [
+        {
+          "id": "aws_e6e995cc91434a7adffe",
+          "stationId": "awb_a402cfa3aef8339e36ee",
+          "name": "WXPI 88.5 Williamsport, Pennsylvania",
+          "country": "US",
+          "url": "https://stream.wxpiradio.org:8000/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a443abe8-d9be-46fd-aa92-7fd448ffddbe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_8f80b7e1bbc847a5db03",
       "name": "WXPM 98.5 FM",
       "country": "US",
@@ -502926,6 +504073,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:05:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8ed9acc8b2013f3dd30b",
+      "name": "WXZY 101.7 - Kane, Pennsylvania",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock",
+        "local sports"
+      ],
+      "homepage": "https://www.wxzyradio.com/",
+      "favicon": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/277562042_414993350627163_5262683815766632502_n.png?stp=dst-png&cstp=mx500x500&ctp=s200x200&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Qd7a-JA5T5IQ7kNvwHLjI4-&_nc_oc=AdoNBC-O5kk9G-7jOmgIdul3i3f6bBQL7dz13RMZe9u2jft0KFIJ_mtPLXc5CIGCUbU&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=z1GDMJp8F7xSBoD3vUppDw&_nc_ss=7a2a8&oh=00_AQPrKOsa1gFrF771d98-zQaLXS5QAw_znlo5PYWnfQMMVA&oe=6AD6142F",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:09:35Z",
+      "streams": [
+        {
+          "id": "aws_177fa6e88031f05c775b",
+          "stationId": "awb_8ed9acc8b2013f3dd30b",
+          "name": "WXZY 101.7 - Kane, Pennsylvania",
+          "country": "US",
+          "url": "https://ice64.securenetsystems.net/WXZY",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3c4ebf2e-ef75-453e-8b9f-38ebfb17b442"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -506231,8 +507423,8 @@
           "name": "Z104.5 THE EDGE",
           "country": "US",
           "url": "https://ice8.securenetsystems.net/KMYZ",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -506242,7 +507434,7 @@
             "c6add5a0-3925-4969-8c34-b4ccabc13ef3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

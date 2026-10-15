@@ -1,6 +1,6 @@
 {
   "id": "reggae",
-  "stationCount": 296,
+  "stationCount": 299,
   "stations": [
     {
       "id": "awb_56c026c44ef6b689d96d",
@@ -5262,6 +5262,60 @@
       ]
     },
     {
+      "id": "awb_fa16aa0ce10f5c10cf2c",
+      "name": "Radio Boomerang",
+      "country": "FR",
+      "subdivision": "Hauts-de-France",
+      "languages": [],
+      "categories": [
+        "blues",
+        "hip-hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "blues",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "homepage": "https://radioboomerang.com/",
+      "favicon": "https://radioboomerang.com/wp-content/uploads/2020/02/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:37:35Z",
+      "streams": [
+        {
+          "id": "aws_550ea4e02c2c51a089af",
+          "stationId": "awb_fa16aa0ce10f5c10cf2c",
+          "name": "Radio Boomerang",
+          "country": "FR",
+          "url": "https://stream.radioboomerang.com:8970/streamboomerang",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4f30ac19-4a41-40cb-8999-2ca19b34711e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9cb614c0ae647ad8df5b",
       "name": "Radio campus bordeaux",
       "country": "FR",
@@ -5313,6 +5367,60 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:07:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_063b0433382cf269e654",
+      "name": "Radio Laser",
+      "country": "FR",
+      "subdivision": "Bretagne",
+      "languages": [],
+      "categories": [
+        "community",
+        "hip-hop",
+        "jazz",
+        "pop",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "community",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "pop mondiale",
+        "r&b",
+        "reggae",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://www.radiolaser.fr/",
+      "favicon": "https://www.radiolaser.fr/assets/images/radiolaser.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:24:43Z",
+      "streams": [
+        {
+          "id": "aws_d5b5e69fb76636cf9f81",
+          "stationId": "awb_063b0433382cf269e654",
+          "name": "Radio Laser",
+          "country": "FR",
+          "url": "https://stream.radios.bzh/listen/radiolaser/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "82018398-3e60-4792-9bd4-bc354e2526e6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -6711,8 +6819,8 @@
           "name": "JAM Radio UK",
           "country": "GB",
           "url": "https://stream.jamradio.uk/live",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -6722,7 +6830,57 @@
             "ef23f52d-ea07-4cc7-a607-0ccd18c539e0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2339cdaa6fa5f3322286",
+      "name": "LIFEFM.TV",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "electronic",
+        "reggae"
+      ],
+      "tags": [
+        "deep house",
+        "drum and bass",
+        "dub",
+        "dub reggae",
+        "funk",
+        "house",
+        "jungle",
+        "ragga jungle",
+        "soul",
+        "tech house",
+        "uk garage"
+      ],
+      "homepage": "https://lifefm.tv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:31:53Z",
+      "streams": [
+        {
+          "id": "aws_7d404b1196a3a3c49730",
+          "stationId": "awb_2339cdaa6fa5f3322286",
+          "name": "LIFEFM.TV",
+          "country": "GB",
+          "url": "https://streamer.radio.co/s1ed160262/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e936956c-fc26-4566-ae61-dce98c8524c9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -9957,7 +10115,7 @@
           "name": "Roots Fm 97.1",
           "country": "NG",
           "url": "https://live.radioworld.fm/stream/rootsfmabeokuta",
-          "codec": null,
+          "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -9969,7 +10127,7 @@
             "7a387ac9-d43f-4989-8510-54c5eb19b79e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -13212,7 +13370,7 @@
           "name": "Sbempireradio",
           "country": "US",
           "url": "https://listen.nobexradio.com/station_sbempireradio?ref=radiobrowser",
-          "codec": null,
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -13223,7 +13381,7 @@
             "9169de40-5af0-4794-a349-e2d6fe41ca47"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

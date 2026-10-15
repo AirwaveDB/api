@@ -4451,13 +4451,13 @@
   },
   "awb_79b40fbcc2b92a7fc70b": {
     "id": "awb_79b40fbcc2b92a7fc70b",
-    "name": "Sine FM",
+    "name": "SINE FM",
     "country": "GB",
     "subdivision": null,
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.sinefm.com/",
+    "homepage": "http://www.sinefm.com/",
     "favicon": "https://www.sinefm.com/wp-content/uploads/2019/11/sine-fm-logo-new-800.png",
     "type": null,
     "sourceCount": 2,
@@ -7779,6 +7779,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:47:10Z"
+      }
+    ]
+  },
+  "awb_796bec6412d6ad971d9b": {
+    "id": "awb_796bec6412d6ad971d9b",
+    "name": "Sveriges Radio P4 Värmland",
+    "country": "SE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.sverigesradio.se/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T15:52:47Z",
+    "streams": [
+      {
+        "id": "aws_8d3650d39bb0cbc4f82b",
+        "stationId": "awb_796bec6412d6ad971d9b",
+        "name": "Sveriges Radio P4 Värmland",
+        "country": "SE",
+        "url": "https://live1.sr.se/p4vrml-mp3-96",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ac126472-b670-4f55-8fb4-4b3a16a00bc5"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },

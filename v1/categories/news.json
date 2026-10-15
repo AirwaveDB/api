@@ -1,6 +1,6 @@
 {
   "id": "news",
-  "stationCount": 4264,
+  "stationCount": 4269,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -11573,6 +11573,63 @@
       ]
     },
     {
+      "id": "awb_f726a4d7690c124351d4",
+      "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "metal",
+        "news",
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "local music",
+        "local sport",
+        "metal",
+        "news",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://www.caseyradio.com.au/",
+      "favicon": "https://www.caseyradio.com.au/wp-content/uploads/2020/02/3SER-Logo-2013-Xtreme-Smaller.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:22:42Z",
+      "streams": [
+        {
+          "id": "aws_0afa5ceb95ee7c7b0a2f",
+          "stationId": "awb_f726a4d7690c124351d4",
+          "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+          "country": "AU",
+          "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3de0ed72-b752-41df-99f9-26c5d95befe1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_c0980976ee4cfd0aee5d",
       "name": "Connect FM 100.9 - Bankstown Auburn Community Radio - 100.9 FM (AAC)",
       "country": "AU",
@@ -14747,6 +14804,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:07:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f21114846d6d97a2e8ce",
+      "name": "Radio Focus",
+      "country": "BG",
+      "subdivision": null,
+      "languages": [
+        "bg"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.focus-radio.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T17:41:11Z",
+      "streams": [
+        {
+          "id": "aws_e0148bf5fd44f9643bee",
+          "stationId": "awb_f21114846d6d97a2e8ce",
+          "name": "Radio Focus",
+          "country": "BG",
+          "url": "http://213.91.195.242:2524/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9e415d73-38d5-412d-8c17-e667844717db"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -47878,8 +47977,8 @@
           "name": "cristal boyacá 98.3 fm",
           "country": "CO",
           "url": "https://impactodigitalcol.com/8020/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -47889,7 +47988,7 @@
             "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -51239,6 +51338,51 @@
       ]
     },
     {
+      "id": "awb_585eaafb887fd85e3bf1",
+      "name": "Radio Cadena Agramonte 105.3 MHz",
+      "country": "CU",
+      "subdivision": "Camagüey",
+      "languages": [],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "105.3 fm",
+        "cadena agramonte",
+        "camagüey",
+        "cuba",
+        "emisora provincial",
+        "musica",
+        "noticias"
+      ],
+      "homepage": "https://www.cadenagramonte.cu/",
+      "favicon": "https://www.cadenagramonte.cu/wp-content/uploads/2026/02/Logo-RCA-300x151.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T14:45:12Z",
+      "streams": [
+        {
+          "id": "aws_2e79047a4a912e4d826e",
+          "stationId": "awb_585eaafb887fd85e3bf1",
+          "name": "Radio Cadena Agramonte 105.3 MHz",
+          "country": "CU",
+          "url": "https://theonestopradio.com/stream?url=https://icecast.teveo.cu/j99xztkT",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "869f7609-c8bf-4785-9b7f-64ab09908999"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3735918b5081181fcd11",
       "name": "Radio Reloj Cuba 950 AM",
       "country": "CU",
@@ -52357,6 +52501,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T09:04:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_39b0d911eed978541f91",
+      "name": "Ajar Security",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "ai",
+        "cybersecurity",
+        "hacking",
+        "infosec",
+        "news",
+        "security",
+        "technology"
+      ],
+      "homepage": "https://zingu.ai/cyber",
+      "favicon": "https://zingu.ai/site/cyber-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:38:02Z",
+      "streams": [
+        {
+          "id": "aws_361a1659c596c9c3376e",
+          "stationId": "awb_39b0d911eed978541f91",
+          "name": "Ajar Security",
+          "country": "DE",
+          "url": "https://zingu.ai/cyber-stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "41109c3a-db06-4149-88fa-9a5142c783be"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -157987,7 +158178,7 @@
           "name": "Roots Fm 97.1",
           "country": "NG",
           "url": "https://live.radioworld.fm/stream/rootsfmabeokuta",
-          "codec": null,
+          "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -157999,7 +158190,7 @@
             "7a387ac9-d43f-4989-8510-54c5eb19b79e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -171616,7 +171807,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radiaura.net/apple-touch-icon.png",
+      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -176927,7 +177118,7 @@
     },
     {
       "id": "awb_8c58d1b71fc265acb0b8",
-      "name": "UBB Radio -Universitatea Babeș Bolyai Cluj Napoca",
+      "name": "UBB Radio (Universitatea Babeș Bolyai) -Cluj Napoca",
       "country": "RO",
       "subdivision": null,
       "languages": [],
@@ -183124,8 +183315,8 @@
       "homepage": "https://sverigesradio.se/",
       "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
       "type": "public",
-      "sourceCount": 6,
-      "updatedAt": "2026-08-24",
+      "sourceCount": 7,
+      "updatedAt": "2026-10-14T11:15:55Z",
       "streams": [
         {
           "id": "aws_28a4d02b7d507119c728",
@@ -183200,11 +183391,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "5c7ef11f-a6a0-4697-9d87-6df7a3209258",
-            "95019533-f24b-4eb2-ba07-2ccdf1ea683e"
+            "103287d0-4702-4c26-862d-cc4ce78e598f",
+            "5c7ef11f-a6a0-4697-9d87-6df7a3209258"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:41:24Z"
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -194024,8 +194215,8 @@
           "name": "Hey Decatur",
           "country": "US",
           "url": "https://studiob.loovacast.com/listen/hey_decatur/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -194035,7 +194226,7 @@
             "773e3997-d6f1-4263-bdd9-18dd5c72b7ae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -208175,6 +208366,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:30:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d3bf79ca8303944f9037",
+      "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
+      "country": "US",
+      "subdivision": "South Carolina",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "gospel",
+        "local music",
+        "local news",
+        "talk radio"
+      ],
+      "homepage": "https://wvffradio.com/",
+      "favicon": "https://img1.wsimg.com/isteam/ip/3e124595-4c23-47d0-b855-aa5a3e28b61f/Station%20Logo.png/:/rs=w:75,h:100,cg:true,m/cr=w:75,h:100/qt=q:95",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:45:44Z",
+      "streams": [
+        {
+          "id": "aws_1ab14537018467020768",
+          "stationId": "awb_d3bf79ca8303944f9037",
+          "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
+          "country": "US",
+          "url": "http://provisioning.streamtheworld.com/pls/SAM04AAC609.pls",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "05aba190-a0a2-40f3-93ca-47cd9f18f870"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

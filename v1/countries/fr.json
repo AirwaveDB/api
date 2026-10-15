@@ -1,7 +1,7 @@
 {
   "code": "FR",
-  "stationCount": 2654,
-  "streamCount": 2921,
+  "stationCount": 2657,
+  "streamCount": 2926,
   "stations": [
     {
       "id": "awb_3f26fc954da543ad8869",
@@ -8356,6 +8356,41 @@
       ]
     },
     {
+      "id": "awb_fad20faf2ad7491c8faa",
+      "name": "Alternative FM",
+      "country": "FR",
+      "subdivision": "Île-de-France",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.alternativefm.fr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T21:10:27Z",
+      "streams": [
+        {
+          "id": "aws_935e1344d7d83d8fabe0",
+          "stationId": "awb_fad20faf2ad7491c8faa",
+          "name": "Alternative FM",
+          "country": "FR",
+          "url": "https://ecmanager5.pro-fhi.net/alternativefm",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8c31a811-5b04-4737-95f6-4ab088bea7d3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_815a66bec4b1f9dfee42",
       "name": "Alternative Radio",
       "country": "FR",
@@ -10664,7 +10699,7 @@
     },
     {
       "id": "awb_200891c5235ae1cf1f57",
-      "name": "Boombox radio",
+      "name": "Boombox Radio",
       "country": "FR",
       "subdivision": "Occitanie",
       "languages": [
@@ -11310,7 +11345,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao-Radio",
+      "name": "Cacao Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -25789,7 +25824,7 @@
     },
     {
       "id": "awb_d24df9c1df3e24fa57cb",
-      "name": "FIP Cultes",
+      "name": "Fip Cultes",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -31712,7 +31747,7 @@
       "id": "awb_e7280c1281f2949961b8",
       "name": "France Musique",
       "country": "FR",
-      "subdivision": null,
+      "subdivision": "France",
       "languages": [
         "fr"
       ],
@@ -31737,9 +31772,28 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 7,
-      "updatedAt": "2026-09-12T21:29:09Z",
+      "sourceCount": 9,
+      "updatedAt": "2026-10-15T07:26:14Z",
       "streams": [
+        {
+          "id": "aws_e0290e3a2a295e2b56c3",
+          "stationId": "awb_e7280c1281f2949961b8",
+          "name": "France Musique",
+          "country": "FR",
+          "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7b931696-e172-4d63-9343-53a713144d69"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        },
         {
           "id": "aws_b91ebb9f0798e1f3173c",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -31778,6 +31832,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
+        },
+        {
+          "id": "aws_2d6dfa9c5fc7bf6306da",
+          "stationId": "awb_e7280c1281f2949961b8",
+          "name": "France Musique",
+          "country": "FR",
+          "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         },
         {
           "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -76941,7 +77014,7 @@
       "categories": [],
       "tags": [],
       "homepage": "https://www.plumfm.net/",
-      "favicon": "https://static.wixstatic.com/media/695ef4_9d20d326e8d243788c285f11121c9994~mv2.png/v1/crop/x_0,y_2,w_2101,h_737/fill/w_326,h_114,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ok%20PLUMFM.png",
+      "favicon": "https://static.wixstatic.com/media/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-14T22:54:04Z",
@@ -80857,6 +80930,60 @@
       ]
     },
     {
+      "id": "awb_fa16aa0ce10f5c10cf2c",
+      "name": "Radio Boomerang",
+      "country": "FR",
+      "subdivision": "Hauts-de-France",
+      "languages": [],
+      "categories": [
+        "blues",
+        "hip-hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "blues",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "homepage": "https://radioboomerang.com/",
+      "favicon": "https://radioboomerang.com/wp-content/uploads/2020/02/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:37:35Z",
+      "streams": [
+        {
+          "id": "aws_550ea4e02c2c51a089af",
+          "stationId": "awb_fa16aa0ce10f5c10cf2c",
+          "name": "Radio Boomerang",
+          "country": "FR",
+          "url": "https://stream.radioboomerang.com:8970/streamboomerang",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4f30ac19-4a41-40cb-8999-2ca19b34711e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_47902871a3dad6e20001",
       "name": "radio braquage",
       "country": "FR",
@@ -84284,8 +84411,8 @@
           "name": "Radio Entre 2 Mers",
           "country": "FR",
           "url": "https://remradio.ice.infomaniak.ch/remradio-aac-128.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -84295,7 +84422,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -87670,6 +87797,60 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:09:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_063b0433382cf269e654",
+      "name": "Radio Laser",
+      "country": "FR",
+      "subdivision": "Bretagne",
+      "languages": [],
+      "categories": [
+        "community",
+        "hip-hop",
+        "jazz",
+        "pop",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "community",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "pop mondiale",
+        "r&b",
+        "reggae",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://www.radiolaser.fr/",
+      "favicon": "https://www.radiolaser.fr/assets/images/radiolaser.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:24:43Z",
+      "streams": [
+        {
+          "id": "aws_d5b5e69fb76636cf9f81",
+          "stationId": "awb_063b0433382cf269e654",
+          "name": "Radio Laser",
+          "country": "FR",
+          "url": "https://stream.radios.bzh/listen/radiolaser/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "82018398-3e60-4792-9bd4-bc354e2526e6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -94371,8 +94552,8 @@
           "name": "Radio Wa3 (راديو وع)",
           "country": "FR",
           "url": "https://stream.wa3.live/wa3.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -94382,7 +94563,7 @@
             "b444dadd-28b2-4dcb-84f2-3e2b73094f24"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -100985,8 +101166,8 @@
           "name": "RPH Radio",
           "country": "FR",
           "url": "https://stream10.vestaradio.com/RPH52",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -100996,7 +101177,7 @@
             "849145bb-c8d2-4536-a44d-fe2b3259e6d3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

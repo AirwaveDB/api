@@ -944,6 +944,45 @@
       }
     ]
   },
+  "awb_a48b3985f6b67a8c659f": {
+    "id": "awb_a48b3985f6b67a8c659f",
+    "name": "wisleyschafer",
+    "country": "BR",
+    "subdivision": "São Paulo (SP)",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop music"
+    ],
+    "homepage": "https://stream.zeno.fm/9vs3cfayczquv",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T18:53:43Z",
+    "streams": [
+      {
+        "id": "aws_fc35995bbf6f8c78e69e",
+        "stationId": "awb_a48b3985f6b67a8c659f",
+        "name": "wisleyschafer",
+        "country": "BR",
+        "url": "https://stream.zeno.fm/9vs3cfayczquv",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bd62f435-a868-43fc-8ff8-d699193d59d0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
+      }
+    ]
+  },
   "awb_a4dbb52921b2d86cb046": {
     "id": "awb_a4dbb52921b2d86cb046",
     "name": ".Quran",
@@ -8785,6 +8824,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T06:55:49Z"
+      }
+    ]
+  },
+  "awb_a402cfa3aef8339e36ee": {
+    "id": "awb_a402cfa3aef8339e36ee",
+    "name": "WXPI 88.5 Williamsport, Pennsylvania",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community",
+      "jazz"
+    ],
+    "tags": [
+      "big band",
+      "community radio",
+      "environment",
+      "jazz"
+    ],
+    "homepage": "https://wxpiradio.org/",
+    "favicon": "https://wxpiradio.org/_media/images/graphics/logos/logo_wxpi.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T04:03:34Z",
+    "streams": [
+      {
+        "id": "aws_e6e995cc91434a7adffe",
+        "stationId": "awb_a402cfa3aef8339e36ee",
+        "name": "WXPI 88.5 Williamsport, Pennsylvania",
+        "country": "US",
+        "url": "https://stream.wxpiradio.org:8000/live",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a443abe8-d9be-46fd-aa92-7fd448ffddbe"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

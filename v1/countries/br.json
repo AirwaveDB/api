@@ -1,7 +1,7 @@
 {
   "code": "BR",
-  "stationCount": 1438,
-  "streamCount": 1477,
+  "stationCount": 1443,
+  "streamCount": 1482,
   "stations": [
     {
       "id": "awb_bf769f289865e0b6efda",
@@ -2666,41 +2666,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:05:18Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_bb88b3e3635cb1cdb38d",
-      "name": "Amanda FM",
-      "country": "BR",
-      "subdivision": "Santa Catarina,SC",
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://radiosaovivo.net/amanda-fm/",
-      "favicon": "https://www.google.com/search?sca_esv=5f7e5526d42b14c0&sxsrf=APpeQnvO9X8nLNg_IsopEQ4UBgFu77lz_A:1791946187751&udm=2&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz_Qb61Fj5ZtxC2tjOZZgQR0Z0OQmfJ4j-jZ26kvi7H0rjaR_Y83kGWlnK5mlNCue1nTu7O-am8YA2Qswe7isYQ4djBZ1hfCgsbV6OkhJN8ZAHT_EXwscl__rCgeTg7aeg8xHD5py-B9Bg3Z5w4P8OUMM8EcRjqILqJzORERGyUcEh5-zSneUzCJGxTxPHDmKSDy_dCQ&q=amanda+fm&sa=X&ved=2ahUKEwiQyejfv7iXAxU7ELkGHdAEBqYQtKgLegQIFBAB&biw=1707&bih=772&dpr=1.13#sv=CAMSURoyKhBlLUVFYU9jeHJ5V2FqY2JNMg5FRWFPY3hyeVdhamNiTToOYUNVSkhWRm9qc1NfbE0gBCoXCgFzEhBlLUVFYU9jeHJ5V2FqY2JNGAEwARgHIPGMhbAOSggQAhgBIAIoAQ",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-14T02:51:59Z",
-      "streams": [
-        {
-          "id": "aws_c4f13058ae66b6096496",
-          "stationId": "awb_bb88b3e3635cb1cdb38d",
-          "name": "Amanda FM",
-          "country": "BR",
-          "url": "https://www.radios.com.br/aovivo/radio-amanda-1015-fm/9228",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1be3b961-a87a-48bc-b766-f1fdc76e3d3a"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },
@@ -8440,6 +8405,45 @@
       ]
     },
     {
+      "id": "awb_e83cec86c2b47985bfbc",
+      "name": "EDBRADIO",
+      "country": "BR",
+      "subdivision": "São Paulo",
+      "languages": [
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "eletronica"
+      ],
+      "homepage": null,
+      "favicon": "https://plain-enam-prod-public.komododecks.com/202610/14/wMHwlP13QXdzPSnPqe24/image.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T18:54:18Z",
+      "streams": [
+        {
+          "id": "aws_50675d96a5920bd2da29",
+          "stationId": "awb_e83cec86c2b47985bfbc",
+          "name": "EDBRADIO",
+          "country": "BR",
+          "url": "https://cp-1.owh.radio.br/listen/owh_s35344/radio-mp3",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e59ce01b-eed8-42f2-aed8-dc2ec13e75a6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8e1e28bfbb8b66e08098",
       "name": "edmilson de jesus novais",
       "country": "BR",
@@ -8749,6 +8753,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:12:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d4f0b9881644e8719175",
+      "name": "EHB Rock",
+      "country": "BR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "metal",
+        "rock"
+      ],
+      "tags": [
+        "heavy metal",
+        "rock"
+      ],
+      "homepage": "https://ehbrock.com.br/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:31:22Z",
+      "streams": [
+        {
+          "id": "aws_5513a084a73702bf043c",
+          "stationId": "awb_d4f0b9881644e8719175",
+          "name": "EHB Rock",
+          "country": "BR",
+          "url": "https://ehbrock.com.br/live/",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af05cc2f-f4cd-4524-9b40-15352705945e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -11668,6 +11713,44 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:51:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3577f70efcba9f874fdd",
+      "name": "Harmonia Geral",
+      "country": "BR",
+      "subdivision": "Rio Grande do Sul",
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "carnaval",
+        "samba"
+      ],
+      "homepage": "https://harmoniageral.com.br/site/aradio",
+      "favicon": "https://harmoniageral.com.br/site/arquivos/imagens/harmonia-geral-favicon-[13-12-24][11-01-31].png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T21:26:04Z",
+      "streams": [
+        {
+          "id": "aws_12ed20ffd84c71fe60f3",
+          "stationId": "awb_3577f70efcba9f874fdd",
+          "name": "Harmonia Geral",
+          "country": "BR",
+          "url": "https://server04.srvsh.com.br:8078/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3854668a-34d3-4ef2-b23b-49a456a417a3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -21499,6 +21582,45 @@
       ]
     },
     {
+      "id": "awb_34e69b854364109af609",
+      "name": "OWH_S35334",
+      "country": "BR",
+      "subdivision": "São Paulo",
+      "languages": [
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "popular"
+      ],
+      "homepage": "https://www.owh.radio.br/",
+      "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35334/album_art.1792032083.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T02:56:34Z",
+      "streams": [
+        {
+          "id": "aws_1d8bcb2f5a27674aff55",
+          "stationId": "awb_34e69b854364109af609",
+          "name": "OWH_S35334",
+          "country": "BR",
+          "url": "https://cp-1.owh.radio.br/listen/owh_s35334/radio-mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9f52a54e-9796-42b1-b4a5-79b389677bae"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_0498224be56a51a4d669",
       "name": "Pagode pra Valer",
       "country": "BR",
@@ -28669,7 +28791,7 @@
       "id": "awb_2b7b7954faeaf86005a4",
       "name": "Rádio Cambirela - Virtual,mas real.",
       "country": "BR",
-      "subdivision": "Santa Catarina, SC",
+      "subdivision": "Santa Catarina,SC",
       "languages": [],
       "categories": [
         "country",
@@ -30467,8 +30589,8 @@
           "name": "Rádio Cisma Gaudéria",
           "country": "BR",
           "url": "https://player-ssl.painelstream.net:8394/live?1791939878154",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -30478,7 +30600,7 @@
             "c7d885bb-025e-49b2-b20a-63d6f37e445e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -31079,8 +31201,8 @@
           "name": "Radio Comunitaria Serrana FM",
           "country": "BR",
           "url": "https://servidor32-2.brlogic.com:7008/live",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -31090,7 +31212,7 @@
             "8018f626-3ee6-4b32-ac51-4951153feb90"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -33724,8 +33846,8 @@
           "name": "Rádio Fábrica de Gaiteiros",
           "country": "BR",
           "url": "https://servidor28-1.brlogic.com:8540/live",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -33735,7 +33857,7 @@
             "be7c6ab1-5092-45dd-a088-0232c7dc30da"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -34552,8 +34674,8 @@
           "name": "Rádio Gaudéria",
           "country": "BR",
           "url": "https://hts01.brascast.com:12036/stream?1791940594702",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -34563,7 +34685,7 @@
             "0ca4d1f7-c92c-4537-a7db-b3b578d18bec"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -44346,6 +44468,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:15:44Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3f2a92e9d3eef765bbf1",
+      "name": "Rádio Referência Do Samba",
+      "country": "BR",
+      "subdivision": "São Paulo",
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "samba pagode"
+      ],
+      "homepage": "https://radioreferenciadosamba.com.br/",
+      "favicon": "https://radioreferenciadosamba.com.br/img/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T21:04:26Z",
+      "streams": [
+        {
+          "id": "aws_26e9c4a508a11ba1d42a",
+          "stationId": "awb_3f2a92e9d3eef765bbf1",
+          "name": "Rádio Referência Do Samba",
+          "country": "BR",
+          "url": "https://s1.tgastream.com.br:7176/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d2ef310d-58d8-481b-a195-0a94645a518d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -56990,6 +57149,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:28:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a48b3985f6b67a8c659f",
+      "name": "wisleyschafer",
+      "country": "BR",
+      "subdivision": "São Paulo (SP)",
+      "languages": [],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop music"
+      ],
+      "homepage": "https://stream.zeno.fm/9vs3cfayczquv",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T18:53:43Z",
+      "streams": [
+        {
+          "id": "aws_fc35995bbf6f8c78e69e",
+          "stationId": "awb_a48b3985f6b67a8c659f",
+          "name": "wisleyschafer",
+          "country": "BR",
+          "url": "https://stream.zeno.fm/9vs3cfayczquv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bd62f435-a868-43fc-8ff8-d699193d59d0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

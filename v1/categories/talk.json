@@ -1,6 +1,6 @@
 {
   "id": "talk",
-  "stationCount": 2228,
+  "stationCount": 2235,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -12605,7 +12605,7 @@
     },
     {
       "id": "awb_cf43b81c65d37d9dc650",
-      "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+      "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
       "country": "CA",
       "subdivision": "Quebec",
       "languages": [
@@ -12623,7 +12623,7 @@
         "talk",
         "trad"
       ],
-      "homepage": "http://cfnj.net/",
+      "homepage": "http://www.cfnj.net/",
       "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
       "type": "community",
       "sourceCount": 2,
@@ -14538,6 +14538,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:51:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_785f2a4be228fda4e752",
+      "name": "Holy Bible 24/7",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "audio bible",
+        "bible",
+        "christian",
+        "new testament",
+        "religious",
+        "spoken word"
+      ],
+      "homepage": "https://167-160-184-10.sslip.io/",
+      "favicon": "https://167-160-184-10.sslip.io/logo.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T14:22:16Z",
+      "streams": [
+        {
+          "id": "aws_f9972a13da3bf549af33",
+          "stationId": "awb_785f2a4be228fda4e752",
+          "name": "Holy Bible 24/7",
+          "country": "CA",
+          "url": "https://167-160-184-10.sslip.io/holybible.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "58d1b5ff-b1c1-48e1-894b-bfbe46e2c2cd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -20152,6 +20199,55 @@
       ]
     },
     {
+      "id": "awb_ed1a514e8235f93b6960",
+      "name": "Kiel FM",
+      "country": "DE",
+      "subdivision": "Schleswig-Holstein",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "community",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "community",
+        "local",
+        "pop",
+        "rock",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://www.oksh.de/ki/hoeren/kiel-fm/",
+      "favicon": "https://www.oksh.de/ki/wp-content/uploads/sites/2/2018/11/Kiel-FM.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:19:02Z",
+      "streams": [
+        {
+          "id": "aws_0fe03ffaea0a26745553",
+          "stationId": "awb_ed1a514e8235f93b6960",
+          "name": "Kiel FM",
+          "country": "DE",
+          "url": "https://radio.oksh.de/kielfm.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "feb24e11-3602-4102-8563-f3cbc2ca7111"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_f0dd9d7db46d098f65bd",
       "name": "Kontrafunk",
       "country": "DE",
@@ -20274,7 +20370,7 @@
         "youth"
       ],
       "homepage": "https://n-joy.de/",
-      "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Njoy-logo.svg/512px-Njoy-logo.svg.png",
+      "favicon": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-01-15T08:34:02Z",
@@ -20833,6 +20929,117 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T21:26:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d877c802cdfca6104d91",
+      "name": "Radio Deck 1",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "soul",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://radiodeck1.de/wp-content/uploads/2025/06/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:30:44Z",
+      "streams": [
+        {
+          "id": "aws_a51a2259113f23628776",
+          "stationId": "awb_d877c802cdfca6104d91",
+          "name": "Radio Deck 1",
+          "country": "DE",
+          "url": "https://rde1.de/320",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_ef96fa8b73b56f2295e9",
+      "name": "Radio Deck 1 Hamburg",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "cultural",
+        "dance",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://rde1.de/player-live/assets/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:38:08Z",
+      "streams": [
+        {
+          "id": "aws_3766ef101f67198ffb97",
+          "stationId": "awb_ef96fa8b73b56f2295e9",
+          "name": "Radio Deck 1 Hamburg",
+          "country": "DE",
+          "url": "https://rde1.de/192",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -27880,7 +28087,7 @@
       "id": "awb_e7280c1281f2949961b8",
       "name": "France Musique",
       "country": "FR",
-      "subdivision": null,
+      "subdivision": "France",
       "languages": [
         "fr"
       ],
@@ -27905,9 +28112,28 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 7,
-      "updatedAt": "2026-09-12T21:29:09Z",
+      "sourceCount": 9,
+      "updatedAt": "2026-10-15T07:26:14Z",
       "streams": [
+        {
+          "id": "aws_e0290e3a2a295e2b56c3",
+          "stationId": "awb_e7280c1281f2949961b8",
+          "name": "France Musique",
+          "country": "FR",
+          "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7b931696-e172-4d63-9343-53a713144d69"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        },
         {
           "id": "aws_b91ebb9f0798e1f3173c",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -27946,6 +28172,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
+        },
+        {
+          "id": "aws_2d6dfa9c5fc7bf6306da",
+          "stationId": "awb_e7280c1281f2949961b8",
+          "name": "France Musique",
+          "country": "FR",
+          "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         },
         {
           "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -83622,8 +83867,8 @@
       "homepage": "https://sverigesradio.se/",
       "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
       "type": "public",
-      "sourceCount": 6,
-      "updatedAt": "2026-08-24",
+      "sourceCount": 7,
+      "updatedAt": "2026-10-14T11:15:55Z",
       "streams": [
         {
           "id": "aws_28a4d02b7d507119c728",
@@ -83698,11 +83943,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "5c7ef11f-a6a0-4697-9d87-6df7a3209258",
-            "95019533-f24b-4eb2-ba07-2ccdf1ea683e"
+            "103287d0-4702-4c26-862d-cc4ce78e598f",
+            "5c7ef11f-a6a0-4697-9d87-6df7a3209258"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:41:24Z"
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -86212,6 +86457,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:28:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_94d104e087a9d737edfa",
+      "name": "Радіо Світанок",
+      "country": "UA",
+      "subdivision": "Ternopil",
+      "languages": [
+        "uk"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "catholic",
+        "catholic religious",
+        "christian music",
+        "music",
+        "prayers",
+        "talk"
+      ],
+      "homepage": "https://radiosvitanok.org.ua/",
+      "favicon": "https://radiosvitanok.org.ua/wp-content/uploads/2026/10/299790538_598145285204565_1668006528117048967_n.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T10:46:38Z",
+      "streams": [
+        {
+          "id": "aws_77611fa4eada67eff4fc",
+          "stationId": "awb_94d104e087a9d737edfa",
+          "name": "Радіо Світанок",
+          "country": "UA",
+          "url": "https://online.radiosvitanok.org.ua/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e205f4ee-2168-45b0-87e5-11b994c74d0c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -91112,6 +91404,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T09:22:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_082b39a786d278a6db5b",
+      "name": "ESPN Sacramento 1320 KIFM",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "espn radio",
+        "sacramento",
+        "sports",
+        "sports talk"
+      ],
+      "homepage": "https://www.audacy.com/espn1320",
+      "favicon": "https://i.iheart.com/v3/re/assets.streams/68487790c4ffec3cc815ae60",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T05:43:16Z",
+      "streams": [
+        {
+          "id": "aws_7ddff66ec3ff486457b1",
+          "stationId": "awb_082b39a786d278a6db5b",
+          "name": "ESPN Sacramento 1320 KIFM",
+          "country": "US",
+          "url": "https://live.amperwave.net/direct/audacy-kifmamaac-imc",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b07162f4-3e18-40b8-9144-4134d3c32e12"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -104383,8 +104720,8 @@
           "name": "WHIC 100.5 - Carthage Family Radio - Carthage, Tennessee",
           "country": "US",
           "url": "https://shout2.brnstream.com/proxy/whic?mp=/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -104394,7 +104731,7 @@
             "e0099161-ad6f-47df-a1d3-3e10ea4f4fa3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -107850,6 +108187,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:18:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d3bf79ca8303944f9037",
+      "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
+      "country": "US",
+      "subdivision": "South Carolina",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "gospel",
+        "local music",
+        "local news",
+        "talk radio"
+      ],
+      "homepage": "https://wvffradio.com/",
+      "favicon": "https://img1.wsimg.com/isteam/ip/3e124595-4c23-47d0-b855-aa5a3e28b61f/Station%20Logo.png/:/rs=w:75,h:100,cg:true,m/cr=w:75,h:100/qt=q:95",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:45:44Z",
+      "streams": [
+        {
+          "id": "aws_1ab14537018467020768",
+          "stationId": "awb_d3bf79ca8303944f9037",
+          "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
+          "country": "US",
+          "url": "http://provisioning.streamtheworld.com/pls/SAM04AAC609.pls",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "05aba190-a0a2-40f3-93ca-47cd9f18f870"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

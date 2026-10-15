@@ -1,6 +1,6 @@
 {
   "id": "blues",
-  "stationCount": 406,
+  "stationCount": 410,
   "stations": [
     {
       "id": "awb_c8795a989008061ddca1",
@@ -1711,6 +1711,63 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T00:48:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f726a4d7690c124351d4",
+      "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "metal",
+        "news",
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "local music",
+        "local sport",
+        "metal",
+        "news",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://www.caseyradio.com.au/",
+      "favicon": "https://www.caseyradio.com.au/wp-content/uploads/2020/02/3SER-Logo-2013-Xtreme-Smaller.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:22:42Z",
+      "streams": [
+        {
+          "id": "aws_0afa5ceb95ee7c7b0a2f",
+          "stationId": "awb_f726a4d7690c124351d4",
+          "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+          "country": "AU",
+          "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3de0ed72-b752-41df-99f9-26c5d95befe1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -7867,6 +7924,117 @@
       ]
     },
     {
+      "id": "awb_d877c802cdfca6104d91",
+      "name": "Radio Deck 1",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "soul",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://radiodeck1.de/wp-content/uploads/2025/06/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:30:44Z",
+      "streams": [
+        {
+          "id": "aws_a51a2259113f23628776",
+          "stationId": "awb_d877c802cdfca6104d91",
+          "name": "Radio Deck 1",
+          "country": "DE",
+          "url": "https://rde1.de/320",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_ef96fa8b73b56f2295e9",
+      "name": "Radio Deck 1 Hamburg",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "cultural",
+        "dance",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://rde1.de/player-live/assets/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:38:08Z",
+      "streams": [
+        {
+          "id": "aws_3766ef101f67198ffb97",
+          "stationId": "awb_ef96fa8b73b56f2295e9",
+          "name": "Radio Deck 1 Hamburg",
+          "country": "DE",
+          "url": "https://rde1.de/192",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_021a993cdee9de7b9fa0",
       "name": "Radio Gegenplan",
       "country": "DE",
@@ -9414,6 +9582,60 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:13:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fa16aa0ce10f5c10cf2c",
+      "name": "Radio Boomerang",
+      "country": "FR",
+      "subdivision": "Hauts-de-France",
+      "languages": [],
+      "categories": [
+        "blues",
+        "hip-hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "blues",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "homepage": "https://radioboomerang.com/",
+      "favicon": "https://radioboomerang.com/wp-content/uploads/2020/02/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:37:35Z",
+      "streams": [
+        {
+          "id": "aws_550ea4e02c2c51a089af",
+          "stationId": "awb_fa16aa0ce10f5c10cf2c",
+          "name": "Radio Boomerang",
+          "country": "FR",
+          "url": "https://stream.radioboomerang.com:8970/streamboomerang",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4f30ac19-4a41-40cb-8999-2ca19b34711e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -15368,7 +15590,7 @@
     },
     {
       "id": "awb_bd594017bc56630ac7ca",
-      "name": "Radio Caprice Piano Blues / Boogie-Woogie",
+      "name": "Radio Caprice Piano Blues Boogie Woogie",
       "country": "RU",
       "subdivision": null,
       "languages": [
@@ -15384,7 +15606,7 @@
         "piano",
         "piano blues"
       ],
-      "homepage": "http://radcap.ru/",
+      "homepage": "http://www.radcap.ru/pianoblues.html",
       "favicon": "http://i.imgur.com/hSP42CX.jpg",
       "type": null,
       "sourceCount": 2,

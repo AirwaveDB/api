@@ -755,6 +755,41 @@
       }
     ]
   },
+  "awb_0c99e755e55fe1e8125a": {
+    "id": "awb_0c99e755e55fe1e8125a",
+    "name": "Edge Radio 99.3",
+    "country": "AU",
+    "subdivision": "Hobart TAS",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.edgeradio.org.au/",
+    "favicon": "https://www.edgeradio.org.au/wp-content/uploads/2023/10/cropped-new-black-banner-copy-8c2c84510c03.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T20:54:17Z",
+    "streams": [
+      {
+        "id": "aws_89ae2c9be08fa5fb2453",
+        "stationId": "awb_0c99e755e55fe1e8125a",
+        "name": "Edge Radio 99.3",
+        "country": "AU",
+        "url": "https://streaming.alastair.tech/listen/edgeradio/live",
+        "codec": "aac",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "36108a02-ecdd-4fb7-ab90-70967ea4089a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
+      }
+    ]
+  },
   "awb_0ccbae6d36c9a249bda8": {
     "id": "awb_0ccbae6d36c9a249bda8",
     "name": "RTRFM 92.1",
@@ -9612,6 +9647,46 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T01:50:59Z"
+      }
+    ]
+  },
+  "awb_0ccf0fc89b58dcfa9021": {
+    "id": "awb_0ccf0fc89b58dcfa9021",
+    "name": "WLBH 88.3 Greenville, South Carolina - Listen & Be Heard Radio",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "podcasts",
+      "poetry"
+    ],
+    "homepage": "https://listenandbeheard.net/wlbh/",
+    "favicon": "https://listenandbeheard.net/wp-content/uploads/2026/04/Listen-and-Be-Heard-logo-black-150x150.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T04:32:04Z",
+    "streams": [
+      {
+        "id": "aws_d950ec0a8aa16509f77a",
+        "stationId": "awb_0ccf0fc89b58dcfa9021",
+        "name": "WLBH 88.3 Greenville, South Carolina - Listen & Be Heard Radio",
+        "country": "US",
+        "url": "https://stream.radio.co/sd3eca376a/listen",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "71bc252e-e14e-4c95-95fd-81446c4fd28f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

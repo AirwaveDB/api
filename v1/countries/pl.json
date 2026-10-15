@@ -1,7 +1,7 @@
 {
   "code": "PL",
-  "stationCount": 894,
-  "streamCount": 979,
+  "stationCount": 895,
+  "streamCount": 980,
   "stations": [
     {
       "id": "awb_03de24da3435e407fba6",
@@ -21774,6 +21774,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:06:30Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_06e1c3825571709cdaee",
+      "name": "Radio ProteusPL",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "electronica"
+      ],
+      "homepage": "https://proteuspl.pl/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T15:50:06Z",
+      "streams": [
+        {
+          "id": "aws_cb7707f9a96dbbb9a4e2",
+          "stationId": "awb_06e1c3825571709cdaee",
+          "name": "Radio ProteusPL",
+          "country": "PL",
+          "url": "https://radio.proteuspl.pl/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c839a643-9bf3-4759-b38b-95c331dbd441"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

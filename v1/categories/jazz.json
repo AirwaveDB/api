@@ -1,6 +1,6 @@
 {
   "id": "jazz",
-  "stationCount": 1322,
+  "stationCount": 1329,
   "stations": [
     {
       "id": "awb_8ab5f415f8fd2ea4a774",
@@ -2666,6 +2666,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T00:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_aeced7f0601d384ee0b8",
+      "name": "Apple FM 98.5",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz",
+        "rock"
+      ],
+      "tags": [
+        "classic rock",
+        "jazz",
+        "local",
+        "variety"
+      ],
+      "homepage": "https://apple985fm.com.au/",
+      "favicon": "https://cdn-profiles.tunein.com/s161253/images/logod.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T23:06:36Z",
+      "streams": [
+        {
+          "id": "aws_97a98c4049a09b0a7966",
+          "stationId": "awb_aeced7f0601d384ee0b8",
+          "name": "Apple FM 98.5",
+          "country": "AU",
+          "url": "http://s23.myradiostream.com:13240/;stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "446e3b26-1dcd-408f-a7f2-3ac0c15ffb49"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -8310,7 +8355,7 @@
       "id": "awb_84f94cc037b298681456",
       "name": "Stingray Smoot Jazz",
       "country": "CA",
-      "subdivision": "Toronto",
+      "subdivision": "Toronto, ON",
       "languages": [],
       "categories": [
         "jazz"
@@ -8319,7 +8364,7 @@
         "jazz",
         "smooth jazz"
       ],
-      "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+      "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
       "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
       "type": null,
       "sourceCount": 3,
@@ -15933,7 +15978,7 @@
         "rock",
         "soul"
       ],
-      "homepage": "https://flaemingradio.de/",
+      "homepage": "https://www.flaemingradio.de/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -18891,6 +18936,117 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:44:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d877c802cdfca6104d91",
+      "name": "Radio Deck 1",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "soul",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://radiodeck1.de/wp-content/uploads/2025/06/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:30:44Z",
+      "streams": [
+        {
+          "id": "aws_a51a2259113f23628776",
+          "stationId": "awb_d877c802cdfca6104d91",
+          "name": "Radio Deck 1",
+          "country": "DE",
+          "url": "https://rde1.de/320",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_ef96fa8b73b56f2295e9",
+      "name": "Radio Deck 1 Hamburg",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "cultural",
+        "dance",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://rde1.de/player-live/assets/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:38:08Z",
+      "streams": [
+        {
+          "id": "aws_3766ef101f67198ffb97",
+          "stationId": "awb_ef96fa8b73b56f2295e9",
+          "name": "Radio Deck 1 Hamburg",
+          "country": "DE",
+          "url": "https://rde1.de/192",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -24913,7 +25069,7 @@
       "id": "awb_e7280c1281f2949961b8",
       "name": "France Musique",
       "country": "FR",
-      "subdivision": null,
+      "subdivision": "France",
       "languages": [
         "fr"
       ],
@@ -24938,9 +25094,28 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 7,
-      "updatedAt": "2026-09-12T21:29:09Z",
+      "sourceCount": 9,
+      "updatedAt": "2026-10-15T07:26:14Z",
       "streams": [
+        {
+          "id": "aws_e0290e3a2a295e2b56c3",
+          "stationId": "awb_e7280c1281f2949961b8",
+          "name": "France Musique",
+          "country": "FR",
+          "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7b931696-e172-4d63-9343-53a713144d69"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        },
         {
           "id": "aws_b91ebb9f0798e1f3173c",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -24979,6 +25154,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:15:37Z"
+        },
+        {
+          "id": "aws_2d6dfa9c5fc7bf6306da",
+          "stationId": "awb_e7280c1281f2949961b8",
+          "name": "France Musique",
+          "country": "FR",
+          "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         },
         {
           "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -27663,6 +27857,60 @@
       ]
     },
     {
+      "id": "awb_fa16aa0ce10f5c10cf2c",
+      "name": "Radio Boomerang",
+      "country": "FR",
+      "subdivision": "Hauts-de-France",
+      "languages": [],
+      "categories": [
+        "blues",
+        "hip-hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "blues",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "homepage": "https://radioboomerang.com/",
+      "favicon": "https://radioboomerang.com/wp-content/uploads/2020/02/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:37:35Z",
+      "streams": [
+        {
+          "id": "aws_550ea4e02c2c51a089af",
+          "stationId": "awb_fa16aa0ce10f5c10cf2c",
+          "name": "Radio Boomerang",
+          "country": "FR",
+          "url": "https://stream.radioboomerang.com:8970/streamboomerang",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4f30ac19-4a41-40cb-8999-2ca19b34711e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9cb614c0ae647ad8df5b",
       "name": "Radio campus bordeaux",
       "country": "FR",
@@ -27811,6 +28059,60 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T17:05:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_063b0433382cf269e654",
+      "name": "Radio Laser",
+      "country": "FR",
+      "subdivision": "Bretagne",
+      "languages": [],
+      "categories": [
+        "community",
+        "hip-hop",
+        "jazz",
+        "pop",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "community",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "pop mondiale",
+        "r&b",
+        "reggae",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://www.radiolaser.fr/",
+      "favicon": "https://www.radiolaser.fr/assets/images/radiolaser.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:24:43Z",
+      "streams": [
+        {
+          "id": "aws_d5b5e69fb76636cf9f81",
+          "stationId": "awb_063b0433382cf269e654",
+          "name": "Radio Laser",
+          "country": "FR",
+          "url": "https://stream.radios.bzh/listen/radiolaser/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "82018398-3e60-4792-9bd4-bc354e2526e6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -28216,8 +28518,8 @@
           "name": "Radio Wa3 (راديو وع)",
           "country": "FR",
           "url": "https://stream.wa3.live/wa3.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -28227,7 +28529,7 @@
             "b444dadd-28b2-4dcb-84f2-3e2b73094f24"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -44055,7 +44357,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radiaura.net/apple-touch-icon.png",
+      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -57880,7 +58182,7 @@
           "name": "Sbempireradio",
           "country": "US",
           "url": "https://listen.nobexradio.com/station_sbempireradio?ref=radiobrowser",
-          "codec": null,
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -57891,7 +58193,7 @@
             "9169de40-5af0-4794-a349-e2d6fe41ca47"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -62701,6 +63003,53 @@
       ]
     },
     {
+      "id": "awb_8d54b84824d221915440",
+      "name": "WSOV 101.7 - Millheim, Pennsylvania - \"The Sound Of The Valleys\"",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "jazz",
+        "rock"
+      ],
+      "tags": [
+        "childrens music",
+        "classic rock",
+        "community radio",
+        "smooth jazz",
+        "variety"
+      ],
+      "homepage": "https://www.wsov.org/",
+      "favicon": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/566225031_1216122987209795_8131726829605591614_n.jpg?stp=c45.53.536.536a_dst-jpg_tt6&cstp=mx536x536&ctp=s200x200&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NGKnb5Aa7r0Q7kNvwHCKg51&_nc_oc=AdqMP5y4WV1IdGOt6K445VZykTzDzg-EiGf0NSydrAxjuEnz5JvDWb6YhWaSMHwYHPs&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=_rLQYy1qVIP2-dZgsWQZrw&_nc_ss=7a2a8&oh=00_AQMNxQUYe8zzSRcVsD09obzzAzWAokk2zJ8kQRy4J-HaFQ&oe=6AD63BE2",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:17:14Z",
+      "streams": [
+        {
+          "id": "aws_827b581d60ece3fca00c",
+          "stationId": "awb_8d54b84824d221915440",
+          "name": "WSOV 101.7 - Millheim, Pennsylvania - \"The Sound Of The Valleys\"",
+          "country": "US",
+          "url": "https://kea.cdnstream.com/2054_128",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "369ffd1f-b8fa-437a-91d2-9f7adf9adf51"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_3f38c9876f997af8db3f",
       "name": "WSSB 90.3 FM Jazz",
       "country": "US",
@@ -63274,6 +63623,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:21:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a402cfa3aef8339e36ee",
+      "name": "WXPI 88.5 Williamsport, Pennsylvania",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "jazz"
+      ],
+      "tags": [
+        "big band",
+        "community radio",
+        "environment",
+        "jazz"
+      ],
+      "homepage": "https://wxpiradio.org/",
+      "favicon": "https://wxpiradio.org/_media/images/graphics/logos/logo_wxpi.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:03:34Z",
+      "streams": [
+        {
+          "id": "aws_e6e995cc91434a7adffe",
+          "stationId": "awb_a402cfa3aef8339e36ee",
+          "name": "WXPI 88.5 Williamsport, Pennsylvania",
+          "country": "US",
+          "url": "https://stream.wxpiradio.org:8000/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a443abe8-d9be-46fd-aa92-7fd448ffddbe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

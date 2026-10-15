@@ -1497,6 +1497,53 @@
       }
     ]
   },
+  "awb_785f2a4be228fda4e752": {
+    "id": "awb_785f2a4be228fda4e752",
+    "name": "Holy Bible 24/7",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "audio bible",
+      "bible",
+      "christian",
+      "new testament",
+      "religious",
+      "spoken word"
+    ],
+    "homepage": "https://167-160-184-10.sslip.io/",
+    "favicon": "https://167-160-184-10.sslip.io/logo.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T14:22:16Z",
+    "streams": [
+      {
+        "id": "aws_f9972a13da3bf549af33",
+        "stationId": "awb_785f2a4be228fda4e752",
+        "name": "Holy Bible 24/7",
+        "country": "CA",
+        "url": "https://167-160-184-10.sslip.io/holybible.mp3",
+        "codec": "mp3",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "58d1b5ff-b1c1-48e1-894b-bfbe46e2c2cd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
+      }
+    ]
+  },
   "awb_781bd41d182affed4994": {
     "id": "awb_781bd41d182affed4994",
     "name": "iLive Radio",
@@ -5383,72 +5430,6 @@
       }
     ]
   },
-  "awb_78311a62fd4f569bce6c": {
-    "id": "awb_78311a62fd4f569bce6c",
-    "name": "+Wow (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-    "country": "MX",
-    "subdivision": "Mérida, Yucatán",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "américa",
-      "cadena rasa",
-      "entretenimiento",
-      "español",
-      "estación",
-      "latinoamérica",
-      "moi merino",
-      "music",
-      "mérida",
-      "méxico",
-      "música",
-      "música en inglés",
-      "música pop",
-      "norteamérica",
-      "online",
-      "online only",
-      "online radio",
-      "pop",
-      "pop en inglés",
-      "pop music",
-      "radio",
-      "radio online",
-      "sureste",
-      "wow",
-      "yucatán"
-    ],
-    "homepage": "https://cadenarasa.com/yucatan/merida/wow",
-    "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-06-06T02:21:20Z",
-    "streams": [
-      {
-        "id": "aws_19abfec72c5f5f5717c5",
-        "stationId": "awb_78311a62fd4f569bce6c",
-        "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-        "country": "MX",
-        "url": "https://stream.zeno.fm/jf0uuhbqekguv",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
-          "55699759-b52e-418e-b6dd-606de2b362f6"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T02:09:00Z"
-      }
-    ]
-  },
   "awb_78daacbad79897db27ec": {
     "id": "awb_78daacbad79897db27ec",
     "name": "770 W Radio (Zacatecas) - 770 AM - XEFRTM-AM - GlobalMedia - Zacatecas, Zacatecas",
@@ -5968,6 +5949,72 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:36:05Z"
+      }
+    ]
+  },
+  "awb_78311a62fd4f569bce6c": {
+    "id": "awb_78311a62fd4f569bce6c",
+    "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+    "country": "MX",
+    "subdivision": "Mérida, Yucatán",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "américa",
+      "cadena rasa",
+      "entretenimiento",
+      "español",
+      "estación",
+      "latinoamérica",
+      "moi merino",
+      "music",
+      "mérida",
+      "méxico",
+      "música",
+      "música en inglés",
+      "música pop",
+      "norteamérica",
+      "online",
+      "online only",
+      "online radio",
+      "pop",
+      "pop en inglés",
+      "pop music",
+      "radio",
+      "radio online",
+      "sureste",
+      "wow",
+      "yucatán"
+    ],
+    "homepage": "https://cadenarasa.com/yucatan/merida/wow",
+    "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-06-06T02:21:20Z",
+    "streams": [
+      {
+        "id": "aws_19abfec72c5f5f5717c5",
+        "stationId": "awb_78311a62fd4f569bce6c",
+        "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+        "country": "MX",
+        "url": "https://stream.zeno.fm/jf0uuhbqekguv",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
+          "55699759-b52e-418e-b6dd-606de2b362f6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-12T02:09:00Z"
       }
     ]
   },

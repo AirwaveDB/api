@@ -1,6 +1,6 @@
 {
   "id": "folk",
-  "stationCount": 873,
+  "stationCount": 875,
   "stations": [
     {
       "id": "awb_e3a34418feddbd65753d",
@@ -1099,6 +1099,47 @@
       ]
     },
     {
+      "id": "awb_047b7b6befa5e0e08869",
+      "name": "Radio Popullore",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "folk"
+      ],
+      "tags": [
+        "folk music"
+      ],
+      "homepage": "https://radiopopullore.al/",
+      "favicon": "https://radiopopullore.al/logo-vertical-nowave.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T13:00:17Z",
+      "streams": [
+        {
+          "id": "aws_e5ca5aa279c27cfc78e3",
+          "stationId": "awb_047b7b6befa5e0e08869",
+          "name": "Radio Popullore",
+          "country": "AL",
+          "url": "https://cp1.sednastream.com/proxy/shqipfolk/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "57191e9d-ba42-4a45-9104-3964b27275d3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_73d9300fa93e481108f1",
       "name": "Radio Rashi",
       "country": "AO",
@@ -1860,6 +1901,63 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:09:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f726a4d7690c124351d4",
+      "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "metal",
+        "news",
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "local music",
+        "local sport",
+        "metal",
+        "news",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://www.caseyradio.com.au/",
+      "favicon": "https://www.caseyradio.com.au/wp-content/uploads/2020/02/3SER-Logo-2013-Xtreme-Smaller.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:22:42Z",
+      "streams": [
+        {
+          "id": "aws_0afa5ceb95ee7c7b0a2f",
+          "stationId": "awb_f726a4d7690c124351d4",
+          "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+          "country": "AU",
+          "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3de0ed72-b752-41df-99f9-26c5d95befe1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

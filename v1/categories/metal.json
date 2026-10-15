@@ -1,6 +1,6 @@
 {
   "id": "metal",
-  "stationCount": 599,
+  "stationCount": 604,
   "stations": [
     {
       "id": "awb_a6c7862f1c537f319206",
@@ -741,6 +741,63 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:04:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f726a4d7690c124351d4",
+      "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "metal",
+        "news",
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "local music",
+        "local sport",
+        "metal",
+        "news",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://www.caseyradio.com.au/",
+      "favicon": "https://www.caseyradio.com.au/wp-content/uploads/2020/02/3SER-Logo-2013-Xtreme-Smaller.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:22:42Z",
+      "streams": [
+        {
+          "id": "aws_0afa5ceb95ee7c7b0a2f",
+          "stationId": "awb_f726a4d7690c124351d4",
+          "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+          "country": "AU",
+          "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3de0ed72-b752-41df-99f9-26c5d95befe1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -1884,6 +1941,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:11:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d4f0b9881644e8719175",
+      "name": "EHB Rock",
+      "country": "BR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "metal",
+        "rock"
+      ],
+      "tags": [
+        "heavy metal",
+        "rock"
+      ],
+      "homepage": "https://ehbrock.com.br/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:31:22Z",
+      "streams": [
+        {
+          "id": "aws_5513a084a73702bf043c",
+          "stationId": "awb_d4f0b9881644e8719175",
+          "name": "EHB Rock",
+          "country": "BR",
+          "url": "https://ehbrock.com.br/live/",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af05cc2f-f4cd-4524-9b40-15352705945e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -12711,16 +12809,20 @@
         "es"
       ],
       "categories": [
-        "metal"
+        "metal",
+        "rock"
       ],
       "tags": [
-        "heavy metal"
+        "hard rock",
+        "heavy metal",
+        "metal",
+        "rock"
       ],
       "homepage": "https://azuracast.javidai.uk/public/metalmeria",
-      "favicon": null,
+      "favicon": "https://azuracast.javidai.uk/static/uploads/browser_icon/192.1792001088.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-13T18:27:05Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-14T18:19:58Z",
       "streams": [
         {
           "id": "aws_12968552f95f865ed3f7",
@@ -12736,10 +12838,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "98e39928-1801-414c-b6e7-dd7b58614dd6"
+            "98e39928-1801-414c-b6e7-dd7b58614dd6",
+            "ab6a1372-1364-4db8-848e-6bca16ef8523"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -13742,6 +13845,60 @@
       ]
     },
     {
+      "id": "awb_fa16aa0ce10f5c10cf2c",
+      "name": "Radio Boomerang",
+      "country": "FR",
+      "subdivision": "Hauts-de-France",
+      "languages": [],
+      "categories": [
+        "blues",
+        "hip-hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "blues",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "metal",
+        "punk",
+        "reggae",
+        "rock"
+      ],
+      "homepage": "https://radioboomerang.com/",
+      "favicon": "https://radioboomerang.com/wp-content/uploads/2020/02/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:37:35Z",
+      "streams": [
+        {
+          "id": "aws_550ea4e02c2c51a089af",
+          "stationId": "awb_fa16aa0ce10f5c10cf2c",
+          "name": "Radio Boomerang",
+          "country": "FR",
+          "url": "https://stream.radioboomerang.com:8970/streamboomerang",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4f30ac19-4a41-40cb-8999-2ca19b34711e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_cff8d682f9d681d5bd38",
       "name": "Radio Heavy Metal",
       "country": "FR",
@@ -14348,6 +14505,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:55:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e1c682dad897b57ca73c",
+      "name": "Real Rock Radio",
+      "country": "GB",
+      "subdivision": "England",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "hard rock",
+        "heavy metal",
+        "punk",
+        "rock",
+        "rock'n'roll"
+      ],
+      "homepage": "https://realrockradio.co.uk/",
+      "favicon": "https://realrockradio.co.uk/images/0/24448175/newlogonoback-tbpfStE5mODn1BrennfC0w.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:05:54Z",
+      "streams": [
+        {
+          "id": "aws_a9e7663dede389c43139",
+          "stationId": "awb_e1c682dad897b57ca73c",
+          "name": "Real Rock Radio",
+          "country": "GB",
+          "url": "https://eu10.fastcast4u.com/rrr1",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "da7d7480-3616-4ba6-bf43-e086deb71d1a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -16804,6 +17008,89 @@
       ]
     },
     {
+      "id": "awb_9359ec9139ddfe95c6cf",
+      "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "metal",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "acir",
+        "acir online",
+        "adult album alternative",
+        "adult alternative",
+        "alternative",
+        "alternative 70s",
+        "alternative 80s",
+        "alternative metal",
+        "alternative pop",
+        "alternative rock",
+        "américa",
+        "cdmx",
+        "ciudad de méxico",
+        "classic rock; alternative rock indie",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "indie rock",
+        "latinoamérica",
+        "mexico city",
+        "mix",
+        "mix alternative",
+        "mix fm",
+        "moi merino",
+        "music",
+        "méxico",
+        "música alternativa",
+        "norteamérica",
+        "online",
+        "online only",
+        "radio",
+        "radio online",
+        "rock",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T04:25:31Z",
+      "streams": [
+        {
+          "id": "aws_e99a5227dad39e25927f",
+          "stationId": "awb_9359ec9139ddfe95c6cf",
+          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+            "a7a10889-e3af-4085-b800-1868e8cc8085"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7b747717980621ccb340",
       "name": "Alicia radio",
       "country": "MX",
@@ -16925,89 +17212,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:11:20Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9359ec9139ddfe95c6cf",
-      "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "metal",
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "80s",
-        "90s",
-        "acir",
-        "acir online",
-        "adult album alternative",
-        "adult alternative",
-        "alternative",
-        "alternative 70s",
-        "alternative 80s",
-        "alternative metal",
-        "alternative pop",
-        "alternative rock",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "classic rock; alternative rock indie",
-        "entretenimiento",
-        "español",
-        "estación",
-        "grupo acir",
-        "iheart",
-        "iheart radio",
-        "indie rock",
-        "latinoamérica",
-        "mexico city",
-        "mix",
-        "mix alternative",
-        "mix fm",
-        "moi merino",
-        "music",
-        "méxico",
-        "música alternativa",
-        "norteamérica",
-        "online",
-        "online only",
-        "radio",
-        "radio online",
-        "rock",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-13T04:25:31Z",
-      "streams": [
-        {
-          "id": "aws_e99a5227dad39e25927f",
-          "stationId": "awb_9359ec9139ddfe95c6cf",
-          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
-            "a7a10889-e3af-4085-b800-1868e8cc8085"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -28638,6 +28842,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:46:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_451d11ac1143c8068682",
+      "name": "WLVR 91.3 HD2",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [],
+      "categories": [
+        "metal",
+        "rock"
+      ],
+      "tags": [
+        "classic rock",
+        "heavy metal"
+      ],
+      "homepage": "https://go.wlvr.org/",
+      "favicon": "https://go.wlvr.org/wp-content/uploads/2020/02/goWLVRorg_headericon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:27:05Z",
+      "streams": [
+        {
+          "id": "aws_25e5415bcc95f679f98a",
+          "stationId": "awb_451d11ac1143c8068682",
+          "name": "WLVR 91.3 HD2",
+          "country": "US",
+          "url": "https://10gb1.tulix.tv/WLVR",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b3c155ab-ce28-418d-be0f-aa28932ba5b8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

@@ -3126,6 +3126,41 @@
       }
     ]
   },
+  "awb_d2945de79cfb51db386a": {
+    "id": "awb_d2945de79cfb51db386a",
+    "name": "Kyoto FM",
+    "country": "ES",
+    "subdivision": "Galicia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.kyotofm.es/",
+    "favicon": "https://www.kyotofm.es/wp-content/uploads/2020/05/kyoto-favicon-min.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T09:25:44Z",
+    "streams": [
+      {
+        "id": "aws_d4115cd2b63d13a2a5bb",
+        "stationId": "awb_d2945de79cfb51db386a",
+        "name": "Kyoto FM",
+        "country": "ES",
+        "url": "https://sonic.mediatelekom.net/8272/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "393a9ef1-2ec8-4f41-8574-cc43503f3c9b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
+      }
+    ]
+  },
   "awb_d2a28fc6bb2f6db0c030": {
     "id": "awb_d2a28fc6bb2f6db0c030",
     "name": "Los 40 classic",
@@ -3314,7 +3349,7 @@
   },
   "awb_d24df9c1df3e24fa57cb": {
     "id": "awb_d24df9c1df3e24fa57cb",
-    "name": "FIP Cultes",
+    "name": "Fip Cultes",
     "country": "FR",
     "subdivision": null,
     "languages": [

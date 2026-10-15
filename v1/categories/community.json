@@ -1,6 +1,6 @@
 {
   "id": "community",
-  "stationCount": 907,
+  "stationCount": 915,
   "stations": [
     {
       "id": "awb_264633f48847fb757bbd",
@@ -3842,6 +3842,50 @@
       ]
     },
     {
+      "id": "awb_072179a5bdc6f5fdaf05",
+      "name": "5GTR",
+      "country": "AU",
+      "subdivision": "South Australia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "rock"
+      ],
+      "tags": [
+        "community",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://www.5gtr.net/",
+      "favicon": "https://www.5gtr.net/logo.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:11:51Z",
+      "streams": [
+        {
+          "id": "aws_eecd9de1fa5f86cc3b27",
+          "stationId": "awb_072179a5bdc6f5fdaf05",
+          "name": "5GTR",
+          "country": "AU",
+          "url": "https://s2.stationplaylist.com:7154/listen.aac",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "72452618-dcd0-4e72-adf2-a3df331956e4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_b2fcb7ddd3c077dab01d",
       "name": "5THE FM Millicent",
       "country": "AU",
@@ -5704,6 +5748,63 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:05:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f726a4d7690c124351d4",
+      "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "metal",
+        "news",
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "local music",
+        "local sport",
+        "metal",
+        "news",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://www.caseyradio.com.au/",
+      "favicon": "https://www.caseyradio.com.au/wp-content/uploads/2020/02/3SER-Logo-2013-Xtreme-Smaller.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:22:42Z",
+      "streams": [
+        {
+          "id": "aws_0afa5ceb95ee7c7b0a2f",
+          "stationId": "awb_f726a4d7690c124351d4",
+          "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+          "country": "AU",
+          "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3de0ed72-b752-41df-99f9-26c5d95befe1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -14523,7 +14624,7 @@
     },
     {
       "id": "awb_cf43b81c65d37d9dc650",
-      "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+      "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
       "country": "CA",
       "subdivision": "Quebec",
       "languages": [
@@ -14541,7 +14642,7 @@
         "talk",
         "trad"
       ],
-      "homepage": "http://cfnj.net/",
+      "homepage": "http://www.cfnj.net/",
       "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
       "type": "community",
       "sourceCount": 2,
@@ -19474,6 +19575,55 @@
       ]
     },
     {
+      "id": "awb_ed1a514e8235f93b6960",
+      "name": "Kiel FM",
+      "country": "DE",
+      "subdivision": "Schleswig-Holstein",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "community",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "community",
+        "local",
+        "pop",
+        "rock",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://www.oksh.de/ki/hoeren/kiel-fm/",
+      "favicon": "https://www.oksh.de/ki/wp-content/uploads/sites/2/2018/11/Kiel-FM.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:19:02Z",
+      "streams": [
+        {
+          "id": "aws_0fe03ffaea0a26745553",
+          "stationId": "awb_ed1a514e8235f93b6960",
+          "name": "Kiel FM",
+          "country": "DE",
+          "url": "https://radio.oksh.de/kielfm.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "feb24e11-3602-4102-8563-f3cbc2ca7111"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_89d725b8572f7ab24580",
       "name": "Leibniz FM",
       "country": "DE",
@@ -20072,6 +20222,117 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:52:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d877c802cdfca6104d91",
+      "name": "Radio Deck 1",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "soul",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://radiodeck1.de/wp-content/uploads/2025/06/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:30:44Z",
+      "streams": [
+        {
+          "id": "aws_a51a2259113f23628776",
+          "stationId": "awb_d877c802cdfca6104d91",
+          "name": "Radio Deck 1",
+          "country": "DE",
+          "url": "https://rde1.de/320",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_ef96fa8b73b56f2295e9",
+      "name": "Radio Deck 1 Hamburg",
+      "country": "DE",
+      "subdivision": "Hamburg",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "cultural",
+        "dance",
+        "jazz",
+        "oldies",
+        "pop",
+        "rock",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://radiodeck1.de/",
+      "favicon": "https://rde1.de/player-live/assets/cropped-Radio-Deck-1-Logo-1-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T00:38:08Z",
+      "streams": [
+        {
+          "id": "aws_3766ef101f67198ffb97",
+          "stationId": "awb_ef96fa8b73b56f2295e9",
+          "name": "Radio Deck 1 Hamburg",
+          "country": "DE",
+          "url": "https://rde1.de/192",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -22382,6 +22643,60 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:41:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_063b0433382cf269e654",
+      "name": "Radio Laser",
+      "country": "FR",
+      "subdivision": "Bretagne",
+      "languages": [],
+      "categories": [
+        "community",
+        "hip-hop",
+        "jazz",
+        "pop",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "community",
+        "dub",
+        "funk",
+        "hip hop",
+        "jazz",
+        "pop mondiale",
+        "r&b",
+        "reggae",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://www.radiolaser.fr/",
+      "favicon": "https://www.radiolaser.fr/assets/images/radiolaser.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T22:24:43Z",
+      "streams": [
+        {
+          "id": "aws_d5b5e69fb76636cf9f81",
+          "stationId": "awb_063b0433382cf269e654",
+          "name": "Radio Laser",
+          "country": "FR",
+          "url": "https://stream.radios.bzh/listen/radiolaser/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "82018398-3e60-4792-9bd4-bc354e2526e6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -33702,8 +34017,8 @@
           "name": "Hey Decatur",
           "country": "US",
           "url": "https://studiob.loovacast.com/listen/hey_decatur/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -33713,7 +34028,7 @@
             "773e3997-d6f1-4263-bdd9-18dd5c72b7ae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -40488,6 +40803,53 @@
       ]
     },
     {
+      "id": "awb_8d54b84824d221915440",
+      "name": "WSOV 101.7 - Millheim, Pennsylvania - \"The Sound Of The Valleys\"",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "jazz",
+        "rock"
+      ],
+      "tags": [
+        "childrens music",
+        "classic rock",
+        "community radio",
+        "smooth jazz",
+        "variety"
+      ],
+      "homepage": "https://www.wsov.org/",
+      "favicon": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/566225031_1216122987209795_8131726829605591614_n.jpg?stp=c45.53.536.536a_dst-jpg_tt6&cstp=mx536x536&ctp=s200x200&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NGKnb5Aa7r0Q7kNvwHCKg51&_nc_oc=AdqMP5y4WV1IdGOt6K445VZykTzDzg-EiGf0NSydrAxjuEnz5JvDWb6YhWaSMHwYHPs&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=_rLQYy1qVIP2-dZgsWQZrw&_nc_ss=7a2a8&oh=00_AQMNxQUYe8zzSRcVsD09obzzAzWAokk2zJ8kQRy4J-HaFQ&oe=6AD63BE2",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:17:14Z",
+      "streams": [
+        {
+          "id": "aws_827b581d60ece3fca00c",
+          "stationId": "awb_8d54b84824d221915440",
+          "name": "WSOV 101.7 - Millheim, Pennsylvania - \"The Sound Of The Valleys\"",
+          "country": "US",
+          "url": "https://kea.cdnstream.com/2054_128",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "369ffd1f-b8fa-437a-91d2-9f7adf9adf51"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_5c876b2ceb9cc282ee32",
       "name": "WTIP",
       "country": "US",
@@ -40872,6 +41234,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:50:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a402cfa3aef8339e36ee",
+      "name": "WXPI 88.5 Williamsport, Pennsylvania",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "jazz"
+      ],
+      "tags": [
+        "big band",
+        "community radio",
+        "environment",
+        "jazz"
+      ],
+      "homepage": "https://wxpiradio.org/",
+      "favicon": "https://wxpiradio.org/_media/images/graphics/logos/logo_wxpi.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T04:03:34Z",
+      "streams": [
+        {
+          "id": "aws_e6e995cc91434a7adffe",
+          "stationId": "awb_a402cfa3aef8339e36ee",
+          "name": "WXPI 88.5 Williamsport, Pennsylvania",
+          "country": "US",
+          "url": "https://stream.wxpiradio.org:8000/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a443abe8-d9be-46fd-aa92-7fd448ffddbe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

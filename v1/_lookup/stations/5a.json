@@ -916,8 +916,8 @@
         "name": "Radio Comunitaria Serrana FM",
         "country": "BR",
         "url": "https://servidor32-2.brlogic.com:7008/live",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -927,7 +927,7 @@
           "8018f626-3ee6-4b32-ac51-4951153feb90"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },
@@ -1041,6 +1041,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:28:39Z"
+      }
+    ]
+  },
+  "awb_5af0615def426f1e53f4": {
+    "id": "awb_5af0615def426f1e53f4",
+    "name": "99.9 Sun FM",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.myktownnow.com/",
+    "favicon": "https://www.myktownnow.com/wp-content/uploads/2025/08/SUN-FM-Logo_Primary-Full-Colour.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T17:07:21Z",
+    "streams": [
+      {
+        "id": "aws_550a17786a22a2ac26f2",
+        "stationId": "awb_5af0615def426f1e53f4",
+        "name": "99.9 Sun FM",
+        "country": "CA",
+        "url": "https://vistaradio.streamb.live/SB00397?args=web_01",
+        "codec": "aac+",
+        "bitrate": 57,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "74e9e192-f937-4c97-b412-fd6f6f287591"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },

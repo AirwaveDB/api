@@ -1,7 +1,7 @@
 {
   "code": "bul",
   "canonicalCode": "bg",
-  "stationCount": 166,
+  "stationCount": 167,
   "stations": [
     {
       "id": "awb_ddd2f0a889b5b975fca5",
@@ -3552,6 +3552,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:12:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f21114846d6d97a2e8ce",
+      "name": "Radio Focus",
+      "country": "BG",
+      "subdivision": null,
+      "languages": [
+        "bg"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "homepage": "https://www.focus-radio.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T17:41:11Z",
+      "streams": [
+        {
+          "id": "aws_e0148bf5fd44f9643bee",
+          "stationId": "awb_f21114846d6d97a2e8ce",
+          "name": "Radio Focus",
+          "country": "BG",
+          "url": "http://213.91.195.242:2524/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9e415d73-38d5-412d-8c17-e667844717db"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "code": "AL",
-  "stationCount": 41,
-  "streamCount": 42,
+  "stationCount": 42,
+  "streamCount": 43,
   "stations": [
     {
       "id": "awb_1f3279b6c4be28e9a2f8",
@@ -1111,6 +1111,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:58:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_047b7b6befa5e0e08869",
+      "name": "Radio Popullore",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "folk"
+      ],
+      "tags": [
+        "folk music"
+      ],
+      "homepage": "https://radiopopullore.al/",
+      "favicon": "https://radiopopullore.al/logo-vertical-nowave.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T13:00:17Z",
+      "streams": [
+        {
+          "id": "aws_e5ca5aa279c27cfc78e3",
+          "stationId": "awb_047b7b6befa5e0e08869",
+          "name": "Radio Popullore",
+          "country": "AL",
+          "url": "https://cp1.sednastream.com/proxy/shqipfolk/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "57191e9d-ba42-4a45-9104-3964b27275d3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "id": "country",
-  "stationCount": 774,
+  "stationCount": 775,
   "stations": [
     {
       "id": "awb_29e9a4a80266c36730df",
@@ -2891,6 +2891,63 @@
       ]
     },
     {
+      "id": "awb_f726a4d7690c124351d4",
+      "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "metal",
+        "news",
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "blues",
+        "community",
+        "country",
+        "folk",
+        "local music",
+        "local sport",
+        "metal",
+        "news",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://www.caseyradio.com.au/",
+      "favicon": "https://www.caseyradio.com.au/wp-content/uploads/2020/02/3SER-Logo-2013-Xtreme-Smaller.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:22:42Z",
+      "streams": [
+        {
+          "id": "aws_0afa5ceb95ee7c7b0a2f",
+          "stationId": "awb_f726a4d7690c124351d4",
+          "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
+          "country": "AU",
+          "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3de0ed72-b752-41df-99f9-26c5d95befe1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_e706d4922b2b3f8792f3",
       "name": "Great Southern FM - Albany - 100.9 FM (AAC+)",
       "country": "AU",
@@ -4801,7 +4858,7 @@
       "id": "awb_2b7b7954faeaf86005a4",
       "name": "Rádio Cambirela - Virtual,mas real.",
       "country": "BR",
-      "subdivision": "Santa Catarina, SC",
+      "subdivision": "Santa Catarina,SC",
       "languages": [],
       "categories": [
         "country",

@@ -997,6 +997,45 @@
       }
     ]
   },
+  "awb_33684dbdc0639dd1b235": {
+    "id": "awb_33684dbdc0639dd1b235",
+    "name": "Classic Hits 109 - 70s Hits!",
+    "country": "CA",
+    "subdivision": "Montreal",
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "70s"
+    ],
+    "homepage": "http://www.classichits109.com/",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/2/69942.v18.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T04:25:07Z",
+    "streams": [
+      {
+        "id": "aws_f0af1463f4b03eaaf78a",
+        "stationId": "awb_33684dbdc0639dd1b235",
+        "name": "Classic Hits 109 - 70s Hits!",
+        "country": "CA",
+        "url": "https://broadcast.classichits109.com/70s",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "50afa332-86b9-48df-a4c1-e7d5bf47984f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_3343ee46656ede7ae73d": {
     "id": "awb_3343ee46656ede7ae73d",
     "name": "Labgate P.YG. Pink Floyd, Yes, Genesis",
@@ -4339,6 +4378,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:28:39Z"
+      }
+    ]
+  },
+  "awb_33f12cf5d93bf90d766b": {
+    "id": "awb_33f12cf5d93bf90d766b",
+    "name": "Radio Cusano",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [
+      "it"
+    ],
+    "categories": [],
+    "tags": [
+      "discussion",
+      "health",
+      "information",
+      "politics"
+    ],
+    "homepage": "https://www.radiocusano.it/",
+    "favicon": "https://tse2.mm.bing.net/th/id/OIP.qO7uBkrq-FvGL5ajCArfvgHaGb?r=0&pid=Api",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-14T09:10:26Z",
+    "streams": [
+      {
+        "id": "aws_7582f322c06c36f99b8b",
+        "stationId": "awb_33f12cf5d93bf90d766b",
+        "name": "Radio Cusano",
+        "country": "IT",
+        "url": "https://stream5.xdevel.com/audio1s975363-1686/stream/icecast.audio",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "464e9155-142b-4ef6-8ebb-aa1f3ad5aa7c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T00:17:25Z"
       }
     ]
   },

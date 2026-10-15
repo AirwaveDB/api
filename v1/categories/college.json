@@ -1,6 +1,6 @@
 {
   "id": "college",
-  "stationCount": 377,
+  "stationCount": 380,
   "stations": [
     {
       "id": "awb_54f92a5a1109504a972f",
@@ -13641,6 +13641,48 @@
       ]
     },
     {
+      "id": "awb_ad77ee748eebebca4246",
+      "name": "WFCS 107.7 The Edge",
+      "country": "US",
+      "subdivision": "New Britain, Connecticut",
+      "languages": [],
+      "categories": [
+        "college",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "college radio",
+        "rock"
+      ],
+      "homepage": "https://wfcsradio.com/",
+      "favicon": "https://wfcsradio.com/wp-content/uploads/2021/07/wfcs-the-edge-logo-dark.svg",
+      "type": "college",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T21:39:17Z",
+      "streams": [
+        {
+          "id": "aws_25bb799572f31932792a",
+          "stationId": "awb_ad77ee748eebebca4246",
+          "name": "WFCS 107.7 The Edge",
+          "country": "US",
+          "url": "https://listen.mixlr.com/ece8b0af03a3b1ca6390838643cd1eb7",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "87beaa2f-6f2f-4536-9c21-c8f704b0b3f4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_382f5d85020672102417",
       "name": "WFDD 88.5 - Piedmont NPR Winston-Salem, NC",
       "country": "US",
@@ -16888,6 +16930,47 @@
       ]
     },
     {
+      "id": "awb_082745caa3984ed5b5c1",
+      "name": "WTBU Radio",
+      "country": "US",
+      "subdivision": "Massachusetts",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "college"
+      ],
+      "tags": [
+        "college radio"
+      ],
+      "homepage": "https://sites.bu.edu/wtbu/",
+      "favicon": "https://sites.bu.edu/wtbu/wp-content/themes/responsive-framework/icons/apple-touch-icon-precomposed.png",
+      "type": "college",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T19:40:42Z",
+      "streams": [
+        {
+          "id": "aws_cfe226906e91fd9be01f",
+          "stationId": "awb_082745caa3984ed5b5c1",
+          "name": "WTBU Radio",
+          "country": "US",
+          "url": "https://headphones.bu.edu:8443/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7c44d325-27cc-45dd-af1a-9885df5541bc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T00:17:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_85300c57f7e613295173",
       "name": "WUMF 91.5 FM",
       "country": "US",
@@ -17732,6 +17815,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:07:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d41386613f18b139d2d9",
+      "name": "WXLV - The X",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [],
+      "categories": [
+        "college"
+      ],
+      "tags": [
+        "alternative",
+        "college radio"
+      ],
+      "homepage": "https://www.lccc.edu/student-experience/clubs-and-organizations/wxlv-digital-media-and-production-lab/",
+      "favicon": "https://radiostationusa.fm/assets/image/radio/180/WXLV.jpg",
+      "type": "college",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T21:54:51Z",
+      "streams": [
+        {
+          "id": "aws_e1e873abf094128f1d2c",
+          "stationId": "awb_d41386613f18b139d2d9",
+          "name": "WXLV - The X",
+          "country": "US",
+          "url": "https://securestream.casthost.net:8047/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "42cd8934-9544-4ed5-99f9-234a8387d68f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
