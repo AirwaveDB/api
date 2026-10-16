@@ -1,7 +1,7 @@
 {
   "code": "IL",
-  "stationCount": 143,
-  "streamCount": 145,
+  "stationCount": 144,
+  "streamCount": 146,
   "stations": [
     {
       "id": "awb_ac19d1499a05fd08c735",
@@ -2203,6 +2203,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:30:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8b3eb786d74712b6c5ba",
+      "name": "Radio Angelika",
+      "country": "IL",
+      "subdivision": null,
+      "languages": [
+        "he"
+      ],
+      "categories": [],
+      "tags": [
+        "greek music"
+      ],
+      "homepage": "https://radioangelika.com/",
+      "favicon": "https://radioangelika.com/wp-content/themes/angelika/assets/img/logo-300.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T08:40:10Z",
+      "streams": [
+        {
+          "id": "aws_aa8cccd1c55316f15e9d",
+          "stationId": "awb_8b3eb786d74712b6c5ba",
+          "name": "Radio Angelika",
+          "country": "IL",
+          "url": "https://radioangelika.com/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c6d2c435-0e91-4c63-b56f-919edebc93fd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         }
       ]
     },

@@ -286,6 +286,50 @@
       }
     ]
   },
+  "awb_e7af1fd282b92d789263": {
+    "id": "awb_e7af1fd282b92d789263",
+    "name": "Chill Albania",
+    "country": "AL",
+    "subdivision": "Shkodër",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "ambient",
+      "talk"
+    ],
+    "tags": [
+      "chill out",
+      "easy listening",
+      "talk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:00:12Z",
+    "streams": [
+      {
+        "id": "aws_b1d883210994a6705ea4",
+        "stationId": "awb_e7af1fd282b92d789263",
+        "name": "Chill Albania",
+        "country": "AL",
+        "url": "https://streams.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "43bbf2f7-e62f-4f6a-b586-f2b30a35a21f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_e7db7260c2776aac5340": {
     "id": "awb_e7db7260c2776aac5340",
     "name": "CLUB FM",
@@ -3451,28 +3495,9 @@
     "homepage": "https://www.radiofrance.fr/francemusique",
     "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
     "type": "public",
-    "sourceCount": 9,
-    "updatedAt": "2026-10-15T07:26:14Z",
+    "sourceCount": 8,
+    "updatedAt": "2026-10-15T04:55:47Z",
     "streams": [
-      {
-        "id": "aws_e0290e3a2a295e2b56c3",
-        "stationId": "awb_e7280c1281f2949961b8",
-        "name": "France Musique",
-        "country": "FR",
-        "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "7b931696-e172-4d63-9343-53a713144d69"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
-      },
       {
         "id": "aws_b91ebb9f0798e1f3173c",
         "stationId": "awb_e7280c1281f2949961b8",
@@ -3518,8 +3543,8 @@
         "name": "France Musique",
         "country": "FR",
         "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3529,7 +3554,7 @@
           "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       },
       {
         "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -5208,6 +5233,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:23:48Z"
+      }
+    ]
+  },
+  "awb_e7e74686cfb0bb28d3eb": {
+    "id": "awb_e7e74686cfb0bb28d3eb",
+    "name": "RADIOR ENERGY",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "club",
+      "dance",
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://radior.lt/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:32:10Z",
+    "streams": [
+      {
+        "id": "aws_c5bbccdb7ee50ce8d6d6",
+        "stationId": "awb_e7e74686cfb0bb28d3eb",
+        "name": "RADIOR ENERGY",
+        "country": "LT",
+        "url": "https://klausyk.radijas.lt/listen/energy/live",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "46e7396c-cdfd-4890-adc8-5497ad6b25d1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

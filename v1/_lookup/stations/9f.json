@@ -1,4 +1,48 @@
 {
+  "awb_9f95e7a1e1e1c097af09": {
+    "id": "awb_9f95e7a1e1e1c097af09",
+    "name": "Rádio Maria Angola",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://www.radiomaria.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:05:48Z",
+    "streams": [
+      {
+        "id": "aws_d0007d1cbc925592f1dc",
+        "stationId": "awb_9f95e7a1e1e1c097af09",
+        "name": "Rádio Maria Angola",
+        "country": "AO",
+        "url": "https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream",
+        "codec": "aac+",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e259f56c-eba1-4092-b04e-742feb543c5c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_9fa9d4bc5f47ad8719ff": {
     "id": "awb_9fa9d4bc5f47ad8719ff",
     "name": "AM 840 Radio General Belgrano",
@@ -1819,7 +1863,7 @@
     "id": "awb_9f6c026e52f2cc2ab155",
     "name": "as.if.radio",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Cologne",
     "languages": [
       "de",
       "en"
@@ -1853,7 +1897,7 @@
       "werbefrei"
     ],
     "homepage": "https://www.as-if-radio.com/",
-    "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+    "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-04T14:43:37Z",
@@ -5040,6 +5084,54 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:16:39Z"
+      }
+    ]
+  },
+  "awb_9f7cf920dbbff4340dd1": {
+    "id": "awb_9f7cf920dbbff4340dd1",
+    "name": "Radio Skonto 70's, 80's, 90's",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "90s",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:50Z",
+    "streams": [
+      {
+        "id": "aws_88b499368b04b04721d8",
+        "stationId": "awb_9f7cf920dbbff4340dd1",
+        "name": "Radio Skonto 70's, 80's, 90's",
+        "country": "LV",
+        "url": "https://streams.radioskonto.lv:8443/skonto-70-80-90",
+        "codec": "aac+",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f6cbecc2-9f2f-4107-a34f-08e184171ea0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

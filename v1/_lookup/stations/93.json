@@ -121,6 +121,52 @@
       }
     ]
   },
+  "awb_9314379103c6615a85a3": {
+    "id": "awb_9314379103c6615a85a3",
+    "name": "Rádio Kairós Angola",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.radiokairosangola.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:42:37Z",
+    "streams": [
+      {
+        "id": "aws_19f0890a1f332fe1a8d4",
+        "stationId": "awb_9314379103c6615a85a3",
+        "name": "Rádio Kairós Angola",
+        "country": "AO",
+        "url": "https://www.radiokairosangola.ao/livenow",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "76ed8f8a-25b0-4429-95b2-358e2cdef5e6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_935b2b614021af04f586": {
     "id": "awb_935b2b614021af04f586",
     "name": "Cristal 100.3",
@@ -4584,89 +4630,6 @@
       }
     ]
   },
-  "awb_9359ec9139ddfe95c6cf": {
-    "id": "awb_9359ec9139ddfe95c6cf",
-    "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-    "country": "MX",
-    "subdivision": "Ciudad de México",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "metal",
-      "oldies",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "80s",
-      "90s",
-      "acir",
-      "acir online",
-      "adult album alternative",
-      "adult alternative",
-      "alternative",
-      "alternative 70s",
-      "alternative 80s",
-      "alternative metal",
-      "alternative pop",
-      "alternative rock",
-      "américa",
-      "cdmx",
-      "ciudad de méxico",
-      "classic rock; alternative rock indie",
-      "entretenimiento",
-      "español",
-      "estación",
-      "grupo acir",
-      "iheart",
-      "iheart radio",
-      "indie rock",
-      "latinoamérica",
-      "mexico city",
-      "mix",
-      "mix alternative",
-      "mix fm",
-      "moi merino",
-      "music",
-      "méxico",
-      "música alternativa",
-      "norteamérica",
-      "online",
-      "online only",
-      "radio",
-      "radio online",
-      "rock",
-      "valle de méxico"
-    ],
-    "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-13T04:25:31Z",
-    "streams": [
-      {
-        "id": "aws_e99a5227dad39e25927f",
-        "stationId": "awb_9359ec9139ddfe95c6cf",
-        "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-        "country": "MX",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-        "codec": "aac+",
-        "bitrate": 48,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
-          "a7a10889-e3af-4085-b800-1868e8cc8085"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-13T22:04:58Z"
-      }
-    ]
-  },
   "awb_9377ef4ac20a985576d4": {
     "id": "awb_9377ef4ac20a985576d4",
     "name": "+Retro 90.5 HD (Xico) - Online - www.axmultimedios.com - Grupo AX Multimedios - Xico, Veracruz",
@@ -4890,6 +4853,89 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T02:12:10Z"
+      }
+    ]
+  },
+  "awb_9359ec9139ddfe95c6cf": {
+    "id": "awb_9359ec9139ddfe95c6cf",
+    "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+    "country": "MX",
+    "subdivision": "Ciudad de México",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "metal",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "acir",
+      "acir online",
+      "adult album alternative",
+      "adult alternative",
+      "alternative",
+      "alternative 70s",
+      "alternative 80s",
+      "alternative metal",
+      "alternative pop",
+      "alternative rock",
+      "américa",
+      "cdmx",
+      "ciudad de méxico",
+      "classic rock; alternative rock indie",
+      "entretenimiento",
+      "español",
+      "estación",
+      "grupo acir",
+      "iheart",
+      "iheart radio",
+      "indie rock",
+      "latinoamérica",
+      "mexico city",
+      "mix",
+      "mix alternative",
+      "mix fm",
+      "moi merino",
+      "music",
+      "méxico",
+      "música alternativa",
+      "norteamérica",
+      "online",
+      "online only",
+      "radio",
+      "radio online",
+      "rock",
+      "valle de méxico"
+    ],
+    "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-13T04:25:31Z",
+    "streams": [
+      {
+        "id": "aws_e99a5227dad39e25927f",
+        "stationId": "awb_9359ec9139ddfe95c6cf",
+        "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+        "country": "MX",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+        "codec": "aac+",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+          "a7a10889-e3af-4085-b800-1868e8cc8085"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-13T22:04:58Z"
       }
     ]
   },

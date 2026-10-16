@@ -4894,6 +4894,48 @@
       }
     ]
   },
+  "awb_c1c12dc96d39c64f682f": {
+    "id": "awb_c1c12dc96d39c64f682f",
+    "name": "European Hit Radio - C&C Radio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:03:25Z",
+    "streams": [
+      {
+        "id": "aws_db73c73d47d4d0af4cb2",
+        "stationId": "awb_c1c12dc96d39c64f682f",
+        "name": "European Hit Radio - C&C Radio",
+        "country": "LV",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_IDEAL_MUSICAAC.aac",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f1068bf7-0e81-4134-80e8-6ec79c1f47fa"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_c1dc9b00e115759d11ae": {
     "id": "awb_c1dc9b00e115759d11ae",
     "name": "Radio SWH",
@@ -7335,6 +7377,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T21:33:00Z"
+      }
+    ]
+  },
+  "awb_c199580ae47d50eee345": {
+    "id": "awb_c199580ae47d50eee345",
+    "name": "KNIL-LP 95.9 \"Creighton Community Radio\" - Creighton, Nebraska",
+    "country": "US",
+    "subdivision": "Nebraska",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio"
+    ],
+    "homepage": "https://www.creightonradio.com/",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/523ceeebe4b0b7dd2fab7e71/1462628604357-03UGWJUYRSRJFZY1DFI2/logo2.png?format=1000w",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T00:26:50Z",
+    "streams": [
+      {
+        "id": "aws_56c2f772993d8ca5d5f3",
+        "stationId": "awb_c199580ae47d50eee345",
+        "name": "KNIL-LP 95.9 \"Creighton Community Radio\" - Creighton, Nebraska",
+        "country": "US",
+        "url": "http://72.8.197.131:88/broadwave.mp3?rate=1&src=1",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bae34f6b-9c29-46c6-a1ec-9cc2078092a4"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

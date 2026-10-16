@@ -2733,8 +2733,8 @@
     "homepage": "https://radio.xecod.com/listen/salah-bukhatir",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-10-14T19:00:48Z",
+    "sourceCount": 4,
+    "updatedAt": "2026-10-15T19:02:28Z",
     "streams": [
       {
         "id": "aws_4e90d0f388f2052d6e35",
@@ -2750,11 +2750,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "578242d8-6de4-42e7-acaf-5051f7dc20cb",
-          "c667427e-2d30-4f22-8cda-30a48ed01fed"
+          "381443b0-bad7-4d7c-9081-ddfdae1e9f87",
+          "578242d8-6de4-42e7-acaf-5051f7dc20cb"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T00:17:25Z"
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },
@@ -5259,6 +5259,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:50:26Z"
+      }
+    ]
+  },
+  "awb_e3908f1e6c92d528135f": {
+    "id": "awb_e3908f1e6c92d528135f",
+    "name": "European Hit Radio - Fitness",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/fitness",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:58:05Z",
+    "streams": [
+      {
+        "id": "aws_21c19edd3bbafe7b1fdf",
+        "stationId": "awb_e3908f1e6c92d528135f",
+        "name": "European Hit Radio - Fitness",
+        "country": "LV",
+        "url": "https://stream.ehrhiti.lv:8000/Stream_14.aac",
+        "codec": "aac",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "89832063-5184-4490-8487-2f0c03bfdc6e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },
@@ -9089,6 +9132,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T06:12:13Z"
+      }
+    ]
+  },
+  "awb_e3c0fdfe81384b6ba2eb": {
+    "id": "awb_e3c0fdfe81384b6ba2eb",
+    "name": "New Jersey 101.5 WKXW",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "local news",
+      "new jersey",
+      "news talk"
+    ],
+    "homepage": "https://nj1015.com/",
+    "favicon": "https://townsquare.media/site/385/files/2020/05/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T05:15:34Z",
+    "streams": [
+      {
+        "id": "aws_efa76d3b64f7320c8adc",
+        "stationId": "awb_e3c0fdfe81384b6ba2eb",
+        "name": "New Jersey 101.5 WKXW",
+        "country": "US",
+        "url": "https://live.amperwave.net/manifest/townsquare-wkxwfmaac-hlsc3.m3u8",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d887a5c3-46a4-4428-ab68-14319a6e6a58"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

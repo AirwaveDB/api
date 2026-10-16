@@ -81,6 +81,95 @@
       }
     ]
   },
+  "awb_3e9664528d24c8543623": {
+    "id": "awb_3e9664528d24c8543623",
+    "name": "Rádio Cazenga",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-cazenga/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z",
+    "streams": [
+      {
+        "id": "aws_d929c02f099c2e6baafc",
+        "stationId": "awb_3e9664528d24c8543623",
+        "name": "Rádio Cazenga",
+        "country": "AO",
+        "url": "https://paineldj5.com.br:20092/stream",
+        "codec": "aac",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "691f0282-daa6-4b42-9d99-b8a71c8a8328"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
+  "awb_3e3a2254ec1a914e2255": {
+    "id": "awb_3e3a2254ec1a914e2255",
+    "name": "Radio FamaStar",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "electronic",
+      "religious"
+    ],
+    "tags": [
+      "dance",
+      "gospel",
+      "house",
+      "samba",
+      "zouk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z",
+    "streams": [
+      {
+        "id": "aws_32af0a1a7cbce42e001e",
+        "stationId": "awb_3e3a2254ec1a914e2255",
+        "name": "Radio FamaStar",
+        "country": "AO",
+        "url": "http://sirius.shoutca.st:8527/stream/;",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "276d59a4-bb09-485e-844f-d7f4aa18adec"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_3e1f241e8f61729da843": {
     "id": "awb_3e1f241e8f61729da843",
     "name": "ECO Medios AM 1220",
@@ -3524,6 +3613,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:04:27Z"
+      }
+    ]
+  },
+  "awb_3e7c1ebd916c9544a66b": {
+    "id": "awb_3e7c1ebd916c9544a66b",
+    "name": "Space FM",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "homepage": "https://spacefm.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:38:36Z",
+    "streams": [
+      {
+        "id": "aws_260abc652e4d6dbb4d32",
+        "stationId": "awb_3e7c1ebd916c9544a66b",
+        "name": "Space FM",
+        "country": "EE",
+        "url": "https://stream.spacefm.ee/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1c60a71b-13aa-4e2e-8ee6-5eb27da51993"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

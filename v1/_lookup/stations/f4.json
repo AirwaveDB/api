@@ -196,6 +196,49 @@
       }
     ]
   },
+  "awb_f493cf066425875f15f5": {
+    "id": "awb_f493cf066425875f15f5",
+    "name": "Rádio Mais Huíla",
+    "country": "AO",
+    "subdivision": "Lubango",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radiomais.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:22:12Z",
+    "streams": [
+      {
+        "id": "aws_7f9fdb9f7f133fb324a2",
+        "stationId": "awb_f493cf066425875f15f5",
+        "name": "Rádio Mais Huíla",
+        "country": "AO",
+        "url": "https://radios.justweb.pt/8048/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c6975ff0-662c-43b4-b27a-40bb3d19a802"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_f4cdce05917d656a9975": {
     "id": "awb_f4cdce05917d656a9975",
     "name": "96.1 Shopping Classics",
@@ -4890,6 +4933,50 @@
       }
     ]
   },
+  "awb_f4de31f8e87b976a08a5": {
+    "id": "awb_f4de31f8e87b976a08a5",
+    "name": "European Hit Radio - SuperHits Gold",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "90s",
+      "oldies",
+      "pop"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z",
+    "streams": [
+      {
+        "id": "aws_6535fb29272b2e4944cd",
+        "stationId": "awb_f4de31f8e87b976a08a5",
+        "name": "European Hit Radio - SuperHits Gold",
+        "country": "LV",
+        "url": "https://29053.live.streamtheworld.com/EHR_SUPERHITS_GOLDAAC.aac",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ec4e6546-df1a-4bba-a326-551e6e1a5616"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_f420755140ca1c589170": {
     "id": "awb_f420755140ca1c589170",
     "name": "TOP radio lv",
@@ -4994,8 +5081,8 @@
     "homepage": "https://play.you.radio/",
     "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/b3ac78dc-a401-44fc-b474-9e4b90d38956.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:51:52Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-15T11:33:46Z",
     "streams": [
       {
         "id": "aws_f70b46e9b9938ab6a3ee",
@@ -5011,10 +5098,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "0f770e28-1c6a-4a34-ae67-82ca5aa372ad"
+          "0f770e28-1c6a-4a34-ae67-82ca5aa372ad",
+          "96697826-72f1-4ccb-aa96-90eea2219367"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T04:00:26Z"
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

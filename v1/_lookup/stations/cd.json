@@ -76,6 +76,49 @@
       }
     ]
   },
+  "awb_cdfa6c3d6e5db2dcfdfc": {
+    "id": "awb_cdfa6c3d6e5db2dcfdfc",
+    "name": "Ora News",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.oranews.tv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:32:20Z",
+    "streams": [
+      {
+        "id": "aws_c59b8ef09b0fc5a83c31",
+        "stationId": "awb_cdfa6c3d6e5db2dcfdfc",
+        "name": "Ora News",
+        "country": "AL",
+        "url": "https://live1.mediadesk.al/oranews.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c2caf164-c2bf-4eac-a719-ce6bd6cf25cb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_cd97e147fbdc5074dd6a": {
     "id": "awb_cd97e147fbdc5074dd6a",
     "name": "Rádio Ondjo Yetu",
@@ -3330,6 +3373,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:23:12Z"
+      }
+    ]
+  },
+  "awb_cd69ec2e23ff1ead6ded": {
+    "id": "awb_cd69ec2e23ff1ead6ded",
+    "name": "Радіо DrUzi",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "uk"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "dance",
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://druzi.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:42:37Z",
+    "streams": [
+      {
+        "id": "aws_a567c8c6d13d582050f8",
+        "stationId": "awb_cd69ec2e23ff1ead6ded",
+        "name": "Радіо DrUzi",
+        "country": "EE",
+        "url": "https://druzi.fm:8443/192mp3",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "2fa88d22-f282-4f4b-8c9c-70c6937fa502"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

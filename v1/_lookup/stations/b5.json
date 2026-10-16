@@ -196,6 +196,47 @@
       }
     ]
   },
+  "awb_b58ebbd527f8f748de64": {
+    "id": "awb_b58ebbd527f8f748de64",
+    "name": "Radio Shqip Folklor",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "folk"
+    ],
+    "homepage": "https://radio-shqip.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:19:47Z",
+    "streams": [
+      {
+        "id": "aws_6caa5b8459590f5099e3",
+        "stationId": "awb_b58ebbd527f8f748de64",
+        "name": "Radio Shqip Folklor",
+        "country": "AL",
+        "url": "https://live.radio-zemra.eu/folklor",
+        "codec": "mp3",
+        "bitrate": 112,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6bb5cffe-59ab-41e4-b57d-0dfadbb28a08"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_b5ea5ffd828b0118a628": {
     "id": "awb_b5ea5ffd828b0118a628",
     "name": "FM Armonía 105.1",
@@ -3456,8 +3497,8 @@
         "name": "Salero Radio",
         "country": "DO",
         "url": "https://streaming.fastglobalserver.com:8122/stream",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3467,7 +3508,7 @@
           "3c0760e3-3196-4191-b488-8dd3e635cb0f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

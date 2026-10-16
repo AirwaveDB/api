@@ -8597,6 +8597,52 @@
       }
     ]
   },
+  "awb_8dccaba3a230eb229700": {
+    "id": "awb_8dccaba3a230eb229700",
+    "name": "Barrie Craig, Confidential Investigator (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1940s",
+      "1950s",
+      "detective",
+      "mystery",
+      "noir",
+      "old time radio",
+      "otr",
+      "radio drama"
+    ],
+    "homepage": "https://stupidpotato.com/barrie-craig/",
+    "favicon": "https://stupidpotato.com/barrie-craig/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:23:41Z",
+    "streams": [
+      {
+        "id": "aws_6b88e33dc71d44d16d6f",
+        "stationId": "awb_8dccaba3a230eb229700",
+        "name": "Barrie Craig, Confidential Investigator (radio) | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/barrie-craig/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "09129f4b-6151-437d-9ca7-534b5fd13ef0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
+      }
+    ]
+  },
   "awb_8da912c3f713aee2b330": {
     "id": "awb_8da912c3f713aee2b330",
     "name": "Church Punks",
@@ -9552,8 +9598,8 @@
         "name": "WSOV 101.7 - Millheim, Pennsylvania - \"The Sound Of The Valleys\"",
         "country": "US",
         "url": "https://kea.cdnstream.com/2054_128",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -9563,7 +9609,7 @@
           "369ffd1f-b8fa-437a-91d2-9f7adf9adf51"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       }
     ]
   },

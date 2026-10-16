@@ -1,6 +1,6 @@
 {
   "id": "christmas",
-  "stationCount": 252,
+  "stationCount": 256,
   "stations": [
     {
       "id": "awb_1a5f119da8fb7ad873f5",
@@ -4998,6 +4998,91 @@
       ]
     },
     {
+      "id": "awb_b1b3f314a54aa45ea5ae",
+      "name": "K-SUN66 \"THE HOLIDAYS\"",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas"
+      ],
+      "homepage": "https://www.ksun66.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:54:08Z",
+      "streams": [
+        {
+          "id": "aws_50d35c2a1b919a0b087b",
+          "stationId": "awb_b1b3f314a54aa45ea5ae",
+          "name": "K-SUN66 \"THE HOLIDAYS\"",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/c2d380furg0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "990f8f86-6c46-4208-83c4-4376422cbfa6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_008ede9369cb1db5a70f",
+      "name": "Retro FM - Jõulud",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "et"
+      ],
+      "categories": [
+        "christmas",
+        "pop"
+      ],
+      "tags": [
+        "christmas",
+        "hits",
+        "retro"
+      ],
+      "homepage": "https://retrofm.sky.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:34:29Z",
+      "streams": [
+        {
+          "id": "aws_6b6dc0227cb53174616f",
+          "stationId": "awb_008ede9369cb1db5a70f",
+          "name": "Retro FM - Jõulud",
+          "country": "EE",
+          "url": "https://stream.skymedia.ee/live/RetroJ6ulud",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "69084a62-d6db-4ca7-bcfd-65773e56a366"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2eac27c1660090a344de",
       "name": "Free FM X-Mas",
       "country": "ES",
@@ -6452,6 +6537,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:01:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_24d292dc00864b1d6bee",
+      "name": "Christmas Radio",
+      "country": "LT",
+      "subdivision": "Vilnius",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas"
+      ],
+      "homepage": "https://zeno.fm/radio/christmas-radio-MV/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:27:11Z",
+      "streams": [
+        {
+          "id": "aws_3642fc46bcfa1bce6a67",
+          "stationId": "awb_24d292dc00864b1d6bee",
+          "name": "Christmas Radio",
+          "country": "LT",
+          "url": "https://stream.zeno.fm/xevy5qiypbqvv",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "46b49b2d-d36a-4704-b462-f063dac7fe75"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -10028,6 +10154,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T23:36:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_351edc9118cb265b6733",
+      "name": "North Pole Radio: Holiday Specials | Stupid Potato",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas"
+      ],
+      "tags": [
+        "christmas",
+        "christmas music",
+        "holiday",
+        "old time radio",
+        "vintage"
+      ],
+      "homepage": "https://stupidpotato.com/north-pole-specials/",
+      "favicon": "https://stupidpotato.com/north-pole-specials/brand/cover-600.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T08:23:41Z",
+      "streams": [
+        {
+          "id": "aws_81e45832268c7fb101d2",
+          "stationId": "awb_351edc9118cb265b6733",
+          "name": "North Pole Radio: Holiday Specials | Stupid Potato",
+          "country": "US",
+          "url": "https://stupidpotato.com/north-pole-specials/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "70f8dee8-f063-4531-a8da-5f0af248dfc0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

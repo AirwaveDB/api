@@ -1,4 +1,47 @@
 {
+  "awb_ed7b47ac9a7733b91807": {
+    "id": "awb_ed7b47ac9a7733b91807",
+    "name": "Rádio Cuanza Norte",
+    "country": "AO",
+    "subdivision": "N'dalatando",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-cuanza-norte/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:18Z",
+    "streams": [
+      {
+        "id": "aws_459669d26e7b8d997422",
+        "stationId": "awb_ed7b47ac9a7733b91807",
+        "name": "Rádio Cuanza Norte",
+        "country": "AO",
+        "url": "https://paineldj.com.br:20145/stream",
+        "codec": "aac+",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8e397ce2-4607-4f67-b576-7cc7e5ccfeb5"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_ed77423e94f02b84e7df": {
     "id": "awb_ed77423e94f02b84e7df",
     "name": "Emisora del Este 98.9 FM y 98.1 FM",
@@ -2595,7 +2638,7 @@
         "name": "Kiel FM",
         "country": "DE",
         "url": "https://radio.oksh.de/kielfm.mp3",
-        "codec": null,
+        "codec": "mp3",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -2606,7 +2649,7 @@
           "feb24e11-3602-4102-8563-f3cbc2ca7111"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },
@@ -7309,6 +7352,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:50:00Z"
+      }
+    ]
+  },
+  "awb_ed05c2c80d96fd5e25d0": {
+    "id": "awb_ed05c2c80d96fd5e25d0",
+    "name": "Radio Disney Peru",
+    "country": "PE",
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://pe.radiodisney.com/",
+    "favicon": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Radio_Disney_Latin_America.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T00:38:14Z",
+    "streams": [
+      {
+        "id": "aws_7f114fe14ebdb9ecdec1",
+        "stationId": "awb_ed05c2c80d96fd5e25d0",
+        "name": "Radio Disney Peru",
+        "country": "PE",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "27c39f9c-b402-4452-a0cf-f11834c378aa"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

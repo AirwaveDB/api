@@ -527,8 +527,8 @@
         "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
         "country": "AU",
         "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac+",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -538,7 +538,7 @@
           "3de0ed72-b752-41df-99f9-26c5d95befe1"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },
@@ -5260,6 +5260,90 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T00:33:46Z"
+      }
+    ]
+  },
+  "awb_f709daaa4b9d0a260029": {
+    "id": "awb_f709daaa4b9d0a260029",
+    "name": "Draugystės radijas",
+    "country": "LT",
+    "subdivision": "Šiauliai",
+    "languages": [
+      "lt"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "oldies"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:24:32Z",
+    "streams": [
+      {
+        "id": "aws_bd931c25ad1110fd0525",
+        "stationId": "awb_f709daaa4b9d0a260029",
+        "name": "Draugystės radijas",
+        "country": "LT",
+        "url": "http://213.226.189.174:8000/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bd2ce58d-da96-443a-94d2-1b1451102f21"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
+  "awb_f761418b510b7e15c0ce": {
+    "id": "awb_f761418b510b7e15c0ce",
+    "name": "Mantra Radio",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "languages": [
+      "hi"
+    ],
+    "categories": [
+      "ambient",
+      "religious"
+    ],
+    "tags": [
+      "meditation",
+      "religious"
+    ],
+    "homepage": "https://mantraradio.eu/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:32:10Z",
+    "streams": [
+      {
+        "id": "aws_6c171a1ed9cdcd92aa4d",
+        "stationId": "awb_f761418b510b7e15c0ce",
+        "name": "Mantra Radio",
+        "country": "LT",
+        "url": "https://whsh4u-panel.com/proxy/gsedemag?mp=/stream",
+        "codec": "mp3",
+        "bitrate": 32,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "74b5fceb-7023-4c47-b1f9-4ef15a17f398"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

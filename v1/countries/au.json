@@ -1,7 +1,7 @@
 {
   "code": "AU",
-  "stationCount": 1697,
-  "streamCount": 1741,
+  "stationCount": 1698,
+  "streamCount": 1742,
   "stations": [
     {
       "id": "awb_7580fb7c36cddd9a8a3f",
@@ -33974,8 +33974,8 @@
           "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
           "country": "AU",
           "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -33985,7 +33985,7 @@
             "3de0ed72-b752-41df-99f9-26c5d95befe1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -41192,6 +41192,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:57:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_72a0a73adfcb488e4452",
+      "name": "Hope St Radio",
+      "country": "AU",
+      "subdivision": "Victoria",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community",
+        "independent"
+      ],
+      "homepage": "https://hopestradio.community/",
+      "favicon": "https://d4mt18vwj73wk.cloudfront.net/stationImage/2025-09-30T07:02:37Z-1024x1024.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T07:52:56Z",
+      "streams": [
+        {
+          "id": "aws_97e245bd1913385219df",
+          "stationId": "awb_72a0a73adfcb488e4452",
+          "name": "Hope St Radio",
+          "country": "AU",
+          "url": "https://hope-st-radeio.radiocult.fm/stream",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7dd79327-d4fb-4f34-a914-1a8688345306"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

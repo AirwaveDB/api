@@ -194,6 +194,49 @@
       }
     ]
   },
+  "awb_2dc19d13681bcb51c721": {
+    "id": "awb_2dc19d13681bcb51c721",
+    "name": "Radio Thesaret",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "gospel",
+      "islamic",
+      "religious"
+    ],
+    "homepage": "https://zeno.fm/radio/radio-thesaret/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:37:59Z",
+    "streams": [
+      {
+        "id": "aws_ad3ddefdedb846fe48f5",
+        "stationId": "awb_2dc19d13681bcb51c721",
+        "name": "Radio Thesaret",
+        "country": "AL",
+        "url": "https://stream.zeno.fm/ubzj8twgccstv",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d1ba863e-b945-402a-960e-bff36a2e3416"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_2dd284918dc78f57010b": {
     "id": "awb_2dd284918dc78f57010b",
     "name": "FM Color 99.3 (General Roca)",
@@ -1406,7 +1449,7 @@
         "name": ".听梦想FM（原态度电台）24小时音乐不打烊",
         "country": "CN",
         "url": "https://lhttp-hw.qtfm.cn/live/4917/64k.mp3",
-        "codec": null,
+        "codec": "mp3",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -1417,7 +1460,7 @@
           "6cd64df1-25ac-4185-9635-072973d95e8b"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

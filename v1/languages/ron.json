@@ -1,8 +1,54 @@
 {
   "code": "ron",
   "canonicalCode": "ro",
-  "stationCount": 321,
+  "stationCount": 322,
   "stations": [
+    {
+      "id": "awb_c8d75318f4d57a1be98c",
+      "name": "HM Radio",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "ro"
+      ],
+      "categories": [
+        "folk",
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "ethnic",
+        "folk",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://arumun.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:37:59Z",
+      "streams": [
+        {
+          "id": "aws_959c3f7027676a73167e",
+          "stationId": "awb_c8d75318f4d57a1be98c",
+          "name": "HM Radio",
+          "country": "AL",
+          "url": "https://stream.zeno.fm/1nykd3t9f7qtv",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8863977c-6c4c-4398-9eab-8da32f93fc0a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
     {
       "id": "awb_f0d72ccdd1f05c2eff7d",
       "name": "Radio Connect Romania",
@@ -8805,7 +8851,7 @@
         "stuttgart",
         "torino"
       ],
-      "homepage": "https://radiogiurgiu.net/",
+      "homepage": "https://radiogiurgiu.net/mobile.html",
       "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
       "type": null,
       "sourceCount": 4,

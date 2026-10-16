@@ -69,8 +69,8 @@
     "homepage": "https://play.you.radio/station/347",
     "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e094b0d0-43ee-420a-ae44-f5c2d9eb51b4.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:10Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-16T06:38:47Z",
     "streams": [
       {
         "id": "aws_99c473461ac1abfbf2c1",
@@ -86,7 +86,8 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "116345d6-53cd-43b2-9786-7ed7cfab553e"
+          "116345d6-53cd-43b2-9786-7ed7cfab553e",
+          "1fa4d92d-9d07-42bb-b121-e82fd7092800"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T21:31:04Z"
@@ -226,6 +227,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T01:23:38Z"
+      }
+    ]
+  },
+  "awb_1813a41426dfdc86eea2": {
+    "id": "awb_1813a41426dfdc86eea2",
+    "name": "Radio Emigranti",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk",
+      "oldies"
+    ],
+    "tags": [
+      "folk",
+      "oldies"
+    ],
+    "homepage": "http://www.radioemigranti.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:20:05Z",
+    "streams": [
+      {
+        "id": "aws_4bd3c1580dc396a94dda",
+        "stationId": "awb_1813a41426dfdc86eea2",
+        "name": "Radio Emigranti",
+        "country": "AL",
+        "url": "http://www.radioemigranti.com:8000/radioauto128",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e87c2e39-388e-4b4b-81ad-c07322a09795"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:19Z"
       }
     ]
   },
@@ -2884,6 +2928,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T03:37:43Z"
+      }
+    ]
+  },
+  "awb_182ec7c6b0865c468cc8": {
+    "id": "awb_182ec7c6b0865c468cc8",
+    "name": "Jow Radio - Jow Latino",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "latin",
+      "salsa"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:48:53Z",
+    "streams": [
+      {
+        "id": "aws_25a45d9aa1acab727d80",
+        "stationId": "awb_182ec7c6b0865c468cc8",
+        "name": "Jow Radio - Jow Latino",
+        "country": "DZ",
+        "url": "https://azuracast.dataplayapps.com/listen/jow_latino/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bfecc48d-16e0-43f5-bd3c-2dcff7de6bd8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },
@@ -5548,6 +5634,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T09:15:06Z"
+      }
+    ]
+  },
+  "awb_184aed0da2f31a6e8565": {
+    "id": "awb_184aed0da2f31a6e8565",
+    "name": "Upso Radijas",
+    "country": "LT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://upsas.lt/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T15:55:08Z",
+    "streams": [
+      {
+        "id": "aws_bd2c6970c300de4f88ce",
+        "stationId": "awb_184aed0da2f31a6e8565",
+        "name": "Upso Radijas",
+        "country": "LT",
+        "url": "https://klausyk.upsoradijas.lt/upsas_320",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5e52cd96-968f-4b50-a515-00ace92a0bee"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       }
     ]
   },
@@ -8610,7 +8731,7 @@
       "oldies",
       "wisconsin"
     ],
-    "homepage": "https://classiccountrylegendsradio.neocities.org/",
+    "homepage": "https://classiccountrylegendsradio.neocities.org/goldenoldies",
     "favicon": "https://images.zeno.fm/oLsvZnvFd_rx-U_Xvki0Uu8RpK46_XVfSbMunX5q0us/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2JhNDE3OWEzLTExMjEtNDUwMi1hNGZkLTU0MjUzYWExNjg3YS9pbWFnZS8_dT0xNzkxMTQyNTg2NzEy.webp",
     "type": null,
     "sourceCount": 2,

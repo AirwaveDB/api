@@ -2449,7 +2449,7 @@
   },
   "awb_64da13ba48280ff8393c": {
     "id": "awb_64da13ba48280ff8393c",
-    "name": "Radio Bob",
+    "name": "Radio BOB",
     "country": "DE",
     "subdivision": "Hessen (Kassel)",
     "languages": [
@@ -2457,7 +2457,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobob.de/",
+    "homepage": "https://www.radiobob.de/#",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -2663,6 +2663,53 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T08:23:48Z"
+      }
+    ]
+  },
+  "awb_64da598f8046add1f849": {
+    "id": "awb_64da598f8046add1f849",
+    "name": "K-SUN66 - The Diner",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz",
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "jazz",
+      "oldies",
+      "pop",
+      "rock n roll"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:59:28Z",
+    "streams": [
+      {
+        "id": "aws_7e3736ef89045cf07445",
+        "stationId": "awb_64da598f8046add1f849",
+        "name": "K-SUN66 - The Diner",
+        "country": "DZ",
+        "url": "https://stream.zeno.fm/hmxb7e243mruv",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "28ceda9d-0944-4a1a-8e1b-5542b68fa274"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },

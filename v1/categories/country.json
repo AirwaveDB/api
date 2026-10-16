@@ -1,6 +1,6 @@
 {
   "id": "country",
-  "stationCount": 775,
+  "stationCount": 776,
   "stations": [
     {
       "id": "awb_29e9a4a80266c36730df",
@@ -2932,8 +2932,8 @@
           "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
           "country": "AU",
           "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -2943,7 +2943,7 @@
             "3de0ed72-b752-41df-99f9-26c5d95befe1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -4858,7 +4858,7 @@
       "id": "awb_2b7b7954faeaf86005a4",
       "name": "Rádio Cambirela - Virtual,mas real.",
       "country": "BR",
-      "subdivision": "Santa Catarina,SC",
+      "subdivision": "Santa Catarina, SC",
       "languages": [],
       "categories": [
         "country",
@@ -14420,6 +14420,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T20:54:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6291909d10f7f7dc3a6c",
+      "name": "K-SUN66 - THE RIVER",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "country",
+        "folk"
+      ],
+      "tags": [
+        "country",
+        "folk"
+      ],
+      "homepage": "https://www.ksun66.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:59:28Z",
+      "streams": [
+        {
+          "id": "aws_3a49998272ce22ac270f",
+          "stationId": "awb_6291909d10f7f7dc3a6c",
+          "name": "K-SUN66 - THE RIVER",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/ghuzk7au2gruv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "adc0e7c9-e586-4ab2-956a-11e40e7d2f59"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },

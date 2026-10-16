@@ -1,7 +1,7 @@
 {
   "code": "hin",
   "canonicalCode": "hi",
-  "stationCount": 402,
+  "stationCount": 403,
   "stations": [
     {
       "id": "awb_63261574c5ec040bacdc",
@@ -14527,6 +14527,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:45:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f761418b510b7e15c0ce",
+      "name": "Mantra Radio",
+      "country": "LT",
+      "subdivision": "Vilnius",
+      "languages": [
+        "hi"
+      ],
+      "categories": [
+        "ambient",
+        "religious"
+      ],
+      "tags": [
+        "meditation",
+        "religious"
+      ],
+      "homepage": "https://mantraradio.eu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:32:10Z",
+      "streams": [
+        {
+          "id": "aws_6c171a1ed9cdcd92aa4d",
+          "stationId": "awb_f761418b510b7e15c0ce",
+          "name": "Mantra Radio",
+          "country": "LT",
+          "url": "https://whsh4u-panel.com/proxy/gsedemag?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "74b5fceb-7023-4c47-b1f9-4ef15a17f398"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },

@@ -212,6 +212,49 @@
       }
     ]
   },
+  "awb_0c03278a14c6beba7f06": {
+    "id": "awb_0c03278a14c6beba7f06",
+    "name": "Rádio Marginal",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://marginal.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z",
+    "streams": [
+      {
+        "id": "aws_28171471a5c718898bbe",
+        "stationId": "awb_0c03278a14c6beba7f06",
+        "name": "Rádio Marginal",
+        "country": "AO",
+        "url": "https://stream-radio-marginal-by.newsgen.io/rmlive.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0a808a43-8a6b-4342-8cae-662714f7bcab"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_0c408ad2dbd0aa3fad44": {
     "id": "awb_0c408ad2dbd0aa3fad44",
     "name": "Blend Radio",
@@ -9424,6 +9467,52 @@
       }
     ]
   },
+  "awb_0ce031f4a432443fb4ce": {
+    "id": "awb_0ce031f4a432443fb4ce",
+    "name": "The Adventures of Philip Marlowe (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1940s",
+      "1950s",
+      "detective",
+      "mystery",
+      "noir",
+      "old time radio",
+      "otr",
+      "radio drama"
+    ],
+    "homepage": "https://stupidpotato.com/philip-marlowe/",
+    "favicon": "https://stupidpotato.com/philip-marlowe/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:23:41Z",
+    "streams": [
+      {
+        "id": "aws_53289805335cd48b9391",
+        "stationId": "awb_0ce031f4a432443fb4ce",
+        "name": "The Adventures of Philip Marlowe (radio) | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/philip-marlowe/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bd089c10-1777-4e01-a35e-32cf915dbed4"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
+      }
+    ]
+  },
   "awb_0cc217cd13092282c53c": {
     "id": "awb_0cc217cd13092282c53c",
     "name": "WBCQ Area 51",
@@ -9675,8 +9764,8 @@
         "name": "WLBH 88.3 Greenville, South Carolina - Listen & Be Heard Radio",
         "country": "US",
         "url": "https://stream.radio.co/sd3eca376a/listen",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -9686,7 +9775,7 @@
           "71bc252e-e14e-4c95-95fd-81446c4fd28f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       }
     ]
   },

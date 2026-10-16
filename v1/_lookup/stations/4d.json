@@ -124,6 +124,49 @@
       }
     ]
   },
+  "awb_4d4e02b78b7eecb0babe": {
+    "id": "awb_4d4e02b78b7eecb0babe",
+    "name": "RNA Canal Internacional",
+    "country": "AO",
+    "subdivision": "Cazenga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:34:29Z",
+    "streams": [
+      {
+        "id": "aws_9e0aac736de87b8f8c1d",
+        "stationId": "awb_4d4e02b78b7eecb0babe",
+        "name": "RNA Canal Internacional",
+        "country": "AO",
+        "url": "https://live.paineldj.com.br/proxy/rnangola?mp=/stream",
+        "codec": "aac",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9f4f7464-4509-4dbc-90f4-97ce4fcdd89d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_4d5c90a3966f85b46e9f": {
     "id": "awb_4d5c90a3966f85b46e9f",
     "name": "Concierto FM 94.7",
@@ -4167,7 +4210,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Kozani",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -5465,6 +5508,90 @@
       }
     ]
   },
+  "awb_4d6a00f9c431cbd32902": {
+    "id": "awb_4d6a00f9c431cbd32902",
+    "name": "Radijo stotis M-1",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "languages": [],
+    "categories": [
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "pop",
+      "talk",
+      "top 40"
+    ],
+    "homepage": "https://m-1.15min.lt/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:22:40Z",
+    "streams": [
+      {
+        "id": "aws_874ee52773f6be18689b",
+        "stationId": "awb_4d6a00f9c431cbd32902",
+        "name": "Radijo stotis M-1",
+        "country": "LT",
+        "url": "https://stream.m-1.fm/m1/aacp64",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c8bc598e-5783-4e43-9aaa-6ae4153b490d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
+  "awb_4d8ea7298a80cec98f24": {
+    "id": "awb_4d8ea7298a80cec98f24",
+    "name": "European Hit Radio - Top 40 RU",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:03:45Z",
+    "streams": [
+      {
+        "id": "aws_5ba1df960847e76817de",
+        "stationId": "awb_4d8ea7298a80cec98f24",
+        "name": "European Hit Radio - Top 40 RU",
+        "country": "LV",
+        "url": "https://stream.ehrhiti.lv:8000/Stream_33.aac",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "12d858ab-95f3-4d56-9fa4-5e638677ff75"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_4da1fda7ccdaf554df34": {
     "id": "awb_4da1fda7ccdaf554df34",
     "name": "106.1 La Ranchera (Aguascalientes) - 106.1 FM - XHLTZ-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes",
@@ -6057,6 +6184,46 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:43:25Z"
+      }
+    ]
+  },
+  "awb_4d5298b953cbdee68e85": {
+    "id": "awb_4d5298b953cbdee68e85",
+    "name": "Classic Replay Radio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "classic",
+      "funk. oldies"
+    ],
+    "homepage": "http://www.classicreplay.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T19:27:04Z",
+    "streams": [
+      {
+        "id": "aws_f2d221f656031b01eeab",
+        "stationId": "awb_4d5298b953cbdee68e85",
+        "name": "Classic Replay Radio",
+        "country": "NL",
+        "url": "http://135.181.165.48:8019/stream",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c52eb9d5-e95b-475d-830f-6a69f6b91fb6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:19Z"
       }
     ]
   },

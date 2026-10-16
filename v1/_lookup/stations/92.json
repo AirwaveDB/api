@@ -4539,6 +4539,49 @@
       }
     ]
   },
+  "awb_92760e38f73048ab061e": {
+    "id": "awb_92760e38f73048ab061e",
+    "name": "zzz-rock-zzz",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "hard rock",
+      "rock"
+    ],
+    "homepage": "http://www.zzz-rock-zzz.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:26:26Z",
+    "streams": [
+      {
+        "id": "aws_9a8a6189102f9455ddab",
+        "stationId": "awb_92760e38f73048ab061e",
+        "name": "zzz-rock-zzz",
+        "country": "LT",
+        "url": "https://play.radioking.io/zzz-rock-zzz",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b3fc8944-1a27-46ec-a446-ca960d88a13a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_92a5c8ca34ee24ed9f8b": {
     "id": "awb_92a5c8ca34ee24ed9f8b",
     "name": "RTL Today",
@@ -4575,6 +4618,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T03:01:47Z"
+      }
+    ]
+  },
+  "awb_92b96caef52c550dfabd": {
+    "id": "awb_92b96caef52c550dfabd",
+    "name": "European Hit Radio - KOOL hits",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.ehr.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z",
+    "streams": [
+      {
+        "id": "aws_f80a0277c292d77beebf",
+        "stationId": "awb_92b96caef52c550dfabd",
+        "name": "European Hit Radio - KOOL hits",
+        "country": "LV",
+        "url": "https://25583.live.streamtheworld.com/EHR_KOOLAAC.aac",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6cbca51b-6511-4f23-b2e0-95b04107534b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "code": "PE",
-  "stationCount": 311,
-  "streamCount": 323,
+  "stationCount": 312,
+  "streamCount": 324,
   "stations": [
     {
       "id": "awb_01435f32a9e8f2b6b6ac",
@@ -5942,6 +5942,47 @@
       ]
     },
     {
+      "id": "awb_ed05c2c80d96fd5e25d0",
+      "name": "Radio Disney Peru",
+      "country": "PE",
+      "subdivision": "Lima",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://pe.radiodisney.com/",
+      "favicon": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Radio_Disney_Latin_America.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T00:38:14Z",
+      "streams": [
+        {
+          "id": "aws_7f114fe14ebdb9ecdec1",
+          "stationId": "awb_ed05c2c80d96fd5e25d0",
+          "name": "Radio Disney Peru",
+          "country": "PE",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "27c39f9c-b402-4452-a0cf-f11834c378aa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_9eb76bab275bec313899",
       "name": "Radio El Patron 95.7 FM - Cajamarca, San Miguel",
       "country": "PE",
@@ -10999,9 +11040,9 @@
     },
     {
       "id": "awb_4b79688d257d9ed6a2ab",
-      "name": "Radio TV. Sureña - Puno, Juliaca",
+      "name": "Radio TV. Sureña (Puno, Juliaca)",
       "country": "PE",
-      "subdivision": "Juliaca - Puno",
+      "subdivision": "Puno / Juliaca",
       "languages": [],
       "categories": [],
       "tags": [],

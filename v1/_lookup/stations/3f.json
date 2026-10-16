@@ -244,6 +244,49 @@
       }
     ]
   },
+  "awb_3f268968afa11a5cd020": {
+    "id": "awb_3f268968afa11a5cd020",
+    "name": "Euronews Albania Radio",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://euronews.al/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:34:10Z",
+    "streams": [
+      {
+        "id": "aws_39db9ec43d48abce2e42",
+        "stationId": "awb_3f268968afa11a5cd020",
+        "name": "Euronews Albania Radio",
+        "country": "AL",
+        "url": "http://80.90.86.194:1935/live/inradio/playlist.m3u8",
+        "codec": "unknown",
+        "bitrate": 1995,
+        "protocol": "http",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "cdad92e5-3745-4889-a433-8e86efa97602"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_3f9bdfccd2836d4c5a4b": {
     "id": "awb_3f9bdfccd2836d4c5a4b",
     "name": "Classique",
@@ -5321,6 +5364,47 @@
       }
     ]
   },
+  "awb_3f912881f09ee18fcbe8": {
+    "id": "awb_3f912881f09ee18fcbe8",
+    "name": "Relax FM",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "languages": [
+      "lt"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://relaxfm.lt/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:22:22Z",
+    "streams": [
+      {
+        "id": "aws_12395e046d78c27bd8b5",
+        "stationId": "awb_3f912881f09ee18fcbe8",
+        "name": "Relax FM",
+        "country": "LT",
+        "url": "https://stream4.radijas.lt/relaxfm",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1bfb11ef-ff8d-4059-a604-21b3d47703d2"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_3f924970db0eafba85e2": {
     "id": "awb_3f924970db0eafba85e2",
     "name": "Mag radio",
@@ -9529,7 +9613,7 @@
   },
   "awb_3ff2d0f0a937c7b4f11a": {
     "id": "awb_3ff2d0f0a937c7b4f11a",
-    "name": "ANTENNE THÜRINGEN YESTERHITS",
+    "name": "Antenne Thüringen Yesterhits",
     "country": "ZZ",
     "subdivision": null,
     "languages": [],

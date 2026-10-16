@@ -116,6 +116,49 @@
       }
     ]
   },
+  "awb_fa94b3963488f36157de": {
+    "id": "awb_fa94b3963488f36157de",
+    "name": "Rádio Malange",
+    "country": "AO",
+    "subdivision": "Malanje",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-malange/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z",
+    "streams": [
+      {
+        "id": "aws_49a30656a6324eb471a3",
+        "stationId": "awb_fa94b3963488f36157de",
+        "name": "Rádio Malange",
+        "country": "AO",
+        "url": "https://paineldj6.com.br:20116/stream",
+        "codec": "aac",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7419b750-e3bf-4408-a3cc-3f5f21dadcfd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:19Z"
+      }
+    ]
+  },
   "awb_fad4a8cf69827036d474": {
     "id": "awb_fad4a8cf69827036d474",
     "name": "d-Sports radio",
@@ -4928,6 +4971,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T13:47:37Z"
+      }
+    ]
+  },
+  "awb_fad646e55756ef991edd": {
+    "id": "awb_fad646e55756ef991edd",
+    "name": "Dance Station Radio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "drum bass",
+      "electronic",
+      "house",
+      "trance"
+    ],
+    "homepage": "https://www.dsradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:04Z",
+    "streams": [
+      {
+        "id": "aws_b953c62ebb18b3ae5528",
+        "stationId": "awb_fad646e55756ef991edd",
+        "name": "Dance Station Radio",
+        "country": "LV",
+        "url": "https://myradio24.org/97045",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fa923138-efdf-4042-b5f3-d75edfe801b3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

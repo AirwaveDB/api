@@ -1,6 +1,6 @@
 {
   "code": "ru",
-  "stationCount": 1521,
+  "stationCount": 1542,
   "stations": [
     {
       "id": "awb_08a84e7502607c0b2990",
@@ -3085,6 +3085,49 @@
       ]
     },
     {
+      "id": "awb_1d07111cc696ba149368",
+      "name": "Radio Maximum",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "adult contemporary",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://radiomaximum.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:34:29Z",
+      "streams": [
+        {
+          "id": "aws_532a85c644a2217f532d",
+          "stationId": "awb_1d07111cc696ba149368",
+          "name": "Radio Maximum",
+          "country": "EE",
+          "url": "https://stream.radiomaximum.ee/stream",
+          "codec": "aac",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8c877ce7-0f67-4806-960d-8805664b16bd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a1dcaa3c0c9c88c77f02",
       "name": "Semeinoje Radio",
       "country": "EE",
@@ -3207,6 +3250,133 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:24:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7da5f2cf3f82f8f417e3",
+      "name": "Super Ретро",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "retro"
+      ],
+      "homepage": "https://superradio.sky.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:28:39Z",
+      "streams": [
+        {
+          "id": "aws_22e2c02deb2d2a2dcdf7",
+          "stationId": "awb_7da5f2cf3f82f8f417e3",
+          "name": "Super Ретро",
+          "country": "EE",
+          "url": "https://stream.skymedia.ee/live/rrretro",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4500023c-8d14-4a1e-8913-a405c58ab6ed"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_8a81ba44c7a8ffc8edd0",
+      "name": "Super Рок",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "homepage": "https://super.radio/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:00:04Z",
+      "streams": [
+        {
+          "id": "aws_6d35d3c9810b06f42ebf",
+          "stationId": "awb_8a81ba44c7a8ffc8edd0",
+          "name": "Super Рок",
+          "country": "EE",
+          "url": "https://stream.skymedia.ee/live/rrock",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8f5a0564-651e-40cc-9740-a2e98d795d9d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e5d33638a13c0945bfde",
+      "name": "Пирамида FM",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "adult contemporary",
+        "hits",
+        "pop"
+      ],
+      "homepage": "https://piramidafm.tilda.ws/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:49:33Z",
+      "streams": [
+        {
+          "id": "aws_da4680cbc4030e0c850c",
+          "stationId": "awb_e5d33638a13c0945bfde",
+          "name": "Пирамида FM",
+          "country": "EE",
+          "url": "https://myradio24.org/93928",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2ce7678c-04cb-4821-a75d-132c8d4280c2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -5316,6 +5486,50 @@
       ]
     },
     {
+      "id": "awb_e7e74686cfb0bb28d3eb",
+      "name": "RADIOR ENERGY",
+      "country": "LT",
+      "subdivision": "Vilnius",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "club",
+        "dance",
+        "hits",
+        "pop"
+      ],
+      "homepage": "https://radior.lt/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:32:10Z",
+      "streams": [
+        {
+          "id": "aws_c5bbccdb7ee50ce8d6d6",
+          "stationId": "awb_e7e74686cfb0bb28d3eb",
+          "name": "RADIOR ENERGY",
+          "country": "LT",
+          "url": "https://klausyk.radijas.lt/listen/energy/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "46e7396c-cdfd-4890-adc8-5497ad6b25d1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_3a3d194abc29b73c51dc",
       "name": "Радио RDTK",
       "country": "LT",
@@ -5356,6 +5570,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:56:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_475670a5c594744b5d6f",
+      "name": "Радио Лента",
+      "country": "LT",
+      "subdivision": "Kaunas",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "talk"
+      ],
+      "homepage": "https://worldreport.today/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:34:02Z",
+      "streams": [
+        {
+          "id": "aws_1ad6b1dad539b0381e5e",
+          "stationId": "awb_475670a5c594744b5d6f",
+          "name": "Радио Лента",
+          "country": "LT",
+          "url": "https://stream1.unknownclient.com/radio-lenta.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "00f8e948-44c2-43e6-af1b-b9a66ef5bcdf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },
@@ -5438,6 +5695,172 @@
       ]
     },
     {
+      "id": "awb_ea4cc0b2a5dce813ba41",
+      "name": "Dunaburg FM",
+      "country": "LV",
+      "subdivision": "Daugavpils",
+      "languages": [
+        "ru"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://dunaburgfm.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:47:53Z",
+      "streams": [
+        {
+          "id": "aws_0467381014a264b05850",
+          "stationId": "awb_ea4cc0b2a5dce813ba41",
+          "name": "Dunaburg FM",
+          "country": "LV",
+          "url": "https://dunaburgfm.s02.radio-tochka.com:1345/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d4adbecc-e208-4e97-bff8-ccbbb8504af7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bebc889d019a96002352",
+      "name": "EHR+ RU Remixes",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://www.ehr.fm/online-radio/ru-remixes",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:48:51Z",
+      "streams": [
+        {
+          "id": "aws_67e10078d3665d134a7d",
+          "stationId": "awb_bebc889d019a96002352",
+          "name": "EHR+ RU Remixes",
+          "country": "LV",
+          "url": "https://stream.ehrhiti.lv:8000/Stream_35.aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "304c26de-4715-44de-a173-2f5f1290358f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_af12b9df545df1cb96b6",
+      "name": "EHR+ RU Top 40",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://www.ehr.fm/online-radio/ru-top-40",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:46:36Z",
+      "streams": [
+        {
+          "id": "aws_1011553b61a65c1f3195",
+          "stationId": "awb_af12b9df545df1cb96b6",
+          "name": "EHR+ RU Top 40",
+          "country": "LV",
+          "url": "https://23543.live.streamtheworld.com/EHR_RU_TOP_40AAC.aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "90dbd48c-cddb-429f-b145-89f7a4fa0684"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_33b1267ad98f3ec7ef5f",
+      "name": "eNJOY Radio Latvia",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://www.njoyradio.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:08:55Z",
+      "streams": [
+        {
+          "id": "aws_01cf562333f18262a4bb",
+          "stationId": "awb_33b1267ad98f3ec7ef5f",
+          "name": "eNJOY Radio Latvia",
+          "country": "LV",
+          "url": "https://live.njoyradio.lv/01",
+          "codec": "aac",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f79ab61a-fbe0-42bc-bbe6-ef98cdba8fa3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_904511bcac9ba560ed5c",
       "name": "European Hit Radio - Russkie Hiti",
       "country": "LV",
@@ -5476,6 +5899,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:13:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4d8ea7298a80cec98f24",
+      "name": "European Hit Radio - Top 40 RU",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://www.ehr.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:03:45Z",
+      "streams": [
+        {
+          "id": "aws_5ba1df960847e76817de",
+          "stationId": "awb_4d8ea7298a80cec98f24",
+          "name": "European Hit Radio - Top 40 RU",
+          "country": "LV",
+          "url": "https://stream.ehrhiti.lv:8000/Stream_33.aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "12d858ab-95f3-4d56-9fa4-5e638677ff75"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },
@@ -5569,6 +6034,92 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:41:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_37e41931387cfc2e08b7",
+      "name": "Power FM",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://www.powerfm.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:00:04Z",
+      "streams": [
+        {
+          "id": "aws_72170238178529e905a6",
+          "stationId": "awb_37e41931387cfc2e08b7",
+          "name": "Power FM",
+          "country": "LV",
+          "url": "https://radio.powerfm.lv:1095/stream",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ef224677-8221-49ff-94b1-6b5a05c36e33"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_13c282ba96aaa29e9fb1",
+      "name": "Radio Energy - Russian Radio",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "adult contemporary",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "http://www.radioenergy.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:46:50Z",
+      "streams": [
+        {
+          "id": "aws_bce7336634d5a52f754b",
+          "stationId": "awb_13c282ba96aaa29e9fb1",
+          "name": "Radio Energy - Russian Radio",
+          "country": "LV",
+          "url": "http://radioenergy.lv:9000/;stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4c210ed0-6d05-48c6-baa1-1ef0200bf49f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -5729,6 +6280,53 @@
       ]
     },
     {
+      "id": "awb_df56d6f8af937b5b9747",
+      "name": "Retro FM 90's",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "disco",
+        "oldies",
+        "pop",
+        "retro",
+        "rock"
+      ],
+      "homepage": "https://retrofm.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:58:05Z",
+      "streams": [
+        {
+          "id": "aws_e13658a584437ed1804d",
+          "stationId": "awb_df56d6f8af937b5b9747",
+          "name": "Retro FM 90's",
+          "country": "LV",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETRO_LATVIJA_FM_70_80_90SAAC.aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3ef1104f-2563-4aed-b97b-3453d89dc02b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7921ec84f3d7712d8bca",
       "name": "TOP radio",
       "country": "LV",
@@ -5776,6 +6374,178 @@
       ]
     },
     {
+      "id": "awb_98474a40d552e5bbc697",
+      "name": "Xradio",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://xradio.vip/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:48:51Z",
+      "streams": [
+        {
+          "id": "aws_c0e9c66671950617ceeb",
+          "stationId": "awb_98474a40d552e5bbc697",
+          "name": "Xradio",
+          "country": "LV",
+          "url": "https://radio.xradio.vip/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4bc5baba-1954-4910-aea7-8ae371f039b4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5f22075f90723b7c02d1",
+      "name": "Авторадио Дискотека 80-х",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "disco",
+        "pop"
+      ],
+      "homepage": "https://www.avtoradio.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:05:00Z",
+      "streams": [
+        {
+          "id": "aws_4f32d737e8d48617ea4d",
+          "stationId": "awb_5f22075f90723b7c02d1",
+          "name": "Авторадио Дискотека 80-х",
+          "country": "LV",
+          "url": "https://my.radioprocessor.com:8100/avtoradiolv-disco80s-48.aac",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0a274f0d-e00d-48f5-b207-02ada2d2b7a0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2431086d7166e13cecad",
+      "name": "Авторадио для тех, кто в пути",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "pop"
+      ],
+      "homepage": "https://www.avtoradio.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:14:54Z",
+      "streams": [
+        {
+          "id": "aws_fdbf3c278ac175e21d1e",
+          "stationId": "awb_2431086d7166e13cecad",
+          "name": "Авторадио для тех, кто в пути",
+          "country": "LV",
+          "url": "https://my.radioprocessor.com:8100/avtoradiolv-forthoseonthego-48.aac",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "56f934e9-a539-475b-b28a-499882f8da0c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_19c1da42208f2450bd4d",
+      "name": "Авторадио КиноМузыка",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "instrumental",
+        "pop",
+        "soundtrack"
+      ],
+      "homepage": "https://www.avtoradio.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:00:04Z",
+      "streams": [
+        {
+          "id": "aws_4e6a3f937b98909ad28a",
+          "stationId": "awb_19c1da42208f2450bd4d",
+          "name": "Авторадио КиноМузыка",
+          "country": "LV",
+          "url": "https://my.radioprocessor.com:8100/avtoradiolv-cinemaussr-48.aacp",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fbf48371-5ade-4b8b-ab17-2b961f873475"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
       "id": "awb_df9100d429102fa80189",
       "name": "Авторадио Латвия",
       "country": "LV",
@@ -5815,6 +6585,132 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T05:19:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fdce13998dcd979d732e",
+      "name": "Авторадио на Бис",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "pop"
+      ],
+      "homepage": "https://www.avtoradio.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:00:05Z",
+      "streams": [
+        {
+          "id": "aws_8414dbb1cc62b761a258",
+          "stationId": "awb_fdce13998dcd979d732e",
+          "name": "Авторадио на Бис",
+          "country": "LV",
+          "url": "https://my.radioprocessor.com:8100/avtoradiolv-encore-48.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "89fc08e6-a0a9-4d78-9e5f-6bd60590931b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_7a1e3d7e68f027037e7f",
+      "name": "Авторадио Ностальгия",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies",
+        "retro"
+      ],
+      "homepage": "https://www.avtoradio.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:46:08Z",
+      "streams": [
+        {
+          "id": "aws_58f89bbac473e1e3466e",
+          "stationId": "awb_7a1e3d7e68f027037e7f",
+          "name": "Авторадио Ностальгия",
+          "country": "LV",
+          "url": "http://my.radioprocessor.com:8100/avtoradiolv-nostalgia-48.aac",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "07175f59-54a2-4d2e-ac46-14b992463c21"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f9b167cb246f028f5461",
+      "name": "Авторадио Романтика",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "romantic"
+      ],
+      "homepage": "https://www.avtoradio.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:52:16Z",
+      "streams": [
+        {
+          "id": "aws_6653841f6612c757f352",
+          "stationId": "awb_f9b167cb246f028f5461",
+          "name": "Авторадио Романтика",
+          "country": "LV",
+          "url": "https://my.radioprocessor.com:8100/avtoradiolv-48.aac",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b56c81ef-8bf7-4aa2-8d96-0e24332a1597"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },
@@ -6358,7 +7254,7 @@
         "rollers"
       ],
       "homepage": "https://res.ad/",
-      "favicon": "https://res.ad/icon.png",
+      "favicon": "https://res.lirz.ru/static/uploads/album_art.1774984293.png",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-10-13T16:58:37Z",
@@ -11148,7 +12044,7 @@
         "house"
       ],
       "homepage": "https://kamchatkalive.ru/",
-      "favicon": "https://kamchatkalive.ru/img/dance.jpg",
+      "favicon": "https://kamchatkalive.ru/img/house.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-12T11:07:02Z",
@@ -33503,8 +34399,8 @@
           "name": "Wow Music Шансон",
           "country": "RU",
           "url": "https://stream.vyshka24.ru/wowshanson",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -33514,7 +34410,7 @@
             "22663671-98af-49cf-87c8-17b1b59f4666"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         }
       ]
     },

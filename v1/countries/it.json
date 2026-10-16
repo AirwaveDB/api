@@ -1,7 +1,7 @@
 {
   "code": "IT",
-  "stationCount": 1558,
-  "streamCount": 1686,
+  "stationCount": 1563,
+  "streamCount": 1691,
   "stations": [
     {
       "id": "awb_0ed3d64a4b60b4c3873d",
@@ -5248,6 +5248,41 @@
       ]
     },
     {
+      "id": "awb_021599e7d000feb025f2",
+      "name": "Dyno Dance",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.dynodance.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T16:16:14Z",
+      "streams": [
+        {
+          "id": "aws_cedf3b97fc62dba5360a",
+          "stationId": "awb_021599e7d000feb025f2",
+          "name": "Dyno Dance",
+          "country": "IT",
+          "url": "https://stream.dynodance.com/stream/dynodance/stream_low",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d97d6e34-41ad-4e1a-905c-5ac7807a04a3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
+        }
+      ]
+    },
+    {
       "id": "awb_428f74e6136e9bb3471d",
       "name": "easy and italy",
       "country": "IT",
@@ -6047,6 +6082,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:33:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3206264aeb918aea41fc",
+      "name": "Flash Mania Abruzzo",
+      "country": "IT",
+      "subdivision": "Abruzzo",
+      "languages": [
+        "it"
+      ],
+      "categories": [],
+      "tags": [
+        "dance"
+      ],
+      "homepage": "https://stream.zeno.fm/d4v6zngvxzftv",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:22:42Z",
+      "streams": [
+        {
+          "id": "aws_4592d7bc5977ce9f5bf3",
+          "stationId": "awb_3206264aeb918aea41fc",
+          "name": "Flash Mania Abruzzo",
+          "country": "IT",
+          "url": "https://stream.zeno.fm/d4v6zngvxzftv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "256e5d2a-df2c-4482-a3a9-36cf32fd216d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },
@@ -11596,6 +11670,41 @@
       ]
     },
     {
+      "id": "awb_a3bb157005f40a6ee74f",
+      "name": "Lolli Dance",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://lolliradio.net/dance/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T16:13:55Z",
+      "streams": [
+        {
+          "id": "aws_643bfd019c3b9f2e2705",
+          "stationId": "awb_a3bb157005f40a6ee74f",
+          "name": "Lolli Dance",
+          "country": "IT",
+          "url": "https://stream.lolliradio.net/lolli_dance.mp3?FLID=8&amp;aw_0_req.gdpr=true&amp;type=.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3187d85f-7291-488a-a9b7-4684c4c8efac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_11321715d1a36bfea894",
       "name": "Lolli Radio Dance",
       "country": "IT",
@@ -14110,6 +14219,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T05:08:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ae46cdb3334fd4714b0a",
+      "name": "MyCR ONE",
+      "country": "IT",
+      "subdivision": "Lazio",
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "ambient",
+        "jazz",
+        "pop"
+      ],
+      "tags": [
+        "business",
+        "commercial-free",
+        "corporate",
+        "italy",
+        "jazz",
+        "lounge",
+        "pop"
+      ],
+      "homepage": "https://www.mycorporateradio.com/one",
+      "favicon": "https://www.mycorporateradio.com/assets/one/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T19:17:23Z",
+      "streams": [
+        {
+          "id": "aws_701b3bb4497355f9ffce",
+          "stationId": "awb_ae46cdb3334fd4714b0a",
+          "name": "MyCR ONE",
+          "country": "IT",
+          "url": "https://locali.mycorporateradio.com/stream/mycr_one.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c033bf76-7845-4d3d-b48e-d6711514d8f3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -55831,6 +55989,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:44:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_11ab40cc55b8779b4047",
+      "name": "rcuno",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "hits",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "homepage": "http://rcuno.altervista.org/",
+      "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/RCUNO1.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-15T15:59:50Z",
+      "streams": [
+        {
+          "id": "aws_76ef71caef1e5ed1114a",
+          "stationId": "awb_11ab40cc55b8779b4047",
+          "name": "RCUNO",
+          "country": "IT",
+          "url": "https://stream.laut.fm/radiocoveruno",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "788769cb-2465-45f3-aa5d-4ad5ab33d37d",
+            "aa16bef0-6a20-4a85-abd6-d14397aabfa4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

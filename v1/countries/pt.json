@@ -2693,41 +2693,6 @@
       ]
     },
     {
-      "id": "awb_3dc50f777f67a19f639c",
-      "name": "Hellgate",
-      "country": "PT",
-      "subdivision": null,
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://hellgate-web.duckdns.org/index.html",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-14T14:37:11Z",
-      "streams": [
-        {
-          "id": "aws_65ba353b90eaaf6878bd",
-          "stationId": "awb_3dc50f777f67a19f639c",
-          "name": "Hellgate",
-          "country": "PT",
-          "url": "https://hellgate-radio.duckdns.org/",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "72dba9b4-97e9-4079-9251-e1fd0300b5e5"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
       "id": "awb_28f7e141fe765a782faa",
       "name": "Hiper FM",
       "country": "PT",
@@ -10131,6 +10096,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:46:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5eeb32054b3eca9c8b20",
+      "name": "Radio QUÂNTICA",
+      "country": "PT",
+      "subdivision": "Lisbon",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "community",
+        "electronic"
+      ],
+      "tags": [
+        "community",
+        "electronic",
+        "independent"
+      ],
+      "homepage": "https://www.radioquantica.com/",
+      "favicon": "https://unify-fm-bucket.s3.amazonaws.com/521fe997332647c8934b2d54146d0f57.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T07:52:56Z",
+      "streams": [
+        {
+          "id": "aws_036c015964db318bed3a",
+          "stationId": "awb_5eeb32054b3eca9c8b20",
+          "name": "Radio QUÂNTICA",
+          "country": "PT",
+          "url": "https://libretime.radioquantica.com/main.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dd90d5dd-2ab8-461f-a03d-fac11006bd3c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

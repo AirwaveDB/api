@@ -259,6 +259,52 @@
       }
     ]
   },
+  "awb_b96734766397b2412554": {
+    "id": "awb_b96734766397b2412554",
+    "name": "Radio Emanuel",
+    "country": "AL",
+    "subdivision": "Korçë",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "news",
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://emanuelradio.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:55:44Z",
+    "streams": [
+      {
+        "id": "aws_01f7b9a7486f604cc133",
+        "stationId": "awb_b96734766397b2412554",
+        "name": "Radio Emanuel",
+        "country": "AL",
+        "url": "https://cp1.sednastream.com/proxy/radioemanuel/stream",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1d035380-686a-4418-8ec1-e62dcf41f9bc"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_b93bc33da8ce45b5dc30": {
     "id": "awb_b93bc33da8ce45b5dc30",
     "name": "Delta 90.3 Buenos Aires",
@@ -8711,6 +8757,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T15:41:31Z"
+      }
+    ]
+  },
+  "awb_b979d05e8e810b344746": {
+    "id": "awb_b979d05e8e810b344746",
+    "name": "RTVRadio Top1000",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rtvradio.50webs.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T19:34:34Z",
+    "streams": [
+      {
+        "id": "aws_528567795d8d945f5174",
+        "stationId": "awb_b979d05e8e810b344746",
+        "name": "RTVRadio Top1000",
+        "country": "US",
+        "url": "http://rtvradio.sytes.net:8000/top",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "45fb26b3-b670-434d-bb8b-501105290dd2"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

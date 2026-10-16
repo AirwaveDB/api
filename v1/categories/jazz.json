@@ -1,6 +1,6 @@
 {
   "id": "jazz",
-  "stationCount": 1329,
+  "stationCount": 1343,
   "stations": [
     {
       "id": "awb_8ab5f415f8fd2ea4a774",
@@ -1664,6 +1664,91 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:39:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_98b54bbe405d2f1379c7",
+      "name": "Juvenilja Radio",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "jazz",
+        "pop"
+      ],
+      "tags": [
+        "jazz",
+        "pop"
+      ],
+      "homepage": "https://www.juvenilja.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:45:32Z",
+      "streams": [
+        {
+          "id": "aws_7563581cd9a706347143",
+          "stationId": "awb_98b54bbe405d2f1379c7",
+          "name": "Juvenilja Radio",
+          "country": "AL",
+          "url": "http://37.27.204.229/juvr",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "12e1505e-886d-4085-af77-3aa4f8a98b49"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8f7f96ae7d2cd6e4d4ff",
+      "name": "Radio Tirana Jazz",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "homepage": "https://www.rtsh.al/radio-tirana-jazz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:37:05Z",
+      "streams": [
+        {
+          "id": "aws_e4ec80671cc7885754ab",
+          "stationId": "awb_8f7f96ae7d2cd6e4d4ff",
+          "name": "Radio Tirana Jazz",
+          "country": "AL",
+          "url": "http://79.106.48.2:8000/radiotiranajazz",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "79e8f1fa-a1cc-46af-8f0c-c1da6d8303d7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -8355,7 +8440,7 @@
       "id": "awb_84f94cc037b298681456",
       "name": "Stingray Smoot Jazz",
       "country": "CA",
-      "subdivision": "Toronto, ON",
+      "subdivision": "Toronto",
       "languages": [],
       "categories": [
         "jazz"
@@ -8364,7 +8449,7 @@
         "jazz",
         "smooth jazz"
       ],
-      "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+      "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
       "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
       "type": null,
       "sourceCount": 3,
@@ -12452,7 +12537,7 @@
       "id": "awb_9f6c026e52f2cc2ab155",
       "name": "as.if.radio",
       "country": "DE",
-      "subdivision": "North Rhine-Westphalia",
+      "subdivision": "Cologne",
       "languages": [
         "de",
         "en"
@@ -12486,7 +12571,7 @@
         "werbefrei"
       ],
       "homepage": "https://www.as-if-radio.com/",
-      "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+      "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-04T14:43:37Z",
@@ -18979,8 +19064,8 @@
           "name": "Radio Deck 1",
           "country": "DE",
           "url": "https://rde1.de/320",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -18990,7 +19075,7 @@
             "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -19035,8 +19120,8 @@
           "name": "Radio Deck 1 Hamburg",
           "country": "DE",
           "url": "https://rde1.de/192",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -19046,7 +19131,7 @@
             "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -21010,6 +21095,138 @@
       ]
     },
     {
+      "id": "awb_e57c29480ee38db123e3",
+      "name": "Jow Radio - Jow Jazz",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:57:37Z",
+      "streams": [
+        {
+          "id": "aws_d13a74b67c9fb2e487bb",
+          "stationId": "awb_e57c29480ee38db123e3",
+          "name": "Jow Radio - Jow Jazz",
+          "country": "DZ",
+          "url": "https://azuracast.dataplayapps.com/listen/jow_jazz/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "40875798-3376-4ed2-9dac-e036aad81958"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c6a72ab1619ab779b972",
+      "name": "K-SUN66 - Smooth Lounge",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "adult contemporary",
+        "easy listening",
+        "smooth jazz"
+      ],
+      "homepage": "https://www.ksun66.com/thesmooth",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:09:47Z",
+      "streams": [
+        {
+          "id": "aws_a0a2929342b372edbfab",
+          "stationId": "awb_c6a72ab1619ab779b972",
+          "name": "K-SUN66 - Smooth Lounge",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/eb4h5605xhruv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fa5ba2bf-4e92-4bde-8888-6e1fa593b165"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_64da598f8046add1f849",
+      "name": "K-SUN66 - The Diner",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "jazz",
+        "oldies",
+        "pop",
+        "rock n roll"
+      ],
+      "homepage": "https://www.ksun66.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:59:28Z",
+      "streams": [
+        {
+          "id": "aws_7e3736ef89045cf07445",
+          "stationId": "awb_64da598f8046add1f849",
+          "name": "K-SUN66 - The Diner",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/hmxb7e243mruv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "28ceda9d-0944-4a1a-8e1b-5542b68fa274"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8733f1523612a77edd31",
       "name": "AiEon",
       "country": "EE",
@@ -21249,6 +21466,95 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T08:06:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b607e7d4f1bfd4e13276",
+      "name": "Relax Instrumental",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "et"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "easy listening",
+        "instrumental",
+        "jazz"
+      ],
+      "homepage": "https://relaxfm.sky.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:44:50Z",
+      "streams": [
+        {
+          "id": "aws_77de57d426bc2d1be9ec",
+          "stationId": "awb_b607e7d4f1bfd4e13276",
+          "name": "Relax Instrumental",
+          "country": "EE",
+          "url": "https://stream.relaxfm.ee/instrumental",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1ca62b19-44b3-405f-b455-b1de5854e098"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_813a7161b7abd6fc4a3b",
+      "name": "Tunitemusic",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient",
+        "classical",
+        "jazz"
+      ],
+      "tags": [
+        "ambient",
+        "chill out",
+        "classical",
+        "jazz"
+      ],
+      "homepage": "https://tunitemusic.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:48:51Z",
+      "streams": [
+        {
+          "id": "aws_b6befe7064bb0f929cd6",
+          "stationId": "awb_813a7161b7abd6fc4a3b",
+          "name": "Tunitemusic",
+          "country": "EE",
+          "url": "https://stream.radiojar.com/6x51bmzpfy3vv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c9fbea70-22ed-4f24-952f-fe1d7f713f51"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },
@@ -25094,28 +25400,9 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 9,
-      "updatedAt": "2026-10-15T07:26:14Z",
+      "sourceCount": 8,
+      "updatedAt": "2026-10-15T04:55:47Z",
       "streams": [
-        {
-          "id": "aws_e0290e3a2a295e2b56c3",
-          "stationId": "awb_e7280c1281f2949961b8",
-          "name": "France Musique",
-          "country": "FR",
-          "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7b931696-e172-4d63-9343-53a713144d69"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        },
         {
           "id": "aws_b91ebb9f0798e1f3173c",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -25161,8 +25448,8 @@
           "name": "France Musique",
           "country": "FR",
           "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -25172,7 +25459,7 @@
             "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         },
         {
           "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -37043,6 +37330,55 @@
       ]
     },
     {
+      "id": "awb_ae46cdb3334fd4714b0a",
+      "name": "MyCR ONE",
+      "country": "IT",
+      "subdivision": "Lazio",
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "ambient",
+        "jazz",
+        "pop"
+      ],
+      "tags": [
+        "business",
+        "commercial-free",
+        "corporate",
+        "italy",
+        "jazz",
+        "lounge",
+        "pop"
+      ],
+      "homepage": "https://www.mycorporateradio.com/one",
+      "favicon": "https://www.mycorporateradio.com/assets/one/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T19:17:23Z",
+      "streams": [
+        {
+          "id": "aws_701b3bb4497355f9ffce",
+          "stationId": "awb_ae46cdb3334fd4714b0a",
+          "name": "MyCR ONE",
+          "country": "IT",
+          "url": "https://locali.mycorporateradio.com/stream/mycr_one.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c033bf76-7845-4d3d-b48e-d6711514d8f3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5a3941c9e1b18cb99901",
       "name": "Napoli Lounge",
       "country": "IT",
@@ -38846,6 +39182,51 @@
       ]
     },
     {
+      "id": "awb_2ac0bb7aeedb1471d9d1",
+      "name": "Jazz FM",
+      "country": "LT",
+      "subdivision": "Vilnius",
+      "languages": [
+        "lt"
+      ],
+      "categories": [
+        "blues",
+        "jazz"
+      ],
+      "tags": [
+        "blues",
+        "funk",
+        "jazz",
+        "soul"
+      ],
+      "homepage": "https://jazzfm.lt/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:34:39Z",
+      "streams": [
+        {
+          "id": "aws_0a09f6695af29136a11a",
+          "stationId": "awb_2ac0bb7aeedb1471d9d1",
+          "name": "Jazz FM",
+          "country": "LT",
+          "url": "https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 89,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5f413f81-6d51-4dfd-841f-9e50eedd248d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_d198c5bb92e5e98fe7c9",
       "name": "Pūkas 2",
       "country": "LT",
@@ -38980,6 +39361,145 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T14:59:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2c48340a676f3cec9a8a",
+      "name": "Latvijas Radio - LR6 Naba",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "electronic",
+        "jazz",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "alternative rock",
+        "electronic",
+        "jazz",
+        "pop"
+      ],
+      "homepage": "https://www.naba.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:08:55Z",
+      "streams": [
+        {
+          "id": "aws_06087fe04971f445cf98",
+          "stationId": "awb_2c48340a676f3cec9a8a",
+          "name": "Latvijas Radio - LR6 Naba",
+          "country": "LV",
+          "url": "https://muste.latvijasradio.lv/shoutcast/mp4:naba.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "532352d4-2110-4298-822a-236955c98024"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_40971e9ae19cc7bf2b64",
+      "name": "LOUNGE FM",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "ambient",
+        "jazz"
+      ],
+      "tags": [
+        "bossa nova",
+        "chill out",
+        "downtempo",
+        "jazz",
+        "lounge"
+      ],
+      "homepage": "https://loungefm.lv/en/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:00:05Z",
+      "streams": [
+        {
+          "id": "aws_9c652e8529b374f58df1",
+          "stationId": "awb_40971e9ae19cc7bf2b64",
+          "name": "LOUNGE FM",
+          "country": "LV",
+          "url": "https://stream.loungefm.lv:8443/lounge",
+          "codec": "aac+",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c23e29c7-3f3f-413f-8593-890b0e4ff144"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9ec7c0351f4a3f0c15cd",
+      "name": "LOUNGE PRIVATE",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "ambient",
+        "jazz"
+      ],
+      "tags": [
+        "bossa nova",
+        "chill out",
+        "downtempo",
+        "jazz",
+        "lounge"
+      ],
+      "homepage": "https://loungefm.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:44:50Z",
+      "streams": [
+        {
+          "id": "aws_05695f9222c8fe6446bb",
+          "stationId": "awb_9ec7c0351f4a3f0c15cd",
+          "name": "LOUNGE PRIVATE",
+          "country": "LV",
+          "url": "https://streams.radioskonto.lv:8443/lounge-private",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1ce0e88c-8d26-41a4-bc66-8b72133daf43"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },
@@ -44357,7 +44877,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+      "favicon": "https://radiaura.net/apple-touch-icon.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -54840,6 +55360,52 @@
       ]
     },
     {
+      "id": "awb_de2a62d481f433985be0",
+      "name": "KEUL 106.9 \"The Soul Of Sacramento\" Sacramento, California",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz"
+      ],
+      "tags": [
+        "community radio",
+        "jazz",
+        "rhythm and blues",
+        "soul"
+      ],
+      "homepage": "https://www.kuelfm.com/",
+      "favicon": "https://www.kuelfm.com/android-chrome-512x512.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T04:17:05Z",
+      "streams": [
+        {
+          "id": "aws_8dba1c6d9f300e1b807b",
+          "stationId": "awb_de2a62d481f433985be0",
+          "name": "KEUL 106.9 \"The Soul Of Sacramento\" Sacramento, California",
+          "country": "US",
+          "url": "https://streaming.live365.com/a81915",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "523bc33d-f25b-4065-8105-1737ccc5a4c0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_13864778411796a555a4",
       "name": "KEXP",
       "country": "US",
@@ -60304,7 +60870,7 @@
     },
     {
       "id": "awb_dce1f737b260dec682b6",
-      "name": "The Source:Smooth Jazz Radio - KJAC.DB",
+      "name": "The Source - Smooth Jazz Radio KJAC.DB",
       "country": "US",
       "subdivision": "WA",
       "languages": [
@@ -60321,7 +60887,7 @@
         "vocal contemporary"
       ],
       "homepage": "https://www.thesourcesmoothjazzradio.com/",
-      "favicon": "https://assets.clrd.net/uploads/logos/autodj/019dadf0-f0bf-7212-a652-f5c4e0c20233/0a60605f-b500-401f-a62f-8d05b670dda4.webp",
+      "favicon": "https://www.thesourcesmoothjazzradio.com/images/favicon-32x32.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-27T21:12:09Z",
@@ -63034,8 +63600,8 @@
           "name": "WSOV 101.7 - Millheim, Pennsylvania - \"The Sound Of The Valleys\"",
           "country": "US",
           "url": "https://kea.cdnstream.com/2054_128",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -63045,7 +63611,7 @@
             "369ffd1f-b8fa-437a-91d2-9f7adf9adf51"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         }
       ]
     },
@@ -63181,6 +63747,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:20:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4be6d1ce0742448820b9",
+      "name": "WUMO 94.5 - Montgomery, Alabama",
+      "country": "US",
+      "subdivision": "Alabama",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz",
+        "religious"
+      ],
+      "tags": [
+        "african american",
+        "black gospel",
+        "jazz",
+        "soul"
+      ],
+      "homepage": "https://wumolpfm.org/",
+      "favicon": "https://wumolpfm.org/wp-content/uploads/sites/3/2021/07/WUMO_Logo_Color.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T01:49:21Z",
+      "streams": [
+        {
+          "id": "aws_de628001963443445194",
+          "stationId": "awb_4be6d1ce0742448820b9",
+          "name": "WUMO 94.5 - Montgomery, Alabama",
+          "country": "US",
+          "url": "http://provisioning.streamtheworld.com/pls/SP_R2129464.pls",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4b9af597-7683-4756-9856-d5eb76990edf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -63656,8 +64267,8 @@
           "name": "WXPI 88.5 Williamsport, Pennsylvania",
           "country": "US",
           "url": "https://stream.wxpiradio.org:8000/live",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -63667,7 +64278,7 @@
             "a443abe8-d9be-46fd-aa92-7fd448ffddbe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },

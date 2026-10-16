@@ -1,7 +1,7 @@
 {
   "code": "CR",
-  "stationCount": 56,
-  "streamCount": 57,
+  "stationCount": 57,
+  "streamCount": 58,
   "stations": [
     {
       "id": "awb_264640d3335ca9d0ed09",
@@ -1663,6 +1663,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T02:23:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0b4c258bce60f496d191",
+      "name": "Radio la Zona cr",
+      "country": "CR",
+      "subdivision": "san Antonio",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://zona1radio.radiostream321.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:35:09Z",
+      "streams": [
+        {
+          "id": "aws_75180c3035dc4807771b",
+          "stationId": "awb_0b4c258bce60f496d191",
+          "name": "Radio la Zona cr",
+          "country": "CR",
+          "url": "https://c34.radioboss.fm:9056/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5bbfbea4-6e31-4291-8b2d-44c2016db0cb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },

@@ -393,6 +393,50 @@
       }
     ]
   },
+  "awb_995a7c1d50492e5b1b34": {
+    "id": "awb_995a7c1d50492e5b1b34",
+    "name": "Radio Club Bar",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "club",
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://clubfm.al/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:41:45Z",
+    "streams": [
+      {
+        "id": "aws_4d16c262fcc34d4e0c5e",
+        "stationId": "awb_995a7c1d50492e5b1b34",
+        "name": "Radio Club Bar",
+        "country": "AL",
+        "url": "https://cp1.sednastream.com/proxy/deephouse/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b217f64e-dde8-419b-96a2-edc302e208ab"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_9978257ad1e59f25051d": {
     "id": "awb_9978257ad1e59f25051d",
     "name": "Aire de Santa Fe",
@@ -5397,6 +5441,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T13:17:34Z"
+      }
+    ]
+  },
+  "awb_99e1e22ec419a2ffa94f": {
+    "id": "awb_99e1e22ec419a2ffa94f",
+    "name": "SKONTONS",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "kids",
+      "pop"
+    ],
+    "tags": [
+      "children",
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z",
+    "streams": [
+      {
+        "id": "aws_5ec7b9917e5bfe68bdf8",
+        "stationId": "awb_99e1e22ec419a2ffa94f",
+        "name": "SKONTONS",
+        "country": "LV",
+        "url": "https://streams.radioskonto.lv:8443/skonto-juniors",
+        "codec": "aac+",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "20df90df-af39-4e66-9c32-72fe9df06249"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

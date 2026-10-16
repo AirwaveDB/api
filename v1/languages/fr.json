@@ -1,6 +1,6 @@
 {
   "code": "fr",
-  "stationCount": 2356,
+  "stationCount": 2363,
   "stations": [
     {
       "id": "awb_087ea30a01d453014922",
@@ -16623,6 +16623,49 @@
       ]
     },
     {
+      "id": "awb_9745d8d041a12fade3ce",
+      "name": "Ifrikya FM",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "talk"
+      ],
+      "homepage": "https://www.ifrikyafm.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:59:28Z",
+      "streams": [
+        {
+          "id": "aws_708bb1b47d02ed42613a",
+          "stationId": "awb_9745d8d041a12fade3ce",
+          "name": "Ifrikya FM",
+          "country": "DZ",
+          "url": "https://webradio1.tda.dz:8001/ifrikya_64K.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "83ada166-6b2f-4888-b716-c53240823afb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8fa650d23a5008f0441e",
       "name": "Illizi اليزي",
       "country": "DZ",
@@ -16770,6 +16813,175 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T21:35:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2264b4b8dcf064bca944",
+      "name": "Jow Radio - Electro",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "dance",
+        "electronic"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:51:08Z",
+      "streams": [
+        {
+          "id": "aws_4e32d16cc8789c364149",
+          "stationId": "awb_2264b4b8dcf064bca944",
+          "name": "Jow Radio - Electro",
+          "country": "DZ",
+          "url": "https://azuracast.dataplayapps.com/listen/jow_electro/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7f9ba91a-cae4-4820-9702-36942736faf9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_be4b776abf735de24d4f",
+      "name": "Jow Radio - Jow Islam",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "arabic music",
+        "islamic",
+        "religious"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:57:37Z",
+      "streams": [
+        {
+          "id": "aws_d8e0857206afa3d78119",
+          "stationId": "awb_be4b776abf735de24d4f",
+          "name": "Jow Radio - Jow Islam",
+          "country": "DZ",
+          "url": "https://azuracast.dataplayapps.com/listen/islam/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7e2023bb-e40a-4111-8ac2-1c8527ae977a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e57c29480ee38db123e3",
+      "name": "Jow Radio - Jow Jazz",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:57:37Z",
+      "streams": [
+        {
+          "id": "aws_d13a74b67c9fb2e487bb",
+          "stationId": "awb_e57c29480ee38db123e3",
+          "name": "Jow Radio - Jow Jazz",
+          "country": "DZ",
+          "url": "https://azuracast.dataplayapps.com/listen/jow_jazz/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "40875798-3376-4ed2-9dac-e036aad81958"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_182ec7c6b0865c468cc8",
+      "name": "Jow Radio - Jow Latino",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "latin"
+      ],
+      "tags": [
+        "latin",
+        "salsa"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:48:53Z",
+      "streams": [
+        {
+          "id": "aws_25a45d9aa1acab727d80",
+          "stationId": "awb_182ec7c6b0865c468cc8",
+          "name": "Jow Radio - Jow Latino",
+          "country": "DZ",
+          "url": "https://azuracast.dataplayapps.com/listen/jow_latino/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bfecc48d-16e0-43f5-bd3c-2dcff7de6bd8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },
@@ -23912,7 +24124,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao Radio",
+      "name": "Cacao-Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -37600,6 +37812,46 @@
       ]
     },
     {
+      "id": "awb_fe54bbbecddb76e94c17",
+      "name": "France Culture - hi res",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "art",
+        "culture"
+      ],
+      "homepage": "https://radiofrance.fr/franceculture/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T11:19:20Z",
+      "streams": [
+        {
+          "id": "aws_a47a70169d2eb0121b47",
+          "stationId": "awb_fe54bbbecddb76e94c17",
+          "name": "France Culture - hi res",
+          "country": "FR",
+          "url": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dbde7434-e855-4f75-87a4-2129731c3efc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4df27e3bb4a8f71574ff",
       "name": "France Culture (sans pub)",
       "country": "FR",
@@ -38538,28 +38790,9 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 9,
-      "updatedAt": "2026-10-15T07:26:14Z",
+      "sourceCount": 8,
+      "updatedAt": "2026-10-15T04:55:47Z",
       "streams": [
-        {
-          "id": "aws_e0290e3a2a295e2b56c3",
-          "stationId": "awb_e7280c1281f2949961b8",
-          "name": "France Musique",
-          "country": "FR",
-          "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7b931696-e172-4d63-9343-53a713144d69"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        },
         {
           "id": "aws_b91ebb9f0798e1f3173c",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -38605,8 +38838,8 @@
           "name": "France Musique",
           "country": "FR",
           "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -38616,7 +38849,7 @@
             "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         },
         {
           "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -42543,6 +42776,65 @@
       ]
     },
     {
+      "id": "awb_7afcc9a8dace73f64ef1",
+      "name": "Glaz | Radio",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ],
+      "categories": [
+        "blues",
+        "folk",
+        "hip-hop",
+        "oldies",
+        "rock"
+      ],
+      "tags": [
+        "bluegrass",
+        "blues",
+        "chanson française",
+        "folk",
+        "hip-hop 90s",
+        "ia",
+        "indie",
+        "musique originale",
+        "nantes",
+        "rock",
+        "rock celtique",
+        "suno",
+        "webradio"
+      ],
+      "homepage": "https://www.glazradio.tech/",
+      "favicon": "https://atelier-glaz.com/radio/favicon.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T12:32:14Z",
+      "streams": [
+        {
+          "id": "aws_137d22353d3928791aa3",
+          "stationId": "awb_7afcc9a8dace73f64ef1",
+          "name": "Glaz | Radio",
+          "country": "FR",
+          "url": "https://www.glazradio.tech/listen/glazradio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "61573c6a-95dd-444d-90be-871e3b0b667d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f5dd1a3b086ff7fc2dbf",
       "name": "Globule Radio",
       "country": "FR",
@@ -45195,7 +45487,7 @@
         "radio locale"
       ],
       "homepage": "https://www.ici.fr/radio/breizh-izel",
-      "favicon": "https://www.ici.fr/images/apple-touch-icon.png",
+      "favicon": "https://www.ici.fr/favicon56.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T10:24:25Z",
@@ -71686,7 +71978,7 @@
     },
     {
       "id": "awb_4242dc875d1bdd4fe48f",
-      "name": "Puissance Max la Radio",
+      "name": "Puissance Max La Radio",
       "country": "FR",
       "subdivision": "Auvergne-Rhône-Alpes",
       "languages": [
@@ -71701,8 +71993,8 @@
         "top 40",
         "top hits"
       ],
-      "homepage": "https://puissance-max-la-radio.fr/",
-      "favicon": "https://www.image-heberg.fr/files/17675323612993863926.png",
+      "homepage": "https://www.puissance-max-la-radio.fr/#apropos",
+      "favicon": "https://static.wixstatic.com/media/eea892_1334dfd05976420cba30d24bcba8af47~mv2.png/v1/fill/w_462,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vierge.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-05T10:31:11Z",
@@ -89688,7 +89980,7 @@
         "metal"
       ],
       "homepage": "https://lesonunique.com/mysun/parcourir/sun-metal",
-      "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
+      "favicon": "https://assets.radioplayer.org/250/2501928/600/600/m6gk7w9y.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-02T03:21:24Z",
@@ -90208,30 +90500,36 @@
       "id": "awb_912c71f6fa7c86778d90",
       "name": "SYNO RADIO",
       "country": "FR",
-      "subdivision": null,
+      "subdivision": "Nord",
       "languages": [
+        "en",
         "fr"
       ],
       "categories": [
         "ambient",
         "electronic",
+        "latin",
         "pop"
       ],
       "tags": [
+        "24/7",
         "ai music",
         "bossa nova",
         "chill",
         "dance",
         "deep house",
+        "deephouse",
+        "latin",
         "lofi",
         "pop",
+        "web radio",
         "webradio"
       ],
       "homepage": "https://radiosyno.ddns.net/",
       "favicon": "https://radiosyno.ddns.net/assets/img/favicon.png",
       "type": "internet",
-      "sourceCount": 1,
-      "updatedAt": "2026-09-30T07:30:47Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-15T19:09:59Z",
       "streams": [
         {
           "id": "aws_1de31032acf714ddc280",
@@ -90247,10 +90545,11 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "51e7ab32-7b7b-41bd-b31b-9e81ffe0afe5",
             "5afd3c62-ae78-41ed-b4ff-e722a6813026"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:34:41Z"
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },

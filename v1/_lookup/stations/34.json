@@ -14,10 +14,10 @@
       "techno"
     ],
     "homepage": "https://exclusive.radio/all-stations",
-    "favicon": null,
+    "favicon": "https://s1.qwant.com/thumbr/474x417/3/3/21b782748f67f388be3191f5da59cac34ecf41b4f9ed1aed813ee1bf42b5c9/OIP.yaVwX9A_nE0thDI2xIa-IAHaGh.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.yaVwX9A_nE0thDI2xIa-IAHaGh%3Fpid%3DApi&q=0&b=1&p=0&a=0",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-15T10:42:43Z",
     "streams": [
       {
         "id": "aws_746beced81ed45de49b3",
@@ -35,10 +35,10 @@
         ],
         "sourceIds": [
           "AE:exclusively-daft-punk",
-          "be61261d-ba40-4ab1-a045-34f0c49b0ca6"
+          "a3f97919-2519-4e58-b0b4-386d1402e367"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T07:14:01Z"
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },
@@ -779,7 +779,7 @@
   },
   "awb_34e69b854364109af609": {
     "id": "awb_34e69b854364109af609",
-    "name": "OWH_S35334",
+    "name": "Rádio Flash Prime",
     "country": "BR",
     "subdivision": "São Paulo",
     "languages": [
@@ -787,22 +787,22 @@
     ],
     "categories": [],
     "tags": [
-      "popular"
+      "clássicos flashback"
     ],
     "homepage": "https://www.owh.radio.br/",
     "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35334/album_art.1792032083.jpg",
     "type": null,
     "sourceCount": 1,
-    "updatedAt": "2026-10-15T02:56:34Z",
+    "updatedAt": "2026-10-15T17:02:09Z",
     "streams": [
       {
         "id": "aws_1d8bcb2f5a27674aff55",
         "stationId": "awb_34e69b854364109af609",
-        "name": "OWH_S35334",
+        "name": "Rádio Flash Prime",
         "country": "BR",
         "url": "https://cp-1.owh.radio.br/listen/owh_s35334/radio-mp3",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 96,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -812,7 +812,7 @@
           "9f52a54e-9796-42b1-b4a5-79b389677bae"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },
@@ -2765,6 +2765,92 @@
       }
     ]
   },
+  "awb_345e5f3abdcca6f9c004": {
+    "id": "awb_345e5f3abdcca6f9c004",
+    "name": "K-SUN66 THE MOVE",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "latin",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "latin",
+      "pop"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z",
+    "streams": [
+      {
+        "id": "aws_b950c26d5c42043e7dff",
+        "stationId": "awb_345e5f3abdcca6f9c004",
+        "name": "K-SUN66 THE MOVE",
+        "country": "DZ",
+        "url": "https://stream.zeno.fm/548euqurhxhvv",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "96df3af9-d3a4-4063-92dc-1a26aead615a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
+  "awb_3440ef34aa3c30b698d3": {
+    "id": "awb_3440ef34aa3c30b698d3",
+    "name": "R2Extra - Rap",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "homepage": "https://r2extra.err.ee/r2p",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:33:43Z",
+    "streams": [
+      {
+        "id": "aws_54452d5c1b232fe32f37",
+        "stationId": "awb_3440ef34aa3c30b698d3",
+        "name": "R2Extra - Rap",
+        "country": "EE",
+        "url": "http://icecast.err.ee/r2pkorge.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "50db1f55-91da-45e8-9e5c-06a7e18ba890"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_342ea3b7ac8a0f23eb7b": {
     "id": "awb_342ea3b7ac8a0f23eb7b",
     "name": "إذاعة القرآن الكريم من القاهرة",
@@ -4065,7 +4151,7 @@
     "id": "awb_3461835dfd861bca0ca5",
     "name": "SPIN South West",
     "country": "IE",
-    "subdivision": "Limerick",
+    "subdivision": "Dublin",
     "languages": [
       "en"
     ],
@@ -4077,8 +4163,8 @@
       "top 40",
       "top-40"
     ],
-    "homepage": "https://www.spinsouthwest.com/",
-    "favicon": "https://www.spinsouthwest.com/images/logo.svg",
+    "homepage": "http://www.spinsouthwest.com/",
+    "favicon": "https://www.spinsouthwest.com/i/android-icon-192x192.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24",

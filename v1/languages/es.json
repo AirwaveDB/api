@@ -1,6 +1,6 @@
 {
   "code": "es",
-  "stationCount": 5510,
+  "stationCount": 5514,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -90363,7 +90363,7 @@
       "tags": [
         "hits"
       ],
-      "homepage": "http://www.locafm.com/",
+      "homepage": "https://www.locafm.com/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -103382,6 +103382,65 @@
       ]
     },
     {
+      "id": "awb_7afcc9a8dace73f64ef1",
+      "name": "Glaz | Radio",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ],
+      "categories": [
+        "blues",
+        "folk",
+        "hip-hop",
+        "oldies",
+        "rock"
+      ],
+      "tags": [
+        "bluegrass",
+        "blues",
+        "chanson française",
+        "folk",
+        "hip-hop 90s",
+        "ia",
+        "indie",
+        "musique originale",
+        "nantes",
+        "rock",
+        "rock celtique",
+        "suno",
+        "webradio"
+      ],
+      "homepage": "https://www.glazradio.tech/",
+      "favicon": "https://atelier-glaz.com/radio/favicon.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T12:32:14Z",
+      "streams": [
+        {
+          "id": "aws_137d22353d3928791aa3",
+          "stationId": "awb_7afcc9a8dace73f64ef1",
+          "name": "Glaz | Radio",
+          "country": "FR",
+          "url": "https://www.glazradio.tech/listen/glazradio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "61573c6a-95dd-444d-90be-871e3b0b667d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8ec252c213fe77737437",
       "name": "IA Music & News - Español",
       "country": "FR",
@@ -110037,89 +110096,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:41:56Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9359ec9139ddfe95c6cf",
-      "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "metal",
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "80s",
-        "90s",
-        "acir",
-        "acir online",
-        "adult album alternative",
-        "adult alternative",
-        "alternative",
-        "alternative 70s",
-        "alternative 80s",
-        "alternative metal",
-        "alternative pop",
-        "alternative rock",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "classic rock; alternative rock indie",
-        "entretenimiento",
-        "español",
-        "estación",
-        "grupo acir",
-        "iheart",
-        "iheart radio",
-        "indie rock",
-        "latinoamérica",
-        "mexico city",
-        "mix",
-        "mix alternative",
-        "mix fm",
-        "moi merino",
-        "music",
-        "méxico",
-        "música alternativa",
-        "norteamérica",
-        "online",
-        "online only",
-        "radio",
-        "radio online",
-        "rock",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-13T04:25:31Z",
-      "streams": [
-        {
-          "id": "aws_e99a5227dad39e25927f",
-          "stationId": "awb_9359ec9139ddfe95c6cf",
-          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
-            "a7a10889-e3af-4085-b800-1868e8cc8085"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -134564,7 +134540,7 @@
     },
     {
       "id": "awb_544d05fd38360faf6326",
-      "name": "90.1 Alegría Mexicana (La Paz) - 90.1 FM - XHW-FM - Promomedios California - La Paz, Baja California",
+      "name": "90.1 Alegría Mexicana (La Paz) - 90.1 FM - XHW-FM - Promomedios California - La Paz, Baja CAlifornia",
       "country": "MX",
       "subdivision": "La Paz, Baja California Sur",
       "languages": [
@@ -153066,7 +153042,7 @@
     },
     {
       "id": "awb_2b36abaf9faccf961098",
-      "name": "ALEGRÍA MEXICANA 90.1 (La Paz) - 90.1 FM - XHW-FM - Promomedios California - La Paz, Baja CAlifornia",
+      "name": "ALEGRÍA MEXICANA 90.1 (La Paz) - 90.1 FM - XHW-FM - Promomedios California - La Paz, Baja California",
       "country": "MX",
       "subdivision": "La Paz, Baja California Sur",
       "languages": [
@@ -153107,7 +153083,7 @@
         "traditional mexican music"
       ],
       "homepage": "https://www.alegriamexicana.com/",
-      "favicon": "https://i.postimg.cc/3rt6zTPw/alegriamexicana.webp",
+      "favicon": "https://thumbnail.anii.io/mx/radio-alegria-mexicana-90-1-fm-la-paz-mexico.webp",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-30T13:16:18Z",
@@ -153749,6 +153725,89 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T23:22:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9359ec9139ddfe95c6cf",
+      "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "metal",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "acir",
+        "acir online",
+        "adult album alternative",
+        "adult alternative",
+        "alternative",
+        "alternative 70s",
+        "alternative 80s",
+        "alternative metal",
+        "alternative pop",
+        "alternative rock",
+        "américa",
+        "cdmx",
+        "ciudad de méxico",
+        "classic rock; alternative rock indie",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "indie rock",
+        "latinoamérica",
+        "mexico city",
+        "mix",
+        "mix alternative",
+        "mix fm",
+        "moi merino",
+        "music",
+        "méxico",
+        "música alternativa",
+        "norteamérica",
+        "online",
+        "online only",
+        "radio",
+        "radio online",
+        "rock",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T04:25:31Z",
+      "streams": [
+        {
+          "id": "aws_e99a5227dad39e25927f",
+          "stationId": "awb_9359ec9139ddfe95c6cf",
+          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+            "a7a10889-e3af-4085-b800-1868e8cc8085"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -175582,7 +175641,7 @@
         "top 40"
       ],
       "homepage": "https://exafm.com/plaza/la-piedad/",
-      "favicon": "https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",
+      "favicon": "https://cdn-profiles.tunein.com/s151580/images/logod.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T04:36:26Z",
@@ -273786,6 +273845,47 @@
       ]
     },
     {
+      "id": "awb_ed05c2c80d96fd5e25d0",
+      "name": "Radio Disney Peru",
+      "country": "PE",
+      "subdivision": "Lima",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://pe.radiodisney.com/",
+      "favicon": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Radio_Disney_Latin_America.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T00:38:14Z",
+      "streams": [
+        {
+          "id": "aws_7f114fe14ebdb9ecdec1",
+          "stationId": "awb_ed05c2c80d96fd5e25d0",
+          "name": "Radio Disney Peru",
+          "country": "PE",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "27c39f9c-b402-4452-a0cf-f11834c378aa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_c643bd00cf13c5ed65c1",
       "name": "Radio El WebVeo",
       "country": "PE",
@@ -277876,7 +277976,7 @@
         "top 40"
       ],
       "homepage": "https://www.kq105.com/",
-      "favicon": "https://bloximages.chicago2.vip.townnews.com/kq105.com/content/tncms/custom/image/eec03826-a5c5-11ee-9b55-cfe8019cb216.png",
+      "favicon": "https://bloximages.chicago2.vip.townnews.com/kq105.com/content/tncms/custom/image/23c304fa-a5bb-11ee-aed9-ab40ab64f7be.png?resize=990%2C284",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-08T16:39:16Z",
@@ -279315,7 +279415,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+      "favicon": "https://radiaura.net/apple-touch-icon.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -280131,7 +280231,7 @@
         "stuttgart",
         "torino"
       ],
-      "homepage": "https://radiogiurgiu.net/",
+      "homepage": "https://radiogiurgiu.net/mobile.html",
       "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
       "type": null,
       "sourceCount": 4,
@@ -282840,6 +282940,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:26:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_360a41d4f9d510b92792",
+      "name": "AItocha Radio - Pop & Latin (AI music)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "pop"
+      ],
+      "tags": [
+        "ai music",
+        "bachata",
+        "dance pop",
+        "latin",
+        "latin pop",
+        "pop",
+        "reggaeton"
+      ],
+      "homepage": "https://radio.aitocha.com/",
+      "favicon": "https://radio.aitocha.com/station-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:49:38Z",
+      "streams": [
+        {
+          "id": "aws_8042c6022ff8de2d0437",
+          "stationId": "awb_360a41d4f9d510b92792",
+          "name": "AItocha Radio - Pop & Latin (AI music)",
+          "country": "US",
+          "url": "https://stream.aitocha.com/listen/radio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "658957bb-fbb6-4bda-8f1e-33747f0fae45"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },
@@ -286034,6 +286183,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T23:59:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_304753c2325f3bbb9467",
+      "name": "KXTO 1550 \"Radio Vida\" Reno, Nevada",
+      "country": "US",
+      "subdivision": "Nevada",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian music"
+      ],
+      "homepage": "https://radiovidareno.com/",
+      "favicon": "https://vibe.filesafe.space/1787680674542184105/assets/8ae9db1a-6d0a-4940-aff4-e006aad5de81.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T01:35:19Z",
+      "streams": [
+        {
+          "id": "aws_983c51b7c168e0d95a6b",
+          "stationId": "awb_304753c2325f3bbb9467",
+          "name": "KXTO 1550 \"Radio Vida\" Reno, Nevada",
+          "country": "US",
+          "url": "https://shout2.brnstream.com/proxy/kxto?mp=/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "12108845-b90e-40cb-860a-e3eeb89cb7a7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

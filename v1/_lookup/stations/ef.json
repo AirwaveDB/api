@@ -3159,8 +3159,8 @@
         "name": "Radio Deck 1 Hamburg",
         "country": "DE",
         "url": "https://rde1.de/192",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 192,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3170,7 +3170,7 @@
           "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },
@@ -5022,7 +5022,7 @@
   },
   "awb_ef17dfb7a806c053be76": {
     "id": "awb_ef17dfb7a806c053be76",
-    "name": "Bob fm",
+    "name": "BOB fm",
     "country": "IE",
     "subdivision": null,
     "languages": [
@@ -8504,6 +8504,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T11:42:40Z"
+      }
+    ]
+  },
+  "awb_ef9f62bff98fb3ba0837": {
+    "id": "awb_ef9f62bff98fb3ba0837",
+    "name": "94.3 The Point WJLK",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://943thepoint.com/",
+    "favicon": "https://townsquare.media/site/393/files/2024/04/attachment-point.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T05:05:38Z",
+    "streams": [
+      {
+        "id": "aws_2c12e5ded93b3bbe75f6",
+        "stationId": "awb_ef9f62bff98fb3ba0837",
+        "name": "94.3 The Point WJLK",
+        "country": "US",
+        "url": "https://live.amperwave.net/manifest/townsquare-wjlkfmaac-hlsc3.m3u8",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9ce835ac-263e-4305-a64a-fc7e7fa0310c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

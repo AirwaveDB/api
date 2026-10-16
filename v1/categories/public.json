@@ -5885,7 +5885,7 @@
       "id": "awb_ceac03347026f81dacb7",
       "name": "��� � ����� �����",
       "country": "BG",
-      "subdivision": "Sofia City",
+      "subdivision": "Vidin",
       "languages": [
         "bg"
       ],
@@ -5899,7 +5899,7 @@
         "public radio",
         "talk"
       ],
-      "homepage": "https://bnrnews.bg/sofia",
+      "homepage": "https://bnrnews.bg/vidin",
       "favicon": null,
       "type": "public",
       "sourceCount": 8,
@@ -19021,28 +19021,9 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 9,
-      "updatedAt": "2026-10-15T07:26:14Z",
+      "sourceCount": 8,
+      "updatedAt": "2026-10-15T04:55:47Z",
       "streams": [
-        {
-          "id": "aws_e0290e3a2a295e2b56c3",
-          "stationId": "awb_e7280c1281f2949961b8",
-          "name": "France Musique",
-          "country": "FR",
-          "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7b931696-e172-4d63-9343-53a713144d69"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        },
         {
           "id": "aws_b91ebb9f0798e1f3173c",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -19088,8 +19069,8 @@
           "name": "France Musique",
           "country": "FR",
           "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -19099,7 +19080,7 @@
             "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         },
         {
           "id": "aws_c55ec6a9702cdd9ec2fb",

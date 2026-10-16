@@ -7233,6 +7233,43 @@
       }
     ]
   },
+  "awb_6f2c6705b5fe67ebb074": {
+    "id": "awb_6f2c6705b5fe67ebb074",
+    "name": "FUNKEDUP Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "new and old school funk"
+    ],
+    "homepage": "https://funkatopia.com/funk-radio/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:40:21Z",
+    "streams": [
+      {
+        "id": "aws_b19dd3f20001f2f52929",
+        "stationId": "awb_6f2c6705b5fe67ebb074",
+        "name": "FUNKEDUP Radio",
+        "country": "US",
+        "url": "https://cast2.my-control-panel.com/proxy/rankwell/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4e38ad9f-7c54-4b84-a372-84a4f5383e02"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_6f1a41daf310a85d0997": {
     "id": "awb_6f1a41daf310a85d0997",
     "name": "humboldt hot air",
@@ -7776,6 +7813,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T10:47:10Z"
+      }
+    ]
+  },
+  "awb_6f13b571d111ae7da5b2": {
+    "id": "awb_6f13b571d111ae7da5b2",
+    "name": "The Face Radio",
+    "country": "US",
+    "subdivision": "New York",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community",
+      "disco",
+      "funk",
+      "independent",
+      "soul"
+    ],
+    "homepage": "https://thefaceradio.com/",
+    "favicon": "https://d4mt18vwj73wk.cloudfront.net/stationImage/2024-01-11T15:30:50Z-1024x1024.jpeg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T07:52:56Z",
+    "streams": [
+      {
+        "id": "aws_78649a9d3302ef7662e6",
+        "stationId": "awb_6f13b571d111ae7da5b2",
+        "name": "The Face Radio",
+        "country": "US",
+        "url": "https://the-face-radio.radiocult.fm/stream",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "156839f6-9ac0-431d-bc8d-87d3b9d03d76"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },

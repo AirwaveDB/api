@@ -38,6 +38,51 @@
       }
     ]
   },
+  "awb_2b424f2daebced427731": {
+    "id": "awb_2b424f2daebced427731",
+    "name": "Radio Jehona",
+    "country": "AL",
+    "subdivision": "Shkodër",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk",
+      "top 40"
+    ],
+    "homepage": "http://radiojehona.al/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:26:37Z",
+    "streams": [
+      {
+        "id": "aws_e1895c9b5f939c5868a5",
+        "stationId": "awb_2b424f2daebced427731",
+        "name": "Radio Jehona",
+        "country": "AL",
+        "url": "https://stream.iradio.pro/proxy/radiojehona?mp=/1",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a2c21955-836f-4495-a4c5-8c3880f234ea"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:19Z"
+      }
+    ]
+  },
   "awb_2b0c4466cc1eb52aae70": {
     "id": "awb_2b0c4466cc1eb52aae70",
     "name": "Bar de Blues Radio",
@@ -943,7 +988,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina,SC",
+    "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [
       "country",
@@ -2478,6 +2523,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T02:18:02Z"
+      }
+    ]
+  },
+  "awb_2b535d09cf00580b6fbb": {
+    "id": "awb_2b535d09cf00580b6fbb",
+    "name": "Hot FM Dance Spain",
+    "country": "ES",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.hotfm.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T16:37:04Z",
+    "streams": [
+      {
+        "id": "aws_6bf730cd9be577ab8459",
+        "stationId": "awb_2b535d09cf00580b6fbb",
+        "name": "Hot FM Dance Spain",
+        "country": "ES",
+        "url": "https://ukstream.radiohost.co.uk/listen/hot_fm_dance/radio.mp3",
+        "codec": "aac",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "2c761131-18cf-48b2-bc2e-a06d45385612"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },
@@ -5036,7 +5116,7 @@
   },
   "awb_2b36abaf9faccf961098": {
     "id": "awb_2b36abaf9faccf961098",
-    "name": "ALEGRÍA MEXICANA 90.1 (La Paz) - 90.1 FM - XHW-FM - Promomedios California - La Paz, Baja CAlifornia",
+    "name": "ALEGRÍA MEXICANA 90.1 (La Paz) - 90.1 FM - XHW-FM - Promomedios California - La Paz, Baja California",
     "country": "MX",
     "subdivision": "La Paz, Baja California Sur",
     "languages": [
@@ -5077,7 +5157,7 @@
       "traditional mexican music"
     ],
     "homepage": "https://www.alegriamexicana.com/",
-    "favicon": "https://i.postimg.cc/3rt6zTPw/alegriamexicana.webp",
+    "favicon": "https://thumbnail.anii.io/mx/radio-alegria-mexicana-90-1-fm-la-paz-mexico.webp",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-30T13:16:18Z",

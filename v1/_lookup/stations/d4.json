@@ -1087,47 +1087,6 @@
       }
     ]
   },
-  "awb_d4f0b9881644e8719175": {
-    "id": "awb_d4f0b9881644e8719175",
-    "name": "EHB Rock",
-    "country": "BR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "metal",
-      "rock"
-    ],
-    "tags": [
-      "heavy metal",
-      "rock"
-    ],
-    "homepage": "https://ehbrock.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-15T01:31:22Z",
-    "streams": [
-      {
-        "id": "aws_5513a084a73702bf043c",
-        "stationId": "awb_d4f0b9881644e8719175",
-        "name": "EHB Rock",
-        "country": "BR",
-        "url": "https://ehbrock.com.br/live/",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "af05cc2f-f4cd-4524-9b40-15352705945e"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
-      }
-    ]
-  },
   "awb_d45490aaf72ec92547b0": {
     "id": "awb_d45490aaf72ec92547b0",
     "name": "MultiHuman EntheoMusic",
@@ -3248,6 +3207,52 @@
       }
     ]
   },
+  "awb_d4a94abf8a1e6cc8a394": {
+    "id": "awb_d4a94abf8a1e6cc8a394",
+    "name": "Retro FM",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "90s",
+      "oldies",
+      "pop",
+      "retro"
+    ],
+    "homepage": "https://retrofm.sky.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:34:29Z",
+    "streams": [
+      {
+        "id": "aws_f6cf39aa4f2f8027b5c4",
+        "stationId": "awb_d4a94abf8a1e6cc8a394",
+        "name": "Retro FM",
+        "country": "EE",
+        "url": "https://stream.skymedia.ee/live/RETRO",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a627e7d9-6152-4a0e-8533-0cc22ab80491"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_d4df29a8689cbb6c98ae": {
     "id": "awb_d4df29a8689cbb6c98ae",
     "name": "تفسير بن عثيمين",
@@ -3561,7 +3566,7 @@
   },
   "awb_d4bfb7345ded7206638c": {
     "id": "awb_d4bfb7345ded7206638c",
-    "name": "Cacao Radio",
+    "name": "Cacao-Radio",
     "country": "FR",
     "subdivision": null,
     "languages": [
@@ -9613,8 +9618,8 @@
         "name": "WXLV - The X",
         "country": "US",
         "url": "https://securestream.casthost.net:8047/live",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 256,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -9624,7 +9629,7 @@
           "42cd8934-9544-4ed5-99f9-234a8387d68f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

@@ -2671,6 +2671,55 @@
       }
     ]
   },
+  "awb_3c372eb0986b8cd73c18": {
+    "id": "awb_3c372eb0986b8cd73c18",
+    "name": "SSS-Radio",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "fi"
+    ],
+    "categories": [
+      "news",
+      "oldies",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "oldies",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "homepage": "https://sss-radio.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:42:37Z",
+    "streams": [
+      {
+        "id": "aws_1a306efd6fc1ce2505a8",
+        "stationId": "awb_3c372eb0986b8cd73c18",
+        "name": "SSS-Radio",
+        "country": "EE",
+        "url": "https://uvn-67-97.tll01.zonevs.eu/sss-radio",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "df89e10f-97af-4a04-b1eb-c42e2511188f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_3c393fc4bd641f153eea": {
     "id": "awb_3c393fc4bd641f153eea",
     "name": "OmniRadio - Sheikh Majid Farouk (الشيخ ماجد فاروق)",
@@ -4566,6 +4615,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T05:06:16Z"
+      }
+    ]
+  },
+  "awb_3cd5c90ace015cd62b0e": {
+    "id": "awb_3cd5c90ace015cd62b0e",
+    "name": "OMH (Our Music History)",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "retro",
+      "top 40"
+    ],
+    "homepage": "http://omh.sytes.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z",
+    "streams": [
+      {
+        "id": "aws_21c1df884f329944bf4f",
+        "stationId": "awb_3cd5c90ace015cd62b0e",
+        "name": "OMH (Our Music History)",
+        "country": "LV",
+        "url": "http://omh.sytes.net:8000/;",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "be4f518d-6946-4356-b72e-e2e3f7d91199"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },
@@ -6479,7 +6572,7 @@
       "rollers"
     ],
     "homepage": "https://res.ad/",
-    "favicon": "https://res.ad/icon.png",
+    "favicon": "https://res.lirz.ru/static/uploads/album_art.1774984293.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-10-13T16:58:37Z",

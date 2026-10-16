@@ -38,6 +38,96 @@
       }
     ]
   },
+  "awb_7b77433a4a476e198861": {
+    "id": "awb_7b77433a4a476e198861",
+    "name": "Radio Iliria",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk",
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "folk",
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://radioiliria.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:36:07Z",
+    "streams": [
+      {
+        "id": "aws_7220777bfc2510eb5e69",
+        "stationId": "awb_7b77433a4a476e198861",
+        "name": "Radio Iliria",
+        "country": "AL",
+        "url": "https://onlineradio.cfd/listen/radio_iliria/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dae10605-42ea-4f5b-b729-624ad540262d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
+  "awb_7b3cc310d81b8a22934d": {
+    "id": "awb_7b3cc310d81b8a22934d",
+    "name": "Rádio Cultura Angola",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "folk",
+      "talk"
+    ],
+    "tags": [
+      "folk",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/rca/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:18:11Z",
+    "streams": [
+      {
+        "id": "aws_728053d9ac8ec83c8f69",
+        "stationId": "awb_7b3cc310d81b8a22934d",
+        "name": "Rádio Cultura Angola",
+        "country": "AO",
+        "url": "https://paineldj5.com.br:20091/stream",
+        "codec": "aac+",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a35a8b3f-a089-4ede-b128-6632e1bb31fa"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_7b80ee8a05c407df3785": {
     "id": "awb_7b80ee8a05c407df3785",
     "name": "FM Express 96.5",
@@ -8515,6 +8605,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T12:14:52Z"
+      }
+    ]
+  },
+  "awb_7bb5ba2b7ae77fc2f95f": {
+    "id": "awb_7bb5ba2b7ae77fc2f95f",
+    "name": "Broadway Is My Beat (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1940s",
+      "1950s",
+      "detective",
+      "mystery",
+      "noir",
+      "old time radio",
+      "otr",
+      "radio drama"
+    ],
+    "homepage": "https://stupidpotato.com/broadway-is-my-beat/",
+    "favicon": "https://stupidpotato.com/broadway-is-my-beat/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:21:10Z",
+    "streams": [
+      {
+        "id": "aws_4c740b6ce8ffe120f1b0",
+        "stationId": "awb_7bb5ba2b7ae77fc2f95f",
+        "name": "Broadway Is My Beat (radio) | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/broadway-is-my-beat/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b0e9c579-3386-4a82-8389-1602de3e6c5c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

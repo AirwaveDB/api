@@ -204,6 +204,49 @@
       }
     ]
   },
+  "awb_a42a0ac78412a73fad52": {
+    "id": "awb_a42a0ac78412a73fad52",
+    "name": "Rádio Kamwenho Notícias",
+    "country": "AO",
+    "subdivision": "Cuíto",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:24:21Z",
+    "streams": [
+      {
+        "id": "aws_cfafe45dd2eab7f0030a",
+        "stationId": "awb_a42a0ac78412a73fad52",
+        "name": "Rádio Kamwenho Notícias",
+        "country": "AO",
+        "url": "https://stream-179.surfernetwork.com/e6mfzggsjsmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlNm1memdnc2pzbXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InB6RjV0Mm8zUlYtTHdUdUJSdV9NdGciLCJpYXQiOjE3OTIxMDUzOTMsImV4cCI6MTc5MjEwNTQ1M30.zw_seRLpAsP4KvhWp2RcBGB-6BHaZBTLb_sSJErNzW8",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b3e8bd16-50bc-4ea3-b89d-ad03eaf008c3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_a4c5f94849bb2d61f966": {
     "id": "awb_a4c5f94849bb2d61f966",
     "name": "Aura Radio",
@@ -8857,8 +8900,8 @@
         "name": "WXPI 88.5 Williamsport, Pennsylvania",
         "country": "US",
         "url": "https://stream.wxpiradio.org:8000/live",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -8868,7 +8911,7 @@
           "a443abe8-d9be-46fd-aa92-7fd448ffddbe"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

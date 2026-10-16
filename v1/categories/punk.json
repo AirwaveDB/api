@@ -1,6 +1,6 @@
 {
   "id": "punk",
-  "stationCount": 263,
+  "stationCount": 265,
   "stations": [
     {
       "id": "awb_80373f81c18b4f7bcc35",
@@ -309,8 +309,8 @@
       "homepage": "https://play.you.radio/station/467",
       "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/cc50da2d-7a57-41c0-9ebe-d9c1bd283745.jpg",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:12Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-15T22:18:22Z",
       "streams": [
         {
           "id": "aws_46f8d883fc6f38c1acf8",
@@ -326,10 +326,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "a7857a44-d494-4391-9417-d57ade95a846"
+            "a7857a44-d494-4391-9417-d57ade95a846",
+            "b2b680b5-d980-485e-96d1-037f5a8f29c0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T09:19:23Z"
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -6607,6 +6608,50 @@
       ]
     },
     {
+      "id": "awb_1bb9c7848b0f7ee4819f",
+      "name": "PUNK FM",
+      "country": "EE",
+      "subdivision": "Võru",
+      "languages": [
+        "et"
+      ],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "alternative",
+        "hardcore",
+        "punk",
+        "ska"
+      ],
+      "homepage": "https://www.punkfm.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:29:23Z",
+      "streams": [
+        {
+          "id": "aws_791e2b5ec486ebf4402f",
+          "stationId": "awb_1bb9c7848b0f7ee4819f",
+          "name": "PUNK FM",
+          "country": "EE",
+          "url": "https://sapircast.caster.fm:11309/OsZpV",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dccda812-d94d-4619-89d5-81ec9f5d75d0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
       "id": "awb_19fe23338272e7165e3d",
       "name": "La Antiradio",
       "country": "ES",
@@ -9270,6 +9315,58 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:42:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cf872ae3f29be2745d96",
+      "name": "Haze Pub Radio",
+      "country": "LT",
+      "subdivision": "Vilnius",
+      "languages": [
+        "lt"
+      ],
+      "categories": [
+        "electronic",
+        "hip-hop",
+        "metal",
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "drum bass",
+        "electronic",
+        "hip hop",
+        "metal",
+        "punk",
+        "rap",
+        "rock"
+      ],
+      "homepage": "https://kalaver.in/rocks/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:34:39Z",
+      "streams": [
+        {
+          "id": "aws_515e057c4d7a3bf38395",
+          "stationId": "awb_cf872ae3f29be2745d96",
+          "name": "Haze Pub Radio",
+          "country": "LT",
+          "url": "https://live.leproradio.com/rocks.ogg",
+          "codec": "ogg",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d469d86b-e0a7-45ac-aa94-6be76329ab82"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },

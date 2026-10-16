@@ -116,6 +116,52 @@
       }
     ]
   },
+  "awb_13679961d1f33134db5b": {
+    "id": "awb_13679961d1f33134db5b",
+    "name": "Paper Radio",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk",
+      "top 40"
+    ],
+    "homepage": "https://paper.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:37:59Z",
+    "streams": [
+      {
+        "id": "aws_c167ba0940ac1c9ea20f",
+        "stationId": "awb_13679961d1f33134db5b",
+        "name": "Paper Radio",
+        "country": "AL",
+        "url": "https://business.playfm.al:8170/paperplay",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "abb8a6de-bb44-4a40-8e60-6a21c92dd6b2"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_133f14631169aa6204ef": {
     "id": "awb_133f14631169aa6204ef",
     "name": "LU20 Radio Chubut",
@@ -5063,6 +5109,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T00:19:44Z"
+      }
+    ]
+  },
+  "awb_13c282ba96aaa29e9fb1": {
+    "id": "awb_13c282ba96aaa29e9fb1",
+    "name": "Radio Energy - Russian Radio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "http://www.radioenergy.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:50Z",
+    "streams": [
+      {
+        "id": "aws_bce7336634d5a52f754b",
+        "stationId": "awb_13c282ba96aaa29e9fb1",
+        "name": "Radio Energy - Russian Radio",
+        "country": "LV",
+        "url": "http://radioenergy.lv:9000/;stream.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4c210ed0-6d05-48c6-baa1-1ef0200bf49f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

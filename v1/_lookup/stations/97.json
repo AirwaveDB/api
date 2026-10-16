@@ -209,6 +209,47 @@
       }
     ]
   },
+  "awb_97e5c980e4421a111f80": {
+    "id": "awb_97e5c980e4421a111f80",
+    "name": "Club FM Shqip",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "folk"
+    ],
+    "homepage": "https://clubfm.al/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:30:22Z",
+    "streams": [
+      {
+        "id": "aws_02876697a1ede698ae23",
+        "stationId": "awb_97e5c980e4421a111f80",
+        "name": "Club FM Shqip",
+        "country": "AL",
+        "url": "https://cp1.sednastream.com/proxy/radioshqip/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9428cc33-cc53-45aa-b005-2b8f8a7ef918"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_97dd33d1f36665de3561": {
     "id": "awb_97dd33d1f36665de3561",
     "name": "Radio Tirana 1",
@@ -2871,6 +2912,92 @@
       }
     ]
   },
+  "awb_9745d8d041a12fade3ce": {
+    "id": "awb_9745d8d041a12fade3ce",
+    "name": "Ifrikya FM",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.ifrikyafm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:59:28Z",
+    "streams": [
+      {
+        "id": "aws_708bb1b47d02ed42613a",
+        "stationId": "awb_9745d8d041a12fade3ce",
+        "name": "Ifrikya FM",
+        "country": "DZ",
+        "url": "https://webradio1.tda.dz:8001/ifrikya_64K.mp3",
+        "codec": "mp3",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "83ada166-6b2f-4888-b716-c53240823afb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
+  "awb_97c0e3651e713dc13b73": {
+    "id": "awb_97c0e3651e713dc13b73",
+    "name": "K-SUN66 - The Breeze",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "adult contemporary",
+      "alternative rock",
+      "indie"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:57:36Z",
+    "streams": [
+      {
+        "id": "aws_352a8fd66ed78dd1715a",
+        "stationId": "awb_97c0e3651e713dc13b73",
+        "name": "K-SUN66 - The Breeze",
+        "country": "DZ",
+        "url": "https://stream.zeno.fm/e8zprz9pzk0uv",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1a6fee34-5b0b-456c-a8d7-acd67579ff31"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:19Z"
+      }
+    ]
+  },
   "awb_972bcc2380f99deea346": {
     "id": "awb_972bcc2380f99deea346",
     "name": "Tamanrasset تمنراست",
@@ -2959,6 +3086,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T21:35:09Z"
+      }
+    ]
+  },
+  "awb_976a6f795d7db050a73d": {
+    "id": "awb_976a6f795d7db050a73d",
+    "name": "R2Extra Pop",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop"
+    ],
+    "homepage": "https://r2extra.err.ee/r2pop",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:35:39Z",
+    "streams": [
+      {
+        "id": "aws_db8ecbf4ac671f2b8d0c",
+        "stationId": "awb_976a6f795d7db050a73d",
+        "name": "R2Extra Pop",
+        "country": "EE",
+        "url": "https://live.err.ee/live/r2pop.m3u8?short=true",
+        "codec": "aac",
+        "bitrate": 82,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c5aca242-c975-4c74-9cfa-0f027066e8c9"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },
@@ -5016,6 +5184,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:59:43Z"
+      }
+    ]
+  },
+  "awb_979c107a9411a948a637": {
+    "id": "awb_979c107a9411a948a637",
+    "name": "Radio TEV LV",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk",
+      "top 40"
+    ],
+    "homepage": "https://radiotev.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:04Z",
+    "streams": [
+      {
+        "id": "aws_9d6fdf16ea3ab327cd08",
+        "stationId": "awb_979c107a9411a948a637",
+        "name": "Radio TEV LV",
+        "country": "LV",
+        "url": "https://streams.radiotev.lv:8443/lv",
+        "codec": "aac+",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "75a784cd-b568-4222-a04d-80475107ba4f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },
@@ -7937,6 +8151,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T22:11:20Z"
+      }
+    ]
+  },
+  "awb_97a2565a8890e25e6301": {
+    "id": "awb_97a2565a8890e25e6301",
+    "name": "Richard Diamond, Private Detective (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1940s",
+      "1950s",
+      "detective",
+      "mystery",
+      "noir",
+      "old time radio",
+      "otr",
+      "radio drama"
+    ],
+    "homepage": "https://stupidpotato.com/richard-diamond/",
+    "favicon": "https://stupidpotato.com/richard-diamond/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:23:41Z",
+    "streams": [
+      {
+        "id": "aws_6a5551377306bc26b553",
+        "stationId": "awb_97a2565a8890e25e6301",
+        "name": "Richard Diamond, Private Detective (radio) | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/richard-diamond/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "2750409c-591f-4608-aaa8-fd8c3a9e41ec"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },

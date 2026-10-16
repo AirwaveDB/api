@@ -66,10 +66,10 @@
       "rock"
     ],
     "homepage": "https://exclusive.radio/",
-    "favicon": null,
+    "favicon": "https://s1.qwant.com/thumbr/474x355/a/f/bc8c2acd7d97a6ed1c1c01d04cfded2403ebbaa40c71560a7cb540bd5785c6/OIP.yEB4ZHBVjcZFJLVuYtZ7sAAAAA.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.yEB4ZHBVjcZFJLVuYtZ7sAAAAA%3Fpid%3DApi&q=0&b=1&p=0&a=0",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24",
+    "sourceCount": 4,
+    "updatedAt": "2026-10-15T10:39:00Z",
     "streams": [
       {
         "id": "aws_7b8a27dfdeb2bb46dd71",
@@ -86,11 +86,11 @@
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "501e4f18-fd92-441e-b4c6-4bd4a8435672",
+          "17f9a1ef-3f6e-4f7a-8071-2c583fae09e1",
           "AE:exclusively-pink-floyd"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T06:55:49Z"
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },
@@ -172,6 +172,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T16:43:25Z"
+      }
+    ]
+  },
+  "awb_dcb6ca5f3889ca42b085": {
+    "id": "awb_dcb6ca5f3889ca42b085",
+    "name": "Radio 7",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "talk"
+    ],
+    "homepage": "https://radio-7.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:41:45Z",
+    "streams": [
+      {
+        "id": "aws_c2a7057462fa7733fafc",
+        "stationId": "awb_dcb6ca5f3889ca42b085",
+        "name": "Radio 7",
+        "country": "AL",
+        "url": "https://rpn.bozztv.com/radio/Med7-RadioTirana/icecast.audio",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9f61b80d-13dd-404f-909f-a8e2e75b1d06"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },
@@ -2270,6 +2314,49 @@
       }
     ]
   },
+  "awb_dc70f9599b4cbd0a3838": {
+    "id": "awb_dc70f9599b4cbd0a3838",
+    "name": "Jow Radio - K-POP",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "anime",
+      "pop"
+    ],
+    "tags": [
+      "k pop",
+      "pop"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:53:47Z",
+    "streams": [
+      {
+        "id": "aws_6387b54c509d44580b5b",
+        "stationId": "awb_dc70f9599b4cbd0a3838",
+        "name": "Jow Radio - K-POP",
+        "country": "DZ",
+        "url": "https://azuracast.dataplayapps.com/listen/jow_k-pop/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7c24fe85-cc55-4669-90bd-a96f765bbae2"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_dc729464c8b80173278d": {
     "id": "awb_dc729464c8b80173278d",
     "name": "Modelo 97.7 FM",
@@ -3662,6 +3749,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T00:59:10Z"
+      }
+    ]
+  },
+  "awb_dc0b3a93437ff86f13a0": {
+    "id": "awb_dc0b3a93437ff86f13a0",
+    "name": "Venture 995 fm",
+    "country": "GB",
+    "subdivision": "lond",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "reggae"
+    ],
+    "tags": [
+      "r&b",
+      "reggae",
+      "soul"
+    ],
+    "homepage": "https://www.venturefm.co.uk/",
+    "favicon": "https://www.venturefm.co.uk/wp-content/uploads/2021/06/VFM-2021.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T15:16:09Z",
+    "streams": [
+      {
+        "id": "aws_d33edf5dc9a692d03c14",
+        "stationId": "awb_dc0b3a93437ff86f13a0",
+        "name": "Venture 995 fm",
+        "country": "GB",
+        "url": "https://c20.radioboss.fm:8383/stream?_ic2=1792075891550",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "51f84050-e3f2-4af0-af17-19a213303284"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },
@@ -7817,6 +7947,41 @@
       }
     ]
   },
+  "awb_dc5284382db54a41d7d0": {
+    "id": "awb_dc5284382db54a41d7d0",
+    "name": "RTVradio 80s",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rtvradio.50webs.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T19:28:30Z",
+    "streams": [
+      {
+        "id": "aws_56e737aca35cf62425ad",
+        "stationId": "awb_dc5284382db54a41d7d0",
+        "name": "RTVradio 80s",
+        "country": "US",
+        "url": "http://rtvradio.sytes.net:8000/top",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9d208af6-45df-4ef3-a3dc-a095fab354b9"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_dcca44380cd16c4d6bfa": {
     "id": "awb_dcca44380cd16c4d6bfa",
     "name": "Salsa Warriors",
@@ -7928,7 +8093,7 @@
   },
   "awb_dce1f737b260dec682b6": {
     "id": "awb_dce1f737b260dec682b6",
-    "name": "The Source:Smooth Jazz Radio - KJAC.DB",
+    "name": "The Source - Smooth Jazz Radio KJAC.DB",
     "country": "US",
     "subdivision": "WA",
     "languages": [
@@ -7945,7 +8110,7 @@
       "vocal contemporary"
     ],
     "homepage": "https://www.thesourcesmoothjazzradio.com/",
-    "favicon": "https://assets.clrd.net/uploads/logos/autodj/019dadf0-f0bf-7212-a652-f5c4e0c20233/0a60605f-b500-401f-a62f-8d05b670dda4.webp",
+    "favicon": "https://www.thesourcesmoothjazzradio.com/images/favicon-32x32.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-27T21:12:09Z",

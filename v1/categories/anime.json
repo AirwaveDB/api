@@ -1995,6 +1995,49 @@
       ]
     },
     {
+      "id": "awb_dc70f9599b4cbd0a3838",
+      "name": "Jow Radio - K-POP",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "ar"
+      ],
+      "categories": [
+        "anime",
+        "pop"
+      ],
+      "tags": [
+        "k pop",
+        "pop"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:53:47Z",
+      "streams": [
+        {
+          "id": "aws_6387b54c509d44580b5b",
+          "stationId": "awb_dc70f9599b4cbd0a3838",
+          "name": "Jow Radio - K-POP",
+          "country": "DZ",
+          "url": "https://azuracast.dataplayapps.com/listen/jow_k-pop/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7c24fe85-cc55-4669-90bd-a96f765bbae2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
       "id": "awb_dbf21742c7dd4515c497",
       "name": "AnimeRadio.GAL",
       "country": "ES",
@@ -5423,52 +5466,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T05:37:04Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_fff9ac30299ffdf36fa2",
-      "name": "Monster Radio RX 93.1",
-      "country": "PH",
-      "subdivision": null,
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "anime",
-        "pop"
-      ],
-      "tags": [
-        "alternative",
-        "indie",
-        "kpop",
-        "philippines",
-        "pop"
-      ],
-      "homepage": "https://www.rx931.com/",
-      "favicon": "https://www.rx931.com/images/logo-main.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-15T06:48:46Z",
-      "streams": [
-        {
-          "id": "aws_7b01340866c28ec1de33",
-          "stationId": "awb_fff9ac30299ffdf36fa2",
-          "name": "Monster Radio RX 93.1",
-          "country": "PH",
-          "url": "https://in-icecast.eradioportal.com:8443/monsterrrx",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "17ecaa05-f3af-410b-a768-f0d17e82e212"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },

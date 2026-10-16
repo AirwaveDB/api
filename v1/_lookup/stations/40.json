@@ -2477,6 +2477,41 @@
       }
     ]
   },
+  "awb_402f640f66f6e63699ce": {
+    "id": "awb_402f640f66f6e63699ce",
+    "name": "RHB1",
+    "country": "DE",
+    "subdivision": "Deutschland und NRW",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.rhb1.de/",
+    "favicon": "https://rhb1.de/wp-content/uploads/2026/10/rhb1_transparent-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T09:29:38Z",
+    "streams": [
+      {
+        "id": "aws_03c8e88736b5905b7dac",
+        "stationId": "awb_402f640f66f6e63699ce",
+        "name": "RHB1",
+        "country": "DE",
+        "url": "https://stream.laut.fm/radioherzblut",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "901887b0-69c4-48b6-bf87-6f9802f92e8f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
+      }
+    ]
+  },
   "awb_40d980ece32fdb9f6033": {
     "id": "awb_40d980ece32fdb9f6033",
     "name": "STAR FM Blues Rock",
@@ -4371,6 +4406,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T22:33:26Z"
+      }
+    ]
+  },
+  "awb_40971e9ae19cc7bf2b64": {
+    "id": "awb_40971e9ae19cc7bf2b64",
+    "name": "LOUNGE FM",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "ambient",
+      "jazz"
+    ],
+    "tags": [
+      "bossa nova",
+      "chill out",
+      "downtempo",
+      "jazz",
+      "lounge"
+    ],
+    "homepage": "https://loungefm.lv/en/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:05Z",
+    "streams": [
+      {
+        "id": "aws_9c652e8529b374f58df1",
+        "stationId": "awb_40971e9ae19cc7bf2b64",
+        "name": "LOUNGE FM",
+        "country": "LV",
+        "url": "https://stream.loungefm.lv:8443/lounge",
+        "codec": "aac+",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c23e29c7-3f3f-413f-8593-890b0e4ff144"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },
@@ -7972,6 +8053,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T11:34:33Z"
+      }
+    ]
+  },
+  "awb_40b6c78e10da9672785b": {
+    "id": "awb_40b6c78e10da9672785b",
+    "name": "The Midnight Exchange: Suspense Radio | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "horror",
+      "mystery",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "suspense"
+    ],
+    "homepage": "https://stupidpotato.com/midnight-exchange/",
+    "favicon": "https://stupidpotato.com/midnight-exchange/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:23:41Z",
+    "streams": [
+      {
+        "id": "aws_15664f8cab2a1373792a",
+        "stationId": "awb_40b6c78e10da9672785b",
+        "name": "The Midnight Exchange: Suspense Radio | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/midnight-exchange/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3b31b05b-38e0-4a8f-966a-3eae6f6cadc4"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

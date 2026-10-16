@@ -175,6 +175,51 @@
       }
     ]
   },
+  "awb_26ada4f854fcdf69d057": {
+    "id": "awb_26ada4f854fcdf69d057",
+    "name": "Rádio Benguela",
+    "country": "AO",
+    "subdivision": "Benguela",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-benguela/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z",
+    "streams": [
+      {
+        "id": "aws_dc08a13b8592c4ddc341",
+        "stationId": "awb_26ada4f854fcdf69d057",
+        "name": "Rádio Benguela",
+        "country": "AO",
+        "url": "https://paineldj5.com.br:20096/stream",
+        "codec": "aac",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8ee84f80-d3a5-4269-8599-b2e24d4fd5f9"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_264633f48847fb757bbd": {
     "id": "awb_264633f48847fb757bbd",
     "name": "Gachi Station #3",
@@ -7009,8 +7054,8 @@
         "name": "Wow Music Шансон",
         "country": "RU",
         "url": "https://stream.vyshka24.ru/wowshanson",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 192,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -7020,7 +7065,7 @@
           "22663671-98af-49cf-87c8-17b1b59f4666"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       }
     ]
   },

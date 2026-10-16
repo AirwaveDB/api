@@ -1,6 +1,6 @@
 {
   "id": "oldies",
-  "stationCount": 2908,
+  "stationCount": 2932,
   "stations": [
     {
       "id": "awb_54b14451982a6e74df55",
@@ -1181,6 +1181,186 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T01:23:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_87a4ed50e6794fde1835",
+      "name": "LeFutur Radio",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "hip-hop",
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "90s",
+        "hip hop",
+        "hits",
+        "pop"
+      ],
+      "homepage": "https://www.radiolefutur.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:41:45Z",
+      "streams": [
+        {
+          "id": "aws_1b8ce4e0d3b43e5c0bdc",
+          "stationId": "awb_87a4ed50e6794fde1835",
+          "name": "LeFutur Radio",
+          "country": "AL",
+          "url": "https://listen.radioking.com/radio/320837/stream/503612",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "43779f66-347f-44c2-aabd-4c1936bdfc7b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_814ef55425312ab96f07",
+      "name": "Play Gold",
+      "country": "AL",
+      "subdivision": "Fieri",
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "oldies",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://playradio.one/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:34:10Z",
+      "streams": [
+        {
+          "id": "aws_d64df285fc40868d245a",
+          "stationId": "awb_814ef55425312ab96f07",
+          "name": "Play Gold",
+          "country": "AL",
+          "url": "https://stream.radiojar.com/431m8b6qcm5tv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b50cb68-e626-4ae5-8552-45502e50d9c1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_17d10589adb88121fbca",
+      "name": "Pulse FM",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "hits",
+        "oldies",
+        "pop"
+      ],
+      "homepage": "https://pulsefm.al/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:36:07Z",
+      "streams": [
+        {
+          "id": "aws_aa6743cc3f9463fdd7a7",
+          "stationId": "awb_17d10589adb88121fbca",
+          "name": "Pulse FM",
+          "country": "AL",
+          "url": "https://onair.pulsefm.cloud/listen/pulsefm/pulsefm",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "207b21a1-b67e-4b52-9582-0db71b29fcdc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1813a41426dfdc86eea2",
+      "name": "Radio Emigranti",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "folk",
+        "oldies"
+      ],
+      "tags": [
+        "folk",
+        "oldies"
+      ],
+      "homepage": "http://www.radioemigranti.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:20:05Z",
+      "streams": [
+        {
+          "id": "aws_4bd3c1580dc396a94dda",
+          "stationId": "awb_1813a41426dfdc86eea2",
+          "name": "Radio Emigranti",
+          "country": "AL",
+          "url": "http://www.radioemigranti.com:8000/radioauto128",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e87c2e39-388e-4b4b-81ad-c07322a09795"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
         }
       ]
     },
@@ -16193,8 +16373,8 @@
           "name": "Classic Hits 109 - 70s Hits!",
           "country": "CA",
           "url": "https://broadcast.classichits109.com/70s",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -16204,7 +16384,7 @@
             "50afa332-86b9-48df-a4c1-e7d5bf47984f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         }
       ]
     },
@@ -46580,8 +46760,8 @@
           "name": "Radio Deck 1",
           "country": "DE",
           "url": "https://rde1.de/320",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -46591,7 +46771,7 @@
             "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -46636,8 +46816,8 @@
           "name": "Radio Deck 1 Hamburg",
           "country": "DE",
           "url": "https://rde1.de/192",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -46647,7 +46827,7 @@
             "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -54692,6 +54872,284 @@
       ]
     },
     {
+      "id": "awb_6b92f7e70f0bc3486ac0",
+      "name": "K-SUN66 - Fire & Rain",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "classic rock",
+        "pop",
+        "soft rock"
+      ],
+      "homepage": "https://www.ksun66.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:53:47Z",
+      "streams": [
+        {
+          "id": "aws_f795860e8161fd5fde08",
+          "stationId": "awb_6b92f7e70f0bc3486ac0",
+          "name": "K-SUN66 - Fire & Rain",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/c3m5xhr7azzuv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4e89f511-99fa-4013-9639-8e44535b6563"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_98eaf47af0d3d8e11bba",
+      "name": "K-SUN66 - Late For The Sky",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "classic rock",
+        "hits",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://www.ksun66.com/late-for-the-sky",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:00:12Z",
+      "streams": [
+        {
+          "id": "aws_8956ee9f1c45953e8f58",
+          "stationId": "awb_98eaf47af0d3d8e11bba",
+          "name": "K-SUN66 - Late For The Sky",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/r3bdvssp6yzuv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "513d7605-f78c-44de-a7b0-296f740fb559"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_64da598f8046add1f849",
+      "name": "K-SUN66 - The Diner",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "jazz",
+        "oldies",
+        "pop",
+        "rock n roll"
+      ],
+      "homepage": "https://www.ksun66.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:59:28Z",
+      "streams": [
+        {
+          "id": "aws_7e3736ef89045cf07445",
+          "stationId": "awb_64da598f8046add1f849",
+          "name": "K-SUN66 - The Diner",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/hmxb7e243mruv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "28ceda9d-0944-4a1a-8e1b-5542b68fa274"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2ed293c37a95af3f7298",
+      "name": "K-SUN66 - The Soul Town",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "oldies",
+        "rb",
+        "soul"
+      ],
+      "homepage": "https://www.ksun66.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:02:01Z",
+      "streams": [
+        {
+          "id": "aws_31d6bdf782363ec1d4a6",
+          "stationId": "awb_2ed293c37a95af3f7298",
+          "name": "K-SUN66 - The Soul Town",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/84u7n7rurg0uv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c42beec4-2330-4d09-bc9c-5b951eb76378"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_19e28c7cf5518cf24c8b",
+      "name": "K-SUN66 - The Waves",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "classic rock",
+        "pop",
+        "soft rock"
+      ],
+      "homepage": "https://www.ksun66.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:02:01Z",
+      "streams": [
+        {
+          "id": "aws_bd5fd723fef67a2cf2a4",
+          "stationId": "awb_19e28c7cf5518cf24c8b",
+          "name": "K-SUN66 - The Waves",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/qpets04rehruv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f37f752c-fc2e-49a1-ba3f-41649af92d0f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_06832a2459b07db15e1e",
+      "name": "K-SUN66 \"THE HITS\"",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "rock"
+      ],
+      "tags": [
+        "classic rock",
+        "oldies",
+        "rock"
+      ],
+      "homepage": "https://www.ksun66.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:02:01Z",
+      "streams": [
+        {
+          "id": "aws_35296c781a34283d465c",
+          "stationId": "awb_06832a2459b07db15e1e",
+          "name": "K-SUN66 \"THE HITS\"",
+          "country": "DZ",
+          "url": "https://radio8.pro-fhi.net/listen/ksunclassics/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "60b9eafe-c4f1-454b-8818-462b53b32ba7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9df91189e24521342954",
       "name": "Contigo FM 104.9",
       "country": "EC",
@@ -55137,6 +55595,95 @@
       ]
     },
     {
+      "id": "awb_d4a94abf8a1e6cc8a394",
+      "name": "Retro FM",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "et"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "oldies",
+        "pop",
+        "retro"
+      ],
+      "homepage": "https://retrofm.sky.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:34:29Z",
+      "streams": [
+        {
+          "id": "aws_f6cf39aa4f2f8027b5c4",
+          "stationId": "awb_d4a94abf8a1e6cc8a394",
+          "name": "Retro FM",
+          "country": "EE",
+          "url": "https://stream.skymedia.ee/live/RETRO",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a627e7d9-6152-4a0e-8533-0cc22ab80491"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e030b8cb2d024e5f2e32",
+      "name": "Retro FM Eestikas",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "et"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "adult contemporary",
+        "oldies",
+        "retro"
+      ],
+      "homepage": "https://retrofm.sky.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:25:20Z",
+      "streams": [
+        {
+          "id": "aws_05ae65e86841eb6e64f9",
+          "stationId": "awb_e030b8cb2d024e5f2e32",
+          "name": "Retro FM Eestikas",
+          "country": "EE",
+          "url": "https://stream.skymedia.ee/live/retro2.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "36fdf13a-63f4-48cf-8bf2-721067f607fa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3c58426c655337687bba",
       "name": "Retro Love",
       "country": "EE",
@@ -55223,6 +55770,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:57:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3c372eb0986b8cd73c18",
+      "name": "SSS-Radio",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "fi"
+      ],
+      "categories": [
+        "news",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "homepage": "https://sss-radio.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:42:37Z",
+      "streams": [
+        {
+          "id": "aws_1a306efd6fc1ce2505a8",
+          "stationId": "awb_3c372eb0986b8cd73c18",
+          "name": "SSS-Radio",
+          "country": "EE",
+          "url": "https://uvn-67-97.tll01.zonevs.eu/sss-radio",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "df89e10f-97af-4a04-b1eb-c42e2511188f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },
@@ -59636,8 +60232,8 @@
           "name": "SAM Ibiza",
           "country": "ES",
           "url": "https://stream.aiir.com/a85tlgriuzyuv",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -59647,7 +60243,7 @@
             "d7fde6f3-9f1b-4ea3-b50f-f58b26b51165"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -61112,7 +61708,7 @@
       "id": "awb_7e7569648104bc027057",
       "name": "DIGITAL2RADIO",
       "country": "FR",
-      "subdivision": "Normandy",
+      "subdivision": "Normandie",
       "languages": [],
       "categories": [
         "oldies",
@@ -61382,6 +61978,65 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:16:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7afcc9a8dace73f64ef1",
+      "name": "Glaz | Radio",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ],
+      "categories": [
+        "blues",
+        "folk",
+        "hip-hop",
+        "oldies",
+        "rock"
+      ],
+      "tags": [
+        "bluegrass",
+        "blues",
+        "chanson française",
+        "folk",
+        "hip-hop 90s",
+        "ia",
+        "indie",
+        "musique originale",
+        "nantes",
+        "rock",
+        "rock celtique",
+        "suno",
+        "webradio"
+      ],
+      "homepage": "https://www.glazradio.tech/",
+      "favicon": "https://atelier-glaz.com/radio/favicon.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T12:32:14Z",
+      "streams": [
+        {
+          "id": "aws_137d22353d3928791aa3",
+          "stationId": "awb_7afcc9a8dace73f64ef1",
+          "name": "Glaz | Radio",
+          "country": "FR",
+          "url": "https://www.glazradio.tech/listen/glazradio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "61573c6a-95dd-444d-90be-871e3b0b667d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -65986,6 +66641,54 @@
       ]
     },
     {
+      "id": "awb_ec34b8d31dbaa6cc59f3",
+      "name": "Groove FM",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "dance",
+        "disco",
+        "funk",
+        "groove",
+        "oldies",
+        "soul"
+      ],
+      "homepage": "https://groovefm.uk/",
+      "favicon": "https://player.groovefm.uk/media/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T08:24:21Z",
+      "streams": [
+        {
+          "id": "aws_d7c91f845f6ce871e779",
+          "stationId": "awb_ec34b8d31dbaa6cc59f3",
+          "name": "Groove FM",
+          "country": "GB",
+          "url": "https://groovefm.uk/listen/groove_fm/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fae03b86-d61f-4803-a96b-1108d5b922a8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4a7be195a198de01224c",
       "name": "Gwent Radio",
       "country": "GB",
@@ -69164,8 +69867,8 @@
       "homepage": "https://tunein.com/radio/RKNW-s263810/",
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-15T02:19:29Z",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:57:46Z",
       "streams": [
         {
           "id": "aws_93b8d890e93a3c08e517",
@@ -69173,8 +69876,8 @@
           "name": "RKNW Pirate Radio",
           "country": "GB",
           "url": "http://quasar.shoutca.st:8108/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -69184,26 +69887,7 @@
             "af927ce9-35d4-4d98-b36e-0812039bd16d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
-        },
-        {
-          "id": "aws_914fd860afc3514780ad",
-          "stationId": "awb_62345d01e03837f8072c",
-          "name": "RKNW Pirate Radio",
-          "country": "GB",
-          "url": "http://quasar.shoutca.st:8108/stream.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1deb3bde-5507-4624-a780-5986312c88c3"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -70865,7 +71549,7 @@
       "id": "awb_4d4d44464f31efb7b977",
       "name": "1st Greek 80s FLAC Radio",
       "country": "GR",
-      "subdivision": "Kozani",
+      "subdivision": "Attica, Athens",
       "languages": [
         "el",
         "en"
@@ -83971,6 +84655,53 @@
       ]
     },
     {
+      "id": "awb_11ab40cc55b8779b4047",
+      "name": "rcuno",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "hits",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "homepage": "http://rcuno.altervista.org/",
+      "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/RCUNO1.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-15T15:59:50Z",
+      "streams": [
+        {
+          "id": "aws_76ef71caef1e5ed1114a",
+          "stationId": "awb_11ab40cc55b8779b4047",
+          "name": "RCUNO",
+          "country": "IT",
+          "url": "https://stream.laut.fm/radiocoveruno",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "788769cb-2465-45f3-aa5d-4ad5ab33d37d",
+            "aa16bef0-6a20-4a85-abd6-d14397aabfa4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_285302ead1140b94cce8",
       "name": "Rigiriamo Web Radio",
       "country": "IT",
@@ -85442,6 +86173,47 @@
       ]
     },
     {
+      "id": "awb_f709daaa4b9d0a260029",
+      "name": "Draugystės radijas",
+      "country": "LT",
+      "subdivision": "Šiauliai",
+      "languages": [
+        "lt"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:24:32Z",
+      "streams": [
+        {
+          "id": "aws_bd931c25ad1110fd0525",
+          "stationId": "awb_f709daaa4b9d0a260029",
+          "name": "Draugystės radijas",
+          "country": "LT",
+          "url": "http://213.226.189.174:8000/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bd2ce58d-da96-443a-94d2-1b1451102f21"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_b72150b06a9ff1c7be53",
       "name": "Radio 3",
       "country": "LT",
@@ -85486,6 +86258,231 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:16:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f4de31f8e87b976a08a5",
+      "name": "European Hit Radio - SuperHits Gold",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "90s",
+        "oldies",
+        "pop"
+      ],
+      "homepage": "https://www.ehr.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:48:51Z",
+      "streams": [
+        {
+          "id": "aws_6535fb29272b2e4944cd",
+          "stationId": "awb_f4de31f8e87b976a08a5",
+          "name": "European Hit Radio - SuperHits Gold",
+          "country": "LV",
+          "url": "https://29053.live.streamtheworld.com/EHR_SUPERHITS_GOLDAAC.aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ec4e6546-df1a-4bba-a326-551e6e1a5616"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9f7cf920dbbff4340dd1",
+      "name": "Radio Skonto 70's, 80's, 90's",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "90s",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://radioskonto.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:46:50Z",
+      "streams": [
+        {
+          "id": "aws_88b499368b04b04721d8",
+          "stationId": "awb_9f7cf920dbbff4340dd1",
+          "name": "Radio Skonto 70's, 80's, 90's",
+          "country": "LV",
+          "url": "https://streams.radioskonto.lv:8443/skonto-70-80-90",
+          "codec": "aac+",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f6cbecc2-9f2f-4107-a34f-08e184171ea0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_df56d6f8af937b5b9747",
+      "name": "Retro FM 90's",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "disco",
+        "oldies",
+        "pop",
+        "retro",
+        "rock"
+      ],
+      "homepage": "https://retrofm.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:58:05Z",
+      "streams": [
+        {
+          "id": "aws_e13658a584437ed1804d",
+          "stationId": "awb_df56d6f8af937b5b9747",
+          "name": "Retro FM 90's",
+          "country": "LV",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETRO_LATVIJA_FM_70_80_90SAAC.aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3ef1104f-2563-4aed-b97b-3453d89dc02b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5f22075f90723b7c02d1",
+      "name": "Авторадио Дискотека 80-х",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "disco",
+        "pop"
+      ],
+      "homepage": "https://www.avtoradio.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:05:00Z",
+      "streams": [
+        {
+          "id": "aws_4f32d737e8d48617ea4d",
+          "stationId": "awb_5f22075f90723b7c02d1",
+          "name": "Авторадио Дискотека 80-х",
+          "country": "LV",
+          "url": "https://my.radioprocessor.com:8100/avtoradiolv-disco80s-48.aac",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0a274f0d-e00d-48f5-b207-02ada2d2b7a0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7a1e3d7e68f027037e7f",
+      "name": "Авторадио Ностальгия",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies",
+        "retro"
+      ],
+      "homepage": "https://www.avtoradio.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:46:08Z",
+      "streams": [
+        {
+          "id": "aws_58f89bbac473e1e3466e",
+          "stationId": "awb_7a1e3d7e68f027037e7f",
+          "name": "Авторадио Ностальгия",
+          "country": "LV",
+          "url": "http://my.radioprocessor.com:8100/avtoradiolv-nostalgia-48.aac",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "07175f59-54a2-4d2e-ac46-14b992463c21"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },
@@ -86223,89 +87220,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T21:56:34Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9359ec9139ddfe95c6cf",
-      "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "metal",
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "80s",
-        "90s",
-        "acir",
-        "acir online",
-        "adult album alternative",
-        "adult alternative",
-        "alternative",
-        "alternative 70s",
-        "alternative 80s",
-        "alternative metal",
-        "alternative pop",
-        "alternative rock",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "classic rock; alternative rock indie",
-        "entretenimiento",
-        "español",
-        "estación",
-        "grupo acir",
-        "iheart",
-        "iheart radio",
-        "indie rock",
-        "latinoamérica",
-        "mexico city",
-        "mix",
-        "mix alternative",
-        "mix fm",
-        "moi merino",
-        "music",
-        "méxico",
-        "música alternativa",
-        "norteamérica",
-        "online",
-        "online only",
-        "radio",
-        "radio online",
-        "rock",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-13T04:25:31Z",
-      "streams": [
-        {
-          "id": "aws_e99a5227dad39e25927f",
-          "stationId": "awb_9359ec9139ddfe95c6cf",
-          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
-            "a7a10889-e3af-4085-b800-1868e8cc8085"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -92058,6 +92972,89 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T03:00:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9359ec9139ddfe95c6cf",
+      "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "metal",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "acir",
+        "acir online",
+        "adult album alternative",
+        "adult alternative",
+        "alternative",
+        "alternative 70s",
+        "alternative 80s",
+        "alternative metal",
+        "alternative pop",
+        "alternative rock",
+        "américa",
+        "cdmx",
+        "ciudad de méxico",
+        "classic rock; alternative rock indie",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "indie rock",
+        "latinoamérica",
+        "mexico city",
+        "mix",
+        "mix alternative",
+        "mix fm",
+        "moi merino",
+        "music",
+        "méxico",
+        "música alternativa",
+        "norteamérica",
+        "online",
+        "online only",
+        "radio",
+        "radio online",
+        "rock",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T04:25:31Z",
+      "streams": [
+        {
+          "id": "aws_e99a5227dad39e25927f",
+          "stationId": "awb_9359ec9139ddfe95c6cf",
+          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+            "a7a10889-e3af-4085-b800-1868e8cc8085"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-13T22:04:58Z"
         }
       ]
     },
@@ -109754,6 +110751,46 @@
       ]
     },
     {
+      "id": "awb_4d5298b953cbdee68e85",
+      "name": "Classic Replay Radio",
+      "country": "NL",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "classic",
+        "funk. oldies"
+      ],
+      "homepage": "http://www.classicreplay.nl/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T19:27:04Z",
+      "streams": [
+        {
+          "id": "aws_f2d221f656031b01eeab",
+          "stationId": "awb_4d5298b953cbdee68e85",
+          "name": "Classic Replay Radio",
+          "country": "NL",
+          "url": "http://135.181.165.48:8019/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c52eb9d5-e95b-475d-830f-6a69f6b91fb6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
+        }
+      ]
+    },
+    {
       "id": "awb_703b3a97d310d23f5d3f",
       "name": "Coastline",
       "country": "NL",
@@ -126275,7 +127312,7 @@
         "techno",
         "trance"
       ],
-      "homepage": "https://hitcity.se/live",
+      "homepage": "https://hitcity.se/",
       "favicon": "https://hitcity.se/HITCITY_logga.png",
       "type": null,
       "sourceCount": 3,
@@ -131569,7 +132606,7 @@
           "name": "93.7 The River Sacramento KYRV",
           "country": "US",
           "url": "https://stream.revma.ihrhls.com/zc4314",
-          "codec": null,
+          "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -131580,7 +132617,7 @@
             "07c935e0-e828-4b29-889b-1f0b8837b847"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         }
       ]
     },
@@ -134146,6 +135183,52 @@
       ]
     },
     {
+      "id": "awb_1ebc99e4af586132251f",
+      "name": "Don't Touch That Dial: Double Feature | Stupid Potato",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "80s",
+        "movie trailers",
+        "nostalgia",
+        "retro",
+        "tv themes",
+        "vintage commercials"
+      ],
+      "homepage": "https://stupidpotato.com/dial-double-feature/",
+      "favicon": "https://stupidpotato.com/dial-double-feature/brand/cover-600.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T08:23:41Z",
+      "streams": [
+        {
+          "id": "aws_b4e9b15b978abd8a56bb",
+          "stationId": "awb_1ebc99e4af586132251f",
+          "name": "Don't Touch That Dial: Double Feature | Stupid Potato",
+          "country": "US",
+          "url": "https://stupidpotato.com/dial-double-feature/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cd4e4b31-bb2a-4906-b101-463bfaa28311"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8cf06054fbb6761f1abb",
       "name": "DOO WOP FOREVER - CALM RADIO",
       "country": "US",
@@ -134823,7 +135906,7 @@
         "oldies",
         "wisconsin"
       ],
-      "homepage": "https://classiccountrylegendsradio.neocities.org/",
+      "homepage": "https://classiccountrylegendsradio.neocities.org/goldenoldies",
       "favicon": "https://images.zeno.fm/oLsvZnvFd_rx-U_Xvki0Uu8RpK46_XVfSbMunX5q0us/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2JhNDE3OWEzLTExMjEtNDUwMi1hNGZkLTU0MjUzYWExNjg3YS9pbWFnZS8_dT0xNzkxMTQyNTg2NzEy.webp",
       "type": null,
       "sourceCount": 2,

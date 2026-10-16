@@ -137,10 +137,10 @@
       "rock"
     ],
     "homepage": "https://exclusive.radio/",
-    "favicon": null,
+    "favicon": "https://s2.qwant.com/thumbr/474x316/e/f/b5d0281d761fc500fc647b05307d8c22fc03fd088ac531567192678ccbdb15/OIP.TnByShFS6MRcwHhzZfS5DwHaE8.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.TnByShFS6MRcwHhzZfS5DwHaE8%3Fpid%3DApi&q=0&b=1&p=0&a=0",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24",
+    "sourceCount": 4,
+    "updatedAt": "2026-10-15T22:06:10Z",
     "streams": [
       {
         "id": "aws_4714432349a8f6aaa8c4",
@@ -157,11 +157,11 @@
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "AE:exclusively-genesis",
-          "e2d15e7a-1b58-46c1-9c83-e21663934826"
+          "10a91c2b-57a1-4384-b3ee-537ab112d2d5",
+          "AE:exclusively-genesis"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-11T21:40:52Z"
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },
@@ -3355,7 +3355,7 @@
       "radio locale"
     ],
     "homepage": "https://www.ici.fr/radio/breizh-izel",
-    "favicon": "https://www.ici.fr/images/apple-touch-icon.png",
+    "favicon": "https://www.ici.fr/favicon56.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T10:24:25Z",
@@ -5476,6 +5476,53 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T15:15:53Z"
+      }
+    ]
+  },
+  "awb_df56d6f8af937b5b9747": {
+    "id": "awb_df56d6f8af937b5b9747",
+    "name": "Retro FM 90's",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "disco",
+      "oldies",
+      "pop",
+      "retro",
+      "rock"
+    ],
+    "homepage": "https://retrofm.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:58:05Z",
+    "streams": [
+      {
+        "id": "aws_e13658a584437ed1804d",
+        "stationId": "awb_df56d6f8af937b5b9747",
+        "name": "Retro FM 90's",
+        "country": "LV",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETRO_LATVIJA_FM_70_80_90SAAC.aac",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3ef1104f-2563-4aed-b97b-3453d89dc02b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },
@@ -8077,6 +8124,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T15:56:46Z"
+      }
+    ]
+  },
+  "awb_dfef937ea0666dabda50": {
+    "id": "awb_dfef937ea0666dabda50",
+    "name": "Nick Carter, Master Detective (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1940s",
+      "1950s",
+      "detective",
+      "mystery",
+      "noir",
+      "old time radio",
+      "otr",
+      "radio drama"
+    ],
+    "homepage": "https://stupidpotato.com/nick-carter/",
+    "favicon": "https://stupidpotato.com/nick-carter/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:23:41Z",
+    "streams": [
+      {
+        "id": "aws_8c6743f41e8d5c23147c",
+        "stationId": "awb_dfef937ea0666dabda50",
+        "name": "Nick Carter, Master Detective (radio) | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/nick-carter/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8c2c1ca6-c89f-4f18-b64d-aee782dac009"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

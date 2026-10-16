@@ -163,6 +163,49 @@
       }
     ]
   },
+  "awb_7a6bb2a75dfd1a5b15c4": {
+    "id": "awb_7a6bb2a75dfd1a5b15c4",
+    "name": "Rádio STTOP FM",
+    "country": "AO",
+    "subdivision": "Talatona",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.sttopfm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:26:16Z",
+    "streams": [
+      {
+        "id": "aws_4c08b7efa92c5693c59c",
+        "stationId": "awb_7a6bb2a75dfd1a5b15c4",
+        "name": "Rádio STTOP FM",
+        "country": "AO",
+        "url": "https://wz7.servidoresbrasil.com:8478/stream",
+        "codec": "aac",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6893a5af-c1b9-4713-b435-9015c13f3183"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_7af6f5cf4dc40645eb29": {
     "id": "awb_7af6f5cf4dc40645eb29",
     "name": "AM CUMBRE 1400",
@@ -3453,6 +3496,65 @@
       }
     ]
   },
+  "awb_7afcc9a8dace73f64ef1": {
+    "id": "awb_7afcc9a8dace73f64ef1",
+    "name": "Glaz | Radio",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "blues",
+      "folk",
+      "hip-hop",
+      "oldies",
+      "rock"
+    ],
+    "tags": [
+      "bluegrass",
+      "blues",
+      "chanson française",
+      "folk",
+      "hip-hop 90s",
+      "ia",
+      "indie",
+      "musique originale",
+      "nantes",
+      "rock",
+      "rock celtique",
+      "suno",
+      "webradio"
+    ],
+    "homepage": "https://www.glazradio.tech/",
+    "favicon": "https://atelier-glaz.com/radio/favicon.png",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T12:32:14Z",
+    "streams": [
+      {
+        "id": "aws_137d22353d3928791aa3",
+        "stationId": "awb_7afcc9a8dace73f64ef1",
+        "name": "Glaz | Radio",
+        "country": "FR",
+        "url": "https://www.glazradio.tech/listen/glazradio/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "61573c6a-95dd-444d-90be-871e3b0b667d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
+      }
+    ]
+  },
   "awb_7a9f138aa328e6b299f6": {
     "id": "awb_7a9f138aa328e6b299f6",
     "name": "ICI Occitanie",
@@ -4763,6 +4865,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T12:52:51Z"
+      }
+    ]
+  },
+  "awb_7a1e3d7e68f027037e7f": {
+    "id": "awb_7a1e3d7e68f027037e7f",
+    "name": "Авторадио Ностальгия",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "oldies",
+      "retro"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:08Z",
+    "streams": [
+      {
+        "id": "aws_58f89bbac473e1e3466e",
+        "stationId": "awb_7a1e3d7e68f027037e7f",
+        "name": "Авторадио Ностальгия",
+        "country": "LV",
+        "url": "http://my.radioprocessor.com:8100/avtoradiolv-nostalgia-48.aac",
+        "codec": "aac",
+        "bitrate": 48,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "07175f59-54a2-4d2e-ac46-14b992463c21"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

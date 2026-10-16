@@ -213,6 +213,51 @@
       }
     ]
   },
+  "awb_2a9c80b577f95dded703": {
+    "id": "awb_2a9c80b577f95dded703",
+    "name": "Rádio Cuquema",
+    "country": "AO",
+    "subdivision": "Cuíto",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://play.google.com/store/apps/details?id=justweb.radio.cuquema",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:22:12Z",
+    "streams": [
+      {
+        "id": "aws_d802e36d6911f7fbed0c",
+        "stationId": "awb_2a9c80b577f95dded703",
+        "name": "Rádio Cuquema",
+        "country": "AO",
+        "url": "https://radios2.justweb.pt:8034/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6795d0a7-4dbd-40bf-b793-39c8f8f822b2"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_2a83fba0adcc0c9118da": {
     "id": "awb_2a83fba0adcc0c9118da",
     "name": "Fm Amanecer 92.5Mhz",
@@ -5401,6 +5446,135 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T06:29:02Z"
+      }
+    ]
+  },
+  "awb_2ac0bb7aeedb1471d9d1": {
+    "id": "awb_2ac0bb7aeedb1471d9d1",
+    "name": "Jazz FM",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "languages": [
+      "lt"
+    ],
+    "categories": [
+      "blues",
+      "jazz"
+    ],
+    "tags": [
+      "blues",
+      "funk",
+      "jazz",
+      "soul"
+    ],
+    "homepage": "https://jazzfm.lt/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:34:39Z",
+    "streams": [
+      {
+        "id": "aws_0a09f6695af29136a11a",
+        "stationId": "awb_2ac0bb7aeedb1471d9d1",
+        "name": "Jazz FM",
+        "country": "LT",
+        "url": "https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8",
+        "codec": "aac",
+        "bitrate": 89,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5f413f81-6d51-4dfd-841f-9e50eedd248d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
+  "awb_2a0a208c619f84dd4ebf": {
+    "id": "awb_2a0a208c619f84dd4ebf",
+    "name": "PMR.lt",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "ethnic",
+      "folk"
+    ],
+    "homepage": "https://pmr.lt/en",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:36:33Z",
+    "streams": [
+      {
+        "id": "aws_171cc414e68d430b0b81",
+        "stationId": "awb_2a0a208c619f84dd4ebf",
+        "name": "PMR.lt",
+        "country": "LT",
+        "url": "https://stream.pmr.lt/pmr.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "caa33a39-080b-4997-9a32-b5189e1391b7"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
+  "awb_2a580387c08c801b751a": {
+    "id": "awb_2a580387c08c801b751a",
+    "name": "Pieci Hiti",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://pieci.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:50:56Z",
+    "streams": [
+      {
+        "id": "aws_fd57035362110d49567c",
+        "stationId": "awb_2a580387c08c801b751a",
+        "name": "Pieci Hiti",
+        "country": "LV",
+        "url": "https://muste.latvijasradio.lv/pieci/smil:k3.smil/playlist.m3u8",
+        "codec": "unknown",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3ac557ef-54ca-4b30-8da8-44a27ae85e16"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

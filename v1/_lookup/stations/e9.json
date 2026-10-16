@@ -156,6 +156,50 @@
       }
     ]
   },
+  "awb_e9a2e3e20795b60f8b72": {
+    "id": "awb_e9a2e3e20795b60f8b72",
+    "name": "Radio Rainca",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "folk",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.radiorainca.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:32:20Z",
+    "streams": [
+      {
+        "id": "aws_d91fe2559f1afedf1161",
+        "stationId": "awb_e9a2e3e20795b60f8b72",
+        "name": "Radio Rainca",
+        "country": "AL",
+        "url": "https://radiocast.ch:8000/stream",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "583302ac-b867-4cd1-9536-9a50843f7285"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_e9423551176de8eec9cc": {
     "id": "awb_e9423551176de8eec9cc",
     "name": "AM 830 Radio del Pueblo",
@@ -6130,7 +6174,7 @@
       "spanish radio"
     ],
     "homepage": "https://radiaura.net/arasuncion",
-    "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+    "favicon": "https://radiaura.net/apple-touch-icon.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-09-02T23:05:11Z",

@@ -203,6 +203,50 @@
       }
     ]
   },
+  "awb_d88a0d180bcf5d978497": {
+    "id": "awb_d88a0d180bcf5d978497",
+    "name": "Love Radio Digital",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "balada",
+      "pop",
+      "romantic",
+      "top 40"
+    ],
+    "homepage": "http://www.loveradio.al/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:32:20Z",
+    "streams": [
+      {
+        "id": "aws_0860b646a5aedd4de014",
+        "stationId": "awb_d88a0d180bcf5d978497",
+        "name": "Love Radio Digital",
+        "country": "AL",
+        "url": "https://radios.albaniadigitalradio.al/albanialoveradio",
+        "codec": "mp3",
+        "bitrate": 160,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "15f7df1a-4936-428e-b4ac-970e2574a312"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_d83380ca9149fc270d62": {
     "id": "awb_d83380ca9149fc270d62",
     "name": "AIRE",
@@ -2756,8 +2800,8 @@
         "name": "Radio Deck 1",
         "country": "DE",
         "url": "https://rde1.de/320",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 320,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -2767,7 +2811,7 @@
           "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },
@@ -8257,6 +8301,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T22:56:38Z"
+      }
+    ]
+  },
+  "awb_d81c4e917ed83f9ed9e7": {
+    "id": "awb_d81c4e917ed83f9ed9e7",
+    "name": "Boston Blackie (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1940s",
+      "1950s",
+      "detective",
+      "mystery",
+      "noir",
+      "old time radio",
+      "otr",
+      "radio drama"
+    ],
+    "homepage": "https://stupidpotato.com/boston-blackie/",
+    "favicon": "https://stupidpotato.com/boston-blackie/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:23:09Z",
+    "streams": [
+      {
+        "id": "aws_579c03c85c5c14cc50bc",
+        "stationId": "awb_d81c4e917ed83f9ed9e7",
+        "name": "Boston Blackie (radio) | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/boston-blackie/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d67d2223-5cb6-465c-8bbd-ebb222868ec9"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       }
     ]
   },

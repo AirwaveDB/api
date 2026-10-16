@@ -241,6 +241,50 @@
       }
     ]
   },
+  "awb_d34ab5cc22b9b166db94": {
+    "id": "awb_d34ab5cc22b9b166db94",
+    "name": "Rádio Essencial",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "politics",
+      "talk"
+    ],
+    "homepage": "https://radioessencial.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z",
+    "streams": [
+      {
+        "id": "aws_da1052d3e7fc0ac90658",
+        "stationId": "awb_d34ab5cc22b9b166db94",
+        "name": "Rádio Essencial",
+        "country": "AO",
+        "url": "https://servidor22-3.brlogic.com:7338/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c9902e2c-88ce-4a87-9b45-0bed984a6430"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_d37646af00e77b4c22aa": {
     "id": "awb_d37646af00e77b4c22aa",
     "name": "Gachi Station #2",
@@ -8628,9 +8672,9 @@
         "stationId": "awb_d3bf79ca8303944f9037",
         "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
         "country": "US",
-        "url": "http://provisioning.streamtheworld.com/pls/SAM04AAC609.pls",
-        "codec": null,
-        "bitrate": 0,
+        "url": "http://18303.live.streamtheworld.com:3690/SAM04AAC609_SC",
+        "codec": "aac+",
+        "bitrate": 64,
         "protocol": "http",
         "hls": false,
         "sources": [
@@ -8640,7 +8684,7 @@
           "05aba190-a0a2-40f3-93ca-47cd9f18f870"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

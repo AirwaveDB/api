@@ -170,6 +170,49 @@
       }
     ]
   },
+  "awb_ce94c37c8d2a4195b7f5": {
+    "id": "awb_ce94c37c8d2a4195b7f5",
+    "name": "ENERGY Radio",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://radionrg.al/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:32:20Z",
+    "streams": [
+      {
+        "id": "aws_b8127c0fb11ec9bb9074",
+        "stationId": "awb_ce94c37c8d2a4195b7f5",
+        "name": "ENERGY Radio",
+        "country": "AL",
+        "url": "https://stream.louderhost.com/nrgal",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "25133d52-0d3f-4df8-850d-2ffd594ba2ff"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_ce5237e2909953535e98": {
     "id": "awb_ce5237e2909953535e98",
     "name": "FM Genoma 102.5 - Zarate",
@@ -1103,7 +1146,7 @@
     "id": "awb_ceac03347026f81dacb7",
     "name": "��� � ����� �����",
     "country": "BG",
-    "subdivision": "Sofia City",
+    "subdivision": "Vidin",
     "languages": [
       "bg"
     ],
@@ -1117,7 +1160,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://bnrnews.bg/sofia",
+    "homepage": "https://bnrnews.bg/vidin",
     "favicon": null,
     "type": "public",
     "sourceCount": 8,
@@ -2595,7 +2638,7 @@
       "tv"
     ],
     "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-    "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+    "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T06:09:01Z",
@@ -3662,6 +3705,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:46:14Z"
+      }
+    ]
+  },
+  "awb_ce76fe55d45d97c80005": {
+    "id": "awb_ce76fe55d45d97c80005",
+    "name": "XFM Eesti",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "hits",
+      "news",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://xfm.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:18Z",
+    "streams": [
+      {
+        "id": "aws_53cb3960187fa4d15104",
+        "stationId": "awb_ce76fe55d45d97c80005",
+        "name": "XFM Eesti",
+        "country": "EE",
+        "url": "https://sc2.treraadio.ee/xfm-tallinn",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "89b39e02-0aba-4c39-b767-984ac7db1859"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

@@ -1,7 +1,53 @@
 {
   "code": "mk",
-  "stationCount": 35,
+  "stationCount": 36,
   "stations": [
+    {
+      "id": "awb_12430942b397046eba66",
+      "name": "Radio Logos MK",
+      "country": "AL",
+      "subdivision": "Pogradec",
+      "languages": [
+        "mk"
+      ],
+      "categories": [
+        "news",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://radiologos.al/mk/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:41:45Z",
+      "streams": [
+        {
+          "id": "aws_1af71307869989e7ef13",
+          "stationId": "awb_12430942b397046eba66",
+          "name": "Radio Logos MK",
+          "country": "AL",
+          "url": "https://s2.stationplaylist.com:9280/macedonia.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9ccfb431-4bc1-4cf6-a148-fd7d8bc10a4b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
     {
       "id": "awb_44ddaa63acabcd773309",
       "name": "90.1 NBC FM - Narwee - 90.1 FM (AAC)",

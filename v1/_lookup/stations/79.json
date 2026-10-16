@@ -204,6 +204,51 @@
       }
     ]
   },
+  "awb_798a47ad69ba22c8c49a": {
+    "id": "awb_798a47ad69ba22c8c49a",
+    "name": "Radio Tirana 3",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk",
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "folk",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.rtsh.al/radio-tirana-3/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:32:20Z",
+    "streams": [
+      {
+        "id": "aws_76e70511861b36b8ad86",
+        "stationId": "awb_798a47ad69ba22c8c49a",
+        "name": "Radio Tirana 3",
+        "country": "AL",
+        "url": "http://79.106.48.2:8000/radiotirana3",
+        "codec": "aac",
+        "bitrate": 96,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ad5bf88a-f015-4030-9ffc-588af393a5f0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:19Z"
+      }
+    ]
+  },
   "awb_79e6576419febe056260": {
     "id": "awb_79e6576419febe056260",
     "name": "Kiss FM Armenia",
@@ -3153,6 +3198,50 @@
       }
     ]
   },
+  "awb_79f372511b5f39151c15": {
+    "id": "awb_79f372511b5f39151c15",
+    "name": "Jow Radio - Jow Charki",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "folk",
+      "talk"
+    ],
+    "tags": [
+      "arabic music",
+      "folk",
+      "talk"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:00:12Z",
+    "streams": [
+      {
+        "id": "aws_2e3759af9f312aab4b36",
+        "stationId": "awb_79f372511b5f39151c15",
+        "name": "Jow Radio - Jow Charki",
+        "country": "DZ",
+        "url": "https://azuracast.dataplayapps.com/listen/jow_oriental/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3755cc7b-1da6-40f7-b618-5a8a6f82490f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_7983e71ea58c907b67da": {
     "id": "awb_7983e71ea58c907b67da",
     "name": "Metro Stereo",
@@ -5904,6 +5993,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T00:15:54Z"
+      }
+    ]
+  },
+  "awb_79ee663a9c7892050c93": {
+    "id": "awb_79ee663a9c7892050c93",
+    "name": "Latvijas Radio 5 - Pieci.lv",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk",
+      "top 40"
+    ],
+    "homepage": "https://www.pieci.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z",
+    "streams": [
+      {
+        "id": "aws_23b3cd93999dbda060b1",
+        "stationId": "awb_79ee663a9c7892050c93",
+        "name": "Latvijas Radio 5 - Pieci.lv",
+        "country": "LV",
+        "url": "https://muste.latvijasradio.lv/pieci/smil:k2.smil/playlist.m3u8",
+        "codec": "unknown",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "730b7ebf-cd0f-44b2-b24e-8fa7d7263a17"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

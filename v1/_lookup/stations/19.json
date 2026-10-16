@@ -202,6 +202,51 @@
       }
     ]
   },
+  "awb_19b09e9248ef19c217eb": {
+    "id": "awb_19b09e9248ef19c217eb",
+    "name": "Radio Nacional de Angola - Canal A",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/canal-a/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:13:42Z",
+    "streams": [
+      {
+        "id": "aws_02e7af66c0d9c48d8a5e",
+        "stationId": "awb_19b09e9248ef19c217eb",
+        "name": "Radio Nacional de Angola - Canal A",
+        "country": "AO",
+        "url": "https://paineldj5.com.br:20087/stream",
+        "codec": "aac",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b02ae645-4681-4d1f-b70b-179a37f82b20"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_1986c99e60c302f8a209": {
     "id": "awb_1986c99e60c302f8a209",
     "name": "FMSUR",
@@ -2596,6 +2641,53 @@
       }
     ]
   },
+  "awb_19e28c7cf5518cf24c8b": {
+    "id": "awb_19e28c7cf5518cf24c8b",
+    "name": "K-SUN66 - The Waves",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "classic rock",
+      "pop",
+      "soft rock"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:02:01Z",
+    "streams": [
+      {
+        "id": "aws_bd5fd723fef67a2cf2a4",
+        "stationId": "awb_19e28c7cf5518cf24c8b",
+        "name": "K-SUN66 - The Waves",
+        "country": "DZ",
+        "url": "https://stream.zeno.fm/qpets04rehruv",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f37f752c-fc2e-49a1-ba3f-41649af92d0f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_1959b49f3dd60ae8ec82": {
     "id": "awb_1959b49f3dd60ae8ec82",
     "name": "Radio Evolución",
@@ -4948,6 +5040,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T11:35:53Z"
+      }
+    ]
+  },
+  "awb_19c1da42208f2450bd4d": {
+    "id": "awb_19c1da42208f2450bd4d",
+    "name": "Авторадио КиноМузыка",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "instrumental",
+      "pop",
+      "soundtrack"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:04Z",
+    "streams": [
+      {
+        "id": "aws_4e6a3f937b98909ad28a",
+        "stationId": "awb_19c1da42208f2450bd4d",
+        "name": "Авторадио КиноМузыка",
+        "country": "LV",
+        "url": "https://my.radioprocessor.com:8100/avtoradiolv-cinemaussr-48.aacp",
+        "codec": "aac",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fbf48371-5ade-4b8b-ab17-2b961f873475"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

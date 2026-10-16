@@ -81,6 +81,45 @@
       }
     ]
   },
+  "awb_e220617392d37229beef": {
+    "id": "awb_e220617392d37229beef",
+    "name": "FM Afro",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "afro beat"
+    ],
+    "homepage": "https://www.fmafro.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:12:06Z",
+    "streams": [
+      {
+        "id": "aws_367c84d14e094db67ce7",
+        "stationId": "awb_e220617392d37229beef",
+        "name": "FM Afro",
+        "country": "AO",
+        "url": "https://stream.zeno.fm/d91bup73pf9uv",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "09ed738e-43ad-4c80-afd6-ff99cd4a8615"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_e248f1ba0e6bb655e87c": {
     "id": "awb_e248f1ba0e6bb655e87c",
     "name": "Radio Kuia Bue",
@@ -3422,6 +3461,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T21:29:09Z"
+      }
+    ]
+  },
+  "awb_e2138c2917b01f14e9cd": {
+    "id": "awb_e2138c2917b01f14e9cd",
+    "name": "Elmari tantsuõhtu",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "folk",
+      "pop"
+    ],
+    "homepage": "https://elmaritantsuohtu.pleier.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:18Z",
+    "streams": [
+      {
+        "id": "aws_bc7a48a093bcfba311cd",
+        "stationId": "awb_e2138c2917b01f14e9cd",
+        "name": "Elmari tantsuõhtu",
+        "country": "EE",
+        "url": "https://le301.euddn.net/871d03fbe81032ff2f281444c78241bbd5fa41c858eea108d23f7c6cfa4fc5ab044d00cae6e101e57d0a5a8522cfad0b5ec1d11d60823ede4a60afec8f2b2504d4794816fbde9039ed396d883ff484605facc310af20278e0a838bf639ab35022db33a92a6f32a890921dcfa27f53a09927039c7424e396aef66781530008ccb296be2880b4f7dc14600a6344ceb0de1cdf8f44a2ab0e7b5b0603488221cf649cbc2b9d5c10500d15729872b433b09c8f4167284e3d93cde432f102c66ddfd90/elmaritantsuohtu.aac",
+        "codec": "aac",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "387b334b-d28e-40f9-a51b-dbd9e9281711"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

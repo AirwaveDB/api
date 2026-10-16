@@ -204,6 +204,91 @@
       }
     ]
   },
+  "awb_919fb923c5f177d2cf56": {
+    "id": "awb_919fb923c5f177d2cf56",
+    "name": "Intradio",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "homepage": "https://intradio.live/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:39:19Z",
+    "streams": [
+      {
+        "id": "aws_aa961ba36dba1e56a8e6",
+        "stationId": "awb_919fb923c5f177d2cf56",
+        "name": "Intradio",
+        "country": "AL",
+        "url": "https://stream.zeno.fm/z61vrp6rmd0uv",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bbe507a3-14d6-400f-9b3f-8420266bcb9e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
+  "awb_91a9038d06129ac1452f": {
+    "id": "awb_91a9038d06129ac1452f",
+    "name": "Radio Liria",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk",
+      "talk"
+    ],
+    "tags": [
+      "folk",
+      "talk"
+    ],
+    "homepage": "http://radioliria.blogspot.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:24:39Z",
+    "streams": [
+      {
+        "id": "aws_24157dec977e43f58a60",
+        "stationId": "awb_91a9038d06129ac1452f",
+        "name": "Radio Liria",
+        "country": "AL",
+        "url": "https://live.radiostreaming.al/9998/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fe9f8d96-6e23-478e-8002-201edf955d77"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_91d08e5cfb7216e04264": {
     "id": "awb_91d08e5cfb7216e04264",
     "name": "FM Estudio Playa Pinamar 98.1",
@@ -3363,30 +3448,36 @@
     "id": "awb_912c71f6fa7c86778d90",
     "name": "SYNO RADIO",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Nord",
     "languages": [
+      "en",
       "fr"
     ],
     "categories": [
       "ambient",
       "electronic",
+      "latin",
       "pop"
     ],
     "tags": [
+      "24/7",
       "ai music",
       "bossa nova",
       "chill",
       "dance",
       "deep house",
+      "deephouse",
+      "latin",
       "lofi",
       "pop",
+      "web radio",
       "webradio"
     ],
     "homepage": "https://radiosyno.ddns.net/",
     "favicon": "https://radiosyno.ddns.net/assets/img/favicon.png",
     "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-30T07:30:47Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-15T19:09:59Z",
     "streams": [
       {
         "id": "aws_1de31032acf714ddc280",
@@ -3402,10 +3493,11 @@
           "radio-browser"
         ],
         "sourceIds": [
+          "51e7ab32-7b7b-41bd-b31b-9e81ffe0afe5",
           "5afd3c62-ae78-41ed-b4ff-e722a6813026"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T17:34:41Z"
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

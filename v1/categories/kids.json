@@ -1,6 +1,6 @@
 {
   "id": "kids",
-  "stationCount": 151,
+  "stationCount": 154,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -137,6 +137,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:11:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_44d495e9a714db643f16",
+      "name": "Radio Tirana Fëmijë",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "tags": [
+        "children"
+      ],
+      "homepage": "https://rtsh.al/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:31:35Z",
+      "streams": [
+        {
+          "id": "aws_4692f6620974be3800e0",
+          "stationId": "awb_44d495e9a714db643f16",
+          "name": "Radio Tirana Fëmijë",
+          "country": "AL",
+          "url": "http://79.106.48.2:8000/radiotiranafemije",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d38179cd-f111-46b2-8c95-54201ef94ce7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
         }
       ]
     },
@@ -3283,6 +3324,48 @@
       ]
     },
     {
+      "id": "awb_bd657435b987ea767a31",
+      "name": "Jow Radio - Jow Kids",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "ar"
+      ],
+      "categories": [
+        "kids"
+      ],
+      "tags": [
+        "arabic music",
+        "children"
+      ],
+      "homepage": "https://jowplus.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:51:31Z",
+      "streams": [
+        {
+          "id": "aws_b7ac9ce08067ae8c1138",
+          "stationId": "awb_bd657435b987ea767a31",
+          "name": "Jow Radio - Jow Kids",
+          "country": "DZ",
+          "url": "https://azuracast.dataplayapps.com/listen/jow_kids/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5ed40724-d70f-43a4-a491-15107d8bd0b3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
+        }
+      ]
+    },
+    {
       "id": "awb_e7d5fefc0702e0fa7723",
       "name": "Babyradio España",
       "country": "ES",
@@ -4797,6 +4880,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:19:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_99e1e22ec419a2ffa94f",
+      "name": "SKONTONS",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "kids",
+        "pop"
+      ],
+      "tags": [
+        "children",
+        "hits",
+        "pop"
+      ],
+      "homepage": "https://radioskonto.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:05:00Z",
+      "streams": [
+        {
+          "id": "aws_5ec7b9917e5bfe68bdf8",
+          "stationId": "awb_99e1e22ec419a2ffa94f",
+          "name": "SKONTONS",
+          "country": "LV",
+          "url": "https://streams.radioskonto.lv:8443/skonto-juniors",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "20df90df-af39-4e66-9c32-72fe9df06249"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },

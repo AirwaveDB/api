@@ -1,6 +1,6 @@
 {
   "code": "de",
-  "stationCount": 3797,
+  "stationCount": 3798,
   "stations": [
     {
       "id": "awb_19663c72c5a4d3d4c86c",
@@ -42360,7 +42360,7 @@
       "id": "awb_9f6c026e52f2cc2ab155",
       "name": "as.if.radio",
       "country": "DE",
-      "subdivision": "North Rhine-Westphalia",
+      "subdivision": "Cologne",
       "languages": [
         "de",
         "en"
@@ -42394,7 +42394,7 @@
         "werbefrei"
       ],
       "homepage": "https://www.as-if-radio.com/",
-      "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+      "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-04T14:43:37Z",
@@ -45823,7 +45823,7 @@
         "tv"
       ],
       "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-      "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+      "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T06:09:01Z",
@@ -50083,7 +50083,7 @@
         "pop"
       ],
       "homepage": "https://www.bremenzwei.de/",
-      "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
+      "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T08:44:42Z",
@@ -51377,7 +51377,7 @@
       ],
       "categories": [],
       "tags": [],
-      "homepage": "http://www.ffn.de/",
+      "homepage": "https://www.ffn.de/",
       "favicon": null,
       "type": null,
       "sourceCount": 4,
@@ -83912,7 +83912,7 @@
           "name": "Kiel FM",
           "country": "DE",
           "url": "https://radio.oksh.de/kielfm.mp3",
-          "codec": null,
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -83923,7 +83923,7 @@
             "feb24e11-3602-4102-8563-f3cbc2ca7111"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -111566,6 +111566,48 @@
       ]
     },
     {
+      "id": "awb_aa834c6d6279204b2263",
+      "name": "Radio 4U",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hot-ac",
+        "pop"
+      ],
+      "homepage": "https://radio-4u.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T18:15:52Z",
+      "streams": [
+        {
+          "id": "aws_d9b2e8d919dfaeeb04c2",
+          "stationId": "awb_aa834c6d6279204b2263",
+          "name": "Radio 4U",
+          "country": "DE",
+          "url": "https://stream.laut.fm/radio-4-u",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7654dead-5813-4cfb-92d0-c1302176bb7f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3d3a8b8c90ba55d4dffc",
       "name": "Radio 7",
       "country": "DE",
@@ -114753,8 +114795,8 @@
       "homepage": "https://www.radiobob.de/",
       "favicon": "https://i.imgur.com/Ceddbj4.jpg",
       "type": null,
-      "sourceCount": 3,
-      "updatedAt": "2026-01-15T08:24:53Z",
+      "sourceCount": 4,
+      "updatedAt": "2026-10-15T19:38:12Z",
       "streams": [
         {
           "id": "aws_43b3badba604963d660b",
@@ -114775,6 +114817,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:43:25Z"
+        },
+        {
+          "id": "aws_9bc7d6fee0a67763bd18",
+          "stationId": "awb_722f0ff1586b12b1f7df",
+          "name": "Radio Bob Rockabilly",
+          "country": "DE",
+          "url": "https://streams.radiobob.de/bob-rockabilly/mp3-192/streams.radiobob.de/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bd656b4c-4c06-4871-bbf3-c55ca7ed51f8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         },
         {
           "id": "aws_da29ca6dea5df3e8405c",
@@ -118078,7 +118139,7 @@
         "radio internetowe"
       ],
       "homepage": "https://radio-budowlaniec.de/",
-      "favicon": "https://radio-budowlaniec.de/sites/default/files/512.1%20logo%20rund.png",
+      "favicon": "https://radio-budowlaniec.de/sites/default/files/banner/512.1%20logo%20rund.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-03-28T07:18:42Z",
@@ -118909,8 +118970,8 @@
           "name": "Radio Deck 1",
           "country": "DE",
           "url": "https://rde1.de/320",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -118920,7 +118981,7 @@
             "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -118965,8 +119026,8 @@
           "name": "Radio Deck 1 Hamburg",
           "country": "DE",
           "url": "https://rde1.de/192",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -118976,7 +119037,7 @@
             "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -137684,7 +137745,7 @@
       "categories": [],
       "tags": [],
       "homepage": "https://streamzentrale.de/",
-      "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
+      "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T11:23:48Z",
@@ -172940,7 +173001,7 @@
       "id": "awb_4b49e5c817ec766fe4aa",
       "name": "radiOFF",
       "country": "PL",
-      "subdivision": "Lubuskie",
+      "subdivision": "Lebus",
       "languages": [
         "de",
         "pl"
@@ -172972,7 +173033,7 @@
         "storytelling",
         "viadrina"
       ],
-      "homepage": "http://radioff.com/",
+      "homepage": "https://radioff.com/",
       "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
       "type": null,
       "sourceCount": 3,
@@ -173084,7 +173145,7 @@
         "stuttgart",
         "torino"
       ],
-      "homepage": "https://radiogiurgiu.net/",
+      "homepage": "https://radiogiurgiu.net/mobile.html",
       "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
       "type": null,
       "sourceCount": 4,

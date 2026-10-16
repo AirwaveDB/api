@@ -4933,6 +4933,54 @@
       }
     ]
   },
+  "awb_b20e138e7907d7900c6d": {
+    "id": "awb_b20e138e7907d7900c6d",
+    "name": "Radijo stotis FM99",
+    "country": "LT",
+    "subdivision": "Alytus",
+    "languages": [
+      "lt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "rock",
+      "talk",
+      "top 40"
+    ],
+    "homepage": "https://fm99.lt/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:28:21Z",
+    "streams": [
+      {
+        "id": "aws_7e964804dce84d5cc9eb",
+        "stationId": "awb_b20e138e7907d7900c6d",
+        "name": "Radijo stotis FM99",
+        "country": "LT",
+        "url": "https://securestream.casthost.net:8617/fm99",
+        "codec": "mp3",
+        "bitrate": 170,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e13f29cb-3308-45f0-800e-25b370a5fc13"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_b272cdb9ddf6d4bea3f4": {
     "id": "awb_b272cdb9ddf6d4bea3f4",
     "name": "Star FM Latvia",
@@ -5006,6 +5054,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T15:45:19Z"
+      }
+    ]
+  },
+  "awb_b27f97bf7048f3a3d33b": {
+    "id": "awb_b27f97bf7048f3a3d33b",
+    "name": "Radio Adwaa FM6",
+    "country": "MA",
+    "subdivision": null,
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "culture",
+      "music",
+      "news"
+    ],
+    "homepage": "https://radio.co.ma/adwaa-fm/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMreguvYInAS9F80xUJvDuOjjQeeiH46CmBlYl8629A&s",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-16T01:49:08Z",
+    "streams": [
+      {
+        "id": "aws_56dfbe9014ca9b70772c",
+        "stationId": "awb_b27f97bf7048f3a3d33b",
+        "name": "Radio Adwaa FM6",
+        "country": "MA",
+        "url": "https://stream.zeno.fm/tvxvud2kpm0uv",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dffdfa3f-13fd-4a77-9e42-b80ed79913f9"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "code": "it",
-  "stationCount": 1253,
+  "stationCount": 1256,
   "stations": [
     {
       "id": "awb_6305d0e72050caf9b6e7",
@@ -6826,6 +6826,45 @@
       ]
     },
     {
+      "id": "awb_3206264aeb918aea41fc",
+      "name": "Flash Mania Abruzzo",
+      "country": "IT",
+      "subdivision": "Abruzzo",
+      "languages": [
+        "it"
+      ],
+      "categories": [],
+      "tags": [
+        "dance"
+      ],
+      "homepage": "https://stream.zeno.fm/d4v6zngvxzftv",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:22:42Z",
+      "streams": [
+        {
+          "id": "aws_4592d7bc5977ce9f5bf3",
+          "stationId": "awb_3206264aeb918aea41fc",
+          "name": "Flash Mania Abruzzo",
+          "country": "IT",
+          "url": "https://stream.zeno.fm/d4v6zngvxzftv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "256e5d2a-df2c-4482-a3a9-36cf32fd216d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5dad303d5302fa292b81",
       "name": "Fluidstream",
       "country": "IT",
@@ -13187,6 +13226,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T05:08:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ae46cdb3334fd4714b0a",
+      "name": "MyCR ONE",
+      "country": "IT",
+      "subdivision": "Lazio",
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "ambient",
+        "jazz",
+        "pop"
+      ],
+      "tags": [
+        "business",
+        "commercial-free",
+        "corporate",
+        "italy",
+        "jazz",
+        "lounge",
+        "pop"
+      ],
+      "homepage": "https://www.mycorporateradio.com/one",
+      "favicon": "https://www.mycorporateradio.com/assets/one/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T19:17:23Z",
+      "streams": [
+        {
+          "id": "aws_701b3bb4497355f9ffce",
+          "stationId": "awb_ae46cdb3334fd4714b0a",
+          "name": "MyCR ONE",
+          "country": "IT",
+          "url": "https://locali.mycorporateradio.com/stream/mycr_one.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c033bf76-7845-4d3d-b48e-d6711514d8f3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -46701,6 +46789,53 @@
       ]
     },
     {
+      "id": "awb_11ab40cc55b8779b4047",
+      "name": "rcuno",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "hits",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "homepage": "http://rcuno.altervista.org/",
+      "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/RCUNO1.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-15T15:59:50Z",
+      "streams": [
+        {
+          "id": "aws_76ef71caef1e5ed1114a",
+          "stationId": "awb_11ab40cc55b8779b4047",
+          "name": "RCUNO",
+          "country": "IT",
+          "url": "https://stream.laut.fm/radiocoveruno",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "788769cb-2465-45f3-aa5d-4ad5ab33d37d",
+            "aa16bef0-6a20-4a85-abd6-d14397aabfa4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_24fe679fb7ce936ef59c",
       "name": "RDF 102.7",
       "country": "IT",
@@ -55443,7 +55578,7 @@
         "stuttgart",
         "torino"
       ],
-      "homepage": "https://radiogiurgiu.net/",
+      "homepage": "https://radiogiurgiu.net/mobile.html",
       "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
       "type": null,
       "sourceCount": 4,

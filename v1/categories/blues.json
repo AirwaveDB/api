@@ -1,6 +1,6 @@
 {
   "id": "blues",
-  "stationCount": 410,
+  "stationCount": 415,
   "stations": [
     {
       "id": "awb_c8795a989008061ddca1",
@@ -1003,8 +1003,8 @@
       "homepage": "https://play.you.radio/station/347",
       "favicon": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e094b0d0-43ee-420a-ae44-f5c2d9eb51b4.jpg",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:10Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-16T06:38:47Z",
       "streams": [
         {
           "id": "aws_99c473461ac1abfbf2c1",
@@ -1020,7 +1020,8 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "116345d6-53cd-43b2-9786-7ed7cfab553e"
+            "116345d6-53cd-43b2-9786-7ed7cfab553e",
+            "1fa4d92d-9d07-42bb-b121-e82fd7092800"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T21:31:04Z"
@@ -1756,8 +1757,8 @@
           "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
           "country": "AU",
           "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -1767,7 +1768,7 @@
             "3de0ed72-b752-41df-99f9-26c5d95befe1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -7963,8 +7964,8 @@
           "name": "Radio Deck 1",
           "country": "DE",
           "url": "https://rde1.de/320",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -7974,7 +7975,7 @@
             "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -8019,8 +8020,8 @@
           "name": "Radio Deck 1 Hamburg",
           "country": "DE",
           "url": "https://rde1.de/192",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -8030,7 +8031,7 @@
             "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -8506,6 +8507,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:43:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_01fc91f99d86a383ccc7",
+      "name": "K-SUN66 - The Bridge",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues"
+      ],
+      "tags": [
+        "blues"
+      ],
+      "homepage": "https://www.ksun66.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:57:01Z",
+      "streams": [
+        {
+          "id": "aws_82c126566a91e21e4ae0",
+          "stationId": "awb_01fc91f99d86a383ccc7",
+          "name": "K-SUN66 - The Bridge",
+          "country": "DZ",
+          "url": "https://stream.zeno.fm/euucrm0fhhruv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2bc6b472-2dac-47d9-8c77-5bd8ed18af74"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -9148,6 +9190,65 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T06:12:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7afcc9a8dace73f64ef1",
+      "name": "Glaz | Radio",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ],
+      "categories": [
+        "blues",
+        "folk",
+        "hip-hop",
+        "oldies",
+        "rock"
+      ],
+      "tags": [
+        "bluegrass",
+        "blues",
+        "chanson française",
+        "folk",
+        "hip-hop 90s",
+        "ia",
+        "indie",
+        "musique originale",
+        "nantes",
+        "rock",
+        "rock celtique",
+        "suno",
+        "webradio"
+      ],
+      "homepage": "https://www.glazradio.tech/",
+      "favicon": "https://atelier-glaz.com/radio/favicon.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T12:32:14Z",
+      "streams": [
+        {
+          "id": "aws_137d22353d3928791aa3",
+          "stationId": "awb_7afcc9a8dace73f64ef1",
+          "name": "Glaz | Radio",
+          "country": "FR",
+          "url": "https://www.glazradio.tech/listen/glazradio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "61573c6a-95dd-444d-90be-871e3b0b667d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -12796,6 +12897,51 @@
       ]
     },
     {
+      "id": "awb_2ac0bb7aeedb1471d9d1",
+      "name": "Jazz FM",
+      "country": "LT",
+      "subdivision": "Vilnius",
+      "languages": [
+        "lt"
+      ],
+      "categories": [
+        "blues",
+        "jazz"
+      ],
+      "tags": [
+        "blues",
+        "funk",
+        "jazz",
+        "soul"
+      ],
+      "homepage": "https://jazzfm.lt/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:34:39Z",
+      "streams": [
+        {
+          "id": "aws_0a09f6695af29136a11a",
+          "stationId": "awb_2ac0bb7aeedb1471d9d1",
+          "name": "Jazz FM",
+          "country": "LT",
+          "url": "https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 89,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5f413f81-6d51-4dfd-841f-9e50eedd248d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_172710825bdba14d6165",
       "name": "Radio 100,7",
       "country": "LU",
@@ -15590,7 +15736,7 @@
     },
     {
       "id": "awb_bd594017bc56630ac7ca",
-      "name": "Radio Caprice Piano Blues Boogie Woogie",
+      "name": "Radio Caprice Piano Blues / Boogie-Woogie",
       "country": "RU",
       "subdivision": null,
       "languages": [
@@ -15606,7 +15752,7 @@
         "piano",
         "piano blues"
       ],
-      "homepage": "http://www.radcap.ru/pianoblues.html",
+      "homepage": "http://radcap.ru/",
       "favicon": "http://i.imgur.com/hSP42CX.jpg",
       "type": null,
       "sourceCount": 2,
@@ -17458,6 +17604,97 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:30:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3d7b4c63446d4518d0ae",
+      "name": "KDPP-LP 97.3 \"The Source\" Lincoln, Nebraska",
+      "country": "US",
+      "subdivision": "Nebraska",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "hip-hop"
+      ],
+      "tags": [
+        "african american",
+        "hip hop",
+        "rhythm and blues",
+        "soul"
+      ],
+      "homepage": "https://www.973thesource.com/",
+      "favicon": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/545100625_17846074338563640_4619540458772731258_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG0GlXmNZIk8UYjZ44cNQrNdQ2KRO_Owin43Dw0gEDDtuJHgAxwcQdphT_CbYhnYS0&_nc_ohc=Z7PM46CiQJ4Q7kNvwHHu73W&_nc_gid=bXayb7dHplubtvFWqdOa_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO5_rdvnw2et5zG768De5afuK9m1K7_GCXntM-u_ITewg&oe=6AD75CAE&_nc_sid=10d13b",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T00:42:49Z",
+      "streams": [
+        {
+          "id": "aws_ee942af38a4913a703ae",
+          "stationId": "awb_3d7b4c63446d4518d0ae",
+          "name": "KDPP-LP 97.3 \"The Source\" Lincoln, Nebraska",
+          "country": "US",
+          "url": "https://c23.radioboss.fm:8214/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "33053a39-e313-4c57-9fbf-c8a84a417aa7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_de2a62d481f433985be0",
+      "name": "KEUL 106.9 \"The Soul Of Sacramento\" Sacramento, California",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "community",
+        "jazz"
+      ],
+      "tags": [
+        "community radio",
+        "jazz",
+        "rhythm and blues",
+        "soul"
+      ],
+      "homepage": "https://www.kuelfm.com/",
+      "favicon": "https://www.kuelfm.com/android-chrome-512x512.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T04:17:05Z",
+      "streams": [
+        {
+          "id": "aws_8dba1c6d9f300e1b807b",
+          "stationId": "awb_de2a62d481f433985be0",
+          "name": "KEUL 106.9 \"The Soul Of Sacramento\" Sacramento, California",
+          "country": "US",
+          "url": "https://streaming.live365.com/a81915",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "523bc33d-f25b-4065-8105-1737ccc5a4c0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

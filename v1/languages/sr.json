@@ -1,6 +1,6 @@
 {
   "code": "sr",
-  "stationCount": 299,
+  "stationCount": 300,
   "stations": [
     {
       "id": "awb_0e9f4ecbfd52b2ae6017",
@@ -1309,6 +1309,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T20:54:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_47e185c8c8a2b75e98d2",
+      "name": "Dah provincije",
+      "country": "RS",
+      "subdivision": null,
+      "languages": [
+        "sr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "rok"
+      ],
+      "homepage": "https://dahprovincije.rs/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T09:51:06Z",
+      "streams": [
+        {
+          "id": "aws_f783fd74f5700bd5b936",
+          "stationId": "awb_47e185c8c8a2b75e98d2",
+          "name": "Dah provincije",
+          "country": "RS",
+          "url": "https://stream.iradio.pro/proxy/radioforca?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f8dcd7f2-74dc-48a2-a3e4-527e9566d801"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },

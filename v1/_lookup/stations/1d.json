@@ -167,6 +167,51 @@
       }
     ]
   },
+  "awb_1d803e83e9baf1c489ec": {
+    "id": "awb_1d803e83e9baf1c489ec",
+    "name": "Radio Ngjallja",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://media.ngjallja.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:41:45Z",
+    "streams": [
+      {
+        "id": "aws_c628999b3f0f41dace05",
+        "stationId": "awb_1d803e83e9baf1c489ec",
+        "name": "Radio Ngjallja",
+        "country": "AL",
+        "url": "https://radio.ngjallja.org/radio_ngjallja",
+        "codec": "aac",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c82c8533-a3a2-4a6c-99d6-58a2f87fe236"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_1ded33bbff08ee064bab": {
     "id": "awb_1ded33bbff08ee064bab",
     "name": "FM Estudio 2 105.9",
@@ -2729,6 +2774,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T14:17:02Z"
+      }
+    ]
+  },
+  "awb_1d07111cc696ba149368": {
+    "id": "awb_1d07111cc696ba149368",
+    "name": "Radio Maximum",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://radiomaximum.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:34:29Z",
+    "streams": [
+      {
+        "id": "aws_532a85c644a2217f532d",
+        "stationId": "awb_1d07111cc696ba149368",
+        "name": "Radio Maximum",
+        "country": "EE",
+        "url": "https://stream.radiomaximum.ee/stream",
+        "codec": "aac",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8c877ce7-0f67-4806-960d-8805664b16bd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

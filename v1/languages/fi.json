@@ -1,6 +1,6 @@
 {
   "code": "fi",
-  "stationCount": 88,
+  "stationCount": 89,
   "stations": [
     {
       "id": "awb_cc986b75028a3c8fab65",
@@ -84,6 +84,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:07:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3c372eb0986b8cd73c18",
+      "name": "SSS-Radio",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "fi"
+      ],
+      "categories": [
+        "news",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "oldies",
+        "pop",
+        "rock",
+        "talk"
+      ],
+      "homepage": "https://sss-radio.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:42:37Z",
+      "streams": [
+        {
+          "id": "aws_1a306efd6fc1ce2505a8",
+          "stationId": "awb_3c372eb0986b8cd73c18",
+          "name": "SSS-Radio",
+          "country": "EE",
+          "url": "https://uvn-67-97.tll01.zonevs.eu/sss-radio",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "df89e10f-97af-4a04-b1eb-c42e2511188f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },

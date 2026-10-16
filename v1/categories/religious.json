@@ -1,6 +1,6 @@
 {
   "id": "religious",
-  "stationCount": 1616,
+  "stationCount": 1645,
   "stations": [
     {
       "id": "awb_3aa20fe54e04955490e1",
@@ -233,6 +233,49 @@
       ]
     },
     {
+      "id": "awb_f5b8623f78e5e5a99885",
+      "name": "Alfa & Omega Radio",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "religious"
+      ],
+      "homepage": "https://www.alfaeomegaradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:32:20Z",
+      "streams": [
+        {
+          "id": "aws_e9625dd69947472da060",
+          "stationId": "awb_f5b8623f78e5e5a99885",
+          "name": "Alfa & Omega Radio",
+          "country": "AL",
+          "url": "https://broadcast.shoutcheap.com/proxy/alban/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "611f262c-ce41-4722-a4a2-ae7f48582032"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
       "id": "awb_cabf37a6c90ebe1cc5c8",
       "name": "Pendimi Kanali 2",
       "country": "AL",
@@ -277,6 +320,186 @@
       ]
     },
     {
+      "id": "awb_72e658e0db6da067abde",
+      "name": "Radio 1",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "education",
+        "religious",
+        "talk"
+      ],
+      "homepage": "https://radio1.al/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:32:20Z",
+      "streams": [
+        {
+          "id": "aws_3d5b68975543bbae0081",
+          "stationId": "awb_72e658e0db6da067abde",
+          "name": "Radio 1",
+          "country": "AL",
+          "url": "https://livestream.radio1.al/hls/radio.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2775806b-43af-48ae-bec6-2ae0d60440c8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dcb6ca5f3889ca42b085",
+      "name": "Radio 7",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "talk"
+      ],
+      "homepage": "https://radio-7.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:41:45Z",
+      "streams": [
+        {
+          "id": "aws_c2a7057462fa7733fafc",
+          "stationId": "awb_dcb6ca5f3889ca42b085",
+          "name": "Radio 7",
+          "country": "AL",
+          "url": "https://rpn.bozztv.com/radio/Med7-RadioTirana/icecast.audio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9f61b80d-13dd-404f-909f-a8e2e75b1d06"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b96734766397b2412554",
+      "name": "Radio Emanuel",
+      "country": "AL",
+      "subdivision": "Korçë",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "news",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://emanuelradio.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:55:44Z",
+      "streams": [
+        {
+          "id": "aws_01f7b9a7486f604cc133",
+          "stationId": "awb_b96734766397b2412554",
+          "name": "Radio Emanuel",
+          "country": "AL",
+          "url": "https://cp1.sednastream.com/proxy/radioemanuel/stream",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1d035380-686a-4418-8ec1-e62dcf41f9bc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_12430942b397046eba66",
+      "name": "Radio Logos MK",
+      "country": "AL",
+      "subdivision": "Pogradec",
+      "languages": [
+        "mk"
+      ],
+      "categories": [
+        "news",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://radiologos.al/mk/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:41:45Z",
+      "streams": [
+        {
+          "id": "aws_1af71307869989e7ef13",
+          "stationId": "awb_12430942b397046eba66",
+          "name": "Radio Logos MK",
+          "country": "AL",
+          "url": "https://s2.stationplaylist.com:9280/macedonia.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9ccfb431-4bc1-4cf6-a148-fd7d8bc10a4b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_bd67c0e28abf4997e1d5",
       "name": "RADIO MARIA ALBANIA",
       "country": "AL",
@@ -315,6 +538,709 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T00:15:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6d079390a950353f0816",
+      "name": "Radio Maria Albania – Programi për Amerikën",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "religious",
+        "talk"
+      ],
+      "homepage": "https://www.radiomaria.al/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:41:45Z",
+      "streams": [
+        {
+          "id": "aws_4198ecf179e1e9f5ee34",
+          "stationId": "awb_6d079390a950353f0816",
+          "name": "Radio Maria Albania – Programi për Amerikën",
+          "country": "AL",
+          "url": "https://dreamsiteradiocp2.com/proxy/rmalbania7?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b2852a34-8c19-4427-92ee-86c3c1c9fa45"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1d803e83e9baf1c489ec",
+      "name": "Radio Ngjallja",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "religious",
+        "talk"
+      ],
+      "homepage": "https://media.ngjallja.org/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:41:45Z",
+      "streams": [
+        {
+          "id": "aws_c628999b3f0f41dace05",
+          "stationId": "awb_1d803e83e9baf1c489ec",
+          "name": "Radio Ngjallja",
+          "country": "AL",
+          "url": "https://radio.ngjallja.org/radio_ngjallja",
+          "codec": "aac",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c82c8533-a3a2-4a6c-99d6-58a2f87fe236"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e13176de02538ba3effc",
+      "name": "Radio Pendimi Live Kanali-1",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "islamic",
+        "religious",
+        "talk"
+      ],
+      "homepage": "https://www.rtvpendimi.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:32:20Z",
+      "streams": [
+        {
+          "id": "aws_309e31e1f3eade0e65bf",
+          "stationId": "awb_e13176de02538ba3effc",
+          "name": "Radio Pendimi Live Kanali-1",
+          "country": "AL",
+          "url": "https://www.rtvpendimi.com:8014/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d8dc1854-2b4b-42c0-8a5c-f040a96786d2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2dc19d13681bcb51c721",
+      "name": "Radio Thesaret",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "gospel",
+        "islamic",
+        "religious"
+      ],
+      "homepage": "https://zeno.fm/radio/radio-thesaret/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:37:59Z",
+      "streams": [
+        {
+          "id": "aws_ad3ddefdedb846fe48f5",
+          "stationId": "awb_2dc19d13681bcb51c721",
+          "name": "Radio Thesaret",
+          "country": "AL",
+          "url": "https://stream.zeno.fm/ubzj8twgccstv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d1ba863e-b945-402a-960e-bff36a2e3416"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_51e458005716aaf83ec0",
+      "name": "Rádio Adventus",
+      "country": "AO",
+      "subdivision": "Talatona",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "religious",
+        "talk"
+      ],
+      "homepage": "https://radioadventus.org/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:16:01Z",
+      "streams": [
+        {
+          "id": "aws_1d31d559e628759eadd1",
+          "stationId": "awb_51e458005716aaf83ec0",
+          "name": "Rádio Adventus",
+          "country": "AO",
+          "url": "https://stream-176.surfernetwork.com/kxu1vjyliqguv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHUxdmp5bGlxZ3V2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik9fcUp3YTNsUUtTUXJXUGtBTmk5cXciLCJpYXQiOjE3OTIxMDMwNzcsImV4cCI6MTc5MjEwMzEzN30.ZPKkNxBjwhCLW7aI4b79ciwCXmIVab0gfS5je6DWvqA",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f2b9a241-a222-47a7-9f01-52ff561ef52a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3dc547e256a6186b1795",
+      "name": "Rádio Ecclésia de Caxito",
+      "country": "AO",
+      "subdivision": "Caxito",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "news",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://rec.radiostream321.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:26:16Z",
+      "streams": [
+        {
+          "id": "aws_c4e5ffcca2588a83b1f9",
+          "stationId": "awb_3dc547e256a6186b1795",
+          "name": "Rádio Ecclésia de Caxito",
+          "country": "AO",
+          "url": "https://stream-178.surfernetwork.com/y4bcgcqifbbtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5NGJjZ2NxaWZiYnR2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjdvdjVmTTNUUWhXN2pUVE1pYjQwUGciLCJpYXQiOjE3OTIxMDMwODQsImV4cCI6MTc5MjEwMzE0NH0.lZXwLjXFUY_6wdQRccvSH71LGuncKh6tmhJ7FtdZo6U",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d208546d-108d-4f5d-9864-22d6417ce084"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3e3a2254ec1a914e2255",
+      "name": "Radio FamaStar",
+      "country": "AO",
+      "subdivision": "Luanda",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "electronic",
+        "religious"
+      ],
+      "tags": [
+        "dance",
+        "gospel",
+        "house",
+        "samba",
+        "zouk"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:09:47Z",
+      "streams": [
+        {
+          "id": "aws_32af0a1a7cbce42e001e",
+          "stationId": "awb_3e3a2254ec1a914e2255",
+          "name": "Radio FamaStar",
+          "country": "AO",
+          "url": "http://sirius.shoutca.st:8527/stream/;",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "276d59a4-bb09-485e-844f-d7f4aa18adec"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_28df7c2ae3a454c5c0a0",
+      "name": "Rádio Jeova Sabaoth",
+      "country": "AO",
+      "subdivision": "Luanda",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "gospel"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:16:21Z",
+      "streams": [
+        {
+          "id": "aws_8a3c005694621c8bbfc6",
+          "stationId": "awb_28df7c2ae3a454c5c0a0",
+          "name": "Rádio Jeova Sabaoth",
+          "country": "AO",
+          "url": "https://stream.zeno.fm/ji8igeihp1avv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cf074c3f-b5c3-440d-b465-5308738a9851"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9314379103c6615a85a3",
+      "name": "Rádio Kairós Angola",
+      "country": "AO",
+      "subdivision": "Luanda",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "news",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://www.radiokairosangola.ao/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:42:37Z",
+      "streams": [
+        {
+          "id": "aws_19f0890a1f332fe1a8d4",
+          "stationId": "awb_9314379103c6615a85a3",
+          "name": "Rádio Kairós Angola",
+          "country": "AO",
+          "url": "https://www.radiokairosangola.ao/livenow",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "76ed8f8a-25b0-4429-95b2-358e2cdef5e6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c009c7b0a7b744657de8",
+      "name": "Radio luanda fm line",
+      "country": "AO",
+      "subdivision": "Luanda",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "religious"
+      ],
+      "homepage": "https://luandafmline.blogspot.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:06:36Z",
+      "streams": [
+        {
+          "id": "aws_0172d2b6f2d7c67be52c",
+          "stationId": "awb_c009c7b0a7b744657de8",
+          "name": "Radio luanda fm line",
+          "country": "AO",
+          "url": "https://stream1.svrdedicado.org:7175/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ef5342db-4336-4042-8bbb-b1babf712209"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dbb16ddb59d71b26aba3",
+      "name": "Rádio Maranata",
+      "country": "AO",
+      "subdivision": "Lubango",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "religious",
+        "talk"
+      ],
+      "homepage": "https://radiomaranatahuila.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:13:42Z",
+      "streams": [
+        {
+          "id": "aws_4b07552f21211aa40314",
+          "stationId": "awb_dbb16ddb59d71b26aba3",
+          "name": "Rádio Maranata",
+          "country": "AO",
+          "url": "https://azura4.cmaudioevideo.com:8450/radio.aac",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fe2450f5-206d-40ea-8865-23d3af389e2d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9f95e7a1e1e1c097af09",
+      "name": "Rádio Maria Angola",
+      "country": "AO",
+      "subdivision": "Luanda",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "religious",
+        "talk"
+      ],
+      "homepage": "https://www.radiomaria.co.ao/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:05:48Z",
+      "streams": [
+        {
+          "id": "aws_d0007d1cbc925592f1dc",
+          "stationId": "awb_9f95e7a1e1e1c097af09",
+          "name": "Rádio Maria Angola",
+          "country": "AO",
+          "url": "https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e259f56c-eba1-4092-b04e-742feb543c5c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8b77cc057e7f52156197",
+      "name": "Rádio Nosso Tempo",
+      "country": "AO",
+      "subdivision": "Luanda",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "religious"
+      ],
+      "homepage": "https://www.radionossotempo.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:12:52Z",
+      "streams": [
+        {
+          "id": "aws_7223fdfc8baf0088455a",
+          "stationId": "awb_8b77cc057e7f52156197",
+          "name": "Rádio Nosso Tempo",
+          "country": "AO",
+          "url": "https://ssl.srvstm.com:6756/NossoTempo",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7c398a00-9331-42c9-9087-66eb94c7403d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8bb550343c50a41d21f4",
+      "name": "Rádio Valerfm",
+      "country": "AO",
+      "subdivision": "Luanda",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "gospel",
+        "religious"
+      ],
+      "homepage": "https://valervtv.blogspot.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:16:37Z",
+      "streams": [
+        {
+          "id": "aws_c1047fa81e86fa635b70",
+          "stationId": "awb_8bb550343c50a41d21f4",
+          "name": "Rádio Valerfm",
+          "country": "AO",
+          "url": "https://stream-177.surfernetwork.com/qz19u05s538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxejE5dTA1czUzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlZrbFBRX1JFU1J1TGFvT2hmTjBEWGciLCJpYXQiOjE3OTIxMDMwNzUsImV4cCI6MTc5MjEwMzEzNX0.fg6pbP4TqsUyQN-Rb2oyf2H2YIWWSrz65jNZzifya_w",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b3badde-12ec-41cc-a40b-b5add886c7b9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7fc20974dbd15d007331",
+      "name": "radio viana aovivo",
+      "country": "AO",
+      "subdivision": "Viana",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "gospel"
+      ],
+      "homepage": "https://radiovianaaovivo.blogspot.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:07:42Z",
+      "streams": [
+        {
+          "id": "aws_1ffb0eb51dc80050f12d",
+          "stationId": "awb_7fc20974dbd15d007331",
+          "name": "radio viana aovivo",
+          "country": "AO",
+          "url": "https://stream1.svrdedicado.org/8358/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "abee27c7-4f55-4356-a37f-64971f9a690d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3d6fe265ba6323b855ee",
+      "name": "TRS Rádio Online",
+      "country": "AO",
+      "subdivision": "Luanda",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "latin",
+        "religious"
+      ],
+      "tags": [
+        "gospel",
+        "latin"
+      ],
+      "homepage": "https://www.trsradioonline.ao/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:11:13Z",
+      "streams": [
+        {
+          "id": "aws_bc6f0d13c1bf05dead18",
+          "stationId": "awb_3d6fe265ba6323b855ee",
+          "name": "TRS Rádio Online",
+          "country": "AO",
+          "url": "https://link.radio.br:17308/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f834de28-9f73-41be-976b-90720cfbab3d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
         }
       ]
     },
@@ -13330,7 +14256,7 @@
         "tv"
       ],
       "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-      "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+      "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T06:09:01Z",
@@ -17957,6 +18883,49 @@
       ]
     },
     {
+      "id": "awb_be4b776abf735de24d4f",
+      "name": "Jow Radio - Jow Islam",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "arabic music",
+        "islamic",
+        "religious"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:57:37Z",
+      "streams": [
+        {
+          "id": "aws_d8e0857206afa3d78119",
+          "stationId": "awb_be4b776abf735de24d4f",
+          "name": "Jow Radio - Jow Islam",
+          "country": "DZ",
+          "url": "https://azuracast.dataplayapps.com/listen/islam/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7e2023bb-e40a-4111-8ac2-1c8527ae977a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8be4089c934902483c5a",
       "name": "Católica Cuenca 98.1 FM",
       "country": "EC",
@@ -18864,8 +19833,8 @@
       "homepage": "https://radio.xecod.com/listen/salah-bukhatir",
       "favicon": null,
       "type": null,
-      "sourceCount": 3,
-      "updatedAt": "2026-10-14T19:00:48Z",
+      "sourceCount": 4,
+      "updatedAt": "2026-10-15T19:02:28Z",
       "streams": [
         {
           "id": "aws_4e90d0f388f2052d6e35",
@@ -18881,11 +19850,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "578242d8-6de4-42e7-acaf-5051f7dc20cb",
-            "c667427e-2d30-4f22-8cda-30a48ed01fed"
+            "381443b0-bad7-4d7c-9081-ddfdae1e9f87",
+            "578242d8-6de4-42e7-acaf-5051f7dc20cb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -19046,8 +20015,8 @@
       "homepage": "https://radio.xecod.com/listen/ahmad-tamim",
       "favicon": null,
       "type": null,
-      "sourceCount": 11,
-      "updatedAt": "2026-10-12T12:23:07Z",
+      "sourceCount": 12,
+      "updatedAt": "2026-10-16T03:00:48Z",
       "streams": [
         {
           "id": "aws_3e3dc771211b6706c7b5",
@@ -19316,8 +20285,8 @@
       "homepage": "https://radio.xecod.com/listen/alafasi",
       "favicon": null,
       "type": null,
-      "sourceCount": 16,
-      "updatedAt": "2026-10-12T20:22:05Z",
+      "sourceCount": 17,
+      "updatedAt": "2026-10-15T19:02:28Z",
       "streams": [
         {
           "id": "aws_cb7752b2ce13a2c04543",
@@ -19337,7 +20306,7 @@
             "f4bbd66c-abcc-44b3-8d07-513bebd4cf86"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T20:22:06Z"
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },
@@ -33355,6 +34324,49 @@
       ]
     },
     {
+      "id": "awb_f761418b510b7e15c0ce",
+      "name": "Mantra Radio",
+      "country": "LT",
+      "subdivision": "Vilnius",
+      "languages": [
+        "hi"
+      ],
+      "categories": [
+        "ambient",
+        "religious"
+      ],
+      "tags": [
+        "meditation",
+        "religious"
+      ],
+      "homepage": "https://mantraradio.eu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:32:10Z",
+      "streams": [
+        {
+          "id": "aws_6c171a1ed9cdcd92aa4d",
+          "stationId": "awb_f761418b510b7e15c0ce",
+          "name": "Mantra Radio",
+          "country": "LT",
+          "url": "https://whsh4u-panel.com/proxy/gsedemag?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "74b5fceb-7023-4c47-b1f9-4ef15a17f398"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ab9a233a08814e7910bd",
       "name": "Marijos radijas",
       "country": "LT",
@@ -33567,6 +34579,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T11:35:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_49fb5001cd3ed766fe18",
+      "name": "Radio Marija Latvija",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "christian",
+        "religious",
+        "talk"
+      ],
+      "homepage": "https://rml.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:05:00Z",
+      "streams": [
+        {
+          "id": "aws_84e0e5ef8ce9c9c96d4a",
+          "stationId": "awb_49fb5001cd3ed766fe18",
+          "name": "Radio Marija Latvija",
+          "country": "LV",
+          "url": "https://dreamsiteradiocp2.com/proxy/rmlatvia?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b690f4a2-164f-4196-b124-21508a4b1f01"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },
@@ -47758,7 +48814,7 @@
         "gospel music"
       ],
       "homepage": "https://demagospel.com/",
-      "favicon": "https://i.ibb.co/S5XYRs3/demagpwhite.jpg",
+      "favicon": "https://demagospel.com/images/logos/faviconnew.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T08:29:20Z",
@@ -58335,6 +59391,47 @@
       ]
     },
     {
+      "id": "awb_87b2f311ca016da466c5",
+      "name": "KCUG 100.3 \"Gospel Music Omaha\" - Omaha, Nebraska",
+      "country": "US",
+      "subdivision": "Nebraska",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "urban gospel"
+      ],
+      "homepage": "https://gospelmusicomaha1003.wordpress.com/",
+      "favicon": "https://gospelmusicomaha1003.wordpress.com/wp-content/uploads/2019/09/gmo-3x6.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T01:13:20Z",
+      "streams": [
+        {
+          "id": "aws_618305a2500d7711c51e",
+          "stationId": "awb_87b2f311ca016da466c5",
+          "name": "KCUG 100.3 \"Gospel Music Omaha\" - Omaha, Nebraska",
+          "country": "US",
+          "url": "https://ny.mysonicserver.com/9992/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7b1ee15e-f02a-4bcd-8f56-6ab70085de03"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_701d7f8a6a48a589a827",
       "name": "KDFJ 105.9 Fairbanks, Alaska - In Truth Radio",
       "country": "US",
@@ -58846,6 +59943,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:10:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f81866229891a2443c73",
+      "name": "KJTM \"98.9 & 107.9 TiM FM\" Omaha, Nebraska",
+      "country": "US",
+      "subdivision": "Nebraska",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian contemporary"
+      ],
+      "homepage": "https://timfm.com/",
+      "favicon": "https://img1.wsimg.com/isteam/ip/b914716c-5a61-4abc-98c7-c6926c9c30fe/plain%20logo%20website(8000%20x%203125%20px).png/:/rs=w:1280,h:500",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T01:24:53Z",
+      "streams": [
+        {
+          "id": "aws_1984675e633d4361361b",
+          "stationId": "awb_f81866229891a2443c73",
+          "name": "KJTM \"98.9 & 107.9 TiM FM\" Omaha, Nebraska",
+          "country": "US",
+          "url": "http://provisioning.streamtheworld.com/pls/SP_R3055238.pls",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "43e2276f-3ccd-496b-9c87-39dcf311b28c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -59452,6 +60590,49 @@
       ]
     },
     {
+      "id": "awb_b037a02451c103305845",
+      "name": "KSWR 94.9 Las Vegas, Nevada",
+      "country": "US",
+      "subdivision": "Nevada",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "bible",
+        "gospel music",
+        "hymns"
+      ],
+      "homepage": "https://kswr.org/",
+      "favicon": "https://images.radio.co/station_logos/s44e55f8e6.20260330013116.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T01:44:44Z",
+      "streams": [
+        {
+          "id": "aws_6e12adb22e3df069fe52",
+          "stationId": "awb_b037a02451c103305845",
+          "name": "KSWR 94.9 Las Vegas, Nevada",
+          "country": "US",
+          "url": "https://streams.radio.co/s44e55f8e6/listen",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4b5c877e-0adb-4d37-a473-5ca8c697419a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_ca3816fa19448d90a516",
       "name": "KTLF The Light",
       "country": "US",
@@ -59697,6 +60878,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T19:57:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_304753c2325f3bbb9467",
+      "name": "KXTO 1550 \"Radio Vida\" Reno, Nevada",
+      "country": "US",
+      "subdivision": "Nevada",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian music"
+      ],
+      "homepage": "https://radiovidareno.com/",
+      "favicon": "https://vibe.filesafe.space/1787680674542184105/assets/8ae9db1a-6d0a-4940-aff4-e006aad5de81.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T01:35:19Z",
+      "streams": [
+        {
+          "id": "aws_983c51b7c168e0d95a6b",
+          "stationId": "awb_304753c2325f3bbb9467",
+          "name": "KXTO 1550 \"Radio Vida\" Reno, Nevada",
+          "country": "US",
+          "url": "https://shout2.brnstream.com/proxy/kxto?mp=/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "12108845-b90e-40cb-860a-e3eeb89cb7a7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -60715,7 +61937,7 @@
     },
     {
       "id": "awb_af73dbbcf090d98ef0dc",
-      "name": "Power of the Cross Radio",
+      "name": "Power Of the Cross Radio",
       "country": "US",
       "subdivision": "Grenada, Mississippi",
       "languages": [
@@ -60728,7 +61950,7 @@
         "christian"
       ],
       "homepage": "https://cross.radio/",
-      "favicon": "https://cross.radio/wp-content/uploads/2021/02/cropped-radio-favicon-180x180.jpg",
+      "favicon": "https://cross.radio/wp-content/uploads/2023/11/POTC-Christian-Radio.webp",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T07:23:17Z",
@@ -68111,6 +69333,51 @@
       ]
     },
     {
+      "id": "awb_4be6d1ce0742448820b9",
+      "name": "WUMO 94.5 - Montgomery, Alabama",
+      "country": "US",
+      "subdivision": "Alabama",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz",
+        "religious"
+      ],
+      "tags": [
+        "african american",
+        "black gospel",
+        "jazz",
+        "soul"
+      ],
+      "homepage": "https://wumolpfm.org/",
+      "favicon": "https://wumolpfm.org/wp-content/uploads/sites/3/2021/07/WUMO_Logo_Color.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T01:49:21Z",
+      "streams": [
+        {
+          "id": "aws_de628001963443445194",
+          "stationId": "awb_4be6d1ce0742448820b9",
+          "name": "WUMO 94.5 - Montgomery, Alabama",
+          "country": "US",
+          "url": "http://provisioning.streamtheworld.com/pls/SP_R2129464.pls",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4b9af597-7683-4756-9856-d5eb76990edf"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_d3bf79ca8303944f9037",
       "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
       "country": "US",
@@ -68140,9 +69407,9 @@
           "stationId": "awb_d3bf79ca8303944f9037",
           "name": "WVFF 97.7 Cottageville, South Carolina - Veterans For Freedom Radio",
           "country": "US",
-          "url": "http://provisioning.streamtheworld.com/pls/SAM04AAC609.pls",
-          "codec": null,
-          "bitrate": 0,
+          "url": "http://18303.live.streamtheworld.com:3690/SAM04AAC609_SC",
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -68152,7 +69419,7 @@
             "05aba190-a0a2-40f3-93ca-47cd9f18f870"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },

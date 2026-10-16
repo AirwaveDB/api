@@ -2020,6 +2020,41 @@
       }
     ]
   },
+  "awb_0b4c258bce60f496d191": {
+    "id": "awb_0b4c258bce60f496d191",
+    "name": "Radio la Zona cr",
+    "country": "CR",
+    "subdivision": "san Antonio",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://zona1radio.radiostream321.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:35:09Z",
+    "streams": [
+      {
+        "id": "aws_75180c3035dc4807771b",
+        "stationId": "awb_0b4c258bce60f496d191",
+        "name": "Radio la Zona cr",
+        "country": "CR",
+        "url": "https://c34.radioboss.fm:9056/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5bbfbea4-6e31-4291-8b2d-44c2016db0cb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_0b10a7d56e1a7bbca7ac": {
     "id": "awb_0b10a7d56e1a7bbca7ac",
     "name": "80s80s POP STORIES",
@@ -3272,8 +3307,8 @@
         "name": "SAM Ibiza",
         "country": "ES",
         "url": "https://stream.aiir.com/a85tlgriuzyuv",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 192,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3283,7 +3318,7 @@
           "d7fde6f3-9f1b-4ea3-b50f-f58b26b51165"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

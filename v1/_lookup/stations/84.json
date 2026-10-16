@@ -198,6 +198,49 @@
       }
     ]
   },
+  "awb_84f2c3f7a7251cbc146d": {
+    "id": "awb_84f2c3f7a7251cbc146d",
+    "name": "Rádio Viana",
+    "country": "AO",
+    "subdivision": "Viana",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radiochanels/radio-viana/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:16:01Z",
+    "streams": [
+      {
+        "id": "aws_eef4c464ec4394721236",
+        "stationId": "awb_84f2c3f7a7251cbc146d",
+        "name": "Rádio Viana",
+        "country": "AO",
+        "url": "https://paineldj5.com.br:20093/stream",
+        "codec": "aac+",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "171dc3f5-16ee-4431-b586-6b3499144fbe"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_84f180adb05c5b05cba7": {
     "id": "awb_84f180adb05c5b05cba7",
     "name": "FM LA CIMA 94.5",
@@ -1184,7 +1227,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto, ON",
+    "subdivision": "Toronto",
     "languages": [],
     "categories": [
       "jazz"
@@ -1193,7 +1236,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,

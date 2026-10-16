@@ -130,6 +130,51 @@
       }
     ]
   },
+  "awb_0804ec60ac97b2f78dfc": {
+    "id": "awb_0804ec60ac97b2f78dfc",
+    "name": "Rádio Nacional de Angola - Rádio 5",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://rna.ao/rna.ao/radio-5/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:26:16Z",
+    "streams": [
+      {
+        "id": "aws_48648db8b2033f8b988d",
+        "stationId": "awb_0804ec60ac97b2f78dfc",
+        "name": "Rádio Nacional de Angola - Rádio 5",
+        "country": "AO",
+        "url": "https://paineldj5.com.br:20088/stream",
+        "codec": "aac",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c5b1954b-b351-49a4-b621-1ca5528dce4c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:19Z"
+      }
+    ]
+  },
   "awb_0851d1b2a55ced7445a3": {
     "id": "awb_0851d1b2a55ced7445a3",
     "name": "Cienradios Radio X",
@@ -7722,51 +7767,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T21:26:58Z"
-      }
-    ]
-  },
-  "awb_082b39a786d278a6db5b": {
-    "id": "awb_082b39a786d278a6db5b",
-    "name": "ESPN Sacramento 1320 KIFM",
-    "country": "US",
-    "subdivision": "California",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "sports",
-      "talk"
-    ],
-    "tags": [
-      "espn radio",
-      "sacramento",
-      "sports",
-      "sports talk"
-    ],
-    "homepage": "https://www.audacy.com/espn1320",
-    "favicon": "https://i.iheart.com/v3/re/assets.streams/68487790c4ffec3cc815ae60",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-15T05:43:16Z",
-    "streams": [
-      {
-        "id": "aws_7ddff66ec3ff486457b1",
-        "stationId": "awb_082b39a786d278a6db5b",
-        "name": "ESPN Sacramento 1320 KIFM",
-        "country": "US",
-        "url": "https://live.amperwave.net/direct/audacy-kifmamaac-imc",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "b07162f4-3e18-40b8-9144-4134d3c32e12"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
       }
     ]
   },

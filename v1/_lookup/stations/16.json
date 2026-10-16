@@ -74,6 +74,49 @@
       }
     ]
   },
+  "awb_16137680773f12d690d1": {
+    "id": "awb_16137680773f12d690d1",
+    "name": "Zango FM 98.1",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://zango.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:26:16Z",
+    "streams": [
+      {
+        "id": "aws_e4e150c286d8943747a8",
+        "stationId": "awb_16137680773f12d690d1",
+        "name": "Zango FM 98.1",
+        "country": "AO",
+        "url": "https://servidor26-5.brlogic.com:7036/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4d677c1f-a70a-4b62-82c9-c75df2b9872b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_169c3eba1e810d8b42b4": {
     "id": "awb_169c3eba1e810d8b42b4",
     "name": "FM Santa María 106.1",
@@ -7948,6 +7991,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T19:28:58Z"
+      }
+    ]
+  },
+  "awb_16dbba9e7b1ec0a1027d": {
+    "id": "awb_16dbba9e7b1ec0a1027d",
+    "name": "WCGD \"Energy 90.5\" Edgar, Nebraska",
+    "country": "US",
+    "subdivision": "Nebraska",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "edm",
+      "electronic dance music"
+    ],
+    "homepage": "https://energy905fm.com/",
+    "favicon": "https://energy905fm.com/wp-content/uploads/2021/11/ENERGYLOGO3.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:36:33Z",
+    "streams": [
+      {
+        "id": "aws_bcc7e2dbedf73ac14ec1",
+        "stationId": "awb_16dbba9e7b1ec0a1027d",
+        "name": "WCGD \"Energy 90.5\" Edgar, Nebraska",
+        "country": "US",
+        "url": "https://a2.asurahosting.com:7520/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "38a3142f-a0d6-45b4-9f6e-7b94be0b59a1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

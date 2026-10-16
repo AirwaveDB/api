@@ -1,7 +1,7 @@
 {
   "code": "GB",
-  "stationCount": 1973,
-  "streamCount": 2131,
+  "stationCount": 1975,
+  "streamCount": 2132,
   "stations": [
     {
       "id": "awb_9ff2145d6f9bd4c5abac",
@@ -33046,6 +33046,54 @@
       ]
     },
     {
+      "id": "awb_ec34b8d31dbaa6cc59f3",
+      "name": "Groove FM",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "dance",
+        "disco",
+        "funk",
+        "groove",
+        "oldies",
+        "soul"
+      ],
+      "homepage": "https://groovefm.uk/",
+      "favicon": "https://player.groovefm.uk/media/logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T08:24:21Z",
+      "streams": [
+        {
+          "id": "aws_d7c91f845f6ce871e779",
+          "stationId": "awb_ec34b8d31dbaa6cc59f3",
+          "name": "Groove FM",
+          "country": "GB",
+          "url": "https://groovefm.uk/listen/groove_fm/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fae03b86-d61f-4803-a96b-1108d5b922a8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_dec8904a12a2598df110",
       "name": "Groove Genie Radio",
       "country": "GB",
@@ -65804,8 +65852,8 @@
       "homepage": "https://tunein.com/radio/RKNW-s263810/",
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-15T02:19:29Z",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T01:57:46Z",
       "streams": [
         {
           "id": "aws_93b8d890e93a3c08e517",
@@ -65813,8 +65861,8 @@
           "name": "RKNW Pirate Radio",
           "country": "GB",
           "url": "http://quasar.shoutca.st:8108/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -65824,26 +65872,7 @@
             "af927ce9-35d4-4d98-b36e-0812039bd16d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
-        },
-        {
-          "id": "aws_914fd860afc3514780ad",
-          "stationId": "awb_62345d01e03837f8072c",
-          "name": "RKNW Pirate Radio",
-          "country": "GB",
-          "url": "http://quasar.shoutca.st:8108/stream.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1deb3bde-5507-4624-a780-5986312c88c3"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -79092,6 +79121,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:04:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dc0b3a93437ff86f13a0",
+      "name": "Venture 995 fm",
+      "country": "GB",
+      "subdivision": "lond",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "reggae"
+      ],
+      "tags": [
+        "r&b",
+        "reggae",
+        "soul"
+      ],
+      "homepage": "https://www.venturefm.co.uk/",
+      "favicon": "https://www.venturefm.co.uk/wp-content/uploads/2021/06/VFM-2021.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T15:16:09Z",
+      "streams": [
+        {
+          "id": "aws_d33edf5dc9a692d03c14",
+          "stationId": "awb_dc0b3a93437ff86f13a0",
+          "name": "Venture 995 fm",
+          "country": "GB",
+          "url": "https://c20.radioboss.fm:8383/stream?_ic2=1792075891550",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "51f84050-e3f2-4af0-af17-19a213303284"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

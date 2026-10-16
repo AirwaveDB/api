@@ -5354,6 +5354,52 @@
       }
     ]
   },
+  "awb_f935b386ccf7845f3d14": {
+    "id": "awb_f935b386ccf7845f3d14",
+    "name": "Radijo stotis Radio3",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "languages": [
+      "lt"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "adult contemporary",
+      "disco",
+      "pop",
+      "rock",
+      "top 40"
+    ],
+    "homepage": "https://radio3.tv3.lt/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:38:48Z",
+    "streams": [
+      {
+        "id": "aws_ca318abe809b0b4a9ac2",
+        "stationId": "awb_f935b386ccf7845f3d14",
+        "name": "Radijo stotis Radio3",
+        "country": "LT",
+        "url": "https://stream.rcs.revma.com/8cwskd80zxcwv",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "abe35b9f-25c0-4aa1-85fd-34c82cad3624"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_f9560db977cb2f6dbf0e": {
     "id": "awb_f9560db977cb2f6dbf0e",
     "name": "Radiocentras",
@@ -5413,6 +5459,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T23:06:28Z"
+      }
+    ]
+  },
+  "awb_f9b167cb246f028f5461": {
+    "id": "awb_f9b167cb246f028f5461",
+    "name": "Авторадио Романтика",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "romantic"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:52:16Z",
+    "streams": [
+      {
+        "id": "aws_6653841f6612c757f352",
+        "stationId": "awb_f9b167cb246f028f5461",
+        "name": "Авторадио Романтика",
+        "country": "LV",
+        "url": "https://my.radioprocessor.com:8100/avtoradiolv-48.aac",
+        "codec": "aac",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b56c81ef-8bf7-4aa2-8d96-0e24332a1597"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

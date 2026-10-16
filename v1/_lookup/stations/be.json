@@ -116,6 +116,51 @@
       }
     ]
   },
+  "awb_be4b02a228d40787d0ff": {
+    "id": "awb_be4b02a228d40787d0ff",
+    "name": "Rádio Solidária",
+    "country": "AO",
+    "subdivision": "Belas",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://radiosolidaria.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:20:16Z",
+    "streams": [
+      {
+        "id": "aws_04a0b92e8066f382d901",
+        "stationId": "awb_be4b02a228d40787d0ff",
+        "name": "Rádio Solidária",
+        "country": "AO",
+        "url": "https://link.radio.br:16052/stream",
+        "codec": "aac+",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3387a857-4b13-4956-b40a-1627a162a371"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_bec8f50623bfb7c6e5f6": {
     "id": "awb_bec8f50623bfb7c6e5f6",
     "name": "Pop Radio. FM 101.5. Ciudad de Bs. As. Version 3",
@@ -2658,6 +2703,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T00:50:24Z"
+      }
+    ]
+  },
+  "awb_be4b776abf735de24d4f": {
+    "id": "awb_be4b776abf735de24d4f",
+    "name": "Jow Radio - Jow Islam",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "arabic music",
+      "islamic",
+      "religious"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:57:37Z",
+    "streams": [
+      {
+        "id": "aws_d8e0857206afa3d78119",
+        "stationId": "awb_be4b776abf735de24d4f",
+        "name": "Jow Radio - Jow Islam",
+        "country": "DZ",
+        "url": "https://azuracast.dataplayapps.com/listen/islam/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7e2023bb-e40a-4111-8ac2-1c8527ae977a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:19Z"
       }
     ]
   },
@@ -5373,6 +5461,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T05:19:22Z"
+      }
+    ]
+  },
+  "awb_bebc889d019a96002352": {
+    "id": "awb_bebc889d019a96002352",
+    "name": "EHR+ RU Remixes",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/ru-remixes",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z",
+    "streams": [
+      {
+        "id": "aws_67e10078d3665d134a7d",
+        "stationId": "awb_bebc889d019a96002352",
+        "name": "EHR+ RU Remixes",
+        "country": "LV",
+        "url": "https://stream.ehrhiti.lv:8000/Stream_35.aac",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "304c26de-4715-44de-a173-2f5f1290358f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

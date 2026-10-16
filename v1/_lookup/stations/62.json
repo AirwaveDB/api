@@ -269,6 +269,49 @@
       }
     ]
   },
+  "awb_6253d15b75f7ee56d165": {
+    "id": "awb_6253d15b75f7ee56d165",
+    "name": "Platina FM",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://platinafm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:22:12Z",
+    "streams": [
+      {
+        "id": "aws_a6f57d95f1259b7b54fc",
+        "stationId": "awb_6253d15b75f7ee56d165",
+        "name": "Platina FM",
+        "country": "AO",
+        "url": "https://stream.zeno.fm/bckqpsxrqv8uv",
+        "codec": "aac",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d024beb9-4443-4a1a-8939-e0868f3f6100"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_625ce4f956c4102597dc": {
     "id": "awb_625ce4f956c4102597dc",
     "name": "Beat Digital Radio",
@@ -3392,6 +3435,93 @@
       }
     ]
   },
+  "awb_6291909d10f7f7dc3a6c": {
+    "id": "awb_6291909d10f7f7dc3a6c",
+    "name": "K-SUN66 - THE RIVER",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "folk"
+    ],
+    "tags": [
+      "country",
+      "folk"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:59:28Z",
+    "streams": [
+      {
+        "id": "aws_3a49998272ce22ac270f",
+        "stationId": "awb_6291909d10f7f7dc3a6c",
+        "name": "K-SUN66 - THE RIVER",
+        "country": "DZ",
+        "url": "https://stream.zeno.fm/ghuzk7au2gruv",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "adc0e7c9-e586-4ab2-956a-11e40e7d2f59"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
+  "awb_6211069292e4487b3936": {
+    "id": "awb_6211069292e4487b3936",
+    "name": "MyHits Rock",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "metal",
+      "rock"
+    ],
+    "tags": [
+      "indie",
+      "metal",
+      "rock"
+    ],
+    "homepage": "https://myhitsrock.pleier.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:18Z",
+    "streams": [
+      {
+        "id": "aws_780a11ca33548c2f8470",
+        "stationId": "awb_6211069292e4487b3936",
+        "name": "MyHits Rock",
+        "country": "EE",
+        "url": "https://le302.euddn.net/917ee7f93356a9635286a8ce2890d12c9b533409623ec8f9d400f376bcfe8e4f789c2a8f52d355fd670fc6b30cb49c059fcebd6d9e385c4131648affeacd795cb3fe2425a59ca65fd0a5905d1442fc4f5ee3a4c64f96ddbf8c9f7afb2ec40fb05ed3a32b17afedad0585d0f261d8d2b5d8082d02ef6a373d22c39ed230fcae73388093097eab840de7aaff3ae6989aefad9f25c63efb6c5d32d4721ac217627cb8423e346a02b3a6422f7dd4794f50241bfff38aaaa064fb4ce8881f226406e6/MHR_myhitsrock.aac",
+        "codec": "aac",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4ba1954b-b9a5-47c5-91e4-13439cfdfdfc"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_62f16a5c453170ec27e0": {
     "id": "awb_62f16a5c453170ec27e0",
     "name": "NRJ",
@@ -4240,8 +4370,8 @@
     "homepage": "https://tunein.com/radio/RKNW-s263810/",
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-15T02:19:29Z",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T01:57:46Z",
     "streams": [
       {
         "id": "aws_93b8d890e93a3c08e517",
@@ -4249,8 +4379,8 @@
         "name": "RKNW Pirate Radio",
         "country": "GB",
         "url": "http://quasar.shoutca.st:8108/stream",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "http",
         "hls": false,
         "sources": [
@@ -4260,26 +4390,7 @@
           "af927ce9-35d4-4d98-b36e-0812039bd16d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
-      },
-      {
-        "id": "aws_914fd860afc3514780ad",
-        "stationId": "awb_62345d01e03837f8072c",
-        "name": "RKNW Pirate Radio",
-        "country": "GB",
-        "url": "http://quasar.shoutca.st:8108/stream.mp3",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "1deb3bde-5507-4624-a780-5986312c88c3"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

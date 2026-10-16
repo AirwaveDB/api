@@ -2242,8 +2242,8 @@
         "name": "Радио Для Взрослых",
         "country": "DE",
         "url": "https://listen6.myradio24.com/alex542888",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -2253,7 +2253,7 @@
           "a7cfd884-c6c7-4f6b-9590-184febeb3180"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },
@@ -4694,6 +4694,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T17:03:48Z"
+      }
+    ]
+  },
+  "awb_82f9af7c16638e15c895": {
+    "id": "awb_82f9af7c16638e15c895",
+    "name": "Radio TEV Dance",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "electronic",
+      "pop"
+    ],
+    "homepage": "https://radiotev.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:51Z",
+    "streams": [
+      {
+        "id": "aws_bc733c012e32fb656535",
+        "stationId": "awb_82f9af7c16638e15c895",
+        "name": "Radio TEV Dance",
+        "country": "LV",
+        "url": "https://streams.radiotev.lv:8443/dance",
+        "codec": "aac+",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c1bbd6a5-71ed-452b-a755-b10501afdde8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

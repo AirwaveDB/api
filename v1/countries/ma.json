@@ -1,7 +1,7 @@
 {
   "code": "MA",
-  "stationCount": 70,
-  "streamCount": 70,
+  "stationCount": 71,
+  "streamCount": 71,
   "stations": [
     {
       "id": "awb_fd499c946eaae8eacd95",
@@ -1937,6 +1937,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T22:11:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b27f97bf7048f3a3d33b",
+      "name": "Radio Adwaa FM6",
+      "country": "MA",
+      "subdivision": null,
+      "languages": [
+        "ar"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "culture",
+        "music",
+        "news"
+      ],
+      "homepage": "https://radio.co.ma/adwaa-fm/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMreguvYInAS9F80xUJvDuOjjQeeiH46CmBlYl8629A&s",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T01:49:08Z",
+      "streams": [
+        {
+          "id": "aws_56dfbe9014ca9b70772c",
+          "stationId": "awb_b27f97bf7048f3a3d33b",
+          "name": "Radio Adwaa FM6",
+          "country": "MA",
+          "url": "https://stream.zeno.fm/tvxvud2kpm0uv",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dffdfa3f-13fd-4a77-9e42-b80ed79913f9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

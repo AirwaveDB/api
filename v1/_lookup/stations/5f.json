@@ -4649,6 +4649,50 @@
       }
     ]
   },
+  "awb_5f22075f90723b7c02d1": {
+    "id": "awb_5f22075f90723b7c02d1",
+    "name": "Авторадио Дискотека 80-х",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "80s",
+      "disco",
+      "pop"
+    ],
+    "homepage": "https://www.avtoradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z",
+    "streams": [
+      {
+        "id": "aws_4f32d737e8d48617ea4d",
+        "stationId": "awb_5f22075f90723b7c02d1",
+        "name": "Авторадио Дискотека 80-х",
+        "country": "LV",
+        "url": "https://my.radioprocessor.com:8100/avtoradiolv-disco80s-48.aac",
+        "codec": "aac",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0a274f0d-e00d-48f5-b207-02ada2d2b7a0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_5f7a7acb52aa04fbc8c5": {
     "id": "awb_5f7a7acb52aa04fbc8c5",
     "name": "radio yan plus",
@@ -7062,8 +7106,8 @@
         "name": "WGYT 92.7 - Greer, South Carolina",
         "country": "US",
         "url": "https://582f0aabbc5ab.streamlock.net/ZZ_WGYT/wgyt.stream/playlist.m3u8",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 97,
         "protocol": "https",
         "hls": true,
         "sources": [
@@ -7073,7 +7117,7 @@
           "f5c9416b-c6f5-4321-b5d4-9035c7a4d4ea"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       }
     ]
   },

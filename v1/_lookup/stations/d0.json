@@ -165,6 +165,47 @@
       }
     ]
   },
+  "awb_d0c7d560902f85231a58": {
+    "id": "awb_d0c7d560902f85231a58",
+    "name": "Radio Viciana Folklor",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "folk"
+    ],
+    "homepage": "https://radioviciana.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:19:25Z",
+    "streams": [
+      {
+        "id": "aws_680ba65715fa8889fec5",
+        "stationId": "awb_d0c7d560902f85231a58",
+        "name": "Radio Viciana Folklor",
+        "country": "AL",
+        "url": "http://radioviciana.org:8020/;?.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "30fc5234-78fc-4fce-a88e-e25e3e6de08d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_d03fbc0aec1c7d265091": {
     "id": "awb_d03fbc0aec1c7d265091",
     "name": "FM 90.9 Rosario",
@@ -3832,6 +3873,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T22:23:52Z"
+      }
+    ]
+  },
+  "awb_d0cc490394178502e1b1": {
+    "id": "awb_d0cc490394178502e1b1",
+    "name": "K-SUN66 — THE ROAD",
+    "country": "DZ",
+    "subdivision": "Alger",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "classic rock",
+      "soft rock"
+    ],
+    "homepage": "https://www.ksun66.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:56:45Z",
+    "streams": [
+      {
+        "id": "aws_14cb1118e2a8235dc23e",
+        "stationId": "awb_d0cc490394178502e1b1",
+        "name": "K-SUN66 — THE ROAD",
+        "country": "DZ",
+        "url": "https://radio8.pro-fhi.net/listen/ksunclassics/stream",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0d58a74c-f66c-4a4f-9196-8fa8138a816b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

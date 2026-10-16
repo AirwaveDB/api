@@ -1,7 +1,7 @@
 {
   "code": "ZA",
-  "stationCount": 192,
-  "streamCount": 207,
+  "stationCount": 193,
+  "streamCount": 208,
   "stations": [
     {
       "id": "awb_0a17bd4ae41ed1e7f029",
@@ -5331,8 +5331,8 @@
           "name": "Radio Daspoort",
           "country": "ZA",
           "url": "https://c32.radioboss.fm:8899/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -5342,7 +5342,7 @@
             "567e2590-44ca-4c67-a530-416e21a84280"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         }
       ]
     },
@@ -7580,6 +7580,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:40:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4ea918809efde9c5c71f",
+      "name": "Worcester FM1",
+      "country": "ZA",
+      "subdivision": "Western Cape",
+      "languages": [
+        "af"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "homepage": "https://app.worcesterfm.co.za/",
+      "favicon": null,
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T15:04:43Z",
+      "streams": [
+        {
+          "id": "aws_4475d383f2b2d977f4eb",
+          "stationId": "awb_4ea918809efde9c5c71f",
+          "name": "Worcester FM1",
+          "country": "ZA",
+          "url": "https://zas1.ndx.co.za:9917/stream",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9a1a816a-45ba-4621-bd4f-5603f387b389"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

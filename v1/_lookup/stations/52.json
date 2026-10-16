@@ -112,6 +112,51 @@
       }
     ]
   },
+  "awb_52e195fccc40996a2285": {
+    "id": "awb_52e195fccc40996a2285",
+    "name": "LAC - Luanda Antena Comercial",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://www.lacluanda.co.ao/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:09:47Z",
+    "streams": [
+      {
+        "id": "aws_c53fb22a217112a0217d",
+        "stationId": "awb_52e195fccc40996a2285",
+        "name": "LAC - Luanda Antena Comercial",
+        "country": "AO",
+        "url": "http://live.paineldj.com.br:8662/live",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "84ec8c80-b161-4521-9aee-ee0b2f33382c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_52448640a22b2a23b8c3": {
     "id": "awb_52448640a22b2a23b8c3",
     "name": "Estación Zafiro 89.5 FM",
@@ -5174,6 +5219,49 @@
       }
     ]
   },
+  "awb_523c4d8f06e076032c7b": {
+    "id": "awb_523c4d8f06e076032c7b",
+    "name": "Radio Energy - Hit Music Radio",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "http://www.radioenergy.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:46:50Z",
+    "streams": [
+      {
+        "id": "aws_864ffa752bbf76071eef",
+        "stationId": "awb_523c4d8f06e076032c7b",
+        "name": "Radio Energy - Hit Music Radio",
+        "country": "LV",
+        "url": "http://radioenergy.lv:8000/;stream.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d873e20f-220c-4417-9ab8-e8c193c6a5fb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_52de80c0196dc2b0dc8b": {
     "id": "awb_52de80c0196dc2b0dc8b",
     "name": "Radio Fatih",
@@ -7420,7 +7508,7 @@
         "name": "93.7 The River Sacramento KYRV",
         "country": "US",
         "url": "https://stream.revma.ihrhls.com/zc4314",
-        "codec": null,
+        "codec": "aac",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -7431,7 +7519,7 @@
           "07c935e0-e828-4b29-889b-1f0b8837b847"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       }
     ]
   },

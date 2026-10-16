@@ -203,6 +203,51 @@
       }
     ]
   },
+  "awb_feb4d3002f3245da6995": {
+    "id": "awb_feb4d3002f3245da6995",
+    "name": "Radio Dielli",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "homepage": "http://www.radiodielli.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:37:59Z",
+    "streams": [
+      {
+        "id": "aws_19e660d4de6810803ca5",
+        "stationId": "awb_feb4d3002f3245da6995",
+        "name": "Radio Dielli",
+        "country": "AL",
+        "url": "https://radiodielli.synology.me/listen/radiodielli/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "393b5475-6848-47f6-b5df-c2c42f0bb02e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_fe26c4493869c4b68648": {
     "id": "awb_fe26c4493869c4b68648",
     "name": "La 100 Rock Nacional",
@@ -3122,6 +3167,46 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T09:00:05Z"
+      }
+    ]
+  },
+  "awb_fe54bbbecddb76e94c17": {
+    "id": "awb_fe54bbbecddb76e94c17",
+    "name": "France Culture - hi res",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "art",
+      "culture"
+    ],
+    "homepage": "https://radiofrance.fr/franceculture/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T11:19:20Z",
+    "streams": [
+      {
+        "id": "aws_a47a70169d2eb0121b47",
+        "stationId": "awb_fe54bbbecddb76e94c17",
+        "name": "France Culture - hi res",
+        "country": "FR",
+        "url": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dbde7434-e855-4f75-87a4-2129731c3efc"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

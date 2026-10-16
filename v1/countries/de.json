@@ -1,7 +1,7 @@
 {
   "code": "DE",
-  "stationCount": 5231,
-  "streamCount": 5885,
+  "stationCount": 5236,
+  "streamCount": 5891,
   "stations": [
     {
       "id": "awb_3188958cfeae1099d95c",
@@ -39281,7 +39281,7 @@
       "id": "awb_9f6c026e52f2cc2ab155",
       "name": "as.if.radio",
       "country": "DE",
-      "subdivision": "North Rhine-Westphalia",
+      "subdivision": "Cologne",
       "languages": [
         "de",
         "en"
@@ -39315,7 +39315,7 @@
         "werbefrei"
       ],
       "homepage": "https://www.as-if-radio.com/",
-      "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+      "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-04T14:43:37Z",
@@ -44422,7 +44422,7 @@
         "tv"
       ],
       "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-      "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+      "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T06:09:01Z",
@@ -50408,7 +50408,7 @@
         "pop"
       ],
       "homepage": "https://www.bremenzwei.de/",
-      "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
+      "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T08:44:42Z",
@@ -52323,6 +52323,41 @@
       ]
     },
     {
+      "id": "awb_db7154c9a46b0e67ac1f",
+      "name": "charivari live",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.charivari.de/radio/internetradio-streams",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T12:45:03Z",
+      "streams": [
+        {
+          "id": "aws_04e2527ccab67a0805d5",
+          "stationId": "awb_db7154c9a46b0e67ac1f",
+          "name": "charivari live",
+          "country": "DE",
+          "url": "https://live.stream.charivari.de/955charivari-webradio?aggregator=charivari_de_link",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bea87249-01bc-4142-b8aa-3b4bc391c4bd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
       "id": "awb_765d45c8328cc552a578",
       "name": "Charivari München - Lounge Music",
       "country": "DE",
@@ -52743,7 +52778,7 @@
       ],
       "categories": [],
       "tags": [],
-      "homepage": "http://www.ffn.de/",
+      "homepage": "https://www.ffn.de/",
       "favicon": null,
       "type": null,
       "sourceCount": 4,
@@ -67893,6 +67928,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T18:41:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e190fb2acaad421c11f4",
+      "name": "Eichsfeld-welle",
+      "country": "DE",
+      "subdivision": "Thuringia",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://eichsfeld-welle.de/",
+      "favicon": "https://stream.hoerfunkbundstream.de:35402/stream.mp3",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T08:00:36Z",
+      "streams": [
+        {
+          "id": "aws_df1e587da0f431d30cb0",
+          "stationId": "awb_e190fb2acaad421c11f4",
+          "name": "Eichsfeld-welle",
+          "country": "DE",
+          "url": "https://stream.hoerfunkbundstream.de:35402/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "83dd8961-3c26-4edf-87ed-3cf8e907cf3a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -103548,7 +103618,7 @@
           "name": "Kiel FM",
           "country": "DE",
           "url": "https://radio.oksh.de/kielfm.mp3",
-          "codec": null,
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -103559,7 +103629,7 @@
             "feb24e11-3602-4102-8563-f3cbc2ca7111"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -144403,6 +144473,48 @@
       ]
     },
     {
+      "id": "awb_aa834c6d6279204b2263",
+      "name": "Radio 4U",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hot-ac",
+        "pop"
+      ],
+      "homepage": "https://radio-4u.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T18:15:52Z",
+      "streams": [
+        {
+          "id": "aws_d9b2e8d919dfaeeb04c2",
+          "stationId": "awb_aa834c6d6279204b2263",
+          "name": "Radio 4U",
+          "country": "DE",
+          "url": "https://stream.laut.fm/radio-4-u",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7654dead-5813-4cfb-92d0-c1302176bb7f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3d3a8b8c90ba55d4dffc",
       "name": "Radio 7",
       "country": "DE",
@@ -144557,6 +144669,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T15:19:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ea155d07c6c09ea455a7",
+      "name": "Radio 7 Dance Party",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radio7.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T15:59:48Z",
+      "streams": [
+        {
+          "id": "aws_76d5e5416be2b40ace59",
+          "stationId": "awb_ea155d07c6c09ea455a7",
+          "name": "Radio 7 Dance Party",
+          "country": "DE",
+          "url": "https://radio7.streamabc.net/87-danceparty-mp3-192-7041831",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "77e50893-69ba-400a-8693-4f1fdbb0376d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         }
       ]
     },
@@ -147522,7 +147669,7 @@
     },
     {
       "id": "awb_64da13ba48280ff8393c",
-      "name": "Radio Bob",
+      "name": "Radio BOB",
       "country": "DE",
       "subdivision": "Hessen (Kassel)",
       "languages": [
@@ -147530,7 +147677,7 @@
       ],
       "categories": [],
       "tags": [],
-      "homepage": "https://www.radiobob.de/",
+      "homepage": "https://www.radiobob.de/#",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -149448,8 +149595,8 @@
       "homepage": "https://www.radiobob.de/",
       "favicon": "https://i.imgur.com/Ceddbj4.jpg",
       "type": null,
-      "sourceCount": 3,
-      "updatedAt": "2026-01-15T08:24:53Z",
+      "sourceCount": 4,
+      "updatedAt": "2026-10-15T19:38:12Z",
       "streams": [
         {
           "id": "aws_43b3badba604963d660b",
@@ -149470,6 +149617,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T16:43:25Z"
+        },
+        {
+          "id": "aws_9bc7d6fee0a67763bd18",
+          "stationId": "awb_722f0ff1586b12b1f7df",
+          "name": "Radio Bob Rockabilly",
+          "country": "DE",
+          "url": "https://streams.radiobob.de/bob-rockabilly/mp3-192/streams.radiobob.de/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bd656b4c-4c06-4871-bbf3-c55ca7ed51f8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         },
         {
           "id": "aws_da29ca6dea5df3e8405c",
@@ -154233,7 +154399,7 @@
         "radio internetowe"
       ],
       "homepage": "https://radio-budowlaniec.de/",
-      "favicon": "https://radio-budowlaniec.de/sites/default/files/512.1%20logo%20rund.png",
+      "favicon": "https://radio-budowlaniec.de/sites/default/files/banner/512.1%20logo%20rund.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-03-28T07:18:42Z",
@@ -155557,8 +155723,8 @@
           "name": "Radio Deck 1",
           "country": "DE",
           "url": "https://rde1.de/320",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -155568,7 +155734,7 @@
             "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -155613,8 +155779,8 @@
           "name": "Radio Deck 1 Hamburg",
           "country": "DE",
           "url": "https://rde1.de/192",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -155624,7 +155790,7 @@
             "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -180544,7 +180710,7 @@
       "categories": [],
       "tags": [],
       "homepage": "https://streamzentrale.de/",
-      "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
+      "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T11:23:48Z",
@@ -189424,6 +189590,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T13:10:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_402f640f66f6e63699ce",
+      "name": "RHB1",
+      "country": "DE",
+      "subdivision": "Deutschland und NRW",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.rhb1.de/",
+      "favicon": "https://rhb1.de/wp-content/uploads/2026/10/rhb1_transparent-1.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T09:29:38Z",
+      "streams": [
+        {
+          "id": "aws_03c8e88736b5905b7dac",
+          "stationId": "awb_402f640f66f6e63699ce",
+          "name": "RHB1",
+          "country": "DE",
+          "url": "https://stream.laut.fm/radioherzblut",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "901887b0-69c4-48b6-bf87-6f9802f92e8f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },
@@ -230198,8 +230399,8 @@
           "name": "Радио Для Взрослых",
           "country": "DE",
           "url": "https://listen6.myradio24.com/alex542888",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -230209,7 +230410,7 @@
             "a7cfd884-c6c7-4f6b-9590-184febeb3180"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

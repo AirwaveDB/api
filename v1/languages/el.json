@@ -1,7 +1,53 @@
 {
   "code": "el",
-  "stationCount": 1096,
+  "stationCount": 1099,
   "stations": [
+    {
+      "id": "awb_814ef55425312ab96f07",
+      "name": "Play Gold",
+      "country": "AL",
+      "subdivision": "Fieri",
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "oldies",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://playradio.one/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:34:10Z",
+      "streams": [
+        {
+          "id": "aws_d64df285fc40868d245a",
+          "stationId": "awb_814ef55425312ab96f07",
+          "name": "Play Gold",
+          "country": "AL",
+          "url": "https://stream.radiojar.com/431m8b6qcm5tv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b50cb68-e626-4ae5-8552-45502e50d9c1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
     {
       "id": "awb_72d12533f55261bd2041",
       "name": "Radio Saranda",
@@ -2697,7 +2743,7 @@
       "id": "awb_4d4d44464f31efb7b977",
       "name": "1st Greek 80s FLAC Radio",
       "country": "GR",
-      "subdivision": "Kozani",
+      "subdivision": "Attica, Athens",
       "languages": [
         "el",
         "en"
@@ -29971,6 +30017,49 @@
       ]
     },
     {
+      "id": "awb_472ed7dc5708d9df7028",
+      "name": "Style 100",
+      "country": "GR",
+      "subdivision": "Sitia",
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "greek music",
+        "news talk"
+      ],
+      "homepage": "https://style100fm.gr/",
+      "favicon": "https://resources.live24.gr/resources/images/stations/31d4d9a0-308d-4708-a3b8-c32b0bf05bde.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T17:50:17Z",
+      "streams": [
+        {
+          "id": "aws_5cab043b4e0788b7daff",
+          "stationId": "awb_472ed7dc5708d9df7028",
+          "name": "Style 100",
+          "country": "GR",
+          "url": "https://eco.onestreaming.com/proxy/style100/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "18a8a561-f60b-4535-bfda-f87dd4756dcc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_76963103d5e16cc8f176",
       "name": "Summer Radio",
       "country": "GR",
@@ -34030,6 +34119,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:21:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a7d82145bab0aaed284a",
+      "name": "Βερενίκη 89.5",
+      "country": "GR",
+      "subdivision": "Ierapetra",
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "greek pop",
+        "mainstream",
+        "news talk"
+      ],
+      "homepage": "https://www.radiovereniki.gr/",
+      "favicon": "https://resources.live24.gr/resources/images/stations/38a56d04-14a9-4e0e-a934-32b87b752c84.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T17:19:13Z",
+      "streams": [
+        {
+          "id": "aws_dec4b70882b5c95e5089",
+          "stationId": "awb_a7d82145bab0aaed284a",
+          "name": "Βερενίκη 89.5",
+          "country": "GR",
+          "url": "https://everest.streams.ovh:1290/stream",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "175ed0c4-4070-4175-98ea-c4258f5e905b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

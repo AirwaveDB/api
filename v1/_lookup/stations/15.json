@@ -133,6 +133,94 @@
       }
     ]
   },
+  "awb_15245be707f185dd146a": {
+    "id": "awb_15245be707f185dd146a",
+    "name": "Alpo Radio",
+    "country": "AL",
+    "subdivision": "Gjirokastër",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://alpomedia.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:24:39Z",
+    "streams": [
+      {
+        "id": "aws_97f1e89e541b092408e9",
+        "stationId": "awb_15245be707f185dd146a",
+        "name": "Alpo Radio",
+        "country": "AL",
+        "url": "https://cp1.sednastream.com/proxy/alporadio/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dace8d1a-c1f7-42f4-b88d-e44183af25e3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
+  "awb_150f31a5b6210f31a778": {
+    "id": "awb_150f31a5b6210f31a778",
+    "name": "Klan Radio 92.9 FM",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radio.tvklan.al/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:41:45Z",
+    "streams": [
+      {
+        "id": "aws_92ec96d998cbf412b3b4",
+        "stationId": "awb_150f31a5b6210f31a778",
+        "name": "Klan Radio 92.9 FM",
+        "country": "AL",
+        "url": "https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4271d7ec-504d-4dfa-b570-3ce0127c567d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_15338f5da0a4d41dd6b6": {
     "id": "awb_15338f5da0a4d41dd6b6",
     "name": "X1 Radio POP",
@@ -7934,6 +8022,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T11:09:55Z"
+      }
+    ]
+  },
+  "awb_15a8d61ba8032171544e": {
+    "id": "awb_15a8d61ba8032171544e",
+    "name": "Pat Novak, for Hire (radio) | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1940s",
+      "1950s",
+      "detective",
+      "mystery",
+      "noir",
+      "old time radio",
+      "otr",
+      "radio drama"
+    ],
+    "homepage": "https://stupidpotato.com/pat-novak/",
+    "favicon": "https://stupidpotato.com/pat-novak/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:21:10Z",
+    "streams": [
+      {
+        "id": "aws_e9ffd76a5fc955d2f25b",
+        "stationId": "awb_15a8d61ba8032171544e",
+        "name": "Pat Novak, for Hire (radio) | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/pat-novak/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "36c4b4b8-9c60-48d7-a857-717806504de1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       }
     ]
   },

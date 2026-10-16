@@ -1,7 +1,7 @@
 {
   "code": "GR",
-  "stationCount": 1986,
-  "streamCount": 2064,
+  "stationCount": 1989,
+  "streamCount": 2067,
   "stations": [
     {
       "id": "awb_f5f40894daec9900cad0",
@@ -1527,7 +1527,7 @@
       "id": "awb_4d4d44464f31efb7b977",
       "name": "1st Greek 80s FLAC Radio",
       "country": "GR",
-      "subdivision": "Kozani",
+      "subdivision": "Attica, Athens",
       "languages": [
         "el",
         "en"
@@ -37616,6 +37616,46 @@
       ]
     },
     {
+      "id": "awb_21a26a5faebf40252720",
+      "name": "Planet 90.6",
+      "country": "GR",
+      "subdivision": "Ierapetra",
+      "languages": [],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "mainstream",
+        "pop"
+      ],
+      "homepage": "https://www.facebook.com/planet906/",
+      "favicon": "https://resources.live24.gr/resources/images/stations/56758e65-aff9-4ed7-9be7-a5a10fb54a3d.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T17:25:38Z",
+      "streams": [
+        {
+          "id": "aws_6e3df11f2e7af89cab3b",
+          "stationId": "awb_21a26a5faebf40252720",
+          "name": "Planet 90.6",
+          "country": "GR",
+          "url": "https://sh.onweb.gr:7043/;",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "23daff5d-35e0-45ca-bcb1-a65cdf3d10eb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5e8838218c94329ecc51",
       "name": "PLANET RADIO",
       "country": "GR",
@@ -58039,6 +58079,49 @@
       ]
     },
     {
+      "id": "awb_472ed7dc5708d9df7028",
+      "name": "Style 100",
+      "country": "GR",
+      "subdivision": "Sitia",
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "greek music",
+        "news talk"
+      ],
+      "homepage": "https://style100fm.gr/",
+      "favicon": "https://resources.live24.gr/resources/images/stations/31d4d9a0-308d-4708-a3b8-c32b0bf05bde.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T17:50:17Z",
+      "streams": [
+        {
+          "id": "aws_5cab043b4e0788b7daff",
+          "stationId": "awb_472ed7dc5708d9df7028",
+          "name": "Style 100",
+          "country": "GR",
+          "url": "https://eco.onestreaming.com/proxy/style100/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "18a8a561-f60b-4535-bfda-f87dd4756dcc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8266ab7592f8ead3806f",
       "name": "Stylida 94.1",
       "country": "GR",
@@ -64866,6 +64949,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:21:49Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a7d82145bab0aaed284a",
+      "name": "Βερενίκη 89.5",
+      "country": "GR",
+      "subdivision": "Ierapetra",
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "greek pop",
+        "mainstream",
+        "news talk"
+      ],
+      "homepage": "https://www.radiovereniki.gr/",
+      "favicon": "https://resources.live24.gr/resources/images/stations/38a56d04-14a9-4e0e-a934-32b87b752c84.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T17:19:13Z",
+      "streams": [
+        {
+          "id": "aws_dec4b70882b5c95e5089",
+          "stationId": "awb_a7d82145bab0aaed284a",
+          "name": "Βερενίκη 89.5",
+          "country": "GR",
+          "url": "https://everest.streams.ovh:1290/stream",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "175ed0c4-4070-4175-98ea-c4258f5e905b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

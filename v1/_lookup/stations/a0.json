@@ -180,6 +180,52 @@
       }
     ]
   },
+  "awb_a05fc1a1f1b139c7b305": {
+    "id": "awb_a05fc1a1f1b139c7b305",
+    "name": "Radio Tirana Klasik",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "classical",
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "classical",
+      "news",
+      "opera",
+      "talk"
+    ],
+    "homepage": "https://rtsh.al/radio/kanale/radio-tirana-klasik/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:36:07Z",
+    "streams": [
+      {
+        "id": "aws_b7d8a1ea5998de0f2339",
+        "stationId": "awb_a05fc1a1f1b139c7b305",
+        "name": "Radio Tirana Klasik",
+        "country": "AL",
+        "url": "http://79.106.48.2:8000/radiotiranaklasik1",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ec51f6f2-e43b-4a58-8315-9e7275f41733"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_a0180fc6d6e3c087db6f": {
     "id": "awb_a0180fc6d6e3c087db6f",
     "name": "FM 10 97.3",
@@ -5706,6 +5752,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T18:19:05Z"
+      }
+    ]
+  },
+  "awb_a006e8436e27cf0d5508": {
+    "id": "awb_a006e8436e27cf0d5508",
+    "name": "Radio Skonto Chill",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "ambient",
+      "pop"
+    ],
+    "tags": [
+      "chill out",
+      "pop"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:05:00Z",
+    "streams": [
+      {
+        "id": "aws_24db80fd84b7129ecc65",
+        "stationId": "awb_a006e8436e27cf0d5508",
+        "name": "Radio Skonto Chill",
+        "country": "LV",
+        "url": "https://streams.radioskonto.lv:8443/chill",
+        "codec": "aac+",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a7375bac-e8f8-41cc-91c0-53ccc27a2978"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "id": "classical",
-  "stationCount": 1595,
+  "stationCount": 1597,
   "stations": [
     {
       "id": "awb_b3f1b3a695c80821cbff",
@@ -9003,6 +9003,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T07:01:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a05fc1a1f1b139c7b305",
+      "name": "Radio Tirana Klasik",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "classical",
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "classical",
+        "news",
+        "opera",
+        "talk"
+      ],
+      "homepage": "https://rtsh.al/radio/kanale/radio-tirana-klasik/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:36:07Z",
+      "streams": [
+        {
+          "id": "aws_b7d8a1ea5998de0f2339",
+          "stationId": "awb_a05fc1a1f1b139c7b305",
+          "name": "Radio Tirana Klasik",
+          "country": "AL",
+          "url": "http://79.106.48.2:8000/radiotiranaklasik1",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ec51f6f2-e43b-4a58-8315-9e7275f41733"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -29714,6 +29760,52 @@
       ]
     },
     {
+      "id": "awb_813a7161b7abd6fc4a3b",
+      "name": "Tunitemusic",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient",
+        "classical",
+        "jazz"
+      ],
+      "tags": [
+        "ambient",
+        "chill out",
+        "classical",
+        "jazz"
+      ],
+      "homepage": "https://tunitemusic.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:48:51Z",
+      "streams": [
+        {
+          "id": "aws_b6befe7064bb0f929cd6",
+          "stationId": "awb_813a7161b7abd6fc4a3b",
+          "name": "Tunitemusic",
+          "country": "EE",
+          "url": "https://stream.radiojar.com/6x51bmzpfy3vv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c9fbea70-22ed-4f24-952f-fe1d7f713f51"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_bb9949eb76e4931d6697",
       "name": "VIKERRAADIO",
       "country": "EE",
@@ -32286,28 +32378,9 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 9,
-      "updatedAt": "2026-10-15T07:26:14Z",
+      "sourceCount": 8,
+      "updatedAt": "2026-10-15T04:55:47Z",
       "streams": [
-        {
-          "id": "aws_e0290e3a2a295e2b56c3",
-          "stationId": "awb_e7280c1281f2949961b8",
-          "name": "France Musique",
-          "country": "FR",
-          "url": "http://directfrancemusique.fr/live.francemusique-midfi.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7b931696-e172-4d63-9343-53a713144d69"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        },
         {
           "id": "aws_b91ebb9f0798e1f3173c",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -32353,8 +32426,8 @@
           "name": "France Musique",
           "country": "FR",
           "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3?id=radiofrance",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -32364,7 +32437,7 @@
             "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-15T18:20:12Z"
         },
         {
           "id": "aws_c55ec6a9702cdd9ec2fb",

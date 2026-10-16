@@ -54,10 +54,10 @@
       "exclusive"
     ],
     "homepage": "https://play.you.radio/",
-    "favicon": null,
+    "favicon": "https://s2.qwant.com/thumbr/474x363/e/1/06604930b388c7c4f38a6c232f619f55d7466d4a6aa35813d969f09f374871/OIP.8J_E8YYtiYKT92dcyNh23QHaFr.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.8J_E8YYtiYKT92dcyNh23QHaFr%3Fpid%3DApi&q=0&b=1&p=0&a=0",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:28:23Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-15T22:11:17Z",
     "streams": [
       {
         "id": "aws_01855fd9085ed0ff52d7",
@@ -73,10 +73,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "e2c470e1-8dd7-447e-a39b-a8856ada4beb"
+          "a6d36ea8-88e7-4676-b29e-bd158d9cea52",
+          "c4f4f009-51a6-41bd-95b2-4508b437de87"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T20:33:14Z"
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },
@@ -202,6 +203,94 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T02:37:08Z"
+      }
+    ]
+  },
+  "awb_654f129d6a1d40f42c5f": {
+    "id": "awb_654f129d6a1d40f42c5f",
+    "name": "Radio Lushnja",
+    "country": "AL",
+    "subdivision": "Lushnjë",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk",
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "folk",
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://radiolushnja.al/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:26:37Z",
+    "streams": [
+      {
+        "id": "aws_252a8add0b081aafc0a1",
+        "stationId": "awb_654f129d6a1d40f42c5f",
+        "name": "Radio Lushnja",
+        "country": "AL",
+        "url": "https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "815e9041-2a4b-41d2-b222-bea4d9b2f12e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
+  "awb_65cd186323c464fe5bc3": {
+    "id": "awb_65cd186323c464fe5bc3",
+    "name": "Radio Zemra",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk"
+    ],
+    "tags": [
+      "folk"
+    ],
+    "homepage": "https://zemra.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:19:37Z",
+    "streams": [
+      {
+        "id": "aws_881bb29845aa1b574d8d",
+        "stationId": "awb_65cd186323c464fe5bc3",
+        "name": "Radio Zemra",
+        "country": "AL",
+        "url": "https://live.radio-zemra.eu/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f64e4652-e4a3-4efa-9bc0-0b5885c47e0e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },

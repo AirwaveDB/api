@@ -88,6 +88,45 @@
       }
     ]
   },
+  "awb_e67157cbf94335f5d9a8": {
+    "id": "awb_e67157cbf94335f5d9a8",
+    "name": "Rádio Romântica",
+    "country": "AO",
+    "subdivision": "Luanda",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "romantic"
+    ],
+    "homepage": "https://play.google.com/store/apps/details?id=app.lw.radio.romantica",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:12:27Z",
+    "streams": [
+      {
+        "id": "aws_4d96922794f3aedba6c1",
+        "stationId": "awb_e67157cbf94335f5d9a8",
+        "name": "Rádio Romântica",
+        "country": "AO",
+        "url": "https://paineldj5.com.br:20129/stream",
+        "codec": "aac",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "020497f0-24ed-47cf-9ec3-a72edc4151cb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_e65d94bdac5de70f30fc": {
     "id": "awb_e65d94bdac5de70f30fc",
     "name": "Blue 100.7 FM",
@@ -5098,6 +5137,47 @@
       }
     ]
   },
+  "awb_e6b118325048f723f02e": {
+    "id": "awb_e6b118325048f723f02e",
+    "name": "Radio Skonto Mūsējie",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:03Z",
+    "streams": [
+      {
+        "id": "aws_45319fe70792b7e161f7",
+        "stationId": "awb_e6b118325048f723f02e",
+        "name": "Radio Skonto Mūsējie",
+        "country": "LV",
+        "url": "https://streams.radioskonto.lv:8443/skonto-musejie",
+        "codec": "aac+",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1aaaac5f-cbcf-401f-bc47-7a6dfd1a4bc1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_e6a8603eea3605fdf02f": {
     "id": "awb_e6a8603eea3605fdf02f",
     "name": "96.1 Factor (San Luis Potosí) - 96.1 FM - XHOB-FM - MG Comunicación - San Luis Potosí, San Luis Potosí",
@@ -6684,7 +6764,7 @@
       "house"
     ],
     "homepage": "https://kamchatkalive.ru/",
-    "favicon": "https://kamchatkalive.ru/img/dance.jpg",
+    "favicon": "https://kamchatkalive.ru/img/house.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-12T11:07:02Z",

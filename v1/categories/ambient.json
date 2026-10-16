@@ -1,6 +1,6 @@
 {
   "id": "ambient",
-  "stationCount": 1046,
+  "stationCount": 1061,
   "stations": [
     {
       "id": "awb_f3a472b44392f167951e",
@@ -1447,6 +1447,95 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T05:15:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2e123f08c6039711a31a",
+      "name": "Best Lounge Radio",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient",
+        "electronic"
+      ],
+      "tags": [
+        "ambient",
+        "chill out",
+        "deep house",
+        "lounge"
+      ],
+      "homepage": "https://zeno.fm/radio/best-lounge-radio/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:41:45Z",
+      "streams": [
+        {
+          "id": "aws_1052c28e79242868ba37",
+          "stationId": "awb_2e123f08c6039711a31a",
+          "name": "Best Lounge Radio",
+          "country": "AL",
+          "url": "https://stream.zeno.fm/y6uk7h9uhkhvv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9bb88d8d-e223-4c80-8ca2-8d6d3a3be2c7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e7af1fd282b92d789263",
+      "name": "Chill Albania",
+      "country": "AL",
+      "subdivision": "Shkodër",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "ambient",
+        "talk"
+      ],
+      "tags": [
+        "chill out",
+        "easy listening",
+        "talk"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:00:12Z",
+      "streams": [
+        {
+          "id": "aws_b1d883210994a6705ea4",
+          "stationId": "awb_e7af1fd282b92d789263",
+          "name": "Chill Albania",
+          "country": "AL",
+          "url": "https://streams.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "43bbf2f7-e62f-4f6a-b586-f2b30a35a21f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -21983,6 +22072,142 @@
       ]
     },
     {
+      "id": "awb_cb349a8175821086a2b4",
+      "name": "R2Extra - Chill",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "et"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "chill out",
+        "lounge"
+      ],
+      "homepage": "https://r2extra.err.ee/r2chill",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:30:20Z",
+      "streams": [
+        {
+          "id": "aws_3973b7e1ecc111f30d93",
+          "stationId": "awb_cb349a8175821086a2b4",
+          "name": "R2Extra - Chill",
+          "country": "EE",
+          "url": "https://sb.err.ee/live/r2chill.m3u8?short=true",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f5debda7-7f2a-4bdc-a37f-fe260cfb60a3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_94b4876bcc9485a84561",
+      "name": "Raadio REMIX",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "et"
+      ],
+      "categories": [
+        "ambient",
+        "electronic",
+        "hip-hop"
+      ],
+      "tags": [
+        "alternative",
+        "chill out",
+        "electronic",
+        "hip hop",
+        "indie"
+      ],
+      "homepage": "https://raadioremix.rf.gd/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:05:00Z",
+      "streams": [
+        {
+          "id": "aws_f9eff2665d323e559f14",
+          "stationId": "awb_94b4876bcc9485a84561",
+          "name": "Raadio REMIX",
+          "country": "EE",
+          "url": "https://stream.hostbee.nl:5740/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "92804b55-2a5e-47bb-8b4e-b6d12bc620a5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_813a7161b7abd6fc4a3b",
+      "name": "Tunitemusic",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient",
+        "classical",
+        "jazz"
+      ],
+      "tags": [
+        "ambient",
+        "chill out",
+        "classical",
+        "jazz"
+      ],
+      "homepage": "https://tunitemusic.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:48:51Z",
+      "streams": [
+        {
+          "id": "aws_b6befe7064bb0f929cd6",
+          "stationId": "awb_813a7161b7abd6fc4a3b",
+          "name": "Tunitemusic",
+          "country": "EE",
+          "url": "https://stream.radiojar.com/6x51bmzpfy3vv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c9fbea70-22ed-4f24-952f-fe1d7f713f51"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8310df294c62dc47bb50",
       "name": "#1 Splash Coffee",
       "country": "ES",
@@ -23990,7 +24215,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao Radio",
+      "name": "Cacao-Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -26234,30 +26459,36 @@
       "id": "awb_912c71f6fa7c86778d90",
       "name": "SYNO RADIO",
       "country": "FR",
-      "subdivision": null,
+      "subdivision": "Nord",
       "languages": [
+        "en",
         "fr"
       ],
       "categories": [
         "ambient",
         "electronic",
+        "latin",
         "pop"
       ],
       "tags": [
+        "24/7",
         "ai music",
         "bossa nova",
         "chill",
         "dance",
         "deep house",
+        "deephouse",
+        "latin",
         "lofi",
         "pop",
+        "web radio",
         "webradio"
       ],
       "homepage": "https://radiosyno.ddns.net/",
       "favicon": "https://radiosyno.ddns.net/assets/img/favicon.png",
       "type": "internet",
-      "sourceCount": 1,
-      "updatedAt": "2026-09-30T07:30:47Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-15T19:09:59Z",
       "streams": [
         {
           "id": "aws_1de31032acf714ddc280",
@@ -26273,10 +26504,11 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "51e7ab32-7b7b-41bd-b31b-9e81ffe0afe5",
             "5afd3c62-ae78-41ed-b4ff-e722a6813026"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:34:41Z"
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },
@@ -32450,6 +32682,55 @@
       ]
     },
     {
+      "id": "awb_ae46cdb3334fd4714b0a",
+      "name": "MyCR ONE",
+      "country": "IT",
+      "subdivision": "Lazio",
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "ambient",
+        "jazz",
+        "pop"
+      ],
+      "tags": [
+        "business",
+        "commercial-free",
+        "corporate",
+        "italy",
+        "jazz",
+        "lounge",
+        "pop"
+      ],
+      "homepage": "https://www.mycorporateradio.com/one",
+      "favicon": "https://www.mycorporateradio.com/assets/one/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T19:17:23Z",
+      "streams": [
+        {
+          "id": "aws_701b3bb4497355f9ffce",
+          "stationId": "awb_ae46cdb3334fd4714b0a",
+          "name": "MyCR ONE",
+          "country": "IT",
+          "url": "https://locali.mycorporateradio.com/stream/mycr_one.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c033bf76-7845-4d3d-b48e-d6711514d8f3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c63af7cc6f981ff4bbc5",
       "name": "NATURE RADIO SLEEP",
       "country": "IT",
@@ -33552,6 +33833,92 @@
       ]
     },
     {
+      "id": "awb_3b9df165b3445861d93d",
+      "name": "Life Chill Music",
+      "country": "LT",
+      "subdivision": "Šiauliai",
+      "languages": [
+        "lt"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chill out",
+        "downtempo",
+        "lounge"
+      ],
+      "homepage": "https://www.lifechillmusic.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:32:10Z",
+      "streams": [
+        {
+          "id": "aws_1ebc7aec7e615ced27e6",
+          "stationId": "awb_3b9df165b3445861d93d",
+          "name": "Life Chill Music",
+          "country": "LT",
+          "url": "https://usa6.fastcast4u.com/proxy/wsjfhd?mp=/1",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e1dbda3b-a3e9-4342-96e6-f9add105fb6f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f761418b510b7e15c0ce",
+      "name": "Mantra Radio",
+      "country": "LT",
+      "subdivision": "Vilnius",
+      "languages": [
+        "hi"
+      ],
+      "categories": [
+        "ambient",
+        "religious"
+      ],
+      "tags": [
+        "meditation",
+        "religious"
+      ],
+      "homepage": "https://mantraradio.eu/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:32:10Z",
+      "streams": [
+        {
+          "id": "aws_6c171a1ed9cdcd92aa4d",
+          "stationId": "awb_f761418b510b7e15c0ce",
+          "name": "Mantra Radio",
+          "country": "LT",
+          "url": "https://whsh4u-panel.com/proxy/gsedemag?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "74b5fceb-7023-4c47-b1f9-4ef15a17f398"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_af314f9421a3c0c9dc2c",
       "name": "AAAudio",
       "country": "LU",
@@ -33643,6 +34010,49 @@
       ]
     },
     {
+      "id": "awb_43e099b8782751a50909",
+      "name": "Cave Lounge",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "ambient",
+        "talk"
+      ],
+      "tags": [
+        "lounge",
+        "talk"
+      ],
+      "homepage": "https://zeno.fm/radio/cave-lounge/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:07:00Z",
+      "streams": [
+        {
+          "id": "aws_7b3eb64c0c6ada41622d",
+          "stationId": "awb_43e099b8782751a50909",
+          "name": "Cave Lounge",
+          "country": "LV",
+          "url": "https://stream.zeno.fm/geuwghjjyjjtv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "664d779d-df72-4c64-a237-10bcff9617a3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_e6348dc9023bf66291c9",
       "name": "Chillax FM",
       "country": "LV",
@@ -33682,6 +34092,141 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T04:58:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3adbffc1ac53e5f3fac2",
+      "name": "European Hit Radio - SuperHits Chillout Hits",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "ambient",
+        "pop"
+      ],
+      "tags": [
+        "chill out",
+        "pop"
+      ],
+      "homepage": "https://www.ehr.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:08:55Z",
+      "streams": [
+        {
+          "id": "aws_6ae63d7190e96652f480",
+          "stationId": "awb_3adbffc1ac53e5f3fac2",
+          "name": "European Hit Radio - SuperHits Chillout Hits",
+          "country": "LV",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_SUPER_HITS_CHILLOUTAAC.aac",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "154c0ceb-d18f-46ef-836d-deafe6f2c8e5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_40971e9ae19cc7bf2b64",
+      "name": "LOUNGE FM",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "ambient",
+        "jazz"
+      ],
+      "tags": [
+        "bossa nova",
+        "chill out",
+        "downtempo",
+        "jazz",
+        "lounge"
+      ],
+      "homepage": "https://loungefm.lv/en/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:00:05Z",
+      "streams": [
+        {
+          "id": "aws_9c652e8529b374f58df1",
+          "stationId": "awb_40971e9ae19cc7bf2b64",
+          "name": "LOUNGE FM",
+          "country": "LV",
+          "url": "https://stream.loungefm.lv:8443/lounge",
+          "codec": "aac+",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c23e29c7-3f3f-413f-8593-890b0e4ff144"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9ec7c0351f4a3f0c15cd",
+      "name": "LOUNGE PRIVATE",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "ambient",
+        "jazz"
+      ],
+      "tags": [
+        "bossa nova",
+        "chill out",
+        "downtempo",
+        "jazz",
+        "lounge"
+      ],
+      "homepage": "https://loungefm.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:44:50Z",
+      "streams": [
+        {
+          "id": "aws_05695f9222c8fe6446bb",
+          "stationId": "awb_9ec7c0351f4a3f0c15cd",
+          "name": "LOUNGE PRIVATE",
+          "country": "LV",
+          "url": "https://streams.radioskonto.lv:8443/lounge-private",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1ce0e88c-8d26-41a4-bc66-8b72133daf43"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },
@@ -33732,6 +34277,49 @@
       ]
     },
     {
+      "id": "awb_a006e8436e27cf0d5508",
+      "name": "Radio Skonto Chill",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "ambient",
+        "pop"
+      ],
+      "tags": [
+        "chill out",
+        "pop"
+      ],
+      "homepage": "https://radioskonto.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:05:00Z",
+      "streams": [
+        {
+          "id": "aws_24db80fd84b7129ecc65",
+          "stationId": "awb_a006e8436e27cf0d5508",
+          "name": "Radio Skonto Chill",
+          "country": "LV",
+          "url": "https://streams.radioskonto.lv:8443/chill",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a7375bac-e8f8-41cc-91c0-53ccc27a2978"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
+        }
+      ]
+    },
+    {
       "id": "awb_61031d4d556f498fbe93",
       "name": "Talsi Lounge",
       "country": "LV",
@@ -33769,6 +34357,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T20:24:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5eef2a6ea5824ce9c760",
+      "name": "Talsi Lounge Radio",
+      "country": "LV",
+      "subdivision": "Rīga",
+      "languages": [
+        "lv"
+      ],
+      "categories": [
+        "ambient",
+        "electronic"
+      ],
+      "tags": [
+        "chill out",
+        "electronic",
+        "lounge"
+      ],
+      "homepage": "http://radio.kuums.lv/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T23:05:00Z",
+      "streams": [
+        {
+          "id": "aws_9ef366cfaea8d1fa3c2e",
+          "stationId": "awb_5eef2a6ea5824ce9c760",
+          "name": "Talsi Lounge Radio",
+          "country": "LV",
+          "url": "http://radio.kuums.lv:5555/;stream.mp3",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7e245645-0af4-4928-9ff2-bb56f9622796"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T23:05:01Z"
         }
       ]
     },
@@ -35349,6 +35981,51 @@
       ]
     },
     {
+      "id": "awb_77411abb2909524f1431",
+      "name": "The Mood Swing Station",
+      "country": "NL",
+      "subdivision": "Zuid-Holland, Krimpen aan de Lek",
+      "languages": [],
+      "categories": [
+        "ambient",
+        "electronic"
+      ],
+      "tags": [
+        "chillout",
+        "deep house",
+        "electro house",
+        "house",
+        "progressive house",
+        "soulful house"
+      ],
+      "homepage": "https://i42mzgcelsq.infomaniak.site/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T10:51:25Z",
+      "streams": [
+        {
+          "id": "aws_691e9ba44c47c96dff25",
+          "stationId": "awb_77411abb2909524f1431",
+          "name": "The Mood Swing Station",
+          "country": "NL",
+          "url": "https://a12.asurahosting.com/listen/the_mood_swing_station/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a472120e-740c-4d81-88c2-5576da8b6597"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
+        }
+      ]
+    },
+    {
       "id": "awb_fd3b877baf3948df0258",
       "name": "CLIAMP NCS Chill",
       "country": "NO",
@@ -36553,7 +37230,7 @@
       "id": "awb_4b49e5c817ec766fe4aa",
       "name": "radiOFF",
       "country": "PL",
-      "subdivision": "Lubuskie",
+      "subdivision": "Lebus",
       "languages": [
         "de",
         "pl"
@@ -36585,7 +37262,7 @@
         "storytelling",
         "viadrina"
       ],
-      "homepage": "http://radioff.com/",
+      "homepage": "https://radioff.com/",
       "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
       "type": null,
       "sourceCount": 3,
@@ -36786,7 +37463,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+      "favicon": "https://radiaura.net/apple-touch-icon.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",

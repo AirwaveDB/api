@@ -248,6 +248,51 @@
       }
     ]
   },
+  "awb_36aeb4f2002f604bc990": {
+    "id": "awb_36aeb4f2002f604bc990",
+    "name": "Radio SOL",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://radiosol.al/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:37:59Z",
+    "streams": [
+      {
+        "id": "aws_43458c0940c9d2a5f726",
+        "stationId": "awb_36aeb4f2002f604bc990",
+        "name": "Radio SOL",
+        "country": "AL",
+        "url": "https://cp1.sednastream.com/proxy/radiosol/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "05950b1e-b836-44f8-bcd8-78fba5130e88"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_368f11126b4e9e15d82f": {
     "id": "awb_368f11126b4e9e15d82f",
     "name": "221Radio (FM 103.1)",
@@ -6110,6 +6155,48 @@
       }
     ]
   },
+  "awb_3679bfc9a2d531a1fade": {
+    "id": "awb_3679bfc9a2d531a1fade",
+    "name": "Hip Hop Strāva",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "homepage": "https://www.pieci.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:01:02Z",
+    "streams": [
+      {
+        "id": "aws_cc091d07be6c13feca5b",
+        "stationId": "awb_3679bfc9a2d531a1fade",
+        "name": "Hip Hop Strāva",
+        "country": "LV",
+        "url": "https://muste.latvijasradio.lv/pieci/smil:k1.smil/playlist.m3u8",
+        "codec": "unknown",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0ca8d62a-d5da-4f72-ae1e-ffa58972e20c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
+      }
+    ]
+  },
   "awb_363e06e6a1c493f19316": {
     "id": "awb_363e06e6a1c493f19316",
     "name": "Skyrock Casablanca",
@@ -8671,6 +8758,55 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T04:02:21Z"
+      }
+    ]
+  },
+  "awb_360a41d4f9d510b92792": {
+    "id": "awb_360a41d4f9d510b92792",
+    "name": "AItocha Radio - Pop & Latin (AI music)",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "latin",
+      "pop"
+    ],
+    "tags": [
+      "ai music",
+      "bachata",
+      "dance pop",
+      "latin",
+      "latin pop",
+      "pop",
+      "reggaeton"
+    ],
+    "homepage": "https://radio.aitocha.com/",
+    "favicon": "https://radio.aitocha.com/station-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:49:38Z",
+    "streams": [
+      {
+        "id": "aws_8042c6022ff8de2d0437",
+        "stationId": "awb_360a41d4f9d510b92792",
+        "name": "AItocha Radio - Pop & Latin (AI music)",
+        "country": "US",
+        "url": "https://stream.aitocha.com/listen/radio/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "658957bb-fbb6-4bda-8f1e-33747f0fae45"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

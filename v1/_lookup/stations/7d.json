@@ -2849,7 +2849,7 @@
       "radio internetowe"
     ],
     "homepage": "https://radio-budowlaniec.de/",
-    "favicon": "https://radio-budowlaniec.de/sites/default/files/512.1%20logo%20rund.png",
+    "favicon": "https://radio-budowlaniec.de/sites/default/files/banner/512.1%20logo%20rund.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-03-28T07:18:42Z",
@@ -3363,6 +3363,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T17:29:40Z"
+      }
+    ]
+  },
+  "awb_7da5f2cf3f82f8f417e3": {
+    "id": "awb_7da5f2cf3f82f8f417e3",
+    "name": "Super Ретро",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "retro"
+    ],
+    "homepage": "https://superradio.sky.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:28:39Z",
+    "streams": [
+      {
+        "id": "aws_22e2c02deb2d2a2dcdf7",
+        "stationId": "awb_7da5f2cf3f82f8f417e3",
+        "name": "Super Ретро",
+        "country": "EE",
+        "url": "https://stream.skymedia.ee/live/rrretro",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4500023c-8d14-4a1e-8913-a405c58ab6ed"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

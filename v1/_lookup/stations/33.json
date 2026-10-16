@@ -1021,8 +1021,8 @@
         "name": "Classic Hits 109 - 70s Hits!",
         "country": "CA",
         "url": "https://broadcast.classichits109.com/70s",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -1032,7 +1032,7 @@
           "50afa332-86b9-48df-a4c1-e7d5bf47984f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
       }
     ]
   },
@@ -4836,6 +4836,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T13:19:52Z"
+      }
+    ]
+  },
+  "awb_33b1267ad98f3ec7ef5f": {
+    "id": "awb_33b1267ad98f3ec7ef5f",
+    "name": "eNJOY Radio Latvia",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "hits",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.njoyradio.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:08:55Z",
+    "streams": [
+      {
+        "id": "aws_01cf562333f18262a4bb",
+        "stationId": "awb_33b1267ad98f3ec7ef5f",
+        "name": "eNJOY Radio Latvia",
+        "country": "LV",
+        "url": "https://live.njoyradio.lv/01",
+        "codec": "aac",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f79ab61a-fbe0-42bc-bbe6-ef98cdba8fa3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

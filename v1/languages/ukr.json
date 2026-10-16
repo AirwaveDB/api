@@ -1,7 +1,7 @@
 {
   "code": "ukr",
   "canonicalCode": "uk",
-  "stationCount": 192,
+  "stationCount": 193,
   "stations": [
     {
       "id": "awb_c293eddd29815521ea1b",
@@ -354,6 +354,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T21:28:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cd69ec2e23ff1ead6ded",
+      "name": "Радіо DrUzi",
+      "country": "EE",
+      "subdivision": "Tallinn",
+      "languages": [
+        "uk"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "dance",
+        "news",
+        "pop",
+        "talk"
+      ],
+      "homepage": "https://druzi.ee/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T22:42:37Z",
+      "streams": [
+        {
+          "id": "aws_a567c8c6d13d582050f8",
+          "stationId": "awb_cd69ec2e23ff1ead6ded",
+          "name": "Радіо DrUzi",
+          "country": "EE",
+          "url": "https://druzi.fm:8443/192mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2fa88d22-f282-4f4b-8c9c-70c6937fa502"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },

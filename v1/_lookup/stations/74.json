@@ -189,6 +189,51 @@
       }
     ]
   },
+  "awb_7434415c862578b53cf2": {
+    "id": "awb_7434415c862578b53cf2",
+    "name": "Radio Dashuria",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop",
+      "rock",
+      "top 40"
+    ],
+    "homepage": "https://radiodashuria.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:34:10Z",
+    "streams": [
+      {
+        "id": "aws_7a2aabcdacc03af7a0be",
+        "stationId": "awb_7434415c862578b53cf2",
+        "name": "Radio Dashuria",
+        "country": "AL",
+        "url": "https://listen.radioking.com/radio/465815/stream/521297",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d93585ea-f237-4102-b37a-3ef38fb1cd6f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_7447cad1c110fddbbe0c": {
     "id": "awb_7447cad1c110fddbbe0c",
     "name": "LRA 30 Radio Nacional Bariloche",
@@ -3762,7 +3807,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.plumfm.net/",
-    "favicon": "https://static.wixstatic.com/media/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/695ef4_76f8c910164a43fab2e4748b343db531%7emv2.png",
+    "favicon": "https://static.wixstatic.com/media/695ef4_9d20d326e8d243788c285f11121c9994~mv2.png/v1/crop/x_0,y_2,w_2101,h_737/fill/w_326,h_114,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ok%20PLUMFM.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-14T22:54:04Z",
@@ -5901,6 +5946,90 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T20:53:11Z"
+      }
+    ]
+  },
+  "awb_74e5674a90d9b7995e8f": {
+    "id": "awb_74e5674a90d9b7995e8f",
+    "name": "EHR Latviešu Hiti - LV Reps",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "rap"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/lv-reps",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:48:32Z",
+    "streams": [
+      {
+        "id": "aws_6120ec426c2b4dc770e2",
+        "stationId": "awb_74e5674a90d9b7995e8f",
+        "name": "EHR Latviešu Hiti - LV Reps",
+        "country": "LV",
+        "url": "https://25643.live.streamtheworld.com/LATVIESU_HITI_LV_REPSAAC.aac",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "df10d5e7-2dd9-4419-9c80-89106c99984a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
+  "awb_7425fef8a40c1bfad2de": {
+    "id": "awb_7425fef8a40c1bfad2de",
+    "name": "Pieci Latgalieši",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "folk",
+      "pop"
+    ],
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "homepage": "https://lr5.lsm.lv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:00:03Z",
+    "streams": [
+      {
+        "id": "aws_bffbc0b7d803a392a874",
+        "stationId": "awb_7425fef8a40c1bfad2de",
+        "name": "Pieci Latgalieši",
+        "country": "LV",
+        "url": "https://muste.latvijasradio.lv/pieci/smil:k5.smil/playlist.m3u8",
+        "codec": "unknown",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4483ec55-96cf-47e3-abda-b468114de61f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },

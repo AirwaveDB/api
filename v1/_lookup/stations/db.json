@@ -160,6 +160,51 @@
       }
     ]
   },
+  "awb_dbb16ddb59d71b26aba3": {
+    "id": "awb_dbb16ddb59d71b26aba3",
+    "name": "Rádio Maranata",
+    "country": "AO",
+    "subdivision": "Lubango",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "christian",
+      "gospel",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://radiomaranatahuila.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:13:42Z",
+    "streams": [
+      {
+        "id": "aws_4b07552f21211aa40314",
+        "stationId": "awb_dbb16ddb59d71b26aba3",
+        "name": "Rádio Maranata",
+        "country": "AO",
+        "url": "https://azura4.cmaudioevideo.com:8450/radio.aac",
+        "codec": "aac",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fe2450f5-206d-40ea-8865-23d3af389e2d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_db4b0bb72e9744d2400a": {
     "id": "awb_db4b0bb72e9744d2400a",
     "name": "Estacion 95 91.5 FM",
@@ -2647,6 +2692,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T15:56:46Z"
+      }
+    ]
+  },
+  "awb_db7154c9a46b0e67ac1f": {
+    "id": "awb_db7154c9a46b0e67ac1f",
+    "name": "charivari live",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.charivari.de/radio/internetradio-streams",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T12:45:03Z",
+    "streams": [
+      {
+        "id": "aws_04e2527ccab67a0805d5",
+        "stationId": "awb_db7154c9a46b0e67ac1f",
+        "name": "charivari live",
+        "country": "DE",
+        "url": "https://live.stream.charivari.de/955charivari-webradio?aggregator=charivari_de_link",
+        "codec": "aac",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bea87249-01bc-4142-b8aa-3b4bc391c4bd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },

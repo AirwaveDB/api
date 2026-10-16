@@ -8617,7 +8617,7 @@
     "id": "awb_d9f6715954b28eeb16cc",
     "name": "Top Hits",
     "country": "US",
-    "subdivision": null,
+    "subdivision": "Florida",
     "languages": [
       "en"
     ],
@@ -8625,15 +8625,17 @@
       "pop"
     ],
     "tags": [
+      "charts",
       "hits",
+      "pop",
       "top 40",
       "top hits"
     ],
     "homepage": "https://onlyhit.us/",
     "favicon": "https://tophits.onlyhit.us/logo.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:09:14Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-15T08:03:56Z",
     "streams": [
       {
         "id": "aws_590ff26e1e97397d1a4e",
@@ -8653,6 +8655,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T06:07:54Z"
+      },
+      {
+        "id": "aws_f39d0d2f5ad76985010c",
+        "stationId": "awb_d9f6715954b28eeb16cc",
+        "name": "Top Hits",
+        "country": "US",
+        "url": "https://cdn.onlyhitsradio.net/tophits",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "2f8c02d2-87f4-47c5-b7f3-ae40c569c82f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

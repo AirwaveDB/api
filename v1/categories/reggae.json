@@ -1,6 +1,6 @@
 {
   "id": "reggae",
-  "stationCount": 299,
+  "stationCount": 302,
   "stations": [
     {
       "id": "awb_56c026c44ef6b689d96d",
@@ -83,6 +83,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-11T23:57:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a8f0d245f213e5c8048d",
+      "name": "Radio Mergimi",
+      "country": "AL",
+      "subdivision": "Tirana",
+      "languages": [
+        "sq"
+      ],
+      "categories": [
+        "folk",
+        "hip-hop",
+        "pop",
+        "reggae"
+      ],
+      "tags": [
+        "folk",
+        "hip hop",
+        "pop",
+        "reggae"
+      ],
+      "homepage": "https://radiomergimi.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:22:44Z",
+      "streams": [
+        {
+          "id": "aws_dcbcd12267822d42a908",
+          "stationId": "awb_a8f0d245f213e5c8048d",
+          "name": "Radio Mergimi",
+          "country": "AL",
+          "url": "https://radio.radiomergimi.com:8114/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d8436e8e-888d-490e-a59b-b91a2b042c9e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -3566,6 +3613,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T10:49:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_72b8a4f4aa364600a364",
+      "name": "Jow Radio - Jow Africa",
+      "country": "DZ",
+      "subdivision": "Alger",
+      "languages": [
+        "ar"
+      ],
+      "categories": [
+        "reggae"
+      ],
+      "tags": [
+        "afro beat",
+        "reggae"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T21:50:46Z",
+      "streams": [
+        {
+          "id": "aws_1a7b23e65d21c14f92a9",
+          "stationId": "awb_72b8a4f4aa364600a364",
+          "name": "Jow Radio - Jow Africa",
+          "country": "DZ",
+          "url": "https://azuracast.dataplayapps.com/listen/jow_africa/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ea0fbdca-acae-4052-ba19-f567b333c55d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T22:26:18Z"
         }
       ]
     },
@@ -7829,6 +7918,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-12T12:10:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dc0b3a93437ff86f13a0",
+      "name": "Venture 995 fm",
+      "country": "GB",
+      "subdivision": "lond",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "reggae"
+      ],
+      "tags": [
+        "r&b",
+        "reggae",
+        "soul"
+      ],
+      "homepage": "https://www.venturefm.co.uk/",
+      "favicon": "https://www.venturefm.co.uk/wp-content/uploads/2021/06/VFM-2021.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T15:16:09Z",
+      "streams": [
+        {
+          "id": "aws_d33edf5dc9a692d03c14",
+          "stationId": "awb_dc0b3a93437ff86f13a0",
+          "name": "Venture 995 fm",
+          "country": "GB",
+          "url": "https://c20.radioboss.fm:8383/stream?_ic2=1792075891550",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "51f84050-e3f2-4af0-af17-19a213303284"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-15T18:20:13Z"
         }
       ]
     },

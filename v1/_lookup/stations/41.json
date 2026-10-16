@@ -12,10 +12,10 @@
       "pop"
     ],
     "homepage": "http://exclusive.radio/",
-    "favicon": null,
+    "favicon": "https://s2.qwant.com/thumbr/474x299/d/c/94a18eadd6409344e1ffe1e78db563d0336e699216dd60795994161b553218/OIP.LO-8EoUkumeH5B_ioqnjKAHaEr.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.LO-8EoUkumeH5B_ioqnjKAHaEr%3Fpid%3DApi&q=0&b=1&p=0&a=0",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24",
+    "sourceCount": 7,
+    "updatedAt": "2026-10-15T22:34:38Z",
     "streams": [
       {
         "id": "aws_2453c9e44139e64b53c0",
@@ -32,11 +32,11 @@
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "8527a187-f45a-40dc-bbb1-690d0d326303",
+          "1f070161-feec-468e-86ab-937c022372b7",
           "AE:exclusively-david-bowie"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T20:46:48Z"
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
       }
     ]
   },
@@ -117,6 +117,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T00:52:35Z"
+      }
+    ]
+  },
+  "awb_41547f48f1efceceef95": {
+    "id": "awb_41547f48f1efceceef95",
+    "name": "Radio 4+",
+    "country": "AL",
+    "subdivision": "Lushnjë",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "folk",
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "folk",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://radio.4plusmedia.tv/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:37:59Z",
+    "streams": [
+      {
+        "id": "aws_cf4013fce8962bf8a32d",
+        "stationId": "awb_41547f48f1efceceef95",
+        "name": "Radio 4+",
+        "country": "AL",
+        "url": "https://play.4plusmedia.tv/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5467258b-6b33-4fe6-8133-cfe84b0de9d1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
       }
     ]
   },

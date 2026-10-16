@@ -13,10 +13,10 @@
       "red hot chili peppers"
     ],
     "homepage": "https://play.you.radio/",
-    "favicon": "https://s1.qwant.com/thumbr/474x474/0/4/8b13d4cf7b482c3b7888db5936ed7e5d8eb403eed24e5ab2f522a063190964/OIP.m6Uu21QH0YsCp2p2QZlbVgHaHa.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.m6Uu21QH0YsCp2p2QZlbVgHaHa%3Fpid%3DApi&q=0&b=1&p=0&a=0/OIP.m6Uu21QH0YsCp2p2QZlbVgHaHa.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.m6Uu21QH0YsCp2p2QZlbVgHaHa%3Fpid%3DApi&q=0&b=1&p=0&a=0",
+    "favicon": "https://s1.qwant.com/thumbr/474x266/3/4/1b5f18a62fc04dde993a4af5cd2fa6f4870e091cefe341c332d979259fdcf3/OIP.UZf5OFuqGrz8BTPELsztiwHaEK.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.UZf5OFuqGrz8BTPELsztiwHaEK%3Fpid%3DApi&q=0&b=1&p=0&a=0",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-10-12T06:16:35Z",
+    "sourceCount": 7,
+    "updatedAt": "2026-10-15T22:12:30Z",
     "streams": [
       {
         "id": "aws_ffd1f9ff2b0eb087bb0f",
@@ -32,11 +32,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "4fdaf6ec-52c9-48e3-bbe6-5b5b9db05847",
-          "e619602d-1e37-486e-8277-b0f85a9425ac"
+          "1aedee28-ce62-4f0f-9c21-48f4d276e58e",
+          "540554f5-6749-40e4-b6bf-d2fb001e2440"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T21:02:39Z"
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },
@@ -3041,6 +3041,47 @@
       }
     ]
   },
+  "awb_029ffb24b8f39c9bfb01": {
+    "id": "awb_029ffb24b8f39c9bfb01",
+    "name": "Tagatuba FM",
+    "country": "EE",
+    "subdivision": "Tallinn",
+    "languages": [
+      "et"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "rock"
+    ],
+    "homepage": "https://tagatubaraadio.ee/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:32:11Z",
+    "streams": [
+      {
+        "id": "aws_7d541f2f35ecebdc3c13",
+        "stationId": "awb_029ffb24b8f39c9bfb01",
+        "name": "Tagatuba FM",
+        "country": "EE",
+        "url": "https://mcr.streams.gr:10416/stream",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "aaa0d15b-f0c1-4128-8379-71cb34108b18"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
   "awb_0224a06eaa82beba7869": {
     "id": "awb_0224a06eaa82beba7869",
     "name": "Agora Côte d’Azur",
@@ -4426,6 +4467,41 @@
       }
     ]
   },
+  "awb_021599e7d000feb025f2": {
+    "id": "awb_021599e7d000feb025f2",
+    "name": "Dyno Dance",
+    "country": "IT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.dynodance.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T16:16:14Z",
+    "streams": [
+      {
+        "id": "aws_cedf3b97fc62dba5360a",
+        "stationId": "awb_021599e7d000feb025f2",
+        "name": "Dyno Dance",
+        "country": "IT",
+        "url": "https://stream.dynodance.com/stream/dynodance/stream_low",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d97d6e34-41ad-4e1a-905c-5ac7807a04a3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
+      }
+    ]
+  },
   "awb_0264ab91510e13778a51": {
     "id": "awb_0264ab91510e13778a51",
     "name": "Radio Gamma Gioiosa",
@@ -4747,6 +4823,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T06:31:14Z"
+      }
+    ]
+  },
+  "awb_021b71949b698263da8e": {
+    "id": "awb_021b71949b698263da8e",
+    "name": "Latviešu hiti Prāta Vētra",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/prata-vetra",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:50:38Z",
+    "streams": [
+      {
+        "id": "aws_3c7c1f644b7017fee463",
+        "stationId": "awb_021b71949b698263da8e",
+        "name": "Latviešu hiti Prāta Vētra",
+        "country": "LV",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LATVIESU_HITI_ZELTA_HITIAAC.aac",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "431d27dc-2da6-4388-98fd-6041f06b5b1e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },

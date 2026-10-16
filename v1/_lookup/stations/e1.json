@@ -1,4 +1,48 @@
 {
+  "awb_e13176de02538ba3effc": {
+    "id": "awb_e13176de02538ba3effc",
+    "name": "Radio Pendimi Live Kanali-1",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "islamic",
+      "religious",
+      "talk"
+    ],
+    "homepage": "https://www.rtvpendimi.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:32:20Z",
+    "streams": [
+      {
+        "id": "aws_309e31e1f3eade0e65bf",
+        "stationId": "awb_e13176de02538ba3effc",
+        "name": "Radio Pendimi Live Kanali-1",
+        "country": "AL",
+        "url": "https://www.rtvpendimi.com:8014/stream",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d8dc1854-2b4b-42c0-8a5c-f040a96786d2"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T22:26:18Z"
+      }
+    ]
+  },
   "awb_e107a53a12c894f9a853": {
     "id": "awb_e107a53a12c894f9a853",
     "name": "La 100 Nogoyá",
@@ -1991,6 +2035,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-11T21:38:48Z"
+      }
+    ]
+  },
+  "awb_e190fb2acaad421c11f4": {
+    "id": "awb_e190fb2acaad421c11f4",
+    "name": "Eichsfeld-welle",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://eichsfeld-welle.de/",
+    "favicon": "https://stream.hoerfunkbundstream.de:35402/stream.mp3",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T08:00:36Z",
+    "streams": [
+      {
+        "id": "aws_df1e587da0f431d30cb0",
+        "stationId": "awb_e190fb2acaad421c11f4",
+        "name": "Eichsfeld-welle",
+        "country": "DE",
+        "url": "https://stream.hoerfunkbundstream.de:35402/stream.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "83dd8961-3c26-4edf-87ed-3cf8e907cf3a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:13Z"
       }
     ]
   },

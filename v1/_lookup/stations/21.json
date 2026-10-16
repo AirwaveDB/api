@@ -4654,6 +4654,46 @@
       }
     ]
   },
+  "awb_21a26a5faebf40252720": {
+    "id": "awb_21a26a5faebf40252720",
+    "name": "Planet 90.6",
+    "country": "GR",
+    "subdivision": "Ierapetra",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "mainstream",
+      "pop"
+    ],
+    "homepage": "https://www.facebook.com/planet906/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/56758e65-aff9-4ed7-9be7-a5a10fb54a3d.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T17:25:38Z",
+    "streams": [
+      {
+        "id": "aws_6e3df11f2e7af89cab3b",
+        "stationId": "awb_21a26a5faebf40252720",
+        "name": "Planet 90.6",
+        "country": "GR",
+        "url": "https://sh.onweb.gr:7043/;",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "23daff5d-35e0-45ca-bcb1-a65cdf3d10eb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T18:20:12Z"
+      }
+    ]
+  },
   "awb_21802f14b050d762f753": {
     "id": "awb_21802f14b050d762f753",
     "name": "Radio Meraklis",
@@ -5440,6 +5480,91 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-12T07:30:31Z"
+      }
+    ]
+  },
+  "awb_21243d02b18185c40add": {
+    "id": "awb_21243d02b18185c40add",
+    "name": "Latviešu Hiti Deju Hiti",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "homepage": "https://www.ehr.fm/online-radio/janu-ballite",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T22:44:50Z",
+    "streams": [
+      {
+        "id": "aws_508305581e926e1d16a3",
+        "stationId": "awb_21243d02b18185c40add",
+        "name": "Latviešu Hiti Deju Hiti",
+        "country": "LV",
+        "url": "https://28933.live.streamtheworld.com/LATVIESU_HITI_DEJU_HITIAAC.aac",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0e5f49ea-6b96-43d0-b70f-ad17879348ca"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-15T23:05:01Z"
+      }
+    ]
+  },
+  "awb_21f82c8d9084e3c4be96": {
+    "id": "awb_21f82c8d9084e3c4be96",
+    "name": "SKONTO hiti",
+    "country": "LV",
+    "subdivision": "Rīga",
+    "languages": [
+      "lv"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://radioskonto.lv/",
+    "favicon": "https://radioskonto.lv/uploads/LOGO/Saraksta%20skata%20kart%C4%ABte/saraksta%20skata%20kartite_250x250_SMG.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:15:14Z",
+    "streams": [
+      {
+        "id": "aws_8300abfdf20ff1529f52",
+        "stationId": "awb_21f82c8d9084e3c4be96",
+        "name": "SKONTO hiti",
+        "country": "LV",
+        "url": "https://streams.radioskonto.lv:8443/skonto-hiti",
+        "codec": "aac+",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "24296c8e-4568-41a8-9c24-39b056fd6010"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-16T00:21:55Z"
       }
     ]
   },
