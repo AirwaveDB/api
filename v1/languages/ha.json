@@ -1,7 +1,48 @@
 {
   "code": "ha",
-  "stationCount": 5,
+  "stationCount": 6,
   "stations": [
+    {
+      "id": "awb_d833bfbe206df962a118",
+      "name": "Hausafulani Radio",
+      "country": "CM",
+      "subdivision": "Yaoundé",
+      "languages": [
+        "ha"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T08:21:46Z",
+      "streams": [
+        {
+          "id": "aws_97dbfc527237d915356a",
+          "stationId": "awb_d833bfbe206df962a118",
+          "name": "Hausafulani Radio",
+          "country": "CM",
+          "url": "https://listen.radioking.com/radio/876181/stream/946306",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0ecb9927-dd0e-4300-bce9-0b01b37630c2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T09:08:58Z"
+        }
+      ]
+    },
     {
       "id": "awb_56073f8470b719bbcafd",
       "name": "Zuria Fm",
@@ -134,7 +175,7 @@
             "9aa3d762-d7f7-4d5c-a471-8f75616c6c3a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T11:28:08Z"
+          "lastCheckedAt": "2026-10-16T21:53:32Z"
         }
       ]
     },

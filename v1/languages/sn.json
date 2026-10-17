@@ -1,7 +1,93 @@
 {
   "code": "sn",
-  "stationCount": 1,
+  "stationCount": 3,
   "stations": [
+    {
+      "id": "awb_47d2e198e6743796aab6",
+      "name": "Kasambabezi FM",
+      "country": "ZW",
+      "subdivision": "Kariba",
+      "languages": [
+        "sn"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "talk"
+      ],
+      "homepage": "https://kasambabezifm.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T09:37:41Z",
+      "streams": [
+        {
+          "id": "aws_113f3a0b3e1cc05bdc4f",
+          "stationId": "awb_47d2e198e6743796aab6",
+          "name": "Kasambabezi FM",
+          "country": "ZW",
+          "url": "https://stream.zeno.fm/5b5i6nuqbxtvv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a1938cc0-5458-4f05-a4db-e1c95624e377"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T10:22:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_434afe20dff9db8df7a7",
+      "name": "Platinum FM",
+      "country": "ZW",
+      "subdivision": "Chinhoyi",
+      "languages": [
+        "sn"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "talk"
+      ],
+      "homepage": "https://platinumfm.co.zw/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-16T09:37:41Z",
+      "streams": [
+        {
+          "id": "aws_a50adee93f8d60a36b3b",
+          "stationId": "awb_434afe20dff9db8df7a7",
+          "name": "Platinum FM",
+          "country": "ZW",
+          "url": "https://edge.iono.fm/xice/161_medium.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bbd5f9e9-872e-4fe4-a643-247e7f24b751"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-16T20:54:39Z"
+        }
+      ]
+    },
     {
       "id": "awb_db11829435d05f39f646",
       "name": "Star FM 89.7",
@@ -36,7 +122,7 @@
             "977de2cd-f415-4085-82fe-f6b0c67f4d38"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:38:01Z"
+          "lastCheckedAt": "2026-10-17T01:20:48Z"
         }
       ]
     }

@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-16T09:01:33.157Z",
+  "generatedAt": "2026-10-17T08:34:39.469Z",
   "schemaVersion": 1,
-  "stationCount": 54649,
-  "streamCount": 57834,
+  "stationCount": 54859,
+  "streamCount": 58030,
   "countryCount": 243,
-  "languageCount": 147,
+  "languageCount": 148,
   "categoryCount": 25,
-  "databaseGeneratedAt": "2026-10-16T07:12:04.214Z",
-  "streamsGeneratedAt": "2026-10-16T08:17:43.104Z",
+  "databaseGeneratedAt": "2026-10-17T06:58:57.996Z",
+  "streamsGeneratedAt": "2026-10-17T07:54:03.981Z",
   "databaseSchemaVersion": 1,
   "streamsSchemaVersion": 1,
   "sourceSnapshots": {
     "database": {
-      "commit": "781ec999d1d61c4bc2c06e12a85514ec6a940c01",
-      "generatedAt": "2026-10-16T07:12:04.214Z",
+      "commit": "100a3e51c2014025f7998d6c0f61337c696e8146",
+      "generatedAt": "2026-10-17T06:58:57.996Z",
       "schemaVersion": 1
     },
     "streams": {
-      "commit": "4849a0461ab7c8f5a239b14add4097660f3d1cc0",
-      "generatedAt": "2026-10-16T08:17:43.104Z",
+      "commit": "c210f365de18c198492a00d704a0495f0900015b",
+      "generatedAt": "2026-10-17T07:54:03.981Z",
       "schemaVersion": 1,
-      "databaseGeneratedAt": "2026-10-16T07:12:04.214Z",
+      "databaseGeneratedAt": "2026-10-17T06:58:57.996Z",
       "idStrategy": "source-provenance-v1"
     }
   },
   "quality": {
     "database": {
-      "withHomepage": 52126,
-      "withFavicon": 33584,
-      "withLanguage": 34652,
-      "withCategory": 26866,
-      "unknownCountry": 1101,
-      "withType": 2572,
-      "normalizedLanguageValues": 486
+      "withHomepage": 52279,
+      "withFavicon": 33585,
+      "withLanguage": 34876,
+      "withCategory": 27120,
+      "unknownCountry": 1096,
+      "withType": 2574,
+      "normalizedLanguageValues": 485
     },
     "streams": {
-      "withCodec": 57799,
-      "withBitrate": 48895,
-      "hls": 3874,
-      "sourceCheckOk": 57834,
-      "unknownCountry": 1211,
-      "identityReused": 57482,
-      "identityNew": 352
+      "withCodec": 58024,
+      "withBitrate": 49115,
+      "hls": 3865,
+      "sourceCheckOk": 58030,
+      "unknownCountry": 1206,
+      "identityReused": 57644,
+      "identityNew": 386
     }
   },
   "routes": {

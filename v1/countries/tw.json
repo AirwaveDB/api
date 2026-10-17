@@ -1,8 +1,48 @@
 {
   "code": "TW",
-  "stationCount": 172,
-  "streamCount": 177,
+  "stationCount": 176,
+  "streamCount": 181,
   "stations": [
+    {
+      "id": "awb_fedb04520cab07cf7eed",
+      "name": "1766 網路廣播電台 - 音樂頻道-民俗風 Folk",
+      "country": "TW",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "internet radio",
+        "music"
+      ],
+      "homepage": "https://www.1766.today/interactive",
+      "favicon": "https://cdn.radoxo.com/images/taiwan/1766-folk.webp?v=1791194402",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T01:33:27Z",
+      "streams": [
+        {
+          "id": "aws_c0f915fc644fa82d8eed",
+          "stationId": "awb_fedb04520cab07cf7eed",
+          "name": "1766 網路廣播電台 - 音樂頻道-民俗風 Folk",
+          "country": "TW",
+          "url": "https://n05-eu.rcs.revma.com/q2m07dc59duvv",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f0e2c723-f33c-43c4-858c-ed020dd62794"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T01:33:28Z"
+        }
+      ]
+    },
     {
       "id": "awb_8d08f7c14aa37abfdf9b",
       "name": "1766線上電臺-百家知識",
@@ -41,7 +81,7 @@
             "cf8f4744-c913-11e8-a54a-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T15:37:11Z"
+          "lastCheckedAt": "2026-10-17T04:38:29Z"
         }
       ]
     },
@@ -172,6 +212,46 @@
       ]
     },
     {
+      "id": "awb_74ea09d30a1ae862fffc",
+      "name": "Alian96.3 原住民族廣播電台",
+      "country": "TW",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "culture",
+        "full service"
+      ],
+      "homepage": "https://www.ipcf.org.tw/zh-tv/Vod/HomeRadio",
+      "favicon": "https://cdn.radoxo.com/images/taiwan/alian-963.webp?v=1791194402",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T03:08:20Z",
+      "streams": [
+        {
+          "id": "aws_0a9374ad2003a08b7d5c",
+          "stationId": "awb_74ea09d30a1ae862fffc",
+          "name": "Alian96.3 原住民族廣播電台",
+          "country": "TW",
+          "url": "https://streamipcfapp.akamaized.net/live2/_definst_/fm963/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 322,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bc00b132-e6ac-4aa5-9aa5-08213a17f9ad"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T03:08:21Z"
+        }
+      ]
+    },
+    {
       "id": "awb_384c45bc08171bb69b5e",
       "name": "AsiaFM 亞太電台",
       "country": "TW",
@@ -247,7 +327,7 @@
             "ca368d8d-6f1e-4b5c-bab2-70e84fefe8ea"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T05:23:38Z"
+          "lastCheckedAt": "2026-10-17T05:26:33Z"
         }
       ]
     },
@@ -323,7 +403,7 @@
             "dadc974a-f037-44a9-9d8b-7a01a39d229b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T22:05:18Z"
+          "lastCheckedAt": "2026-10-16T22:19:15Z"
         }
       ]
     },
@@ -358,7 +438,7 @@
             "4e3a2d91-c7bf-4dc1-8140-d73ac7eb3a8a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T06:07:54Z"
+          "lastCheckedAt": "2026-10-17T07:04:02Z"
         },
         {
           "id": "aws_984361a29e509016c4b7",
@@ -379,7 +459,7 @@
             "TW:boss-online-radio-2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:32:42Z"
+          "lastCheckedAt": "2026-10-17T03:30:21Z"
         },
         {
           "id": "aws_bf0e4176150bbcf6d60a",
@@ -398,7 +478,7 @@
             "bd53dc0f-4aac-47cc-afcf-92d390eb1498"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:28:52Z"
+          "lastCheckedAt": "2026-10-17T03:37:09Z"
         }
       ]
     },
@@ -476,7 +556,7 @@
             "TW:cancheers"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T12:48:45Z"
+          "lastCheckedAt": "2026-10-17T03:30:21Z"
         }
       ]
     },
@@ -519,7 +599,7 @@
             "ef2e5996-1f46-44bf-a07b-2949615f60ce"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T13:15:34Z"
+          "lastCheckedAt": "2026-10-17T02:34:09Z"
         }
       ]
     },
@@ -791,7 +871,7 @@
             "TW:m-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:17:38Z"
+          "lastCheckedAt": "2026-10-17T04:47:07Z"
         }
       ]
     },
@@ -830,7 +910,7 @@
             "52430c88-a17d-44be-8986-8d4ae9d134b1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T04:21:49Z"
+          "lastCheckedAt": "2026-10-17T04:27:08Z"
         }
       ]
     },
@@ -918,7 +998,7 @@
             "c976a1fa-100d-43e4-9fe1-52b60097c0f9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T11:48:38Z"
+          "lastCheckedAt": "2026-10-17T05:57:10Z"
         }
       ]
     },
@@ -1126,7 +1206,7 @@
             "TW:supreme-master-tv"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:39:39Z"
+          "lastCheckedAt": "2026-10-17T05:32:46Z"
         }
       ]
     },
@@ -1204,7 +1284,7 @@
             "9b614adf-04e1-4a2e-b23c-2bf5ed16a694"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T04:47:24Z"
+          "lastCheckedAt": "2026-10-17T05:52:39Z"
         }
       ]
     },
@@ -1325,7 +1405,7 @@
             "e4c1345b-a989-40d7-9401-19f7da9d3d48"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T21:23:24Z"
+          "lastCheckedAt": "2026-10-16T21:29:10Z"
         }
       ]
     },
@@ -1399,7 +1479,7 @@
             "TW:i-go"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T06:18:26Z"
+          "lastCheckedAt": "2026-10-17T06:57:33Z"
         }
       ]
     },
@@ -1442,7 +1522,7 @@
             "f3bc042d-938c-4e63-97c9-9e4ce8ed20b4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:14:09Z"
+          "lastCheckedAt": "2026-10-17T02:28:40Z"
         }
       ]
     },
@@ -1481,7 +1561,7 @@
             "c96c5fd7-87f3-46fb-9a92-1500fabafc24"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:30:10Z"
+          "lastCheckedAt": "2026-10-17T03:06:17Z"
         }
       ]
     },
@@ -1518,7 +1598,7 @@
             "0366eb84-7206-47ab-94d1-53b70e578064"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:12:13Z"
+          "lastCheckedAt": "2026-10-17T01:09:44Z"
         }
       ]
     },
@@ -1679,7 +1759,7 @@
             "3c38aabd-887d-4261-8041-00e3d856a67e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:12:10Z"
+          "lastCheckedAt": "2026-10-17T03:44:28Z"
         }
       ]
     },
@@ -1760,7 +1840,7 @@
             "bf3382fb-d8b8-448c-b69f-35e2e39a4904"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:08:46Z"
+          "lastCheckedAt": "2026-10-17T04:24:52Z"
         }
       ]
     },
@@ -1795,7 +1875,7 @@
             "1fbef30f-dfa0-471b-b0ea-dd296391d30e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T06:12:13Z"
+          "lastCheckedAt": "2026-10-17T06:15:28Z"
         }
       ]
     },
@@ -1830,7 +1910,7 @@
             "1eb90727-81cb-49d5-9e82-e602853c08c6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:16:24Z"
+          "lastCheckedAt": "2026-10-17T05:30:27Z"
         }
       ]
     },
@@ -1946,7 +2026,7 @@
             "a94e9bed-c41a-405e-8d51-481b8c8245fa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T01:30:01Z"
+          "lastCheckedAt": "2026-10-17T01:43:31Z"
         }
       ]
     },
@@ -2020,7 +2100,7 @@
             "2e3b9422-6365-46a7-9f68-cb18eebd27fa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:53:34Z"
+          "lastCheckedAt": "2026-10-17T05:11:17Z"
         }
       ]
     },
@@ -2213,7 +2293,7 @@
             "4b69f9bb-9c13-4b01-a19b-fc2e8c5b21a9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T13:06:18Z"
+          "lastCheckedAt": "2026-10-17T04:17:52Z"
         }
       ]
     },
@@ -2254,7 +2334,7 @@
             "278f4665-f188-4fdc-bd83-d199e762efb5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T22:13:28Z"
+          "lastCheckedAt": "2026-10-16T23:08:40Z"
         }
       ]
     },
@@ -2294,7 +2374,7 @@
             "9e31ffb7-8586-425c-b149-fc633a7507cc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T06:24:45Z"
+          "lastCheckedAt": "2026-10-17T07:08:36Z"
         }
       ]
     },
@@ -2366,7 +2446,7 @@
             "e8ac5c8f-e0ce-4bea-8846-b9ff7d911aea"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T05:15:21Z"
+          "lastCheckedAt": "2026-10-17T06:40:51Z"
         }
       ]
     },
@@ -2519,7 +2599,7 @@
             "e912fd19-81c3-463e-a37e-ef1cef859c1c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:46:01Z"
+          "lastCheckedAt": "2026-10-17T00:57:38Z"
         }
       ]
     },
@@ -2556,7 +2636,7 @@
             "66f2a995-86c9-47cf-b06e-3541ef4733a3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:01:19Z"
+          "lastCheckedAt": "2026-10-17T01:00:42Z"
         }
       ]
     },
@@ -2667,7 +2747,7 @@
             "faa5240b-331a-427b-a855-07c1f29caff9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T23:36:07Z"
+          "lastCheckedAt": "2026-10-17T00:36:57Z"
         }
       ]
     },
@@ -2704,7 +2784,7 @@
             "a6f4c4fe-3dd6-43f3-9dab-7d4e507ecfdc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T21:33:00Z"
+          "lastCheckedAt": "2026-10-16T21:46:33Z"
         }
       ]
     },
@@ -2746,6 +2826,43 @@
       ]
     },
     {
+      "id": "awb_391c7427ce5f72bde47c",
+      "name": "君弘廣播電台｜君弘保健室",
+      "country": "TW",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://junhongradio.com/public/junhong",
+      "favicon": "https://cdn.radoxo.com/images/taiwan/jun-hong-bao-jian-shi-junhong-radio.webp?v=1791194402",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T03:24:59Z",
+      "streams": [
+        {
+          "id": "aws_2e980f966b505ec6d908",
+          "stationId": "awb_391c7427ce5f72bde47c",
+          "name": "君弘廣播電台｜君弘保健室",
+          "country": "TW",
+          "url": "https://junhongradio.com/listen/junhong/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ed7af691-a497-47bc-8514-748a3faa5f91"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T03:25:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f2f1012020e19332ef3b",
       "name": "嘉義之音",
       "country": "TW",
@@ -2778,7 +2895,7 @@
             "aaf15d85-aa91-4370-b7d4-8c422661fcec"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:19:44Z"
+          "lastCheckedAt": "2026-10-17T03:11:52Z"
         }
       ]
     },
@@ -2815,7 +2932,7 @@
             "52a1622a-ba46-45bd-be94-0cfc0aeb2581"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:35:36Z"
+          "lastCheckedAt": "2026-10-17T04:36:33Z"
         }
       ]
     },
@@ -2856,7 +2973,7 @@
             "794526d9-47b3-4313-9475-6dcba1c930ef"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T06:14:29Z"
+          "lastCheckedAt": "2026-10-17T06:22:45Z"
         }
       ]
     },
@@ -2896,7 +3013,7 @@
             "c164cf0c-835b-4109-8f17-05a0d1a83d4d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:55:47Z"
+          "lastCheckedAt": "2026-10-17T07:04:02Z"
         }
       ]
     },
@@ -2933,7 +3050,7 @@
             "TW:cityfm-2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:15:43Z"
+          "lastCheckedAt": "2026-10-17T03:23:08Z"
         }
       ]
     },
@@ -3003,7 +3120,7 @@
             "397481b9-2120-4445-8368-3d3dccd4fda6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:56:59Z"
+          "lastCheckedAt": "2026-10-17T03:06:17Z"
         }
       ]
     },
@@ -3078,7 +3195,7 @@
             "af7cf56a-a366-47fc-bbb4-e6c4bd5b2ec6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T12:21:18Z"
+          "lastCheckedAt": "2026-10-17T01:33:28Z"
         }
       ]
     },
@@ -3150,7 +3267,7 @@
             "78d040bb-ebee-48b7-bb87-78a22c1e4d4a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T22:11:20Z"
+          "lastCheckedAt": "2026-10-16T22:15:07Z"
         }
       ]
     },
@@ -3500,7 +3617,7 @@
             "02fac92e-681f-4f63-9815-9e6c810d0774"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T21:54:30Z"
+          "lastCheckedAt": "2026-10-16T22:23:23Z"
         }
       ]
     },
@@ -3535,7 +3652,7 @@
             "26e76720-2e4f-4b13-9617-970cffa1116b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:05:57Z"
+          "lastCheckedAt": "2026-10-17T01:24:55Z"
         }
       ]
     },
@@ -3570,7 +3687,7 @@
             "a04e099e-c0b7-46f5-b4ad-ed9f669b394d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T23:05:29Z"
+          "lastCheckedAt": "2026-10-16T23:08:40Z"
         }
       ]
     },
@@ -3605,7 +3722,7 @@
             "3b7d5ee7-dbec-46fa-af65-e0d2de535c15"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:15:54Z"
+          "lastCheckedAt": "2026-10-17T00:58:31Z"
         }
       ]
     },
@@ -3724,7 +3841,7 @@
             "618b9635-9269-4830-931a-2787edf1ff00"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:44:11Z"
+          "lastCheckedAt": "2026-10-17T03:23:08Z"
         }
       ]
     },
@@ -3801,7 +3918,7 @@
             "87bb2a6b-b7e9-4c7b-8014-9756a03711a9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T01:25:53Z"
+          "lastCheckedAt": "2026-10-17T01:43:31Z"
         }
       ]
     },
@@ -4005,7 +4122,7 @@
             "TW:happyradio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:22:59Z"
+          "lastCheckedAt": "2026-10-17T07:40:54Z"
         }
       ]
     },
@@ -4120,7 +4237,7 @@
             "c17de880-7b81-4172-baee-7cec622ab670"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:06:17Z"
+          "lastCheckedAt": "2026-10-17T06:22:45Z"
         }
       ]
     },
@@ -4237,7 +4354,7 @@
             "dcb727d7-6f9c-4f7c-a290-10fb71ef2c57"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T02:58:37Z"
+          "lastCheckedAt": "2026-10-17T04:49:21Z"
         }
       ]
     },
@@ -4274,7 +4391,7 @@
             "348ceceb-7b1b-4158-a0c7-7fae0d52c211"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T23:25:25Z"
+          "lastCheckedAt": "2026-10-16T23:59:51Z"
         },
         {
           "id": "aws_225d323ee41105295a71",
@@ -4411,7 +4528,7 @@
             "071f39ad-fb25-41d5-9c7f-b45a2b1e0420"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:46:37Z"
+          "lastCheckedAt": "2026-10-17T05:59:24Z"
         }
       ]
     },
@@ -4532,7 +4649,7 @@
             "93f83583-6964-4208-9446-15f4c2c51587"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T10:26:42Z"
+          "lastCheckedAt": "2026-10-17T01:18:40Z"
         }
       ]
     },
@@ -4651,7 +4768,44 @@
             "04b902cd-9f22-4466-892c-3976f7868a71"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T23:24:44Z"
+          "lastCheckedAt": "2026-10-16T23:38:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2623ec2ae972c3a47e2a",
+      "name": "泉州金門-大金廣播電台",
+      "country": "TW",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://www.findcompany.com.tw/%E5%A4%A7%E9%87%91%E5%BB%A3%E6%92%AD%E4%BA%8B%E6%A5%AD%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+      "favicon": "https://api.radiotw.com/images/tw/tw_484407.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T01:09:48Z",
+      "streams": [
+        {
+          "id": "aws_affca0831a31518c7eff",
+          "stationId": "awb_2623ec2ae972c3a47e2a",
+          "name": "泉州金門-大金廣播電台",
+          "country": "TW",
+          "url": "http://61.220.75.207:8106/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bf6a62cf-5e38-438d-9e83-7cd0fe2f9c0a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T02:31:04Z"
         }
       ]
     },
@@ -4693,7 +4847,7 @@
             "8609e7be-7f65-4971-b2a8-50db23b36dc7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T22:05:19Z"
+          "lastCheckedAt": "2026-10-16T22:15:07Z"
         }
       ]
     },
@@ -4732,7 +4886,7 @@
             "36170e6f-aa3d-4c8e-83d0-79d464bfe40a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T22:49:33Z"
+          "lastCheckedAt": "2026-10-16T23:44:54Z"
         }
       ]
     },
@@ -4806,7 +4960,7 @@
             "516662ee-f7db-43a5-a7cf-be537b56f3f1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T23:28:19Z"
+          "lastCheckedAt": "2026-10-16T23:59:51Z"
         }
       ]
     },
@@ -4882,7 +5036,7 @@
             "9f0bfa0d-3399-4afe-be61-74c1e289c6cb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:17:49Z"
+          "lastCheckedAt": "2026-10-17T01:28:57Z"
         }
       ]
     },
@@ -5023,7 +5177,7 @@
           "name": "環宇廣播電台",
           "country": "TW",
           "url": "https://n06.rcs.revma.com/srn5f9kmwxhvv",
-          "codec": "mp3",
+          "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -5036,7 +5190,7 @@
             "TW:uni967"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T22:24:03Z"
+          "lastCheckedAt": "2026-10-16T22:52:33Z"
         }
       ]
     },
@@ -5065,7 +5219,7 @@
           "country": "TW",
           "url": "http://210.209.16.1:1935/YSLive/YSLive/playlist.m3u8",
           "codec": "aac",
-          "bitrate": 1358,
+          "bitrate": 1401,
           "protocol": "http",
           "hls": true,
           "sources": [
@@ -5075,7 +5229,7 @@
             "32ca1bc6-65e0-42ea-8b0d-850bc1a7e5c9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T05:23:38Z"
+          "lastCheckedAt": "2026-10-17T05:28:34Z"
         }
       ]
     },
@@ -5276,7 +5430,7 @@
             "96b88cb2-76a4-43fb-9257-e791103f5fa8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:40:22Z"
+          "lastCheckedAt": "2026-10-17T05:30:27Z"
         }
       ]
     },
@@ -5317,7 +5471,7 @@
             "6be26492-2d96-444d-afa6-91fd5b374bed"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T20:59:32Z"
+          "lastCheckedAt": "2026-10-16T21:49:28Z"
         }
       ]
     },
@@ -5356,7 +5510,7 @@
             "f0b434c8-d15d-4ae9-a1ca-78662821c177"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T21:49:47Z"
+          "lastCheckedAt": "2026-10-16T22:23:23Z"
         }
       ]
     },
@@ -5597,7 +5751,7 @@
             "88f387e9-bd42-4b0c-a2aa-0321c965f5f7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T01:23:38Z"
+          "lastCheckedAt": "2026-10-17T03:01:42Z"
         }
       ]
     },
@@ -5630,7 +5784,7 @@
           "country": "TW",
           "url": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8",
           "codec": "aac",
-          "bitrate": 298,
+          "bitrate": 128,
           "protocol": "http",
           "hls": true,
           "sources": [
@@ -5640,7 +5794,7 @@
             "b8932709-f573-4674-b976-09c4ef8aa96a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T06:35:38Z"
+          "lastCheckedAt": "2026-10-17T06:57:33Z"
         }
       ]
     },
@@ -5704,7 +5858,7 @@
           "country": "TW",
           "url": "http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8",
           "codec": "aac",
-          "bitrate": 298,
+          "bitrate": 128,
           "protocol": "http",
           "hls": true,
           "sources": [
@@ -5714,7 +5868,7 @@
             "12e63479-12ff-4d1d-b78d-fcd9fdfedc44"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T03:03:59Z"
+          "lastCheckedAt": "2026-10-17T04:49:21Z"
         }
       ]
     },
@@ -5761,7 +5915,7 @@
             "f7a5c94a-c966-4e7f-932f-31d2020f9032"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T22:24:03Z"
+          "lastCheckedAt": "2026-10-17T00:23:27Z"
         }
       ]
     },
@@ -5808,7 +5962,7 @@
             "80f2fde9-58c1-4a37-a2d7-493b454c316f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T21:25:31Z"
+          "lastCheckedAt": "2026-10-16T21:51:38Z"
         }
       ]
     },
@@ -5855,7 +6009,7 @@
             "a0af9a7f-60d7-49a1-b975-89cf97218ffb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T23:08:39Z"
+          "lastCheckedAt": "2026-10-16T23:10:48Z"
         }
       ]
     },
@@ -6174,7 +6328,7 @@
             "1a191ec2-1ffc-454e-87ce-da9f94652aa0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T21:14:08Z"
+          "lastCheckedAt": "2026-10-17T00:30:55Z"
         }
       ]
     },
@@ -6213,7 +6367,7 @@
             "b2918a9d-eaff-4af2-be36-f3018fcecb9f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-11T21:25:31Z"
+          "lastCheckedAt": "2026-10-16T21:47:10Z"
         }
       ]
     },
@@ -6252,7 +6406,7 @@
             "ef96e230-8de7-4bd0-8c33-061d690fa1c7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T05:15:21Z"
+          "lastCheckedAt": "2026-10-17T06:25:05Z"
         }
       ]
     },
@@ -6403,7 +6557,7 @@
             "f8fd2b64-db24-4b23-9239-0b9834464c53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:40:58Z"
+          "lastCheckedAt": "2026-10-17T01:36:12Z"
         }
       ]
     },
@@ -6440,7 +6594,7 @@
             "fc9189c5-d9c3-4199-8217-5e5ce3f7108c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T00:46:01Z"
+          "lastCheckedAt": "2026-10-17T01:16:28Z"
         }
       ]
     },
@@ -6767,7 +6921,7 @@
             "TW:kbs"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T01:14:01Z"
+          "lastCheckedAt": "2026-10-17T01:27:02Z"
         }
       ]
     },
