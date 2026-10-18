@@ -1,6 +1,6 @@
 {
   "code": "sd",
-  "stationCount": 3,
+  "stationCount": 4,
   "stations": [
     {
       "id": "awb_70f99985239138203662",
@@ -117,7 +117,45 @@
             "ed3e4d31-7133-4eb3-a7e5-9729bf9c3ab2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T09:29:06Z"
+          "lastCheckedAt": "2026-10-17T10:00:56Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9f72bfe23e3bf257aa14",
+      "name": "Sindh fm",
+      "country": "PK",
+      "subdivision": "Sindh",
+      "languages": [
+        "sd",
+        "ur"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://167.114.131.90:2758/",
+      "favicon": "http://167.114.131.90:2758/",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T12:08:50Z",
+      "streams": [
+        {
+          "id": "aws_b751fc37278dd4b5f976",
+          "stationId": "awb_9f72bfe23e3bf257aa14",
+          "name": "Sindh fm",
+          "country": "PK",
+          "url": "http://167.114.131.90:2758/",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e67478e3-6018-4a27-82e5-621e12cc30b8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T14:43:35Z"
         }
       ]
     }

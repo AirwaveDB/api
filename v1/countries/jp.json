@@ -1,7 +1,7 @@
 {
   "code": "JP",
-  "stationCount": 116,
-  "streamCount": 124,
+  "stationCount": 122,
+  "streamCount": 130,
   "stations": [
     {
       "id": "awb_c89923852f31a58c4a4c",
@@ -190,7 +190,7 @@
             "JP:abdulbasit-abdulsamad"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:06:49Z"
+          "lastCheckedAt": "2026-10-17T14:13:39Z"
         }
       ]
     },
@@ -234,6 +234,89 @@
       ]
     },
     {
+      "id": "awb_0f9cfd22d768f9b0bb2e",
+      "name": "All Classical New Releases",
+      "country": "JP",
+      "subdivision": "Hokaido",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "opera"
+      ],
+      "homepage": "https://cdn.radoxo.com/images/japan/all-classical-piano-chamber-works-and-concertos.webp?v=1791194402",
+      "favicon": "https://cdn.radoxo.com/images/japan/all-classical-new-releases.webp?v=1791194402",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T13:53:16Z",
+      "streams": [
+        {
+          "id": "aws_9297d89a99ea942eba65",
+          "stationId": "awb_0f9cfd22d768f9b0bb2e",
+          "name": "All Classical New Releases",
+          "country": "JP",
+          "url": "https://mpc1.mediacp.eu:8038/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f12f63d5-fe51-4515-b7bf-898bdc9b2dde"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T13:53:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3cf8fe6acb3c1c5a890d",
+      "name": "All Classical Piano Chamber Works and Concertos",
+      "country": "JP",
+      "subdivision": "Hokaido",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://cdn.radoxo.com/images/japan/an-opera-celebration.webp?v=1791194402",
+      "favicon": "https://cdn.radoxo.com/images/japan/all-classical-piano-chamber-works-and-concertos.webp?v=1791194402",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T12:50:33Z",
+      "streams": [
+        {
+          "id": "aws_a48f87221a663c9ce7b3",
+          "stationId": "awb_3cf8fe6acb3c1c5a890d",
+          "name": "All Classical Piano Chamber Works and Concertos",
+          "country": "JP",
+          "url": "https://mpc1.mediacp.eu:8040/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6d9a1b35-7898-44d6-bb42-cb1b5cc70239"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T12:50:34Z"
+        }
+      ]
+    },
+    {
       "id": "awb_999feeb32e26d7ae3159",
       "name": "ALR Jazz Radio",
       "country": "JP",
@@ -264,7 +347,49 @@
             "90397feb-f9ab-43b8-87c0-4a8e1b7e4316"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T13:17:34Z"
+          "lastCheckedAt": "2026-10-17T13:53:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ac9a4465af0507c133d5",
+      "name": "An Opera Celebration",
+      "country": "JP",
+      "subdivision": "Hokaido",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "opera"
+      ],
+      "homepage": "https://tuneyou.com/radio/jp/an-opera-celebration",
+      "favicon": "https://cdn.radoxo.com/images/japan/an-opera-celebration.webp?v=1791194402",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T12:05:17Z",
+      "streams": [
+        {
+          "id": "aws_2f2a3a8d09a23fa8c42a",
+          "stationId": "awb_ac9a4465af0507c133d5",
+          "name": "An Opera Celebration",
+          "country": "JP",
+          "url": "https://mpc1.mediacp.eu/stream/beethoveninsequence",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "08f17b3c-6072-4cb9-8c42-5e5edd51bcda"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T12:46:19Z"
         }
       ]
     },
@@ -309,7 +434,7 @@
             "d57fca45-a811-48f9-b672-7047ac984b91"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:34:09Z"
+          "lastCheckedAt": "2026-10-17T19:03:57Z"
         }
       ]
     },
@@ -393,7 +518,7 @@
             "ee614813-177f-4b83-ae6a-5e5b22d440d1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T09:22:28Z"
+          "lastCheckedAt": "2026-10-17T10:56:08Z"
         }
       ]
     },
@@ -440,7 +565,51 @@
             "JP:asia-dream-radio-japan-hits"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T19:20:12Z"
+          "lastCheckedAt": "2026-10-18T00:23:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_27bce4e62f526b1385d5",
+      "name": "Beethoven Piano Sonatas",
+      "country": "JP",
+      "subdivision": "Hokaido",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "beethoven",
+        "classical",
+        "classical music",
+        "piano"
+      ],
+      "homepage": "https://cdn.radoxo.com/images/japan/all-classical-new-releases.webp?v=1791194402",
+      "favicon": "https://cdn.radoxo.com/images/japan/beethoven-piano-sonatas.webp?v=1791194402",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T12:03:20Z",
+      "streams": [
+        {
+          "id": "aws_365ce17e1254658d75fd",
+          "stationId": "awb_27bce4e62f526b1385d5",
+          "name": "Beethoven Piano Sonatas",
+          "country": "JP",
+          "url": "https://mpc1.mediacp.eu/stream/globaltopcharts",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a3923012-3b2c-4930-87b2-00058121709c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T12:03:21Z"
         }
       ]
     },
@@ -484,7 +653,7 @@
             "JP:big-b-radio-jpop"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:55:53Z"
+          "lastCheckedAt": "2026-10-17T19:06:14Z"
         }
       ]
     },
@@ -529,7 +698,7 @@
             "JP:box-japan-city-pop"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:48:36Z"
+          "lastCheckedAt": "2026-10-17T11:00:25Z"
         }
       ]
     },
@@ -615,7 +784,7 @@
             "44875c1d-b7b7-4aeb-b7ee-c02a90364509"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T15:15:53Z"
+          "lastCheckedAt": "2026-10-17T16:02:48Z"
         }
       ]
     },
@@ -705,7 +874,7 @@
             "10bad67d-8ada-4430-8a45-a92dfd4bfc87"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:43:52Z"
+          "lastCheckedAt": "2026-10-17T15:21:41Z"
         }
       ]
     },
@@ -795,7 +964,7 @@
             "fad42bb6-2865-4854-94a7-96152e881800"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T18:07:32Z"
+          "lastCheckedAt": "2026-10-17T21:56:02Z"
         }
       ]
     },
@@ -838,7 +1007,7 @@
             "JP:fred-film-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:04:05Z"
+          "lastCheckedAt": "2026-10-17T08:49:38Z"
         }
       ]
     },
@@ -879,7 +1048,7 @@
             "54732c01-db87-4aa2-b313-22fd5fa7eee9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T18:11:53Z"
+          "lastCheckedAt": "2026-10-17T19:35:17Z"
         }
       ]
     },
@@ -932,7 +1101,7 @@
             "af566e6b-3d2b-4b96-92ca-a9cb183e6fd8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:41:47Z"
+          "lastCheckedAt": "2026-10-17T10:12:27Z"
         },
         {
           "id": "aws_65e5d089acb27c53a573",
@@ -951,7 +1120,7 @@
             "b641d7ab-4548-426f-92ba-c0b65bff204d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T06:35:38Z"
+          "lastCheckedAt": "2026-10-17T08:07:01Z"
         }
       ]
     },
@@ -1030,7 +1199,7 @@
             "b6512cd8-9b4d-4b25-82a6-3fcd9a6273c6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T19:06:30Z"
+          "lastCheckedAt": "2026-10-17T20:35:35Z"
         }
       ]
     },
@@ -1067,7 +1236,7 @@
             "e0763775-fdb9-4f6d-b88e-057165cb283c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T12:07:36Z"
+          "lastCheckedAt": "2026-10-17T12:22:35Z"
         }
       ]
     },
@@ -1104,7 +1273,7 @@
             "e219fec2-ee95-4c12-86fb-34142143f562"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:30:18Z"
+          "lastCheckedAt": "2026-10-17T17:51:16Z"
         }
       ]
     },
@@ -1190,7 +1359,7 @@
             "a4fc8fc6-5eae-4e2e-9881-7770556abd01"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T13:30:05Z"
+          "lastCheckedAt": "2026-10-17T16:27:09Z"
         }
       ]
     },
@@ -1232,7 +1401,7 @@
             "deff64de-b1f4-442e-832c-1180917ac894"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:23:12Z"
+          "lastCheckedAt": "2026-10-17T18:00:11Z"
         }
       ]
     },
@@ -1279,7 +1448,7 @@
             "a36cb1a5-f9b5-4739-a86a-987d256b7d0e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:32:21Z"
+          "lastCheckedAt": "2026-10-17T15:11:18Z"
         }
       ]
     },
@@ -1359,7 +1528,7 @@
             "JP:j-club-powerplay-hiphop-asia-dream-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:35:00Z"
+          "lastCheckedAt": "2026-10-17T18:54:29Z"
         }
       ]
     },
@@ -1443,7 +1612,7 @@
             "JP:j-pop-powerplay"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T10:29:53Z"
+          "lastCheckedAt": "2026-10-17T11:39:17Z"
         }
       ]
     },
@@ -1483,7 +1652,7 @@
             "cf0ab710-020b-4e3f-99af-2bf059466d36"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:49:06Z"
+          "lastCheckedAt": "2026-10-17T22:29:05Z"
         }
       ]
     },
@@ -1520,7 +1689,7 @@
             "JP:j-pop-powerplay-kawaii"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:29:29Z"
+          "lastCheckedAt": "2026-10-17T15:17:31Z"
         }
       ]
     },
@@ -1564,7 +1733,7 @@
             "ecbcdd6f-ac5f-408f-9d9b-cc979e5344c4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:06:00Z"
+          "lastCheckedAt": "2026-10-17T16:13:52Z"
         }
       ]
     },
@@ -1656,7 +1825,7 @@
             "8d01010d-aea1-4226-9b48-8beb376f0d61"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T08:57:28Z"
+          "lastCheckedAt": "2026-10-17T13:06:56Z"
         },
         {
           "id": "aws_1e94ec185a66ce1b86dd",
@@ -1677,7 +1846,7 @@
             "f72771a3-cf3a-4cc5-af91-2493ca31c54d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T10:50:08Z"
+          "lastCheckedAt": "2026-10-17T11:42:05Z"
         }
       ]
     },
@@ -1714,7 +1883,7 @@
             "JP:j-rock-powerplay"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T08:30:39Z"
+          "lastCheckedAt": "2026-10-17T08:41:34Z"
         }
       ]
     },
@@ -1758,7 +1927,7 @@
             "JP:j-rock-powerplay-asia-dream-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:54:20Z"
+          "lastCheckedAt": "2026-10-17T21:35:27Z"
         }
       ]
     },
@@ -1855,7 +2024,7 @@
             "090ec5aa-54d0-4410-8442-82c5236c57b8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:06:09Z"
+          "lastCheckedAt": "2026-10-17T19:21:39Z"
         }
       ]
     },
@@ -1938,7 +2107,7 @@
             "f281de6d-4daf-4b29-b3f9-683f361907da"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:54:46Z"
+          "lastCheckedAt": "2026-10-17T16:27:09Z"
         }
       ]
     },
@@ -1973,7 +2142,7 @@
             "f2e726c1-9cae-4a1f-baa8-da29be891dec"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T10:14:21Z"
+          "lastCheckedAt": "2026-10-17T12:12:24Z"
         }
       ]
     },
@@ -2010,7 +2179,7 @@
             "e4f7dac4-db05-446d-9282-d79a56ce7327"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T09:19:22Z"
+          "lastCheckedAt": "2026-10-17T15:13:11Z"
         }
       ]
     },
@@ -2098,7 +2267,7 @@
             "9142c884-33a5-4277-8bac-e299c0c1c18c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T15:10:49Z"
+          "lastCheckedAt": "2026-10-17T15:15:24Z"
         }
       ]
     },
@@ -2168,7 +2337,7 @@
             "4321bd6c-19e8-4f5e-ae57-bf7e62416b4b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T13:22:02Z"
+          "lastCheckedAt": "2026-10-17T13:53:18Z"
         }
       ]
     },
@@ -2289,7 +2458,7 @@
             "48e7bd4a-3252-478e-af70-43f7e91d4ea5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:10:12Z"
+          "lastCheckedAt": "2026-10-17T08:07:01Z"
         }
       ]
     },
@@ -2326,7 +2495,7 @@
             "e698b1df-bd9c-4084-9c21-22a452b27664"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T09:02:21Z"
+          "lastCheckedAt": "2026-10-17T10:10:10Z"
         }
       ]
     },
@@ -2370,7 +2539,7 @@
             "ba5af88c-6fa9-4f56-990f-c0eaaf7c37ba"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T19:04:18Z"
+          "lastCheckedAt": "2026-10-17T22:20:53Z"
         }
       ]
     },
@@ -2389,25 +2558,6 @@
       "updatedAt": "2026-08-23",
       "streams": [
         {
-          "id": "aws_e0ff0a62e2b701e21d7c",
-          "stationId": "awb_95295012f7234c7ac399",
-          "name": "Miku Radio",
-          "country": "JP",
-          "url": "https://miku.fm/listen/miku/aac-320",
-          "codec": "aac",
-          "bitrate": 320,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "9d4aa07b-f080-4d6c-87e8-15c080c72dd2"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:37:33Z"
-        },
-        {
           "id": "aws_131524b76ee871f8e613",
           "stationId": "awb_95295012f7234c7ac399",
           "name": "Miku Radio",
@@ -2425,6 +2575,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-08-23"
+        },
+        {
+          "id": "aws_e0ff0a62e2b701e21d7c",
+          "stationId": "awb_95295012f7234c7ac399",
+          "name": "Miku Radio",
+          "country": "JP",
+          "url": "https://miku.fm/listen/miku/mp3-320",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9d4aa07b-f080-4d6c-87e8-15c080c72dd2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T08:52:42Z"
         }
       ]
     },
@@ -2544,7 +2713,7 @@
             "d37f6140-a3c4-4b91-9d2c-801894a4c53d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T10:02:53Z"
+          "lastCheckedAt": "2026-10-17T13:49:09Z"
         }
       ]
     },
@@ -2580,7 +2749,7 @@
             "c3b639cc-ccc6-4c1d-bd3d-c6f46a8c6a16"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:12:16Z"
+          "lastCheckedAt": "2026-10-17T18:28:06Z"
         }
       ]
     },
@@ -2671,7 +2840,7 @@
             "a6d3e86c-0d17-4dd5-a587-5b30f31fd837"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:03:48Z"
+          "lastCheckedAt": "2026-10-17T17:40:55Z"
         }
       ]
     },
@@ -2715,7 +2884,7 @@
             "9a6855fe-1c7f-422b-a4bc-f15af3b347ff"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T06:20:37Z"
+          "lastCheckedAt": "2026-10-17T09:35:45Z"
         }
       ]
     },
@@ -2863,7 +3032,7 @@
             "61f37beb-ded9-4dfb-aef0-1715b835a155"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T20:10:34Z"
+          "lastCheckedAt": "2026-10-18T00:23:14Z"
         },
         {
           "id": "aws_1dac9257b4ec46e91d19",
@@ -2882,7 +3051,7 @@
             "c3567819-a747-4d38-9cdc-a97d601cd5fd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:25:06Z"
+          "lastCheckedAt": "2026-10-17T16:27:09Z"
         }
       ]
     },
@@ -2919,7 +3088,7 @@
             "3ffcb994-70f1-4040-bc24-142e680ecc96"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T10:04:27Z"
+          "lastCheckedAt": "2026-10-17T10:08:12Z"
         },
         {
           "id": "aws_4020b7472961c5497e02",
@@ -2975,7 +3144,7 @@
             "0ab05ce4-de0b-4c9d-9772-a9787354c3f7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:18:27Z"
+          "lastCheckedAt": "2026-10-17T17:11:47Z"
         },
         {
           "id": "aws_b4a9a8075d873eb6e514",
@@ -3068,7 +3237,7 @@
             "49439c31-b641-4251-b3b0-ab979ab514d2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T10:14:21Z"
+          "lastCheckedAt": "2026-10-17T12:13:38Z"
         }
       ]
     },
@@ -3142,7 +3311,7 @@
             "e93b7f21-b06d-4c2a-a3dc-cf87dbee0408"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T21:11:50Z"
+          "lastCheckedAt": "2026-10-17T21:39:36Z"
         }
       ]
     },
@@ -3220,7 +3389,7 @@
             "d57ca8c1-613c-4df4-bc94-e16fbe2fad6c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T20:02:50Z"
+          "lastCheckedAt": "2026-10-17T23:40:43Z"
         }
       ]
     },
@@ -3336,7 +3505,7 @@
             "661c6656-d27e-45dc-b60a-7f77e2c989a5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T19:22:27Z"
+          "lastCheckedAt": "2026-10-17T22:52:10Z"
         }
       ]
     },
@@ -3413,7 +3582,7 @@
             "9af1536b-1acd-11ea-a620-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:39:34Z"
+          "lastCheckedAt": "2026-10-17T08:39:24Z"
         }
       ]
     },
@@ -3448,7 +3617,7 @@
             "21fece77-9763-4223-8f01-358adbddeac7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T06:53:34Z"
+          "lastCheckedAt": "2026-10-17T10:08:12Z"
         }
       ]
     },
@@ -3533,7 +3702,7 @@
             "3ddece15-fd94-44a1-bf9c-6f62107e3d9d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:03:48Z"
+          "lastCheckedAt": "2026-10-17T18:02:05Z"
         }
       ]
     },
@@ -3572,7 +3741,7 @@
             "054efc50-2a18-43ae-8226-5bed835d78d5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T07:35:34Z"
+          "lastCheckedAt": "2026-10-17T10:45:01Z"
         }
       ]
     },
@@ -3609,7 +3778,7 @@
             "JP:otaku-music-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T01:20:27Z"
+          "lastCheckedAt": "2026-10-17T11:02:47Z"
         }
       ]
     },
@@ -3731,7 +3900,7 @@
             "JP:r-a-dio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:52:35Z"
+          "lastCheckedAt": "2026-10-17T16:26:17Z"
         }
       ]
     },
@@ -3768,7 +3937,7 @@
             "JP:radicro"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:32:30Z"
+          "lastCheckedAt": "2026-10-17T21:32:37Z"
         }
       ]
     },
@@ -3840,7 +4009,46 @@
             "0fd7abf3-e2c7-48c5-bb93-ab868fb3edb4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:15:11Z"
+          "lastCheckedAt": "2026-10-17T17:51:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a4c8c27676d77f6add28",
+      "name": "Radio Shiga",
+      "country": "JP",
+      "subdivision": "shiga",
+      "languages": [
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "culture"
+      ],
+      "homepage": "https://wp.radioshiga.com/",
+      "favicon": "https://cdn.radoxo.com/images/japan/radio-shiga.webp?v=1791194402",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T15:31:56Z",
+      "streams": [
+        {
+          "id": "aws_83117d13b1e68f62897d",
+          "stationId": "awb_a4c8c27676d77f6add28",
+          "name": "Radio Shiga",
+          "country": "JP",
+          "url": "https://sv10.hdradios.net:21920/stream",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b2805728-e405-406a-882a-021e76972b53"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T15:31:58Z"
         }
       ]
     },
@@ -3877,7 +4085,7 @@
             "JP:rainwave-all"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:07:40Z"
+          "lastCheckedAt": "2026-10-17T14:42:37Z"
         }
       ]
     },
@@ -3918,7 +4126,7 @@
             "45ea052e-37c2-403e-be57-8bf66daa86af"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:53:17Z"
+          "lastCheckedAt": "2026-10-17T21:37:24Z"
         }
       ]
     },
@@ -3962,7 +4170,7 @@
             "JP:replay-news-5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T05:21:26Z"
+          "lastCheckedAt": "2026-10-17T09:18:13Z"
         }
       ]
     },
@@ -4039,7 +4247,7 @@
             "0f2de9ed-ce97-432f-8786-c6af09b81c85"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T11:49:57Z"
+          "lastCheckedAt": "2026-10-17T11:59:24Z"
         },
         {
           "id": "aws_ab4708d23bd33ef64162",
@@ -4095,7 +4303,7 @@
             "fc7ccfdf-6e00-4d68-bb57-c8bf881510a0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T19:50:27Z"
+          "lastCheckedAt": "2026-10-17T20:49:54Z"
         }
       ]
     },
@@ -4224,7 +4432,7 @@
             "JP:sound-up-station-nfrs"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T08:58:02Z"
+          "lastCheckedAt": "2026-10-17T09:49:07Z"
         }
       ]
     },
@@ -4316,7 +4524,7 @@
             "ad5f4036-0f69-4327-ab2a-b481eea0edcd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:18:02Z"
+          "lastCheckedAt": "2026-10-17T17:52:39Z"
         }
       ]
     },
@@ -4560,7 +4768,7 @@
             "72f14258-8fb1-40d3-a161-426e2832a947"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T17:28:24Z"
+          "lastCheckedAt": "2026-10-17T19:30:26Z"
         }
       ]
     },
@@ -4648,7 +4856,7 @@
             "64039cf5-d820-456c-9c12-7b5bdefc76ac"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T11:42:40Z"
+          "lastCheckedAt": "2026-10-17T15:06:23Z"
         }
       ]
     },
@@ -4685,7 +4893,7 @@
             "f96b2ae2-fe8c-4248-a92d-3c86ebc8f50c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T10:37:36Z"
+          "lastCheckedAt": "2026-10-17T12:08:22Z"
         }
       ]
     },
@@ -4761,7 +4969,46 @@
             "df402746-9d27-4b53-8d07-ab4634ac8b66"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T12:44:13Z"
+          "lastCheckedAt": "2026-10-17T13:59:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0a36899ef60b3d6c94c8",
+      "name": "神戸長田FMわぃわぃ (Radio FMYY)",
+      "country": "JP",
+      "subdivision": "Kobe",
+      "languages": [
+        "ja"
+      ],
+      "categories": [],
+      "tags": [
+        "culture"
+      ],
+      "homepage": "https://tcc117.jp/fmyy/",
+      "favicon": "https://cdn.instant.audio/images/logos/jpradio-jp/fmyy.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-17T13:19:59Z",
+      "streams": [
+        {
+          "id": "aws_24f40da78828cc019985",
+          "stationId": "awb_0a36899ef60b3d6c94c8",
+          "name": "神戸長田FMわぃわぃ (Radio FMYY)",
+          "country": "JP",
+          "url": "https://tcc117.jp/fmyy/asx/simulbroadcast.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e06ae684-fbb4-43d0-ad17-4b9870703e6b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T13:20:01Z"
         }
       ]
     },
@@ -4805,7 +5052,7 @@
             "JP:hitsujikai-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T11:48:38Z"
+          "lastCheckedAt": "2026-10-17T13:09:01Z"
         }
       ]
     },

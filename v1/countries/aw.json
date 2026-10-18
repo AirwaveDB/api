@@ -1,7 +1,7 @@
 {
   "code": "AW",
-  "stationCount": 9,
-  "streamCount": 9,
+  "stationCount": 10,
+  "streamCount": 10,
   "stations": [
     {
       "id": "awb_39aafd06f5ba245d54d8",
@@ -38,7 +38,42 @@
             "bb8c267f-a112-4205-918f-03440401149a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T13:58:00Z"
+          "lastCheckedAt": "2026-10-17T15:09:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_db9d6b8915cb544e2cb6",
+      "name": "Bo Guia 88.9 FM",
+      "country": "AW",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://boguiafm.com/",
+      "favicon": "https://boguiafm.com/bo%20guia%20trans.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:07Z",
+      "streams": [
+        {
+          "id": "aws_d99de8dae45be9a43606",
+          "stationId": "awb_db9d6b8915cb544e2cb6",
+          "name": "Bo Guia 88.9 FM",
+          "country": "AW",
+          "url": "http://whooshserver.net:9880/live",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ff9a5046-1a1a-4b7b-878c-6e6d16a5d0b5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T22:52:10Z"
         }
       ]
     },
@@ -75,7 +110,7 @@
             "AW:canal90-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T15:21:49Z"
+          "lastCheckedAt": "2026-10-17T15:54:50Z"
         }
       ]
     },
@@ -110,7 +145,7 @@
             "3e89e76c-888d-44d5-92ce-ac2307ef7a22"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T11:10:42Z"
+          "lastCheckedAt": "2026-10-17T12:22:34Z"
         }
       ]
     },
@@ -153,7 +188,7 @@
             "962a0a81-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T12:34:44Z"
+          "lastCheckedAt": "2026-10-17T20:15:55Z"
         }
       ]
     },
@@ -273,7 +308,7 @@
             "a8179336-6750-49d5-a1ac-04674ac0c1f6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T15:25:09Z"
+          "lastCheckedAt": "2026-10-17T17:22:24Z"
         }
       ]
     },
@@ -323,7 +358,7 @@
             "0da60682-ef91-46ce-a50b-d8b9a08c2339"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T10:32:33Z"
+          "lastCheckedAt": "2026-10-17T12:07:27Z"
         }
       ]
     },
@@ -352,7 +387,7 @@
           "country": "AW",
           "url": "http://52.0.120.216:8000/stream/4/",
           "codec": "mp3",
-          "bitrate": 128,
+          "bitrate": 192,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -362,7 +397,7 @@
             "8b3905b1-3cfd-483b-a162-2c854c5cb615"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T20:53:58Z"
+          "lastCheckedAt": "2026-10-17T21:42:42Z"
         }
       ]
     }
