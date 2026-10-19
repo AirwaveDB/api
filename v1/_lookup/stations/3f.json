@@ -6952,7 +6952,7 @@
         "name": "Forever Young+ Radio",
         "country": "RO",
         "url": "https://stream.fyplus.ro/radio.aac",
-        "codec": null,
+        "codec": "aac",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -6963,7 +6963,7 @@
           "31910163-151e-4f9f-b243-d556059aafc4"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },
@@ -8842,6 +8842,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T16:02:48Z"
+      }
+    ]
+  },
+  "awb_3fbaa6b9510ffb523f3d": {
+    "id": "awb_3fbaa6b9510ffb523f3d",
+    "name": "KSKQ Community Radio",
+    "country": "US",
+    "subdivision": "Ashland, Oregon",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://kskq.org/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T22:23:33Z",
+    "streams": [
+      {
+        "id": "aws_7c3df2db67b4d693d52a",
+        "stationId": "awb_3fbaa6b9510ffb523f3d",
+        "name": "KSKQ Community Radio",
+        "country": "US",
+        "url": "https://kskq.org/",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "14013d51-93fe-4ae2-a8b9-22dfa8d0f99c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

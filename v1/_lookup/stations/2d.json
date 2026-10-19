@@ -4722,6 +4722,67 @@
       }
     ]
   },
+  "awb_2dc3c0355485bed86a0f": {
+    "id": "awb_2dc3c0355485bed86a0f",
+    "name": "Radi.fm Klassik DACH",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "ai",
+      "classical"
+    ],
+    "homepage": "https://radi.fm/KlassikDACH/",
+    "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T06:42:03Z",
+    "streams": [
+      {
+        "id": "aws_db2993bdd4e3016b54c2",
+        "stationId": "awb_2dc3c0355485bed86a0f",
+        "name": "Radi.fm Klassik DACH",
+        "country": "JP",
+        "url": "https://live.radi.fm/live/stn%3Adc8e0d915dad44e7/index.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "04b5608b-417d-4ba5-9ffd-cad6c1676d8b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
+      },
+      {
+        "id": "aws_3f6ba22739016fc689b7",
+        "stationId": "awb_2dc3c0355485bed86a0f",
+        "name": "Radi.fm Klassik DACH",
+        "country": "JP",
+        "url": "https://live.radi.fm/stream/de.aac",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5808e2da-b25a-49e7-9ba3-7667499f2d00"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_2de42a4d5a1c012a1919": {
     "id": "awb_2de42a4d5a1c012a1919",
     "name": "CRI Kiswahili",

@@ -3598,7 +3598,7 @@
           "f689bded-29d7-41f4-866d-55e0e18591db"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T17:14:28Z"
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },
@@ -5496,6 +5496,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T04:51:40Z"
+      }
+    ]
+  },
+  "awb_a3b9cb699eef26bc4c6e": {
+    "id": "awb_a3b9cb699eef26bc4c6e",
+    "name": "Radi.fm Nippon",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radi.fm/ClassicNippon/",
+    "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T11:15:30Z",
+    "streams": [
+      {
+        "id": "aws_3f80e5228e7bea33b7d7",
+        "stationId": "awb_a3b9cb699eef26bc4c6e",
+        "name": "Radi.fm Nippon",
+        "country": "JP",
+        "url": "https://live.radi.fm/live/stn%3Af7df1c8bba9c4e50/index.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1f016377-53ec-4c97-9c51-21d7ce54a7bd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
       }
     ]
   },
@@ -9540,8 +9575,8 @@
         "name": "WCCL 106.3 \"Bethel Radio\" Leesburg, Florida",
         "country": "US",
         "url": "https://stream-175.surfernetwork.com/2ftn47qehuhvv",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -9551,7 +9586,7 @@
           "4ae71ce2-ce33-4d02-be02-cc68383ef8d0"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },

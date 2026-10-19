@@ -468,7 +468,7 @@
         "name": "Radio Jai 96.3",
         "country": "AR",
         "url": "https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8",
-        "codec": null,
+        "codec": "unknown",
         "bitrate": 0,
         "protocol": "https",
         "hls": true,
@@ -479,7 +479,7 @@
           "9af2bdd6-4be6-4ff6-8dc2-439cb1c332f1"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
       }
     ]
   },
@@ -2152,8 +2152,8 @@
         "name": "LOVE FM: All you need is Love ♥ Música romántica",
         "country": "CR",
         "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 98,
         "protocol": "https",
         "hls": true,
         "sources": [
@@ -2163,7 +2163,7 @@
           "d6c71eee-2f7f-4b24-bc6c-43bc1317ace3"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
       }
     ]
   },
@@ -5460,6 +5460,67 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-16T23:31:37Z"
+      }
+    ]
+  },
+  "awb_76d9b18f58b0e0129113": {
+    "id": "awb_76d9b18f58b0e0129113",
+    "name": "Radi.fm Clásica Global",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "ai",
+      "classical"
+    ],
+    "homepage": "https://radi.fm/ClasicaGlobal/",
+    "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T06:40:54Z",
+    "streams": [
+      {
+        "id": "aws_5bec942d852450792b94",
+        "stationId": "awb_76d9b18f58b0e0129113",
+        "name": "Radi.fm Clásica Global",
+        "country": "JP",
+        "url": "https://live.radi.fm/live/stn%3Aac83060d5fc74312/index.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "01e97153-7b7c-496f-8da7-738bad56bdfe"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
+      },
+      {
+        "id": "aws_1b60f428678c04c3b57a",
+        "stationId": "awb_76d9b18f58b0e0129113",
+        "name": "Radi.fm Clásica Global",
+        "country": "JP",
+        "url": "https://live.radi.fm/stream/es.aac",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "838460ee-30f9-4aa6-92b0-0bdc4b9bd621"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

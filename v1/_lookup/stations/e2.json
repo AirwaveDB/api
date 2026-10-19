@@ -4058,6 +4058,50 @@
       }
     ]
   },
+  "awb_e233c32b8a0ddcf515bd": {
+    "id": "awb_e233c32b8a0ddcf515bd",
+    "name": "Radio Studio 20",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "news",
+      "regional"
+    ],
+    "homepage": "https://www.studio20.corsica/",
+    "favicon": "https://static.wixstatic.com/media/d42bf4_b344263d4a55490ca46d1c3a67655bc6~mv2.png/v1/fill/w_180,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d42bf4_b344263d4a55490ca46d1c3a67655bc6~mv2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T14:58:25Z",
+    "streams": [
+      {
+        "id": "aws_4d4589ea79fc07c687c2",
+        "stationId": "awb_e233c32b8a0ddcf515bd",
+        "name": "Radio Studio 20",
+        "country": "FR",
+        "url": "https://manager2.conceptradio.fr:1130/stream?27499=",
+        "codec": "aac",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "aa563a15-b644-4850-805e-763cba22f506"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
+      }
+    ]
+  },
   "awb_e2ad95b3f0c257739a86": {
     "id": "awb_e2ad95b3f0c257739a86",
     "name": "Up eXtra",
@@ -8741,6 +8785,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T16:13:52Z"
+      }
+    ]
+  },
+  "awb_e2a957c0ff03c33d3aa7": {
+    "id": "awb_e2a957c0ff03c33d3aa7",
+    "name": "Universe Night Radio",
+    "country": "US",
+    "subdivision": "CA",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://universenightradio.blogspot.com/",
+    "favicon": "https://universenightradio.blogspot.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T16:22:16Z",
+    "streams": [
+      {
+        "id": "aws_9275a8223f0fbb42445f",
+        "stationId": "awb_e2a957c0ff03c33d3aa7",
+        "name": "Universe Night Radio",
+        "country": "US",
+        "url": "http://unr.ishout.net/listen/universe_night_radio/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0c194bcc-47e0-46f6-a173-c0f392772976"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T02:35:15Z"
       }
     ]
   },

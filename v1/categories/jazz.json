@@ -1,6 +1,6 @@
 {
   "id": "jazz",
-  "stationCount": 1348,
+  "stationCount": 1352,
   "stations": [
     {
       "id": "awb_8ab5f415f8fd2ea4a774",
@@ -3492,7 +3492,7 @@
             "5da9e61c-add8-47d5-b648-3f4420fc4b60"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -6015,6 +6015,59 @@
       ]
     },
     {
+      "id": "awb_23119b9781026cb0b644",
+      "name": "WebRadioBR",
+      "country": "BR",
+      "subdivision": null,
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "ambient",
+        "electronic",
+        "jazz",
+        "metal",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "dance",
+        "electronic",
+        "indie",
+        "jazz",
+        "lounge",
+        "metal",
+        "rock",
+        "web radio"
+      ],
+      "homepage": "https://webradiobr.insidesign.com.br/",
+      "favicon": "https://webradiobr.insidesign.com.br/logo-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T14:15:36Z",
+      "streams": [
+        {
+          "id": "aws_b747e2f6d21d4d21ce5c",
+          "stationId": "awb_23119b9781026cb0b644",
+          "name": "WebRadioBR",
+          "country": "BR",
+          "url": "https://stream.webradiobr.insidesign.com.br/listen/webradiobr/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cdaa0235-dd3e-475b-9e9c-c7c9b13b312b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c6e9ccbf2116e75d7c1a",
       "name": "# 100 GREATEST JAZZ LOUNGE BAR",
       "country": "CA",
@@ -8407,7 +8460,7 @@
       "id": "awb_84f94cc037b298681456",
       "name": "Stingray Smoot Jazz",
       "country": "CA",
-      "subdivision": "Toronto, ON",
+      "subdivision": "Toronto",
       "languages": [],
       "categories": [
         "jazz"
@@ -8416,7 +8469,7 @@
         "jazz",
         "smooth jazz"
       ],
-      "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+      "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
       "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
       "type": null,
       "sourceCount": 3,
@@ -15990,7 +16043,7 @@
         "rock",
         "soul"
       ],
-      "homepage": "https://flaemingradio.de/",
+      "homepage": "https://www.flaemingradio.de/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -23957,7 +24010,7 @@
             "fe130409-f2ab-45a3-902c-56e115900e64"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -23997,7 +24050,7 @@
             "aa7f39fa-edab-4ecc-bb39-28d45c483f25"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -29759,6 +29812,56 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T23:13:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_27f44c37770984c8958e",
+      "name": "Voce Nustrale",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "co"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz",
+        "news",
+        "sports"
+      ],
+      "tags": [
+        "classical",
+        "folk",
+        "jazz",
+        "local music",
+        "news",
+        "sports"
+      ],
+      "homepage": "https://www.voce.pro/",
+      "favicon": "https://www.voce.pro//images/logo-voce-nustrale.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T14:29:44Z",
+      "streams": [
+        {
+          "id": "aws_5b9d5db4d035aa04038f",
+          "stationId": "awb_27f44c37770984c8958e",
+          "name": "Voce Nustrale",
+          "country": "FR",
+          "url": "https://vocenustrale.ice.infomaniak.ch/vocenustrale-128.mp3",
+          "codec": "mp3",
+          "bitrate": 100,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b6dfe21b-138b-413e-9a9b-db21c3097734"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -39076,7 +39179,7 @@
       "id": "awb_86acdf189014700b9853",
       "name": "yojosuknam Radio",
       "country": "KR",
-      "subdivision": "Seoul",
+      "subdivision": "Gyeonggi-do",
       "languages": [
         "en",
         "ko"
@@ -43354,6 +43457,48 @@
       ]
     },
     {
+      "id": "awb_599f1571eab2a9ccc0d9",
+      "name": "JazzWave Radio",
+      "country": "OM",
+      "subdivision": "Muscat",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "homepage": "https://jazzwaveradio.webradiosite.com/",
+      "favicon": "https://platform-upload.cdn-brlogic.com/246202/logo/2110a5264b0e40cecc62a70b644715be.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T12:47:41Z",
+      "streams": [
+        {
+          "id": "aws_6c49e6ef38d84d575a39",
+          "stationId": "awb_599f1571eab2a9ccc0d9",
+          "name": "JazzWave Radio",
+          "country": "OM",
+          "url": "https://servidor19.brlogic.com:7126/live",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e06ee212-1fc0-4e10-aff8-6c97966e2b9e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5a1e8dc3301a8868fced",
       "name": "Radio Exitosa",
       "country": "PE",
@@ -43418,7 +43563,7 @@
         "smooth jazz"
       ],
       "homepage": "https://latremenda.pe/",
-      "favicon": "https://renewed-amaranth-wsrjzdvewp.edgeone.app/logo_latremenda.jpg",
+      "favicon": "https://imgur.com/a/vahyGFo",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-08-24",
@@ -45051,7 +45196,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radiaura.net/apple-touch-icon.png",
+      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -55492,6 +55637,52 @@
       ]
     },
     {
+      "id": "awb_72c35fb8fa9af153be0e",
+      "name": "KDKI-LP 103.9 Twin Falls, Idaho",
+      "country": "US",
+      "subdivision": "Idaho",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "1930",
+        "1930s",
+        "1940s",
+        "1950s",
+        "big band",
+        "classic jazz"
+      ],
+      "homepage": "https://www.kdki.org/",
+      "favicon": "https://cdn-profiles.tunein.com/s232298/images/logod.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T20:04:43Z",
+      "streams": [
+        {
+          "id": "aws_715402ef81d218116b8b",
+          "stationId": "awb_72c35fb8fa9af153be0e",
+          "name": "KDKI-LP 103.9 Twin Falls, Idaho",
+          "country": "US",
+          "url": "https://s47.myradiostream.com/:14800/",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c3d1bc76-c588-4cfe-b2bd-3f524d4d1d6a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_de2a62d481f433985be0",
       "name": "KEUL 106.9 \"The Soul Of Sacramento\" Sacramento, California",
       "country": "US",
@@ -61509,7 +61700,7 @@
             "46910332-733f-4bcf-951c-d9b5ebf35c2e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },

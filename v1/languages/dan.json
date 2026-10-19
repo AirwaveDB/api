@@ -1,7 +1,7 @@
 {
   "code": "dan",
   "canonicalCode": "da",
-  "stationCount": 95,
+  "stationCount": 96,
   "stations": [
     {
       "id": "awb_7448e6c1dec24e614151",
@@ -2727,6 +2727,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T21:42:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c45ce9e2df9409b98526",
+      "name": "Mix FM",
+      "country": "DK",
+      "subdivision": null,
+      "languages": [
+        "da"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://mixfm.dk/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T12:52:33Z",
+      "streams": [
+        {
+          "id": "aws_8da5cbf5decc6c006b10",
+          "stationId": "awb_c45ce9e2df9409b98526",
+          "name": "Mix FM",
+          "country": "DK",
+          "url": "https://hello.citrus3.com:2020/stream/mixfm",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1742050b-b9d5-4335-b6b3-2d6a48801295"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },

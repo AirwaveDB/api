@@ -1,6 +1,6 @@
 {
   "id": "sports",
-  "stationCount": 868,
+  "stationCount": 869,
   "stations": [
     {
       "id": "awb_10ca8b5c03a36ce2fd6c",
@@ -7579,7 +7579,7 @@
         "noticias"
       ],
       "homepage": "https://emisorascolombianas.online/caracol-en-vivo/",
-      "favicon": "https://emisorascolombianas.online/logos/caracol-en-vivo.png",
+      "favicon": "https://emisorascolombianas.online/default-logo.svg",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-19T21:37:13Z",
@@ -8864,7 +8864,7 @@
     },
     {
       "id": "awb_c92e661791babe438ff3",
-      "name": "ČRO Radiožurnál sport Adhoc stream 2",
+      "name": "ČRO Radiožurnál sport AdHoc stream 2",
       "country": "CZ",
       "subdivision": null,
       "languages": [
@@ -15374,6 +15374,56 @@
       ]
     },
     {
+      "id": "awb_27f44c37770984c8958e",
+      "name": "Voce Nustrale",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "co"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz",
+        "news",
+        "sports"
+      ],
+      "tags": [
+        "classical",
+        "folk",
+        "jazz",
+        "local music",
+        "news",
+        "sports"
+      ],
+      "homepage": "https://www.voce.pro/",
+      "favicon": "https://www.voce.pro//images/logo-voce-nustrale.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T14:29:44Z",
+      "streams": [
+        {
+          "id": "aws_5b9d5db4d035aa04038f",
+          "stationId": "awb_27f44c37770984c8958e",
+          "name": "Voce Nustrale",
+          "country": "FR",
+          "url": "https://vocenustrale.ice.infomaniak.ch/vocenustrale-128.mp3",
+          "codec": "mp3",
+          "bitrate": 100,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b6dfe21b-138b-413e-9a9b-db21c3097734"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3d8ed89c9732adb74670",
       "name": "Xiberoko Botza Irratia",
       "country": "FR",
@@ -15504,7 +15554,7 @@
             "22cf6ca2-cb22-46e3-bc75-ae0f8edc4e4b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -15545,7 +15595,7 @@
             "e3740a99-2ce3-413f-b6d4-074620d4243b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -15586,7 +15636,7 @@
             "578283ad-ddd8-4027-984e-c35b8ffa8270"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -15627,7 +15677,7 @@
             "80c172b6-4d4a-405d-8342-6427a373bca4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -20827,7 +20877,7 @@
             "96295b39-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:25:22Z"
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         },
         {
           "id": "aws_dc6bc5feb0502ba73619",
@@ -36614,7 +36664,7 @@
     },
     {
       "id": "awb_157cae45a63d534142e8",
-      "name": "TalkSport",
+      "name": "Talksport",
       "country": "UG",
       "subdivision": null,
       "languages": [
@@ -36626,7 +36676,7 @@
       "tags": [
         "sports"
       ],
-      "homepage": "https://radio.talksport.com/stream",
+      "homepage": "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957",
       "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241102_165602672.jpg?alt=media&token=e2a175e1-3810-4929-84e8-77833dbb5cfd",
       "type": null,
       "sourceCount": 3,
@@ -38883,7 +38933,7 @@
         "the nation’s premiere sports lineup"
       ],
       "homepage": "http://www.foxsportsradio.com/",
-      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NxjbCTIAKVhtl5ndaYjM2JHlo0g2Ksr8zYoHwos-vQ&s",
+      "favicon": "https://i.iheart.com/v3/re/assets.brands/5e972321d790eb6e190b8f7d",
       "type": null,
       "sourceCount": 7,
       "updatedAt": "2026-05-10T03:51:53Z",
@@ -43151,8 +43201,8 @@
           "name": "WUCR 107.9 \"Tiger Stream Radio\" - Lake Butler, Florida",
           "country": "US",
           "url": "http://streamer.radio.co/s2ac87bedd/listen",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -43162,7 +43212,7 @@
             "70da5340-e9e1-4882-803f-c1bd86d8f5bc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },

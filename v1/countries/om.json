@@ -1,7 +1,7 @@
 {
   "code": "OM",
-  "stationCount": 10,
-  "streamCount": 10,
+  "stationCount": 11,
+  "streamCount": 11,
   "stations": [
     {
       "id": "awb_cb817a639e807a1b2a72",
@@ -243,6 +243,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T14:15:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_599f1571eab2a9ccc0d9",
+      "name": "JazzWave Radio",
+      "country": "OM",
+      "subdivision": "Muscat",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz",
+        "smooth jazz"
+      ],
+      "homepage": "https://jazzwaveradio.webradiosite.com/",
+      "favicon": "https://platform-upload.cdn-brlogic.com/246202/logo/2110a5264b0e40cecc62a70b644715be.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T12:47:41Z",
+      "streams": [
+        {
+          "id": "aws_6c49e6ef38d84d575a39",
+          "stationId": "awb_599f1571eab2a9ccc0d9",
+          "name": "JazzWave Radio",
+          "country": "OM",
+          "url": "https://servidor19.brlogic.com:7126/live",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e06ee212-1fc0-4e10-aff8-6c97966e2b9e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },

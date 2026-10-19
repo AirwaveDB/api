@@ -1,6 +1,6 @@
 {
   "code": "co",
-  "stationCount": 1,
+  "stationCount": 2,
   "stations": [
     {
       "id": "awb_4e46e32c6bcc86c78f8d",
@@ -42,6 +42,56 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T11:19:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_27f44c37770984c8958e",
+      "name": "Voce Nustrale",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "co"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz",
+        "news",
+        "sports"
+      ],
+      "tags": [
+        "classical",
+        "folk",
+        "jazz",
+        "local music",
+        "news",
+        "sports"
+      ],
+      "homepage": "https://www.voce.pro/",
+      "favicon": "https://www.voce.pro//images/logo-voce-nustrale.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T14:29:44Z",
+      "streams": [
+        {
+          "id": "aws_5b9d5db4d035aa04038f",
+          "stationId": "awb_27f44c37770984c8958e",
+          "name": "Voce Nustrale",
+          "country": "FR",
+          "url": "https://vocenustrale.ice.infomaniak.ch/vocenustrale-128.mp3",
+          "codec": "mp3",
+          "bitrate": 100,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b6dfe21b-138b-413e-9a9b-db21c3097734"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     }

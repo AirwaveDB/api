@@ -1,7 +1,7 @@
 {
   "code": "ES",
-  "stationCount": 1223,
-  "streamCount": 1292,
+  "stationCount": 1224,
+  "streamCount": 1293,
   "stations": [
     {
       "id": "awb_ca1cd74495e85993d715",
@@ -9565,7 +9565,7 @@
             "7ec365b0-7b3c-11ea-8a3b-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T20:30:46Z"
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -11624,7 +11624,7 @@
         "hardstyle",
         "music"
       ],
-      "homepage": "https://decibeliafm.es/web/",
+      "homepage": "https://decibeliafm.es/",
       "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
       "type": null,
       "sourceCount": 2,
@@ -21297,8 +21297,8 @@
           "name": "Josema MSX Radio",
           "country": "ES",
           "url": "https://radio.josema.zapto.org:8443/listen/msx/radio.mp3",
-          "codec": "mp3",
-          "bitrate": 96,
+          "codec": "aac",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -21309,7 +21309,7 @@
             "ffe71234-db25-4cdf-8e27-d544d2a2523b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -22930,7 +22930,7 @@
             "13620a89-1e4c-4459-8cd3-ea01d72ad268"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -23357,7 +23357,7 @@
       "tags": [
         "hits"
       ],
-      "homepage": "http://www.locafm.com/",
+      "homepage": "https://www.locafm.com/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -26614,7 +26614,7 @@
             "ab6a1372-1364-4db8-848e-6bca16ef8523"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -29021,7 +29021,7 @@
             "f689bded-29d7-41f4-866d-55e0e18591db"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T17:14:28Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -44192,7 +44192,7 @@
         "metal",
         "rock"
       ],
-      "homepage": "https://www.radiopermu.org/#body",
+      "homepage": "https://www.radiopermu.org/",
       "favicon": "https://www.radiopermu.org/images/logos/radiopermu_logo_250.png",
       "type": null,
       "sourceCount": 2,
@@ -50668,6 +50668,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T14:11:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_df6f9e7ba4eb76789aff",
+      "name": "Xerez DFC Radio",
+      "country": "ES",
+      "subdivision": "JEREZ",
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "españa"
+      ],
+      "homepage": "https://xerezdfc.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T16:08:24Z",
+      "streams": [
+        {
+          "id": "aws_a47ff64cd66da2fc6edd",
+          "stationId": "awb_df6f9e7ba4eb76789aff",
+          "name": "Xerez DFC Radio",
+          "country": "ES",
+          "url": "https://streaming2.elitecomunicacion.es:8618/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b173db3b-9d59-476d-b19e-6c3c9978141f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },

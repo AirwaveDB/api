@@ -4791,6 +4791,67 @@
       }
     ]
   },
+  "awb_7a11cafe4187387f78f1": {
+    "id": "awb_7a11cafe4187387f78f1",
+    "name": "Radi.fm Classical Global",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "ai",
+      "classical"
+    ],
+    "homepage": "https://radi.fm/ClassicalGlobal/",
+    "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T06:42:03Z",
+    "streams": [
+      {
+        "id": "aws_f52ca2558a1212492246",
+        "stationId": "awb_7a11cafe4187387f78f1",
+        "name": "Radi.fm Classical Global",
+        "country": "JP",
+        "url": "https://live.radi.fm/live/stn%3A69ac40e04d0644b2/index.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "67e19fba-0617-4ac8-9f94-3cc90a0b2c14"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
+      },
+      {
+        "id": "aws_1cd1043282886d977d25",
+        "stationId": "awb_7a11cafe4187387f78f1",
+        "name": "Radi.fm Classical Global",
+        "country": "JP",
+        "url": "https://live.radi.fm/stream/en.aac",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a9e24bdd-0f5e-490e-88d5-a1fa1c0ac7e3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_7afff9eb57fdadc99000": {
     "id": "awb_7afff9eb57fdadc99000",
     "name": "Wellon Radio Cafe",

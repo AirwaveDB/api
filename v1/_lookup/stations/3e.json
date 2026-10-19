@@ -4323,6 +4323,41 @@
       }
     ]
   },
+  "awb_3ee372370613a0b7f115": {
+    "id": "awb_3ee372370613a0b7f115",
+    "name": "Radio Oxygène",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.oxygeneradio.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T07:29:54Z",
+    "streams": [
+      {
+        "id": "aws_b2f493a1356cc181c05a",
+        "stationId": "awb_3ee372370613a0b7f115",
+        "name": "Radio Oxygène",
+        "country": "FR",
+        "url": "https://icecast.oxygeneradio.fr:8443/OxygeneRadio.aac",
+        "codec": "aac",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "067ed490-ac87-4a1c-b50a-2c5a524f27b0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T02:35:15Z"
+      }
+    ]
+  },
   "awb_3e806bf7b9a885d06825": {
     "id": "awb_3e806bf7b9a885d06825",
     "name": "RFI Persian",
@@ -4359,6 +4394,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T18:41:18Z"
+      }
+    ]
+  },
+  "awb_3e050152e9c0639b6101": {
+    "id": "awb_3e050152e9c0639b6101",
+    "name": "RLM Bastia",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "radio lycées montesoro"
+    ],
+    "homepage": "https://rlmbastia.com/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3JFWKxQeV56JN_4An79jMb97xBIFFwaLNPJ4XbH_vw&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T14:31:48Z",
+    "streams": [
+      {
+        "id": "aws_397e4b0caccc4312db9d",
+        "stationId": "awb_3e050152e9c0639b6101",
+        "name": "RLM Bastia",
+        "country": "FR",
+        "url": "https://listen.radioking.com/radio/653326/stream/719476",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "de5b6171-5261-47e4-b5be-25cad9768673"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },
@@ -9978,9 +10052,9 @@
         "stationId": "awb_3ea1f16650201898db5a",
         "name": "WURL 760 - Moody, Alabama",
         "country": "US",
-        "url": "https://ice5.securenetsystems.net/WURL.m3u",
-        "codec": null,
-        "bitrate": 0,
+        "url": "https://ice5.securenetsystems.net:80/WURL",
+        "codec": "aac",
+        "bitrate": 64,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -9990,7 +10064,7 @@
           "81699fa6-3151-4540-ae55-e843a638f745"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },

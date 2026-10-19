@@ -1144,9 +1144,9 @@
   },
   "awb_ceac03347026f81dacb7": {
     "id": "awb_ceac03347026f81dacb7",
-    "name": "��� � ����� �����������",
+    "name": "��� � ����� �����",
     "country": "BG",
-    "subdivision": "Blagoevgrad",
+    "subdivision": "Sofia City",
     "languages": [
       "bg"
     ],
@@ -1160,7 +1160,7 @@
       "public radio",
       "talk"
     ],
-    "homepage": "https://bnrnews.bg/blagoevgrad",
+    "homepage": "https://bnrnews.bg/sofia",
     "favicon": null,
     "type": "public",
     "sourceCount": 8,
@@ -2539,7 +2539,7 @@
           "961b8b60-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T19:48:17Z"
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
       }
     ]
   },
@@ -3053,7 +3053,7 @@
           "14d31dc6-d7c4-42c8-9154-350007ae3a6e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T19:59:43Z"
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
       }
     ]
   },
@@ -9254,6 +9254,48 @@
       }
     ]
   },
+  "awb_ce909e30732c879382ac": {
+    "id": "awb_ce909e30732c879382ac",
+    "name": "Dead Dog Kennel Radio",
+    "country": "US",
+    "subdivision": "Alabama",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "edm",
+      "experimental electronic music"
+    ],
+    "homepage": "https://deaddogkennel.club/home/",
+    "favicon": "https://deaddogkennel.club/home/favicon.gif",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T17:56:01Z",
+    "streams": [
+      {
+        "id": "aws_9b07edd488625b8cf57e",
+        "stationId": "awb_ce909e30732c879382ac",
+        "name": "Dead Dog Kennel Radio",
+        "country": "US",
+        "url": "https://deaddogkennel.club/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5329e679-a013-4ae2-9974-586522af3658"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T02:35:15Z"
+      }
+    ]
+  },
   "awb_ce6d847109221eab96e9": {
     "id": "awb_ce6d847109221eab96e9",
     "name": "Hank's Old Time Radio",
@@ -9652,7 +9694,49 @@
           "ed0be60f-48dc-4ae8-8940-d2d3c27a29f3"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-13T22:04:58Z"
+        "lastCheckedAt": "2026-10-19T02:35:15Z"
+      }
+    ]
+  },
+  "awb_ce5fe58e08b82b466142": {
+    "id": "awb_ce5fe58e08b82b466142",
+    "name": "WITT 91.9 \"Unpredictable Radio\" Indianapolis, Indiana",
+    "country": "US",
+    "subdivision": "Indiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "music variety"
+    ],
+    "homepage": "https://919witt.org/",
+    "favicon": "https://radiorethink.s3.us-west-2.amazonaws.com/img/stations/witt/WITT-Tuner-Logo.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T19:21:56Z",
+    "streams": [
+      {
+        "id": "aws_6b5ccd9d8cd698e27736",
+        "stationId": "awb_ce5fe58e08b82b466142",
+        "name": "WITT 91.9 \"Unpredictable Radio\" Indianapolis, Indiana",
+        "country": "US",
+        "url": "https://www.919witt.stream/stream",
+        "codec": "mp3",
+        "bitrate": 140,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "db2c0466-d3a1-402a-968c-4643e8ee34a5"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },

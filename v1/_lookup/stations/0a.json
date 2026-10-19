@@ -1549,7 +1549,7 @@
           "acf5ec8a-5d50-4a77-8cbc-d29b726dad21"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-13T22:04:58Z"
+        "lastCheckedAt": "2026-10-19T02:35:15Z"
       }
     ]
   },
@@ -4396,8 +4396,8 @@
     "homepage": "https://www.bhaktiworldmedia.com/",
     "favicon": "https://drive.google.com/file/d/1ss3WB6C6RAiIQgZQfnMoxhNsYcVUnhYb/view?usp=drive_link",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-14T22:54:07Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-19T05:14:24Z",
     "streams": [
       {
         "id": "aws_66fd6a7049f9771883e9",
@@ -4413,7 +4413,7 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "ac970874-8d3b-46f6-8dee-b735a386caa6",
+          "4596607d-1d6b-4a6a-b01d-ce2da6a1edd4",
           "b36dacea-9f5d-490a-a4a2-5224c92f242c"
         ],
         "lastCheckOk": true,
@@ -5257,6 +5257,69 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-16T10:22:01Z"
+      }
+    ]
+  },
+  "awb_0aa2a8b3e384e00f0fb9": {
+    "id": "awb_0aa2a8b3e384e00f0fb9",
+    "name": "100.9 Chetumal FM (Chetumal) - 100.9 FM - XHCHE-FM - SQCS (Sistema Quintanarroense de Comunicación Social) - Chetumal, Quintana Roo",
+    "country": "MX",
+    "subdivision": "Chetumal, Quintana Roo",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "public"
+    ],
+    "tags": [
+      "100.9 fm",
+      "américa",
+      "chetumal",
+      "chetumal fm",
+      "entretenimiento",
+      "español",
+      "estación",
+      "fm",
+      "gobierno del estado de quintana roo",
+      "la hora nacional",
+      "latinoamérica",
+      "moi merino",
+      "music",
+      "música",
+      "música en español",
+      "norteamérica",
+      "public",
+      "public radio",
+      "public service",
+      "pública",
+      "radio pública",
+      "sistema quintanarroense de comunicación social",
+      "sureste"
+    ],
+    "homepage": "https://sqcs.com.mx/",
+    "favicon": "https://cdn-profiles.tunein.com/s91388/images/logod.jpg",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T01:06:13Z",
+    "streams": [
+      {
+        "id": "aws_ddfafb9ceb927cec414a",
+        "stationId": "awb_0aa2a8b3e384e00f0fb9",
+        "name": "100.9 Chetumal FM (Chetumal) - 100.9 FM - XHCHE-FM - SQCS (Sistema Quintanarroense de Comunicación Social) - Chetumal, Quintana Roo",
+        "country": "MX",
+        "url": "https://sp2.servidorrprivado.com/3981/stream",
+        "codec": "mp3",
+        "bitrate": 160,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "497c68be-2cfd-443c-86f8-79c097f94094"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T02:35:15Z"
       }
     ]
   },
@@ -7618,6 +7681,56 @@
       }
     ]
   },
+  "awb_0a56f29a81aa4e7b28e4": {
+    "id": "awb_0a56f29a81aa4e7b28e4",
+    "name": "Dr.DIO Radio",
+    "country": "UA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "ambient",
+      "chillout",
+      "deep house",
+      "downtempo",
+      "electronic",
+      "focus",
+      "instrumental",
+      "lounge",
+      "study"
+    ],
+    "homepage": "https://drdio.studio/radio",
+    "favicon": "https://drdio.studio/static/channel_avatar.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T10:56:06Z",
+    "streams": [
+      {
+        "id": "aws_62372a81252828446d61",
+        "stationId": "awb_0a56f29a81aa4e7b28e4",
+        "name": "Dr.DIO Radio",
+        "country": "UA",
+        "url": "https://drdio.studio/stream/live.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "759f46ed-7a0f-4ae1-9e1e-949fad8eaffe"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
+      }
+    ]
+  },
   "awb_0a3453ff218af04a6423": {
     "id": "awb_0a3453ff218af04a6423",
     "name": "Radio ROCKS Новий Рок 103.6FM HD",
@@ -8538,6 +8651,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T20:49:54Z"
+      }
+    ]
+  },
+  "awb_0a810c1d69971e3ef33f": {
+    "id": "awb_0a810c1d69971e3ef33f",
+    "name": "Stargate Radio",
+    "country": "US",
+    "subdivision": "Missouri",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radio.generaljackoneill.space/public/stargate_radio",
+    "favicon": "https://radio.generaljackoneill.space/static/uploads/stargate_radio/background.1789868315.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T06:08:37Z",
+    "streams": [
+      {
+        "id": "aws_5f1cc8b846c075906dd0",
+        "stationId": "awb_0a810c1d69971e3ef33f",
+        "name": "Stargate Radio",
+        "country": "US",
+        "url": "https://radio.generaljackoneill.space/listen/stargate_radio/radio.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "307ec9a7-4928-45aa-92a6-db9a3f46a991"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

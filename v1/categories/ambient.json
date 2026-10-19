@@ -1,6 +1,6 @@
 {
   "id": "ambient",
-  "stationCount": 1055,
+  "stationCount": 1058,
   "stations": [
     {
       "id": "awb_f3a472b44392f167951e",
@@ -2139,7 +2139,7 @@
             "fea94ff2-24ee-4a69-b858-8396942cfe11"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -4462,6 +4462,59 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T05:28:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_23119b9781026cb0b644",
+      "name": "WebRadioBR",
+      "country": "BR",
+      "subdivision": null,
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "ambient",
+        "electronic",
+        "jazz",
+        "metal",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "dance",
+        "electronic",
+        "indie",
+        "jazz",
+        "lounge",
+        "metal",
+        "rock",
+        "web radio"
+      ],
+      "homepage": "https://webradiobr.insidesign.com.br/",
+      "favicon": "https://webradiobr.insidesign.com.br/logo-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T14:15:36Z",
+      "streams": [
+        {
+          "id": "aws_b747e2f6d21d4d21ce5c",
+          "stationId": "awb_23119b9781026cb0b644",
+          "name": "WebRadioBR",
+          "country": "BR",
+          "url": "https://stream.webradiobr.insidesign.com.br/listen/webradiobr/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cdaa0235-dd3e-475b-9e9c-c7c9b13b312b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -17746,7 +17799,7 @@
             "963d0354-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T19:50:27Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -21082,7 +21135,7 @@
             "7e487787-b12d-47c8-8764-158731c05a59"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T22:05:53Z"
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -24161,7 +24214,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao-Radio",
+      "name": "Cacao Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -25167,6 +25220,48 @@
       ]
     },
     {
+      "id": "awb_fd05d3d16373077d2dec",
+      "name": "Kalizo Radio Lo-fi",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chillout",
+        "lo-fi"
+      ],
+      "homepage": "https://www.kalizoradio.com/",
+      "favicon": "https://www.kalizoradio.com/images/lofi-square.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T06:42:03Z",
+      "streams": [
+        {
+          "id": "aws_4c7557be7ef03f34fe3d",
+          "stationId": "awb_fd05d3d16373077d2dec",
+          "name": "Kalizo Radio Lo-fi",
+          "country": "FR",
+          "url": "https://streams.dez.ovh/listen/chillofi/radio.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "54d05162-e97b-4a67-a33b-e3ab763013d0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_c5509640570f5b4430ed",
       "name": "MANARADIO",
       "country": "FR",
@@ -25295,7 +25390,7 @@
         "study"
       ],
       "homepage": "https://mugenradio.com/",
-      "favicon": "https://mugenradio.com/cover-mugen-300.png",
+      "favicon": "https://mugenradio.com/cover-mugen-3000.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-06-25T15:09:39Z",
@@ -37341,7 +37436,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radiaura.net/apple-touch-icon.png",
+      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -43344,6 +43439,56 @@
       ]
     },
     {
+      "id": "awb_0a56f29a81aa4e7b28e4",
+      "name": "Dr.DIO Radio",
+      "country": "UA",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient",
+        "electronic"
+      ],
+      "tags": [
+        "ambient",
+        "chillout",
+        "deep house",
+        "downtempo",
+        "electronic",
+        "focus",
+        "instrumental",
+        "lounge",
+        "study"
+      ],
+      "homepage": "https://drdio.studio/radio",
+      "favicon": "https://drdio.studio/static/channel_avatar.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T10:56:06Z",
+      "streams": [
+        {
+          "id": "aws_62372a81252828446d61",
+          "stationId": "awb_0a56f29a81aa4e7b28e4",
+          "name": "Dr.DIO Radio",
+          "country": "UA",
+          "url": "https://drdio.studio/stream/live.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "759f46ed-7a0f-4ae1-9e1e-949fad8eaffe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2f0be43b5ae8b8295fb8",
       "name": "Lounge FM",
       "country": "UA",
@@ -43359,8 +43504,8 @@
         "chillout",
         "lounge"
       ],
-      "homepage": "https://loungefm.com.ua/",
-      "favicon": "https://loungefm.com.ua/img/icon-144x144.png",
+      "homepage": "https://loungefm.com.ua/chill",
+      "favicon": "https://loungefm.com.ua/img/favicon/favicon.ico",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-24",

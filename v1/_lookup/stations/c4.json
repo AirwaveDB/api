@@ -3174,6 +3174,43 @@
       }
     ]
   },
+  "awb_c45ce9e2df9409b98526": {
+    "id": "awb_c45ce9e2df9409b98526",
+    "name": "Mix FM",
+    "country": "DK",
+    "subdivision": null,
+    "languages": [
+      "da"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://mixfm.dk/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T12:52:33Z",
+    "streams": [
+      {
+        "id": "aws_8da5cbf5decc6c006b10",
+        "stationId": "awb_c45ce9e2df9409b98526",
+        "name": "Mix FM",
+        "country": "DK",
+        "url": "https://hello.citrus3.com:2020/stream/mixfm",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1742050b-b9d5-4335-b6b3-2d6a48801295"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
+      }
+    ]
+  },
   "awb_c4b84e8ecc81cbdb67db": {
     "id": "awb_c4b84e8ecc81cbdb67db",
     "name": "Radio IIII",
@@ -5414,6 +5451,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T20:59:49Z"
+      }
+    ]
+  },
+  "awb_c4e87d19199db10b8f64": {
+    "id": "awb_c4e87d19199db10b8f64",
+    "name": "M-1 Radio",
+    "country": "LT",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://m-1.15min.lt/",
+    "favicon": "https://m-1.15min.lt/content/themes/m-1/mlogo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T22:21:27Z",
+    "streams": [
+      {
+        "id": "aws_364a0c871ec740d497a7",
+        "stationId": "awb_c4e87d19199db10b8f64",
+        "name": "M-1 Radio",
+        "country": "LT",
+        "url": "https://stream.m-1.fm/m1/mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "482b510c-3a44-4f6c-a809-6c6a43d3b4dd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },
@@ -9198,8 +9270,8 @@
         "name": "WLJR 88.5 FM - Birmingham, Alabama",
         "country": "US",
         "url": "https://media.streambrothers.com:2000/radio/8478/stream",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 64,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -9209,7 +9281,7 @@
           "6417f176-f910-408d-9206-67379f6f9430"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
       }
     ]
   },

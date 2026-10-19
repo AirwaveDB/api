@@ -1,6 +1,6 @@
 {
   "id": "community",
-  "stationCount": 933,
+  "stationCount": 938,
   "stations": [
     {
       "id": "awb_264633f48847fb757bbd",
@@ -226,7 +226,7 @@
           "name": "Radio Jai 96.3",
           "country": "AR",
           "url": "https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8",
-          "codec": null,
+          "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
           "hls": true,
@@ -237,7 +237,7 @@
             "9af2bdd6-4be6-4ff6-8dc2-439cb1c332f1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -9087,7 +9087,7 @@
             "5da9e61c-add8-47d5-b648-3f4420fc4b60"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -14564,7 +14564,7 @@
     },
     {
       "id": "awb_cf43b81c65d37d9dc650",
-      "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+      "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
       "country": "CA",
       "subdivision": "Quebec",
       "languages": [
@@ -14582,7 +14582,7 @@
         "talk",
         "trad"
       ],
-      "homepage": "http://cfnj.net/",
+      "homepage": "http://www.cfnj.net/",
       "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
       "type": "community",
       "sourceCount": 2,
@@ -16462,6 +16462,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T17:30:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1e5691a048a05c7dce2a",
+      "name": "CJAI 101.3 \"Island Radio\" - Stella, Ontario",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "bingo",
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "https://www.cjai.ca/",
+      "favicon": "https://www.cjai.ca/_next/image?url=%2Fimages%2Fisland-radio-logo-sunset.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T23:59:05Z",
+      "streams": [
+        {
+          "id": "aws_8774642b647ff519cfa7",
+          "stationId": "awb_1e5691a048a05c7dce2a",
+          "name": "CJAI 101.3 \"Island Radio\" - Stella, Ontario",
+          "country": "CA",
+          "url": "https://audio-edge-es6pf.mia.g.radiomast.io/949b775a-ba1f-4344-9d6f-b4c614892263",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "819d1b08-ea3d-471f-ab3c-5e2e051241a6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -31163,7 +31206,7 @@
       "id": "awb_8a0d399c51b7ae5a645a",
       "name": "MeerRadio",
       "country": "NL",
-      "subdivision": "Noord-Holland",
+      "subdivision": "Noord-Holland, Haarlemmermeer",
       "languages": [
         "nl"
       ],
@@ -31177,7 +31220,7 @@
         "local news",
         "pop music"
       ],
-      "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
+      "homepage": "https://meerradio.nl/",
       "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
       "type": "community",
       "sourceCount": 2,
@@ -36171,6 +36214,48 @@
       ]
     },
     {
+      "id": "awb_4641f7233fd3fb120d8a",
+      "name": "KNHA 100.9 \"Yosemite Radio\" - Coulterville, California",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "https://yosemiteradio.org/",
+      "favicon": "https://i0.wp.com/yosemiteradio.org/wp-content/uploads/2025/10/NevermoreRavenBG2c.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T12:26:05Z",
+      "streams": [
+        {
+          "id": "aws_29849c647ca1e2e66a5b",
+          "stationId": "awb_4641f7233fd3fb120d8a",
+          "name": "KNHA 100.9 \"Yosemite Radio\" - Coulterville, California",
+          "country": "US",
+          "url": "https://s6.myradiostream.com:50516/stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bc71b453-9444-4880-883d-7701c284c26c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c199580ae47d50eee345",
       "name": "KNIL-LP 95.9 \"Creighton Community Radio\" - Creighton, Nebraska",
       "country": "US",
@@ -38000,6 +38085,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T07:02:04Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e37399b87c5a97fde437",
+      "name": "KWSS 93.9 - Scottsdale/Phoenix, Arizona",
+      "country": "US",
+      "subdivision": "Arizona",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "variety"
+      ],
+      "homepage": "https://kwss.org/",
+      "favicon": "https://kwss.org/wp-content/uploads/KWSS-20TH-ANNIVERSARY-1-465x465.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T17:15:33Z",
+      "streams": [
+        {
+          "id": "aws_3f944b480c9cf3f481d7",
+          "stationId": "awb_e37399b87c5a97fde437",
+          "name": "KWSS 93.9 - Scottsdale/Phoenix, Arizona",
+          "country": "US",
+          "url": "https://cast5.asurahosting.com/proxy/kwssradi/stream",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5a072448-c1be-4bc7-9c68-4136fabf0a63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -40407,6 +40534,48 @@
       ]
     },
     {
+      "id": "awb_ce5fe58e08b82b466142",
+      "name": "WITT 91.9 \"Unpredictable Radio\" Indianapolis, Indiana",
+      "country": "US",
+      "subdivision": "Indiana",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "https://919witt.org/",
+      "favicon": "https://radiorethink.s3.us-west-2.amazonaws.com/img/stations/witt/WITT-Tuner-Logo.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T19:21:56Z",
+      "streams": [
+        {
+          "id": "aws_6b5ccd9d8cd698e27736",
+          "stationId": "awb_ce5fe58e08b82b466142",
+          "name": "WITT 91.9 \"Unpredictable Radio\" Indianapolis, Indiana",
+          "country": "US",
+          "url": "https://www.919witt.stream/stream",
+          "codec": "mp3",
+          "bitrate": 140,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "db2c0466-d3a1-402a-968c-4643e8ee34a5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8dde15b9bc1b280209cb",
       "name": "WIZU 99.9 Radio Newark",
       "country": "US",
@@ -40630,7 +40799,7 @@
             "7eee0d0c-b7dd-4174-a5c9-008d5e867652"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -40707,8 +40876,8 @@
           "name": "WMTG 88.1 - Mount Gilead, North Carolina",
           "country": "US",
           "url": "https://s6.reliastream.com/proxy/wmtg/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -40718,7 +40887,7 @@
             "5fef7910-848d-4aa5-8ede-dc18e5a13d93"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -41068,6 +41237,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T18:54:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7bed575f95260311c78d",
+      "name": "WQRT 99.1 Indianapolis, Indiana",
+      "country": "US",
+      "subdivision": "Indiana",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "https://www.wqrt.org/",
+      "favicon": "https://images.squarespace-cdn.com/content/v1/58ac7b1cb8a79be9101a74f2/1611607009841-33UO30SO12X8MDAE2SP6/WQRT-logo-color-hor-B.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T20:04:43Z",
+      "streams": [
+        {
+          "id": "aws_24ba9e3229788a8e506f",
+          "stationId": "awb_7bed575f95260311c78d",
+          "name": "WQRT 99.1 Indianapolis, Indiana",
+          "country": "US",
+          "url": "https://cast6.my-control-panel.com/proxy/wqrt/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f252464c-c4e7-4fe4-a4f8-a1898b3dff29"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -41947,7 +42158,7 @@
             "736d6add-9c0d-45c0-a5b0-5fa1a04a1d56"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },

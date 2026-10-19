@@ -1,6 +1,6 @@
 {
   "id": "classical",
-  "stationCount": 1601,
+  "stationCount": 1609,
   "stations": [
     {
       "id": "awb_b3f1b3a695c80821cbff",
@@ -34058,6 +34058,56 @@
       ]
     },
     {
+      "id": "awb_27f44c37770984c8958e",
+      "name": "Voce Nustrale",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "co"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz",
+        "news",
+        "sports"
+      ],
+      "tags": [
+        "classical",
+        "folk",
+        "jazz",
+        "local music",
+        "news",
+        "sports"
+      ],
+      "homepage": "https://www.voce.pro/",
+      "favicon": "https://www.voce.pro//images/logo-voce-nustrale.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T14:29:44Z",
+      "streams": [
+        {
+          "id": "aws_5b9d5db4d035aa04038f",
+          "stationId": "awb_27f44c37770984c8958e",
+          "name": "Voce Nustrale",
+          "country": "FR",
+          "url": "https://vocenustrale.ice.infomaniak.ch/vocenustrale-128.mp3",
+          "codec": "mp3",
+          "bitrate": 100,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b6dfe21b-138b-413e-9a9b-db21c3097734"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c6becc0722cb08a59ef8",
       "name": "إذاعة القرآن الكريم",
       "country": "FR",
@@ -38729,6 +38779,56 @@
       ]
     },
     {
+      "id": "awb_73afb21326488f6aefb6",
+      "name": "Radio FM MELODY GR",
+      "country": "GR",
+      "subdivision": "Central Macedonia",
+      "languages": [
+        "el",
+        "en"
+      ],
+      "categories": [
+        "classical",
+        "latin",
+        "pop"
+      ],
+      "tags": [
+        "classical",
+        "greek music",
+        "instrumental",
+        "latin",
+        "pop",
+        "variety"
+      ],
+      "homepage": "https://mcr2.streams.gr/station/fmmelodygr",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-18T21:32:35Z",
+      "streams": [
+        {
+          "id": "aws_34fda23f9e58e5c21cf1",
+          "stationId": "awb_73afb21326488f6aefb6",
+          "name": "Radio FM MELODY GR",
+          "country": "GR",
+          "url": "http://mcr2.streams.gr:10076/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0afe689a-0800-427f-8ebe-b94ce26aaa9e",
+            "9b9f71ff-3a0d-475f-8017-91ef84f233b3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
+        }
+      ]
+    },
+    {
       "id": "awb_30ac0ab1d8c4811386ce",
       "name": "Real Classic",
       "country": "GR",
@@ -42153,7 +42253,7 @@
             "473aac0a-d7fe-4337-9a48-b7513d5f4151"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T14:15:07Z"
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -43088,6 +43188,352 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T21:49:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_76d9b18f58b0e0129113",
+      "name": "Radi.fm Clásica Global",
+      "country": "JP",
+      "subdivision": "Tokyo",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "ai",
+        "classical"
+      ],
+      "homepage": "https://radi.fm/ClasicaGlobal/",
+      "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T06:40:54Z",
+      "streams": [
+        {
+          "id": "aws_5bec942d852450792b94",
+          "stationId": "awb_76d9b18f58b0e0129113",
+          "name": "Radi.fm Clásica Global",
+          "country": "JP",
+          "url": "https://live.radi.fm/live/stn%3Aac83060d5fc74312/index.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "01e97153-7b7c-496f-8da7-738bad56bdfe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        },
+        {
+          "id": "aws_1b60f428678c04c3b57a",
+          "stationId": "awb_76d9b18f58b0e0129113",
+          "name": "Radi.fm Clásica Global",
+          "country": "JP",
+          "url": "https://live.radi.fm/stream/es.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "838460ee-30f9-4aa6-92b0-0bdc4b9bd621"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_7a11cafe4187387f78f1",
+      "name": "Radi.fm Classical Global",
+      "country": "JP",
+      "subdivision": "Tokyo",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "ai",
+        "classical"
+      ],
+      "homepage": "https://radi.fm/ClassicalGlobal/",
+      "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T06:42:03Z",
+      "streams": [
+        {
+          "id": "aws_f52ca2558a1212492246",
+          "stationId": "awb_7a11cafe4187387f78f1",
+          "name": "Radi.fm Classical Global",
+          "country": "JP",
+          "url": "https://live.radi.fm/live/stn%3A69ac40e04d0644b2/index.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "67e19fba-0617-4ac8-9f94-3cc90a0b2c14"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        },
+        {
+          "id": "aws_1cd1043282886d977d25",
+          "stationId": "awb_7a11cafe4187387f78f1",
+          "name": "Radi.fm Classical Global",
+          "country": "JP",
+          "url": "https://live.radi.fm/stream/en.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a9e24bdd-0f5e-490e-88d5-a1fa1c0ac7e3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_2dc3c0355485bed86a0f",
+      "name": "Radi.fm Klassik DACH",
+      "country": "JP",
+      "subdivision": "Tokyo",
+      "languages": [
+        "de"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "ai",
+        "classical"
+      ],
+      "homepage": "https://radi.fm/KlassikDACH/",
+      "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T06:42:03Z",
+      "streams": [
+        {
+          "id": "aws_db2993bdd4e3016b54c2",
+          "stationId": "awb_2dc3c0355485bed86a0f",
+          "name": "Radi.fm Klassik DACH",
+          "country": "JP",
+          "url": "https://live.radi.fm/live/stn%3Adc8e0d915dad44e7/index.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "04b5608b-417d-4ba5-9ffd-cad6c1676d8b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        },
+        {
+          "id": "aws_3f6ba22739016fc689b7",
+          "stationId": "awb_2dc3c0355485bed86a0f",
+          "name": "Radi.fm Klassik DACH",
+          "country": "JP",
+          "url": "https://live.radi.fm/stream/de.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5808e2da-b25a-49e7-9ba3-7667499f2d00"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_6eef2fbe4cb981e13712",
+      "name": "Radi.fm Monde Classique",
+      "country": "JP",
+      "subdivision": "Tokyo",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "ai",
+        "classical"
+      ],
+      "homepage": "https://radi.fm/MondeClassique/",
+      "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T06:40:54Z",
+      "streams": [
+        {
+          "id": "aws_abe8db22c17d033d60c5",
+          "stationId": "awb_6eef2fbe4cb981e13712",
+          "name": "Radi.fm Monde Classique",
+          "country": "JP",
+          "url": "https://live.radi.fm/live/stn%3A0af489e6915b4f23/index.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "08fed690-0878-4319-bf55-db17bcde744f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        },
+        {
+          "id": "aws_40470de60f53189503b2",
+          "stationId": "awb_6eef2fbe4cb981e13712",
+          "name": "Radi.fm Monde Classique",
+          "country": "JP",
+          "url": "https://live.radi.fm/stream/fr.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e0485a8b-0fc9-445a-97fe-95b701cdcec9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_291418f292ccc2bafe6f",
+      "name": "Radi.fm クラシック Nippon",
+      "country": "JP",
+      "subdivision": "Tokyo",
+      "languages": [
+        "ja"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://radi.fm/ClassicNippon/",
+      "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T06:44:21Z",
+      "streams": [
+        {
+          "id": "aws_cd7c4450b64d5dd52dec",
+          "stationId": "awb_291418f292ccc2bafe6f",
+          "name": "Radi.fm クラシック Nippon",
+          "country": "JP",
+          "url": "https://live.radi.fm/stream/ja.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "baa56155-7308-4085-bcf6-174e5bb22494"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_1212211687bcbf6b623a",
+      "name": "Radi.fm 中文古典音乐",
+      "country": "JP",
+      "subdivision": "Tokyo",
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "ai",
+        "classical"
+      ],
+      "homepage": "https://radi.fm/ZhongwenGudianYinyue/",
+      "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T06:44:58Z",
+      "streams": [
+        {
+          "id": "aws_ca4ab8526a32dc0013ac",
+          "stationId": "awb_1212211687bcbf6b623a",
+          "name": "Radi.fm 中文古典音乐",
+          "country": "JP",
+          "url": "https://live.radi.fm/live/stn%3A5a8b2c0eb17b4d64/index.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "32ea3bdb-9010-43fa-be37-160f11c1c897"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        },
+        {
+          "id": "aws_ca430ccf277e04282a21",
+          "stationId": "awb_1212211687bcbf6b623a",
+          "name": "Radi.fm 中文古典音乐",
+          "country": "JP",
+          "url": "https://live.radi.fm/stream/zh.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "836b2af3-7941-4c02-b5bc-ed28e46cda43"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -59413,7 +59859,7 @@
         "kultur"
       ],
       "homepage": "https://ukr.radio/channel.html?channelID=3",
-      "favicon": "https://s2.vcdn.biz/static/f/4621116611/image.jpg",
+      "favicon": "https://www.tvchannellists.com/wiki/images/b/b1/Radio_Kultura.png",
       "type": null,
       "sourceCount": 5,
       "updatedAt": "2026-09-01T18:39:43Z",

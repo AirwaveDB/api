@@ -1,6 +1,6 @@
 {
   "code": "ja",
-  "stationCount": 119,
+  "stationCount": 120,
   "stations": [
     {
       "id": "awb_672ac2806e24265df098",
@@ -3531,6 +3531,47 @@
       ]
     },
     {
+      "id": "awb_291418f292ccc2bafe6f",
+      "name": "Radi.fm クラシック Nippon",
+      "country": "JP",
+      "subdivision": "Tokyo",
+      "languages": [
+        "ja"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://radi.fm/ClassicNippon/",
+      "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T06:44:21Z",
+      "streams": [
+        {
+          "id": "aws_cd7c4450b64d5dd52dec",
+          "stationId": "awb_291418f292ccc2bafe6f",
+          "name": "Radi.fm クラシック Nippon",
+          "country": "JP",
+          "url": "https://live.radi.fm/stream/ja.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "baa56155-7308-4085-bcf6-174e5bb22494"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_bf2463efb2a57ffdd605",
       "name": "RadiCro (レディクロ)",
       "country": "JP",
@@ -5421,7 +5462,7 @@
             "ae2453a5-341d-4897-a214-9b99e4950a89"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },

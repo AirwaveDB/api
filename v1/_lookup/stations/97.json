@@ -6010,6 +6010,41 @@
       }
     ]
   },
+  "awb_97b038577d11fde3c7ca": {
+    "id": "awb_97b038577d11fde3c7ca",
+    "name": "Lucky Joe Radio",
+    "country": "NL",
+    "subdivision": "Nieuw Buinen",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.luckyjoe.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T12:00:55Z",
+    "streams": [
+      {
+        "id": "aws_ab8b01a11183125ff6ed",
+        "stationId": "awb_97b038577d11fde3c7ca",
+        "name": "Lucky Joe Radio",
+        "country": "NL",
+        "url": "https://radio.luckyjoe.nl/stream/lucky-joe",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "164a0c89-cae8-4ce6-9bba-5dc9d3c6c230"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
+      }
+    ]
+  },
   "awb_973497fc086138b5bc02": {
     "id": "awb_973497fc086138b5bc02",
     "name": "Radio Calypso 64 kbps AAC Plus Stream",
@@ -8609,6 +8644,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T05:26:33Z"
+      }
+    ]
+  },
+  "awb_97f2429b32348dac06a0": {
+    "id": "awb_97f2429b32348dac06a0",
+    "name": "WKTT 106.6 (We Know The Truth)",
+    "country": "US",
+    "subdivision": "Liberty City",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "talk"
+    ],
+    "tags": [
+      "political talk",
+      "talk"
+    ],
+    "homepage": "https://gtaradio.net/",
+    "favicon": "https://gta.wiki/images/ViceCityFM.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T18:33:00Z",
+    "streams": [
+      {
+        "id": "aws_22ca94805ecc2d14a8e6",
+        "stationId": "awb_97f2429b32348dac06a0",
+        "name": "WKTT 106.6 (We Know The Truth)",
+        "country": "US",
+        "url": "https://audio.gtaradio.net/4/wktt",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3156c76d-0f79-4e28-abfc-6ddc388aef59"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },

@@ -1042,6 +1042,48 @@
       }
     ]
   },
+  "awb_0e3d2f2c4ccb16901338": {
+    "id": "awb_0e3d2f2c4ccb16901338",
+    "name": "CJLU 93.9 \"Nova Scotia's Inspire FM\" Dartmouth/Halifax, Nova Scotia",
+    "country": "CA",
+    "subdivision": "Nova Scotia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian preaching",
+      "gospel music"
+    ],
+    "homepage": "http://www.inspire.fm/",
+    "favicon": "https://assets.godcaster.fm/image_322_1766079905.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T00:32:07Z",
+    "streams": [
+      {
+        "id": "aws_c84f45d6dfb688969b26",
+        "stationId": "awb_0e3d2f2c4ccb16901338",
+        "name": "CJLU 93.9 \"Nova Scotia's Inspire FM\" Dartmouth/Halifax, Nova Scotia",
+        "country": "CA",
+        "url": "https://harvestersfm.radioca.st/CJLU",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a5bdebc6-2103-4c59-bf22-5569b6abcd2e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_0e714d2f4d8f431dac65": {
     "id": "awb_0e714d2f4d8f431dac65",
     "name": "CKDJ-FM 107.9 Algonquin College, Ottawa, ON (MP3 Stream)",
@@ -4131,7 +4173,7 @@
           "14544540-61b2-47aa-bb80-86fe6c09aa1a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T16:10:31Z"
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
       }
     ]
   },
@@ -8546,8 +8588,8 @@
         "stationId": "awb_0e5d36d84c41c555d076",
         "name": "WDXB \"102.5 The Bull\" - Birmingham, Alabama",
         "country": "US",
-        "url": "https://stream.revma.ihrhls.com/zc3089.m3u",
-        "codec": null,
+        "url": "https://n26b-e2.revma.ihrhls.com/zc3089",
+        "codec": "aac",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -8558,7 +8600,7 @@
           "17958225-4028-43a0-af2c-76298aab1ea7"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },

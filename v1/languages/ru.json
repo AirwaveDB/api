@@ -1,6 +1,6 @@
 {
   "code": "ru",
-  "stationCount": 1542,
+  "stationCount": 1544,
   "stations": [
     {
       "id": "awb_08a84e7502607c0b2990",
@@ -7275,7 +7275,7 @@
             "76e9ac0d-fbbb-4169-8627-52eaaf208735"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T00:53:43Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -7330,6 +7330,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T05:22:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_91e28ac1200817eab55e",
+      "name": "101.RU - Дискотека СССР",
+      "country": "RU",
+      "subdivision": "Moscow (Russia)",
+      "languages": [
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "nostalgia",
+        "retro"
+      ],
+      "homepage": "https://101.ru/radio/channel/144",
+      "favicon": "https://i.imgur.com/EQPXIuJ.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T17:56:01Z",
+      "streams": [
+        {
+          "id": "aws_762c5c2b11c891f586e1",
+          "stationId": "awb_91e28ac1200817eab55e",
+          "name": "101.RU - Дискотека СССР",
+          "country": "RU",
+          "url": "https://pub0201.101.ru/stream/pro/aac/64/144",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dc3592d3-3ada-4aae-ae41-0e4a1f5096ef"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -9583,7 +9623,7 @@
       "id": "awb_bb18e22d61efdf04b4fe",
       "name": "BRİDGE TV",
       "country": "RU",
-      "subdivision": "Moscow",
+      "subdivision": "Moscow (Russia)",
       "languages": [
         "en",
         "ru"
@@ -9594,7 +9634,7 @@
       "tags": [
         "pop music"
       ],
-      "homepage": "https://bridgetv.ru/about/channels/",
+      "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
       "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
       "type": null,
       "sourceCount": 3,
@@ -11361,7 +11401,7 @@
             "e248b080-9195-42e1-909f-b43a7a3d935f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -12042,7 +12082,7 @@
         "house"
       ],
       "homepage": "https://kamchatkalive.ru/",
-      "favicon": "https://kamchatkalive.ru/img/dance.jpg",
+      "favicon": "https://kamchatkalive.ru/img/house.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-12T11:07:02Z",
@@ -44980,6 +45020,43 @@
       ]
     },
     {
+      "id": "awb_d40dad6d5e3ebfe3bd2f",
+      "name": "Песни всех времен",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "ru"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://pub0102.101.ru:8443/stream/personal/aacp/64/792012",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T06:38:02Z",
+      "streams": [
+        {
+          "id": "aws_d0a54e86988c29ca9649",
+          "stationId": "awb_d40dad6d5e3ebfe3bd2f",
+          "name": "Песни всех времен",
+          "country": "RU",
+          "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/792012",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5376cec4-ca35-48b4-ade6-a53f88a1eb1e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_72b86f5371fdccd10e94",
       "name": "Пи FM",
       "country": "RU",
@@ -63029,7 +63106,7 @@
     },
     {
       "id": "awb_6a099e7d3c6d0b4bfad9",
-      "name": "ЧИСТАЯ ВОЛНА",
+      "name": "Чистая волна",
       "country": "RU",
       "subdivision": null,
       "languages": [
@@ -65468,7 +65545,7 @@
             "ed0be60f-48dc-4ae8-8940-d2d3c27a29f3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },

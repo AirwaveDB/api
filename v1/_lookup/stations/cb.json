@@ -7892,9 +7892,9 @@
         "stationId": "awb_cbc5b44ca86e29517915",
         "name": "WCKA 810 AM/94.3 FM/97.1 FM - Jacksonville, Alabama",
         "country": "US",
-        "url": "https://ice64.securenetsystems.net/WCKA.m3u",
-        "codec": null,
-        "bitrate": 0,
+        "url": "https://ice64.securenetsystems.net:80/WCKA",
+        "codec": "aac+",
+        "bitrate": 64,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -7904,7 +7904,7 @@
           "0deb2492-6ec8-40f9-95a4-4d229ec6f89c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
       }
     ]
   },

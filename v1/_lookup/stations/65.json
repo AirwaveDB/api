@@ -4192,6 +4192,48 @@
       }
     ]
   },
+  "awb_6530be3546afb74dc4b6": {
+    "id": "awb_6530be3546afb74dc4b6",
+    "name": "AI Slop FM",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "ai music",
+      "ai-generated",
+      "eclectic",
+      "listener-rated"
+    ],
+    "homepage": "https://aislop.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T21:58:53Z",
+    "streams": [
+      {
+        "id": "aws_72c5ea7b666d66056bca",
+        "stationId": "awb_6530be3546afb74dc4b6",
+        "name": "AI Slop FM",
+        "country": "GB",
+        "url": "https://radio.aislop.fm/listen/ai_slop_fm/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f29122b1-32d6-4d32-b559-87d74219fc4c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
+      }
+    ]
+  },
   "awb_65d52c91db07e3239e97": {
     "id": "awb_65d52c91db07e3239e97",
     "name": "BBC Radio Cambridgeshire",
@@ -8427,7 +8469,7 @@
         "country": "US",
         "url": "http://listento.kqamradio.com:8016/stream",
         "codec": "mp3",
-        "bitrate": 120,
+        "bitrate": 96,
         "protocol": "http",
         "hls": false,
         "sources": [
@@ -8437,7 +8479,7 @@
           "ba58abda-2366-4429-b21b-e1471afd8bd0"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-12T16:18:02Z"
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },

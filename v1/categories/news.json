@@ -1,6 +1,6 @@
 {
   "id": "news",
-  "stationCount": 4493,
+  "stationCount": 4496,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -18147,9 +18147,9 @@
     },
     {
       "id": "awb_ceac03347026f81dacb7",
-      "name": "��� � ����� �����������",
+      "name": "��� � ����� �����",
       "country": "BG",
-      "subdivision": "Blagoevgrad",
+      "subdivision": "Sofia City",
       "languages": [
         "bg"
       ],
@@ -18163,7 +18163,7 @@
         "public radio",
         "talk"
       ],
-      "homepage": "https://bnrnews.bg/blagoevgrad",
+      "homepage": "https://bnrnews.bg/sofia",
       "favicon": null,
       "type": "public",
       "sourceCount": 8,
@@ -52368,7 +52368,7 @@
         "noticias"
       ],
       "homepage": "https://emisorascolombianas.online/caracol-en-vivo/",
-      "favicon": "https://emisorascolombianas.online/logos/caracol-en-vivo.png",
+      "favicon": "https://emisorascolombianas.online/default-logo.svg",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-19T21:37:13Z",
@@ -53808,6 +53808,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T07:04:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9e8be9693ef2715d4f97",
+      "name": "la nueva stereo 102.7 socorro santander",
+      "country": "CO",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "crossover",
+        "noticias",
+        "tropical"
+      ],
+      "homepage": "https://www.emisoralanueva.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T22:51:48Z",
+      "streams": [
+        {
+          "id": "aws_486d8034b8bae8abbbf6",
+          "stationId": "awb_9e8be9693ef2715d4f97",
+          "name": "la nueva stereo 102.7 socorro santander",
+          "country": "CO",
+          "url": "https://sonic.paulatina.co:10887/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aea2f8cd-a203-4fa9-95b7-cb82503bc60c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -56761,7 +56802,7 @@
     },
     {
       "id": "awb_c92e661791babe438ff3",
-      "name": "ČRO Radiožurnál sport Adhoc stream 2",
+      "name": "ČRO Radiožurnál sport AdHoc stream 2",
       "country": "CZ",
       "subdivision": null,
       "languages": [
@@ -80062,7 +80103,7 @@
             "963b7e6f-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:47:07Z"
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -82541,6 +82582,50 @@
       ]
     },
     {
+      "id": "awb_e233c32b8a0ddcf515bd",
+      "name": "Radio Studio 20",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "news",
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "news",
+        "regional"
+      ],
+      "homepage": "https://www.studio20.corsica/",
+      "favicon": "https://static.wixstatic.com/media/d42bf4_b344263d4a55490ca46d1c3a67655bc6~mv2.png/v1/fill/w_180,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d42bf4_b344263d4a55490ca46d1c3a67655bc6~mv2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T14:58:25Z",
+      "streams": [
+        {
+          "id": "aws_4d4589ea79fc07c687c2",
+          "stationId": "awb_e233c32b8a0ddcf515bd",
+          "name": "Radio Studio 20",
+          "country": "FR",
+          "url": "https://manager2.conceptradio.fr:1130/stream?27499=",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aa563a15-b644-4850-805e-763cba22f506"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4e66bf50b19977e066b2",
       "name": "Radio Top Side",
       "country": "FR",
@@ -83695,7 +83780,7 @@
         "talk"
       ],
       "homepage": "https://www.tbm06.fr/radio/",
-      "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
+      "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-20T17:58:29Z",
@@ -83813,6 +83898,56 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T23:07:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_27f44c37770984c8958e",
+      "name": "Voce Nustrale",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "co"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz",
+        "news",
+        "sports"
+      ],
+      "tags": [
+        "classical",
+        "folk",
+        "jazz",
+        "local music",
+        "news",
+        "sports"
+      ],
+      "homepage": "https://www.voce.pro/",
+      "favicon": "https://www.voce.pro//images/logo-voce-nustrale.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T14:29:44Z",
+      "streams": [
+        {
+          "id": "aws_5b9d5db4d035aa04038f",
+          "stationId": "awb_27f44c37770984c8958e",
+          "name": "Voce Nustrale",
+          "country": "FR",
+          "url": "https://vocenustrale.ice.infomaniak.ch/vocenustrale-128.mp3",
+          "codec": "mp3",
+          "bitrate": 100,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b6dfe21b-138b-413e-9a9b-db21c3097734"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -84631,7 +84766,7 @@
             "22cf6ca2-cb22-46e3-bc75-ae0f8edc4e4b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -109332,7 +109467,7 @@
             "19902011-9715-4b1c-98af-c0e219b1ccba"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T20:56:11Z"
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -111765,7 +111900,7 @@
             "96295b39-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:25:22Z"
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         },
         {
           "id": "aws_dc6bc5feb0502ba73619",
@@ -116171,6 +116306,49 @@
       ]
     },
     {
+      "id": "awb_9a74defb5b0dbe518710",
+      "name": "Radio.lk",
+      "country": "LK",
+      "subdivision": null,
+      "languages": [
+        "si"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "entertainment",
+        "music",
+        "news"
+      ],
+      "homepage": "https://radio.lk/",
+      "favicon": "https://i.imgur.com/RWR11qb.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T09:47:04Z",
+      "streams": [
+        {
+          "id": "aws_6a4e74c301d86009cfe1",
+          "stationId": "awb_9a74defb5b0dbe518710",
+          "name": "Radio.lk",
+          "country": "LK",
+          "url": "https://stream.zeno.fm/fz1quc2fzacuv",
+          "codec": "aac",
+          "bitrate": 56,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "425e8c93-790d-4100-9868-f107923af220"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_33f0cdb7ade8c7015029",
       "name": "Rajarata Sewaya",
       "country": "LK",
@@ -116706,7 +116884,7 @@
       "id": "awb_f0418ec6f2a427f541db",
       "name": "Radijo Stotis Kelyje",
       "country": "LT",
-      "subdivision": "Kaunas",
+      "subdivision": "Vilnius",
       "languages": [
         "lt"
       ],
@@ -120413,6 +120591,82 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T21:17:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9990a32fe61b0c99f027",
+      "name": "+Radio Bemba (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
+      "country": "MX",
+      "subdivision": "Veracruz, Veracruz",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "news",
+        "oldies"
+      ],
+      "tags": [
+        "américa",
+        "boca del río",
+        "classic salsa",
+        "domingo lucas",
+        "entretenimiento",
+        "español",
+        "estación",
+        "latin salsa",
+        "latinoamérica",
+        "local",
+        "local music",
+        "local radio",
+        "moi merino",
+        "music",
+        "méxico",
+        "música tropical",
+        "norteamérica",
+        "noticias locales",
+        "online",
+        "online only",
+        "radio",
+        "radio bemba",
+        "radio local",
+        "radio online",
+        "salsa",
+        "salsa 80s 90s",
+        "salsa colombiana",
+        "sureste",
+        "tropical",
+        "tropical music",
+        "veracruz",
+        "veracruz city",
+        "youth programs"
+      ],
+      "homepage": "https://www.radiobembaveracruz.com/",
+      "favicon": "https://cdn-profiles.tunein.com/s251775/images/logod.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-17T17:08:40Z",
+      "streams": [
+        {
+          "id": "aws_557dabddaf559a8f51e6",
+          "stationId": "awb_9990a32fe61b0c99f027",
+          "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
+          "country": "MX",
+          "url": "https://radio.e-ver.com.mx:8001/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0efd923f-8eac-405e-a652-2b227d113b18",
+            "9ba295c0-15e0-4d2e-82b3-8d464e523e63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T17:08:42Z"
         }
       ]
     },
@@ -137877,7 +138131,7 @@
             "a5e633f2-c696-451a-9f19-b2f17900eb33"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:35:34Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -137960,7 +138214,7 @@
             "72331819-dfcb-44f6-9e94-92f1a28b3965"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:05:36Z"
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -149221,82 +149475,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T11:13:08Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9990a32fe61b0c99f027",
-      "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
-      "country": "MX",
-      "subdivision": "Veracruz, Veracruz",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "latin",
-        "news",
-        "oldies"
-      ],
-      "tags": [
-        "américa",
-        "boca del río",
-        "classic salsa",
-        "domingo lucas",
-        "entretenimiento",
-        "español",
-        "estación",
-        "latin salsa",
-        "latinoamérica",
-        "local",
-        "local music",
-        "local radio",
-        "moi merino",
-        "music",
-        "méxico",
-        "música tropical",
-        "norteamérica",
-        "noticias locales",
-        "online",
-        "online only",
-        "radio",
-        "radio bemba",
-        "radio local",
-        "radio online",
-        "salsa",
-        "salsa 80s 90s",
-        "salsa colombiana",
-        "sureste",
-        "tropical",
-        "tropical music",
-        "veracruz",
-        "veracruz city",
-        "youth programs"
-      ],
-      "homepage": "https://www.radiobembaveracruz.com/",
-      "favicon": "https://i.postimg.cc/qM3fT6P7/radiobemba.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-17T17:08:40Z",
-      "streams": [
-        {
-          "id": "aws_557dabddaf559a8f51e6",
-          "stationId": "awb_9990a32fe61b0c99f027",
-          "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
-          "country": "MX",
-          "url": "https://radio.e-ver.com.mx:8001/live",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0efd923f-8eac-405e-a652-2b227d113b18",
-            "9ba295c0-15e0-4d2e-82b3-8d464e523e63"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T17:08:42Z"
         }
       ]
     },
@@ -167382,7 +167560,7 @@
       "id": "awb_8a0d399c51b7ae5a645a",
       "name": "MeerRadio",
       "country": "NL",
-      "subdivision": "Noord-Holland",
+      "subdivision": "Noord-Holland, Haarlemmermeer",
       "languages": [
         "nl"
       ],
@@ -167396,7 +167574,7 @@
         "local news",
         "pop music"
       ],
-      "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
+      "homepage": "https://meerradio.nl/",
       "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
       "type": "community",
       "sourceCount": 2,
@@ -167900,7 +168078,7 @@
       "id": "awb_a7dd28c5f273b7244e3a",
       "name": "Omroep Lekstroom",
       "country": "NL",
-      "subdivision": "Bergveste 2, DE HOUTEN",
+      "subdivision": "Utrecht, De Houten, Bergveste 2",
       "languages": [
         "nl"
       ],
@@ -173416,7 +173594,7 @@
             "8848d5b1-0e01-40d7-b190-96b3d3177e80"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T21:24:03Z"
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -179391,7 +179569,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radiaura.net/apple-touch-icon.png",
+      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -198633,7 +198811,7 @@
           "country": "US",
           "url": "http://listento.kqamradio.com:8016/stream",
           "codec": "mp3",
-          "bitrate": 120,
+          "bitrate": 96,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -198643,7 +198821,7 @@
             "ba58abda-2366-4429-b21b-e1471afd8bd0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-12T16:18:02Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -207958,50 +208136,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T09:37:59Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_dd74cda3962c1535749a",
-      "name": "NewsTalk 93.9 & 910 WSBA",
-      "country": "US",
-      "subdivision": "Pennsylvania",
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "news",
-        "talk"
-      ],
-      "tags": [
-        "news",
-        "news talk",
-        "talk"
-      ],
-      "homepage": "https://www.newstalkwsba.com/",
-      "favicon": "https://media-cdn.socastsrm.com/uploads/station/3321/squareIcon.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-18T01:40:57Z",
-      "streams": [
-        {
-          "id": "aws_ba299a2bde250db8e60c",
-          "stationId": "awb_dd74cda3962c1535749a",
-          "name": "NewsTalk 93.9 & 910 WSBA",
-          "country": "US",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WSBAAMAAC.aac",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "4d6badac-609c-4f17-9e94-183de5513eee"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },

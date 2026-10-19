@@ -1,7 +1,7 @@
 {
   "code": "zho",
   "canonicalCode": "zh",
-  "stationCount": 2032,
+  "stationCount": 2033,
   "stations": [
     {
       "id": "awb_a2962db32ca5ed989369",
@@ -22995,7 +22995,7 @@
       "id": "awb_023f2667c997817c3da6",
       "name": "哈尔滨经济广播",
       "country": "CN",
-      "subdivision": "黑龙江",
+      "subdivision": "Amur River",
       "languages": [
         "zh"
       ],
@@ -50641,7 +50641,7 @@
             "0ce755e9-1df0-4cf1-b380-80852e0e3c14"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -76449,6 +76449,67 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T17:40:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1212211687bcbf6b623a",
+      "name": "Radi.fm 中文古典音乐",
+      "country": "JP",
+      "subdivision": "Tokyo",
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "ai",
+        "classical"
+      ],
+      "homepage": "https://radi.fm/ZhongwenGudianYinyue/",
+      "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T06:44:58Z",
+      "streams": [
+        {
+          "id": "aws_ca4ab8526a32dc0013ac",
+          "stationId": "awb_1212211687bcbf6b623a",
+          "name": "Radi.fm 中文古典音乐",
+          "country": "JP",
+          "url": "https://live.radi.fm/live/stn%3A5a8b2c0eb17b4d64/index.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "32ea3bdb-9010-43fa-be37-160f11c1c897"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
+        },
+        {
+          "id": "aws_ca430ccf277e04282a21",
+          "stationId": "awb_1212211687bcbf6b623a",
+          "name": "Radi.fm 中文古典音乐",
+          "country": "JP",
+          "url": "https://live.radi.fm/stream/zh.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "836b2af3-7941-4c02-b5bc-ed28e46cda43"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

@@ -2733,8 +2733,8 @@
     "homepage": "https://radio.xecod.com/listen/salah-bukhatir",
     "favicon": null,
     "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-10-15T19:02:28Z",
+    "sourceCount": 6,
+    "updatedAt": "2026-10-18T18:09:41Z",
     "streams": [
       {
         "id": "aws_4e90d0f388f2052d6e35",
@@ -2750,11 +2750,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "381443b0-bad7-4d7c-9081-ddfdae1e9f87",
+          "0e86959c-d754-406a-ab20-44650532d1ed",
           "578242d8-6de4-42e7-acaf-5051f7dc20cb"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T22:25:58Z"
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },
@@ -9014,40 +9014,45 @@
       }
     ]
   },
-  "awb_e3715a78bb956ac7ae7e": {
-    "id": "awb_e3715a78bb956ac7ae7e",
-    "name": "Live 105.5fm",
+  "awb_e37399b87c5a97fde437": {
+    "id": "awb_e37399b87c5a97fde437",
+    "name": "KWSS 93.9 - Scottsdale/Phoenix, Arizona",
     "country": "US",
-    "subdivision": "Buenaventura",
+    "subdivision": "Arizona",
     "languages": [
       "en"
     ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.live1055.fm/",
-    "favicon": null,
-    "type": null,
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "variety"
+    ],
+    "homepage": "https://kwss.org/",
+    "favicon": "https://kwss.org/wp-content/uploads/KWSS-20TH-ANNIVERSARY-1-465x465.png",
+    "type": "community",
     "sourceCount": 1,
-    "updatedAt": "2026-10-18T04:39:13Z",
+    "updatedAt": "2026-10-18T17:15:33Z",
     "streams": [
       {
-        "id": "aws_1d9ada6393512aff849c",
-        "stationId": "awb_e3715a78bb956ac7ae7e",
-        "name": "Live 105.5fm",
+        "id": "aws_3f944b480c9cf3f481d7",
+        "stationId": "awb_e37399b87c5a97fde437",
+        "name": "KWSS 93.9 - Scottsdale/Phoenix, Arizona",
         "country": "US",
-        "url": "https://www.live1055.fm/",
-        "codec": null,
-        "bitrate": 0,
+        "url": "https://cast5.asurahosting.com/proxy/kwssradi/stream",
+        "codec": "aac+",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
           "radio-browser"
         ],
         "sourceIds": [
-          "038be685-0e4e-4a4b-b176-2d89b884af29"
+          "5a072448-c1be-4bc7-9c68-4136fabf0a63"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },

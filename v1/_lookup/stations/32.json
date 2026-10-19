@@ -1385,6 +1385,48 @@
       }
     ]
   },
+  "awb_32f1c0c40e207ce830c4": {
+    "id": "awb_32f1c0c40e207ce830c4",
+    "name": "CIOG 91.3 \"PEI's Inspire FM\" - Charlottetown, Prince Edward Island",
+    "country": "CA",
+    "subdivision": "Prince Edward Island",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian preaching",
+      "gospel music"
+    ],
+    "homepage": "https://www.inspire.fm/",
+    "favicon": "https://assets.godcaster.fm/image_321_1766079914.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T00:28:39Z",
+    "streams": [
+      {
+        "id": "aws_5f1bebc9f8b71de9a897",
+        "stationId": "awb_32f1c0c40e207ce830c4",
+        "name": "CIOG 91.3 \"PEI's Inspire FM\" - Charlottetown, Prince Edward Island",
+        "country": "CA",
+        "url": "https://harvestersciog.radioca.st/CIOG",
+        "codec": "aac+",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fccdf1da-21c1-46cf-aabf-d28934b0b965"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T02:35:15Z"
+      }
+    ]
+  },
   "awb_32a27cb2fdbdc8da3969": {
     "id": "awb_32a27cb2fdbdc8da3969",
     "name": "CKLO \"Classic Rock 98.1 FM\" London, ON",
@@ -9481,8 +9523,8 @@
         "name": "WUCR 107.9 \"Tiger Stream Radio\" - Lake Butler, Florida",
         "country": "US",
         "url": "http://streamer.radio.co/s2ac87bedd/listen",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "http",
         "hls": false,
         "sources": [
@@ -9492,7 +9534,7 @@
           "70da5340-e9e1-4882-803f-c1bd86d8f5bc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-18T22:07:29Z"
       }
     ]
   },

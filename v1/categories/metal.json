@@ -1,6 +1,6 @@
 {
   "id": "metal",
-  "stationCount": 606,
+  "stationCount": 607,
   "stations": [
     {
       "id": "awb_a6c7862f1c537f319206",
@@ -1674,13 +1674,14 @@
       "id": "awb_35fbc0cdf40cfda5afb5",
       "name": "BadRock Radio",
       "country": "BG",
-      "subdivision": null,
+      "subdivision": "Sofia",
       "languages": [],
       "categories": [
         "metal",
         "rock"
       ],
       "tags": [
+        "classic rock",
         "hard rock",
         "hardcore",
         "heavy metal",
@@ -1693,8 +1694,8 @@
       "homepage": "https://www.badrockradio.net/",
       "favicon": "https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:04Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-18T17:15:33Z",
       "streams": [
         {
           "id": "aws_12d5d724f7ae1d20c658",
@@ -1714,6 +1715,26 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T10:52:25Z"
+        },
+        {
+          "id": "aws_47d53ad8961c76d1ee90",
+          "stationId": "awb_35fbc0cdf40cfda5afb5",
+          "name": "BadRock Radio",
+          "country": "BG",
+          "url": "https://streams.badrockradio.net/national",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "190089aa-0a7f-433a-bb1a-79129e0f0e1c",
+            "558c4adf-b1ab-4c2e-99ab-ae2755f2a538"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -2283,6 +2304,59 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T21:42:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_23119b9781026cb0b644",
+      "name": "WebRadioBR",
+      "country": "BR",
+      "subdivision": null,
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "ambient",
+        "electronic",
+        "jazz",
+        "metal",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "dance",
+        "electronic",
+        "indie",
+        "jazz",
+        "lounge",
+        "metal",
+        "rock",
+        "web radio"
+      ],
+      "homepage": "https://webradiobr.insidesign.com.br/",
+      "favicon": "https://webradiobr.insidesign.com.br/logo-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T14:15:36Z",
+      "streams": [
+        {
+          "id": "aws_b747e2f6d21d4d21ce5c",
+          "stationId": "awb_23119b9781026cb0b644",
+          "name": "WebRadioBR",
+          "country": "BR",
+          "url": "https://stream.webradiobr.insidesign.com.br/listen/webradiobr/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cdaa0235-dd3e-475b-9e9c-c7c9b13b312b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T15:33:29Z"
         }
       ]
     },
@@ -2985,7 +3059,7 @@
             "339d3591-c1ca-44ec-925d-5ea20802a319"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -12838,7 +12912,7 @@
             "ab6a1372-1364-4db8-848e-6bca16ef8523"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
@@ -12856,7 +12930,7 @@
         "metal",
         "rock"
       ],
-      "homepage": "https://www.radiopermu.org/#body",
+      "homepage": "https://www.radiopermu.org/",
       "favicon": "https://www.radiopermu.org/images/logos/radiopermu_logo_250.png",
       "type": null,
       "sourceCount": 2,
@@ -17056,6 +17130,89 @@
       ]
     },
     {
+      "id": "awb_9359ec9139ddfe95c6cf",
+      "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "metal",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "acir",
+        "acir online",
+        "adult album alternative",
+        "adult alternative",
+        "alternative",
+        "alternative 70s",
+        "alternative 80s",
+        "alternative metal",
+        "alternative pop",
+        "alternative rock",
+        "américa",
+        "cdmx",
+        "ciudad de méxico",
+        "classic rock; alternative rock indie",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "indie rock",
+        "latinoamérica",
+        "mexico city",
+        "mix",
+        "mix alternative",
+        "mix fm",
+        "moi merino",
+        "music",
+        "méxico",
+        "música alternativa",
+        "norteamérica",
+        "online",
+        "online only",
+        "radio",
+        "radio online",
+        "rock",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T04:25:31Z",
+      "streams": [
+        {
+          "id": "aws_e99a5227dad39e25927f",
+          "stationId": "awb_9359ec9139ddfe95c6cf",
+          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+            "a7a10889-e3af-4085-b800-1868e8cc8085"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T12:46:19Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7b747717980621ccb340",
       "name": "Alicia radio",
       "country": "MX",
@@ -17177,89 +17334,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T22:42:42Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9359ec9139ddfe95c6cf",
-      "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "metal",
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "80s",
-        "90s",
-        "acir",
-        "acir online",
-        "adult album alternative",
-        "adult alternative",
-        "alternative",
-        "alternative 70s",
-        "alternative 80s",
-        "alternative metal",
-        "alternative pop",
-        "alternative rock",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "classic rock; alternative rock indie",
-        "entretenimiento",
-        "español",
-        "estación",
-        "grupo acir",
-        "iheart",
-        "iheart radio",
-        "indie rock",
-        "latinoamérica",
-        "mexico city",
-        "mix",
-        "mix alternative",
-        "mix fm",
-        "moi merino",
-        "music",
-        "méxico",
-        "música alternativa",
-        "norteamérica",
-        "online",
-        "online only",
-        "radio",
-        "radio online",
-        "rock",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-13T04:25:31Z",
-      "streams": [
-        {
-          "id": "aws_e99a5227dad39e25927f",
-          "stationId": "awb_9359ec9139ddfe95c6cf",
-          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
-            "a7a10889-e3af-4085-b800-1868e8cc8085"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T12:46:19Z"
         }
       ]
     },

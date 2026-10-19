@@ -5555,6 +5555,67 @@
       }
     ]
   },
+  "awb_6eef2fbe4cb981e13712": {
+    "id": "awb_6eef2fbe4cb981e13712",
+    "name": "Radi.fm Monde Classique",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "ai",
+      "classical"
+    ],
+    "homepage": "https://radi.fm/MondeClassique/",
+    "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T06:40:54Z",
+    "streams": [
+      {
+        "id": "aws_abe8db22c17d033d60c5",
+        "stationId": "awb_6eef2fbe4cb981e13712",
+        "name": "Radi.fm Monde Classique",
+        "country": "JP",
+        "url": "https://live.radi.fm/live/stn%3A0af489e6915b4f23/index.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "08fed690-0878-4319-bf55-db17bcde744f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
+      },
+      {
+        "id": "aws_40470de60f53189503b2",
+        "stationId": "awb_6eef2fbe4cb981e13712",
+        "name": "Radi.fm Monde Classique",
+        "country": "JP",
+        "url": "https://live.radi.fm/stream/fr.aac",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e0485a8b-0fc9-445a-97fe-95b701cdcec9"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_6eaaa3ec9bcc527bb31c": {
     "id": "awb_6eaaa3ec9bcc527bb31c",
     "name": "TBS eFM 101.3",

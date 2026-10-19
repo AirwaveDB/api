@@ -556,6 +556,49 @@
       }
     ]
   },
+  "awb_2fcf62bb03940097d4c7": {
+    "id": "awb_2fcf62bb03940097d4c7",
+    "name": "Peoples Radio",
+    "country": "BD",
+    "subdivision": null,
+    "languages": [
+      "bn"
+    ],
+    "categories": [
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "pop",
+      "talk"
+    ],
+    "homepage": "https://peoplesradioltd.com/",
+    "favicon": "https://i.postimg.cc/gc6kkfKK/bd-Peoples-radio.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T05:07:01Z",
+    "streams": [
+      {
+        "id": "aws_5e70d6877c3c3c4093b2",
+        "stationId": "awb_2fcf62bb03940097d4c7",
+        "name": "Peoples Radio",
+        "country": "BD",
+        "url": "https://s3.myradiostream.com:14498/listen.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "855aa7ec-7282-4681-9c25-42e93fd6b873"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_2f330635569e74e9391d": {
     "id": "awb_2f330635569e74e9391d",
     "name": "Radio Oost-West",
@@ -7366,8 +7409,8 @@
       "chillout",
       "lounge"
     ],
-    "homepage": "https://loungefm.com.ua/",
-    "favicon": "https://loungefm.com.ua/img/icon-144x144.png",
+    "homepage": "https://loungefm.com.ua/chill",
+    "favicon": "https://loungefm.com.ua/img/favicon/favicon.ico",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24",

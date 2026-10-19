@@ -1,7 +1,7 @@
 {
   "code": "urd",
   "canonicalCode": "ur",
-  "stationCount": 53,
+  "stationCount": 54,
   "stations": [
     {
       "id": "awb_1b9d186b8652da0ef02c",
@@ -300,6 +300,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T09:35:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7dcf7019ff901dfec631",
+      "name": "Radio Asian Air",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "hi",
+        "ur"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "bollywood",
+        "islamic",
+        "lollywood"
+      ],
+      "homepage": "https://s2.citrus3.com:2000/public/asianairradio",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T20:20:52Z",
+      "streams": [
+        {
+          "id": "aws_bfbe3af9cd954d0f1b47",
+          "stationId": "awb_7dcf7019ff901dfec631",
+          "name": "Radio Asian Air",
+          "country": "GB",
+          "url": "https://s2.citrus3.com:8282/stream",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "41dba8f6-6971-4efa-bf74-f26045b2eaa9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },

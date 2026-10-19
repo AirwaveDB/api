@@ -1,7 +1,7 @@
 {
   "code": "LT",
-  "stationCount": 113,
-  "streamCount": 120,
+  "stationCount": 115,
+  "streamCount": 122,
   "stations": [
     {
       "id": "awb_476d98999ba5c484ad26",
@@ -1349,6 +1349,41 @@
       ]
     },
     {
+      "id": "awb_c4e87d19199db10b8f64",
+      "name": "M-1 Radio",
+      "country": "LT",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://m-1.15min.lt/",
+      "favicon": "https://m-1.15min.lt/content/themes/m-1/mlogo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T22:21:27Z",
+      "streams": [
+        {
+          "id": "aws_364a0c871ec740d497a7",
+          "stationId": "awb_c4e87d19199db10b8f64",
+          "name": "M-1 Radio",
+          "country": "LT",
+          "url": "https://stream.m-1.fm/m1/mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "482b510c-3a44-4f6c-a809-6c6a43d3b4dd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_cd785ffcaa1211d5b6ca",
       "name": "Mano",
       "country": "LT",
@@ -2666,7 +2701,7 @@
       "id": "awb_f0418ec6f2a427f541db",
       "name": "Radijo Stotis Kelyje",
       "country": "LT",
-      "subdivision": "Kaunas",
+      "subdivision": "Vilnius",
       "languages": [
         "lt"
       ],
@@ -2976,6 +3011,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T18:05:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9f1d2066f90bb21b19fa",
+      "name": "Radio Lietus",
+      "country": "LT",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://lietus.15min.lt/",
+      "favicon": "https://lietus.15min.lt/content/uploads/cropped-lietus_320-192x192.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T22:26:34Z",
+      "streams": [
+        {
+          "id": "aws_9c4752d071941466966c",
+          "stationId": "awb_9f1d2066f90bb21b19fa",
+          "name": "Radio Lietus",
+          "country": "LT",
+          "url": "https://stream.m-1.fm/lietus/mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "51c0ab24-9bb6-4e9b-a4a6-418c06a2897a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },

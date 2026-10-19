@@ -559,41 +559,6 @@
       }
     ]
   },
-  "awb_12fc59e1bb9cdadd9046": {
-    "id": "awb_12fc59e1bb9cdadd9046",
-    "name": "4BH",
-    "country": "AU",
-    "subdivision": "Brisbane QLD",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.4bh.com.au/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-18T05:37:21Z",
-    "streams": [
-      {
-        "id": "aws_a135291ac8b2fd314a5c",
-        "stationId": "awb_12fc59e1bb9cdadd9046",
-        "name": "4BH",
-        "country": "AU",
-        "url": "https://play.listnr.com/station/4bh",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "9f745343-a4e4-4ed6-9bfd-587d56b1d001"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
-      }
-    ]
-  },
   "awb_121570ea9933d396f59d": {
     "id": "awb_121570ea9933d396f59d",
     "name": "Australian Digital Radio Network - R.E.M. (MP3)",
@@ -4059,6 +4024,67 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T21:33:28Z"
+      }
+    ]
+  },
+  "awb_1212211687bcbf6b623a": {
+    "id": "awb_1212211687bcbf6b623a",
+    "name": "Radi.fm 中文古典音乐",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "ai",
+      "classical"
+    ],
+    "homepage": "https://radi.fm/ZhongwenGudianYinyue/",
+    "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T06:44:58Z",
+    "streams": [
+      {
+        "id": "aws_ca4ab8526a32dc0013ac",
+        "stationId": "awb_1212211687bcbf6b623a",
+        "name": "Radi.fm 中文古典音乐",
+        "country": "JP",
+        "url": "https://live.radi.fm/live/stn%3A5a8b2c0eb17b4d64/index.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "32ea3bdb-9010-43fa-be37-160f11c1c897"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-18T15:33:29Z"
+      },
+      {
+        "id": "aws_ca430ccf277e04282a21",
+        "stationId": "awb_1212211687bcbf6b623a",
+        "name": "Radi.fm 中文古典音乐",
+        "country": "JP",
+        "url": "https://live.radi.fm/stream/zh.aac",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "836b2af3-7941-4c02-b5bc-ed28e46cda43"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

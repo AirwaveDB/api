@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-18T08:52:18.043Z",
+  "generatedAt": "2026-10-19T09:54:08.738Z",
   "schemaVersion": 1,
-  "stationCount": 54826,
-  "streamCount": 57993,
+  "stationCount": 54902,
+  "streamCount": 58075,
   "countryCount": 243,
   "languageCount": 148,
   "categoryCount": 25,
-  "databaseGeneratedAt": "2026-10-18T07:14:58.282Z",
-  "streamsGeneratedAt": "2026-10-18T08:08:49.437Z",
+  "databaseGeneratedAt": "2026-10-19T07:48:32.910Z",
+  "streamsGeneratedAt": "2026-10-19T09:02:15.230Z",
   "databaseSchemaVersion": 1,
   "streamsSchemaVersion": 1,
   "sourceSnapshots": {
     "database": {
-      "commit": "bb278ed6507b3e0796b893526c35d7175d35ce70",
-      "generatedAt": "2026-10-18T07:14:58.282Z",
+      "commit": "9a63d367581b327ec310e8fb5b839bc3cf58c10a",
+      "generatedAt": "2026-10-19T07:48:32.910Z",
       "schemaVersion": 1
     },
     "streams": {
-      "commit": "709e262c4b9ce4479eefac6a8cfb1d8a6e153e05",
-      "generatedAt": "2026-10-18T08:08:49.437Z",
+      "commit": "c80c0a92c2db1ba462c250124c7a8bc33e083fe2",
+      "generatedAt": "2026-10-19T09:02:15.230Z",
       "schemaVersion": 1,
-      "databaseGeneratedAt": "2026-10-18T07:14:58.282Z",
+      "databaseGeneratedAt": "2026-10-19T07:48:32.910Z",
       "idStrategy": "source-provenance-v1"
     }
   },
   "quality": {
     "database": {
-      "withHomepage": 52240,
-      "withFavicon": 33522,
-      "withLanguage": 34901,
-      "withCategory": 27161,
+      "withHomepage": 52316,
+      "withFavicon": 33587,
+      "withLanguage": 34957,
+      "withCategory": 27209,
       "unknownCountry": 1094,
-      "withType": 2570,
-      "normalizedLanguageValues": 484
+      "withType": 2579,
+      "normalizedLanguageValues": 485
     },
     "streams": {
-      "withCodec": 57961,
-      "withBitrate": 49064,
-      "hls": 3845,
-      "sourceCheckOk": 57993,
+      "withCodec": 58052,
+      "withBitrate": 49140,
+      "hls": 3851,
+      "sourceCheckOk": 58075,
       "unknownCountry": 1204,
-      "identityReused": 57739,
-      "identityNew": 254
+      "identityReused": 57986,
+      "identityNew": 89
     }
   },
   "routes": {

@@ -556,13 +556,14 @@
     "id": "awb_35fbc0cdf40cfda5afb5",
     "name": "BadRock Radio",
     "country": "BG",
-    "subdivision": null,
+    "subdivision": "Sofia",
     "languages": [],
     "categories": [
       "metal",
       "rock"
     ],
     "tags": [
+      "classic rock",
       "hard rock",
       "hardcore",
       "heavy metal",
@@ -575,8 +576,8 @@
     "homepage": "https://www.badrockradio.net/",
     "favicon": "https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-18T17:15:33Z",
     "streams": [
       {
         "id": "aws_12d5d724f7ae1d20c658",
@@ -596,6 +597,26 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T10:52:25Z"
+      },
+      {
+        "id": "aws_47d53ad8961c76d1ee90",
+        "stationId": "awb_35fbc0cdf40cfda5afb5",
+        "name": "BadRock Radio",
+        "country": "BG",
+        "url": "https://streams.badrockradio.net/national",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "190089aa-0a7f-433a-bb1a-79129e0f0e1c",
+          "558c4adf-b1ab-4c2e-99ab-ae2755f2a538"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T02:35:15Z"
       }
     ]
   },

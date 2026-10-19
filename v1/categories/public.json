@@ -1,6 +1,6 @@
 {
   "id": "public",
-  "stationCount": 988,
+  "stationCount": 991,
   "stations": [
     {
       "id": "awb_ee82c064aaf7a19bf5c6",
@@ -5883,9 +5883,9 @@
     },
     {
       "id": "awb_ceac03347026f81dacb7",
-      "name": "��� � ����� �����������",
+      "name": "��� � ����� �����",
       "country": "BG",
-      "subdivision": "Blagoevgrad",
+      "subdivision": "Sofia City",
       "languages": [
         "bg"
       ],
@@ -5899,7 +5899,7 @@
         "public radio",
         "talk"
       ],
-      "homepage": "https://bnrnews.bg/blagoevgrad",
+      "homepage": "https://bnrnews.bg/sofia",
       "favicon": null,
       "type": "public",
       "sourceCount": 8,
@@ -25110,6 +25110,69 @@
       ]
     },
     {
+      "id": "awb_0aa2a8b3e384e00f0fb9",
+      "name": "100.9 Chetumal FM (Chetumal) - 100.9 FM - XHCHE-FM - SQCS (Sistema Quintanarroense de Comunicación Social) - Chetumal, Quintana Roo",
+      "country": "MX",
+      "subdivision": "Chetumal, Quintana Roo",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "100.9 fm",
+        "américa",
+        "chetumal",
+        "chetumal fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "gobierno del estado de quintana roo",
+        "la hora nacional",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "música",
+        "música en español",
+        "norteamérica",
+        "public",
+        "public radio",
+        "public service",
+        "pública",
+        "radio pública",
+        "sistema quintanarroense de comunicación social",
+        "sureste"
+      ],
+      "homepage": "https://sqcs.com.mx/",
+      "favicon": "https://cdn-profiles.tunein.com/s91388/images/logod.jpg",
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T01:06:13Z",
+      "streams": [
+        {
+          "id": "aws_ddfafb9ceb927cec414a",
+          "stationId": "awb_0aa2a8b3e384e00f0fb9",
+          "name": "100.9 Chetumal FM (Chetumal) - 100.9 FM - XHCHE-FM - SQCS (Sistema Quintanarroense de Comunicación Social) - Chetumal, Quintana Roo",
+          "country": "MX",
+          "url": "https://sp2.servidorrprivado.com/3981/stream",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "497c68be-2cfd-443c-86f8-79c097f94094"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
+        }
+      ]
+    },
+    {
       "id": "awb_1ca84be80d66403b37e9",
       "name": "101.9 Caribe FM (Cancún) - 101.9 FM - XHCBJ-FM - SQCS (Sistema Quintanarroense de Comunicación Social) - Cancún, Quintana Roo",
       "country": "MX",
@@ -27434,6 +27497,69 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T20:18:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0f920bad5c77af07ab6e",
+      "name": "CHETUMAL FM 100.9 (Chetumal) - 100.9 FM - XHCHE-FM - SQCS (Sistema Quintanarroense de Comunicación Social) - Chetumal, Quintana Roo",
+      "country": "MX",
+      "subdivision": "Chetumal, Quintana Roo",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "public"
+      ],
+      "tags": [
+        "100.9 fm",
+        "américa",
+        "chetumal",
+        "chetumal fm",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "gobierno del estado de quintana roo",
+        "la hora nacional",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "música",
+        "música en español",
+        "norteamérica",
+        "public",
+        "public radio",
+        "public service",
+        "pública",
+        "radio pública",
+        "sistema quintanarroense de comunicación social",
+        "sureste"
+      ],
+      "homepage": "https://sqcs.com.mx/",
+      "favicon": "https://cdn-profiles.tunein.com/s91388/images/logod.jpg",
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T01:06:13Z",
+      "streams": [
+        {
+          "id": "aws_fd35880997062a81bc1d",
+          "stationId": "awb_0f920bad5c77af07ab6e",
+          "name": "CHETUMAL FM 100.9 (Chetumal) - 100.9 FM - XHCHE-FM - SQCS (Sistema Quintanarroense de Comunicación Social) - Chetumal, Quintana Roo",
+          "country": "MX",
+          "url": "https://sp2.servidorrprivado.com/3981/stream",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f62a07b1-7585-4af8-8e70-8a30d058cb9d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T02:35:15Z"
         }
       ]
     },
@@ -43127,6 +43253,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T07:40:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b390325d423aeac29249",
+      "name": "Vice City Public Radio (VCPR)",
+      "country": "US",
+      "subdivision": "Vice City",
+      "languages": [],
+      "categories": [
+        "public",
+        "talk"
+      ],
+      "tags": [
+        "grand theft auto",
+        "gta",
+        "liberty city",
+        "public radio",
+        "public talk radio",
+        "vice city"
+      ],
+      "homepage": "https://gtaradio.net/vc/",
+      "favicon": "https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990",
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T18:44:44Z",
+      "streams": [
+        {
+          "id": "aws_c4561b2e1df2b0cec78a",
+          "stationId": "awb_b390325d423aeac29249",
+          "name": "Vice City Public Radio (VCPR)",
+          "country": "US",
+          "url": "https://audio.gtaradio.net/vc/vcpr",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a46b8147-96d9-4da2-9428-dee2f18e0b03"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-18T22:07:29Z"
         }
       ]
     },
