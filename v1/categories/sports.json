@@ -1,6 +1,6 @@
 {
   "id": "sports",
-  "stationCount": 869,
+  "stationCount": 873,
   "stations": [
     {
       "id": "awb_10ca8b5c03a36ce2fd6c",
@@ -2098,6 +2098,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T08:07:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_950f71581e2ad83f2d66",
+      "name": "ABC Cricket",
+      "country": "AU",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "cricket",
+        "live sports",
+        "sport"
+      ],
+      "homepage": "https://www.abc.net.au/listen/live/cricket",
+      "favicon": "https://live-production.wcms.abc-cdn.net.au/36344ff0468bfce4d5af6b50f5ebcedd",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:26:04Z",
+      "streams": [
+        {
+          "id": "aws_88bda3f7b318bfc6621b",
+          "stationId": "awb_950f71581e2ad83f2d66",
+          "name": "ABC Cricket",
+          "country": "AU",
+          "url": "https://streaming.abc-cdn.net.au/audio/hls/itinerantone.m3u8",
+          "codec": "aac",
+          "bitrate": 115,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f81ba4e2-6db5-41e6-92d4-5cb1ba1a21c2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -7579,7 +7622,7 @@
         "noticias"
       ],
       "homepage": "https://emisorascolombianas.online/caracol-en-vivo/",
-      "favicon": "https://emisorascolombianas.online/default-logo.svg",
+      "favicon": "https://emisorascolombianas.online/logos/caracol-en-vivo.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-19T21:37:13Z",
@@ -7749,7 +7792,7 @@
             "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -11595,6 +11638,50 @@
       ]
     },
     {
+      "id": "awb_83492b19929ade21dc67",
+      "name": "ARCO FM",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "sports"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "sports"
+      ],
+      "homepage": "https://arcofm.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:24:13Z",
+      "streams": [
+        {
+          "id": "aws_c11ed153bf730060ee75",
+          "stationId": "awb_83492b19929ade21dc67",
+          "name": "ARCO FM",
+          "country": "ES",
+          "url": "https://hisparadio.duckdns.org/stream/1/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "500e90ba-7b72-466e-b2be-db0e89a49ff3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_1b2008782e418f0091f8",
       "name": "Asón FM 96.4",
       "country": "ES",
@@ -11683,6 +11770,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T23:39:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1bdbac34f4b60b4fda2a",
+      "name": "Cadena Feeling",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "sports"
+      ],
+      "tags": [
+        "local news",
+        "music",
+        "sports"
+      ],
+      "homepage": "https://cadenafeeling.es/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:26:17Z",
+      "streams": [
+        {
+          "id": "aws_c32e72e11d7da6fed6c0",
+          "stationId": "awb_1bdbac34f4b60b4fda2a",
+          "name": "Cadena Feeling",
+          "country": "ES",
+          "url": "https://streaming12.elitecomunicacion.es:8022/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "22b9e907-68a3-4230-82ab-7d4a3a2443b9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -14101,6 +14232,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T12:21:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2d748205b8cd10558fa7",
+      "name": "PuntalRadio",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://www.puntalradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:16:34Z",
+      "streams": [
+        {
+          "id": "aws_e51ef4b74ae7b063d840",
+          "stationId": "awb_2d748205b8cd10558fa7",
+          "name": "PuntalRadio",
+          "country": "ES",
+          "url": "https://a5.asurahosting.com:6700/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f20aff23-889e-4090-bcb4-30891566fc7a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },

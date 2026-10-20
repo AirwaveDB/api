@@ -1,7 +1,7 @@
 {
   "code": "BD",
-  "stationCount": 27,
-  "streamCount": 28,
+  "stationCount": 29,
+  "streamCount": 30,
   "stations": [
     {
       "id": "awb_ed9f885e1b5922ad0210",
@@ -134,6 +134,76 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T00:21:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a21b89d275ec3bc9b4c2",
+      "name": "Bangladesh betar 90.0 MHz",
+      "country": "BD",
+      "subdivision": "Dhaka District",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://as3.digitalsynapsebd.com:8582/stream",
+      "favicon": "http://as3.digitalsynapsebd.com:8582/stream",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T20:07:11Z",
+      "streams": [
+        {
+          "id": "aws_9b1b6de44fecaebf78ad",
+          "stationId": "awb_a21b89d275ec3bc9b4c2",
+          "name": "Bangladesh betar 90.0 MHz",
+          "country": "BD",
+          "url": "http://as3.digitalsynapsebd.com:8582/stream",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dccdd79f-d443-48fc-94c4-84f49ca8fef2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fcf81dd749b625d24e1d",
+      "name": "Bangladesh betar 90.0 MHz",
+      "country": "BD",
+      "subdivision": "Dhaka District",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://onlineradiofm.in/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T20:31:56Z",
+      "streams": [
+        {
+          "id": "aws_57a73b77be3472be5329",
+          "stationId": "awb_fcf81dd749b625d24e1d",
+          "name": "Bangladesh betar 90.0 MHz",
+          "country": "BD",
+          "url": "http://as3.digitalsynapsebd.com:8582/stream",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "28dd01c6-d245-4761-bb20-7dfd0c127cea"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -413,8 +483,8 @@
           "name": "Peoples Radio",
           "country": "BD",
           "url": "https://s3.myradiostream.com:14498/listen.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -424,7 +494,7 @@
             "855aa7ec-7282-4681-9c25-42e93fd6b873"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },

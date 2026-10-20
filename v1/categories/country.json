@@ -1,6 +1,6 @@
 {
   "id": "country",
-  "stationCount": 776,
+  "stationCount": 777,
   "stations": [
     {
       "id": "awb_29e9a4a80266c36730df",
@@ -12183,6 +12183,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T08:59:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_26af3b19375a3ffcb5d6",
+      "name": "Backroad Country Radio",
+      "country": "DE",
+      "subdivision": "Nordrhein-Westfalen",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "country",
+        "rock"
+      ],
+      "tags": [
+        "americana",
+        "country",
+        "country rock",
+        "ryan robson",
+        "singer-songwriter"
+      ],
+      "homepage": "https://backroadcountryradio.com/",
+      "favicon": "https://backroadcountryradio.com/assets/img/logo-1200.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:14:43Z",
+      "streams": [
+        {
+          "id": "aws_a4574a37d10694dbc53b",
+          "stationId": "awb_26af3b19375a3ffcb5d6",
+          "name": "Backroad Country Radio",
+          "country": "DE",
+          "url": "https://stream.backroadcountryradio.com/listen/backroad/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "380a0773-6a92-4406-8312-10a286d55003"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },

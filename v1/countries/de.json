@@ -1,7 +1,7 @@
 {
   "code": "DE",
-  "stationCount": 5260,
-  "streamCount": 5914,
+  "stationCount": 5266,
+  "streamCount": 5920,
   "stations": [
     {
       "id": "awb_3188958cfeae1099d95c",
@@ -27059,6 +27059,41 @@
       ]
     },
     {
+      "id": "awb_3a58bac2637c4b5c975c",
+      "name": "90s90s Reggae",
+      "country": "DE",
+      "subdivision": "Deutschland (Germany)",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.90s90s.de/radios/reggae",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T14:55:58Z",
+      "streams": [
+        {
+          "id": "aws_e533b7a342cf68f09b42",
+          "stationId": "awb_3a58bac2637c4b5c975c",
+          "name": "90s90s Reggae",
+          "country": "DE",
+          "url": "http://streams.90s90s.de/reggae/mp3-192/streams.90s90s.de/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ef908e01-3aed-492a-9fd9-407adfe1ef52"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f1a38abdd7508d4668ad",
       "name": "90s90s Rock",
       "country": "DE",
@@ -31580,7 +31615,7 @@
             "41109c3a-db06-4149-88fa-9a5142c783be"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -40448,7 +40483,7 @@
       "id": "awb_9f6c026e52f2cc2ab155",
       "name": "as.if.radio",
       "country": "DE",
-      "subdivision": "North Rhine-Westphalia",
+      "subdivision": "Cologne",
       "languages": [
         "de",
         "en"
@@ -40482,7 +40517,7 @@
         "werbefrei"
       ],
       "homepage": "https://www.as-if-radio.com/",
-      "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+      "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-04T14:43:37Z",
@@ -41108,6 +41143,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T22:44:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_26af3b19375a3ffcb5d6",
+      "name": "Backroad Country Radio",
+      "country": "DE",
+      "subdivision": "Nordrhein-Westfalen",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "country",
+        "rock"
+      ],
+      "tags": [
+        "americana",
+        "country",
+        "country rock",
+        "ryan robson",
+        "singer-songwriter"
+      ],
+      "homepage": "https://backroadcountryradio.com/",
+      "favicon": "https://backroadcountryradio.com/assets/img/logo-1200.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:14:43Z",
+      "streams": [
+        {
+          "id": "aws_a4574a37d10694dbc53b",
+          "stationId": "awb_26af3b19375a3ffcb5d6",
+          "name": "Backroad Country Radio",
+          "country": "DE",
+          "url": "https://stream.backroadcountryradio.com/listen/backroad/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "380a0773-6a92-4406-8312-10a286d55003"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -45587,7 +45668,7 @@
         "tv"
       ],
       "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-      "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+      "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T06:09:01Z",
@@ -53906,7 +53987,7 @@
       ],
       "categories": [],
       "tags": [],
-      "homepage": "http://www.ffn.de/",
+      "homepage": "https://www.ffn.de/",
       "favicon": null,
       "type": null,
       "sourceCount": 4,
@@ -55584,7 +55665,7 @@
       "id": "awb_4d93db1f5602c64a3ae1",
       "name": "Club85",
       "country": "DE",
-      "subdivision": "Baden-Württemberg",
+      "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
       "languages": [
         "de"
       ],
@@ -56436,10 +56517,10 @@
       "categories": [],
       "tags": [],
       "homepage": "https://www1.wdr.de/radio/cosmo/",
-      "favicon": null,
+      "favicon": "https://www1.wdr.de/resources/img/wdr/logo/epgmodule/cosmo_logo.svg",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-06-26T19:33:55Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-19T11:18:27Z",
       "streams": [
         {
           "id": "aws_bc617cc984e0ea0760dd",
@@ -56455,10 +56536,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "8bb5c3a6-dba7-4eff-9d62-f0a07ba48653"
+            "8bb5c3a6-dba7-4eff-9d62-f0a07ba48653",
+            "90c7b0f9-79a3-48f8-9b26-bcd84a639180"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:50:36Z"
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -63345,6 +63427,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T23:22:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b11331ed3488c3ee7901",
+      "name": "DJ MARVICK",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "vocal jazz"
+      ],
+      "homepage": "http://141.11.237.5:25837/xeno",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T11:16:57Z",
+      "streams": [
+        {
+          "id": "aws_4488bfd6c59af0771a1c",
+          "stationId": "awb_b11331ed3488c3ee7901",
+          "name": "DJ MARVICK",
+          "country": "DE",
+          "url": "http://141.11.237.5:25837/xeno",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4c59728b-4c36-417c-89b7-edfcb321d3d8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -78122,6 +78243,41 @@
       ]
     },
     {
+      "id": "awb_2788fd093d0b36938000",
+      "name": "FFH Relax",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://streams.ffh.de/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T06:05:09Z",
+      "streams": [
+        {
+          "id": "aws_3fe4f1a3529f838e98aa",
+          "stationId": "awb_2788fd093d0b36938000",
+          "name": "FFH Relax",
+          "country": "DE",
+          "url": "http://streams.ffh.de/ffhchannels/mp3/hqrelax.m3u",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5d0144fb-2d84-4271-a4f0-54995083d8c7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_9d1838d0555c5581f5e8",
       "name": "FFH Rock",
       "country": "DE",
@@ -90571,7 +90727,7 @@
             "f75f4d49-4d40-405c-b84f-6cee59474ef1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -92925,7 +93081,7 @@
             "6f48e7e7-6274-4b27-b7de-b409063339be"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -108391,6 +108547,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T09:11:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3a35da79b0eedfb38ed4",
+      "name": "KPOP - atomicradio",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "anime",
+        "pop"
+      ],
+      "tags": [
+        "k-pop",
+        "kpop"
+      ],
+      "homepage": "https://atomic.radio/kpop",
+      "favicon": "https://assets.atomic.radio/web/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:16:34Z",
+      "streams": [
+        {
+          "id": "aws_8cc60c123aa4fdfacac6",
+          "stationId": "awb_3a35da79b0eedfb38ed4",
+          "name": "KPOP - atomicradio",
+          "country": "DE",
+          "url": "https://listen.atomic.radio/kpop.m3u8",
+          "codec": "aac",
+          "bitrate": 352,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8495c4a7-0c66-47b3-acd6-4b957017f610"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -128692,7 +128891,7 @@
             "c8a101cc-c981-42e5-889d-3cc351f6fa82"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -128780,7 +128979,7 @@
             "129302a4-db27-451c-b9bf-6abd7644c88e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -128824,7 +129023,7 @@
             "ad8c4d53-774d-482d-97c3-aa31c243748a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -140042,9 +140241,9 @@
           "stationId": "awb_4f830d51d8573597b92b",
           "name": "Progschuppen",
           "country": "DE",
-          "url": "https://stream.laut.fm/progschuppen",
-          "codec": null,
-          "bitrate": 0,
+          "url": "https://progschuppen.stream.laut.fm/progschuppen?t302=2026-10-20_02-20-43&uuid=4e837935-26fd-3291-e1c0-200076bdff3d",
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -140054,7 +140253,7 @@
             "5a63e83a-2baa-4a9e-8fc2-55c88dc864b3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -150362,6 +150561,41 @@
       ]
     },
     {
+      "id": "awb_4b931d48fefbaeb5df24",
+      "name": "Radio BOB NRW",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radiobob.de/radiobob/empfang/livestream",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:46:42Z",
+      "streams": [
+        {
+          "id": "aws_9359a0315d9561ca6075",
+          "stationId": "awb_4b931d48fefbaeb5df24",
+          "name": "Radio BOB NRW",
+          "country": "DE",
+          "url": "http://streams.radiobob.de/live-nrw-mitte/mp3-192/mediaplayer",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "39f83dc5-3899-4c46-b5ae-f731a25cad83"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8bc0e09e8f8ea25afa39",
       "name": "Radio BOB Progressive Rock",
       "country": "DE",
@@ -154495,7 +154729,7 @@
       "languages": [],
       "categories": [],
       "tags": [],
-      "homepage": "https://www.radiobreidenbach.de/index.php?seite=startseite",
+      "homepage": "https://www.radiobreidenbach.de/",
       "favicon": "https://www.radiobreidenbach.de/templates/favicon.ico",
       "type": null,
       "sourceCount": 2,
@@ -209058,7 +209292,7 @@
             "446814ba-9628-43d0-9ea3-22404d0e6983"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -219681,7 +219915,7 @@
             "55ba1adc-6379-448a-b529-99abec40d506"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -224170,7 +224404,7 @@
       "id": "awb_672de553ce76017853b3",
       "name": "Veedelsradio",
       "country": "DE",
-      "subdivision": "Nrw",
+      "subdivision": "Nordrhein-Westfalen",
       "languages": [
         "de"
       ],

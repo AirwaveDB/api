@@ -1,6 +1,6 @@
 {
   "id": "public",
-  "stationCount": 991,
+  "stationCount": 993,
   "stations": [
     {
       "id": "awb_ee82c064aaf7a19bf5c6",
@@ -17001,6 +17001,49 @@
       ]
     },
     {
+      "id": "awb_0742ce0204ec16ec54c0",
+      "name": "Radio 5 Cantabria",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "public"
+      ],
+      "tags": [
+        "news",
+        "public radio"
+      ],
+      "homepage": "https://www.rtve.es/play/audios/programa/rne5_ctb-live/3894780/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:24:13Z",
+      "streams": [
+        {
+          "id": "aws_c1ba76a5f4d656fbbeb5",
+          "stationId": "awb_0742ce0204ec16ec54c0",
+          "name": "Radio 5 Cantabria",
+          "country": "ES",
+          "url": "https://dispatcher.rndfnk.com/crtve/rne5/ctb/mp3/high",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1909ffdb-2b65-4246-a955-77458b60ebac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7d58a75410995863f7cb",
       "name": "Radio Castelldefels",
       "country": "ES",
@@ -17047,6 +17090,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T04:36:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3cb99669f114be9ea666",
+      "name": "RNE Radio Nacional Cantabria",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "public"
+      ],
+      "tags": [
+        "news",
+        "public radio"
+      ],
+      "homepage": "https://www.rtve.es/play/audios/programa/rne_ctb-live/3893531/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:26:17Z",
+      "streams": [
+        {
+          "id": "aws_e86065672ff3fd22cd47",
+          "stationId": "awb_3cb99669f114be9ea666",
+          "name": "RNE Radio Nacional Cantabria",
+          "country": "ES",
+          "url": "https://dispatcher.rndfnk.com/crtve/rne1/ctb/mp3/high",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7d647a6d-588a-4f43-989c-4608b76662e4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -33175,7 +33261,7 @@
             "5c7ef11f-a6a0-4697-9d87-6df7a3209258"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T00:27:51Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -43261,7 +43347,9 @@
       "name": "Vice City Public Radio (VCPR)",
       "country": "US",
       "subdivision": "Vice City",
-      "languages": [],
+      "languages": [
+        "en"
+      ],
       "categories": [
         "public",
         "talk"
@@ -43274,11 +43362,11 @@
         "public talk radio",
         "vice city"
       ],
-      "homepage": "https://gtaradio.net/vc/",
-      "favicon": "https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990",
+      "homepage": "https://gtaradio.net/en/vcs/",
+      "favicon": "https://images.weserv.nl/?url=https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990&w=1024&h=1024&fit=contain&bg=ffffff&output=png",
       "type": "public",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-18T18:44:44Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T15:45:53Z",
       "streams": [
         {
           "id": "aws_c4561b2e1df2b0cec78a",
@@ -43298,6 +43386,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-18T22:07:29Z"
+        },
+        {
+          "id": "aws_4c95b14227185d511734",
+          "stationId": "awb_b390325d423aeac29249",
+          "name": "Vice City Public Radio (VCPR)",
+          "country": "US",
+          "url": "https://audio.gtaradio.net/vcs/vcpr",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "65a07f28-2cf4-4e19-87ca-ad7620fb2a63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

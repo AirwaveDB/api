@@ -2392,6 +2392,41 @@
       }
     ]
   },
+  "awb_4b931d48fefbaeb5df24": {
+    "id": "awb_4b931d48fefbaeb5df24",
+    "name": "Radio BOB NRW",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiobob.de/radiobob/empfang/livestream",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T17:46:42Z",
+    "streams": [
+      {
+        "id": "aws_9359a0315d9561ca6075",
+        "stationId": "awb_4b931d48fefbaeb5df24",
+        "name": "Radio BOB NRW",
+        "country": "DE",
+        "url": "http://streams.radiobob.de/live-nrw-mitte/mp3-192/mediaplayer",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "39f83dc5-3899-4c46-b5ae-f731a25cad83"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_4bd1c276d71d234c3a8a": {
     "id": "awb_4bd1c276d71d234c3a8a",
     "name": "Radio Bob! Rockt NRW",
@@ -3163,6 +3198,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T16:29:10Z"
+      }
+    ]
+  },
+  "awb_4bfb035cde01f8260ab0": {
+    "id": "awb_4bfb035cde01f8260ab0",
+    "name": "Onda Occidental",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "local news",
+      "news"
+    ],
+    "homepage": "https://www.ondaoccidental.es/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:24:13Z",
+    "streams": [
+      {
+        "id": "aws_803b46b5747dad64f526",
+        "stationId": "awb_4bfb035cde01f8260ab0",
+        "name": "Onda Occidental",
+        "country": "ES",
+        "url": "https://server9.emitironline.com:10944/;.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ac9b30c8-46f5-42ff-8059-f68e98105d65"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },
@@ -6602,9 +6679,9 @@
   },
   "awb_4b79688d257d9ed6a2ab": {
     "id": "awb_4b79688d257d9ed6a2ab",
-    "name": "Radio TV. Sureña - Puno, Juliaca",
+    "name": "Radio TV. Sureña (Puno, Juliaca)",
     "country": "PE",
-    "subdivision": "Juliaca - Puno",
+    "subdivision": "Puno / Juliaca",
     "languages": [],
     "categories": [],
     "tags": [],
@@ -6947,7 +7024,7 @@
           "4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T20:56:24Z"
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },

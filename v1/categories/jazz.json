@@ -1,6 +1,6 @@
 {
   "id": "jazz",
-  "stationCount": 1352,
+  "stationCount": 1355,
   "stations": [
     {
       "id": "awb_8ab5f415f8fd2ea4a774",
@@ -2795,7 +2795,7 @@
             "446e3b26-1dcd-408f-a7f2-3ac0c15ffb49"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -12557,7 +12557,7 @@
       "id": "awb_9f6c026e52f2cc2ab155",
       "name": "as.if.radio",
       "country": "DE",
-      "subdivision": "North Rhine-Westphalia",
+      "subdivision": "Cologne",
       "languages": [
         "de",
         "en"
@@ -12591,7 +12591,7 @@
         "werbefrei"
       ],
       "homepage": "https://www.as-if-radio.com/",
-      "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+      "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-04T14:43:37Z",
@@ -12875,6 +12875,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T09:46:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b11331ed3488c3ee7901",
+      "name": "DJ MARVICK",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "vocal jazz"
+      ],
+      "homepage": "http://141.11.237.5:25837/xeno",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T11:16:57Z",
+      "streams": [
+        {
+          "id": "aws_4488bfd6c59af0771a1c",
+          "stationId": "awb_b11331ed3488c3ee7901",
+          "name": "DJ MARVICK",
+          "country": "DE",
+          "url": "http://141.11.237.5:25837/xeno",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4c59728b-4c36-417c-89b7-edfcb321d3d8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -28239,7 +28278,7 @@
             "4f30ac19-4a41-40cb-8999-2ca19b34711e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -28445,7 +28484,7 @@
             "82018398-3e60-4792-9bd4-bc354e2526e6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -31754,16 +31793,18 @@
       ],
       "tags": [
         "deep techno",
+        "drum & bass",
         "drum 'n' bass",
         "house",
         "jazz",
-        "soul"
+        "soul",
+        "techno"
       ],
       "homepage": "https://www.pointblankradio.com/",
       "favicon": "https://pointblankradio.com/pointdab/wp-content/uploads/2022/12/Player_logo.png",
       "type": null,
-      "sourceCount": 3,
-      "updatedAt": "2026-02-10T14:01:52Z",
+      "sourceCount": 4,
+      "updatedAt": "2026-10-19T19:28:36Z",
       "streams": [
         {
           "id": "aws_6f3ed10bee29a2f572ad",
@@ -31779,7 +31820,7 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "421931a0-f099-4731-ac68-71ce2af32d41",
+            "2ae80adf-501a-4248-824a-769373abdd6e",
             "5e3a7db9-fa91-45ce-95f1-27f6fe4798bd"
           ],
           "lastCheckOk": true,
@@ -39467,6 +39508,47 @@
       ]
     },
     {
+      "id": "awb_cd59f8208caf1518e1f0",
+      "name": "RADIO MOON",
+      "country": "LT",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "smooth jazz"
+      ],
+      "homepage": "http://193.70.34.27:20330/kdime",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T11:18:15Z",
+      "streams": [
+        {
+          "id": "aws_1b1f8bde3889a132fc6e",
+          "stationId": "awb_cd59f8208caf1518e1f0",
+          "name": "RADIO MOON",
+          "country": "LT",
+          "url": "http://193.70.34.27:20330/kdime",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "42d3a5c0-0086-4c96-b8e8-96a2c4f6a303"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_af314f9421a3c0c9dc2c",
       "name": "AAAudio",
       "country": "LU",
@@ -41011,6 +41093,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T06:03:44Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5c85b30d7c654a728717",
+      "name": "Radio Fest Tehuacán",
+      "country": "MX",
+      "subdivision": "Tehuacán, Puebla",
+      "languages": [],
+      "categories": [
+        "jazz",
+        "oldies"
+      ],
+      "tags": [
+        "80s",
+        "jazz"
+      ],
+      "homepage": "https://stream.zeno.fm/dwhxrwbsjaevv",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T06:54:52Z",
+      "streams": [
+        {
+          "id": "aws_bd7390dfdf5f864c3815",
+          "stationId": "awb_5c85b30d7c654a728717",
+          "name": "Radio Fest Tehuacán",
+          "country": "MX",
+          "url": "https://stream.zeno.fm/dwhxrwbsjaevv",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aca6e13a-f563-46ac-ae91-bede2856c4bc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -43563,7 +43686,7 @@
         "smooth jazz"
       ],
       "homepage": "https://latremenda.pe/",
-      "favicon": "https://imgur.com/a/vahyGFo",
+      "favicon": "https://renewed-amaranth-wsrjzdvewp.edgeone.app/logo_latremenda.jpg",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-08-24",
@@ -45196,7 +45319,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+      "favicon": "https://radiaura.net/apple-touch-icon.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -50738,7 +50861,7 @@
             "653a063c-6d10-46da-af43-ceaeee50c933"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -61181,7 +61304,7 @@
     },
     {
       "id": "awb_dce1f737b260dec682b6",
-      "name": "The Source:Smooth Jazz Radio - KJAC.DB",
+      "name": "The Source - Smooth Jazz Radio KJAC.DB",
       "country": "US",
       "subdivision": "WA",
       "languages": [
@@ -61198,7 +61321,7 @@
         "vocal contemporary"
       ],
       "homepage": "https://www.thesourcesmoothjazzradio.com/",
-      "favicon": "https://assets.clrd.net/uploads/logos/autodj/019dadf0-f0bf-7212-a652-f5c4e0c20233/0a60605f-b500-401f-a62f-8d05b670dda4.webp",
+      "favicon": "https://www.thesourcesmoothjazzradio.com/images/favicon-32x32.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-27T21:12:09Z",
@@ -62792,7 +62915,7 @@
             "2fd6d63d-346a-4f8e-b6db-9f0f469ee182"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },

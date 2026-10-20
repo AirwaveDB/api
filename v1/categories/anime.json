@@ -1,6 +1,6 @@
 {
   "id": "anime",
-  "stationCount": 150,
+  "stationCount": 152,
   "stations": [
     {
       "id": "awb_f6e4ec7e5789d944ddc4",
@@ -471,7 +471,7 @@
     },
     {
       "id": "awb_d8f1e095371ed7146854",
-      "name": "Rádio AMC",
+      "name": "Rádio AMC+",
       "country": "BR",
       "subdivision": null,
       "languages": [
@@ -486,7 +486,7 @@
         "jrock"
       ],
       "homepage": "https://radioamc.com.br/",
-      "favicon": "https://radioamc.com.br/shared/amclogo.png",
+      "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-02-19T15:57:39Z",
@@ -1890,6 +1890,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T10:45:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3a35da79b0eedfb38ed4",
+      "name": "KPOP - atomicradio",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "anime",
+        "pop"
+      ],
+      "tags": [
+        "k-pop",
+        "kpop"
+      ],
+      "homepage": "https://atomic.radio/kpop",
+      "favicon": "https://assets.atomic.radio/web/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:16:34Z",
+      "streams": [
+        {
+          "id": "aws_8cc60c123aa4fdfacac6",
+          "stationId": "awb_3a35da79b0eedfb38ed4",
+          "name": "KPOP - atomicradio",
+          "country": "DE",
+          "url": "https://listen.atomic.radio/kpop.m3u8",
+          "codec": "aac",
+          "bitrate": 352,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8495c4a7-0c66-47b3-acd6-4b957017f610"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -5534,6 +5577,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T08:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6bb922c47273effd3b54",
+      "name": "101.9 Hallypop Radio - DWAP",
+      "country": "PH",
+      "subdivision": "Quezon City",
+      "languages": [
+        "en",
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "kpop",
+        "opm"
+      ],
+      "homepage": "https://m.youtube.com/@JungoPinoy",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/f/fb/GMA_Hallypop_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T23:19:21Z",
+      "streams": [
+        {
+          "id": "aws_d4ef7fff4fe0177e2004",
+          "stationId": "awb_6bb922c47273effd3b54",
+          "name": "101.9 Hallypop Radio - DWAP",
+          "country": "PH",
+          "url": "http://ais-edge50-live365-dal02.cdnstream.com/a63316",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4bb8c0ee-7e48-4e20-8966-c57a12ffb0bd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },

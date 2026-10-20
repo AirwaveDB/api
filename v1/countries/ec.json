@@ -1,7 +1,7 @@
 {
   "code": "EC",
-  "stationCount": 148,
-  "streamCount": 150,
+  "stationCount": 149,
+  "streamCount": 151,
   "stations": [
     {
       "id": "awb_f36122d4819d9ca5934a",
@@ -1820,6 +1820,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T12:39:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_76d30b528a29e5a35ca1",
+      "name": "LOVE FM: All you need is Love ♥ Clásicos con Amor",
+      "country": "EC",
+      "subdivision": null,
+      "languages": [
+        "es"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://lovefm.com.mx/",
+      "favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T00:16:17Z",
+      "streams": [
+        {
+          "id": "aws_b0f8835a4ea6c97583a9",
+          "stationId": "awb_76d30b528a29e5a35ca1",
+          "name": "LOVE FM: All you need is Love ♥ Clásicos con Amor",
+          "country": "EC",
+          "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "20e22d7a-199b-4cb4-883c-6dc28eaa69b7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

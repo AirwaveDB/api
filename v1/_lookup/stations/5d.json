@@ -3709,6 +3709,52 @@
       }
     ]
   },
+  "awb_5da35a39aec182d606d7": {
+    "id": "awb_5da35a39aec182d606d7",
+    "name": "Fréquence 3+ French Collector",
+    "country": "FR",
+    "subdivision": "Centre-Val de Loire",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "chanson française",
+      "france",
+      "oldies",
+      "sans pub",
+      "variété",
+      "webradio"
+    ],
+    "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+    "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plusfrenchcollector.png",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T22:20:08Z",
+    "streams": [
+      {
+        "id": "aws_fea6e7fe69f3816fd9da",
+        "stationId": "awb_5da35a39aec182d606d7",
+        "name": "Fréquence 3+ French Collector",
+        "country": "FR",
+        "url": "https://hls.net-radio.fr/Frequence3Plus-5/Frequence3Plus-5.m3u8",
+        "codec": "aac",
+        "bitrate": 460,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1f4d18cf-5570-4ba7-bf69-59889d11c34e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
+      }
+    ]
+  },
   "awb_5d5507a04619814cd1fd": {
     "id": "awb_5d5507a04619814cd1fd",
     "name": "Hotmix DIsco Fever",
@@ -5598,7 +5644,7 @@
       "pop"
     ],
     "homepage": "https://www.saurosoftradio.it/",
-    "favicon": "https://www.saurosoftradio.it/wp-content/uploads/2022/03/dinotrasparente.png",
+    "favicon": "http://www.saurosoftradio.it/wp-content/uploads/2025/03/LOGOSAUROSOFT-1.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-14T08:04:59Z",
@@ -7550,6 +7596,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T15:42:01Z"
+      }
+    ]
+  },
+  "awb_5d999b3e4782709fe735": {
+    "id": "awb_5d999b3e4782709fe735",
+    "name": "Любимое Радио",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://russia.radiosolo.ru/radio_ru/lyubimoe/icecast.audio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T09:07:14Z",
+    "streams": [
+      {
+        "id": "aws_0ef24dcd26a6dc587439",
+        "stationId": "awb_5d999b3e4782709fe735",
+        "name": "Любимое Радио",
+        "country": "RU",
+        "url": "https://russia.radiosolo.ru/radio_ru/lyubimoe/icecast.audio",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a70d6488-aac9-49d9-a65d-a72b4fca524d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

@@ -2829,6 +2829,49 @@
       }
     ]
   },
+  "awb_fd35bea22afefe170667": {
+    "id": "awb_fd35bea22afefe170667",
+    "name": "COPE Más Santander",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.cope.es/emisoras/cantabria/cantabria-provincia/santander",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:23:36Z",
+    "streams": [
+      {
+        "id": "aws_3b6ea95afd3456973ffc",
+        "stationId": "awb_fd35bea22afefe170667",
+        "name": "COPE Más Santander",
+        "country": "ES",
+        "url": "https://wecast-bl01.flumotion.com/copesedes/santander-mas.mp3",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c574f587-942b-40db-be02-40331e109f20"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_fd5408a829020e151d53": {
     "id": "awb_fd5408a829020e151d53",
     "name": "Decada FM 100.1",
@@ -3400,8 +3443,8 @@
         "name": "Kalizo Radio Lo-fi",
         "country": "FR",
         "url": "https://streams.dez.ovh/listen/chillofi/radio.mp3",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 192,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3411,7 +3454,7 @@
           "54d05162-e97b-4a67-a33b-e3ab763013d0"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },

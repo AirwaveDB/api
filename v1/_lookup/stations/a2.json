@@ -685,6 +685,41 @@
       }
     ]
   },
+  "awb_a21b89d275ec3bc9b4c2": {
+    "id": "awb_a21b89d275ec3bc9b4c2",
+    "name": "Bangladesh betar 90.0 MHz",
+    "country": "BD",
+    "subdivision": "Dhaka District",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://as3.digitalsynapsebd.com:8582/stream",
+    "favicon": "http://as3.digitalsynapsebd.com:8582/stream",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T20:07:11Z",
+    "streams": [
+      {
+        "id": "aws_9b1b6de44fecaebf78ad",
+        "stationId": "awb_a21b89d275ec3bc9b4c2",
+        "name": "Bangladesh betar 90.0 MHz",
+        "country": "BD",
+        "url": "http://as3.digitalsynapsebd.com:8582/stream",
+        "codec": "mp3",
+        "bitrate": 64,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dccdd79f-d443-48fc-94c4-84f49ca8fef2"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_a253f8c3523f0729975d": {
     "id": "awb_a253f8c3523f0729975d",
     "name": "Dmusic",
@@ -3947,6 +3982,41 @@
       }
     ]
   },
+  "awb_a2b085582829367feafb": {
+    "id": "awb_a2b085582829367feafb",
+    "name": "AI WAVE RADIO",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.miblradio.com.au/r/ai-wave-radio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T12:17:27Z",
+    "streams": [
+      {
+        "id": "aws_11d966036c51c8f053ae",
+        "stationId": "awb_a2b085582829367feafb",
+        "name": "AI WAVE RADIO",
+        "country": "FR",
+        "url": "https://stream.miblradio.com.au/live/ai-wave-radio",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fbe4d009-b421-4bbc-8bf2-ab410fc47542"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_a2d31940a54b51aa7ed5": {
     "id": "awb_a2d31940a54b51aa7ed5",
     "name": "Alouette nouveaux talents",
@@ -4090,8 +4160,8 @@
       "love-songs",
       "pop"
     ],
-    "homepage": "https://www.hotmixradio.com/",
-    "favicon": "https://www.hotmixradio.com/favicon.ico",
+    "homepage": "https://hotmixradio.com/",
+    "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-18T18:14:54Z",

@@ -6858,8 +6858,8 @@
         "name": "Radio peru andino",
         "country": "PE",
         "url": "https://stream-175.zeno.fm/sv5a3s8waxtuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdjVhM3M4d2F4dHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVKSEZqaVFoUUxLdmNXNVJwel94WkEiLCJpYXQiOjE3Nzk2MDIwMzcsImV4cCI6MTc3OTYwMjA5N30.ZoeD-FPRM0sxxpAfj2yfPJvTVHmf8SXrdESE_EcPdIg",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -6870,7 +6870,7 @@
           "ff2a3f5f-8d42-4c1e-8238-0f2843d334f6"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },
@@ -8522,6 +8522,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T21:40:38Z"
+      }
+    ]
+  },
+  "awb_799db03eb300a6fffc61": {
+    "id": "awb_799db03eb300a6fffc61",
+    "name": "Cyberhog Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "electronic",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "elictric",
+      "house",
+      "rock",
+      "talk",
+      "various"
+    ],
+    "homepage": "https://psycopigradio100.com/",
+    "favicon": "https://hq3.yesstreaming.net/media/keithshaffer/station_26/logos/logo_1792065759800.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T17:56:57Z",
+    "streams": [
+      {
+        "id": "aws_db0fc869df38bc1a54c6",
+        "stationId": "awb_799db03eb300a6fffc61",
+        "name": "Cyberhog Radio",
+        "country": "US",
+        "url": "https://hq3.yesstreaming.net/cyberhogradio/CyberHogRadio",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f264d8bb-2cae-4ac3-a3c7-fafc95397eec"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

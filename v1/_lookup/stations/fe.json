@@ -1163,6 +1163,47 @@
       }
     ]
   },
+  "awb_fee3c2dc6debeee3705c": {
+    "id": "awb_fee3c2dc6debeee3705c",
+    "name": "SO Kakarecos Light",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro",
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "musica romantica",
+      "retro",
+      "soft rock"
+    ],
+    "homepage": "https://sokakarecos.com/",
+    "favicon": "https://i.imgur.com/Gr3AS9l.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:49:33Z",
+    "streams": [
+      {
+        "id": "aws_56da8e3a3145ec637e58",
+        "stationId": "awb_fee3c2dc6debeee3705c",
+        "name": "SO Kakarecos Light",
+        "country": "BR",
+        "url": "http://sokakarecos.ddns.net:9005/",
+        "codec": "mp3",
+        "bitrate": 160,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "22e73d38-9092-4e05-8092-fc36a4899ded"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
+      }
+    ]
+  },
   "awb_fe8fef62f0fd1ee4ab1b": {
     "id": "awb_fe8fef62f0fd1ee4ab1b",
     "name": "CJDJ 102.1 \"Rock 102\" Saskatoon, SK",
@@ -3056,6 +3097,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T20:29:28Z"
+      }
+    ]
+  },
+  "awb_fe99bb3776e2de4afe44": {
+    "id": "awb_fe99bb3776e2de4afe44",
+    "name": "AfriOnde classic",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://afrionde.fr/",
+    "favicon": "https://afrionde.fr/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T02:17:38Z",
+    "streams": [
+      {
+        "id": "aws_7e4f45a5188e4adc2b62",
+        "stationId": "awb_fe99bb3776e2de4afe44",
+        "name": "AfriOnde classic",
+        "country": "FR",
+        "url": "https://live.afrionde.fr/afrionde10",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "cb3ac084-3965-4f84-961f-10f73380cc0f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

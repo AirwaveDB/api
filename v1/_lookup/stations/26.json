@@ -2053,6 +2053,52 @@
       }
     ]
   },
+  "awb_26af3b19375a3ffcb5d6": {
+    "id": "awb_26af3b19375a3ffcb5d6",
+    "name": "Backroad Country Radio",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "rock"
+    ],
+    "tags": [
+      "americana",
+      "country",
+      "country rock",
+      "ryan robson",
+      "singer-songwriter"
+    ],
+    "homepage": "https://backroadcountryradio.com/",
+    "favicon": "https://backroadcountryradio.com/assets/img/logo-1200.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T17:14:43Z",
+    "streams": [
+      {
+        "id": "aws_a4574a37d10694dbc53b",
+        "stationId": "awb_26af3b19375a3ffcb5d6",
+        "name": "Backroad Country Radio",
+        "country": "DE",
+        "url": "https://stream.backroadcountryradio.com/listen/backroad/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "380a0773-6a92-4406-8312-10a286d55003"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
+      }
+    ]
+  },
   "awb_2628fb478da349d4a520": {
     "id": "awb_2628fb478da349d4a520",
     "name": "DrGnu - Country",
@@ -4700,7 +4746,7 @@
           "fce74d2f-b975-4fdd-888e-e4db23ac4663"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T00:17:25Z"
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -4895,16 +4941,39 @@
     "id": "awb_267fbec23f2f8bc1e052",
     "name": "Radio Ciroma",
     "country": "IT",
-    "subdivision": null,
-    "languages": [],
+    "subdivision": "Cosenza",
+    "languages": [
+      "it"
+    ],
     "categories": [],
-    "tags": [],
+    "tags": [
+      "radio comunitaria"
+    ],
     "homepage": "https://ciroma.org/",
     "favicon": "https://ciroma.org/images/ciroma_small.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T19:27:05Z",
     "streams": [
+      {
+        "id": "aws_bfa819247293ab1c5e4c",
+        "stationId": "awb_267fbec23f2f8bc1e052",
+        "name": "Radio Ciroma",
+        "country": "IT",
+        "url": "https://blimp.streampunk.cc/_stream/ciroma.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "03326a22-ad3f-4fa0-915d-40d66d08ee2c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      },
       {
         "id": "aws_6c57efb0139514fe4526",
         "stationId": "awb_267fbec23f2f8bc1e052",

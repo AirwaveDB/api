@@ -4310,6 +4310,50 @@
       }
     ]
   },
+  "awb_d0037bbcb8b479d0501e": {
+    "id": "awb_d0037bbcb8b479d0501e",
+    "name": "SER Torrelavega",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "local news",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://cadenaser.com/ser-torrelavega/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:24:13Z",
+    "streams": [
+      {
+        "id": "aws_98354aa9753e024565ec",
+        "stationId": "awb_d0037bbcb8b479d0501e",
+        "name": "SER Torrelavega",
+        "country": "ES",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c527ff3f-4710-4101-b47e-e16fbba002ee"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_d016f648e78f591f837a": {
     "id": "awb_d016f648e78f591f837a",
     "name": "Sie7e Spain",
@@ -4610,7 +4654,7 @@
     "id": "awb_d032b5f52782fed4daa0",
     "name": "Radio Couleur Sud",
     "country": "FR",
-    "subdivision": "France",
+    "subdivision": "Var",
     "languages": [
       "en",
       "fr"

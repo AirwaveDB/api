@@ -2984,6 +2984,50 @@
       }
     ]
   },
+  "awb_7ec695e48e6c36cc2fa5": {
+    "id": "awb_7ec695e48e6c36cc2fa5",
+    "name": "Onda Cero Santander",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "local news",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://www.ondacero.es/emisoras/cantabria/santander/directo/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:23:36Z",
+    "streams": [
+      {
+        "id": "aws_4819b01495d03091eb8b",
+        "stationId": "awb_7ec695e48e6c36cc2fa5",
+        "name": "Onda Cero Santander",
+        "country": "ES",
+        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SANTANDERAAC.m3u8",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d572e273-574b-4234-9ef3-86337b3fa31c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_7e43868df1ff28f33862": {
     "id": "awb_7e43868df1ff28f33862",
     "name": "Radio Planeta Costa del Sol",
@@ -3154,7 +3198,7 @@
     "id": "awb_7e7569648104bc027057",
     "name": "DIGITAL2RADIO",
     "country": "FR",
-    "subdivision": "Normandie",
+    "subdivision": "Normandy",
     "languages": [],
     "categories": [
       "oldies",
@@ -7252,7 +7296,7 @@
           "653a063c-6d10-46da-af43-ceaeee50c933"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-13T22:04:58Z"
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },

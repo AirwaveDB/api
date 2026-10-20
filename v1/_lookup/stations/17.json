@@ -3452,6 +3452,41 @@
       }
     ]
   },
+  "awb_17a85effd6d43660b220": {
+    "id": "awb_17a85effd6d43660b220",
+    "name": "Oxygène Alpes",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiooxygene.com/",
+    "favicon": "https://radiooxygene.com/wp-content/uploads/2020/06/logo-MOBILE-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T15:07:28Z",
+    "streams": [
+      {
+        "id": "aws_baff87811002c87ed3b8",
+        "stationId": "awb_17a85effd6d43660b220",
+        "name": "Oxygène Alpes",
+        "country": "FR",
+        "url": "https://radiooxygene.com/isere/",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9324ce7d-fcb8-47dc-b8da-da94250d2fac"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_170145a89df6bee49f9c": {
     "id": "awb_170145a89df6bee49f9c",
     "name": "Radio Presence Lourdes",
@@ -7723,9 +7758,9 @@
         "stationId": "awb_17a34029a590c4231c29",
         "name": "WJGW 107.5 \"The Village\" - Fort Pierce, Florida",
         "country": "US",
-        "url": "https://ice25.securenetsystems.net/WJGW.m3u",
-        "codec": null,
-        "bitrate": 0,
+        "url": "https://ice25.securenetsystems.net:80/WJGW",
+        "codec": "aac",
+        "bitrate": 32,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -7735,7 +7770,7 @@
           "1895cb6b-7017-49c3-b9cd-ecf2179aad63"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },

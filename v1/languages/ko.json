@@ -1,6 +1,6 @@
 {
   "code": "ko",
-  "stationCount": 98,
+  "stationCount": 99,
   "stations": [
     {
       "id": "awb_82cb97116bafb0936626",
@@ -3848,6 +3848,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T08:58:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6bb922c47273effd3b54",
+      "name": "101.9 Hallypop Radio - DWAP",
+      "country": "PH",
+      "subdivision": "Quezon City",
+      "languages": [
+        "en",
+        "ko"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "tags": [
+        "kpop",
+        "opm"
+      ],
+      "homepage": "https://m.youtube.com/@JungoPinoy",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/f/fb/GMA_Hallypop_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T23:19:21Z",
+      "streams": [
+        {
+          "id": "aws_d4ef7fff4fe0177e2004",
+          "stationId": "awb_6bb922c47273effd3b54",
+          "name": "101.9 Hallypop Radio - DWAP",
+          "country": "PH",
+          "url": "http://ais-edge50-live365-dal02.cdnstream.com/a63316",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4bb8c0ee-7e48-4e20-8966-c57a12ffb0bd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },

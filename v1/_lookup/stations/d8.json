@@ -739,7 +739,7 @@
         "name": "Радио Рибка.бг",
         "country": "BG",
         "url": "https://xn--80abuj1a.xn--90ae/live-radio",
-        "codec": null,
+        "codec": "mp3",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -750,7 +750,7 @@
           "96b58791-6b1e-409c-83ca-ba018080427c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },
@@ -946,7 +946,7 @@
   },
   "awb_d8f1e095371ed7146854": {
     "id": "awb_d8f1e095371ed7146854",
-    "name": "Rádio AMC",
+    "name": "Rádio AMC+",
     "country": "BR",
     "subdivision": null,
     "languages": [
@@ -961,7 +961,7 @@
       "jrock"
     ],
     "homepage": "https://radioamc.com.br/",
-    "favicon": "https://radioamc.com.br/shared/amclogo.png",
+    "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-02-19T15:57:39Z",
@@ -3591,6 +3591,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T03:13:50Z"
+      }
+    ]
+  },
+  "awb_d80c78217e82372ba4ca": {
+    "id": "awb_d80c78217e82372ba4ca",
+    "name": "Onda Marina Online",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "oldies",
+      "pop"
+    ],
+    "homepage": "https://ondamarina.online/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:24:13Z",
+    "streams": [
+      {
+        "id": "aws_990b1a27f2d562dc66b9",
+        "stationId": "awb_d80c78217e82372ba4ca",
+        "name": "Onda Marina Online",
+        "country": "ES",
+        "url": "https://servidor40-3.brlogic.com:7004/live",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9cb08440-f948-41b2-b0c7-141114c24f27"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },
@@ -9099,7 +9142,7 @@
   },
   "awb_d823f202a95bdb95ef32": {
     "id": "awb_d823f202a95bdb95ef32",
-    "name": "X-Radio",
+    "name": "X Radio",
     "country": "US",
     "subdivision": null,
     "languages": [],

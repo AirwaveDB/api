@@ -1916,7 +1916,7 @@
           "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T00:17:25Z"
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -2991,6 +2991,53 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T03:11:52Z"
+      }
+    ]
+  },
+  "awb_2d748205b8cd10558fa7": {
+    "id": "awb_2d748205b8cd10558fa7",
+    "name": "PuntalRadio",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop",
+      "rock",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "pop",
+      "rock",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://www.puntalradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:16:34Z",
+    "streams": [
+      {
+        "id": "aws_e51ef4b74ae7b063d840",
+        "stationId": "awb_2d748205b8cd10558fa7",
+        "name": "PuntalRadio",
+        "country": "ES",
+        "url": "https://a5.asurahosting.com:6700/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f20aff23-889e-4090-bcb4-30891566fc7a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },
@@ -4768,8 +4815,8 @@
         "name": "Radi.fm Klassik DACH",
         "country": "JP",
         "url": "https://live.radi.fm/stream/de.aac",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -4779,7 +4826,7 @@
           "5808e2da-b25a-49e7-9ba3-7667499f2d00"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -7387,6 +7434,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-16T21:44:24Z"
+      }
+    ]
+  },
+  "awb_2dd75b16671cf906d32e": {
+    "id": "awb_2dd75b16671cf906d32e",
+    "name": "Радио Волшебный Шансон",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://listen8.myradio24.com/8144",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T09:17:34Z",
+    "streams": [
+      {
+        "id": "aws_48bfcffa36cd2ec34173",
+        "stationId": "awb_2dd75b16671cf906d32e",
+        "name": "Радио Волшебный Шансон",
+        "country": "RU",
+        "url": "https://listen8.myradio24.com/8144",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8b2d2af5-9dc2-4818-86c1-30bcf7bea400"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

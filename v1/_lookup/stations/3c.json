@@ -2808,7 +2808,7 @@
           "870899bd-4240-452d-bfa9-7f9b4b8384a8"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T02:35:15Z"
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -3005,6 +3005,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T07:38:41Z"
+      }
+    ]
+  },
+  "awb_3cb99669f114be9ea666": {
+    "id": "awb_3cb99669f114be9ea666",
+    "name": "RNE Radio Nacional Cantabria",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "public"
+    ],
+    "tags": [
+      "news",
+      "public radio"
+    ],
+    "homepage": "https://www.rtve.es/play/audios/programa/rne_ctb-live/3893531/",
+    "favicon": null,
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:26:17Z",
+    "streams": [
+      {
+        "id": "aws_e86065672ff3fd22cd47",
+        "stationId": "awb_3cb99669f114be9ea666",
+        "name": "RNE Radio Nacional Cantabria",
+        "country": "ES",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/ctb/mp3/high",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7d647a6d-588a-4f43-989c-4608b76662e4"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },

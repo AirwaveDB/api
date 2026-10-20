@@ -3690,6 +3690,50 @@
       }
     ]
   },
+  "awb_83492b19929ade21dc67": {
+    "id": "awb_83492b19929ade21dc67",
+    "name": "ARCO FM",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "sports"
+    ],
+    "tags": [
+      "local news",
+      "news",
+      "sports"
+    ],
+    "homepage": "https://arcofm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:24:13Z",
+    "streams": [
+      {
+        "id": "aws_c11ed153bf730060ee75",
+        "stationId": "awb_83492b19929ade21dc67",
+        "name": "ARCO FM",
+        "country": "ES",
+        "url": "https://hisparadio.duckdns.org/stream/1/stream.mp3",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "500e90ba-7b72-466e-b2be-db0e89a49ff3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_8321d13fb4081ba6452a": {
     "id": "awb_8321d13fb4081ba6452a",
     "name": "Tormes FM",
@@ -3860,6 +3904,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T21:45:16Z"
+      }
+    ]
+  },
+  "awb_83924ddf96edb300e0f5": {
+    "id": "awb_83924ddf96edb300e0f5",
+    "name": "AfriOnde cefran",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://afrionde.fr/",
+    "favicon": "https://afrionde.fr/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T02:12:16Z",
+    "streams": [
+      {
+        "id": "aws_6f6a8e9fb4143c1c99de",
+        "stationId": "awb_83924ddf96edb300e0f5",
+        "name": "AfriOnde cefran",
+        "country": "FR",
+        "url": "https://live.afrionde.fr/afrionde2",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7719768a-e584-4a77-9846-36c42155cc9b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

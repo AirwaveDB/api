@@ -5190,6 +5190,49 @@
       }
     ]
   },
+  "awb_6bb922c47273effd3b54": {
+    "id": "awb_6bb922c47273effd3b54",
+    "name": "101.9 Hallypop Radio - DWAP",
+    "country": "PH",
+    "subdivision": "Quezon City",
+    "languages": [
+      "en",
+      "ko"
+    ],
+    "categories": [
+      "anime"
+    ],
+    "tags": [
+      "kpop",
+      "opm"
+    ],
+    "homepage": "https://m.youtube.com/@JungoPinoy",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/f/fb/GMA_Hallypop_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T23:19:21Z",
+    "streams": [
+      {
+        "id": "aws_d4ef7fff4fe0177e2004",
+        "stationId": "awb_6bb922c47273effd3b54",
+        "name": "101.9 Hallypop Radio - DWAP",
+        "country": "PH",
+        "url": "http://ais-edge50-live365-dal02.cdnstream.com/a63316",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4bb8c0ee-7e48-4e20-8966-c57a12ffb0bd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
+      }
+    ]
+  },
   "awb_6b197b916c1885e5a26e": {
     "id": "awb_6b197b916c1885e5a26e",
     "name": "DWYG LiPS 106 FM",
@@ -6972,6 +7015,67 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-16T23:39:50Z"
+      }
+    ]
+  },
+  "awb_6be4ad9725cb29dea4c2": {
+    "id": "awb_6be4ad9725cb29dea4c2",
+    "name": "Hip-Hop",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hiphop",
+      "rap"
+    ],
+    "homepage": "https://classicradio.network/",
+    "favicon": "https://smartstream.myautodj.com/static/img/logo.png?v=0.17.1",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-19T13:04:42Z",
+    "streams": [
+      {
+        "id": "aws_3c1e33e523c1818f8e10",
+        "stationId": "awb_6be4ad9725cb29dea4c2",
+        "name": "Hip-Hop",
+        "country": "US",
+        "url": "https://smartstream.myautodj.com:8000/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6c979374-c12a-475e-8e0f-a03d4e17babb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
+      },
+      {
+        "id": "aws_e663b7fd271f1d8c393d",
+        "stationId": "awb_6be4ad9725cb29dea4c2",
+        "name": "Hip-Hop",
+        "country": "US",
+        "url": "https://smartstream.myautodj.com:8002/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c84df2ae-6563-4445-a43e-226145856df9"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "code": "fre",
   "canonicalCode": "fr",
-  "stationCount": 2441,
+  "stationCount": 2461,
   "stations": [
     {
       "id": "awb_bd646a7635d7ff2f2894",
@@ -10401,6 +10401,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T23:20:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_aeb643ff3549321c2758",
+      "name": "Radio Pacoul",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radiopacoul.top/",
+      "favicon": "https://www.radiopacoul.top/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T09:30:04Z",
+      "streams": [
+        {
+          "id": "aws_3ec3a317de460316bfc6",
+          "stationId": "awb_aeb643ff3549321c2758",
+          "name": "Radio Pacoul",
+          "country": "CA",
+          "url": "https://live.radiopacoul.top/stream/radiopacoul/stream",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "263e79f0-f145-4b15-aa95-adfc5bc87051"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -23971,6 +24008,357 @@
       ]
     },
     {
+      "id": "awb_7250e6cff211fb44f7ff",
+      "name": "AfriOnde",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:16:47Z",
+      "streams": [
+        {
+          "id": "aws_454fdce69f71753c3a1e",
+          "stationId": "awb_7250e6cff211fb44f7ff",
+          "name": "AfriOnde",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde1",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7ebd52f7-d6b2-4143-9b6a-121d3d8f5013"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_188fa7bad855d607b11f",
+      "name": "AfriOnde Abidjan",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:18:28Z",
+      "streams": [
+        {
+          "id": "aws_8567fa869b138cf124d7",
+          "stationId": "awb_188fa7bad855d607b11f",
+          "name": "AfriOnde Abidjan",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde4",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ef3d2ae7-2ff1-40b8-8c6e-315fa5dc7579"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_04ad7bc9662e5248ffc5",
+      "name": "AfriOnde Afrobeat",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:16:47Z",
+      "streams": [
+        {
+          "id": "aws_a2babe6aeb940584f959",
+          "stationId": "awb_04ad7bc9662e5248ffc5",
+          "name": "AfriOnde Afrobeat",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5922440f-dbf5-45e5-a02b-2995b7d9bcff"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_83924ddf96edb300e0f5",
+      "name": "AfriOnde cefran",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:12:16Z",
+      "streams": [
+        {
+          "id": "aws_6f6a8e9fb4143c1c99de",
+          "stationId": "awb_83924ddf96edb300e0f5",
+          "name": "AfriOnde cefran",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde2",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7719768a-e584-4a77-9846-36c42155cc9b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_fe99bb3776e2de4afe44",
+      "name": "AfriOnde classic",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:17:38Z",
+      "streams": [
+        {
+          "id": "aws_7e4f45a5188e4adc2b62",
+          "stationId": "awb_fe99bb3776e2de4afe44",
+          "name": "AfriOnde classic",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde10",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cb3ac084-3965-4f84-961f-10f73380cc0f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_a7f7518bc567e37109d4",
+      "name": "AfriOnde Conakry",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:18:28Z",
+      "streams": [
+        {
+          "id": "aws_fa4a74dbaef6ca7111a6",
+          "stationId": "awb_a7f7518bc567e37109d4",
+          "name": "AfriOnde Conakry",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde5",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b2d1af7f-cd8a-433e-bfba-4c6167a557dd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_3eac7ec20c5516bf4bfd",
+      "name": "AfriOnde Dakar",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:14:22Z",
+      "streams": [
+        {
+          "id": "aws_e709557c020bcbd9a7c2",
+          "stationId": "awb_3eac7ec20c5516bf4bfd",
+          "name": "AfriOnde Dakar",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde6",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d22f1dd8-3c5e-4bd6-b9dc-18e3209a40da"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_a47eefae9dcf7d243c41",
+      "name": "AfriOnde Maghreb",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:18:29Z",
+      "streams": [
+        {
+          "id": "aws_d764779d0552cdf2f4f1",
+          "stationId": "awb_a47eefae9dcf7d243c41",
+          "name": "AfriOnde Maghreb",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde9",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dbcb4d1a-2c49-4deb-a8c1-31e91ab902f0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_2b46d5d73f52d4f00905",
+      "name": "AfriOnde USA",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:15:06Z",
+      "streams": [
+        {
+          "id": "aws_84bee1dcbd70ef3b465b",
+          "stationId": "awb_2b46d5d73f52d4f00905",
+          "name": "AfriOnde USA",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "76a919d9-b73b-47a1-ad4f-6a819504ed6f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_0224a06eaa82beba7869",
       "name": "Agora Côte d’Azur",
       "country": "FR",
@@ -26817,7 +27205,7 @@
     },
     {
       "id": "awb_200891c5235ae1cf1f57",
-      "name": "Boombox radio",
+      "name": "Boombox Radio",
       "country": "FR",
       "subdivision": "Occitanie",
       "languages": [
@@ -43533,6 +43921,375 @@
       ]
     },
     {
+      "id": "awb_916450ca709f73aa74dc",
+      "name": "Fréquence 3+ 2000's Dance",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "2000s",
+        "dance",
+        "france",
+        "house",
+        "sans pub",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plus2000sdance.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:19:45Z",
+      "streams": [
+        {
+          "id": "aws_4de225dbf658d31a2dde",
+          "stationId": "awb_916450ca709f73aa74dc",
+          "name": "Fréquence 3+ 2000's Dance",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-3/Frequence3Plus-3.m3u8",
+          "codec": "aac",
+          "bitrate": 460,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1019e195-bd10-472f-8ccf-8b4660ca56ac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1456a22f4fda42851b26",
+      "name": "Fréquence 3+ 90's Dance",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "90s",
+        "dance",
+        "eurodance",
+        "france",
+        "sans pub",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plus90sdance.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:19:45Z",
+      "streams": [
+        {
+          "id": "aws_ca38b05c4f465e38759b",
+          "stationId": "awb_1456a22f4fda42851b26",
+          "name": "Fréquence 3+ 90's Dance",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-2/Frequence3Plus-2.m3u8",
+          "codec": "aac",
+          "bitrate": 460,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "15323f82-c670-425a-b88a-2ec43a9cbad6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dae72df92514f5c6ba37",
+      "name": "Fréquence 3+ Collector",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "france",
+        "oldies",
+        "pop",
+        "sans pub",
+        "tubes",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3pluscollector.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:20:08Z",
+      "streams": [
+        {
+          "id": "aws_e1735990cc32c27cb60e",
+          "stationId": "awb_dae72df92514f5c6ba37",
+          "name": "Fréquence 3+ Collector",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-1/Frequence3Plus-1.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "413dd42d-a810-4d3a-8dac-fac4c22483b6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_5da35a39aec182d606d7",
+      "name": "Fréquence 3+ French Collector",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "chanson française",
+        "france",
+        "oldies",
+        "sans pub",
+        "variété",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plusfrenchcollector.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:20:08Z",
+      "streams": [
+        {
+          "id": "aws_fea6e7fe69f3816fd9da",
+          "stationId": "awb_5da35a39aec182d606d7",
+          "name": "Fréquence 3+ French Collector",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-5/Frequence3Plus-5.m3u8",
+          "codec": "aac",
+          "bitrate": 460,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1f4d18cf-5570-4ba7-bf69-59889d11c34e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2887b2ab32f0b26068e1",
+      "name": "Fréquence 3+ La Playlist Dédé",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "france",
+        "playlist",
+        "pop",
+        "sans pub",
+        "tubes",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plusplaylistdede.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:19:45Z",
+      "streams": [
+        {
+          "id": "aws_685f095227fd344f93fe",
+          "stationId": "awb_2887b2ab32f0b26068e1",
+          "name": "Fréquence 3+ La Playlist Dédé",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-4/Frequence3Plus-4.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b1a2e454-df47-46c7-8d9f-d2d4143c9f73"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_6571e33c9fc9e8cb524a",
+      "name": "Fréquence 3+ PopXperience by Adrien Toma",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "france",
+        "pop",
+        "sans pub",
+        "top 40",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/popxperiencebyadrientoma.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:19:45Z",
+      "streams": [
+        {
+          "id": "aws_ff75e57b4a83809347c7",
+          "stationId": "awb_6571e33c9fc9e8cb524a",
+          "name": "Fréquence 3+ PopXperience by Adrien Toma",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-8/Frequence3Plus-8.m3u8",
+          "codec": "aac",
+          "bitrate": 460,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d1c2f750-0993-458e-8f45-c64589cc2a3f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c1622612bcce4889a564",
+      "name": "Fréquence 3+ Reveil 80",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "france",
+        "pop",
+        "sans pub",
+        "tubes",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plusreveil80.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:20:08Z",
+      "streams": [
+        {
+          "id": "aws_eb890a37e3d5ce7d9da6",
+          "stationId": "awb_c1622612bcce4889a564",
+          "name": "Fréquence 3+ Reveil 80",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-6/Frequence3Plus-6.m3u8",
+          "codec": "aac",
+          "bitrate": 460,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "193cfc54-6137-477c-a0b9-eb4a94696fb0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d181407a33e96e9a6697",
+      "name": "Fréquence 3+ Vinyle",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "classic",
+        "france",
+        "oldies",
+        "sans pub",
+        "vinyle",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plusvinyle.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:20:08Z",
+      "streams": [
+        {
+          "id": "aws_c04a38cffb78c17ec61e",
+          "stationId": "awb_d181407a33e96e9a6697",
+          "name": "Fréquence 3+ Vinyle",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-7/Frequence3Plus-7.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c6848ed6-5eb0-4347-bfb5-2ca13b5e3eee"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_da44a963cae5f793ada5",
       "name": "Fréquence 7",
       "country": "FR",
@@ -46674,6 +47431,45 @@
       ]
     },
     {
+      "id": "awb_95c23f1b586c00b9f338",
+      "name": "Hit AfriOnde",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "various"
+      ],
+      "homepage": "https://afrionde.fr/",
+      "favicon": "https://afrionde.fr/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T02:13:31Z",
+      "streams": [
+        {
+          "id": "aws_f06ba8af08dfcd055053",
+          "stationId": "awb_95c23f1b586c00b9f338",
+          "name": "Hit AfriOnde",
+          "country": "FR",
+          "url": "https://live.afrionde.fr/afrionde7",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3e29036d-0c60-4a13-b493-e5767233834d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_386f86304a32f884fa9c",
       "name": "Hit Radio FR",
       "country": "FR",
@@ -47673,8 +48469,8 @@
         "love-songs",
         "pop"
       ],
-      "homepage": "https://www.hotmixradio.com/",
-      "favicon": "https://www.hotmixradio.com/favicon.ico",
+      "homepage": "https://hotmixradio.com/",
+      "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-18T18:14:54Z",
@@ -48552,7 +49348,7 @@
         "radio locale"
       ],
       "homepage": "https://www.ici.fr/radio/breizh-izel",
-      "favicon": "https://www.ici.fr/images/apple-touch-icon.png",
+      "favicon": "https://www.ici.fr/favicon56.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T10:24:25Z",
@@ -51268,8 +52064,8 @@
           "name": "Kalizo Radio Lo-fi",
           "country": "FR",
           "url": "https://streams.dez.ovh/listen/chillofi/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -51279,7 +52075,7 @@
             "54d05162-e97b-4a67-a33b-e3ab763013d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -75378,7 +76174,7 @@
     },
     {
       "id": "awb_4242dc875d1bdd4fe48f",
-      "name": "Puissance Max la Radio",
+      "name": "Puissance Max La Radio",
       "country": "FR",
       "subdivision": "Auvergne-Rhône-Alpes",
       "languages": [
@@ -75393,8 +76189,8 @@
         "top 40",
         "top hits"
       ],
-      "homepage": "https://puissance-max-la-radio.fr/",
-      "favicon": "https://www.image-heberg.fr/files/17675323612993863926.png",
+      "homepage": "https://www.puissance-max-la-radio.fr/#apropos",
+      "favicon": "https://static.wixstatic.com/media/eea892_1334dfd05976420cba30d24bcba8af47~mv2.png/v1/fill/w_462,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vierge.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-05T10:31:11Z",
@@ -78450,7 +79246,7 @@
       "id": "awb_d032b5f52782fed4daa0",
       "name": "Radio Couleur Sud",
       "country": "FR",
-      "subdivision": "France",
+      "subdivision": "Var",
       "languages": [
         "en",
         "fr"
@@ -79342,7 +80138,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -80972,7 +81768,7 @@
       "id": "awb_4236313780f9154e875b",
       "name": "Rádio IBNJ Paris",
       "country": "FR",
-      "subdivision": "Ile de France",
+      "subdivision": "Île-de-France",
       "languages": [
         "fr",
         "pt"
@@ -94057,7 +94853,7 @@
         "talk"
       ],
       "homepage": "https://www.tbm06.fr/radio/",
-      "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
+      "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-20T17:58:29Z",
@@ -98674,8 +99470,8 @@
           "name": "Radi.fm Monde Classique",
           "country": "JP",
           "url": "https://live.radi.fm/stream/fr.aac",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -98685,7 +99481,7 @@
             "e0485a8b-0fc9-445a-97fe-95b701cdcec9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -99989,6 +100785,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T01:28:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_38374e07709f9a2742c5",
+      "name": "Onjam-peo mifaly",
+      "country": "MG",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://app.tropicastradio.com/listen/tropicast-test-org/onjam-peo-mifaly",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:16:34Z",
+      "streams": [
+        {
+          "id": "aws_f689cfc01a4d6cabf10a",
+          "stationId": "awb_38374e07709f9a2742c5",
+          "name": "Onjam-peo mifaly",
+          "country": "MG",
+          "url": "https://listen.tropicastradio.com/stations/n1f01f4vjw/live.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "61d7477c-b567-484d-82c9-fe011995b884"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },

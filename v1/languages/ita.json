@@ -1,7 +1,7 @@
 {
   "code": "ita",
   "canonicalCode": "it",
-  "stationCount": 1253,
+  "stationCount": 1255,
   "stations": [
     {
       "id": "awb_6305d0e72050caf9b6e7",
@@ -21767,6 +21767,64 @@
       ]
     },
     {
+      "id": "awb_267fbec23f2f8bc1e052",
+      "name": "Radio Ciroma",
+      "country": "IT",
+      "subdivision": "Cosenza",
+      "languages": [
+        "it"
+      ],
+      "categories": [],
+      "tags": [
+        "radio comunitaria"
+      ],
+      "homepage": "https://ciroma.org/",
+      "favicon": "https://ciroma.org/images/ciroma_small.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T19:27:05Z",
+      "streams": [
+        {
+          "id": "aws_bfa819247293ab1c5e4c",
+          "stationId": "awb_267fbec23f2f8bc1e052",
+          "name": "Radio Ciroma",
+          "country": "IT",
+          "url": "https://blimp.streampunk.cc/_stream/ciroma.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "03326a22-ad3f-4fa0-915d-40d66d08ee2c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        },
+        {
+          "id": "aws_6c57efb0139514fe4526",
+          "stationId": "awb_267fbec23f2f8bc1e052",
+          "name": "Radio Ciroma",
+          "country": "IT",
+          "url": "https://s.streampunk.cc/ciroma.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "020cc890-becb-4ef4-b405-b70b39f876a3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T12:21:28Z"
+        }
+      ]
+    },
+    {
       "id": "awb_8bec7099803ee572106f",
       "name": "Radio Città Anni 80 web radio",
       "country": "IT",
@@ -23619,7 +23677,7 @@
             "464e9155-142b-4ef6-8ebb-aa1f3ad5aa7c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -50275,7 +50333,7 @@
         "pop"
       ],
       "homepage": "https://www.saurosoftradio.it/",
-      "favicon": "https://www.saurosoftradio.it/wp-content/uploads/2022/03/dinotrasparente.png",
+      "favicon": "http://www.saurosoftradio.it/wp-content/uploads/2025/03/LOGOSAUROSOFT-1.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-14T08:04:59Z",
@@ -50384,6 +50442,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T22:50:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5e2d0bac138da5e4b8f1",
+      "name": "Simx & Ly Radio",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "electronic",
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "hardcore",
+        "hardstyle",
+        "pop",
+        "pop dance"
+      ],
+      "homepage": "https://www.simxlyradio.it/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T19:27:05Z",
+      "streams": [
+        {
+          "id": "aws_a932583652309dd10a29",
+          "stationId": "awb_5e2d0bac138da5e4b8f1",
+          "name": "Simx & Ly Radio",
+          "country": "IT",
+          "url": "https://carol.epichosts.co.uk/proxy/simxlymusic/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "46f307b1-044f-4427-9346-8dd3305eea88"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -55308,7 +55413,7 @@
         "oldies",
         "the best of 80's"
       ],
-      "homepage": "http://radio.free-shoutcast.com/site/89000",
+      "homepage": "https://radio.free-shoutcast.com/site/89000",
       "favicon": null,
       "type": null,
       "sourceCount": 3,
@@ -55439,7 +55544,7 @@
         "stuttgart",
         "torino"
       ],
-      "homepage": "https://radiogiurgiu.net/mobile.html",
+      "homepage": "https://radiogiurgiu.net/",
       "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
       "type": null,
       "sourceCount": 4,

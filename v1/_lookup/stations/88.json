@@ -6709,6 +6709,55 @@
       }
     ]
   },
+  "awb_883e515e9e8a71a8235b": {
+    "id": "awb_883e515e9e8a71a8235b",
+    "name": "Радио Гармония",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "80s",
+      "90s",
+      "hits",
+      "oldies",
+      "pop",
+      "retro",
+      "russian pop"
+    ],
+    "homepage": "https://garmoniyafm.com/",
+    "favicon": "https://online.garmoniyafm.com/static/uploads/album_art.1792427148.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T05:18:08Z",
+    "streams": [
+      {
+        "id": "aws_c85ab5c9ce7f1496d74b",
+        "stationId": "awb_883e515e9e8a71a8235b",
+        "name": "Радио Гармония",
+        "country": "RU",
+        "url": "https://online.garmoniyafm.com/listen/garm/256",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "30e6aa70-cf8c-44b2-9492-7605a57c2dae"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_88e1caea57de0905645c": {
     "id": "awb_88e1caea57de0905645c",
     "name": "Радио Рекорд СПБ 106.3 FM",
@@ -7809,6 +7858,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T03:37:09Z"
+      }
+    ]
+  },
+  "awb_887e4b1625a752e65348": {
+    "id": "awb_887e4b1625a752e65348",
+    "name": "WFTK Cincinnati 96.5 Rock",
+    "country": "US",
+    "subdivision": "Ohio",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.purerock96.com/",
+    "favicon": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3759/files/2024/12/wftk-fm.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T07:00:16Z",
+    "streams": [
+      {
+        "id": "aws_7f97b72f4a1baf4479c2",
+        "stationId": "awb_887e4b1625a752e65348",
+        "name": "WFTK Cincinnati 96.5 Rock",
+        "country": "US",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFTKFM_SC",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "483c2c17-8412-4fab-98d2-f73b4b7f5048"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

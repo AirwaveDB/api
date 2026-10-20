@@ -1,6 +1,6 @@
 {
   "id": "talk",
-  "stationCount": 2526,
+  "stationCount": 2538,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -12600,8 +12600,8 @@
           "name": "Peoples Radio",
           "country": "BD",
           "url": "https://s3.myradiostream.com:14498/listen.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -12611,7 +12611,7 @@
             "855aa7ec-7282-4681-9c25-42e93fd6b873"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -17782,7 +17782,7 @@
             "58d1b5ff-b1c1-48e1-894b-bfbe46e2c2cd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -30534,6 +30534,50 @@
       ]
     },
     {
+      "id": "awb_4a6559612e4e3eb78f9e",
+      "name": "Cantabria Radio",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://cantabriaradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:24:13Z",
+      "streams": [
+        {
+          "id": "aws_981c1f2f12373ea8c496",
+          "stationId": "awb_4a6559612e4e3eb78f9e",
+          "name": "Cantabria Radio",
+          "country": "ES",
+          "url": "https://cantabria.radioca.st/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7040ec72-3dac-489c-89e1-e64a0741e127"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2ee628b559deabf3f79f",
       "name": "Capital Radio Madrid",
       "country": "ES",
@@ -30793,6 +30837,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T00:55:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fd35bea22afefe170667",
+      "name": "COPE Más Santander",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "talk"
+      ],
+      "homepage": "https://www.cope.es/emisoras/cantabria/cantabria-provincia/santander",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:23:36Z",
+      "streams": [
+        {
+          "id": "aws_3b6ea95afd3456973ffc",
+          "stationId": "awb_fd35bea22afefe170667",
+          "name": "COPE Más Santander",
+          "country": "ES",
+          "url": "https://wecast-bl01.flumotion.com/copesedes/santander-mas.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c574f587-942b-40db-be02-40331e109f20"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -31099,6 +31186,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T05:28:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f0bd13d5e4d541f52c99",
+      "name": "esRadio Cantabria",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "talk"
+      ],
+      "homepage": "http://www.esradiocantabria.es/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:23:36Z",
+      "streams": [
+        {
+          "id": "aws_ab246233029efea40855",
+          "stationId": "awb_f0bd13d5e4d541f52c99",
+          "name": "esRadio Cantabria",
+          "country": "ES",
+          "url": "http://ns100.emisionlocal.com:9428/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d9081f9a-2850-41db-b9b0-688307873b08"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -31880,6 +32010,50 @@
       ]
     },
     {
+      "id": "awb_07762412a1f877136f9d",
+      "name": "Onda Cero Castro Urdiales",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://ondacerocastro.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:24:13Z",
+      "streams": [
+        {
+          "id": "aws_435bb1bb4297b8016aef",
+          "stationId": "awb_07762412a1f877136f9d",
+          "name": "Onda Cero Castro Urdiales",
+          "country": "ES",
+          "url": "https://server8.emitironline.com:10854/;",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ae7f0191-17d1-4fbb-a66b-aa8f608ab279"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_51856d46b373bee33b8d",
       "name": "Onda Cero Granada",
       "country": "ES",
@@ -32014,6 +32188,50 @@
       ]
     },
     {
+      "id": "awb_7ec695e48e6c36cc2fa5",
+      "name": "Onda Cero Santander",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://www.ondacero.es/emisoras/cantabria/santander/directo/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:23:36Z",
+      "streams": [
+        {
+          "id": "aws_4819b01495d03091eb8b",
+          "stationId": "awb_7ec695e48e6c36cc2fa5",
+          "name": "Onda Cero Santander",
+          "country": "ES",
+          "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SANTANDERAAC.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d572e273-574b-4234-9ef3-86337b3fa31c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_3360f12b6fc42c61c8f9",
       "name": "Onda Cero Valencia",
       "country": "ES",
@@ -32095,6 +32313,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T23:20:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2d748205b8cd10558fa7",
+      "name": "PuntalRadio",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://www.puntalradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:16:34Z",
+      "streams": [
+        {
+          "id": "aws_e51ef4b74ae7b063d840",
+          "stationId": "awb_2d748205b8cd10558fa7",
+          "name": "PuntalRadio",
+          "country": "ES",
+          "url": "https://a5.asurahosting.com:6700/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f20aff23-889e-4090-bcb4-30891566fc7a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -33165,6 +33430,94 @@
       ]
     },
     {
+      "id": "awb_59d7cd94d8823f65d131",
+      "name": "SER Asón",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://cadenaser.com/ser-ason/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:24:13Z",
+      "streams": [
+        {
+          "id": "aws_fa74298b3110ae185204",
+          "stationId": "awb_59d7cd94d8823f65d131",
+          "name": "SER Asón",
+          "country": "ES",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASON.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bce3a9e3-c293-4d5c-b440-e16c4bc27432"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_147a6639c3c8977369f7",
+      "name": "SER Castro Urdiales",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://cadenaser.com/ser-castro-urdiales/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:23:36Z",
+      "streams": [
+        {
+          "id": "aws_4463ea34b2702d3fde96",
+          "stationId": "awb_147a6639c3c8977369f7",
+          "name": "SER Castro Urdiales",
+          "country": "ES",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CASTRO_URDIALES.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb5afae9-1cac-4d02-8182-218e97784412"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_af0a34519c3e90473d2b",
       "name": "Ser Soria",
       "country": "ES",
@@ -33205,6 +33558,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T22:28:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d0037bbcb8b479d0501e",
+      "name": "SER Torrelavega",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "local news",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://cadenaser.com/ser-torrelavega/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:24:13Z",
+      "streams": [
+        {
+          "id": "aws_98354aa9753e024565ec",
+          "stationId": "awb_d0037bbcb8b479d0501e",
+          "name": "SER Torrelavega",
+          "country": "ES",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c527ff3f-4710-4101-b47e-e16fbba002ee"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -35904,7 +36301,7 @@
         "talk"
       ],
       "homepage": "https://www.tbm06.fr/radio/",
-      "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
+      "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-20T17:58:29Z",
@@ -58692,7 +59089,7 @@
       "id": "awb_f0418ec6f2a427f541db",
       "name": "Radijo Stotis Kelyje",
       "country": "LT",
-      "subdivision": "Vilnius",
+      "subdivision": "Kaunas",
       "languages": [
         "lt"
       ],
@@ -59963,6 +60360,69 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T00:58:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3be939dead2cf9ff086b",
+      "name": "澳門電台 FM100.7",
+      "country": "MO",
+      "subdivision": "Macao, SAR of China",
+      "languages": [
+        "yue"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "general",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://www.tdm.com.mo/",
+      "favicon": "https://cdn2.tdm.com.mo/uploads/attachment/2021-06/55e035ae8e46ed9a38ae9245ca84c8e1.png?x-image-process=style/w250",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T10:43:30Z",
+      "streams": [
+        {
+          "id": "aws_fb8c2bedd5946e012b8e",
+          "stationId": "awb_3be939dead2cf9ff086b",
+          "name": "澳門電台 FM100.7",
+          "country": "MO",
+          "url": "https://globallive.tdm.com.mo/live/rch2a.live/chunklist_w603131197.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0aaa9508-96ff-46cc-80d3-8a9036cc87e2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        },
+        {
+          "id": "aws_ca843d32658c4279b167",
+          "stationId": "awb_3be939dead2cf9ff086b",
+          "name": "澳門電台 FM100.7",
+          "country": "MO",
+          "url": "https://globallive.tdm.com.mo/live/rch2a.live/playlist.m3u8",
+          "codec": "aac,h.264",
+          "bitrate": 340,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1ee786df-23e5-4350-8f8b-3b315068937c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -84060,7 +84520,7 @@
             "4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T20:56:24Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -93558,7 +94018,7 @@
             "5c7ef11f-a6a0-4697-9d87-6df7a3209258"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T00:27:51Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -96158,7 +96618,7 @@
             "e205f4ee-2168-45b0-87e5-11b994c74d0c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -100629,6 +101089,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T16:37:44Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_799db03eb300a6fffc61",
+      "name": "Cyberhog Radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "electronic",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "elictric",
+        "house",
+        "rock",
+        "talk",
+        "various"
+      ],
+      "homepage": "https://psycopigradio100.com/",
+      "favicon": "https://hq3.yesstreaming.net/media/keithshaffer/station_26/logos/logo_1792065759800.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:56:57Z",
+      "streams": [
+        {
+          "id": "aws_db0fc869df38bc1a54c6",
+          "stationId": "awb_799db03eb300a6fffc61",
+          "name": "Cyberhog Radio",
+          "country": "US",
+          "url": "https://hq3.yesstreaming.net/cyberhogradio/CyberHogRadio",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f264d8bb-2cae-4ac3-a3c7-fafc95397eec"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -109561,6 +110066,53 @@
       ]
     },
     {
+      "id": "awb_cd415cd10858269011e2",
+      "name": "Public Liberty Radio",
+      "country": "US",
+      "subdivision": "Liberty City",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "grand theft auto",
+        "gta",
+        "news talk",
+        "talk",
+        "talk & speech",
+        "video game radio"
+      ],
+      "homepage": "http://gtaradio.net/en/4/",
+      "favicon": "http://images.weserv.nl/?url=https://gta.wiki/images/PublicLibertyRadio-GTAIV-Logo.png?eb9bb&w=1024&h=1024&fit=contain&bg=ffffff&output=png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T15:52:40Z",
+      "streams": [
+        {
+          "id": "aws_3c36f757c2dc7f264bce",
+          "stationId": "awb_cd415cd10858269011e2",
+          "name": "Public Liberty Radio",
+          "country": "US",
+          "url": "https://audio.gtaradio.net/4/plr",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "24c59ea8-5c9d-4ae8-9fa3-d319b82397bd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ae605aaa267e79cf9db2",
       "name": "Radio 570 WNAX",
       "country": "US",
@@ -112499,7 +113051,9 @@
       "name": "Vice City Public Radio (VCPR)",
       "country": "US",
       "subdivision": "Vice City",
-      "languages": [],
+      "languages": [
+        "en"
+      ],
       "categories": [
         "public",
         "talk"
@@ -112512,11 +113066,11 @@
         "public talk radio",
         "vice city"
       ],
-      "homepage": "https://gtaradio.net/vc/",
-      "favicon": "https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990",
+      "homepage": "https://gtaradio.net/en/vcs/",
+      "favicon": "https://images.weserv.nl/?url=https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990&w=1024&h=1024&fit=contain&bg=ffffff&output=png",
       "type": "public",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-18T18:44:44Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T15:45:53Z",
       "streams": [
         {
           "id": "aws_c4561b2e1df2b0cec78a",
@@ -112536,6 +113090,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-18T22:07:29Z"
+        },
+        {
+          "id": "aws_4c95b14227185d511734",
+          "stationId": "awb_b390325d423aeac29249",
+          "name": "Vice City Public Radio (VCPR)",
+          "country": "US",
+          "url": "https://audio.gtaradio.net/vcs/vcpr",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "65a07f28-2cf4-4e19-87ca-ad7620fb2a63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -114584,7 +115157,7 @@
             "e0099161-ad6f-47df-a1d3-3e10ea4f4fa3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },

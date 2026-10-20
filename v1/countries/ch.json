@@ -1,7 +1,7 @@
 {
   "code": "CH",
-  "stationCount": 500,
-  "streamCount": 582,
+  "stationCount": 501,
+  "streamCount": 583,
   "stations": [
     {
       "id": "awb_582d4249c015a00bfcff",
@@ -9708,6 +9708,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T17:11:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5574b8d1191546a07f5f",
+      "name": "Openbroadcast.ch | mp3",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://openbroadcast.ch/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T08:52:37Z",
+      "streams": [
+        {
+          "id": "aws_4348f045529d07ea0768",
+          "stationId": "awb_5574b8d1191546a07f5f",
+          "name": "Openbroadcast.ch | mp3",
+          "country": "CH",
+          "url": "http://stream.openbroadcast.ch/256.mp3",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5a28b749-2280-4ded-9736-090e116725fd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },

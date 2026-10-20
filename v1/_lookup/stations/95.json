@@ -276,6 +276,49 @@
       }
     ]
   },
+  "awb_950f71581e2ad83f2d66": {
+    "id": "awb_950f71581e2ad83f2d66",
+    "name": "ABC Cricket",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "sports"
+    ],
+    "tags": [
+      "cricket",
+      "live sports",
+      "sport"
+    ],
+    "homepage": "https://www.abc.net.au/listen/live/cricket",
+    "favicon": "https://live-production.wcms.abc-cdn.net.au/36344ff0468bfce4d5af6b50f5ebcedd",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T16:26:04Z",
+    "streams": [
+      {
+        "id": "aws_88bda3f7b318bfc6621b",
+        "stationId": "awb_950f71581e2ad83f2d66",
+        "name": "ABC Cricket",
+        "country": "AU",
+        "url": "https://streaming.abc-cdn.net.au/audio/hls/itinerantone.m3u8",
+        "codec": "aac",
+        "bitrate": 115,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f81ba4e2-6db5-41e6-92d4-5cb1ba1a21c2"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
+      }
+    ]
+  },
   "awb_954f9406a5a2dad212f2": {
     "id": "awb_954f9406a5a2dad212f2",
     "name": "Australian Digital Radio Network - Dance Hits of 2020 (MP3)",
@@ -2027,7 +2070,7 @@
           "ad8c4d53-774d-482d-97c3-aa31c243748a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T00:17:25Z"
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -3178,6 +3221,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T19:21:39Z"
+      }
+    ]
+  },
+  "awb_95c23f1b586c00b9f338": {
+    "id": "awb_95c23f1b586c00b9f338",
+    "name": "Hit AfriOnde",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://afrionde.fr/",
+    "favicon": "https://afrionde.fr/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T02:13:31Z",
+    "streams": [
+      {
+        "id": "aws_f06ba8af08dfcd055053",
+        "stationId": "awb_95c23f1b586c00b9f338",
+        "name": "Hit AfriOnde",
+        "country": "FR",
+        "url": "https://live.afrionde.fr/afrionde7",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3e29036d-0c60-4a13-b493-e5767233834d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "id": "pop",
-  "stationCount": 9326,
+  "stationCount": 9347,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -31998,8 +31998,8 @@
           "name": "Peoples Radio",
           "country": "BD",
           "url": "https://s3.myradiostream.com:14498/listen.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -32009,7 +32009,7 @@
             "855aa7ec-7282-4681-9c25-42e93fd6b873"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -52880,7 +52880,7 @@
             "bd62f435-a868-43fc-8ff8-d699193d59d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -61509,6 +61509,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T17:18:27Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1d701def8a10f1d53f13",
+      "name": "Hamnava Records - Retro",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "pop",
+        "retro",
+        "rock"
+      ],
+      "homepage": "https://radio.nimaarki.com/",
+      "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:28:52Z",
+      "streams": [
+        {
+          "id": "aws_ed3614f07c5fa7807fd5",
+          "stationId": "awb_1d701def8a10f1d53f13",
+          "name": "Hamnava Records - Retro",
+          "country": "CA",
+          "url": "https://radio.nimaarki.com/retro/stream?_ic2=1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d4da3f46-3c8d-4c4a-808a-9e2b76b0597c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -75731,7 +75776,7 @@
         "pop"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiF2.png@350w_1l",
+      "favicon": "https://m.mlzhongguo.com/uploads/image/05/15901171693455.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T17:46:36Z",
@@ -78021,46 +78066,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T12:48:23Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_2cea16d34129f94e484f",
-      "name": "Más música señal retro",
-      "country": "CO",
-      "subdivision": "boyacá",
-      "languages": [],
-      "categories": [
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "pop rock"
-      ],
-      "homepage": "https://masmusicaretro.wixsite.com/online",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-19T03:56:43Z",
-      "streams": [
-        {
-          "id": "aws_4c423b20896f054bba68",
-          "stationId": "awb_2cea16d34129f94e484f",
-          "name": "Más música señal retro",
-          "country": "CO",
-          "url": "https://radio.hazteunsitio.net/streams/ms_f8cbb3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "b6846adc-0062-452e-a3db-c95e52fbe225"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },
@@ -112654,6 +112659,49 @@
       ]
     },
     {
+      "id": "awb_3a35da79b0eedfb38ed4",
+      "name": "KPOP - atomicradio",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "anime",
+        "pop"
+      ],
+      "tags": [
+        "k-pop",
+        "kpop"
+      ],
+      "homepage": "https://atomic.radio/kpop",
+      "favicon": "https://assets.atomic.radio/web/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:16:34Z",
+      "streams": [
+        {
+          "id": "aws_8cc60c123aa4fdfacac6",
+          "stationId": "awb_3a35da79b0eedfb38ed4",
+          "name": "KPOP - atomicradio",
+          "country": "DE",
+          "url": "https://listen.atomic.radio/kpop.m3u8",
+          "codec": "aac",
+          "bitrate": 352,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8495c4a7-0c66-47b3-acd6-4b957017f610"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f1ff7c71ba34ef3db0a7",
       "name": "Kultradio24",
       "country": "DE",
@@ -147102,7 +147150,7 @@
       "id": "awb_3affbb98dab24e7b2119",
       "name": "GRX BIT RADIO on line",
       "country": "ES",
-      "subdivision": "Alhama - Granada- Andalucía",
+      "subdivision": "granada",
       "languages": [],
       "categories": [
         "pop"
@@ -147937,7 +147985,7 @@
             "fd760390-fd42-4fd9-9949-b55b492f1548"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -149409,6 +149457,49 @@
       ]
     },
     {
+      "id": "awb_d80c78217e82372ba4ca",
+      "name": "Onda Marina Online",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "oldies",
+        "pop"
+      ],
+      "homepage": "https://ondamarina.online/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:24:13Z",
+      "streams": [
+        {
+          "id": "aws_990b1a27f2d562dc66b9",
+          "stationId": "awb_d80c78217e82372ba4ca",
+          "name": "Onda Marina Online",
+          "country": "ES",
+          "url": "https://servidor40-3.brlogic.com:7004/live",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9cb08440-f948-41b2-b0c7-141114c24f27"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_06f711a21fa5a717b1e9",
       "name": "Onda Regional Música",
       "country": "ES",
@@ -149833,6 +149924,53 @@
       ]
     },
     {
+      "id": "awb_2d748205b8cd10558fa7",
+      "name": "PuntalRadio",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://www.puntalradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:16:34Z",
+      "streams": [
+        {
+          "id": "aws_e51ef4b74ae7b063d840",
+          "stationId": "awb_2d748205b8cd10558fa7",
+          "name": "PuntalRadio",
+          "country": "ES",
+          "url": "https://a5.asurahosting.com:6700/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f20aff23-889e-4090-bcb4-30891566fc7a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6d0570deed1a6dbce9ae",
       "name": "RAC105",
       "country": "ES",
@@ -150141,6 +150279,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T20:56:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_56c7192f32df8c63e6aa",
+      "name": "Radio Costa Esmeralda",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "culture",
+        "pop"
+      ],
+      "homepage": "https://radiocostaesmeralda.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:23:36Z",
+      "streams": [
+        {
+          "id": "aws_c03dca5125e2dd07684e",
+          "stationId": "awb_56c7192f32df8c63e6aa",
+          "name": "Radio Costa Esmeralda",
+          "country": "ES",
+          "url": "https://s26.myradiostream.com/:14264/listen.mp3",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "822e3749-9b24-4a2e-8eb0-574483cf947a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -151470,6 +151650,49 @@
       ]
     },
     {
+      "id": "awb_3d41da4fd63b04e18f5a",
+      "name": "Radio Studio 88 Cantabria",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "oldies",
+        "pop"
+      ],
+      "homepage": "https://www.radiostudio88.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:24:13Z",
+      "streams": [
+        {
+          "id": "aws_63c7a2de3d38354cc67d",
+          "stationId": "awb_3d41da4fd63b04e18f5a",
+          "name": "Radio Studio 88 Cantabria",
+          "country": "ES",
+          "url": "https://hisparadio.duckdns.org/stream/2/stream.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e3b47d5a-4a86-406c-8911-a1c8ab752b49"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_0a2e86a22d0a492a9d4b",
       "name": "Radio Taberna",
       "country": "ES",
@@ -152149,6 +152372,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T22:44:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_12fc21cbe9736187b912",
+      "name": "Top Cantabria FM",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "local news",
+        "pop"
+      ],
+      "homepage": "https://www.topcantabriafm.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:24:13Z",
+      "streams": [
+        {
+          "id": "aws_a974103d0516cd870935",
+          "stationId": "awb_12fc21cbe9736187b912",
+          "name": "Top Cantabria FM",
+          "country": "ES",
+          "url": "https://live.topcantabriafm.com/listen/top_cantabria_fm_radio/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8a5fdc26-a77b-4e7e-94b3-a972f4670790"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -154766,7 +155033,7 @@
     },
     {
       "id": "awb_200891c5235ae1cf1f57",
-      "name": "Boombox radio",
+      "name": "Boombox Radio",
       "country": "FR",
       "subdivision": "Occitanie",
       "languages": [
@@ -155772,7 +156039,7 @@
       "id": "awb_7e7569648104bc027057",
       "name": "DIGITAL2RADIO",
       "country": "FR",
-      "subdivision": "Normandie",
+      "subdivision": "Normandy",
       "languages": [],
       "categories": [
         "oldies",
@@ -157640,6 +157907,191 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T10:14:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dae72df92514f5c6ba37",
+      "name": "Fréquence 3+ Collector",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "france",
+        "oldies",
+        "pop",
+        "sans pub",
+        "tubes",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3pluscollector.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:20:08Z",
+      "streams": [
+        {
+          "id": "aws_e1735990cc32c27cb60e",
+          "stationId": "awb_dae72df92514f5c6ba37",
+          "name": "Fréquence 3+ Collector",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-1/Frequence3Plus-1.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "413dd42d-a810-4d3a-8dac-fac4c22483b6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_2887b2ab32f0b26068e1",
+      "name": "Fréquence 3+ La Playlist Dédé",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "france",
+        "playlist",
+        "pop",
+        "sans pub",
+        "tubes",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plusplaylistdede.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:19:45Z",
+      "streams": [
+        {
+          "id": "aws_685f095227fd344f93fe",
+          "stationId": "awb_2887b2ab32f0b26068e1",
+          "name": "Fréquence 3+ La Playlist Dédé",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-4/Frequence3Plus-4.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b1a2e454-df47-46c7-8d9f-d2d4143c9f73"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_6571e33c9fc9e8cb524a",
+      "name": "Fréquence 3+ PopXperience by Adrien Toma",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "france",
+        "pop",
+        "sans pub",
+        "top 40",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/popxperiencebyadrientoma.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:19:45Z",
+      "streams": [
+        {
+          "id": "aws_ff75e57b4a83809347c7",
+          "stationId": "awb_6571e33c9fc9e8cb524a",
+          "name": "Fréquence 3+ PopXperience by Adrien Toma",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-8/Frequence3Plus-8.m3u8",
+          "codec": "aac",
+          "bitrate": 460,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d1c2f750-0993-458e-8f45-c64589cc2a3f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c1622612bcce4889a564",
+      "name": "Fréquence 3+ Reveil 80",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "france",
+        "pop",
+        "sans pub",
+        "tubes",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plusreveil80.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:20:08Z",
+      "streams": [
+        {
+          "id": "aws_eb890a37e3d5ce7d9da6",
+          "stationId": "awb_c1622612bcce4889a564",
+          "name": "Fréquence 3+ Reveil 80",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-6/Frequence3Plus-6.m3u8",
+          "codec": "aac",
+          "bitrate": 460,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "193cfc54-6137-477c-a0b9-eb4a94696fb0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -159574,8 +160026,8 @@
         "love-songs",
         "pop"
       ],
-      "homepage": "https://www.hotmixradio.com/",
-      "favicon": "https://www.hotmixradio.com/favicon.ico",
+      "homepage": "https://hotmixradio.com/",
+      "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-18T18:14:54Z",
@@ -164273,6 +164725,45 @@
       ]
     },
     {
+      "id": "awb_b81479c45bea22b4aeee",
+      "name": "Ondi Radio",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits"
+      ],
+      "homepage": "https://fhits.fr/",
+      "favicon": "https://scontent-cdg4-2.cdninstagram.com/v/t51.2885-19/120569411_334353597790984_7252131481172533772_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MTAuQzMifQ%3D%3D&_nc_ohc=1PSy36Y1UsIQ7kNvwFpEZC3&_nc_oc=AdogKt8SOxBZhqBcaY6obcyg-ydUDzrCKC54n7R5ZTOhMHDvRfNlvsvGS6q3ozruJG8&_nc_zt=24&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_ss=7b689&oh=00_AQN_8QebPXZLQSQvLADco3jl0ef3397MV9K55p1RJxy3Tg&oe=6ADBAF8F",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T08:34:31Z",
+      "streams": [
+        {
+          "id": "aws_f8d99b86266e42364ec2",
+          "stationId": "awb_b81479c45bea22b4aeee",
+          "name": "Ondi Radio",
+          "country": "FR",
+          "url": "https://str3.openstream.co/1637?aw_0_1st.collectionid%3D5462%26stationId%3D5462%26publisherId%3D1661%26k%3D1792398617",
+          "codec": "aac",
+          "bitrate": 98,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9cc2a7c2-28c0-4070-a70f-1b235a18302e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6b843c2feaf9c869ad4a",
       "name": "Only Hits",
       "country": "FR",
@@ -165420,7 +165911,7 @@
     },
     {
       "id": "awb_4242dc875d1bdd4fe48f",
-      "name": "Puissance Max la Radio",
+      "name": "Puissance Max La Radio",
       "country": "FR",
       "subdivision": "Auvergne-Rhône-Alpes",
       "languages": [
@@ -165435,8 +165926,8 @@
         "top 40",
         "top hits"
       ],
-      "homepage": "https://puissance-max-la-radio.fr/",
-      "favicon": "https://www.image-heberg.fr/files/17675323612993863926.png",
+      "homepage": "https://www.puissance-max-la-radio.fr/#apropos",
+      "favicon": "https://static.wixstatic.com/media/eea892_1334dfd05976420cba30d24bcba8af47~mv2.png/v1/fill/w_462,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vierge.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-05T10:31:11Z",
@@ -166115,7 +166606,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -166253,7 +166744,7 @@
       "id": "awb_4236313780f9154e875b",
       "name": "Rádio IBNJ Paris",
       "country": "FR",
-      "subdivision": "Ile de France",
+      "subdivision": "Île-de-France",
       "languages": [
         "fr",
         "pt"
@@ -166466,7 +166957,7 @@
             "82018398-3e60-4792-9bd4-bc354e2526e6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -168564,7 +169055,7 @@
         "talk"
       ],
       "homepage": "https://www.tbm06.fr/radio/",
-      "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
+      "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-20T17:58:29Z",
@@ -170587,6 +171078,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T12:58:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_75b9e040111e1d357339",
+      "name": "Attila1 FM",
+      "country": "GB",
+      "subdivision": "South Yorkshire",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hungarian pop music"
+      ],
+      "homepage": "https://www.attila1fm.co.uk/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T15:12:35Z",
+      "streams": [
+        {
+          "id": "aws_4ca60f4f2747f9333f68",
+          "stationId": "awb_75b9e040111e1d357339",
+          "name": "Attila1 FM",
+          "country": "GB",
+          "url": "https://stream.zeno.fm/k1mqxcqj9jruv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "be404341-b7b7-44aa-9875-102cf91b0fcc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -178723,7 +179255,7 @@
       "id": "awb_6ccd96adbde9f3c95959",
       "name": "LOVERADIO247",
       "country": "GB",
-      "subdivision": "England",
+      "subdivision": "London, England",
       "languages": [
         "en"
       ],
@@ -224910,7 +225442,7 @@
             "ddfa0c91-d74d-4271-8f46-af32951e7fb9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -244528,7 +245060,7 @@
             "ce8a6fa9-355c-43f8-9754-e0ca57e5ca8d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -252873,7 +253405,7 @@
         "pop"
       ],
       "homepage": "https://www.saurosoftradio.it/",
-      "favicon": "https://www.saurosoftradio.it/wp-content/uploads/2022/03/dinotrasparente.png",
+      "favicon": "http://www.saurosoftradio.it/wp-content/uploads/2025/03/LOGOSAUROSOFT-1.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-14T08:04:59Z",
@@ -252939,6 +253471,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T22:50:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5e2d0bac138da5e4b8f1",
+      "name": "Simx & Ly Radio",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "electronic",
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "hardcore",
+        "hardstyle",
+        "pop",
+        "pop dance"
+      ],
+      "homepage": "https://www.simxlyradio.it/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T19:27:05Z",
+      "streams": [
+        {
+          "id": "aws_a932583652309dd10a29",
+          "stationId": "awb_5e2d0bac138da5e4b8f1",
+          "name": "Simx & Ly Radio",
+          "country": "IT",
+          "url": "https://carol.epichosts.co.uk/proxy/simxlymusic/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "46f307b1-044f-4427-9346-8dd3305eea88"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -259176,7 +259755,7 @@
       "id": "awb_f0418ec6f2a427f541db",
       "name": "Radijo Stotis Kelyje",
       "country": "LT",
-      "subdivision": "Vilnius",
+      "subdivision": "Kaunas",
       "languages": [
         "lt"
       ],
@@ -259711,7 +260290,7 @@
         "lithuanian music",
         "pop"
       ],
-      "homepage": "https://taktasfm.lt/?lang=en",
+      "homepage": "https://taktasfm.lt/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -269015,170 +269594,6 @@
       ]
     },
     {
-      "id": "awb_9359ec9139ddfe95c6cf",
-      "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "metal",
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "80s",
-        "90s",
-        "acir",
-        "acir online",
-        "adult album alternative",
-        "adult alternative",
-        "alternative",
-        "alternative 70s",
-        "alternative 80s",
-        "alternative metal",
-        "alternative pop",
-        "alternative rock",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "classic rock; alternative rock indie",
-        "entretenimiento",
-        "español",
-        "estación",
-        "grupo acir",
-        "iheart",
-        "iheart radio",
-        "indie rock",
-        "latinoamérica",
-        "mexico city",
-        "mix",
-        "mix alternative",
-        "mix fm",
-        "moi merino",
-        "music",
-        "méxico",
-        "música alternativa",
-        "norteamérica",
-        "online",
-        "online only",
-        "radio",
-        "radio online",
-        "rock",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-13T04:25:31Z",
-      "streams": [
-        {
-          "id": "aws_e99a5227dad39e25927f",
-          "stationId": "awb_9359ec9139ddfe95c6cf",
-          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
-            "a7a10889-e3af-4085-b800-1868e8cc8085"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T12:46:19Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_6d85351c6324e7bda29d",
-      "name": "+Arroba FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "latin",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "@fm",
-        "@fm te conecta",
-        "américa",
-        "arroba fm",
-        "arroba fm te conecta",
-        "contemporary hits",
-        "contemporary hits radio",
-        "entretenimiento",
-        "español",
-        "estación",
-        "fm",
-        "juvenil",
-        "latin pop",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "méxico",
-        "música",
-        "música en español e inglés",
-        "música pop",
-        "norteamérica",
-        "pop",
-        "pop en español e inglés",
-        "pop music",
-        "pop rock",
-        "radio",
-        "radio resultados",
-        "radiorama",
-        "radiorama valle de méxico",
-        "spanish contemporary hits",
-        "te conecta",
-        "top",
-        "top 100",
-        "top 40",
-        "top 40 hits",
-        "top charts",
-        "top hits",
-        "youth"
-      ],
-      "homepage": "https://arroba.fm/",
-      "favicon": "https://i.postimg.cc/762SjQWk/arrobafm.webp",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-05-23T09:05:13Z",
-      "streams": [
-        {
-          "id": "aws_bf7670f68639af68f602",
-          "stationId": "awb_6d85351c6324e7bda29d",
-          "name": "ARROBA FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
-          "country": "MX",
-          "url": "https://stream.zeno.fm/6vtcayf9d78uv",
-          "codec": "mp3",
-          "bitrate": 64,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7fa7ed69-98c5-4ce0-a77b-c5e71903c731",
-            "cb1d0881-6072-46fc-a4ab-82720706bc26"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T21:10:09Z"
-        }
-      ]
-    },
-    {
       "id": "awb_b129fd4eef05446a27b6",
       "name": "+Azul 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
       "country": "MX",
@@ -270156,72 +270571,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T20:43:39Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_78311a62fd4f569bce6c",
-      "name": "+Wow (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-      "country": "MX",
-      "subdivision": "Mérida, Yucatán",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "américa",
-        "cadena rasa",
-        "entretenimiento",
-        "español",
-        "estación",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "mérida",
-        "méxico",
-        "música",
-        "música en inglés",
-        "música pop",
-        "norteamérica",
-        "online",
-        "online only",
-        "online radio",
-        "pop",
-        "pop en inglés",
-        "pop music",
-        "radio",
-        "radio online",
-        "sureste",
-        "wow",
-        "yucatán"
-      ],
-      "homepage": "https://cadenarasa.com/yucatan/merida/wow",
-      "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-06-06T02:21:20Z",
-      "streams": [
-        {
-          "id": "aws_19abfec72c5f5f5717c5",
-          "stationId": "awb_78311a62fd4f569bce6c",
-          "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
-          "country": "MX",
-          "url": "https://stream.zeno.fm/jf0uuhbqekguv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
-            "55699759-b52e-418e-b6dd-606de2b362f6"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:34:09Z"
         }
       ]
     },
@@ -286252,6 +286601,86 @@
       ]
     },
     {
+      "id": "awb_7b0135e75bdff349ae13",
+      "name": "95.3 La Lupe (Tijuana) - 95.3 FM - XHHIT-FM - Multimedios Radio - Tijuana, Baja California",
+      "country": "MX",
+      "subdivision": "Tijuana, Baja California",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "95.3 fm",
+        "américa",
+        "baja california",
+        "california",
+        "clásicos",
+        "clásicos en español",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "la lupe",
+        "latinoamérica",
+        "mexican music",
+        "moi merino",
+        "multimedios",
+        "multimedios radio",
+        "music",
+        "música",
+        "música en español",
+        "música mexicana",
+        "música popular mexicana",
+        "música regional",
+        "música regional mexicana",
+        "música tradicional mexicana",
+        "música tropical",
+        "música variada",
+        "norteamérica",
+        "pop en español",
+        "radio",
+        "ranchera",
+        "rancheras",
+        "regional",
+        "regional mexican",
+        "regional mexicana",
+        "regional music",
+        "regional radio",
+        "rosarito",
+        "san diego",
+        "tecate",
+        "tijuana"
+      ],
+      "homepage": "https://www.mmradio.com/",
+      "favicon": "https://cdn-profiles.tunein.com/s42269/images/logod.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T01:26:05Z",
+      "streams": [
+        {
+          "id": "aws_76533bc7accf7cdfc750",
+          "stationId": "awb_7b0135e75bdff349ae13",
+          "name": "95.3 La Lupe (Tijuana) - 95.3 FM - XHHIT-FM - Multimedios Radio - Tijuana, Baja California",
+          "country": "MX",
+          "url": "https://mdstrm.com/audio/6737c55f827a7efae201a949/icecast.audio",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "26e335d8-cf8d-44ff-9ac4-c1a8f04ad941"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_ec3febc2cd880e23a0c1",
       "name": "95.3 Waöh (San Luis Potosí) - 95.3 FM - XHNB-FM - Cadena RASA - San Luis Potosí, San Luis Potosí",
       "country": "MX",
@@ -292660,6 +293089,89 @@
       ]
     },
     {
+      "id": "awb_9359ec9139ddfe95c6cf",
+      "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "metal",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "acir",
+        "acir online",
+        "adult album alternative",
+        "adult alternative",
+        "alternative",
+        "alternative 70s",
+        "alternative 80s",
+        "alternative metal",
+        "alternative pop",
+        "alternative rock",
+        "américa",
+        "cdmx",
+        "ciudad de méxico",
+        "classic rock; alternative rock indie",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "indie rock",
+        "latinoamérica",
+        "mexico city",
+        "mix",
+        "mix alternative",
+        "mix fm",
+        "moi merino",
+        "music",
+        "méxico",
+        "música alternativa",
+        "norteamérica",
+        "online",
+        "online only",
+        "radio",
+        "radio online",
+        "rock",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T04:25:31Z",
+      "streams": [
+        {
+          "id": "aws_e99a5227dad39e25927f",
+          "stationId": "awb_9359ec9139ddfe95c6cf",
+          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+            "a7a10889-e3af-4085-b800-1868e8cc8085"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4d26592dd18bf7023ced",
       "name": "Alternativa by MIX (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
       "country": "MX",
@@ -295061,6 +295573,87 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T13:55:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6d85351c6324e7bda29d",
+      "name": "ARROBA FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "@fm",
+        "@fm te conecta",
+        "américa",
+        "arroba fm",
+        "arroba fm te conecta",
+        "contemporary hits",
+        "contemporary hits radio",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "juvenil",
+        "latin pop",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "méxico",
+        "música",
+        "música en español e inglés",
+        "música pop",
+        "norteamérica",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio",
+        "radio resultados",
+        "radiorama",
+        "radiorama valle de méxico",
+        "spanish contemporary hits",
+        "te conecta",
+        "top",
+        "top 100",
+        "top 40",
+        "top 40 hits",
+        "top charts",
+        "top hits",
+        "youth"
+      ],
+      "homepage": "https://arroba.fm/CDMX",
+      "favicon": "https://thumbnail.anii.io/mx/radio-arroba-fm-stream-ciudad-de-mexico-mexico.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-05-23T09:05:13Z",
+      "streams": [
+        {
+          "id": "aws_bf7670f68639af68f602",
+          "stationId": "awb_6d85351c6324e7bda29d",
+          "name": "ARROBA FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
+          "country": "MX",
+          "url": "https://stream.zeno.fm/6vtcayf9d78uv",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7fa7ed69-98c5-4ce0-a77b-c5e71903c731",
+            "cb1d0881-6072-46fc-a4ab-82720706bc26"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T21:10:09Z"
         }
       ]
     },
@@ -305618,7 +306211,7 @@
         "top 40"
       ],
       "homepage": "https://exafm.com/plaza/la-piedad/",
-      "favicon": "https://cdn-profiles.tunein.com/s151580/images/logod.png",
+      "favicon": "https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T04:36:26Z",
@@ -308190,6 +308783,87 @@
       ]
     },
     {
+      "id": "awb_4249150801561c2a2e78",
+      "name": "Exa FM Acámbaro - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato",
+      "country": "MX",
+      "subdivision": "Acámbaro, Guanajuato",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "90.5 fm",
+        "acámbaro",
+        "américa",
+        "en todas partes",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "guanajuato",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "méxico",
+        "música",
+        "música en español e inglés",
+        "música pop",
+        "norteamérica",
+        "organización radiofónica de acámbaro",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "programas en cadena",
+        "programas en vivo",
+        "programas grabados",
+        "radio",
+        "top hits",
+        "youth",
+        "youth programming",
+        "youth programs"
+      ],
+      "homepage": "https://exafm.com/",
+      "favicon": "https://i.postimg.cc/fLh4vmCg/Exa-FM-Acambaro.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T01:42:24Z",
+      "streams": [
+        {
+          "id": "aws_1a048c0dc02ee4fea604",
+          "stationId": "awb_4249150801561c2a2e78",
+          "name": "Exa FM Acámbaro - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato",
+          "country": "MX",
+          "url": "https://radios.radiohd.com.mx:7140/;",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "37f1e1db-20cf-4944-abd9-05535f895928"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_bf2eccdf23ed92047c59",
       "name": "Exa FM Acapulco - 99.3 FM - XHNQ-FM - MVS Radio - Acapulco, Guerrero",
       "country": "MX",
@@ -310240,6 +310914,87 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T03:13:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_73d8672b610d95ed10df",
+      "name": "Exa FM Querétaro - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro",
+      "country": "MX",
+      "subdivision": "Querétaro, Querétaro",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "95.5 fm",
+        "américa",
+        "contemporary hits",
+        "contemporary hits radio",
+        "el exámetro",
+        "en todas partes",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "la hora nacional",
+        "latinoamérica",
+        "moi merino",
+        "multimundo radio",
+        "music",
+        "mvs",
+        "mvs radio",
+        "méxico",
+        "música",
+        "música en español e inglés",
+        "música pop",
+        "norteamérica",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "programas en cadena",
+        "programas en vivo",
+        "programas grabados",
+        "querétaro",
+        "querétaro city",
+        "radio",
+        "spanish contemporary hits",
+        "youth"
+      ],
+      "homepage": "https://exafm.com/",
+      "favicon": "https://i.postimg.cc/N00LcWMS/exafm955.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T01:55:21Z",
+      "streams": [
+        {
+          "id": "aws_e956851766ef119c9fa9",
+          "stationId": "awb_73d8672b610d95ed10df",
+          "name": "Exa FM Querétaro - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "250d1d0a-2f94-432a-be7f-8d085b8ab6a0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -318545,6 +319300,86 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T22:54:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_87049b9a5ffa6b32b262",
+      "name": "LA LUPE 95.3 (Tijuana) - 95.3 FM - XHHIT-FM - Multimedios Radio - Tijuana, Baja California",
+      "country": "MX",
+      "subdivision": "Tijuana, Baja California",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "95.3 fm",
+        "américa",
+        "baja california",
+        "california",
+        "clásicos",
+        "clásicos en español",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "la lupe",
+        "latinoamérica",
+        "mexican music",
+        "moi merino",
+        "multimedios",
+        "multimedios radio",
+        "music",
+        "música",
+        "música en español",
+        "música mexicana",
+        "música popular mexicana",
+        "música regional",
+        "música regional mexicana",
+        "música tradicional mexicana",
+        "música tropical",
+        "música variada",
+        "norteamérica",
+        "pop en español",
+        "radio",
+        "ranchera",
+        "rancheras",
+        "regional",
+        "regional mexican",
+        "regional mexicana",
+        "regional music",
+        "regional radio",
+        "rosarito",
+        "san diego",
+        "tecate",
+        "tijuana"
+      ],
+      "homepage": "https://www.mmradio.com/",
+      "favicon": "https://cdn-profiles.tunein.com/s42269/images/logod.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T01:17:30Z",
+      "streams": [
+        {
+          "id": "aws_7269de070f11e1284049",
+          "stationId": "awb_87049b9a5ffa6b32b262",
+          "name": "LA LUPE 95.3 (Tijuana) - 95.3 FM - XHHIT-FM - Multimedios Radio - Tijuana, Baja California",
+          "country": "MX",
+          "url": "https://mdstrm.com/audio/6737c55f827a7efae201a949/icecast.audio",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "634fd365-033b-46a1-b660-a50d8390429f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -350742,6 +351577,72 @@
       ]
     },
     {
+      "id": "awb_78311a62fd4f569bce6c",
+      "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+      "country": "MX",
+      "subdivision": "Mérida, Yucatán",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "américa",
+        "cadena rasa",
+        "entretenimiento",
+        "español",
+        "estación",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "mérida",
+        "méxico",
+        "música",
+        "música en inglés",
+        "música pop",
+        "norteamérica",
+        "online",
+        "online only",
+        "online radio",
+        "pop",
+        "pop en inglés",
+        "pop music",
+        "radio",
+        "radio online",
+        "sureste",
+        "wow",
+        "yucatán"
+      ],
+      "homepage": "https://cadenarasa.com/yucatan/merida/wow",
+      "favicon": "https://i.postimg.cc/8zsPkYC7/wow.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-06-06T02:21:20Z",
+      "streams": [
+        {
+          "id": "aws_19abfec72c5f5f5717c5",
+          "stationId": "awb_78311a62fd4f569bce6c",
+          "name": "WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán",
+          "country": "MX",
+          "url": "https://stream.zeno.fm/jf0uuhbqekguv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b384f4f-2f03-4c86-861e-a526fcdfef2e",
+            "55699759-b52e-418e-b6dd-606de2b362f6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T02:34:09Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5acb0579226cc26d2827",
       "name": "Wow (Torreón) - 101.1 FM - XHDN-FM - GPS Media - Torreón, Coahuila",
       "country": "MX",
@@ -357623,7 +358524,7 @@
       "id": "awb_8a0d399c51b7ae5a645a",
       "name": "MeerRadio",
       "country": "NL",
-      "subdivision": "Noord-Holland, Haarlemmermeer",
+      "subdivision": "Noord-Holland",
       "languages": [
         "nl"
       ],
@@ -357637,7 +358538,7 @@
         "local news",
         "pop music"
       ],
-      "homepage": "https://meerradio.nl/",
+      "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
       "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
       "type": "community",
       "sourceCount": 2,
@@ -358082,7 +358983,7 @@
             "8a3496d2-aeee-424e-bc02-7e39992ee493"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -360419,6 +361320,61 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T15:50:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_78c95b545a4518887ffe",
+      "name": "Radio Prutz",
+      "country": "NL",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "electronic",
+        "metal",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "dubstep",
+        "eurobeat",
+        "happy hardcore",
+        "hardcore",
+        "hardstyle",
+        "metal",
+        "new retro wave",
+        "pop",
+        "psychill",
+        "rock",
+        "synthwave",
+        "trance"
+      ],
+      "homepage": "https://www.prutz-lan.nl/",
+      "favicon": "https://www.prutz-lan.nl/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T09:23:15Z",
+      "streams": [
+        {
+          "id": "aws_4e4ff2d7f8580ef5daa5",
+          "stationId": "awb_78c95b545a4518887ffe",
+          "name": "Radio Prutz",
+          "country": "NL",
+          "url": "https://ice.pw12.nu/prutzlan.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "50e8d003-685a-4db8-8f8b-f9349c78a302"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -371154,6 +372110,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T08:59:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f6936276d506c50189d9",
+      "name": "Eska Katowice",
+      "country": "PL",
+      "subdivision": "Slaskie",
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "pop"
+      ],
+      "homepage": "https://player.eska.pl/",
+      "favicon": "https://www.eska.pl/media/desktop/site_header/images/signets/signet-eska.svg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T23:12:58Z",
+      "streams": [
+        {
+          "id": "aws_b37a85a984deb7856f26",
+          "stationId": "awb_f6936276d506c50189d9",
+          "name": "Eska Katowice",
+          "country": "PL",
+          "url": "http://ic2.smcdn.pl/2220-1.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "68784a81-e9f9-453b-9f60-7dc9559d83c7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -382969,7 +383967,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+      "favicon": "https://radiaura.net/apple-touch-icon.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -389476,7 +390474,7 @@
         "stuttgart",
         "torino"
       ],
-      "homepage": "https://radiogiurgiu.net/mobile.html",
+      "homepage": "https://radiogiurgiu.net/",
       "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
       "type": null,
       "sourceCount": 4,
@@ -412446,6 +413444,55 @@
       ]
     },
     {
+      "id": "awb_883e515e9e8a71a8235b",
+      "name": "Радио Гармония",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "hits",
+        "oldies",
+        "pop",
+        "retro",
+        "russian pop"
+      ],
+      "homepage": "https://garmoniyafm.com/",
+      "favicon": "https://online.garmoniyafm.com/static/uploads/album_art.1792427148.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T05:18:08Z",
+      "streams": [
+        {
+          "id": "aws_c85ab5c9ce7f1496d74b",
+          "stationId": "awb_883e515e9e8a71a8235b",
+          "name": "Радио Гармония",
+          "country": "RU",
+          "url": "https://online.garmoniyafm.com/listen/garm/256",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "30e6aa70-cf8c-44b2-9492-7605a57c2dae"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_526f877300f5a8d956d3",
       "name": "РАДИО ГУСЬ",
       "country": "RU",
@@ -425167,7 +426214,7 @@
             "653a063c-6d10-46da-af43-ceaeee50c933"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -450336,6 +451383,56 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T18:24:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bbe38e05f29c27c8af53",
+      "name": "Radio Pig",
+      "country": "US",
+      "subdivision": "Tennessee",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "classic hits",
+        "memphis",
+        "pop",
+        "power ballads",
+        "rock"
+      ],
+      "homepage": "https://radiopig.com/",
+      "favicon": "https://radiopig.com/airo-assets/images/logo/favicon",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T17:35:11Z",
+      "streams": [
+        {
+          "id": "aws_421d34ef4bc47b09a97a",
+          "stationId": "awb_bbe38e05f29c27c8af53",
+          "name": "Radio Pig",
+          "country": "US",
+          "url": "https://securenetg.com/listen/station_877/radio.aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0fe6552a-4ff2-4f97-aa40-edf8ca015fc0",
+            "4832f373-4792-4eb5-9cc5-c1454e27a87f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },

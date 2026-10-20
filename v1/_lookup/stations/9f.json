@@ -1955,7 +1955,7 @@
     "id": "awb_9f6c026e52f2cc2ab155",
     "name": "as.if.radio",
     "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
+    "subdivision": "Cologne",
     "languages": [
       "de",
       "en"
@@ -1989,7 +1989,7 @@
       "werbefrei"
     ],
     "homepage": "https://www.as-if-radio.com/",
-    "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+    "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-04T14:43:37Z",
@@ -3098,6 +3098,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T22:57:58Z"
+      }
+    ]
+  },
+  "awb_9f3f00727f93700b1866": {
+    "id": "awb_9f3f00727f93700b1866",
+    "name": "Radio Foramontanos",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "culture",
+      "local news"
+    ],
+    "homepage": "https://www.foramontanos.fm/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:24:13Z",
+    "streams": [
+      {
+        "id": "aws_07e4deacdb6bbf9cb73d",
+        "stationId": "awb_9f3f00727f93700b1866",
+        "name": "Radio Foramontanos",
+        "country": "ES",
+        "url": "https://foramontanos.fm:8443/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "082556db-d971-4642-8fc2-1c78a98bfc77"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },

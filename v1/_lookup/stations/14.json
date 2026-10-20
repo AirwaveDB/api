@@ -2042,7 +2042,7 @@
       "pop"
     ],
     "homepage": "https://www.lyg1.com/index.html",
-    "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiF2.png@350w_1l",
+    "favicon": "https://m.mlzhongguo.com/uploads/image/05/15901171693455.jpg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T17:46:36Z",
@@ -3959,6 +3959,50 @@
       }
     ]
   },
+  "awb_147a6639c3c8977369f7": {
+    "id": "awb_147a6639c3c8977369f7",
+    "name": "SER Castro Urdiales",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "local news",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://cadenaser.com/ser-castro-urdiales/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:23:36Z",
+    "streams": [
+      {
+        "id": "aws_4463ea34b2702d3fde96",
+        "stationId": "awb_147a6639c3c8977369f7",
+        "name": "SER Castro Urdiales",
+        "country": "ES",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CASTRO_URDIALES.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bb5afae9-1cac-4d02-8182-218e97784412"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_14ecea486aa31eee9add": {
     "id": "awb_14ecea486aa31eee9add",
     "name": "TVLeganés",
@@ -4073,6 +4117,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T12:08:22Z"
+      }
+    ]
+  },
+  "awb_1456a22f4fda42851b26": {
+    "id": "awb_1456a22f4fda42851b26",
+    "name": "Fréquence 3+ 90's Dance",
+    "country": "FR",
+    "subdivision": "Centre-Val de Loire",
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "90s",
+      "dance",
+      "eurodance",
+      "france",
+      "sans pub",
+      "webradio"
+    ],
+    "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+    "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plus90sdance.png",
+    "type": "internet",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T22:19:45Z",
+    "streams": [
+      {
+        "id": "aws_ca38b05c4f465e38759b",
+        "stationId": "awb_1456a22f4fda42851b26",
+        "name": "Fréquence 3+ 90's Dance",
+        "country": "FR",
+        "url": "https://hls.net-radio.fr/Frequence3Plus-2/Frequence3Plus-2.m3u8",
+        "codec": "aac",
+        "bitrate": 460,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "15323f82-c670-425a-b88a-2ec43a9cbad6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -6067,10 +6157,10 @@
         "stationId": "awb_148fbed64dc3d4a444a3",
         "name": "QUE VIVA MÉXICO! (MTY) - Online - www.quevivamexico.com - Grupo Digital Retroland - Monterrey, Nuevo León",
         "country": "MX",
-        "url": "http://quevivamexico.com/listen.pls",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "http",
+        "url": "https://panel.retrolandigital.com:8160/listen",
+        "codec": "aac",
+        "bitrate": 96,
+        "protocol": "https",
         "hls": false,
         "sources": [
           "radio-browser"
@@ -6079,7 +6169,7 @@
           "404c6360-08d7-4270-9c02-6149300f6454"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },
@@ -6976,7 +7066,7 @@
       "oldies",
       "the best of 80's"
     ],
-    "homepage": "http://radio.free-shoutcast.com/site/89000",
+    "homepage": "https://radio.free-shoutcast.com/site/89000",
     "favicon": null,
     "type": null,
     "sourceCount": 3,

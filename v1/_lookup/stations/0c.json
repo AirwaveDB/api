@@ -829,7 +829,7 @@
           "36108a02-ecdd-4fb7-ab90-70967ea4089a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T00:17:25Z"
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -3823,6 +3823,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T08:07:01Z"
+      }
+    ]
+  },
+  "awb_0c3e7d6c0ad2ea52742c": {
+    "id": "awb_0c3e7d6c0ad2ea52742c",
+    "name": "Radio Líder Cantabria",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "music",
+      "news"
+    ],
+    "homepage": "https://radiolider.com/directo/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:23:36Z",
+    "streams": [
+      {
+        "id": "aws_df81243b4d7f638e098b",
+        "stationId": "awb_0c3e7d6c0ad2ea52742c",
+        "name": "Radio Líder Cantabria",
+        "country": "ES",
+        "url": "https://server10.emitironline.com:10855/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "eb388be4-4dbe-45a4-aac1-ecbeafe50a34"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },

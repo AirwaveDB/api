@@ -1,7 +1,7 @@
 {
   "code": "hin",
   "canonicalCode": "hi",
-  "stationCount": 406,
+  "stationCount": 408,
   "stations": [
     {
       "id": "awb_63261574c5ec040bacdc",
@@ -5091,7 +5091,7 @@
             "fce74d2f-b975-4fdd-888e-e4db23ac4663"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -8231,6 +8231,45 @@
       ]
     },
     {
+      "id": "awb_b91dac49bc206adc517f",
+      "name": "Kumar Sanu Radio",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "hi"
+      ],
+      "categories": [],
+      "tags": [
+        "hindi bollywood"
+      ],
+      "homepage": null,
+      "favicon": "https://vividhbharati.in/uploads/kumar-sanu-songs.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T07:18:45Z",
+      "streams": [
+        {
+          "id": "aws_2d5f5654a9ef8bc60200",
+          "stationId": "awb_b91dac49bc206adc517f",
+          "name": "Kumar Sanu Radio",
+          "country": "IN",
+          "url": "https://stream-164.zeno.fm/shxt7qxapy8uv",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "97f4ca7a-7571-4aeb-b325-d98166a76153"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_f91c8d3f4463e3e75414",
       "name": "Lata Mangeshkar Radio",
       "country": "IN",
@@ -9110,6 +9149,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T19:23:05Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_77fadab307f89bc57fc3",
+      "name": "Mohammed Aziz Radio",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [
+        "hi"
+      ],
+      "categories": [],
+      "tags": [
+        "hindi"
+      ],
+      "homepage": null,
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66MM3RZ5xdPsuBvPado92t7nUnihr81Pnu9AbonIGDg&s",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T07:16:43Z",
+      "streams": [
+        {
+          "id": "aws_2606307cc3c4e32298f0",
+          "stationId": "awb_77fadab307f89bc57fc3",
+          "name": "Mohammed Aziz Radio",
+          "country": "IN",
+          "url": "https://stream.zeno.fm/p5ny63td1d0uv",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "33f175ce-e140-44ff-8c9d-257522a8bfca"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

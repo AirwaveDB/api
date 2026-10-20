@@ -1,7 +1,7 @@
 {
   "code": "RU",
-  "stationCount": 2600,
-  "streamCount": 2710,
+  "stationCount": 2604,
+  "streamCount": 2714,
   "stations": [
     {
       "id": "awb_e2f7e22d63535ea5634e",
@@ -13149,7 +13149,7 @@
         "house"
       ],
       "homepage": "https://kamchatkalive.ru/",
-      "favicon": "https://kamchatkalive.ru/img/house.jpg",
+      "favicon": "https://kamchatkalive.ru/img/dance.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-12T11:07:02Z",
@@ -13789,6 +13789,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T18:03:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff232ec1c6db58dc395d",
+      "name": "ELITE CONVOY FM RUSSIA",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://listen7.myradio24.com/88375",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T08:29:34Z",
+      "streams": [
+        {
+          "id": "aws_5b4ce64ba495e5331aab",
+          "stationId": "awb_ff232ec1c6db58dc395d",
+          "name": "ELITE CONVOY FM RUSSIA",
+          "country": "RU",
+          "url": "https://listen7.myradio24.com/88375",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "652c4fcf-ea4a-4a41-b951-09939e3a30f2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -62685,41 +62720,6 @@
       ]
     },
     {
-      "id": "awb_292fe4149809b6b3a110",
-      "name": "Vinyl drinks 33/13",
-      "country": "RU",
-      "subdivision": null,
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "http://radio.obakiri.ru/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-18T19:49:29Z",
-      "streams": [
-        {
-          "id": "aws_327008924f14814c2146",
-          "stationId": "awb_292fe4149809b6b3a110",
-          "name": "Vinyl drinks 33/13",
-          "country": "RU",
-          "url": "http://radio.obakiri.ru:8000/vinyl-33-13-drinks",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "b21a4200-eec2-4820-92d9-e683e4b87316"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
       "id": "awb_3452be3e43bec183b45c",
       "name": "Violin - Radio Caprice",
       "country": "RU",
@@ -76680,6 +76680,41 @@
       ]
     },
     {
+      "id": "awb_5d999b3e4782709fe735",
+      "name": "Любимое Радио",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://russia.radiosolo.ru/radio_ru/lyubimoe/icecast.audio",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T09:07:14Z",
+      "streams": [
+        {
+          "id": "aws_0ef24dcd26a6dc587439",
+          "stationId": "awb_5d999b3e4782709fe735",
+          "name": "Любимое Радио",
+          "country": "RU",
+          "url": "https://russia.radiosolo.ru/radio_ru/lyubimoe/icecast.audio",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a70d6488-aac9-49d9-a65d-a72b4fca524d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_bb8c4b39b0668e8c53cf",
       "name": "Любовь Успенская",
       "country": "RU",
@@ -80686,8 +80721,8 @@
           "name": "Песни всех времен",
           "country": "RU",
           "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/792012",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -80697,7 +80732,7 @@
             "5376cec4-ca35-48b4-ade6-a53f88a1eb1e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -84674,6 +84709,41 @@
       ]
     },
     {
+      "id": "awb_2dd75b16671cf906d32e",
+      "name": "Радио Волшебный Шансон",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://listen8.myradio24.com/8144",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T09:17:34Z",
+      "streams": [
+        {
+          "id": "aws_48bfcffa36cd2ec34173",
+          "stationId": "awb_2dd75b16671cf906d32e",
+          "name": "Радио Волшебный Шансон",
+          "country": "RU",
+          "url": "https://listen8.myradio24.com/8144",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8b2d2af5-9dc2-4818-86c1-30bcf7bea400"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_32b083aa930abb5a0c2c",
       "name": "Радио ВОС",
       "country": "RU",
@@ -84793,6 +84863,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T15:42:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_883e515e9e8a71a8235b",
+      "name": "Радио Гармония",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "hits",
+        "oldies",
+        "pop",
+        "retro",
+        "russian pop"
+      ],
+      "homepage": "https://garmoniyafm.com/",
+      "favicon": "https://online.garmoniyafm.com/static/uploads/album_art.1792427148.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T05:18:08Z",
+      "streams": [
+        {
+          "id": "aws_c85ab5c9ce7f1496d74b",
+          "stationId": "awb_883e515e9e8a71a8235b",
+          "name": "Радио Гармония",
+          "country": "RU",
+          "url": "https://online.garmoniyafm.com/listen/garm/256",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "30e6aa70-cf8c-44b2-9492-7605a57c2dae"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -96468,6 +96587,41 @@
       ]
     },
     {
+      "id": "awb_d58b2cca772d5bad2aef",
+      "name": "Радио Шансон 24",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiont.shansonspb.ru:1045/stream",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T09:12:09Z",
+      "streams": [
+        {
+          "id": "aws_82a2b02f988b20b34599",
+          "stationId": "awb_d58b2cca772d5bad2aef",
+          "name": "Радио Шансон 24",
+          "country": "RU",
+          "url": "https://radiont.shansonspb.ru:1045/stream",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f3401937-86b6-418c-bb03-8b2dda07068c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4dbd9173a4f73bf02bc8",
       "name": "Радио Шансон Казань 89.7 FM",
       "country": "RU",
@@ -105239,7 +105393,7 @@
     },
     {
       "id": "awb_6a099e7d3c6d0b4bfad9",
-      "name": "Чистая волна",
+      "name": "ЧИСТАЯ ВОЛНА",
       "country": "RU",
       "subdivision": null,
       "languages": [

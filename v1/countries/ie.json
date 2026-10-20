@@ -1,7 +1,7 @@
 {
   "code": "IE",
-  "stationCount": 187,
-  "streamCount": 213,
+  "stationCount": 189,
+  "streamCount": 215,
   "stations": [
     {
       "id": "awb_48a57bf00803875b8c35",
@@ -331,6 +331,49 @@
       ]
     },
     {
+      "id": "awb_8a628ae1d7d4923fe51c",
+      "name": "Ambient Lounge on MixLive.net",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "downtempo",
+        "easy listening"
+      ],
+      "homepage": "https://www.mixlive.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T06:37:16Z",
+      "streams": [
+        {
+          "id": "aws_d05f405768f8062c971b",
+          "stationId": "awb_8a628ae1d7d4923fe51c",
+          "name": "Ambient Lounge on MixLive.net",
+          "country": "IE",
+          "url": "https://free.rcast.net/200707",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "316ce48f-fc79-43cd-b669-73a6bd460c23"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_1de70909f93144e14f1c",
       "name": "Beat 102-103",
       "country": "IE",
@@ -567,7 +610,7 @@
     },
     {
       "id": "awb_ef17dfb7a806c053be76",
-      "name": "Bob fm",
+      "name": "Bob FM",
       "country": "IE",
       "subdivision": null,
       "languages": [
@@ -578,7 +621,7 @@
         "whatever"
       ],
       "homepage": "https://www.eastcoast.fm/player/bobfm/",
-      "favicon": "https://www.bobfm.ie/",
+      "favicon": "https://www.eastcoast.fm/player/bobfm/",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-06-22T23:37:53Z",
@@ -3854,6 +3897,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T21:51:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_35aadf06d57f7e84bd5f",
+      "name": "Minimal & Deep-tech on MixLive.net",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "deep and minimalist sounds"
+      ],
+      "homepage": "https://www.mixlive.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T06:31:51Z",
+      "streams": [
+        {
+          "id": "aws_60577c3976ddcb7decf9",
+          "stationId": "awb_35aadf06d57f7e84bd5f",
+          "name": "Minimal & Deep-tech on MixLive.net",
+          "country": "IE",
+          "url": "https://free.rcast.net/200710",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5f374674-a09e-44f4-9700-a2647915bfc8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

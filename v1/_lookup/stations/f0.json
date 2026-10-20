@@ -3196,6 +3196,49 @@
       }
     ]
   },
+  "awb_f0bd13d5e4d541f52c99": {
+    "id": "awb_f0bd13d5e4d541f52c99",
+    "name": "esRadio Cantabria",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "http://www.esradiocantabria.es/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:23:36Z",
+    "streams": [
+      {
+        "id": "aws_ab246233029efea40855",
+        "stationId": "awb_f0bd13d5e4d541f52c99",
+        "name": "esRadio Cantabria",
+        "country": "ES",
+        "url": "http://ns100.emisionlocal.com:9428/live",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d9081f9a-2850-41db-b9b0-688307873b08"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_f0d72ccdd1f05c2eff7d": {
     "id": "awb_f0d72ccdd1f05c2eff7d",
     "name": "Radio Connect Romania",
@@ -5104,7 +5147,7 @@
     "id": "awb_f0418ec6f2a427f541db",
     "name": "Radijo Stotis Kelyje",
     "country": "LT",
-    "subdivision": "Vilnius",
+    "subdivision": "Kaunas",
     "languages": [
       "lt"
     ],

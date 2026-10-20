@@ -1,7 +1,7 @@
 {
   "code": "rus",
   "canonicalCode": "ru",
-  "stationCount": 1544,
+  "stationCount": 1546,
   "stations": [
     {
       "id": "awb_08a84e7502607c0b2990",
@@ -417,7 +417,7 @@
       "categories": [],
       "tags": [],
       "homepage": "https://vintageradio.az/",
-      "favicon": "https://streamurl.link/logos/uFZrTYg4pHL.webp?t=8gWg0kVY3FJrekgVUv5NUw&e=1790020800",
+      "favicon": "https://streamurl.link/logos/uFZrTYg4pHL.webp?t=79QtremmSSt_F6a2IqItVA&e=1790024400",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-21T19:07:07Z",
@@ -2212,6 +2212,70 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T21:13:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_07d48cdc7d5c6c3f4823",
+      "name": "Dead Moon Radio",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "en",
+        "es",
+        "ru"
+      ],
+      "categories": [
+        "ambient",
+        "electronic",
+        "hip-hop"
+      ],
+      "tags": [
+        "320kbps",
+        "bass",
+        "brostep",
+        "chill",
+        "cloud rap",
+        "dnb",
+        "drum & bass",
+        "drum and bass",
+        "dubplates",
+        "dubstep",
+        "edm",
+        "electronic",
+        "emo rap",
+        "flac",
+        "hyperpop",
+        "liquid dnb",
+        "sadboy",
+        "trap",
+        "underground"
+      ],
+      "homepage": "https://deadmoonradio.com/",
+      "favicon": "https://stream.deadmoonradio.com/static/uploads/album_art.1765903062.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T20:10:30Z",
+      "streams": [
+        {
+          "id": "aws_595522d621f1fa441b1c",
+          "stationId": "awb_07d48cdc7d5c6c3f4823",
+          "name": "Dead Moon Radio",
+          "country": "CA",
+          "url": "https://stream.deadmoonradio.com/radio/DeadMoonRadio.mp3",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5d08a148-2f8d-4fdd-91d1-6fac0c6bf52d",
+            "d0a3760c-e6e6-4a5e-b41a-bdbdb3e71231"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -12083,7 +12147,7 @@
         "house"
       ],
       "homepage": "https://kamchatkalive.ru/",
-      "favicon": "https://kamchatkalive.ru/img/house.jpg",
+      "favicon": "https://kamchatkalive.ru/img/dance.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-12T11:07:02Z",
@@ -45042,8 +45106,8 @@
           "name": "Песни всех времен",
           "country": "RU",
           "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/792012",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -45053,7 +45117,7 @@
             "5376cec4-ca35-48b4-ade6-a53f88a1eb1e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -47709,6 +47773,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T17:11:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_883e515e9e8a71a8235b",
+      "name": "Радио Гармония",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "hits",
+        "oldies",
+        "pop",
+        "retro",
+        "russian pop"
+      ],
+      "homepage": "https://garmoniyafm.com/",
+      "favicon": "https://online.garmoniyafm.com/static/uploads/album_art.1792427148.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T05:18:08Z",
+      "streams": [
+        {
+          "id": "aws_c85ab5c9ce7f1496d74b",
+          "stationId": "awb_883e515e9e8a71a8235b",
+          "name": "Радио Гармония",
+          "country": "RU",
+          "url": "https://online.garmoniyafm.com/listen/garm/256",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "30e6aa70-cf8c-44b2-9492-7605a57c2dae"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -63107,7 +63220,7 @@
     },
     {
       "id": "awb_6a099e7d3c6d0b4bfad9",
-      "name": "Чистая волна",
+      "name": "ЧИСТАЯ ВОЛНА",
       "country": "RU",
       "subdivision": null,
       "languages": [

@@ -1069,8 +1069,8 @@
         "name": "CJLU 93.9 \"Nova Scotia's Inspire FM\" Dartmouth/Halifax, Nova Scotia",
         "country": "CA",
         "url": "https://harvestersfm.radioca.st/CJLU",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac+",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -1080,7 +1080,7 @@
           "a5bdebc6-2103-4c59-bf22-5569b6abcd2e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },
@@ -1123,6 +1123,89 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T04:59:36Z"
+      }
+    ]
+  },
+  "awb_0e11970a068bc8db8491": {
+    "id": "awb_0e11970a068bc8db8491",
+    "name": "Hamnava Records - Chill",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "chill",
+      "rnb",
+      "soul"
+    ],
+    "homepage": "https://radio.nimaarki.com/",
+    "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T16:27:22Z",
+    "streams": [
+      {
+        "id": "aws_ec819adccdd34e73e158",
+        "stationId": "awb_0e11970a068bc8db8491",
+        "name": "Hamnava Records - Chill",
+        "country": "CA",
+        "url": "https://radio.nimaarki.com/chill/stream?_ic2=1",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "830365d1-530d-4945-8d30-5ced3734a48b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
+  "awb_0ee4cfa71fedd173fc8a": {
+    "id": "awb_0ee4cfa71fedd173fc8a",
+    "name": "Hamnava Records - Deep",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "languages": [],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "deep house",
+      "electronic",
+      "house"
+    ],
+    "homepage": "https://radio.nimaarki.com/",
+    "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T16:32:32Z",
+    "streams": [
+      {
+        "id": "aws_41e67cbe1195277e1ebc",
+        "stationId": "awb_0ee4cfa71fedd173fc8a",
+        "name": "Hamnava Records - Deep",
+        "country": "CA",
+        "url": "https://radio.nimaarki.com/deep/stream?_ic2=1",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d916f208-b68c-402b-816e-d765a6823411"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },

@@ -6069,6 +6069,47 @@
       }
     ]
   },
+  "awb_cd59f8208caf1518e1f0": {
+    "id": "awb_cd59f8208caf1518e1f0",
+    "name": "RADIO MOON",
+    "country": "LT",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "smooth jazz"
+    ],
+    "homepage": "http://193.70.34.27:20330/kdime",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T11:18:15Z",
+    "streams": [
+      {
+        "id": "aws_1b1f8bde3889a132fc6e",
+        "stationId": "awb_cd59f8208caf1518e1f0",
+        "name": "RADIO MOON",
+        "country": "LT",
+        "url": "http://193.70.34.27:20330/kdime",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "42d3a5c0-0086-4c96-b8e8-96a2c4f6a303"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_cd77100fb88ee6991891": {
     "id": "awb_cd77100fb88ee6991891",
     "name": "105.1 Millenium Bella Música (GDL) - 105.1 FM - XHMBM-FM - Promomedios - Guadalajara, Jalisco",
@@ -9190,6 +9231,53 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T19:28:11Z"
+      }
+    ]
+  },
+  "awb_cd415cd10858269011e2": {
+    "id": "awb_cd415cd10858269011e2",
+    "name": "Public Liberty Radio",
+    "country": "US",
+    "subdivision": "Liberty City",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "grand theft auto",
+      "gta",
+      "news talk",
+      "talk",
+      "talk & speech",
+      "video game radio"
+    ],
+    "homepage": "http://gtaradio.net/en/4/",
+    "favicon": "http://images.weserv.nl/?url=https://gta.wiki/images/PublicLibertyRadio-GTAIV-Logo.png?eb9bb&w=1024&h=1024&fit=contain&bg=ffffff&output=png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T15:52:40Z",
+    "streams": [
+      {
+        "id": "aws_3c36f757c2dc7f264bce",
+        "stationId": "awb_cd415cd10858269011e2",
+        "name": "Public Liberty Radio",
+        "country": "US",
+        "url": "https://audio.gtaradio.net/4/plr",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "24c59ea8-5c9d-4ae8-9fa3-d319b82397bd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },

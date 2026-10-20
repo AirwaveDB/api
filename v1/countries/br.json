@@ -1,7 +1,7 @@
 {
   "code": "BR",
-  "stationCount": 1441,
-  "streamCount": 1482,
+  "stationCount": 1443,
+  "streamCount": 1484,
   "stations": [
     {
       "id": "awb_bf769f289865e0b6efda",
@@ -10397,6 +10397,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T22:39:36Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b6af5ef6ca78b72805a7",
+      "name": "Frei Caneca FM",
+      "country": "BR",
+      "subdivision": "Pernambuco",
+      "languages": [
+        "pt"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://freicanecafm.recife.pe.gov.br/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6Pe-JhVLKz43YbCouAsVYQDQ4cXVmm7TBnz1HWdumKehnbnPB5xf_2Bk&s=10",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T18:51:07Z",
+      "streams": [
+        {
+          "id": "aws_540f15e3bca585201d6a",
+          "stationId": "awb_b6af5ef6ca78b72805a7",
+          "name": "Frei Caneca FM",
+          "country": "BR",
+          "url": "https://centova3.transmissaodigital.com/proxy/freicaneca/stream",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "541f6bfb-961a-4453-a22b-7cc27e596355"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -25172,7 +25209,7 @@
     },
     {
       "id": "awb_d8f1e095371ed7146854",
-      "name": "Rádio AMC",
+      "name": "Rádio AMC+",
       "country": "BR",
       "subdivision": null,
       "languages": [
@@ -25187,7 +25224,7 @@
         "jrock"
       ],
       "homepage": "https://radioamc.com.br/",
-      "favicon": "https://radioamc.com.br/shared/amclogo.png",
+      "favicon": "https://radioamc.com.br/shared/amcpluslogo.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-02-19T15:57:39Z",
@@ -27945,9 +27982,9 @@
     },
     {
       "id": "awb_ed3a2b709ad8b4213973",
-      "name": "Rádio Bons Tempos FM",
+      "name": "RÁDIO BONS TEMPOS FM",
       "country": "BR",
-      "subdivision": "São Paulo",
+      "subdivision": "SAO PAULO",
       "languages": [],
       "categories": [
         "rock"
@@ -27955,7 +27992,7 @@
       "tags": [
         "popo rock"
       ],
-      "homepage": "http://www.radiobonstemposfm.com.br/",
+      "homepage": "https://www.radiobonstemposfm.com.br/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -29604,7 +29641,7 @@
         "soul hiphop rnb"
       ],
       "homepage": "https://radiocharme.com/",
-      "favicon": "https://app.box.com/s/lup4s98pb04e1nbx7l6uaimd67nmqihq",
+      "favicon": "https://i.imgur.com/cGgYqri.jpeg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-07-09T07:35:35Z",
@@ -33801,7 +33838,7 @@
             "be7c6ab1-5092-45dd-a088-0232c7dc30da"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -44415,7 +44452,7 @@
             "d2ef310d-58d8-481b-a195-0a94645a518d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -52801,6 +52838,47 @@
       ]
     },
     {
+      "id": "awb_fee3c2dc6debeee3705c",
+      "name": "SO Kakarecos Light",
+      "country": "BR",
+      "subdivision": "Rio de Janeiro",
+      "languages": [],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "musica romantica",
+        "retro",
+        "soft rock"
+      ],
+      "homepage": "https://sokakarecos.com/",
+      "favicon": "https://i.imgur.com/Gr3AS9l.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:49:33Z",
+      "streams": [
+        {
+          "id": "aws_56da8e3a3145ec637e58",
+          "stationId": "awb_fee3c2dc6debeee3705c",
+          "name": "SO Kakarecos Light",
+          "country": "BR",
+          "url": "http://sokakarecos.ddns.net:9005/",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "22e73d38-9092-4e05-8092-fc36a4899ded"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9d61a251ca9efc3c26d6",
       "name": "So Musica Boa",
       "country": "BR",
@@ -57154,7 +57232,7 @@
             "bd62f435-a868-43fc-8ff8-d699193d59d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },

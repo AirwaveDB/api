@@ -1,7 +1,7 @@
 {
   "code": "CA",
-  "stationCount": 1429,
-  "streamCount": 1465,
+  "stationCount": 1436,
+  "streamCount": 1472,
   "stations": [
     {
       "id": "awb_654770d3387f31abb729",
@@ -3096,7 +3096,7 @@
             "74e9e192-f937-4c97-b412-fd6f6f287591"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -4872,7 +4872,7 @@
             "17870a88-c273-4192-ac2d-6bbcf914e419"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -17614,6 +17614,42 @@
       ]
     },
     {
+      "id": "awb_ca004d7f3ab20e892268",
+      "name": "CHOI 98,1 Radio X",
+      "country": "CA",
+      "subdivision": "Quebec",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiox.com/",
+      "favicon": "https://radiox.com/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-14T22:54:07Z",
+      "streams": [
+        {
+          "id": "aws_5712ff2ec02838e31bf8",
+          "stationId": "awb_ca004d7f3ab20e892268",
+          "name": "CHOI 98,1 Radio X",
+          "country": "CA",
+          "url": "https://lb0-stream.radiox981.ca/choi.aac",
+          "codec": "aac",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0dd90532-85a3-4e5b-93e7-fe83aefb68d7",
+            "df6117f5-c79c-46bc-aec2-97d056d54e3d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T19:16:23Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9400b580214de8fda6bd",
       "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
       "country": "CA",
@@ -17672,42 +17708,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T10:24:55Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_ca004d7f3ab20e892268",
-      "name": "CHOI 98.1 Radio X",
-      "country": "CA",
-      "subdivision": "Quebec",
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://radiox.com/",
-      "favicon": "https://radiox.com/apple-touch-icon.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-01-14T22:54:07Z",
-      "streams": [
-        {
-          "id": "aws_5712ff2ec02838e31bf8",
-          "stationId": "awb_ca004d7f3ab20e892268",
-          "name": "CHOI 98,1 Radio X",
-          "country": "CA",
-          "url": "https://lb0-stream.radiox981.ca/choi.aac",
-          "codec": "aac",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0dd90532-85a3-4e5b-93e7-fe83aefb68d7",
-            "df6117f5-c79c-46bc-aec2-97d056d54e3d"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T19:16:23Z"
         }
       ]
     },
@@ -27293,8 +27293,8 @@
           "name": "CJLU 93.9 \"Nova Scotia's Inspire FM\" Dartmouth/Halifax, Nova Scotia",
           "country": "CA",
           "url": "https://harvestersfm.radioca.st/CJLU",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -27304,7 +27304,7 @@
             "a5bdebc6-2103-4c59-bf22-5569b6abcd2e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -40959,6 +40959,70 @@
       ]
     },
     {
+      "id": "awb_07d48cdc7d5c6c3f4823",
+      "name": "Dead Moon Radio",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "en",
+        "es",
+        "ru"
+      ],
+      "categories": [
+        "ambient",
+        "electronic",
+        "hip-hop"
+      ],
+      "tags": [
+        "320kbps",
+        "bass",
+        "brostep",
+        "chill",
+        "cloud rap",
+        "dnb",
+        "drum & bass",
+        "drum and bass",
+        "dubplates",
+        "dubstep",
+        "edm",
+        "electronic",
+        "emo rap",
+        "flac",
+        "hyperpop",
+        "liquid dnb",
+        "sadboy",
+        "trap",
+        "underground"
+      ],
+      "homepage": "https://deadmoonradio.com/",
+      "favicon": "https://stream.deadmoonradio.com/static/uploads/album_art.1765903062.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T20:10:30Z",
+      "streams": [
+        {
+          "id": "aws_595522d621f1fa441b1c",
+          "stationId": "awb_07d48cdc7d5c6c3f4823",
+          "name": "Dead Moon Radio",
+          "country": "CA",
+          "url": "https://stream.deadmoonradio.com/radio/DeadMoonRadio.mp3",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5d08a148-2f8d-4fdd-91d1-6fac0c6bf52d",
+            "d0a3760c-e6e6-4a5e-b41a-bdbdb3e71231"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
       "id": "awb_17fc77e0a4e7c2a5aff4",
       "name": "DJFM.ca Toronto, ON",
       "country": "CA",
@@ -42819,6 +42883,217 @@
       ]
     },
     {
+      "id": "awb_0e11970a068bc8db8491",
+      "name": "Hamnava Records - Chill",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "chill",
+        "rnb",
+        "soul"
+      ],
+      "homepage": "https://radio.nimaarki.com/",
+      "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:27:22Z",
+      "streams": [
+        {
+          "id": "aws_ec819adccdd34e73e158",
+          "stationId": "awb_0e11970a068bc8db8491",
+          "name": "Hamnava Records - Chill",
+          "country": "CA",
+          "url": "https://radio.nimaarki.com/chill/stream?_ic2=1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "830365d1-530d-4945-8d30-5ced3734a48b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0ee4cfa71fedd173fc8a",
+      "name": "Hamnava Records - Deep",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "deep house",
+        "electronic",
+        "house"
+      ],
+      "homepage": "https://radio.nimaarki.com/",
+      "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:32:32Z",
+      "streams": [
+        {
+          "id": "aws_41e67cbe1195277e1ebc",
+          "stationId": "awb_0ee4cfa71fedd173fc8a",
+          "name": "Hamnava Records - Deep",
+          "country": "CA",
+          "url": "https://radio.nimaarki.com/deep/stream?_ic2=1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d916f208-b68c-402b-816e-d765a6823411"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_81839090c28dc366e7b8",
+      "name": "Hamnava Records - Latest",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "electronic",
+        "independent",
+        "new music"
+      ],
+      "homepage": "https://radio.nimaarki.com/",
+      "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:28:52Z",
+      "streams": [
+        {
+          "id": "aws_faf469b7de68476873d8",
+          "stationId": "awb_81839090c28dc366e7b8",
+          "name": "Hamnava Records - Latest",
+          "country": "CA",
+          "url": "https://radio.nimaarki.com/latest/stream?_ic2=1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "12fab74d-3fa9-4cdf-aaad-95d79260fb36"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_32c816ff986825293a8d",
+      "name": "Hamnava Records - Lofi",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chill beats",
+        "lo-fi",
+        "lofi",
+        "study"
+      ],
+      "homepage": "https://radio.nimaarki.com/",
+      "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:28:19Z",
+      "streams": [
+        {
+          "id": "aws_709398cb1b86fbfe4cae",
+          "stationId": "awb_32c816ff986825293a8d",
+          "name": "Hamnava Records - Lofi",
+          "country": "CA",
+          "url": "https://radio.nimaarki.com/lofi/stream?_ic2=1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c963baa8-e165-418d-a2d0-7e28e5d6f841"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1d701def8a10f1d53f13",
+      "name": "Hamnava Records - Retro",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "pop",
+        "retro",
+        "rock"
+      ],
+      "homepage": "https://radio.nimaarki.com/",
+      "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:28:52Z",
+      "streams": [
+        {
+          "id": "aws_ed3614f07c5fa7807fd5",
+          "stationId": "awb_1d701def8a10f1d53f13",
+          "name": "Hamnava Records - Retro",
+          "country": "CA",
+          "url": "https://radio.nimaarki.com/retro/stream?_ic2=1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d4da3f46-3c8d-4c4a-808a-9e2b76b0597c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7e7adcb102c1b14d5986",
       "name": "Hang 10 Rock Radio - Tofino, BC",
       "country": "CA",
@@ -43147,7 +43422,7 @@
             "58d1b5ff-b1c1-48e1-894b-bfbe46e2c2cd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -52477,6 +52752,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T13:15:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_aeb643ff3549321c2758",
+      "name": "Radio Pacoul",
+      "country": "CA",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radiopacoul.top/",
+      "favicon": "https://www.radiopacoul.top/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T09:30:04Z",
+      "streams": [
+        {
+          "id": "aws_3ec3a317de460316bfc6",
+          "stationId": "awb_aeb643ff3549321c2758",
+          "name": "Radio Pacoul",
+          "country": "CA",
+          "url": "https://live.radiopacoul.top/stream/radiopacoul/stream",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "263e79f0-f145-4b15-aa95-adfc5bc87051"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },

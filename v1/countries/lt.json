@@ -1,7 +1,7 @@
 {
   "code": "LT",
-  "stationCount": 115,
-  "streamCount": 122,
+  "stationCount": 116,
+  "streamCount": 123,
   "stations": [
     {
       "id": "awb_476d98999ba5c484ad26",
@@ -1368,8 +1368,8 @@
           "name": "M-1 Radio",
           "country": "LT",
           "url": "https://stream.m-1.fm/m1/mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -1379,7 +1379,7 @@
             "482b510c-3a44-4f6c-a809-6c6a43d3b4dd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -2701,7 +2701,7 @@
       "id": "awb_f0418ec6f2a427f541db",
       "name": "Radijo Stotis Kelyje",
       "country": "LT",
-      "subdivision": "Vilnius",
+      "subdivision": "Kaunas",
       "languages": [
         "lt"
       ],
@@ -3046,6 +3046,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-19T02:35:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cd59f8208caf1518e1f0",
+      "name": "RADIO MOON",
+      "country": "LT",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "smooth jazz"
+      ],
+      "homepage": "http://193.70.34.27:20330/kdime",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T11:18:15Z",
+      "streams": [
+        {
+          "id": "aws_1b1f8bde3889a132fc6e",
+          "stationId": "awb_cd59f8208caf1518e1f0",
+          "name": "RADIO MOON",
+          "country": "LT",
+          "url": "http://193.70.34.27:20330/kdime",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "42d3a5c0-0086-4c96-b8e8-96a2c4f6a303"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -3731,7 +3772,7 @@
         "lithuanian music",
         "pop"
       ],
-      "homepage": "https://taktasfm.lt/?lang=en",
+      "homepage": "https://taktasfm.lt/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,

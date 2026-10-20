@@ -1,6 +1,6 @@
 {
   "id": "rock",
-  "stationCount": 4918,
+  "stationCount": 4927,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -13175,7 +13175,7 @@
             "72452618-dcd0-4e72-adf2-a3df331956e4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -13957,7 +13957,7 @@
             "446e3b26-1dcd-408f-a7f2-3ac0c15ffb49"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -27280,9 +27280,9 @@
     },
     {
       "id": "awb_ed3a2b709ad8b4213973",
-      "name": "Rádio Bons Tempos FM",
+      "name": "RÁDIO BONS TEMPOS FM",
       "country": "BR",
-      "subdivision": "São Paulo",
+      "subdivision": "SAO PAULO",
       "languages": [],
       "categories": [
         "rock"
@@ -27290,7 +27290,7 @@
       "tags": [
         "popo rock"
       ],
-      "homepage": "http://www.radiobonstemposfm.com.br/",
+      "homepage": "https://www.radiobonstemposfm.com.br/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -29842,6 +29842,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T17:27:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fee3c2dc6debeee3705c",
+      "name": "SO Kakarecos Light",
+      "country": "BR",
+      "subdivision": "Rio de Janeiro",
+      "languages": [],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "musica romantica",
+        "retro",
+        "soft rock"
+      ],
+      "homepage": "https://sokakarecos.com/",
+      "favicon": "https://i.imgur.com/Gr3AS9l.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:49:33Z",
+      "streams": [
+        {
+          "id": "aws_56da8e3a3145ec637e58",
+          "stationId": "awb_fee3c2dc6debeee3705c",
+          "name": "SO Kakarecos Light",
+          "country": "BR",
+          "url": "http://sokakarecos.ddns.net:9005/",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "22e73d38-9092-4e05-8092-fc36a4899ded"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -36318,6 +36359,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T06:40:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1d701def8a10f1d53f13",
+      "name": "Hamnava Records - Retro",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "pop",
+        "retro",
+        "rock"
+      ],
+      "homepage": "https://radio.nimaarki.com/",
+      "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:28:52Z",
+      "streams": [
+        {
+          "id": "aws_ed3614f07c5fa7807fd5",
+          "stationId": "awb_1d701def8a10f1d53f13",
+          "name": "Hamnava Records - Retro",
+          "country": "CA",
+          "url": "https://radio.nimaarki.com/retro/stream?_ic2=1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d4da3f46-3c8d-4c4a-808a-9e2b76b0597c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -45741,46 +45827,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T12:48:23Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_2cea16d34129f94e484f",
-      "name": "Más música señal retro",
-      "country": "CO",
-      "subdivision": "boyacá",
-      "languages": [],
-      "categories": [
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "pop rock"
-      ],
-      "homepage": "https://masmusicaretro.wixsite.com/online",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-19T03:56:43Z",
-      "streams": [
-        {
-          "id": "aws_4c423b20896f054bba68",
-          "stationId": "awb_2cea16d34129f94e484f",
-          "name": "Más música señal retro",
-          "country": "CO",
-          "url": "https://radio.hazteunsitio.net/streams/ms_f8cbb3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "b6846adc-0062-452e-a3db-c95e52fbe225"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },
@@ -55787,6 +55833,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T01:27:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_26af3b19375a3ffcb5d6",
+      "name": "Backroad Country Radio",
+      "country": "DE",
+      "subdivision": "Nordrhein-Westfalen",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "country",
+        "rock"
+      ],
+      "tags": [
+        "americana",
+        "country",
+        "country rock",
+        "ryan robson",
+        "singer-songwriter"
+      ],
+      "homepage": "https://backroadcountryradio.com/",
+      "favicon": "https://backroadcountryradio.com/assets/img/logo-1200.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:14:43Z",
+      "streams": [
+        {
+          "id": "aws_a4574a37d10694dbc53b",
+          "stationId": "awb_26af3b19375a3ffcb5d6",
+          "name": "Backroad Country Radio",
+          "country": "DE",
+          "url": "https://stream.backroadcountryradio.com/listen/backroad/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "380a0773-6a92-4406-8312-10a286d55003"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -91784,7 +91876,7 @@
             "ab6a1372-1364-4db8-848e-6bca16ef8523"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -92170,6 +92262,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T07:38:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2d748205b8cd10558fa7",
+      "name": "PuntalRadio",
+      "country": "ES",
+      "subdivision": "Cantabria",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop",
+        "rock",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "pop",
+        "rock",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://www.puntalradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T21:16:34Z",
+      "streams": [
+        {
+          "id": "aws_e51ef4b74ae7b063d840",
+          "stationId": "awb_2d748205b8cd10558fa7",
+          "name": "PuntalRadio",
+          "country": "ES",
+          "url": "https://a5.asurahosting.com:6700/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f20aff23-889e-4090-bcb4-30891566fc7a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -92788,7 +92927,7 @@
         "metal",
         "rock"
       ],
-      "homepage": "https://www.radiopermu.org/",
+      "homepage": "https://www.radiopermu.org/#body",
       "favicon": "https://www.radiopermu.org/images/logos/radiopermu_logo_250.png",
       "type": null,
       "sourceCount": 2,
@@ -94904,7 +95043,7 @@
     },
     {
       "id": "awb_200891c5235ae1cf1f57",
-      "name": "Boombox radio",
+      "name": "Boombox Radio",
       "country": "FR",
       "subdivision": "Occitanie",
       "languages": [
@@ -100484,7 +100623,7 @@
             "4f30ac19-4a41-40cb-8999-2ca19b34711e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -101006,7 +101145,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -101103,7 +101242,7 @@
       "id": "awb_4236313780f9154e875b",
       "name": "Rádio IBNJ Paris",
       "country": "FR",
-      "subdivision": "Ile de France",
+      "subdivision": "Île-de-France",
       "languages": [
         "fr",
         "pt"
@@ -101248,7 +101387,7 @@
             "82018398-3e60-4792-9bd4-bc354e2526e6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -127471,7 +127610,7 @@
             "ce8a6fa9-355c-43f8-9754-e0ca57e5ca8d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -135016,170 +135155,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T19:34:21Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9359ec9139ddfe95c6cf",
-      "name": "+Alternativa by Mix (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "metal",
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "80s",
-        "90s",
-        "acir",
-        "acir online",
-        "adult album alternative",
-        "adult alternative",
-        "alternative",
-        "alternative 70s",
-        "alternative 80s",
-        "alternative metal",
-        "alternative pop",
-        "alternative rock",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "classic rock; alternative rock indie",
-        "entretenimiento",
-        "español",
-        "estación",
-        "grupo acir",
-        "iheart",
-        "iheart radio",
-        "indie rock",
-        "latinoamérica",
-        "mexico city",
-        "mix",
-        "mix alternative",
-        "mix fm",
-        "moi merino",
-        "music",
-        "méxico",
-        "música alternativa",
-        "norteamérica",
-        "online",
-        "online only",
-        "radio",
-        "radio online",
-        "rock",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-13T04:25:31Z",
-      "streams": [
-        {
-          "id": "aws_e99a5227dad39e25927f",
-          "stationId": "awb_9359ec9139ddfe95c6cf",
-          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
-            "a7a10889-e3af-4085-b800-1868e8cc8085"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T12:46:19Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_6d85351c6324e7bda29d",
-      "name": "+Arroba FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "latin",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "@fm",
-        "@fm te conecta",
-        "américa",
-        "arroba fm",
-        "arroba fm te conecta",
-        "contemporary hits",
-        "contemporary hits radio",
-        "entretenimiento",
-        "español",
-        "estación",
-        "fm",
-        "juvenil",
-        "latin pop",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "méxico",
-        "música",
-        "música en español e inglés",
-        "música pop",
-        "norteamérica",
-        "pop",
-        "pop en español e inglés",
-        "pop music",
-        "pop rock",
-        "radio",
-        "radio resultados",
-        "radiorama",
-        "radiorama valle de méxico",
-        "spanish contemporary hits",
-        "te conecta",
-        "top",
-        "top 100",
-        "top 40",
-        "top 40 hits",
-        "top charts",
-        "top hits",
-        "youth"
-      ],
-      "homepage": "https://arroba.fm/",
-      "favicon": "https://i.postimg.cc/762SjQWk/arrobafm.webp",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-05-23T09:05:13Z",
-      "streams": [
-        {
-          "id": "aws_bf7670f68639af68f602",
-          "stationId": "awb_6d85351c6324e7bda29d",
-          "name": "ARROBA FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
-          "country": "MX",
-          "url": "https://stream.zeno.fm/6vtcayf9d78uv",
-          "codec": "mp3",
-          "bitrate": 64,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7fa7ed69-98c5-4ce0-a77b-c5e71903c731",
-            "cb1d0881-6072-46fc-a4ab-82720706bc26"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T21:10:09Z"
         }
       ]
     },
@@ -149506,6 +149481,89 @@
       ]
     },
     {
+      "id": "awb_9359ec9139ddfe95c6cf",
+      "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "metal",
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "acir",
+        "acir online",
+        "adult album alternative",
+        "adult alternative",
+        "alternative",
+        "alternative 70s",
+        "alternative 80s",
+        "alternative metal",
+        "alternative pop",
+        "alternative rock",
+        "américa",
+        "cdmx",
+        "ciudad de méxico",
+        "classic rock; alternative rock indie",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "indie rock",
+        "latinoamérica",
+        "mexico city",
+        "mix",
+        "mix alternative",
+        "mix fm",
+        "moi merino",
+        "music",
+        "méxico",
+        "música alternativa",
+        "norteamérica",
+        "online",
+        "online only",
+        "radio",
+        "radio online",
+        "rock",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.iheart.com/live/alternativa-by-mix-8053/",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-13T04:25:31Z",
+      "streams": [
+        {
+          "id": "aws_e99a5227dad39e25927f",
+          "stationId": "awb_9359ec9139ddfe95c6cf",
+          "name": "ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d0fc9d4-b45d-4fc5-b7f1-a0c6ce5a17c3",
+            "a7a10889-e3af-4085-b800-1868e8cc8085"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f512d49f926b4f8b58e7",
       "name": "Alternativa by MIX (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad",
       "country": "MX",
@@ -150474,6 +150532,87 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T00:44:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6d85351c6324e7bda29d",
+      "name": "ARROBA FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "@fm",
+        "@fm te conecta",
+        "américa",
+        "arroba fm",
+        "arroba fm te conecta",
+        "contemporary hits",
+        "contemporary hits radio",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "juvenil",
+        "latin pop",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "méxico",
+        "música",
+        "música en español e inglés",
+        "música pop",
+        "norteamérica",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio",
+        "radio resultados",
+        "radiorama",
+        "radiorama valle de méxico",
+        "spanish contemporary hits",
+        "te conecta",
+        "top",
+        "top 100",
+        "top 40",
+        "top 40 hits",
+        "top charts",
+        "top hits",
+        "youth"
+      ],
+      "homepage": "https://arroba.fm/CDMX",
+      "favicon": "https://thumbnail.anii.io/mx/radio-arroba-fm-stream-ciudad-de-mexico-mexico.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-05-23T09:05:13Z",
+      "streams": [
+        {
+          "id": "aws_bf7670f68639af68f602",
+          "stationId": "awb_6d85351c6324e7bda29d",
+          "name": "ARROBA FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
+          "country": "MX",
+          "url": "https://stream.zeno.fm/6vtcayf9d78uv",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7fa7ed69-98c5-4ce0-a77b-c5e71903c731",
+            "cb1d0881-6072-46fc-a4ab-82720706bc26"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T21:10:09Z"
         }
       ]
     },
@@ -157356,7 +157495,7 @@
         "top 40"
       ],
       "homepage": "https://exafm.com/plaza/la-piedad/",
-      "favicon": "https://cdn-profiles.tunein.com/s151580/images/logod.png",
+      "favicon": "https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T04:36:26Z",
@@ -159614,6 +159753,87 @@
       ]
     },
     {
+      "id": "awb_4249150801561c2a2e78",
+      "name": "Exa FM Acámbaro - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato",
+      "country": "MX",
+      "subdivision": "Acámbaro, Guanajuato",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "90.5 fm",
+        "acámbaro",
+        "américa",
+        "en todas partes",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "guanajuato",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "mvs",
+        "mvs noticias",
+        "mvs radio",
+        "méxico",
+        "música",
+        "música en español e inglés",
+        "música pop",
+        "norteamérica",
+        "organización radiofónica de acámbaro",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "programas en cadena",
+        "programas en vivo",
+        "programas grabados",
+        "radio",
+        "top hits",
+        "youth",
+        "youth programming",
+        "youth programs"
+      ],
+      "homepage": "https://exafm.com/",
+      "favicon": "https://i.postimg.cc/fLh4vmCg/Exa-FM-Acambaro.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T01:42:24Z",
+      "streams": [
+        {
+          "id": "aws_1a048c0dc02ee4fea604",
+          "stationId": "awb_4249150801561c2a2e78",
+          "name": "Exa FM Acámbaro - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato",
+          "country": "MX",
+          "url": "https://radios.radiohd.com.mx:7140/;",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "37f1e1db-20cf-4944-abd9-05535f895928"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_bf2eccdf23ed92047c59",
       "name": "Exa FM Acapulco - 99.3 FM - XHNQ-FM - MVS Radio - Acapulco, Guerrero",
       "country": "MX",
@@ -160848,6 +161068,87 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T00:48:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_73d8672b610d95ed10df",
+      "name": "Exa FM Querétaro - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro",
+      "country": "MX",
+      "subdivision": "Querétaro, Querétaro",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "95.5 fm",
+        "américa",
+        "contemporary hits",
+        "contemporary hits radio",
+        "el exámetro",
+        "en todas partes",
+        "entretenimiento",
+        "español",
+        "estación",
+        "exa",
+        "exa fm",
+        "fm",
+        "juvenil",
+        "la estación exacta",
+        "la estación naranja",
+        "la hora nacional",
+        "latinoamérica",
+        "moi merino",
+        "multimundo radio",
+        "music",
+        "mvs",
+        "mvs radio",
+        "méxico",
+        "música",
+        "música en español e inglés",
+        "música pop",
+        "norteamérica",
+        "ponte exa",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "programas en cadena",
+        "programas en vivo",
+        "programas grabados",
+        "querétaro",
+        "querétaro city",
+        "radio",
+        "spanish contemporary hits",
+        "youth"
+      ],
+      "homepage": "https://exafm.com/",
+      "favicon": "https://i.postimg.cc/N00LcWMS/exafm955.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T01:55:21Z",
+      "streams": [
+        {
+          "id": "aws_e956851766ef119c9fa9",
+          "stationId": "awb_73d8672b610d95ed10df",
+          "name": "Exa FM Querétaro - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "250d1d0a-2f94-432a-be7f-8d085b8ab6a0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -186324,6 +186625,61 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T15:50:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_78c95b545a4518887ffe",
+      "name": "Radio Prutz",
+      "country": "NL",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "electronic",
+        "metal",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "dubstep",
+        "eurobeat",
+        "happy hardcore",
+        "hardcore",
+        "hardstyle",
+        "metal",
+        "new retro wave",
+        "pop",
+        "psychill",
+        "rock",
+        "synthwave",
+        "trance"
+      ],
+      "homepage": "https://www.prutz-lan.nl/",
+      "favicon": "https://www.prutz-lan.nl/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T09:23:15Z",
+      "streams": [
+        {
+          "id": "aws_4e4ff2d7f8580ef5daa5",
+          "stationId": "awb_78c95b545a4518887ffe",
+          "name": "Radio Prutz",
+          "country": "NL",
+          "url": "https://ice.pw12.nu/prutzlan.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "50e8d003-685a-4db8-8f8b-f9349c78a302"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -227210,6 +227566,51 @@
       ]
     },
     {
+      "id": "awb_799db03eb300a6fffc61",
+      "name": "Cyberhog Radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "electronic",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "elictric",
+        "house",
+        "rock",
+        "talk",
+        "various"
+      ],
+      "homepage": "https://psycopigradio100.com/",
+      "favicon": "https://hq3.yesstreaming.net/media/keithshaffer/station_26/logos/logo_1792065759800.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:56:57Z",
+      "streams": [
+        {
+          "id": "aws_db0fc869df38bc1a54c6",
+          "stationId": "awb_799db03eb300a6fffc61",
+          "name": "Cyberhog Radio",
+          "country": "US",
+          "url": "https://hq3.yesstreaming.net/cyberhogradio/CyberHogRadio",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f264d8bb-2cae-4ac3-a3c7-fafc95397eec"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_008ccd68560a8e72c7f7",
       "name": "Dangerous D Radio",
       "country": "US",
@@ -239171,6 +239572,56 @@
       ]
     },
     {
+      "id": "awb_bbe38e05f29c27c8af53",
+      "name": "Radio Pig",
+      "country": "US",
+      "subdivision": "Tennessee",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "classic hits",
+        "memphis",
+        "pop",
+        "power ballads",
+        "rock"
+      ],
+      "homepage": "https://radiopig.com/",
+      "favicon": "https://radiopig.com/airo-assets/images/logo/favicon",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T17:35:11Z",
+      "streams": [
+        {
+          "id": "aws_421d34ef4bc47b09a97a",
+          "stationId": "awb_bbe38e05f29c27c8af53",
+          "name": "Radio Pig",
+          "country": "US",
+          "url": "https://securenetg.com/listen/station_877/radio.aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0fe6552a-4ff2-4f97-aa40-edf8ca015fc0",
+            "4832f373-4792-4eb5-9cc5-c1454e27a87f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6245e41eec51ae3d80d6",
       "name": "Radio Recital",
       "country": "US",
@@ -240401,6 +240852,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T19:32:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1cee07230a416b37cf78",
+      "name": "Rock 104.9 Detroit",
+      "country": "US",
+      "subdivision": "MI",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "detroit's new rock alternative"
+      ],
+      "homepage": "https://rock1049detroit.com/",
+      "favicon": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/YNqPk9NOZ3Ir1kEO/square-high-res-1024x1024---for-app-TALFvKZ8pi3OupaO.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:34:01Z",
+      "streams": [
+        {
+          "id": "aws_6363c547f43ffab185fd",
+          "stationId": "awb_1cee07230a416b37cf78",
+          "name": "Rock 104.9 Detroit",
+          "country": "US",
+          "url": "https://13683.live.streamtheworld.com/SAM04AAC494_SC",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "336aefa4-6f43-4f78-b67c-c65952431e2a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -245672,7 +246164,7 @@
             "87beaa2f-6f2f-4536-9c21-c8f704b0b3f4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },

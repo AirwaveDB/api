@@ -1,6 +1,6 @@
 {
   "id": "electronic",
-  "stationCount": 2190,
+  "stationCount": 2199,
   "stations": [
     {
       "id": "awb_9d3073b16c97ffe0e45d",
@@ -5772,8 +5772,8 @@
         "house",
         "progressive house"
       ],
-      "homepage": "https://www.esoterica.live/",
-      "favicon": "https://ibb.co/Y7hTdMtc",
+      "homepage": "https://esoterica.live/",
+      "favicon": "https://esoterica.live/images/favicon.ico",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-23",
@@ -10350,6 +10350,70 @@
       ]
     },
     {
+      "id": "awb_07d48cdc7d5c6c3f4823",
+      "name": "Dead Moon Radio",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [
+        "en",
+        "es",
+        "ru"
+      ],
+      "categories": [
+        "ambient",
+        "electronic",
+        "hip-hop"
+      ],
+      "tags": [
+        "320kbps",
+        "bass",
+        "brostep",
+        "chill",
+        "cloud rap",
+        "dnb",
+        "drum & bass",
+        "drum and bass",
+        "dubplates",
+        "dubstep",
+        "edm",
+        "electronic",
+        "emo rap",
+        "flac",
+        "hyperpop",
+        "liquid dnb",
+        "sadboy",
+        "trap",
+        "underground"
+      ],
+      "homepage": "https://deadmoonradio.com/",
+      "favicon": "https://stream.deadmoonradio.com/static/uploads/album_art.1765903062.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T20:10:30Z",
+      "streams": [
+        {
+          "id": "aws_595522d621f1fa441b1c",
+          "stationId": "awb_07d48cdc7d5c6c3f4823",
+          "name": "Dead Moon Radio",
+          "country": "CA",
+          "url": "https://stream.deadmoonradio.com/radio/DeadMoonRadio.mp3",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5d08a148-2f8d-4fdd-91d1-6fac0c6bf52d",
+            "d0a3760c-e6e6-4a5e-b41a-bdbdb3e71231"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
       "id": "awb_17fc77e0a4e7c2a5aff4",
       "name": "DJFM.ca Toronto, ON",
       "country": "CA",
@@ -10496,6 +10560,88 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T07:59:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0ee4cfa71fedd173fc8a",
+      "name": "Hamnava Records - Deep",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "deep house",
+        "electronic",
+        "house"
+      ],
+      "homepage": "https://radio.nimaarki.com/",
+      "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:32:32Z",
+      "streams": [
+        {
+          "id": "aws_41e67cbe1195277e1ebc",
+          "stationId": "awb_0ee4cfa71fedd173fc8a",
+          "name": "Hamnava Records - Deep",
+          "country": "CA",
+          "url": "https://radio.nimaarki.com/deep/stream?_ic2=1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d916f208-b68c-402b-816e-d765a6823411"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_81839090c28dc366e7b8",
+      "name": "Hamnava Records - Latest",
+      "country": "CA",
+      "subdivision": "Ontario",
+      "languages": [],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "electronic",
+        "independent",
+        "new music"
+      ],
+      "homepage": "https://radio.nimaarki.com/",
+      "favicon": "https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T16:28:52Z",
+      "streams": [
+        {
+          "id": "aws_faf469b7de68476873d8",
+          "stationId": "awb_81839090c28dc366e7b8",
+          "name": "Hamnava Records - Latest",
+          "country": "CA",
+          "url": "https://radio.nimaarki.com/latest/stream?_ic2=1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "12fab74d-3fa9-4cdf-aaad-95d79260fb36"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -21248,7 +21394,7 @@
       "id": "awb_9f6c026e52f2cc2ab155",
       "name": "as.if.radio",
       "country": "DE",
-      "subdivision": "North Rhine-Westphalia",
+      "subdivision": "Cologne",
       "languages": [
         "de",
         "en"
@@ -21282,7 +21428,7 @@
         "werbefrei"
       ],
       "homepage": "https://www.as-if-radio.com/",
-      "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+      "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-04T14:43:37Z",
@@ -38368,7 +38514,7 @@
         "hardstyle",
         "music"
       ],
-      "homepage": "https://decibeliafm.es/",
+      "homepage": "https://decibeliafm.es/web/",
       "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
       "type": null,
       "sourceCount": 2,
@@ -40022,7 +40168,7 @@
             "fd760390-fd42-4fd9-9949-b55b492f1548"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -44108,6 +44254,52 @@
       ]
     },
     {
+      "id": "awb_916450ca709f73aa74dc",
+      "name": "Fréquence 3+ 2000's Dance",
+      "country": "FR",
+      "subdivision": "Centre-Val de Loire",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "2000s",
+        "dance",
+        "france",
+        "house",
+        "sans pub",
+        "webradio"
+      ],
+      "homepage": "https://www.frequence3.com/les-radios-frequence-3/",
+      "favicon": "https://api.net-radio.fr/static/img/stations/frequence3plus2000sdance.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T22:19:45Z",
+      "streams": [
+        {
+          "id": "aws_4de225dbf658d31a2dde",
+          "stationId": "awb_916450ca709f73aa74dc",
+          "name": "Fréquence 3+ 2000's Dance",
+          "country": "FR",
+          "url": "https://hls.net-radio.fr/Frequence3Plus-3/Frequence3Plus-3.m3u8",
+          "codec": "aac",
+          "bitrate": 460,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1019e195-bd10-472f-8ccf-8b4660ca56ac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c4f5d9217d167d5ca168",
       "name": "FUN Radio",
       "country": "FR",
@@ -45693,7 +45885,7 @@
         "study"
       ],
       "homepage": "https://mugenradio.com/",
-      "favicon": "https://mugenradio.com/cover-mugen-3000.png",
+      "favicon": "https://mugenradio.com/cover-mugen-300.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-06-25T15:09:39Z",
@@ -46891,7 +47083,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -51112,6 +51304,56 @@
       ]
     },
     {
+      "id": "awb_7aae7f11adfadbba23ab",
+      "name": "DieselGoth1",
+      "country": "GB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "electronic",
+        "punk"
+      ],
+      "tags": [
+        "dark electro",
+        "darkwave",
+        "ebm",
+        "electronic",
+        "futurepop",
+        "gothic",
+        "industrial",
+        "post-punk",
+        "synthpop"
+      ],
+      "homepage": "https://radio.hollerboys.uk/46/",
+      "favicon": "https://hq2.stationhq.io/media/radiostalingrad/station_46/logos/logo_1791901984958.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T12:17:59Z",
+      "streams": [
+        {
+          "id": "aws_f35326b11d2077e409a4",
+          "stationId": "awb_7aae7f11adfadbba23ab",
+          "name": "DieselGoth1",
+          "country": "GB",
+          "url": "https://hq2.stationhq.io/radiostalingrad/stream",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b2fe839e-69fc-4158-88af-3d363f60d423"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f52b1df8f5e55412b8db",
       "name": "Digital Soul Radio",
       "country": "GB",
@@ -53026,7 +53268,7 @@
             "e936956c-fc26-4566-ae61-dce98c8524c9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -54046,16 +54288,18 @@
       ],
       "tags": [
         "deep techno",
+        "drum & bass",
         "drum 'n' bass",
         "house",
         "jazz",
-        "soul"
+        "soul",
+        "techno"
       ],
       "homepage": "https://www.pointblankradio.com/",
       "favicon": "https://pointblankradio.com/pointdab/wp-content/uploads/2022/12/Player_logo.png",
       "type": null,
-      "sourceCount": 3,
-      "updatedAt": "2026-02-10T14:01:52Z",
+      "sourceCount": 4,
+      "updatedAt": "2026-10-19T19:28:36Z",
       "streams": [
         {
           "id": "aws_6f3ed10bee29a2f572ad",
@@ -54071,7 +54315,7 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "421931a0-f099-4731-ac68-71ce2af32d41",
+            "2ae80adf-501a-4248-824a-769373abdd6e",
             "5e3a7db9-fa91-45ce-95f1-27f6fe4798bd"
           ],
           "lastCheckOk": true,
@@ -66077,6 +66321,53 @@
       ]
     },
     {
+      "id": "awb_5e2d0bac138da5e4b8f1",
+      "name": "Simx & Ly Radio",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "electronic",
+        "pop"
+      ],
+      "tags": [
+        "dance",
+        "electronic",
+        "hardcore",
+        "hardstyle",
+        "pop",
+        "pop dance"
+      ],
+      "homepage": "https://www.simxlyradio.it/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T19:27:05Z",
+      "streams": [
+        {
+          "id": "aws_a932583652309dd10a29",
+          "stationId": "awb_5e2d0bac138da5e4b8f1",
+          "name": "Simx & Ly Radio",
+          "country": "IT",
+          "url": "https://carol.epichosts.co.uk/proxy/simxlymusic/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "46f307b1-044f-4427-9346-8dd3305eea88"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2c18824b829f8451242e",
       "name": "Tonic Fitness Radio Ascoli Piceno",
       "country": "IT",
@@ -66719,7 +67010,7 @@
       "id": "awb_57810bebbaaee6f27f9b",
       "name": "NRG Radio345",
       "country": "KY",
-      "subdivision": "grand cayman island",
+      "subdivision": "Grand Cayman",
       "languages": [
         "en",
         "es"
@@ -67052,7 +67343,7 @@
         "lithuanian music",
         "pop"
       ],
-      "homepage": "https://taktasfm.lt/?lang=en",
+      "homepage": "https://taktasfm.lt/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -68181,7 +68472,7 @@
         "electronic",
         "house"
       ],
-      "homepage": "https://deepnovaradio.com/blog/radiochannel/deepnova-320/",
+      "homepage": "https://deepnovaradio.com/ro/blog/radiochannel/deepnova-top-deep-house/",
       "favicon": "https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320-170x170.png.webp",
       "type": null,
       "sourceCount": 3,
@@ -72447,6 +72738,61 @@
       ]
     },
     {
+      "id": "awb_78c95b545a4518887ffe",
+      "name": "Radio Prutz",
+      "country": "NL",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "electronic",
+        "metal",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "dubstep",
+        "eurobeat",
+        "happy hardcore",
+        "hardcore",
+        "hardstyle",
+        "metal",
+        "new retro wave",
+        "pop",
+        "psychill",
+        "rock",
+        "synthwave",
+        "trance"
+      ],
+      "homepage": "https://www.prutz-lan.nl/",
+      "favicon": "https://www.prutz-lan.nl/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T09:23:15Z",
+      "streams": [
+        {
+          "id": "aws_4e4ff2d7f8580ef5daa5",
+          "stationId": "awb_78c95b545a4518887ffe",
+          "name": "Radio Prutz",
+          "country": "NL",
+          "url": "https://ice.pw12.nu/prutzlan.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "50e8d003-685a-4db8-8f8b-f9349c78a302"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_d10a12f352e81f916eb9",
       "name": "Radio Sputnik",
       "country": "NL",
@@ -76111,7 +76457,7 @@
             "c839a643-9bf3-4759-b38b-95c331dbd441"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -82872,7 +83218,7 @@
         "house"
       ],
       "homepage": "https://kamchatkalive.ru/",
-      "favicon": "https://kamchatkalive.ru/img/house.jpg",
+      "favicon": "https://kamchatkalive.ru/img/dance.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-12T11:07:02Z",
@@ -96237,6 +96583,51 @@
       ]
     },
     {
+      "id": "awb_799db03eb300a6fffc61",
+      "name": "Cyberhog Radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "electronic",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "elictric",
+        "house",
+        "rock",
+        "talk",
+        "various"
+      ],
+      "homepage": "https://psycopigradio100.com/",
+      "favicon": "https://hq3.yesstreaming.net/media/keithshaffer/station_26/logos/logo_1792065759800.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:56:57Z",
+      "streams": [
+        {
+          "id": "aws_db0fc869df38bc1a54c6",
+          "stationId": "awb_799db03eb300a6fffc61",
+          "name": "Cyberhog Radio",
+          "country": "US",
+          "url": "https://hq3.yesstreaming.net/cyberhogradio/CyberHogRadio",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f264d8bb-2cae-4ac3-a3c7-fafc95397eec"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_2f3b2a735953e58e3d26",
       "name": "D.OP.E. Dance Radio",
       "country": "US",
@@ -99874,6 +100265,57 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T09:54:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7b2f5ae8f4dbd7459b9d",
+      "name": "MimSoul Radio",
+      "country": "US",
+      "subdivision": "MT",
+      "languages": [],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "afro house",
+        "dj",
+        "dj set",
+        "electronic music",
+        "house",
+        "indie dance",
+        "melodic house & techno",
+        "organic house",
+        "podcast",
+        "set mix",
+        "tech house",
+        "techno",
+        "underground music"
+      ],
+      "homepage": "https://radio.mimsoul.com/",
+      "favicon": "https://drive.google.com/file/d/1YQaCiqjQMx-satiBamEegML1JZmKjGkE/view?usp=sharing",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T14:46:11Z",
+      "streams": [
+        {
+          "id": "aws_d595f0108b18059c6847",
+          "stationId": "awb_7b2f5ae8f4dbd7459b9d",
+          "name": "MimSoul Radio",
+          "country": "US",
+          "url": "https://stream.mimsoul.com/hls/live.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b8912bdd-f4df-4bf9-866d-2143025ae299"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },

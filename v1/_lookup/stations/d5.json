@@ -6240,13 +6240,13 @@
     "homepage": "https://publicidadckv.wordpress.com/",
     "favicon": "https://i.postimg.cc/tT5L6c1s/pixeldigitalradio.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-11T08:16:17Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-20T00:16:17Z",
     "streams": [
       {
         "id": "aws_fe976af4166a49dbfd54",
         "stationId": "awb_d5a12671dc4e42361a63",
-        "name": "+Pixel Digital Radio (Tacámbaro) - Online - publicidadckv.wordpress.com - Tacámbaro, Michoacán",
+        "name": "PIXEL DIGITAL RADIO (Tacámbaro) - Online - publicidadckv.wordpress.com - Tacámbaro, Michoacán",
         "country": "MX",
         "url": "https://stream.zeno.fm/tn3ch5scy38uv",
         "codec": "aac",
@@ -6257,10 +6257,11 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "37ca3e1f-5469-491c-8b13-f0367db53105"
+          "37ca3e1f-5469-491c-8b13-f0367db53105",
+          "d19cfc3a-97ce-4de1-a8a0-4fd32223fbf5"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T09:48:34Z"
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -8475,6 +8476,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T12:19:16Z"
+      }
+    ]
+  },
+  "awb_d58b2cca772d5bad2aef": {
+    "id": "awb_d58b2cca772d5bad2aef",
+    "name": "Радио Шансон 24",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiont.shansonspb.ru:1045/stream",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T09:12:09Z",
+    "streams": [
+      {
+        "id": "aws_82a2b02f988b20b34599",
+        "stationId": "awb_d58b2cca772d5bad2aef",
+        "name": "Радио Шансон 24",
+        "country": "RU",
+        "url": "https://radiont.shansonspb.ru:1045/stream",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f3401937-86b6-418c-bb03-8b2dda07068c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },

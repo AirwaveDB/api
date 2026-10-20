@@ -3722,6 +3722,56 @@
       }
     ]
   },
+  "awb_7aae7f11adfadbba23ab": {
+    "id": "awb_7aae7f11adfadbba23ab",
+    "name": "DieselGoth1",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "punk"
+    ],
+    "tags": [
+      "dark electro",
+      "darkwave",
+      "ebm",
+      "electronic",
+      "futurepop",
+      "gothic",
+      "industrial",
+      "post-punk",
+      "synthpop"
+    ],
+    "homepage": "https://radio.hollerboys.uk/46/",
+    "favicon": "https://hq2.stationhq.io/media/radiostalingrad/station_46/logos/logo_1791901984958.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T12:17:59Z",
+    "streams": [
+      {
+        "id": "aws_f35326b11d2077e409a4",
+        "stationId": "awb_7aae7f11adfadbba23ab",
+        "name": "DieselGoth1",
+        "country": "GB",
+        "url": "https://hq2.stationhq.io/radiostalingrad/stream",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b2fe839e-69fc-4158-88af-3d363f60d423"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_7a5841c3e4955db4ffec": {
     "id": "awb_7a5841c3e4955db4ffec",
     "name": "Heart Gloucestershire",
@@ -4837,8 +4887,8 @@
         "name": "Radi.fm Classical Global",
         "country": "JP",
         "url": "https://live.radi.fm/stream/en.aac",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -4848,7 +4898,7 @@
           "a9e24bdd-0f5e-490e-88d5-a1fa1c0ac7e3"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },

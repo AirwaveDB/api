@@ -2516,6 +2516,50 @@
       }
     ]
   },
+  "awb_12fc21cbe9736187b912": {
+    "id": "awb_12fc21cbe9736187b912",
+    "name": "Top Cantabria FM",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "local news",
+      "pop"
+    ],
+    "homepage": "https://www.topcantabriafm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:24:13Z",
+    "streams": [
+      {
+        "id": "aws_a974103d0516cd870935",
+        "stationId": "awb_12fc21cbe9736187b912",
+        "name": "Top Cantabria FM",
+        "country": "ES",
+        "url": "https://live.topcantabriafm.com/listen/top_cantabria_fm_radio/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8a5fdc26-a77b-4e7e-94b3-a972f4670790"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_122dc4c4ee6761f0a3e0": {
     "id": "awb_122dc4c4ee6761f0a3e0",
     "name": "Vive Radio Burgos",
@@ -4073,8 +4117,8 @@
         "name": "Radi.fm 中文古典音乐",
         "country": "JP",
         "url": "https://live.radi.fm/stream/zh.aac",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -4084,7 +4128,7 @@
           "836b2af3-7941-4c02-b5bc-ed28e46cda43"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },

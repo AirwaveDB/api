@@ -1848,6 +1848,41 @@
       }
     ]
   },
+  "awb_3a58bac2637c4b5c975c": {
+    "id": "awb_3a58bac2637c4b5c975c",
+    "name": "90s90s Reggae",
+    "country": "DE",
+    "subdivision": "Deutschland (Germany)",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.90s90s.de/radios/reggae",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T14:55:58Z",
+    "streams": [
+      {
+        "id": "aws_e533b7a342cf68f09b42",
+        "stationId": "awb_3a58bac2637c4b5c975c",
+        "name": "90s90s Reggae",
+        "country": "DE",
+        "url": "http://streams.90s90s.de/reggae/mp3-192/streams.90s90s.de/",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ef908e01-3aed-492a-9fd9-407adfe1ef52"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
+      }
+    ]
+  },
   "awb_3a58f8b8fad0f6a7e4e2": {
     "id": "awb_3a58f8b8fad0f6a7e4e2",
     "name": "AENA",
@@ -2278,6 +2313,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T07:04:53Z"
+      }
+    ]
+  },
+  "awb_3a35da79b0eedfb38ed4": {
+    "id": "awb_3a35da79b0eedfb38ed4",
+    "name": "KPOP - atomicradio",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "anime",
+      "pop"
+    ],
+    "tags": [
+      "k-pop",
+      "kpop"
+    ],
+    "homepage": "https://atomic.radio/kpop",
+    "favicon": "https://assets.atomic.radio/web/favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T21:16:34Z",
+    "streams": [
+      {
+        "id": "aws_8cc60c123aa4fdfacac6",
+        "stationId": "awb_3a35da79b0eedfb38ed4",
+        "name": "KPOP - atomicradio",
+        "country": "DE",
+        "url": "https://listen.atomic.radio/kpop.m3u8",
+        "codec": "aac",
+        "bitrate": 352,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8495c4a7-0c66-47b3-acd6-4b957017f610"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-19T21:24:16Z"
       }
     ]
   },
@@ -2814,7 +2892,7 @@
     "id": "awb_3affbb98dab24e7b2119",
     "name": "GRX BIT RADIO on line",
     "country": "ES",
-    "subdivision": "Alhama - Granada- Andalucía",
+    "subdivision": "granada",
     "languages": [],
     "categories": [
       "pop"

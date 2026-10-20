@@ -1,7 +1,7 @@
 {
   "code": "US",
-  "stationCount": 6815,
-  "streamCount": 7067,
+  "stationCount": 6823,
+  "streamCount": 7077,
   "stations": [
     {
       "id": "awb_4d30246a9baae5c57a54",
@@ -62434,6 +62434,51 @@
       ]
     },
     {
+      "id": "awb_799db03eb300a6fffc61",
+      "name": "Cyberhog Radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "electronic",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "elictric",
+        "house",
+        "rock",
+        "talk",
+        "various"
+      ],
+      "homepage": "https://psycopigradio100.com/",
+      "favicon": "https://hq3.yesstreaming.net/media/keithshaffer/station_26/logos/logo_1792065759800.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:56:57Z",
+      "streams": [
+        {
+          "id": "aws_db0fc869df38bc1a54c6",
+          "stationId": "awb_799db03eb300a6fffc61",
+          "name": "Cyberhog Radio",
+          "country": "US",
+          "url": "https://hq3.yesstreaming.net/cyberhogradio/CyberHogRadio",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f264d8bb-2cae-4ac3-a3c7-fafc95397eec"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_c18d739b91a5f85183c5",
       "name": "Cygnus Radio",
       "country": "US",
@@ -71627,6 +71672,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T23:58:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7d421b4bb7d6bac74190",
+      "name": "EVA Génesis 54",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T00:16:17Z",
+      "streams": [
+        {
+          "id": "aws_610a870a92aa8fd6c4c3",
+          "stationId": "awb_7d421b4bb7d6bac74190",
+          "name": "EVA Génesis 54",
+          "country": "US",
+          "url": "https://www.lsmradio.com/audio/mp3-files/Genesis_sp/Genesis_054.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4704710f-0764-47e9-819b-7f85518c334d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -86131,6 +86218,67 @@
       ]
     },
     {
+      "id": "awb_6be4ad9725cb29dea4c2",
+      "name": "Hip-Hop",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "hip-hop"
+      ],
+      "tags": [
+        "hiphop",
+        "rap"
+      ],
+      "homepage": "https://classicradio.network/",
+      "favicon": "https://smartstream.myautodj.com/static/img/logo.png?v=0.17.1",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T13:04:42Z",
+      "streams": [
+        {
+          "id": "aws_3c1e33e523c1818f8e10",
+          "stationId": "awb_6be4ad9725cb29dea4c2",
+          "name": "Hip-Hop",
+          "country": "US",
+          "url": "https://smartstream.myautodj.com:8000/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6c979374-c12a-475e-8e0f-a03d4e17babb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        },
+        {
+          "id": "aws_e663b7fd271f1d8c393d",
+          "stationId": "awb_6be4ad9725cb29dea4c2",
+          "name": "Hip-Hop",
+          "country": "US",
+          "url": "https://smartstream.myautodj.com:8002/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c84df2ae-6563-4445-a43e-226145856df9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
+        }
+      ]
+    },
+    {
       "id": "awb_d9e2a82eeb6a1f6694fb",
       "name": "His Grace Christian Hip-hop & R&B",
       "country": "US",
@@ -86170,7 +86318,7 @@
             "d2c68d36-3614-48ad-a210-a8b6898f9431"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -126262,41 +126410,6 @@
       ]
     },
     {
-      "id": "awb_3fbaa6b9510ffb523f3d",
-      "name": "KSKQ Community Radio",
-      "country": "US",
-      "subdivision": "Ashland, Oregon",
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://kskq.org/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-18T22:23:33Z",
-      "streams": [
-        {
-          "id": "aws_7c3df2db67b4d693d52a",
-          "stationId": "awb_3fbaa6b9510ffb523f3d",
-          "name": "KSKQ Community Radio",
-          "country": "US",
-          "url": "https://kskq.org/",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "14013d51-93fe-4ae2-a8b9-22dfa8d0f99c"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
       "id": "awb_2931a07e54187289f933",
       "name": "KSL NewsRadio",
       "country": "US",
@@ -130193,7 +130306,7 @@
             "0254dd2d-91ef-407e-ba52-8c6cab8c39b2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -145224,6 +145337,57 @@
       ]
     },
     {
+      "id": "awb_7b2f5ae8f4dbd7459b9d",
+      "name": "MimSoul Radio",
+      "country": "US",
+      "subdivision": "MT",
+      "languages": [],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "afro house",
+        "dj",
+        "dj set",
+        "electronic music",
+        "house",
+        "indie dance",
+        "melodic house & techno",
+        "organic house",
+        "podcast",
+        "set mix",
+        "tech house",
+        "techno",
+        "underground music"
+      ],
+      "homepage": "https://radio.mimsoul.com/",
+      "favicon": "https://drive.google.com/file/d/1YQaCiqjQMx-satiBamEegML1JZmKjGkE/view?usp=sharing",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T14:46:11Z",
+      "streams": [
+        {
+          "id": "aws_d595f0108b18059c6847",
+          "stationId": "awb_7b2f5ae8f4dbd7459b9d",
+          "name": "MimSoul Radio",
+          "country": "US",
+          "url": "https://stream.mimsoul.com/hls/live.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b8912bdd-f4df-4bf9-866d-2143025ae299"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_397917fb65c2bcc79830",
       "name": "MindsEye Radio",
       "country": "US",
@@ -147808,6 +147972,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T22:26:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_70db71b84fb376a7939f",
+      "name": "MSX 98 FM",
+      "country": "US",
+      "subdivision": "Liberty City",
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "drum & bass",
+        "drum and bass",
+        "grand theft auto",
+        "gta",
+        "liberty city stories",
+        "video game music"
+      ],
+      "homepage": "https://gtaradio.net/en/lcs",
+      "favicon": "http://images.weserv.nl/?url=https://gta.wiki/images/MSX98-GTALCS-Logo.png&w=1024&h=1024&fit=contain&bg=ffffff",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T15:42:47Z",
+      "streams": [
+        {
+          "id": "aws_b10c3f6d8788ef4a650e",
+          "stationId": "awb_70db71b84fb376a7939f",
+          "name": "MSX 98 FM",
+          "country": "US",
+          "url": "https://audio.gtaradio.net/lcs/msx",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "606bb9da-6b7a-4d73-b325-5343ea6cd523"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -159406,7 +159614,7 @@
         "miscellaneous",
         "variety"
       ],
-      "homepage": "http://philipiptv.cloudns.ph/",
+      "homepage": "https://philipiptv.cloudns.ph/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -163792,6 +164000,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T20:49:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cd415cd10858269011e2",
+      "name": "Public Liberty Radio",
+      "country": "US",
+      "subdivision": "Liberty City",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "grand theft auto",
+        "gta",
+        "news talk",
+        "talk",
+        "talk & speech",
+        "video game radio"
+      ],
+      "homepage": "http://gtaradio.net/en/4/",
+      "favicon": "http://images.weserv.nl/?url=https://gta.wiki/images/PublicLibertyRadio-GTAIV-Logo.png?eb9bb&w=1024&h=1024&fit=contain&bg=ffffff&output=png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T15:52:40Z",
+      "streams": [
+        {
+          "id": "aws_3c36f757c2dc7f264bce",
+          "stationId": "awb_cd415cd10858269011e2",
+          "name": "Public Liberty Radio",
+          "country": "US",
+          "url": "https://audio.gtaradio.net/4/plr",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "24c59ea8-5c9d-4ae8-9fa3-d319b82397bd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -175295,6 +175550,56 @@
       ]
     },
     {
+      "id": "awb_bbe38e05f29c27c8af53",
+      "name": "Radio Pig",
+      "country": "US",
+      "subdivision": "Tennessee",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "classic hits",
+        "memphis",
+        "pop",
+        "power ballads",
+        "rock"
+      ],
+      "homepage": "https://radiopig.com/",
+      "favicon": "https://radiopig.com/airo-assets/images/logo/favicon",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T17:35:11Z",
+      "streams": [
+        {
+          "id": "aws_421d34ef4bc47b09a97a",
+          "stationId": "awb_bbe38e05f29c27c8af53",
+          "name": "Radio Pig",
+          "country": "US",
+          "url": "https://securenetg.com/listen/station_877/radio.aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0fe6552a-4ff2-4f97-aa40-edf8ca015fc0",
+            "4832f373-4792-4eb5-9cc5-c1454e27a87f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_39bbc34d3d80e5237ce7",
       "name": "Radio Polydor",
       "country": "US",
@@ -183549,6 +183854,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T19:32:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1cee07230a416b37cf78",
+      "name": "Rock 104.9 Detroit",
+      "country": "US",
+      "subdivision": "MI",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "detroit's new rock alternative"
+      ],
+      "homepage": "https://rock1049detroit.com/",
+      "favicon": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=375,fit=crop/YNqPk9NOZ3Ir1kEO/square-high-res-1024x1024---for-app-TALFvKZ8pi3OupaO.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T17:34:01Z",
+      "streams": [
+        {
+          "id": "aws_6363c547f43ffab185fd",
+          "stationId": "awb_1cee07230a416b37cf78",
+          "name": "Rock 104.9 Detroit",
+          "country": "US",
+          "url": "https://13683.live.streamtheworld.com/SAM04AAC494_SC",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "336aefa4-6f43-4f78-b67c-c65952431e2a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -193411,7 +193757,7 @@
       "tags": [
         "bossa nova"
       ],
-      "homepage": "https://somafm.com/",
+      "homepage": "https://somafm.com/player/#/now-playing/bossa",
       "favicon": "https://somafm.com/logos/400/bossa-400.jpg",
       "type": null,
       "sourceCount": 2,
@@ -198827,6 +199173,52 @@
       ]
     },
     {
+      "id": "awb_7144e0887f6b96081e41",
+      "name": "sonnov radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "drone",
+        "drone ambient",
+        "meditation",
+        "relaxing",
+        "sleep"
+      ],
+      "homepage": "https://sonnovradio.com/",
+      "favicon": "https://sonnovradio.com/favicon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T20:29:59Z",
+      "streams": [
+        {
+          "id": "aws_67fee85a9202fa7b87f7",
+          "stationId": "awb_7144e0887f6b96081e41",
+          "name": "sonnov radio",
+          "country": "US",
+          "url": "https://sonnovradio.com/listen",
+          "codec": "ogg",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "20f745a7-b8b7-4ca9-8eba-6e7b2780941a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
+        }
+      ]
+    },
+    {
       "id": "awb_57cac66fd57a00aedaf8",
       "name": "Sonshine 800",
       "country": "US",
@@ -201172,8 +201564,8 @@
           "name": "Stargate Radio",
           "country": "US",
           "url": "https://radio.generaljackoneill.space/listen/stargate_radio/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -201183,7 +201575,7 @@
             "307ec9a7-4928-45aa-92a6-db9a3f46a991"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -212787,7 +213179,7 @@
     },
     {
       "id": "awb_dce1f737b260dec682b6",
-      "name": "The Source:Smooth Jazz Radio - KJAC.DB",
+      "name": "The Source - Smooth Jazz Radio KJAC.DB",
       "country": "US",
       "subdivision": "WA",
       "languages": [
@@ -212804,7 +213196,7 @@
         "vocal contemporary"
       ],
       "homepage": "https://www.thesourcesmoothjazzradio.com/",
-      "favicon": "https://assets.clrd.net/uploads/logos/autodj/019dadf0-f0bf-7212-a652-f5c4e0c20233/0a60605f-b500-401f-a62f-8d05b670dda4.webp",
+      "favicon": "https://www.thesourcesmoothjazzradio.com/images/favicon-32x32.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-27T21:12:09Z",
@@ -220222,7 +220614,9 @@
       "name": "Vice City Public Radio (VCPR)",
       "country": "US",
       "subdivision": "Vice City",
-      "languages": [],
+      "languages": [
+        "en"
+      ],
       "categories": [
         "public",
         "talk"
@@ -220235,11 +220629,11 @@
         "public talk radio",
         "vice city"
       ],
-      "homepage": "https://gtaradio.net/vc/",
-      "favicon": "https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990",
+      "homepage": "https://gtaradio.net/en/vcs/",
+      "favicon": "https://images.weserv.nl/?url=https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990&w=1024&h=1024&fit=contain&bg=ffffff&output=png",
       "type": "public",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-18T18:44:44Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-19T15:45:53Z",
       "streams": [
         {
           "id": "aws_c4561b2e1df2b0cec78a",
@@ -220259,6 +220653,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-18T22:07:29Z"
+        },
+        {
+          "id": "aws_4c95b14227185d511734",
+          "stationId": "awb_b390325d423aeac29249",
+          "name": "Vice City Public Radio (VCPR)",
+          "country": "US",
+          "url": "https://audio.gtaradio.net/vcs/vcpr",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "65a07f28-2cf4-4e19-87ca-ad7620fb2a63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -223094,7 +223507,7 @@
             "3af89cec-fa7e-46e3-9699-99d889173a02"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -233121,7 +233534,7 @@
             "87beaa2f-6f2f-4536-9c21-c8f704b0b3f4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -234653,6 +235066,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T15:21:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_887e4b1625a752e65348",
+      "name": "WFTK Cincinnati 96.5 Rock",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.purerock96.com/",
+      "favicon": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3759/files/2024/12/wftk-fm.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T07:00:16Z",
+      "streams": [
+        {
+          "id": "aws_7f97b72f4a1baf4479c2",
+          "stationId": "awb_887e4b1625a752e65348",
+          "name": "WFTK Cincinnati 96.5 Rock",
+          "country": "US",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFTKFM_SC",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "483c2c17-8412-4fab-98d2-f73b4b7f5048"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -237258,7 +237706,7 @@
             "e0099161-ad6f-47df-a1d3-3e10ea4f4fa3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T00:21:03Z"
         }
       ]
     },
@@ -241706,9 +242154,9 @@
           "stationId": "awb_17a34029a590c4231c29",
           "name": "WJGW 107.5 \"The Village\" - Fort Pierce, Florida",
           "country": "US",
-          "url": "https://ice25.securenetsystems.net/WJGW.m3u",
-          "codec": null,
-          "bitrate": 0,
+          "url": "https://ice25.securenetsystems.net:80/WJGW",
+          "codec": "aac",
+          "bitrate": 32,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -241718,7 +242166,7 @@
             "1895cb6b-7017-49c3-b9cd-ecf2179aad63"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -242702,7 +243150,7 @@
             "2fd6d63d-346a-4f8e-b6db-9f0f469ee182"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -248571,7 +249019,7 @@
             "d7745446-4e0a-458b-8ded-fef6c5217bcf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -258257,7 +258705,7 @@
             "7c6a2260-28b2-4bd4-8ae4-4ac2d6921eb6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-13T22:04:58Z"
+          "lastCheckedAt": "2026-10-19T21:24:16Z"
         }
       ]
     },
@@ -263453,47 +263901,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T19:35:17Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_082745caa3984ed5b5c1",
-      "name": "WTBU Radio",
-      "country": "US",
-      "subdivision": "Massachusetts",
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "college"
-      ],
-      "tags": [
-        "college radio"
-      ],
-      "homepage": "https://sites.bu.edu/wtbu/",
-      "favicon": "https://sites.bu.edu/wtbu/wp-content/themes/responsive-framework/icons/apple-touch-icon-precomposed.png",
-      "type": "college",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-14T19:40:42Z",
-      "streams": [
-        {
-          "id": "aws_cfe226906e91fd9be01f",
-          "stationId": "awb_082745caa3984ed5b5c1",
-          "name": "WTBU Radio",
-          "country": "US",
-          "url": "https://headphones.bu.edu:8443/listen",
-          "codec": "mp3",
-          "bitrate": 192,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7c44d325-27cc-45dd-af1a-9885df5541bc"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
         }
       ]
     },
@@ -275742,6 +276149,44 @@
       ]
     },
     {
+      "id": "awb_d823f202a95bdb95ef32",
+      "name": "X Radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "international"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-14T22:54:04Z",
+      "streams": [
+        {
+          "id": "aws_61ab789de70e86d1d65f",
+          "stationId": "awb_d823f202a95bdb95ef32",
+          "name": "X Radio",
+          "country": "US",
+          "url": "http://live.xradiofm.gr:8010/913.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7aa1e5c6-5b8d-4a2a-ae33-60ba0b23e168",
+            "89110987-2c0b-4d66-a90d-6f647b8301d3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T06:34:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f54284bdb6d28d13ea35",
       "name": "X Treme Vibes Radio -- The rhythm of the People!",
       "country": "US",
@@ -275780,44 +276225,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T21:08:10Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_d823f202a95bdb95ef32",
-      "name": "X-Radio",
-      "country": "US",
-      "subdivision": null,
-      "languages": [],
-      "categories": [],
-      "tags": [
-        "international"
-      ],
-      "homepage": null,
-      "favicon": null,
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-01-14T22:54:04Z",
-      "streams": [
-        {
-          "id": "aws_61ab789de70e86d1d65f",
-          "stationId": "awb_d823f202a95bdb95ef32",
-          "name": "X Radio",
-          "country": "US",
-          "url": "http://live.xradiofm.gr:8010/913.mp3",
-          "codec": "mp3",
-          "bitrate": 192,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7aa1e5c6-5b8d-4a2a-ae33-60ba0b23e168",
-            "89110987-2c0b-4d66-a90d-6f647b8301d3"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:34:31Z"
         }
       ]
     },

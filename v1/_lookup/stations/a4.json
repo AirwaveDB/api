@@ -983,7 +983,7 @@
           "bd62f435-a868-43fc-8ff8-d699193d59d0"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T00:17:25Z"
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -3047,8 +3047,8 @@
     "homepage": "https://radio.xecod.com/listen/local-library",
     "favicon": null,
     "type": null,
-    "sourceCount": 13,
-    "updatedAt": "2026-10-19T06:01:49Z",
+    "sourceCount": 14,
+    "updatedAt": "2026-10-19T12:02:27Z",
     "streams": [
       {
         "id": "aws_17498d591625945bca3d",
@@ -3068,7 +3068,7 @@
           "17d8950c-5a05-4b78-9144-d923e9ee032d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-18T00:00:50Z"
+        "lastCheckedAt": "2026-10-20T00:21:03Z"
       }
     ]
   },
@@ -3250,6 +3250,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T21:05:26Z"
+      }
+    ]
+  },
+  "awb_a47eefae9dcf7d243c41": {
+    "id": "awb_a47eefae9dcf7d243c41",
+    "name": "AfriOnde Maghreb",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://afrionde.fr/",
+    "favicon": "https://afrionde.fr/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T02:18:29Z",
+    "streams": [
+      {
+        "id": "aws_d764779d0552cdf2f4f1",
+        "stationId": "awb_a47eefae9dcf7d243c41",
+        "name": "AfriOnde Maghreb",
+        "country": "FR",
+        "url": "https://live.afrionde.fr/afrionde9",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dbcb4d1a-2c49-4deb-a8c1-31e91ab902f0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },
