@@ -1,7 +1,7 @@
 {
   "code": "zho",
   "canonicalCode": "zh",
-  "stationCount": 2033,
+  "stationCount": 2035,
   "stations": [
     {
       "id": "awb_a2962db32ca5ed989369",
@@ -729,7 +729,7 @@
             "6cd64df1-25ac-4185-9635-072973d95e8b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T23:05:01Z"
+          "lastCheckedAt": "2026-10-21T00:26:37Z"
         }
       ]
     },
@@ -23762,6 +23762,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T20:29:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5f53e9f9fa71ab7c9174",
+      "name": "嘉善新闻综合广播",
+      "country": "CN",
+      "subdivision": "Zhejiang",
+      "languages": [
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "entertainment",
+        "full service",
+        "full severice"
+      ],
+      "homepage": "https://apps.apple.com/cn/app/in%E5%98%89%E5%96%84/id1598078513",
+      "favicon": "https://imagev2.xmcdn.com/storages/74ce-audiofreehighqps/1F/40/GKwRIDoJjQ-GAABv8QKhzeUq.jpg!strip=1&quality=7&magick=webp&op_type=5&upload_type=cover&name=web_large&device_type=ios",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T15:25:27Z",
+      "streams": [
+        {
+          "id": "aws_d9ca08b8c3844e5fe6f7",
+          "stationId": "awb_5f53e9f9fa71ab7c9174",
+          "name": "嘉善新闻综合广播",
+          "country": "CN",
+          "url": "https://p2hs.vzan.com/slowlive/389856315099073802/live.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ad07fec6-f4f1-4acb-b1ca-e05b0820e216"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -64555,7 +64596,7 @@
         "pop"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://m.mlzhongguo.com/uploads/image/05/15901171693455.jpg",
+      "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiF2.png@350w_1l",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T17:46:36Z",
@@ -77162,6 +77203,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T03:11:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1945e14dd61bad83cdd8",
+      "name": "BIGCOWFM大牛网络电台 | 马来西亚中文网络电台",
+      "country": "MY",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "ai music",
+        "entertainment",
+        "lifestyle",
+        "music",
+        "talk"
+      ],
+      "homepage": "http://live.bigcowfm.com/index.html",
+      "favicon": "http://live.bigcowfm.com/uploads/1/3/8/0/138088062/bigcowfm-2024logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T22:57:32Z",
+      "streams": [
+        {
+          "id": "aws_b06718c555e924ef139b",
+          "stationId": "awb_1945e14dd61bad83cdd8",
+          "name": "BIGCOWFM大牛网络电台 | 马来西亚中文网络电台",
+          "country": "MY",
+          "url": "https://a.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6de14705-f887-44b4-a858-3bfc26b2ffd1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T23:07:56Z"
         }
       ]
     },

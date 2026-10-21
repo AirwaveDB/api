@@ -1,7 +1,7 @@
 {
   "code": "IT",
-  "stationCount": 1561,
-  "streamCount": 1690,
+  "stationCount": 1563,
+  "streamCount": 1692,
   "stations": [
     {
       "id": "awb_0ed3d64a4b60b4c3873d",
@@ -5278,7 +5278,7 @@
             "d97d6e34-41ad-4e1a-905c-5ac7807a04a3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:12Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -6120,7 +6120,7 @@
             "256e5d2a-df2c-4482-a3a9-36cf32fd216d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T00:21:55Z"
+          "lastCheckedAt": "2026-10-21T08:09:24Z"
         }
       ]
     },
@@ -11700,7 +11700,7 @@
             "3187d85f-7291-488a-a9b7-4684c4c8efac"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -14267,7 +14267,7 @@
             "c033bf76-7845-4d3d-b48e-d6711514d8f3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T22:26:18Z"
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
         }
       ]
     },
@@ -25295,7 +25295,7 @@
             "5593a169-def2-40d9-94a3-06e3045936c1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
         }
       ]
     },
@@ -30681,6 +30681,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T14:11:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5495b2e8991ffd5f3a97",
+      "name": "Radio Forte Prenestino",
+      "country": "IT",
+      "subdivision": "Lazio",
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "community",
+        "talk"
+      ],
+      "tags": [
+        "community radio",
+        "culture",
+        "independent",
+        "political talk",
+        "radio comunitaria",
+        "talk"
+      ],
+      "homepage": "https://forteprenestino.net/radioforte",
+      "favicon": "https://forteprenestino.net/images/logo-RADIOFORTE.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T18:00:56Z",
+      "streams": [
+        {
+          "id": "aws_04339fb4e91b2e56d1e3",
+          "stationId": "awb_5495b2e8991ffd5f3a97",
+          "name": "Radio Forte Prenestino",
+          "country": "IT",
+          "url": "https://blimp.streampunk.cc/_stream/RadioForte.ogg",
+          "codec": "ogg",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "21d212ee-0b3e-4396-b793-3872e7749feb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -52583,6 +52630,47 @@
       ]
     },
     {
+      "id": "awb_641e17a34447e922e91a",
+      "name": "RADIO59MUSE",
+      "country": "IT",
+      "subdivision": "italia",
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop"
+      ],
+      "homepage": "https://www.radio59muse.it/",
+      "favicon": "https://wzftvswuehcouoyrqdca.supabase.co/storage/v1/object/sign/station-assets/d799c55a-113a-4a9b-93d9-757f8f6e41d1/logo-1790172140467.jpg?token=eyJraWQiOiIxYTE5ZGU3Zi01Y2I3LTRjNTgtOWFiOS0zNmNmODIwNTNkNWMiLCJhbGciOiJIUzUxMiJ9.eyJ1cmwiOiJzdGF0aW9uLWFzc2V0cy9kNzk5YzU1YS0xMTNhLTRhOWItOTNkOS03NTdmOGY2ZTQxZDEvbG9nby0xNzkwMTcyMTQwNDY3LmpwZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTI1MDY1NTIsImV4cCI6MTc5MjUwNzQ1Mn0.G_ldGgstHHhjd6mhkzqyhdqGjIZyf-7hiREnxvya1Npuo5LwOKn9bHWM0R9icV2fF-cwZ3bGhMeBwaUlGMc1bQ",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T14:32:18Z",
+      "streams": [
+        {
+          "id": "aws_f9d4a190f3d614d84549",
+          "stationId": "awb_641e17a34447e922e91a",
+          "name": "RADIO59MUSE",
+          "country": "IT",
+          "url": "https://onair7.xdevel.com/proxy/xautocloud_hgil_2336?mp=/;1/",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ed673c8b-283d-494a-b08b-ef73adcca201"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a9a2cdc8b8d053e60c0f",
       "name": "RADIOACI",
       "country": "IT",
@@ -55966,7 +56054,7 @@
     },
     {
       "id": "awb_11ab40cc55b8779b4047",
-      "name": "RCUNO",
+      "name": "rcuno",
       "country": "IT",
       "subdivision": null,
       "languages": [
@@ -55984,7 +56072,7 @@
         "rock"
       ],
       "homepage": "http://rcuno.altervista.org/",
-      "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/cropped-RCUNO1.jpg",
+      "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/RCUNO1.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-15T15:59:50Z",
@@ -56007,7 +56095,7 @@
             "aa16bef0-6a20-4a85-abd6-d14397aabfa4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
         }
       ]
     },
@@ -60797,7 +60885,7 @@
         "pop"
       ],
       "homepage": "https://www.saurosoftradio.it/",
-      "favicon": "http://www.saurosoftradio.it/wp-content/uploads/2025/03/LOGOSAUROSOFT-1.jpg",
+      "favicon": "https://www.saurosoftradio.it/wp-content/uploads/2022/03/dinotrasparente.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-14T08:04:59Z",

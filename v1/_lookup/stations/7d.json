@@ -2778,6 +2778,41 @@
       }
     ]
   },
+  "awb_7d841746483bc77e9ac2": {
+    "id": "awb_7d841746483bc77e9ac2",
+    "name": "Radio BOB! Iron Maden",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radioplayer.de/radio/radio-bob-iron-maiden.html",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T14:39:12Z",
+    "streams": [
+      {
+        "id": "aws_90f1d3045345f3ecc68c",
+        "stationId": "awb_7d841746483bc77e9ac2",
+        "name": "Radio BOB! Iron Maden",
+        "country": "DE",
+        "url": "https://streams.radiobob.de/bob-ironmaiden/mp3-192/",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "628a0810-0f3a-4b5d-8258-5cfb114f335a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
+      }
+    ]
+  },
   "awb_7d948467f82304d00b7a": {
     "id": "awb_7d948467f82304d00b7a",
     "name": "Radio Brocken - Kulthits",
@@ -8211,7 +8246,7 @@
         "name": "EVA Génesis 54",
         "country": "US",
         "url": "https://www.lsmradio.com/audio/mp3-files/Genesis_sp/Genesis_054.mp3",
-        "codec": null,
+        "codec": "mp3",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -8222,7 +8257,7 @@
           "4704710f-0764-47e9-819b-7f85518c334d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
       }
     ]
   },

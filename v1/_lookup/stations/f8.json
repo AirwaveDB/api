@@ -635,6 +635,57 @@
       }
     ]
   },
+  "awb_f84ed2a9ac3b49cd1246": {
+    "id": "awb_f84ed2a9ac3b49cd1246",
+    "name": "Happy Radio",
+    "country": "AU",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "talk"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "90s",
+      "love",
+      "pop",
+      "request",
+      "talk",
+      "variety"
+    ],
+    "homepage": "https://happyradio.live/",
+    "favicon": "https://hq3.yesstreaming.net/media/happyradio/station_11/logos/logo_1779921747353.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-20T20:31:01Z",
+    "streams": [
+      {
+        "id": "aws_80a8a83ed69633ed9242",
+        "stationId": "awb_f84ed2a9ac3b49cd1246",
+        "name": "Happy Radio",
+        "country": "AU",
+        "url": "https://hq3.yesstreaming.net/happyradio/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "998bdac9-324e-451c-a57d-2670cfe815ac",
+          "eee408cd-7d2d-45bd-a20c-3467c6c88202"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-21T00:26:37Z"
+      }
+    ]
+  },
   "awb_f815af8a359b263cd2af": {
     "id": "awb_f815af8a359b263cd2af",
     "name": "NimFM",
@@ -1792,6 +1843,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T09:03:44Z"
+      }
+    ]
+  },
+  "awb_f8a7e7fce488177f27d8": {
+    "id": "awb_f8a7e7fce488177f27d8",
+    "name": "CGTN Documentary TV audio 伴音",
+    "country": "CN",
+    "subdivision": "Beijing",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "culture",
+      "documentales",
+      "documentaries",
+      "documentary",
+      "documentation"
+    ],
+    "homepage": "https://www.cgtn.com/",
+    "favicon": "https://radio-res.cgtn.com/image/2201/1643162478720.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T13:08:59Z",
+    "streams": [
+      {
+        "id": "aws_fc1c01f47b4d3ac830c6",
+        "stationId": "awb_f8a7e7fce488177f27d8",
+        "name": "CGTN Documentary TV audio 伴音",
+        "country": "CN",
+        "url": "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY-mp4a_128000_eng=20000.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f050220b-ac6d-43a7-8a0e-06e76e0cc6c6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
       }
     ]
   },
@@ -9346,6 +9440,47 @@
       }
     ]
   },
+  "awb_f86730aedc9dc6db0fc8": {
+    "id": "awb_f86730aedc9dc6db0fc8",
+    "name": "KNUM 96.7 - Portland, Oregon",
+    "country": "US",
+    "subdivision": "Oregon",
+    "languages": [],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "african american",
+      "hip hop",
+      "urban contemporary"
+    ],
+    "homepage": "https://live365.com/station/96-7-ReMedia-Radio-a29831",
+    "favicon": "https://image.live365.com/download/2243b1fc-abf8-47bd-bf80-c113cf5da9d9.png/400/image.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T01:40:17Z",
+    "streams": [
+      {
+        "id": "aws_692ffe651579b28dd869",
+        "stationId": "awb_f86730aedc9dc6db0fc8",
+        "name": "KNUM 96.7 - Portland, Oregon",
+        "country": "US",
+        "url": "https://streaming.live365.com/a29831",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "78237974-fc26-4169-b4ec-2d5841895459"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-21T08:09:24Z"
+      }
+    ]
+  },
   "awb_f8a9c191baf6692df281": {
     "id": "awb_f8a9c191baf6692df281",
     "name": "KQED 128 AAC",
@@ -9876,6 +10011,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T17:27:24Z"
+      }
+    ]
+  },
+  "awb_f8a644016a03bddbfc4c": {
+    "id": "awb_f8a644016a03bddbfc4c",
+    "name": "WGAG 93.1 \"Little Buddy Radio\" - Princeton, West Virginia",
+    "country": "US",
+    "subdivision": "West Virginia",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980's",
+      "oldies"
+    ],
+    "homepage": "https://bobdenver.com/little-buddy-radio",
+    "favicon": "https://img1.wsimg.com/isteam/ip/46992852-852c-4ce2-97de-0ba2174d5ea0/Bob%20Denver.com%20Logo%20v1.png:/rs=w:101,h:101,cg:true,m/cr=w:101,h:101/qt=q:95",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T05:11:42Z",
+    "streams": [
+      {
+        "id": "aws_0eba5230cfac82c73170",
+        "stationId": "awb_f8a644016a03bddbfc4c",
+        "name": "WGAG 93.1 \"Little Buddy Radio\" - Princeton, West Virginia",
+        "country": "US",
+        "url": "https://streaming.live365.com/a11348",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "12269406-cac0-4da8-8d44-681402fda18c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

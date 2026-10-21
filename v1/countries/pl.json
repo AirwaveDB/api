@@ -1,7 +1,7 @@
 {
   "code": "PL",
-  "stationCount": 897,
-  "streamCount": 981,
+  "stationCount": 898,
+  "streamCount": 982,
   "stations": [
     {
       "id": "awb_03de24da3435e407fba6",
@@ -6386,7 +6386,7 @@
     },
     {
       "id": "awb_aabb100432959fd1d9f1",
-      "name": "Lem FM",
+      "name": "Lem.fm",
       "country": "PL",
       "subdivision": "Podkarpacie",
       "languages": [
@@ -30773,6 +30773,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T22:23:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a0006c815919c9d5d90a",
+      "name": "RMF Klasyka polskiego hip hopu",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.rmfon.pl/stacja/rmf-klasyka-polskiego-hip-hop",
+      "favicon": "https://static.rmf.pl/portal/stations/covers/rmf-klasyka-polskiego-hip-hop/20240625103507_rmf-klasyka-polskiego-hip-hop_600.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-15T16:00:11Z",
+      "streams": [
+        {
+          "id": "aws_e67894a0278289ebbec5",
+          "stationId": "awb_a0006c815919c9d5d90a",
+          "name": "RMF Klasyka polskiego hip hopu",
+          "country": "PL",
+          "url": "https://getradio.reconv.pl/rmfon?s=rmf-klasyka-polskiego-hip-hop",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4150fce5-cc6d-401c-8f42-c3a1716fc064"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },

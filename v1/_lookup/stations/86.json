@@ -3989,6 +3989,50 @@
       }
     ]
   },
+  "awb_86467b3d57102d77401b": {
+    "id": "awb_86467b3d57102d77401b",
+    "name": "Radio Elton John",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "elton john",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://rej.world/",
+    "favicon": "https://hq3.yesstreaming.net/media/scripteaseltd/station_5/logos/logo_1783642319725.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T16:59:34Z",
+    "streams": [
+      {
+        "id": "aws_9ac03006fa43ee38afc9",
+        "stationId": "awb_86467b3d57102d77401b",
+        "name": "Radio Elton John",
+        "country": "GB",
+        "url": "https://hq3.yesstreaming.net/5/stream",
+        "codec": "aac",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "84bf5715-b2a4-4da2-9f41-949a0cf57a63"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T18:48:01Z"
+      }
+    ]
+  },
   "awb_86a44d0a8ac3c4704244": {
     "id": "awb_86a44d0a8ac3c4704244",
     "name": "Station X - Northern Soul",
@@ -6624,6 +6668,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T17:49:00Z"
+      }
+    ]
+  },
+  "awb_86edf5ba675452d45e6f": {
+    "id": "awb_86edf5ba675452d45e6f",
+    "name": "Radio Decibel",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://decibel.nl/",
+    "favicon": "https://decibel.nl/images/decibel-mainchannel.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T15:34:05Z",
+    "streams": [
+      {
+        "id": "aws_9b2a6ffa90d231e1577e",
+        "stationId": "awb_86edf5ba675452d45e6f",
+        "name": "Radio Decibel",
+        "country": "NL",
+        "url": "https://28033.live.streamtheworld.com/RADIODECIBEL.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a8c6ab94-bfea-462d-91a5-a06bb4db6cfe"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T23:07:57Z"
       }
     ]
   },

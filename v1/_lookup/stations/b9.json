@@ -223,7 +223,7 @@
           "1d035380-686a-4418-8ec1-e62dcf41f9bc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T22:26:18Z"
+        "lastCheckedAt": "2026-10-20T22:36:25Z"
       }
     ]
   },
@@ -4500,8 +4500,8 @@
         "name": "Kumar Sanu Radio",
         "country": "IN",
         "url": "https://stream-164.zeno.fm/shxt7qxapy8uv",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -4511,7 +4511,7 @@
           "97f4ca7a-7571-4aeb-b325-d98166a76153"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-20T18:48:01Z"
       }
     ]
   },
@@ -8541,6 +8541,50 @@
       }
     ]
   },
+  "awb_b904dcc30f1535558165": {
+    "id": "awb_b904dcc30f1535558165",
+    "name": "NY Talk Radio",
+    "country": "US",
+    "subdivision": "New York",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "independent music",
+      "news",
+      "talk"
+    ],
+    "homepage": "https://nytalkradio.com/",
+    "favicon": "https://nytalkradio.com/static/station/img/favicon.e7e9b2aa7dcc.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T21:24:57Z",
+    "streams": [
+      {
+        "id": "aws_fda621b054a37e639f0c",
+        "stationId": "awb_b904dcc30f1535558165",
+        "name": "NY Talk Radio",
+        "country": "US",
+        "url": "https://nytalkradio.com:8443/;stream.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "67b9d15a-e8d2-47ff-964c-f7fdc05a1a83"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T22:36:25Z"
+      }
+    ]
+  },
   "awb_b94266ad0bfe554c0708": {
     "id": "awb_b94266ad0bfe554c0708",
     "name": "Peach 1019",
@@ -8723,7 +8767,7 @@
           "45fb26b3-b670-434d-bb8b-501105290dd2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T00:21:55Z"
+        "lastCheckedAt": "2026-10-21T00:26:37Z"
       }
     ]
   },

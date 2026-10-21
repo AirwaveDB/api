@@ -682,7 +682,7 @@
   },
   "awb_1b25463ba387190ec3ab": {
     "id": "awb_1b25463ba387190ec3ab",
-    "name": "rádio Digital fm",
+    "name": "Rádio Digital fm",
     "country": "BR",
     "subdivision": null,
     "languages": [],
@@ -864,6 +864,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T10:37:06Z"
+      }
+    ]
+  },
+  "awb_1b8fbd862b66322168b6": {
+    "id": "awb_1b8fbd862b66322168b6",
+    "name": "Alien Radio",
+    "country": "CA",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "electronic",
+      "hard dance",
+      "psytrance"
+    ],
+    "homepage": "https://radio.alienplugins.com/",
+    "favicon": "https://radio.alienplugins.com/static/station/img/icon.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T21:22:42Z",
+    "streams": [
+      {
+        "id": "aws_f70442be9d77f3867b42",
+        "stationId": "awb_1b8fbd862b66322168b6",
+        "name": "Alien Radio",
+        "country": "CA",
+        "url": "https://radio.alienplugins.com/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d77b2159-2c9d-42c1-93c8-ac28c0b70952"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-21T00:26:37Z"
       }
     ]
   },
@@ -2408,7 +2451,7 @@
         "country": "EE",
         "url": "https://sapircast.caster.fm:11309/OsZpV",
         "codec": "mp3",
-        "bitrate": 128,
+        "bitrate": 96,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -2418,7 +2461,7 @@
           "dccda812-d94d-4619-89d5-81ec9f5d75d0"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T23:05:01Z"
+        "lastCheckedAt": "2026-10-20T23:07:56Z"
       }
     ]
   },

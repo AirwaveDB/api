@@ -79,7 +79,7 @@
           "a2c21955-836f-4495-a4c5-8c3880f234ea"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T22:26:19Z"
+        "lastCheckedAt": "2026-10-20T22:36:25Z"
       }
     ]
   },
@@ -2512,7 +2512,7 @@
           "2c761131-18cf-48b2-bc2e-a06d45385612"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T18:20:13Z"
+        "lastCheckedAt": "2026-10-20T18:48:01Z"
       }
     ]
   },
@@ -2629,8 +2629,8 @@
         "name": "AfriOnde USA",
         "country": "FR",
         "url": "https://live.afrionde.fr/afrionde3",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 192,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -2640,7 +2640,7 @@
           "76a919d9-b73b-47a1-ad4f-6a819504ed6f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-20T18:48:01Z"
       }
     ]
   },
@@ -4028,6 +4028,48 @@
       }
     ]
   },
+  "awb_2b98acb6fcbb8d6d6f61": {
+    "id": "awb_2b98acb6fcbb8d6d6f61",
+    "name": "Frekvenci - Future",
+    "country": "HU",
+    "subdivision": "Budapest",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "creative commons",
+      "cyberpunk",
+      "electroclash",
+      "futurepop",
+      "sci-fi",
+      "synthwave"
+    ],
+    "homepage": "https://frekvenci.com/station.html?id=st-future",
+    "favicon": "https://frekvenci.com/icons/stations/future.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T14:51:23Z",
+    "streams": [
+      {
+        "id": "aws_74d452296f893ff8472e",
+        "stationId": "awb_2b98acb6fcbb8d6d6f61",
+        "name": "Frekvenci - Future",
+        "country": "HU",
+        "url": "https://stream.frekvenci.com/future",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0dc6bb7e-4746-4adc-a07d-f6316e416663"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
+      }
+    ]
+  },
   "awb_2bade2f97d87c4e945b8": {
     "id": "awb_2bade2f97d87c4e945b8",
     "name": "Friss FM 93.4",
@@ -5199,7 +5241,7 @@
   },
   "awb_2b36abaf9faccf961098": {
     "id": "awb_2b36abaf9faccf961098",
-    "name": "ALEGRÍA MEXICANA 90.1 (La Paz) - 90.1 FM - XHW-FM - Promomedios California - La Paz, Baja California",
+    "name": "ALEGRÍA MEXICANA 90.1 (La Paz) - 90.1 FM - XHW-FM - Promomedios California - La Paz, Baja CAlifornia",
     "country": "MX",
     "subdivision": "La Paz, Baja California Sur",
     "languages": [
@@ -5240,7 +5282,7 @@
       "traditional mexican music"
     ],
     "homepage": "https://www.alegriamexicana.com/",
-    "favicon": "https://thumbnail.anii.io/mx/radio-alegria-mexicana-90-1-fm-la-paz-mexico.webp",
+    "favicon": "https://i.postimg.cc/3rt6zTPw/alegriamexicana.webp",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-05-30T13:16:18Z",
@@ -8119,6 +8161,60 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T05:11:17Z"
+      }
+    ]
+  },
+  "awb_2b4cdda353a448728121": {
+    "id": "awb_2b4cdda353a448728121",
+    "name": "KCSN KSBR The SoCal Sound lege88.5 FM",
+    "country": "US",
+    "subdivision": "California",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "college",
+      "public"
+    ],
+    "tags": [
+      "adult album alternative",
+      "alternative",
+      "americana",
+      "legends",
+      "local",
+      "local radio",
+      "los angeles",
+      "non-commercial",
+      "public",
+      "public radio",
+      "public service",
+      "university",
+      "university radio"
+    ],
+    "homepage": "https://www.thesocalsound.org/",
+    "favicon": "https://www.thesocalsound.org/assets/framework/logo-click.png",
+    "type": "public",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T05:14:02Z",
+    "streams": [
+      {
+        "id": "aws_b7467a8228763afa33fe",
+        "stationId": "awb_2b4cdda353a448728121",
+        "name": "KCSN KSBR The SoCal Sound lege88.5 FM",
+        "country": "US",
+        "url": "https://www.streamvortex.com:8444/s/12200",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5aadba4f-1ce6-4fc6-b035-f35ae35c90cd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

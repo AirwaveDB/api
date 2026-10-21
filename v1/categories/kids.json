@@ -1,6 +1,6 @@
 {
   "id": "kids",
-  "stationCount": 155,
+  "stationCount": 156,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -177,7 +177,7 @@
             "d38179cd-f111-46b2-8c95-54201ef94ce7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T22:26:19Z"
+          "lastCheckedAt": "2026-10-20T23:07:57Z"
         }
       ]
     },
@@ -3351,7 +3351,7 @@
           "country": "DZ",
           "url": "https://azuracast.dataplayapps.com/listen/jow_kids/radio.mp3",
           "codec": "mp3",
-          "bitrate": 0,
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -3361,7 +3361,7 @@
             "5ed40724-d70f-43a4-a491-15107d8bd0b3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T22:26:19Z"
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
         }
       ]
     },
@@ -4923,7 +4923,7 @@
             "20df90df-af39-4e66-9c32-72fe9df06249"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T23:05:01Z"
+          "lastCheckedAt": "2026-10-21T08:09:24Z"
         }
       ]
     },
@@ -6843,6 +6843,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T12:08:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_487bd6ea3977c82a598e",
+      "name": "Lighthouse Christian Radio - SonLight Kids' Radio",
+      "country": "US",
+      "subdivision": "Wisconsin",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "kids",
+        "religious"
+      ],
+      "tags": [
+        "children's music",
+        "gospel music"
+      ],
+      "homepage": "https://www.lighthouse.radio/",
+      "favicon": "https://www.lighthouse.radio/wp-content/themes/lighthouse-christian-radio/assets/images/lighthouse-logo-20261006.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-21T04:36:04Z",
+      "streams": [
+        {
+          "id": "aws_6a4b26e965450834cc41",
+          "stationId": "awb_487bd6ea3977c82a598e",
+          "name": "Lighthouse Christian Radio - SonLight Kids' Radio",
+          "country": "US",
+          "url": "https://lighthouseradio.network/proxy/kids/stream",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "98c8bfd1-88ee-4327-beb7-ad300449ad2d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T08:09:24Z"
         }
       ]
     },

@@ -4346,6 +4346,48 @@
       }
     ]
   },
+  "awb_2c1dcb297660b4fed22b": {
+    "id": "awb_2c1dcb297660b4fed22b",
+    "name": "Frekvenci - Romance",
+    "country": "HU",
+    "subdivision": "Budapest",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "creative commons",
+      "love songs",
+      "retrowave",
+      "romantic",
+      "synthpop",
+      "synthwave"
+    ],
+    "homepage": "https://frekvenci.com/station.html?id=st-romance",
+    "favicon": "https://frekvenci.com/icons/stations/romance.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T14:52:09Z",
+    "streams": [
+      {
+        "id": "aws_355882846650657f4989",
+        "stationId": "awb_2c1dcb297660b4fed22b",
+        "name": "Frekvenci - Romance",
+        "country": "HU",
+        "url": "https://stream.frekvenci.com/romance",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6791ee7e-0156-4b04-8c1f-695092ccf7a0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
+      }
+    ]
+  },
   "awb_2c7a84fcb27920aa5b39": {
     "id": "awb_2c7a84fcb27920aa5b39",
     "name": "96,3 Medan FM",
@@ -5072,7 +5114,7 @@
           "532352d4-2110-4298-822a-236955c98024"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T00:21:55Z"
+        "lastCheckedAt": "2026-10-21T00:26:37Z"
       }
     ]
   },
@@ -8340,6 +8382,46 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-16T23:15:50Z"
+      }
+    ]
+  },
+  "awb_2c57728ab75b376ef497": {
+    "id": "awb_2c57728ab75b376ef497",
+    "name": "Lighthouse Christian Radio - Dramatized Bible",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "audio bible",
+      "bible reading"
+    ],
+    "homepage": "https://www.lighthouse.radio/",
+    "favicon": "https://www.lighthouse.radio/wp-content/themes/lighthouse-christian-radio/assets/images/lighthouse-logo-20261006.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T04:43:48Z",
+    "streams": [
+      {
+        "id": "aws_c2fb1c911b4646d73723",
+        "stationId": "awb_2c57728ab75b376ef497",
+        "name": "Lighthouse Christian Radio - Dramatized Bible",
+        "country": "US",
+        "url": "https://lighthouseradio.network/proxy/bible/stream",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "59858532-30ca-4375-b899-507cba2f40a7"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "code": "CZ",
-  "stationCount": 273,
-  "streamCount": 291,
+  "stationCount": 274,
+  "streamCount": 292,
   "stations": [
     {
       "id": "awb_bb55f1b0a17218daf0fa",
@@ -9022,6 +9022,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T09:51:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ca24b5830872dd0ab374",
+      "name": "Rádio Praha",
+      "country": "CZ",
+      "subdivision": null,
+      "languages": [
+        "cs"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://praha.rozhlas.cz/",
+      "favicon": "https://praha.rozhlas.cz/sites/default/files/favicon_regina.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T09:37:01Z",
+      "streams": [
+        {
+          "id": "aws_342d6fc4a6199a09aa88",
+          "stationId": "awb_ca24b5830872dd0ab374",
+          "name": "Rádio Praha",
+          "country": "CZ",
+          "url": "https://rozhlas.stream/radio_dab_praha_high.aac",
+          "codec": "aac",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f3456c06-efcd-4acd-90eb-c99cd5563455"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },

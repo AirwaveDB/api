@@ -1,7 +1,7 @@
 {
   "code": "SI",
-  "stationCount": 124,
-  "streamCount": 136,
+  "stationCount": 125,
+  "streamCount": 137,
   "stations": [
     {
       "id": "awb_32ae1b9cc0e9517115e6",
@@ -1495,6 +1495,51 @@
       ]
     },
     {
+      "id": "awb_8558999368f837ccb664",
+      "name": "Radio Aktual",
+      "country": "SI",
+      "subdivision": "Osrednjeslovenska",
+      "languages": [
+        "hr",
+        "sl"
+      ],
+      "categories": [],
+      "tags": [
+        "balkan",
+        "bosnian",
+        "croatian",
+        "dalmatian",
+        "polka",
+        "slovenian"
+      ],
+      "homepage": "https://radioaktual.svet24.si/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQ6sFF_54LVAt8e_-NZu6ZcsM8y-sOCXL2Uc0STsha-wi4CpRCplw_7k&s=10",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-21T07:07:26Z",
+      "streams": [
+        {
+          "id": "aws_47441372150f082da869",
+          "stationId": "awb_8558999368f837ccb664",
+          "name": "Radio Aktual",
+          "country": "SI",
+          "url": "https://live.radio.si/Aktual",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "98891987-b5cd-4436-8711-772e12f0db28"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T08:09:24Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3ebe378ba9e5e511e7cb",
       "name": "Radio Antena",
       "country": "SI",
@@ -1808,7 +1853,7 @@
             "a3fa4b2d-e009-41cb-a40f-35a1cfc1bee3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },

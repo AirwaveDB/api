@@ -314,6 +314,41 @@
       }
     ]
   },
+  "awb_8800f2f15cc9f0fb7444": {
+    "id": "awb_8800f2f15cc9f0fb7444",
+    "name": "Radio República AM 770",
+    "country": "AR",
+    "subdivision": "Ciudad Autonoma de Buenos Aires",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://am770.com.ar/",
+    "favicon": "https://am770.com.ar/logo-blanco.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T01:53:28Z",
+    "streams": [
+      {
+        "id": "aws_70fbd80d1ea1b7d28579",
+        "stationId": "awb_8800f2f15cc9f0fb7444",
+        "name": "Radio República AM 770",
+        "country": "AR",
+        "url": "https://server.radiostreaming.com.ar:8200/stream",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "87811b02-851a-4470-9e0c-dce582648bc3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_882e9ebb014a7cbc0478": {
     "id": "awb_882e9ebb014a7cbc0478",
     "name": "X1 Radio Cachengue",
@@ -6743,8 +6778,8 @@
         "name": "Радио Гармония",
         "country": "RU",
         "url": "https://online.garmoniyafm.com/listen/garm/256",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 256,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -6754,7 +6789,7 @@
           "30e6aa70-cf8c-44b2-9492-7605a57c2dae"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
       }
     ]
   },
@@ -7858,41 +7893,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T03:37:09Z"
-      }
-    ]
-  },
-  "awb_887e4b1625a752e65348": {
-    "id": "awb_887e4b1625a752e65348",
-    "name": "WFTK Cincinnati 96.5 Rock",
-    "country": "US",
-    "subdivision": "Ohio",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.purerock96.com/",
-    "favicon": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3759/files/2024/12/wftk-fm.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-20T07:00:16Z",
-    "streams": [
-      {
-        "id": "aws_7f97b72f4a1baf4479c2",
-        "stationId": "awb_887e4b1625a752e65348",
-        "name": "WFTK Cincinnati 96.5 Rock",
-        "country": "US",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFTKFM_SC",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "483c2c17-8412-4fab-98d2-f73b4b7f5048"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
       }
     ]
   },

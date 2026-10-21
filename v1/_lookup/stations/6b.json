@@ -962,6 +962,45 @@
       }
     ]
   },
+  "awb_6b295fc0064011520d03": {
+    "id": "awb_6b295fc0064011520d03",
+    "name": "Rádio Cultura FM 103,3",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://cultura.uol.com.br/radio/",
+    "favicon": "https://cultura.uol.com.br/_img/tvcultura/header/logotipo-tvcultura-desktop-orange.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T11:38:21Z",
+    "streams": [
+      {
+        "id": "aws_c8549d5cfe1bd770206e",
+        "stationId": "awb_6b295fc0064011520d03",
+        "name": "Rádio Cultura FM 103,3",
+        "country": "BR",
+        "url": "https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8",
+        "codec": "unknown",
+        "bitrate": 716,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4cebc367-016c-44d3-a60b-0916ea8562fe"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
+      }
+    ]
+  },
   "awb_6b2fa2390c94fdf0ae8c": {
     "id": "awb_6b2fa2390c94fdf0ae8c",
     "name": "Rádio gospel louvores MG",
@@ -2611,7 +2650,7 @@
           "4e89f511-99fa-4013-9639-8e44535b6563"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T22:26:18Z"
+        "lastCheckedAt": "2026-10-21T08:09:24Z"
       }
     ]
   },

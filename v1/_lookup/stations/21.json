@@ -4787,7 +4787,7 @@
           "23daff5d-35e0-45ca-bcb1-a65cdf3d10eb"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T18:20:12Z"
+        "lastCheckedAt": "2026-10-20T18:48:01Z"
       }
     ]
   },
@@ -5618,7 +5618,7 @@
           "0e5f49ea-6b96-43d0-b70f-ad17879348ca"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T23:05:01Z"
+        "lastCheckedAt": "2026-10-21T00:26:37Z"
       }
     ]
   },
@@ -5661,7 +5661,7 @@
           "24296c8e-4568-41a8-9c24-39b056fd6010"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T00:21:55Z"
+        "lastCheckedAt": "2026-10-21T00:26:37Z"
       }
     ]
   },
@@ -8921,6 +8921,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T03:13:50Z"
+      }
+    ]
+  },
+  "awb_2124e34ea71d0ab016aa": {
+    "id": "awb_2124e34ea71d0ab016aa",
+    "name": "WATN|AM1240",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "news",
+      "talk"
+    ],
+    "homepage": "https://cbwatertown.com/watn/",
+    "favicon": "https://cbwatertown.com/wp-content/uploads/2025/03/watn-logo.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T14:29:50Z",
+    "streams": [
+      {
+        "id": "aws_fa3947325c307d9847a4",
+        "stationId": "awb_2124e34ea71d0ab016aa",
+        "name": "WATN|AM1240",
+        "country": "US",
+        "url": "https://ice64.securenetsystems.net/WATN",
+        "codec": "aac",
+        "bitrate": 32,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fb88f783-b4ac-4f85-b9e3-c7f604d95999"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
       }
     ]
   },

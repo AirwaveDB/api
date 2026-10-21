@@ -1,7 +1,7 @@
 {
   "code": "HR",
   "stationCount": 247,
-  "streamCount": 278,
+  "streamCount": 279,
   "stations": [
     {
       "id": "awb_e1f969de76f0ac3d3100",
@@ -8962,12 +8962,14 @@
         "hr"
       ],
       "categories": [],
-      "tags": [],
+      "tags": [
+        "various"
+      ],
       "homepage": "https://www.radio-zlatar.hr/",
       "favicon": "https://www.radio-zlatar.hr/novosti_slike/kzz.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T23:25:56Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-20T18:33:29Z",
       "streams": [
         {
           "id": "aws_651b658497c32ec2f0d7",
@@ -8987,6 +8989,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T10:02:53Z"
+        },
+        {
+          "id": "aws_7df424e8cb91d6b8502e",
+          "stationId": "awb_b5da12642f4e9bed14fb",
+          "name": "Radio Zlatar",
+          "country": "HR",
+          "url": "https://audio.alter-media.hr:7025/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "27d7de3f-d9bf-40a6-a189-1b185057ffc9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
         }
       ]
     },

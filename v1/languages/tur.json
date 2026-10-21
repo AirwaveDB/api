@@ -546,6 +546,67 @@
       ]
     },
     {
+      "id": "awb_b67be8570bedd90876d2",
+      "name": "Metropol FM (Berlin)",
+      "country": "DE",
+      "subdivision": "Berlin",
+      "languages": [
+        "tr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "turkish music"
+      ],
+      "homepage": "https://www.metropolfm.de/",
+      "favicon": "https://www.metropolfm.de/assets/favicons/favicon-96x96.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-02-28T21:29:45Z",
+      "streams": [
+        {
+          "id": "aws_b723812a24dcabc52f51",
+          "stationId": "awb_b67be8570bedd90876d2",
+          "name": "Metropol FM (Berlin)",
+          "country": "DE",
+          "url": "https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112?sABC=69n35qp0%230%23759014699s404754o2p8p1q4q62r578p%23enqvbfcurer&aw_0_1st.playerid=radiosphere&amsparams=playerid:radiosphere;skey:1772314048",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0ba20e40-d89f-49df-8dba-47a00254d435"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T06:34:31Z"
+        },
+        {
+          "id": "aws_13dae2a887b0e90d4d9a",
+          "stationId": "awb_b67be8570bedd90876d2",
+          "name": "Metropol FM Berlin",
+          "country": "DE",
+          "url": "https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2c813b57-9965-490f-afe2-c8d9bdc01b11"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T11:59:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_cd861037cb29ddeabd43",
       "name": "Metropol FM (Bremen)",
       "country": "DE",
@@ -616,67 +677,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T23:22:27Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_b67be8570bedd90876d2",
-      "name": "Metropol FM Berlin",
-      "country": "DE",
-      "subdivision": "Berlin",
-      "languages": [
-        "tr"
-      ],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "pop",
-        "turkish music"
-      ],
-      "homepage": "https://www.metropolfm.de/",
-      "favicon": "https://www.metropolfm.de/assets/favicons/favicon-96x96.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-02-28T21:29:45Z",
-      "streams": [
-        {
-          "id": "aws_b723812a24dcabc52f51",
-          "stationId": "awb_b67be8570bedd90876d2",
-          "name": "Metropol FM (Berlin)",
-          "country": "DE",
-          "url": "https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112?sABC=69n35qp0%230%23759014699s404754o2p8p1q4q62r578p%23enqvbfcurer&aw_0_1st.playerid=radiosphere&amsparams=playerid:radiosphere;skey:1772314048",
-          "codec": "mp3",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0ba20e40-d89f-49df-8dba-47a00254d435"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:34:31Z"
-        },
-        {
-          "id": "aws_13dae2a887b0e90d4d9a",
-          "stationId": "awb_b67be8570bedd90876d2",
-          "name": "Metropol FM Berlin",
-          "country": "DE",
-          "url": "https://metropolfm.streamabc.net/77_8dsw7gc1qgz6_lc0t-mp3-256-6796112",
-          "codec": "mp3",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "2c813b57-9965-490f-afe2-c8d9bdc01b11"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T11:59:25Z"
         }
       ]
     },

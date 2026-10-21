@@ -1,7 +1,7 @@
 {
   "code": "BR",
-  "stationCount": 1443,
-  "streamCount": 1484,
+  "stationCount": 1445,
+  "streamCount": 1486,
   "stations": [
     {
       "id": "awb_bf769f289865e0b6efda",
@@ -8404,7 +8404,7 @@
             "e59ce01b-eed8-42f2-aed8-dc2ec13e75a6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -10567,20 +10567,26 @@
         "pt"
       ],
       "categories": [
+        "ambient",
         "hip-hop"
       ],
       "tags": [
         "brazilian music",
+        "chill",
+        "discord",
+        "gaming",
         "hiphop",
         "indie",
         "mpb",
-        "podcast"
+        "podcast",
+        "study",
+        "work"
       ],
       "homepage": "https://referencias.xyz/radio/",
-      "favicon": null,
+      "favicon": "https://referencias.xyz/assets/img/radio-touch.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-02T17:55:59Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-21T05:32:11Z",
       "streams": [
         {
           "id": "aws_9638f348c0230861803a",
@@ -10596,10 +10602,11 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "20753d5e-a032-466e-8ea6-c02dc83e4491",
             "57d45096-6610-40ba-84c5-16929cf139c5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T16:24:35Z"
+          "lastCheckedAt": "2026-10-21T08:09:24Z"
         }
       ]
     },
@@ -11784,7 +11791,7 @@
             "3854668a-34d3-4ef2-b23b-49a456a417a3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -14979,6 +14986,47 @@
       ]
     },
     {
+      "id": "awb_43b79e9ed22885683a12",
+      "name": "Kiss FM 92.5",
+      "country": "BR",
+      "subdivision": "São Paulo",
+      "languages": [],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "alternative rock",
+        "classic rock",
+        "rock"
+      ],
+      "homepage": "https://kissfm.com.br/",
+      "favicon": "https://kissfm.com.br/wp-content/uploads/2024/05/KISSFMSP.svg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T15:58:15Z",
+      "streams": [
+        {
+          "id": "aws_79a731c4a98ff6629602",
+          "stationId": "awb_43b79e9ed22885683a12",
+          "name": "Kiss FM 92.5",
+          "country": "BR",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFM_ADP.aac",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2442fea9-64ca-4a6d-a942-8abfd7cb42f5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_24aa1ffd403434ab8bec",
       "name": "Kiss FM São Paulo",
       "country": "BR",
@@ -17713,7 +17761,7 @@
       "id": "awb_ae4fefbf450bfef15049",
       "name": "Metal Zone Radio",
       "country": "BR",
-      "subdivision": "Sao Paulo (Brazil)",
+      "subdivision": "São Paulo",
       "languages": [],
       "categories": [
         "metal"
@@ -17730,7 +17778,7 @@
         "symphonic metal",
         "trash metal"
       ],
-      "homepage": "https://metalzone.radio.br/",
+      "homepage": "http://www.metalzone.radio.br/",
       "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
       "type": null,
       "sourceCount": 2,
@@ -29641,7 +29689,7 @@
         "soul hiphop rnb"
       ],
       "homepage": "https://radiocharme.com/",
-      "favicon": "https://i.imgur.com/cGgYqri.jpeg",
+      "favicon": "https://app.box.com/s/lup4s98pb04e1nbx7l6uaimd67nmqihq",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-07-09T07:35:35Z",
@@ -30621,7 +30669,7 @@
             "c7d885bb-025e-49b2-b20a-63d6f37e445e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -31233,7 +31281,7 @@
             "8018f626-3ee6-4b32-ac51-4951153feb90"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -31717,6 +31765,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T00:38:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6b295fc0064011520d03",
+      "name": "Rádio Cultura FM 103,3",
+      "country": "BR",
+      "subdivision": "São Paulo",
+      "languages": [],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://cultura.uol.com.br/radio/",
+      "favicon": "https://cultura.uol.com.br/_img/tvcultura/header/logotipo-tvcultura-desktop-orange.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T11:38:21Z",
+      "streams": [
+        {
+          "id": "aws_c8549d5cfe1bd770206e",
+          "stationId": "awb_6b295fc0064011520d03",
+          "name": "Rádio Cultura FM 103,3",
+          "country": "BR",
+          "url": "https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8",
+          "codec": "unknown",
+          "bitrate": 716,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4cebc367-016c-44d3-a60b-0916ea8562fe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -32318,7 +32405,7 @@
     },
     {
       "id": "awb_1b25463ba387190ec3ab",
-      "name": "rádio Digital fm",
+      "name": "Rádio Digital fm",
       "country": "BR",
       "subdivision": null,
       "languages": [],
@@ -33991,7 +34078,7 @@
             "9f52a54e-9796-42b1-b4a5-79b389677bae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
         }
       ]
     },
@@ -34705,7 +34792,7 @@
             "0ca4d1f7-c92c-4537-a7db-b3b578d18bec"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },

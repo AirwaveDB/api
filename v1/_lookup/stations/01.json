@@ -1970,6 +1970,47 @@
       }
     ]
   },
+  "awb_01437c237496b9bf86d2": {
+    "id": "awb_01437c237496b9bf86d2",
+    "name": "CGTN TV audio 伴音",
+    "country": "CN",
+    "subdivision": "Beijing",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.cgtn.com/",
+    "favicon": "https://radio-res.cgtn.com/image/2210/1665880846449.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T13:07:07Z",
+    "streams": [
+      {
+        "id": "aws_76b1ec2810363bb2ea8d",
+        "stationId": "awb_01437c237496b9bf86d2",
+        "name": "CGTN TV audio 伴音",
+        "country": "CN",
+        "url": "https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH-mp4a_128000_eng=20000.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9242b993-efbb-497b-8a82-66d3cda3827c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T18:48:01Z"
+      }
+    ]
+  },
   "awb_01d46b4be3141114bd30": {
     "id": "awb_01d46b4be3141114bd30",
     "name": "FM101仙居融媒体广播",
@@ -3625,7 +3666,7 @@
           "2bc6b472-2dac-47d9-8c77-5bd8ed18af74"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T22:26:18Z"
+        "lastCheckedAt": "2026-10-20T22:36:25Z"
       }
     ]
   },

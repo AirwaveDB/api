@@ -1,6 +1,6 @@
 {
   "id": "community",
-  "stationCount": 938,
+  "stationCount": 943,
   "stations": [
     {
       "id": "awb_264633f48847fb757bbd",
@@ -5851,7 +5851,7 @@
             "3de0ed72-b752-41df-99f9-26c5d95befe1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-21T00:26:37Z"
         }
       ]
     },
@@ -7794,7 +7794,7 @@
             "7dd79327-d4fb-4f34-a914-1a8688345306"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -19733,7 +19733,7 @@
             "feb24e11-3602-4102-8563-f3cbc2ca7111"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -20390,7 +20390,7 @@
             "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -20446,7 +20446,7 @@
             "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-21T00:26:37Z"
         }
       ]
     },
@@ -28649,6 +28649,53 @@
       ]
     },
     {
+      "id": "awb_5495b2e8991ffd5f3a97",
+      "name": "Radio Forte Prenestino",
+      "country": "IT",
+      "subdivision": "Lazio",
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "community",
+        "talk"
+      ],
+      "tags": [
+        "community radio",
+        "culture",
+        "independent",
+        "political talk",
+        "radio comunitaria",
+        "talk"
+      ],
+      "homepage": "https://forteprenestino.net/radioforte",
+      "favicon": "https://forteprenestino.net/images/logo-RADIOFORTE.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T18:00:56Z",
+      "streams": [
+        {
+          "id": "aws_04339fb4e91b2e56d1e3",
+          "stationId": "awb_5495b2e8991ffd5f3a97",
+          "name": "Radio Forte Prenestino",
+          "country": "IT",
+          "url": "https://blimp.streampunk.cc/_stream/RadioForte.ogg",
+          "codec": "ogg",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "21d212ee-0b3e-4396-b793-3872e7749feb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
+        }
+      ]
+    },
+    {
       "id": "awb_59c3d32c5744859f46ab",
       "name": "Radio Kolbe Melfi",
       "country": "IT",
@@ -33190,7 +33237,7 @@
             "dd90d5dd-2ab8-461f-a03d-fac11006bd3c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -33753,7 +33800,7 @@
             "85ff4b3c-8688-4625-a138-8e5fb937ebaa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -34522,7 +34569,53 @@
             "773e3997-d6f1-4263-bdd9-18dd5c72b7ae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c5caad5aeb18523c8aac",
+      "name": "HFMG Radio (H Factor Music Group)",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "hip-hop",
+        "talk"
+      ],
+      "tags": [
+        "community",
+        "hip hop",
+        "music",
+        "talk"
+      ],
+      "homepage": "https://hfactortv.com/radio",
+      "favicon": null,
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T16:21:24Z",
+      "streams": [
+        {
+          "id": "aws_175640027e9b016f35b9",
+          "stationId": "awb_c5caad5aeb18523c8aac",
+          "name": "HFMG Radio (H Factor Music Group)",
+          "country": "US",
+          "url": "http://5.78.208.135:8000/hfmg.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "31765b90-f73b-4ba5-a52b-6d53fdbd255f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -34614,7 +34707,7 @@
             "e3a95283-ada8-4ff0-8107-5c39eb5bfc00"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:12Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -34746,6 +34839,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T15:03:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_46e7d113a6a2b10a8efe",
+      "name": "KAYN 92.9 \"Bay City Arts Center\" - Bay City, Oregon",
+      "country": "US",
+      "subdivision": "Oregon",
+      "languages": [],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "https://www.baycityartscenter.com/radio",
+      "favicon": "https://cdn.prod.website-files.com/6a0cb27242a21420ba1d0958/6a8dcc232fcc14890eec477c_KAYN-Border-Black-RGB.svg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-21T01:26:49Z",
+      "streams": [
+        {
+          "id": "aws_fcbefbdcbb476a32b8c2",
+          "stationId": "awb_46e7d113a6a2b10a8efe",
+          "name": "KAYN 92.9 \"Bay City Arts Center\" - Bay City, Oregon",
+          "country": "US",
+          "url": "https://streaming.live365.com/a46230",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ca559ada-802e-40fc-90b1-9c4491a0e618"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -36335,7 +36468,7 @@
             "cd94a25d-c605-4430-b443-4874c69bf102"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T00:21:55Z"
+          "lastCheckedAt": "2026-10-21T00:26:37Z"
         }
       ]
     },
@@ -37361,6 +37494,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T18:40:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5279ed20b8cbb95d639d",
+      "name": "KSHD 94.3 \"K-Shady\"",
+      "country": "US",
+      "subdivision": "Oregon",
+      "languages": [],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "https://shadycove.org/kshd-94-3/",
+      "favicon": "https://shadycove.org/wp-content/uploads/2019/03/download-1.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-21T01:31:21Z",
+      "streams": [
+        {
+          "id": "aws_4a4832e030025fbb6f38",
+          "stationId": "awb_5279ed20b8cbb95d639d",
+          "name": "KSHD 94.3 \"K-Shady\"",
+          "country": "US",
+          "url": "https://www.streamcontrol.net:8444/s/10050",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ca82f63d-ba8f-4cd1-bd73-46097a0cc7b3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T08:09:24Z"
         }
       ]
     },
@@ -38609,7 +38782,7 @@
             "5ac5c721-9486-4e1e-a22d-ee1be55d8b16"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -39268,7 +39441,7 @@
             "156839f6-9ac0-431d-bc8d-87d3b9d03d76"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T22:26:18Z"
+          "lastCheckedAt": "2026-10-20T23:07:56Z"
         }
       ]
     },
@@ -39856,6 +40029,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T17:22:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_239d75ebab59ab631c17",
+      "name": "WEJP 107.1 Wheeling, West Virginia",
+      "country": "US",
+      "subdivision": "West Virginia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "https://www.facebook.com/people/WEJP-lp-FM-community-radio-for-Wheeling/100066727673611/#",
+      "favicon": "http://ohiovalleypeace.org/wp-content/themes/ovp/images/header-bg2.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-21T03:29:55Z",
+      "streams": [
+        {
+          "id": "aws_a68f31dd75d8580785d2",
+          "stationId": "awb_239d75ebab59ab631c17",
+          "name": "WEJP 107.1 Wheeling, West Virginia",
+          "country": "US",
+          "url": "http://50.110.67.250:8000/",
+          "codec": "mp3",
+          "bitrate": 80,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e5ee1f64-e31d-461c-9b19-8bfde3e23668"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T08:09:24Z"
         }
       ]
     },
@@ -41811,7 +42026,7 @@
             "369ffd1f-b8fa-437a-91d2-9f7adf9adf51"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:12Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -42244,7 +42459,7 @@
             "a443abe8-d9be-46fd-aa92-7fd448ffddbe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T00:21:55Z"
+          "lastCheckedAt": "2026-10-21T00:26:37Z"
         }
       ]
     },
@@ -43073,7 +43288,7 @@
             "9a1a816a-45ba-4621-bd4f-5603f387b389"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },

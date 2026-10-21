@@ -1,7 +1,7 @@
 {
   "code": "IE",
-  "stationCount": 189,
-  "streamCount": 215,
+  "stationCount": 192,
+  "streamCount": 218,
   "stations": [
     {
       "id": "awb_48a57bf00803875b8c35",
@@ -358,8 +358,8 @@
           "name": "Ambient Lounge on MixLive.net",
           "country": "IE",
           "url": "https://free.rcast.net/200707",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -369,7 +369,7 @@
             "316ce48f-fc79-43cd-b669-73a6bd460c23"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -610,7 +610,7 @@
     },
     {
       "id": "awb_ef17dfb7a806c053be76",
-      "name": "Bob FM",
+      "name": "Bob fm",
       "country": "IE",
       "subdivision": null,
       "languages": [
@@ -621,7 +621,7 @@
         "whatever"
       ],
       "homepage": "https://www.eastcoast.fm/player/bobfm/",
-      "favicon": "https://www.eastcoast.fm/player/bobfm/",
+      "favicon": "https://www.bobfm.ie/",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-06-22T23:37:53Z",
@@ -836,6 +836,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T15:52:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9e21c5a042b262b92d7c",
+      "name": "Chillout Essentials on MixLive.net",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chillout music",
+        "laid-back tunes"
+      ],
+      "homepage": "https://www.mixlive.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T18:01:51Z",
+      "streams": [
+        {
+          "id": "aws_06f16cda800ec8cc7d12",
+          "stationId": "awb_9e21c5a042b262b92d7c",
+          "name": "Chillout Essentials on MixLive.net",
+          "country": "IE",
+          "url": "https://free.rcast.net/200704",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "97c7ac4e-ef97-4423-9c0e-1dc7e2443108"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -3924,8 +3966,8 @@
           "name": "Minimal & Deep-tech on MixLive.net",
           "country": "IE",
           "url": "https://free.rcast.net/200710",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -3935,7 +3977,7 @@
             "5f374674-a09e-44f4-9700-a2647915bfc8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -4597,6 +4639,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T09:06:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5d59816b1ee1eba882fa",
+      "name": "Northern Sound",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "local radio",
+        "varied"
+      ],
+      "homepage": "https://www.northernsound.ie/",
+      "favicon": "https://assets.radioplayer.org/372/37235/600/600/la1azzs4.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T21:14:48Z",
+      "streams": [
+        {
+          "id": "aws_aeaa43802de86449daa5",
+          "stationId": "awb_5d59816b1ee1eba882fa",
+          "name": "Northern Sound",
+          "country": "IE",
+          "url": "http://19983.live.streamtheworld.com/NORTHERN_SOUND_SC",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f7bfc24e-d5b4-43f8-b9fd-cb501910d5c8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T23:07:57Z"
         }
       ]
     },
@@ -5722,6 +5804,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T08:41:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3f8dd01f4788b497256b",
+      "name": "Radio Kerry",
+      "country": "IE",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "local radio"
+      ],
+      "homepage": "https://www.radiokerry.ie/",
+      "favicon": "https://i.resized.co/radiokerry-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1nLnJhZGlva2VycnkuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcL3JhZGlvLWtlcnJ5LWxvZ28uanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo5MDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5yYWRpb2tlcnJ5LmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYjM3MWY1NTQ3MzEzMDdiYzcyYmIyMzYwMmNiZDFkMDA1NDY3OTRlNSJ9/radio-kerry-logo.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T17:28:29Z",
+      "streams": [
+        {
+          "id": "aws_cd6d7c0b61d8471f8799",
+          "stationId": "awb_3f8dd01f4788b497256b",
+          "name": "Radio Kerry",
+          "country": "IE",
+          "url": "https://27743.live.streamtheworld.com/RADIO_KERRY_SC",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c69f8645-06e8-49b8-ab05-3d53ecbce027"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -6934,7 +7055,7 @@
       "id": "awb_3461835dfd861bca0ca5",
       "name": "SPIN South West",
       "country": "IE",
-      "subdivision": "Limerick",
+      "subdivision": "Dublin",
       "languages": [
         "en"
       ],
@@ -6946,8 +7067,8 @@
         "top 40",
         "top-40"
       ],
-      "homepage": "https://www.spinsouthwest.com/",
-      "favicon": "https://www.spinsouthwest.com/images/logo.svg",
+      "homepage": "http://www.spinsouthwest.com/",
+      "favicon": "https://www.spinsouthwest.com/i/android-icon-192x192.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-24",

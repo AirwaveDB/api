@@ -1,7 +1,7 @@
 {
   "code": "PH",
   "stationCount": 767,
-  "streamCount": 826,
+  "streamCount": 827,
   "stations": [
     {
       "id": "awb_014fd2bb41b7a724479e",
@@ -1318,9 +1318,9 @@
     },
     {
       "id": "awb_2faae660f101a5e79ddb",
-      "name": "106.3 SMOOTH RADIO",
+      "name": "106.3 Smooth RADIO",
       "country": "PH",
-      "subdivision": "Quezon City",
+      "subdivision": "San Isidro, Montalban, Rizal",
       "languages": [
         "en"
       ],
@@ -13208,23 +13208,23 @@
       "id": "awb_c829a219ead65a47a3ef",
       "name": "Glitchy Radio",
       "country": "PH",
-      "subdivision": null,
+      "subdivision": "Cebu",
       "languages": [],
       "categories": [],
       "tags": [],
       "homepage": "https://ca.azura.linkodev.ch/public/glitchy_radio",
       "favicon": "https://ca.azura.linkodev.ch/static/uploads/browser_icon/192.1768133326.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-20T02:02:08Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-20T10:12:24Z",
       "streams": [
         {
           "id": "aws_49df1c643609dfef4ab2",
           "stationId": "awb_c829a219ead65a47a3ef",
           "name": "Glitchy Radio",
           "country": "PH",
-          "url": "https://ca.azura.linkodev.ch/public/glitchy_radio/playlist.pls",
-          "codec": null,
+          "url": "https://54.39.97.229/listen/glitchy_radio/glitchyradio",
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -13235,7 +13235,26 @@
             "dd41710f-3627-47c4-84fb-d857869420c9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
+        },
+        {
+          "id": "aws_abd767b125eb03451ba3",
+          "stationId": "awb_c829a219ead65a47a3ef",
+          "name": "Glitchy Radio",
+          "country": "PH",
+          "url": "https://ca.azura.linkodev.ch/listen/glitchy_radio/glitchyradio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8c3edeb3-33a3-4fef-b070-aa185a0f4152"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -26588,8 +26607,8 @@
       "languages": [],
       "categories": [],
       "tags": [],
-      "homepage": "http://topsmediacenter.com/",
-      "favicon": "http://topsmediacenter.com/wp-content/uploads/2020/06/logo-1.png",
+      "homepage": "https://topsmediacenter.com/",
+      "favicon": "https://topsmediacenter.com/wp-content/uploads/2024/06/wedd-370x370.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-25T13:12:59Z",

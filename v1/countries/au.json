@@ -1,7 +1,7 @@
 {
   "code": "AU",
-  "stationCount": 1692,
-  "streamCount": 1724,
+  "stationCount": 1695,
+  "streamCount": 1727,
   "stations": [
     {
       "id": "awb_7580fb7c36cddd9a8a3f",
@@ -4129,6 +4129,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T00:57:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3dd8e681af85d65e3d21",
+      "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
+      "country": "AU",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "adult contemporary"
+      ],
+      "homepage": null,
+      "favicon": "https://i.ibb.co/9nM3Vnx/61ea4e2cad655b10105ec3a1.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T14:12:48Z",
+      "streams": [
+        {
+          "id": "aws_ed248d8ab99b81ba0f5a",
+          "stationId": "awb_3dd8e681af85d65e3d21",
+          "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
+          "country": "AU",
+          "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dc6b1a66-997e-4e0d-9502-8641f052d044"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -33948,7 +33987,7 @@
             "3de0ed72-b752-41df-99f9-26c5d95befe1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-21T00:26:37Z"
         }
       ]
     },
@@ -40359,6 +40398,57 @@
       ]
     },
     {
+      "id": "awb_f84ed2a9ac3b49cd1246",
+      "name": "Happy Radio",
+      "country": "AU",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "90s",
+        "love",
+        "pop",
+        "request",
+        "talk",
+        "variety"
+      ],
+      "homepage": "https://happyradio.live/",
+      "favicon": "https://hq3.yesstreaming.net/media/happyradio/station_11/logos/logo_1779921747353.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-20T20:31:01Z",
+      "streams": [
+        {
+          "id": "aws_80a8a83ed69633ed9242",
+          "stationId": "awb_f84ed2a9ac3b49cd1246",
+          "name": "Happy Radio",
+          "country": "AU",
+          "url": "https://hq3.yesstreaming.net/happyradio/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "998bdac9-324e-451c-a57d-2670cfe815ac",
+            "eee408cd-7d2d-45bd-a20c-3467c6c88202"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T00:26:37Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4c8218b54a13a5d4bc8a",
       "name": "Harman Radio Australia",
       "country": "AU",
@@ -41155,7 +41245,7 @@
             "7dd79327-d4fb-4f34-a914-1a8688345306"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -69805,6 +69895,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T15:52:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8553dfccae8123d49847",
+      "name": "Voice FM",
+      "country": "AU",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.voicefm.org.au/",
+      "favicon": "https://www.voicefm.org.au//wp-content/uploads/2025/09/Voice_FM-500px-NoBG.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-21T04:56:04Z",
+      "streams": [
+        {
+          "id": "aws_f4c0fd73b613da08a603",
+          "stationId": "awb_8553dfccae8123d49847",
+          "name": "Voice FM",
+          "country": "AU",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEFMAAC.aac",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "44220107-c921-4890-8a2c-93538b620079"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T08:09:24Z"
         }
       ]
     },

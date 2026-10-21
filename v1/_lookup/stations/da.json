@@ -2939,8 +2939,8 @@
         "name": "Fréquence 3+ Collector",
         "country": "FR",
         "url": "https://hls.net-radio.fr/Frequence3Plus-1/Frequence3Plus-1.m3u8",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 460,
         "protocol": "https",
         "hls": true,
         "sources": [
@@ -2950,7 +2950,7 @@
           "413dd42d-a810-4d3a-8dac-fac4c22483b6"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
       }
     ]
   },
@@ -8293,6 +8293,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-16T22:26:19Z"
+      }
+    ]
+  },
+  "awb_da6c09f7d3f2c5e9154f": {
+    "id": "awb_da6c09f7d3f2c5e9154f",
+    "name": "Nova + KK Radio",
+    "country": "US",
+    "subdivision": "Missouri",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "punk"
+    ],
+    "tags": [
+      "electropop",
+      "pop",
+      "pop punk"
+    ],
+    "homepage": "https://novaandkk.bigcartel.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T17:29:24Z",
+    "streams": [
+      {
+        "id": "aws_c3a33fe9d90d8bc6534d",
+        "stationId": "awb_da6c09f7d3f2c5e9154f",
+        "name": "Nova + KK Radio",
+        "country": "US",
+        "url": "https://streamer.radio.co/s41d6d9012/listen",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "45c0d067-75b7-4714-a5dd-aeae2e4e9023"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T22:36:25Z"
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "code": "ES",
-  "stationCount": 1249,
-  "streamCount": 1318,
+  "stationCount": 1250,
+  "streamCount": 1319,
   "stations": [
     {
       "id": "awb_ca1cd74495e85993d715",
@@ -11799,7 +11799,7 @@
         "hardstyle",
         "music"
       ],
-      "homepage": "https://decibeliafm.es/web/",
+      "homepage": "https://decibeliafm.es/",
       "favicon": "https://decibeliafm.es/web/wp-content/uploads/2022/12/Decibelia-FM-Logo-Letras-01-Blanco-e1672154375524-147x39.png",
       "type": null,
       "sourceCount": 2,
@@ -14792,8 +14792,8 @@
           "name": "esRadio Cantabria",
           "country": "ES",
           "url": "http://ns100.emisionlocal.com:9428/live",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 64,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -14803,7 +14803,7 @@
             "d9081f9a-2850-41db-b9b0-688307873b08"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -19064,7 +19064,7 @@
             "2c761131-18cf-48b2-bc2e-a06d45385612"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T18:48:01Z"
         }
       ]
     },
@@ -21527,7 +21527,7 @@
             "ffe71234-db25-4cdf-8e27-d544d2a2523b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -23575,7 +23575,7 @@
       "tags": [
         "hits"
       ],
-      "homepage": "https://www.locafm.com/",
+      "homepage": "http://www.locafm.com/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -29474,8 +29474,8 @@
           "name": "Onda Cero Santander",
           "country": "ES",
           "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SANTANDERAAC.m3u8",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 128,
           "protocol": "https",
           "hls": true,
           "sources": [
@@ -29485,7 +29485,7 @@
             "d572e273-574b-4234-9ef3-86337b3fa31c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
         }
       ]
     },
@@ -38007,7 +38007,7 @@
       "categories": [],
       "tags": [],
       "homepage": "https://radiolagranjazaragoza.wordpress.com/",
-      "favicon": "https://radiobot.radioslibres.info/static/uploads/radio_la_granja/background.1713382583.jpg",
+      "favicon": "https://radiolagranjazaragoza.wordpress.com/wp-content/uploads/2021/07/cropped-radiolagranjaramone.png?w=180",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-17T06:08:50Z",
@@ -48274,7 +48274,7 @@
             "d7fde6f3-9f1b-4ea3-b50f-f58b26b51165"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T18:20:13Z"
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
         }
       ]
     },
@@ -51670,6 +51670,54 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T19:11:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_aedc59d6bf4a5a6a0c0d",
+      "name": "Waiting Room - Creative Commons Lounge Radio",
+      "country": "ES",
+      "subdivision": "Madrid",
+      "languages": [
+        "de",
+        "en",
+        "it"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "chillout",
+        "chillout+lounge",
+        "downtempo",
+        "lounge",
+        "smothjazz"
+      ],
+      "homepage": "https://www.waitingroomradio.com/",
+      "favicon": "https://streaming.coolmusicradio.com/static/uploads/waiting-room/album_art.1792523228.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T21:01:30Z",
+      "streams": [
+        {
+          "id": "aws_94f839155c42cb99e58a",
+          "stationId": "awb_aedc59d6bf4a5a6a0c0d",
+          "name": "Waiting Room - Creative Commons Lounge Radio",
+          "country": "ES",
+          "url": "https://listen.openstream.co/7482/audio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "58ba1983-9078-4287-b6f4-cccaa42a6037"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T08:09:24Z"
         }
       ]
     },

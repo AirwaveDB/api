@@ -125,7 +125,7 @@
           "8863977c-6c4c-4398-9eab-8da32f93fc0a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-15T23:05:01Z"
+        "lastCheckedAt": "2026-10-20T23:07:56Z"
       }
     ]
   },
@@ -6358,23 +6358,23 @@
     "id": "awb_c829a219ead65a47a3ef",
     "name": "Glitchy Radio",
     "country": "PH",
-    "subdivision": null,
+    "subdivision": "Cebu",
     "languages": [],
     "categories": [],
     "tags": [],
     "homepage": "https://ca.azura.linkodev.ch/public/glitchy_radio",
     "favicon": "https://ca.azura.linkodev.ch/static/uploads/browser_icon/192.1768133326.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-20T02:02:08Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-20T10:12:24Z",
     "streams": [
       {
         "id": "aws_49df1c643609dfef4ab2",
         "stationId": "awb_c829a219ead65a47a3ef",
         "name": "Glitchy Radio",
         "country": "PH",
-        "url": "https://ca.azura.linkodev.ch/public/glitchy_radio/playlist.pls",
-        "codec": null,
+        "url": "https://54.39.97.229/listen/glitchy_radio/glitchyradio",
+        "codec": "mp3",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -6385,7 +6385,26 @@
           "dd41710f-3627-47c4-84fb-d857869420c9"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
+      },
+      {
+        "id": "aws_abd767b125eb03451ba3",
+        "stationId": "awb_c829a219ead65a47a3ef",
+        "name": "Glitchy Radio",
+        "country": "PH",
+        "url": "https://ca.azura.linkodev.ch/listen/glitchy_radio/glitchyradio",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8c3edeb3-33a3-4fef-b070-aa185a0f4152"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
       }
     ]
   },
@@ -6951,7 +6970,7 @@
       "stuttgart",
       "torino"
     ],
-    "homepage": "https://radiogiurgiu.net/",
+    "homepage": "https://radiogiurgiu.net/mobile.html",
     "favicon": "https://radiogiurgiu.net/assets/logo_icon.webp",
     "type": null,
     "sourceCount": 4,

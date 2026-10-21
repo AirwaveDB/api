@@ -330,7 +330,7 @@
             "b2b680b5-d980-485e-96d1-037f5a8f29c0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T09:51:17Z"
+          "lastCheckedAt": "2026-10-20T23:07:56Z"
         }
       ]
     },
@@ -6684,7 +6684,7 @@
           "country": "EE",
           "url": "https://sapircast.caster.fm:11309/OsZpV",
           "codec": "mp3",
-          "bitrate": 128,
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -6694,7 +6694,7 @@
             "dccda812-d94d-4619-89d5-81ec9f5d75d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T23:05:01Z"
+          "lastCheckedAt": "2026-10-20T23:07:56Z"
         }
       ]
     },
@@ -8058,7 +8058,7 @@
             "da7d7480-3616-4ba6-bf43-e086deb71d1a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-15T00:17:25Z"
+          "lastCheckedAt": "2026-10-20T15:25:29Z"
         }
       ]
     },
@@ -9363,58 +9363,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T15:06:23Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_cf872ae3f29be2745d96",
-      "name": "Haze Pub Radio",
-      "country": "LT",
-      "subdivision": "Vilnius",
-      "languages": [
-        "lt"
-      ],
-      "categories": [
-        "electronic",
-        "hip-hop",
-        "metal",
-        "punk",
-        "rock"
-      ],
-      "tags": [
-        "alternative",
-        "drum bass",
-        "electronic",
-        "hip hop",
-        "metal",
-        "punk",
-        "rap",
-        "rock"
-      ],
-      "homepage": "https://kalaver.in/rocks/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-15T23:34:39Z",
-      "streams": [
-        {
-          "id": "aws_515e057c4d7a3bf38395",
-          "stationId": "awb_cf872ae3f29be2745d96",
-          "name": "Haze Pub Radio",
-          "country": "LT",
-          "url": "https://live.leproradio.com/rocks.ogg",
-          "codec": "ogg",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "d469d86b-e0a7-45ac-aa94-6be76329ab82"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T00:21:55Z"
         }
       ]
     },
@@ -12950,6 +12898,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-16T23:42:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_da6c09f7d3f2c5e9154f",
+      "name": "Nova + KK Radio",
+      "country": "US",
+      "subdivision": "Missouri",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop",
+        "punk"
+      ],
+      "tags": [
+        "electropop",
+        "pop",
+        "pop punk"
+      ],
+      "homepage": "https://novaandkk.bigcartel.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T17:29:24Z",
+      "streams": [
+        {
+          "id": "aws_c3a33fe9d90d8bc6534d",
+          "stationId": "awb_da6c09f7d3f2c5e9154f",
+          "name": "Nova + KK Radio",
+          "country": "US",
+          "url": "https://streamer.radio.co/s41d6d9012/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "45c0d067-75b7-4714-a5dd-aeae2e4e9023"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T22:36:25Z"
         }
       ]
     },

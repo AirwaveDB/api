@@ -1,7 +1,7 @@
 {
   "code": "MY",
-  "stationCount": 83,
-  "streamCount": 84,
+  "stationCount": 84,
+  "streamCount": 85,
   "stations": [
     {
       "id": "awb_8e6e0645470d8c2d6597",
@@ -457,6 +457,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-17T07:36:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1945e14dd61bad83cdd8",
+      "name": "BIGCOWFM大牛网络电台 | 马来西亚中文网络电台",
+      "country": "MY",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "talk"
+      ],
+      "tags": [
+        "ai music",
+        "entertainment",
+        "lifestyle",
+        "music",
+        "talk"
+      ],
+      "homepage": "http://live.bigcowfm.com/index.html",
+      "favicon": "http://live.bigcowfm.com/uploads/1/3/8/0/138088062/bigcowfm-2024logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-20T22:57:32Z",
+      "streams": [
+        {
+          "id": "aws_b06718c555e924ef139b",
+          "stationId": "awb_1945e14dd61bad83cdd8",
+          "name": "BIGCOWFM大牛网络电台 | 马来西亚中文网络电台",
+          "country": "MY",
+          "url": "https://a.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6de14705-f887-44b4-a858-3bfc26b2ffd1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-20T23:07:56Z"
         }
       ]
     },

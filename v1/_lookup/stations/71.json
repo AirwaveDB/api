@@ -2611,8 +2611,8 @@
     "homepage": "https://radio.xecod.com/listen/AdelRayan",
     "favicon": null,
     "type": null,
-    "sourceCount": 16,
-    "updatedAt": "2026-10-18T19:02:50Z",
+    "sourceCount": 17,
+    "updatedAt": "2026-10-20T20:21:05Z",
     "streams": [
       {
         "id": "aws_320ddc2cee361033be72",
@@ -2632,7 +2632,7 @@
           "73b270bb-0631-4a8f-bc7d-b525093aad12"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-20T23:07:56Z"
       }
     ]
   },
@@ -4468,6 +4468,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T15:03:57Z"
+      }
+    ]
+  },
+  "awb_713bfd88ed98078cfb09": {
+    "id": "awb_713bfd88ed98078cfb09",
+    "name": "Frekvenci - Space",
+    "country": "HU",
+    "subdivision": "Budapest",
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "creative commons",
+      "sci-fi",
+      "space",
+      "spacesynth",
+      "synthwave"
+    ],
+    "homepage": "https://frekvenci.com/station.html?id=st-space",
+    "favicon": "https://frekvenci.com/icons/stations/space.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-20T14:54:08Z",
+    "streams": [
+      {
+        "id": "aws_f425abaf9858a1da29f2",
+        "stationId": "awb_713bfd88ed98078cfb09",
+        "name": "Frekvenci - Space",
+        "country": "HU",
+        "url": "https://stream.frekvenci.com/space",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4859a357-1156-4ea7-a7f7-f350a5a99fa1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-20T15:25:29Z"
       }
     ]
   },
@@ -9519,6 +9563,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-17T10:12:27Z"
+      }
+    ]
+  },
+  "awb_71437e26518e5fbfc6ca": {
+    "id": "awb_71437e26518e5fbfc6ca",
+    "name": "WILR 90.1 \"Lighthouse Christian Radio\" Milwaukee, Wisconsin",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian hymns",
+      "christian preaching",
+      "gospel music"
+    ],
+    "homepage": "https://www.lighthouse.radio/",
+    "favicon": "https://www.lighthouse.radio/wp-content/themes/lighthouse-christian-radio/assets/images/lighthouse-logo-20261006.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-21T03:35:51Z",
+    "streams": [
+      {
+        "id": "aws_c8e748c14c6e2233503d",
+        "stationId": "awb_71437e26518e5fbfc6ca",
+        "name": "WILR 90.1 \"Lighthouse Christian Radio\" Milwaukee, Wisconsin",
+        "country": "US",
+        "url": "https://lighthouseradio.network/proxy/mainchannel/stream",
+        "codec": "aac+",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "42565d34-4183-42e5-9ef7-90ca79c74363"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-21T08:09:24Z"
       }
     ]
   },
