@@ -73,7 +73,7 @@
           "AF:121212121"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:41:39Z"
+        "lastCheckedAt": "2026-10-21T23:08:04Z"
       }
     ]
   },
@@ -110,7 +110,7 @@
           "ffdf76fe-c0a5-4e03-b3b4-21062451bb89"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T08:07:01Z"
+        "lastCheckedAt": "2026-10-22T08:25:13Z"
       }
     ]
   },
@@ -186,7 +186,7 @@
           "46419630-0bc3-48e1-af75-b6b5ccf0dd04"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:57:09Z"
+        "lastCheckedAt": "2026-10-22T03:37:49Z"
       }
     ]
   },
@@ -310,7 +310,7 @@
           "576415ca-4dea-41f9-b7b2-9f68ec71a722"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:08:50Z"
+        "lastCheckedAt": "2026-10-21T23:06:06Z"
       }
     ]
   },
@@ -334,8 +334,8 @@
         "name": "Radio República AM 770",
         "country": "AR",
         "url": "https://server.radiostreaming.com.ar:8200/stream",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 75,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -345,7 +345,7 @@
           "87811b02-851a-4470-9e0c-dce582648bc3"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-21T09:12:34Z"
       }
     ]
   },
@@ -382,7 +382,7 @@
           "f289251e-dc1b-458d-9d4e-33d24c41618f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T23:37:13Z"
+        "lastCheckedAt": "2026-10-21T23:48:16Z"
       }
     ]
   },
@@ -729,7 +729,7 @@
           "BE:mixx-fm-charleroi"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T08:12:01Z"
+        "lastCheckedAt": "2026-10-22T08:37:01Z"
       }
     ]
   },
@@ -808,7 +808,7 @@
           "BR:radio-energia-dance"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T01:52:02Z"
+        "lastCheckedAt": "2026-10-22T01:57:05Z"
       }
     ]
   },
@@ -894,7 +894,7 @@
           "d9939788-2129-468d-af64-ac2db3704085"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T04:19:36Z"
+        "lastCheckedAt": "2026-10-22T05:12:59Z"
       }
     ]
   },
@@ -977,7 +977,7 @@
           "d1460f05-6e73-44e8-9691-e18997eb075a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:42:42Z"
+        "lastCheckedAt": "2026-10-21T22:49:01Z"
       }
     ]
   },
@@ -1054,7 +1054,7 @@
           "b4fafff7-14f7-4b41-9bb2-7ad933942567"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T01:18:40Z"
+        "lastCheckedAt": "2026-10-22T01:38:41Z"
       }
     ]
   },
@@ -1173,15 +1173,16 @@
     "country": "CH",
     "subdivision": null,
     "languages": [
-      "de"
+      "de",
+      "gsw"
     ],
     "categories": [],
     "tags": [],
     "homepage": "http://www.3fach.ch/",
     "favicon": "https://3fach.ch/themes/3fach/assets/logo_black@2x.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T02:47:38Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-21T10:20:01Z",
     "streams": [
       {
         "id": "aws_b25221c3a5950b342208",
@@ -1200,7 +1201,7 @@
           "960c214e-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T07:10:05Z"
+        "lastCheckedAt": "2026-10-22T07:25:14Z"
       },
       {
         "id": "aws_122d35a354f94b0823ee",
@@ -1216,10 +1217,11 @@
           "radio-browser"
         ],
         "sourceIds": [
+          "39549bbe-62e6-4569-826b-b01f2f1b916e",
           "8d36363c-f60f-45d8-afe1-659c9fc4071c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T23:10:48Z"
+        "lastCheckedAt": "2026-10-21T23:12:48Z"
       }
     ]
   },
@@ -1420,7 +1422,7 @@
           "923a9df1-bce6-4972-b5c9-5e29988e6bb6"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:12:04Z"
+        "lastCheckedAt": "2026-10-22T02:14:06Z"
       }
     ]
   },
@@ -1457,7 +1459,7 @@
           "72301bcf-3a0e-42e4-aa77-4900ed723e1c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T06:21:59Z"
+        "lastCheckedAt": "2026-10-22T07:03:04Z"
       }
     ]
   },
@@ -1666,7 +1668,7 @@
           "d73c66a3-bcb9-45b1-920b-c513dc241879"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T07:06:58Z"
+        "lastCheckedAt": "2026-10-22T07:32:35Z"
       }
     ]
   },
@@ -1793,7 +1795,7 @@
           "58633ddd-fa5d-4ead-a150-a95137ac094d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:58:43Z"
+        "lastCheckedAt": "2026-10-22T04:44:59Z"
       }
     ]
   },
@@ -1828,7 +1830,7 @@
           "c3e90b6c-499d-4b0b-bb89-0098f04b5c45"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T05:03:43Z"
+        "lastCheckedAt": "2026-10-22T05:31:18Z"
       }
     ]
   },
@@ -1978,7 +1980,7 @@
           "519519dc-ba99-4052-8b2d-1d51a1f24690"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:52:33Z"
+        "lastCheckedAt": "2026-10-21T22:58:53Z"
       }
     ]
   },
@@ -2015,7 +2017,7 @@
           "db540c7f-7280-4789-96ff-f13c47307a7d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:21:14Z"
+        "lastCheckedAt": "2026-10-21T22:28:34Z"
       }
     ]
   },
@@ -2135,7 +2137,7 @@
           "7ceefceb-dd0d-425e-b11e-c6ba9a86aff3"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T13:47:03Z"
+        "lastCheckedAt": "2026-10-22T04:15:28Z"
       }
     ]
   },
@@ -2213,7 +2215,7 @@
           "a5d697b4-1ff3-4c67-b52f-9c2b4f1cb250"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T06:08:21Z"
+        "lastCheckedAt": "2026-10-22T07:27:26Z"
       }
     ]
   },
@@ -2334,7 +2336,7 @@
           "94798404-371f-11e8-bb9b-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T07:40:54Z"
+        "lastCheckedAt": "2026-10-22T07:42:33Z"
       },
       {
         "id": "aws_d02ddb09c679922d8ce5",
@@ -2353,7 +2355,7 @@
           "df412384-07fc-4386-bf10-4e9df39bd207"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T23:22:27Z"
+        "lastCheckedAt": "2026-10-21T23:31:42Z"
       }
     ]
   },
@@ -2491,7 +2493,7 @@
         "stationId": "awb_885d6111fc04b9706f35",
         "name": "Rosate con bachata",
         "country": "EC",
-        "url": "https://stream-281.surfernetwork.com/uagzy1yc5uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YWd6eTF5YzV1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IldVZ1JzUExTUUtpV0pLUHFHc1V2VmciLCJpYXQiOjE3OTIyMDY2MjQsImV4cCI6MTc5MjIwNjY4NH0.wZclXCxEoHYVhcMlHbWaZiE0w4tkA1D0dN7f0ZE_vo0",
+        "url": "https://stream-281.surfernetwork.com/uagzy1yc5uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YWd6eTF5YzV1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkhJc2FYenUyUXp5M2trNWFhdzVab0EiLCJpYXQiOjE3OTI2NDM0NTcsImV4cCI6MTc5MjY0MzUxN30.gzUWF2I9-tzF7Q3bNw7HvCG3GNkvPEPDqbdrZbipktY",
         "codec": "mp3",
         "bitrate": 192,
         "protocol": "https",
@@ -2503,7 +2505,7 @@
           "6c1ad61c-ac08-4350-95bb-eca2c02dbc74"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:11:52Z"
+        "lastCheckedAt": "2026-10-22T04:32:39Z"
       }
     ]
   },
@@ -2626,7 +2628,7 @@
           "8501f901-9b17-43e0-bc40-de21f2a6bf29"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:37:09Z"
+        "lastCheckedAt": "2026-10-22T03:49:15Z"
       }
     ]
   },
@@ -2679,7 +2681,7 @@
           "7ff895f3-1b00-48b3-9c2f-4bc576568b75"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:20:07Z"
+        "lastCheckedAt": "2026-10-22T03:56:14Z"
       },
       {
         "id": "aws_bbaa41f0ee6395f39b06",
@@ -2699,7 +2701,7 @@
           "f49d2d6a-50d8-4fdc-86eb-2bd4e5868110"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T20:54:17Z"
+        "lastCheckedAt": "2026-10-22T07:36:51Z"
       }
     ]
   },
@@ -2734,7 +2736,7 @@
           "c54f913e-c8f0-4c38-ac4d-52bf43bb5a72"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T23:33:01Z"
+        "lastCheckedAt": "2026-10-21T23:43:45Z"
       }
     ]
   },
@@ -2769,7 +2771,7 @@
           "bb442cc4-7a62-4232-9103-e051b6b3ca04"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:33:12Z"
+        "lastCheckedAt": "2026-10-22T03:26:52Z"
       }
     ]
   },
@@ -2850,7 +2852,7 @@
           "48ed33be-7ee2-41ba-b152-7fdb137819a5"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T06:29:16Z"
+        "lastCheckedAt": "2026-10-22T06:50:20Z"
       }
     ]
   },
@@ -2899,7 +2901,7 @@
           "3ba2123c-afce-4744-b0b3-2a717159dbae"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T23:11:33Z"
+        "lastCheckedAt": "2026-10-22T06:09:50Z"
       }
     ]
   },
@@ -3013,7 +3015,7 @@
           "2b37443c-fd2a-40fa-bf89-550ffc46fa86"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T05:19:55Z"
+        "lastCheckedAt": "2026-10-22T05:24:51Z"
       }
     ]
   },
@@ -3048,7 +3050,7 @@
           "190f9ab1-73bf-490d-b6e6-7b1166f0ce6c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:58:23Z"
+        "lastCheckedAt": "2026-10-21T23:02:05Z"
       }
     ]
   },
@@ -3113,7 +3115,7 @@
           "142ab981-78c9-4778-a82e-b1b4d80d47f2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:39:28Z"
+        "lastCheckedAt": "2026-10-22T03:56:14Z"
       }
     ]
   },
@@ -3269,7 +3271,7 @@
           "d6942166-5470-4f71-980e-93aa21f302f4"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T04:49:21Z"
+        "lastCheckedAt": "2026-10-22T04:52:50Z"
       }
     ]
   },
@@ -3310,7 +3312,7 @@
           "ccd9d009-b369-4451-9ebb-a2138bed734f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T00:38:57Z"
+        "lastCheckedAt": "2026-10-22T01:09:49Z"
       }
     ]
   },
@@ -3345,7 +3347,7 @@
           "30d35f4a-8df7-49d5-a4ae-ec9882358f06"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T23:50:59Z"
+        "lastCheckedAt": "2026-10-22T00:14:56Z"
       }
     ]
   },
@@ -3487,7 +3489,7 @@
           "ce9f90e5-ca1e-417f-9a8e-fcccf02b7220"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T23:59:52Z"
+        "lastCheckedAt": "2026-10-22T00:16:55Z"
       }
     ]
   },
@@ -3567,7 +3569,7 @@
           "526b6bad-68f3-4197-9cfa-fa8b341830bb"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T23:29:37Z"
+        "lastCheckedAt": "2026-10-22T00:12:25Z"
       }
     ]
   },
@@ -3686,7 +3688,7 @@
           "0bfcb806-2617-4daf-b858-b3e214341fb6"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:33:12Z"
+        "lastCheckedAt": "2026-10-22T02:41:17Z"
       }
     ]
   },
@@ -3979,7 +3981,7 @@
           "e8b71483-aa1f-47f6-9fb6-02bef8153a69"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T21:21:13Z"
+        "lastCheckedAt": "2026-10-21T21:36:57Z"
       }
     ]
   },
@@ -4084,7 +4086,7 @@
           "HU:ozonefm"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T04:56:59Z"
+        "lastCheckedAt": "2026-10-22T05:06:29Z"
       }
     ]
   },
@@ -4122,7 +4124,7 @@
           "8bac33b4-df24-49f2-a10c-c8358ca63a2a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T00:57:38Z"
+        "lastCheckedAt": "2026-10-22T01:04:32Z"
       }
     ]
   },
@@ -4161,7 +4163,7 @@
           "HU:tamasi-radio"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T04:45:00Z"
+        "lastCheckedAt": "2026-10-22T05:14:54Z"
       }
     ]
   },
@@ -4198,7 +4200,7 @@
           "0cea1450-1354-42e3-a4cc-ef45ae7af848"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:16:04Z"
+        "lastCheckedAt": "2026-10-22T03:29:27Z"
       }
     ]
   },
@@ -4333,7 +4335,7 @@
           "9684cbbc-ea62-422c-bc93-20cf4ed4bac1"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:31:04Z"
+        "lastCheckedAt": "2026-10-22T03:00:11Z"
       }
     ]
   },
@@ -4403,7 +4405,7 @@
           "9d242677-c04c-4724-9d41-021f17dafffc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T05:22:05Z"
+        "lastCheckedAt": "2026-10-22T05:44:31Z"
       }
     ]
   },
@@ -4512,7 +4514,7 @@
           "7c618094-92db-4f52-a466-3e7d1c41d726"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T20:54:39Z"
+        "lastCheckedAt": "2026-10-21T21:12:29Z"
       }
     ]
   },
@@ -4552,7 +4554,7 @@
           "d71784c7-0799-408c-a9e5-8827199e3a70"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:11:03Z"
+        "lastCheckedAt": "2026-10-21T22:28:34Z"
       }
     ]
   },
@@ -4597,7 +4599,7 @@
           "62f5622c-4c1c-4786-99c8-08a233117015"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T07:20:47Z"
+        "lastCheckedAt": "2026-10-22T07:44:53Z"
       }
     ]
   },
@@ -4641,7 +4643,7 @@
           "b16ad874-7085-47b9-841c-a2fc551c1d65"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:18:35Z"
+        "lastCheckedAt": "2026-10-21T22:31:07Z"
       }
     ]
   },
@@ -4751,7 +4753,7 @@
           "82504e4e-d90f-4502-805b-defcb28ced02"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:04:04Z"
+        "lastCheckedAt": "2026-10-22T03:14:15Z"
       }
     ]
   },
@@ -4786,7 +4788,7 @@
           "450228f9-dff3-4924-aff1-d637135551aa"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T23:33:01Z"
+        "lastCheckedAt": "2026-10-22T00:49:22Z"
       },
       {
         "id": "aws_c14f900c79aba5ce42f6",
@@ -4849,7 +4851,7 @@
           "fa41c642-dfde-430c-b5eb-da803d5afd07"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T10:22:02Z"
+        "lastCheckedAt": "2026-10-21T17:04:50Z"
       }
     ]
   },
@@ -4891,7 +4893,7 @@
           "6bd12146-f1f9-489b-8b5b-632f320b72ce"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T20:23:11Z"
+        "lastCheckedAt": "2026-10-21T20:33:49Z"
       }
     ]
   },
@@ -4971,7 +4973,7 @@
           "89c9a736-8592-47e6-8404-bc66438a9f63"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T18:07:28Z"
+        "lastCheckedAt": "2026-10-22T00:38:34Z"
       }
     ]
   },
@@ -5309,7 +5311,7 @@
           "e3446a5a-5c8c-4681-b697-d1f83ef7b52b"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T07:14:01Z"
+        "lastCheckedAt": "2026-10-22T07:36:51Z"
       }
     ]
   },
@@ -5410,7 +5412,7 @@
         "stationId": "awb_88740b76a80a2ec945e7",
         "name": "XHGLX \"Exa FM\" 91.7 FM Tijuana, BN",
         "country": "MX",
-        "url": "http://18213.live.streamtheworld.com:3690/XHGLX_SC",
+        "url": "http://26313.live.streamtheworld.com/XHGLX_SC",
         "codec": "mp3",
         "bitrate": 128,
         "protocol": "http",
@@ -5422,7 +5424,7 @@
           "9627bacb-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T07:04:53Z"
+        "lastCheckedAt": "2026-10-22T08:04:13Z"
       }
     ]
   },
@@ -5527,7 +5529,7 @@
           "c47360b0-70ca-49fb-bed3-19074e46fe28"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T05:26:33Z"
+        "lastCheckedAt": "2026-10-22T06:01:06Z"
       }
     ]
   },
@@ -6143,7 +6145,7 @@
           "RO:erdelyi-magyar-radio"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:33:12Z"
+        "lastCheckedAt": "2026-10-22T02:38:52Z"
       }
     ]
   },
@@ -6405,7 +6407,7 @@
           "e2e4fa0f-87ab-4e33-9f69-6eb0be37f174"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:57:09Z"
+        "lastCheckedAt": "2026-10-22T03:02:59Z"
       }
     ]
   },
@@ -6479,7 +6481,7 @@
           "a5712a09-4e65-48df-9e54-62ecf0664f22"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T01:54:17Z"
+        "lastCheckedAt": "2026-10-22T02:09:56Z"
       }
     ]
   },
@@ -6565,7 +6567,7 @@
           "2683c952-a4d9-4a04-a0db-ee48aa225382"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T00:36:57Z"
+        "lastCheckedAt": "2026-10-22T00:48:45Z"
       }
     ]
   },
@@ -6611,7 +6613,7 @@
           "4333b956-edff-43bd-bbf3-2dce08862e8b"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T01:22:50Z"
+        "lastCheckedAt": "2026-10-22T01:43:15Z"
       }
     ]
   },
@@ -6740,7 +6742,7 @@
           "461dc6c4-3f47-4b29-9d72-184da2b54c07"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T08:14:09Z"
+        "lastCheckedAt": "2026-10-22T08:31:36Z"
       }
     ]
   },
@@ -6828,7 +6830,7 @@
           "a712a788-3d61-4383-bd42-d55c35662ae7"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:44:38Z"
+        "lastCheckedAt": "2026-10-21T22:55:38Z"
       }
     ]
   },
@@ -6973,7 +6975,7 @@
           "c3b1d4ff-0e01-4139-95e6-c54da7b6acb0"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T20:29:28Z"
+        "lastCheckedAt": "2026-10-22T07:42:33Z"
       }
     ]
   },
@@ -7091,7 +7093,7 @@
           "2e7c26a3-3796-42cc-acee-1ef607088246"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:26:24Z"
+        "lastCheckedAt": "2026-10-22T02:58:08Z"
       }
     ]
   },
@@ -7128,7 +7130,7 @@
           "2ca9849a-ddde-411a-a79c-2a0ac728a4b9"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T04:15:45Z"
+        "lastCheckedAt": "2026-10-22T05:24:51Z"
       }
     ]
   },
@@ -7198,7 +7200,7 @@
           "f6be81cf-5ce6-4eb4-8753-3fffec5fbdcf"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:53:17Z"
+        "lastCheckedAt": "2026-10-22T02:56:11Z"
       }
     ]
   },
@@ -7282,7 +7284,7 @@
           "dafe1408-1d61-498a-bc51-3737835fdf61"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T02:18:31Z"
+        "lastCheckedAt": "2026-10-22T03:00:11Z"
       }
     ]
   },
@@ -7319,7 +7321,7 @@
           "ec15a490-9922-4e08-aca8-45ad16674aed"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T01:52:45Z"
+        "lastCheckedAt": "2026-10-22T02:30:29Z"
       }
     ]
   },
@@ -7398,7 +7400,7 @@
           "5d743713-b997-4b1a-888a-17f052af1a13"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T01:24:55Z"
+        "lastCheckedAt": "2026-10-22T01:31:57Z"
       }
     ]
   },
@@ -7482,7 +7484,7 @@
           "1f2cdf35-f818-4928-aaba-eec8692e92c2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T00:55:28Z"
+        "lastCheckedAt": "2026-10-22T01:11:58Z"
       }
     ]
   },
@@ -7565,7 +7567,7 @@
           "67cfc9c9-77f3-4f50-9099-c9a82f8f4675"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:06:17Z"
+        "lastCheckedAt": "2026-10-22T03:29:27Z"
       }
     ]
   },
@@ -7597,7 +7599,7 @@
         "stationId": "awb_88afd9da0842f79fb86f",
         "name": "KOYY 93.7 \"Y94\" Fargo, ND",
         "country": "US",
-        "url": "http://18433.live.streamtheworld.com/KOYYFMAAC_SC",
+        "url": "http://14013.live.streamtheworld.com/KOYYFMAAC_SC",
         "codec": "aac+",
         "bitrate": 64,
         "protocol": "http",
@@ -7609,7 +7611,7 @@
           "964b976e-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T22:44:38Z"
+        "lastCheckedAt": "2026-10-21T23:16:29Z"
       }
     ]
   },
@@ -7687,7 +7689,7 @@
           "09df3bed-2468-4a2d-be99-6f3baca93602"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T21:32:34Z"
+        "lastCheckedAt": "2026-10-21T21:36:01Z"
       }
     ]
   },
@@ -7732,7 +7734,7 @@
           "a29201ee-d459-4625-bd66-f0473d16064f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:54:20Z"
+        "lastCheckedAt": "2026-10-22T04:26:39Z"
       }
     ]
   },
@@ -7773,7 +7775,7 @@
           "07b2d5e9-5147-4c01-82be-84013bb03a36"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T06:05:44Z"
+        "lastCheckedAt": "2026-10-22T06:14:38Z"
       }
     ]
   },
@@ -7849,7 +7851,7 @@
           "54c946b2-51b6-492c-becb-7c5ce43e8e30"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T04:05:37Z"
+        "lastCheckedAt": "2026-10-22T05:24:51Z"
       }
     ]
   },
@@ -7892,7 +7894,7 @@
           "e46d6a54-3653-4247-9367-e29da020573c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:37:09Z"
+        "lastCheckedAt": "2026-10-22T04:28:53Z"
       }
     ]
   },
@@ -8048,7 +8050,7 @@
           "e5a34365-80b9-41fc-bdd4-da7075cc5c19"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:56:33Z"
+        "lastCheckedAt": "2026-10-22T04:01:27Z"
       }
     ]
   },
@@ -8163,7 +8165,7 @@
           "745d74e0-9f37-4680-9d16-12fa9967247d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T09:08:58Z"
+        "lastCheckedAt": "2026-10-21T09:12:34Z"
       }
     ]
   },
@@ -8260,7 +8262,7 @@
         "stationId": "awb_88fea5ef9a9ace6e588b",
         "name": "RADIO BOB! BOBs Hardrock",
         "country": "ZZ",
-        "url": "http://regiocast.streamabc.net/regc-radiobobhardrock4572019-mp3-192-8919919?sABC=6nq2r4o9%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792206009",
+        "url": "http://regiocast.streamabc.net/regc-radiobobhardrock4572019-mp3-192-8919919?sABC=6nq988s2%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792641266",
         "codec": "mp3",
         "bitrate": 0,
         "protocol": "http",
@@ -8272,7 +8274,7 @@
           "b382d9bd-19c3-11ea-a620-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:01:43Z"
+        "lastCheckedAt": "2026-10-22T03:56:14Z"
       }
     ]
   },
@@ -8315,7 +8317,7 @@
           "0c8f9d07-9fdb-11ea-aabb-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-17T03:13:50Z"
+        "lastCheckedAt": "2026-10-22T03:54:04Z"
       }
     ]
   },
@@ -8359,7 +8361,7 @@
           "a69f5655-d8cb-11e9-a861-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-16T23:28:54Z"
+        "lastCheckedAt": "2026-10-21T23:30:06Z"
       }
     ]
   }

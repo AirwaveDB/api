@@ -1,7 +1,7 @@
 {
   "code": "tha",
   "canonicalCode": "th",
-  "stationCount": 71,
+  "stationCount": 72,
   "stations": [
     {
       "id": "awb_8a6e6ca80ba3f81e6e0d",
@@ -37,7 +37,7 @@
             "c7291bda-55db-494b-bc3d-c4a9af0d1a13"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:51:36Z"
+          "lastCheckedAt": "2026-10-22T03:56:14Z"
         }
       ]
     },
@@ -214,7 +214,7 @@
             "f786266f-2814-4fa9-8b53-2bdc3c07e1fc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:25:05Z"
+          "lastCheckedAt": "2026-10-22T06:34:07Z"
         }
       ]
     },
@@ -251,7 +251,44 @@
             "964326ca-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:37:13Z"
+          "lastCheckedAt": "2026-10-21T23:45:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a3878ccbd8c8698411fc",
+      "name": "90.5 Delight",
+      "country": "TH",
+      "subdivision": "Phuket",
+      "languages": [
+        "th"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.studiolinemedia1.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-08-27T07:02:55Z",
+      "streams": [
+        {
+          "id": "aws_8ee7ea755474908a7b57",
+          "stationId": "awb_a3878ccbd8c8698411fc",
+          "name": "90.5 Delight",
+          "country": "TH",
+          "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8895",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "98020575-1da9-4ee0-aa56-c7da7d906d49"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T23:43:45Z"
         }
       ]
     },
@@ -368,7 +405,7 @@
             "fdc6ac17-0e78-4bdf-a5eb-82f432040874"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:58:31Z"
+          "lastCheckedAt": "2026-10-22T01:14:47Z"
         }
       ]
     },
@@ -407,7 +444,7 @@
             "46c93c88-147e-4bf5-9e08-ff93680984bf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:54:20Z"
+          "lastCheckedAt": "2026-10-22T03:58:29Z"
         }
       ]
     },
@@ -528,7 +565,7 @@
             "TH:cool-fahrenheit"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:40:51Z"
+          "lastCheckedAt": "2026-10-22T06:48:26Z"
         },
         {
           "id": "aws_ae8fc87b76ce586b65b0",
@@ -628,7 +665,7 @@
             "db30d2d4-7f59-410d-9c8c-36979b103fe8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:24:52Z"
+          "lastCheckedAt": "2026-10-22T06:03:12Z"
         }
       ]
     },
@@ -667,7 +704,7 @@
             "b4880e4a-8ede-47bf-abba-0f22c14ec6c0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:56:32Z"
+          "lastCheckedAt": "2026-10-22T05:23:34Z"
         }
       ]
     },
@@ -709,7 +746,7 @@
             "fbe4a5fd-373b-4183-bfe1-86c136af4dde"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T09:01:38Z"
+          "lastCheckedAt": "2026-10-21T21:47:51Z"
         }
       ]
     },
@@ -783,7 +820,7 @@
             "05278cac-a329-4959-996c-301541134fff"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:31:34Z"
+          "lastCheckedAt": "2026-10-22T06:48:26Z"
         }
       ]
     },
@@ -979,7 +1016,7 @@
             "89cd3adf-c3a8-4d56-ada6-1d539f5bfad5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:25:05Z"
+          "lastCheckedAt": "2026-10-22T07:46:49Z"
         }
       ]
     },
@@ -1025,7 +1062,7 @@
             "f221453e-e44d-4dbb-8409-298d65907aff"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:36:35Z"
+          "lastCheckedAt": "2026-10-22T07:25:14Z"
         }
       ]
     },
@@ -1037,12 +1074,19 @@
       "languages": [
         "th"
       ],
-      "categories": [],
-      "tags": [],
+      "categories": [
+        "country",
+        "news"
+      ],
+      "tags": [
+        "blind radio",
+        "country music",
+        "news"
+      ],
       "homepage": "https://www.nmab.or.th/radio",
-      "favicon": null,
+      "favicon": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
       "type": null,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "updatedAt": "2026-08-23",
       "streams": [
         {
@@ -1056,13 +1100,15 @@
           "protocol": "https",
           "hls": false,
           "sources": [
+            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
+            "2a2fdb06-a846-44b9-9c05-1a92aef502a1",
             "TH:krb-radio-2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-08-23"
+          "lastCheckedAt": "2026-10-22T00:18:28Z"
         }
       ]
     },
@@ -1108,7 +1154,7 @@
             "a9da7a8b-6ec1-4ada-88df-d56b04556168"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:28:58Z"
+          "lastCheckedAt": "2026-10-22T01:00:33Z"
         }
       ]
     },
@@ -1148,7 +1194,7 @@
             "afcd0235-164b-498b-a74c-235e791d4ef2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:55:15Z"
+          "lastCheckedAt": "2026-10-22T00:07:10Z"
         }
       ]
     },
@@ -1188,7 +1234,7 @@
             "a9ecb07a-9e74-4669-80b8-0d3f05890090"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:15:45Z"
+          "lastCheckedAt": "2026-10-22T04:32:39Z"
         }
       ]
     },
@@ -1301,7 +1347,7 @@
             "7978d3f3-1b2d-487d-8c8e-0a314f485860"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:15:28Z"
+          "lastCheckedAt": "2026-10-22T07:19:31Z"
         }
       ]
     },
@@ -1338,7 +1384,7 @@
             "005e134c-bf85-4150-808a-56b4fb13d36f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:27:02Z"
+          "lastCheckedAt": "2026-10-22T01:59:43Z"
         }
       ]
     },
@@ -1375,7 +1421,7 @@
             "f6f444c3-d48a-45de-bfb3-b2f7baa3aad2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:32:24Z"
+          "lastCheckedAt": "2026-10-22T05:46:30Z"
         }
       ]
     },
@@ -1419,7 +1465,7 @@
             "f2765c5d-4236-4b85-98aa-fcd1d8964a42"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:44:42Z"
+          "lastCheckedAt": "2026-10-22T00:48:45Z"
         }
       ]
     },
@@ -1460,7 +1506,7 @@
             "be8e2e87-7a7c-46cd-95aa-3a5436a3b82a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T17:54:32Z"
+          "lastCheckedAt": "2026-10-22T03:56:14Z"
         }
       ]
     },
@@ -1551,7 +1597,7 @@
             "1c895922-3b7c-4fdf-91ee-3bb071750830"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:42:42Z"
+          "lastCheckedAt": "2026-10-21T23:08:04Z"
         }
       ]
     },
@@ -1634,7 +1680,7 @@
             "9cd8439a-00ec-44ec-9172-eed18e86d8a2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:04:04Z"
+          "lastCheckedAt": "2026-10-22T03:26:52Z"
         }
       ]
     },
@@ -1831,7 +1877,7 @@
             "6b9d44bb-2628-11e9-a80b-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:23:27Z"
+          "lastCheckedAt": "2026-10-22T01:19:56Z"
         }
       ]
     },
@@ -1958,7 +2004,7 @@
             "5daccbf1-d500-434a-b39f-1e771ebebf54"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:18:22Z"
+          "lastCheckedAt": "2026-10-21T23:52:10Z"
         }
       ]
     },
@@ -1995,7 +2041,7 @@
             "48bdff19-f367-409a-b965-9825393dbe2d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T08:14:09Z"
+          "lastCheckedAt": "2026-10-22T08:27:24Z"
         }
       ]
     },
@@ -2069,7 +2115,7 @@
             "95bc2280-86fe-480b-9354-a4b484dc1039"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:34:31Z"
+          "lastCheckedAt": "2026-10-22T07:03:04Z"
         }
       ]
     },
@@ -2279,7 +2325,7 @@
             "a96eb618-1e83-4513-9165-b21a19477d90"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:48:18Z"
+          "lastCheckedAt": "2026-10-22T01:11:58Z"
         }
       ]
     },
@@ -2318,7 +2364,7 @@
             "a0910224-dfca-4a2d-8693-f0e86b28d148"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:13:24Z"
+          "lastCheckedAt": "2026-10-22T05:19:08Z"
         }
       ]
     },
@@ -2435,7 +2481,7 @@
             "43680e4a-c5b9-46ff-b79e-2dfa24118b76"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:52:45Z"
+          "lastCheckedAt": "2026-10-22T02:49:50Z"
         }
       ]
     },
@@ -2594,7 +2640,7 @@
             "TH:muslim"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:52:02Z"
+          "lastCheckedAt": "2026-10-22T02:20:32Z"
         }
       ]
     },
@@ -2756,7 +2802,7 @@
             "8ed3ae14-1b53-4469-a8f8-be2be28af043"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:11:49Z"
+          "lastCheckedAt": "2026-10-22T00:01:52Z"
         }
       ]
     },
@@ -2856,7 +2902,7 @@
             "TW:supreme-master-tv"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:32:46Z"
+          "lastCheckedAt": "2026-10-22T07:42:33Z"
         }
       ]
     },
@@ -2883,7 +2929,7 @@
           "country": "US",
           "url": "http://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8",
           "codec": "aac",
-          "bitrate": 2424,
+          "bitrate": 2417,
           "protocol": "http",
           "hls": true,
           "sources": [
@@ -2893,7 +2939,7 @@
             "8dd07fce-2782-11e9-a80b-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:03:17Z"
+          "lastCheckedAt": "2026-10-22T03:10:11Z"
         }
       ]
     }

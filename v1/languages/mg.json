@@ -1,6 +1,6 @@
 {
   "code": "mg",
-  "stationCount": 3,
+  "stationCount": 4,
   "stations": [
     {
       "id": "awb_b8aa2c314bd3810163db",
@@ -134,7 +134,46 @@
             "1b34da1a-246d-4fcb-9d33-1af386e1c064"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:06:07Z"
+          "lastCheckedAt": "2026-10-22T05:21:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e95e4b0fdefc2101682f",
+      "name": "Tropicast Radio Station",
+      "country": "MG",
+      "subdivision": "Vakinakaratra",
+      "languages": [
+        "mg"
+      ],
+      "categories": [],
+      "tags": [
+        "music"
+      ],
+      "homepage": "https://www.tropicastradio.com/",
+      "favicon": "https://www.tropicastradio.com/tropicast-logo-256.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-21T11:44:08Z",
+      "streams": [
+        {
+          "id": "aws_980f71d8d0a584047a65",
+          "stationId": "awb_e95e4b0fdefc2101682f",
+          "name": "Tropicast Radio Station",
+          "country": "MG",
+          "url": "https://listen.tropicastradio.com/stations/gwjhbnsfzq/live.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e8069927-39e7-4589-8f92-75cad36f3f5a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T17:04:50Z"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "id": "metal",
-  "stationCount": 607,
+  "stationCount": 609,
   "stations": [
     {
       "id": "awb_a6c7862f1c537f319206",
@@ -39,7 +39,7 @@
             "1b11baf5-e16e-45ac-bf81-cd8b28db7837"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:30:21Z"
+          "lastCheckedAt": "2026-10-22T03:33:38Z"
         }
       ]
     },
@@ -88,7 +88,7 @@
             "d7b6cb10-52e8-485c-9e38-5fcdad55aa90"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:38:58Z"
+          "lastCheckedAt": "2026-10-22T00:43:21Z"
         }
       ]
     },
@@ -130,7 +130,7 @@
             "f41fc2e8-94ef-4c9e-b799-97b90c99e85a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:17:49Z"
+          "lastCheckedAt": "2026-10-22T05:51:44Z"
         }
       ]
     },
@@ -290,7 +290,7 @@
             "AE:rock-the-world-heavy-metal"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:53:19Z"
+          "lastCheckedAt": "2026-10-21T23:15:37Z"
         }
       ]
     },
@@ -382,7 +382,7 @@
             "27d8066d-3745-4fea-8d9b-90bbe50a3be8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:36:31Z"
+          "lastCheckedAt": "2026-10-22T08:23:19Z"
         }
       ]
     },
@@ -468,7 +468,70 @@
             "280c9416-d55b-4a88-a19c-23ddbb83e12d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:13:47Z"
+          "lastCheckedAt": "2026-10-22T06:43:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_228886e1a438f523c9bf",
+      "name": "Metal Radio",
+      "country": "AT",
+      "subdivision": "Vienna",
+      "languages": [],
+      "categories": [
+        "metal"
+      ],
+      "tags": [
+        "128 kbps",
+        "heavy metal",
+        "metal",
+        "mp3"
+      ],
+      "homepage": "https://metal-radio.at/",
+      "favicon": "https://metal-radio.at/assets/logo-D4TNgK9S.svg",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-10-21T13:25:33Z",
+      "streams": [
+        {
+          "id": "aws_502bdd281d7c437ee6ee",
+          "stationId": "awb_228886e1a438f523c9bf",
+          "name": "Metal Radio",
+          "country": "AT",
+          "url": "https://stream.radiotechnikum.at:80/METALRadio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "115699be-d038-46fc-ac1e-fffbe730b898"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T17:04:50Z"
+        },
+        {
+          "id": "aws_da2f682584a73760961c",
+          "stationId": "awb_228886e1a438f523c9bf",
+          "name": "Metal Radio",
+          "country": "AT",
+          "url": "https://stream.radiotechnikum.at/METALRadio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser",
+            "verified-radio-streams"
+          ],
+          "sourceIds": [
+            "820b81db-6ca9-4af9-8938-e9ad8055bd41",
+            "AT:metal-radio-2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-17T18:57:29Z"
         }
       ]
     },
@@ -509,7 +572,7 @@
             "d6316691-8619-42ae-8dbb-75dfdd7a7eb5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:09:26Z"
+          "lastCheckedAt": "2026-10-22T05:19:08Z"
         }
       ]
     },
@@ -540,7 +603,7 @@
           "stationId": "awb_1692dd14651a32da86ed",
           "name": "Rockantenne Österreich live",
           "country": "AT",
-          "url": "https://s7-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp",
+          "url": "https://s3-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp",
           "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
@@ -552,7 +615,7 @@
             "9169bc9b-cfca-45c1-bc06-c1ad826a3245"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:09:17Z"
+          "lastCheckedAt": "2026-10-22T02:11:57Z"
         }
       ]
     },
@@ -594,7 +657,7 @@
             "5bb5a826-0579-44f2-9987-149d5bb018a9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:09:45Z"
+          "lastCheckedAt": "2026-10-22T01:17:51Z"
         },
         {
           "id": "aws_fb38faca578295cc4d84",
@@ -696,7 +759,7 @@
             "d47885d3-407f-4d05-bdb1-66a15c49c0cf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:49:57Z"
+          "lastCheckedAt": "2026-10-22T02:11:57Z"
         }
       ]
     },
@@ -884,7 +947,7 @@
             "ca39d796-807b-4641-92a0-3684769f145a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:34:43Z"
+          "lastCheckedAt": "2026-10-21T21:47:51Z"
         }
       ]
     },
@@ -975,7 +1038,7 @@
             "63dc20d1-47f3-43c4-bac6-25fb474ca71d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:36:27Z"
+          "lastCheckedAt": "2026-10-22T02:49:50Z"
         }
       ]
     },
@@ -1034,7 +1097,7 @@
             "82da11bc-03d8-4b18-b851-892d287a28cd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T17:08:42Z"
+          "lastCheckedAt": "2026-10-22T08:37:01Z"
         },
         {
           "id": "aws_f98df153f04bfefff78b",
@@ -1174,7 +1237,7 @@
             "f3046015-246d-4175-ad7f-718a0cc8a393"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:36:11Z"
+          "lastCheckedAt": "2026-10-22T02:03:37Z"
         }
       ]
     },
@@ -1242,7 +1305,7 @@
             "BA:patrisamato-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T20:41:41Z"
+          "lastCheckedAt": "2026-10-22T08:16:27Z"
         }
       ]
     },
@@ -1326,7 +1389,7 @@
             "6ce6ede8-f66b-4e10-aa9d-5327b9afdafa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:10:48Z"
+          "lastCheckedAt": "2026-10-21T23:14:41Z"
         }
       ]
     },
@@ -1468,7 +1531,7 @@
             "92e4950e-b1e3-4d62-af16-b884105257e2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:08:56Z"
+          "lastCheckedAt": "2026-10-22T05:19:08Z"
         }
       ]
     },
@@ -1539,7 +1602,7 @@
       "favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg",
       "type": null,
       "sourceCount": 1,
-      "updatedAt": "2026-10-17T02:38:20Z",
+      "updatedAt": "2026-10-22T02:47:38Z",
       "streams": [
         {
           "id": "aws_c6f6b0a650f1ba1de997",
@@ -1558,7 +1621,7 @@
             "6010ee2f-c88e-4ee6-a2a1-1c1526cc48ca"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:38:21Z"
+          "lastCheckedAt": "2026-10-22T02:47:40Z"
         }
       ]
     },
@@ -1666,7 +1729,7 @@
             "51408d80-4b67-40e0-9617-671759799c2b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:13:24Z"
+          "lastCheckedAt": "2026-10-22T06:07:34Z"
         }
       ]
     },
@@ -1801,7 +1864,7 @@
       "favicon": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg",
       "type": null,
       "sourceCount": 3,
-      "updatedAt": "2026-10-17T07:20:45Z",
+      "updatedAt": "2026-10-22T06:48:24Z",
       "streams": [
         {
           "id": "aws_0c4f60c955c346dc31b6",
@@ -1820,7 +1883,7 @@
             "9618ac6b-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:44:54Z"
+          "lastCheckedAt": "2026-10-21T23:46:16Z"
         },
         {
           "id": "aws_c9e4b7e6ad3a9fc921ab",
@@ -1839,7 +1902,7 @@
             "bd8a6b13-7a0e-4a07-b4bb-ed6c18aab910"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:55:53Z"
+          "lastCheckedAt": "2026-10-22T06:48:26Z"
         },
         {
           "id": "aws_a4db97acbe66ffc152d4",
@@ -1858,7 +1921,7 @@
             "8677e3a3-291f-4608-9c50-5a9f50e91b0e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:20:47Z"
+          "lastCheckedAt": "2026-10-22T07:42:33Z"
         }
       ]
     },
@@ -1998,7 +2061,7 @@
             "BR:metal-heads"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:23:27Z"
+          "lastCheckedAt": "2026-10-22T00:35:44Z"
         }
       ]
     },
@@ -2046,7 +2109,7 @@
             "3e2eab95-8b83-4afb-abf3-7b0f23bb37b3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:05:37Z"
+          "lastCheckedAt": "2026-10-22T04:28:53Z"
         },
         {
           "id": "aws_a8299aa7314385a7e4ee",
@@ -2065,7 +2128,7 @@
             "4340f942-c877-4b60-9d2e-e628db62f761"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:02:49Z"
+          "lastCheckedAt": "2026-10-22T04:28:53Z"
         }
       ]
     },
@@ -2210,7 +2273,7 @@
             "763ee8a1-b002-4f5c-a9d4-2d3db4d01cef"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:58:43Z"
+          "lastCheckedAt": "2026-10-22T04:11:00Z"
         }
       ]
     },
@@ -2431,7 +2494,7 @@
             "d0df2a51-9cd3-4f3e-977d-aab92ddef7a3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:33:10Z"
+          "lastCheckedAt": "2026-10-22T00:38:34Z"
         }
       ]
     },
@@ -2629,7 +2692,7 @@
             "768a27cc-bb26-11e9-acb2-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:56:59Z"
+          "lastCheckedAt": "2026-10-22T05:24:51Z"
         },
         {
           "id": "aws_96544ea03a0647ab0bdc",
@@ -2740,7 +2803,7 @@
             "CA:irock24-7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T20:37:45Z"
+          "lastCheckedAt": "2026-10-22T06:18:41Z"
         }
       ]
     },
@@ -2786,7 +2849,7 @@
             "64df75e8-d9c0-420d-9e8c-97762ecf5a26"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:18:40Z"
+          "lastCheckedAt": "2026-10-22T02:14:06Z"
         },
         {
           "id": "aws_6ef6d316d80562b8e3c6",
@@ -2887,7 +2950,7 @@
             "d3270e0c-5371-435c-8479-b543511d397f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T23:02:00Z"
+          "lastCheckedAt": "2026-10-22T03:51:51Z"
         }
       ]
     },
@@ -3016,7 +3079,7 @@
             "19052118-563f-4793-8a4c-9f009de0b00f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:54:17Z"
+          "lastCheckedAt": "2026-10-22T03:05:00Z"
         }
       ]
     },
@@ -3152,7 +3215,7 @@
             "CH:gnu-radio-metal-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:34:54Z"
+          "lastCheckedAt": "2026-10-22T05:48:41Z"
         }
       ]
     },
@@ -3218,7 +3281,7 @@
             "CH:radio-drachenblut"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:17:37Z"
+          "lastCheckedAt": "2026-10-22T07:03:04Z"
         }
       ]
     },
@@ -3264,7 +3327,7 @@
             "69e0e4bd-f32a-11e9-a96c-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:49:21Z"
+          "lastCheckedAt": "2026-10-22T05:14:54Z"
         }
       ]
     },
@@ -3312,7 +3375,7 @@
             "f95f4310-ff8c-4106-9b8e-18f05e594f1f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:42:09Z"
+          "lastCheckedAt": "2026-10-21T21:51:30Z"
         }
       ]
     },
@@ -3353,7 +3416,7 @@
             "af6b817a-2eda-4276-aaf0-9b010890ee40"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:17:49Z"
+          "lastCheckedAt": "2026-10-22T06:54:32Z"
         }
       ]
     },
@@ -3399,7 +3462,7 @@
             "52b2808c-af59-4e5a-8458-b0c7ed71ffc5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:34:43Z"
+          "lastCheckedAt": "2026-10-21T21:47:51Z"
         },
         {
           "id": "aws_e03c9ade34cd84977483",
@@ -3420,7 +3483,7 @@
             "CL:distorsion-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:44:24Z"
+          "lastCheckedAt": "2026-10-21T21:51:30Z"
         }
       ]
     },
@@ -3456,7 +3519,7 @@
           "country": "CL",
           "url": "https://cl-a9-p-e-pt11-audio.cdn.mdstrm.com/live-audio/5c0efabde4c87f3f2d3e8036/5de7fdb07e2fde0798203821/playlist.m3u8?aid=5c0efabde4c87f3f2d3e8036&pid=y17ljD0047v09HO15qERoDg1IHF4CMPc&sid=idOANFonoPKF755oWzoId1suQeSvQFai&uid=5bO0dwJoxlycdbJSRZf6jhlZ1cuSVVAK&es=cl-a9-p-e-pt11-audio.cdn.mdstrm.com&ote=1770300062726&ot=-zwH-pCa0tfwVqKtapOryA&proto=https&pz=us&cP=128000",
           "codec": "aac",
-          "bitrate": 109,
+          "bitrate": 111,
           "protocol": "https",
           "hls": true,
           "sources": [
@@ -3466,7 +3529,7 @@
             "091790a1-0f81-4cac-abd4-40a1c437cf3d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:45:14Z"
+          "lastCheckedAt": "2026-10-22T08:27:24Z"
         }
       ]
     },
@@ -3611,7 +3674,7 @@
             "d9c4d0d1-c74a-40eb-9643-4387608e7de1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:29:01Z"
+          "lastCheckedAt": "2026-10-22T05:14:54Z"
         }
       ]
     },
@@ -3781,7 +3844,7 @@
             "CO:maximusrockfm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:10:05Z"
+          "lastCheckedAt": "2026-10-22T08:27:24Z"
         }
       ]
     },
@@ -3981,7 +4044,7 @@
             "CR:tiquicia-rock"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:16:06Z"
+          "lastCheckedAt": "2026-10-22T07:27:26Z"
         }
       ]
     },
@@ -4009,7 +4072,7 @@
       "favicon": "https://stream.deecibel.com/rock_logo.png",
       "type": null,
       "sourceCount": 2,
-      "updatedAt": "2026-10-17T01:30:25Z",
+      "updatedAt": "2026-10-22T01:39:19Z",
       "streams": [
         {
           "id": "aws_f20a5d146d140ba66318",
@@ -4030,7 +4093,7 @@
             "CZ:deecibel-rock-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:30:27Z"
+          "lastCheckedAt": "2026-10-22T01:39:21Z"
         }
       ]
     },
@@ -4136,7 +4199,7 @@
             "fd85ae48-f7ae-4e77-91f0-aac9160fcdd4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T12:50:34Z"
+          "lastCheckedAt": "2026-10-21T21:47:51Z"
         }
       ]
     },
@@ -4201,7 +4264,7 @@
             "CZ:radio-fonlord"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T18:54:29Z"
+          "lastCheckedAt": "2026-10-22T00:09:47Z"
         }
       ]
     },
@@ -4247,7 +4310,7 @@
             "c9b32b22-7823-11e9-aa30-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:32:22Z"
+          "lastCheckedAt": "2026-10-22T00:14:56Z"
         }
       ]
     },
@@ -4299,7 +4362,7 @@
             "3446b04f-839f-4367-b119-b85842787b97"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:48:18Z"
+          "lastCheckedAt": "2026-10-22T00:55:52Z"
         }
       ]
     },
@@ -4394,7 +4457,7 @@
             "2ce54668-bb2c-4361-ab49-c54a6672d30e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:17:37Z"
+          "lastCheckedAt": "2026-10-22T06:31:55Z"
         }
       ]
     },
@@ -4451,7 +4514,7 @@
             "DE:wackenradio-by-rautemusik-rm-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:01:33Z"
+          "lastCheckedAt": "2026-10-22T05:51:44Z"
         }
       ]
     },
@@ -4566,7 +4629,7 @@
             "b4ff9d51-f362-11e8-a471-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:35:34Z"
+          "lastCheckedAt": "2026-10-22T01:37:56Z"
         },
         {
           "id": "aws_a62a44f053689b7ed818",
@@ -4734,7 +4797,7 @@
           "stationId": "awb_1d6b28f87968fa058934",
           "name": "100Rock",
           "country": "DE",
-          "url": "http://100rock.stream.laut.fm/100rock?t302=2026-10-16_23-12-19&uuid=c4b6e077-435b-9f2d-fd58-78fff48fb135",
+          "url": "http://100rock.stream.laut.fm/100rock?t302=2026-10-21_23-41-44&uuid=2d5fd861-3208-44ea-3da7-f2eff85e4e1b",
           "codec": "mp3",
           "bitrate": 128,
           "protocol": "http",
@@ -4746,7 +4809,7 @@
             "c5bc9dde-3059-11e9-8f31-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:13:00Z"
+          "lastCheckedAt": "2026-10-21T21:43:11Z"
         }
       ]
     },
@@ -4789,7 +4852,7 @@
             "08529083-aab7-47f6-96d4-2e3f682f7ef4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:08:36Z"
+          "lastCheckedAt": "2026-10-22T07:23:03Z"
         }
       ]
     },
@@ -4878,7 +4941,7 @@
             "9626c92b-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:38:42Z"
+          "lastCheckedAt": "2026-10-22T06:43:01Z"
         }
       ]
     },
@@ -5248,7 +5311,7 @@
             "c91b66dd-0797-4662-a5d3-f406ffc32da8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T16:13:52Z"
+          "lastCheckedAt": "2026-10-22T05:51:44Z"
         }
       ]
     },
@@ -5673,7 +5736,7 @@
             "38b0288f-79be-438f-8da8-ec7cfcd6cb2d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:17:49Z"
+          "lastCheckedAt": "2026-10-22T06:14:38Z"
         }
       ]
     },
@@ -6002,7 +6065,7 @@
             "805753dd-3431-4fb1-8c35-b88e0192c54e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:41:04Z"
+          "lastCheckedAt": "2026-10-22T00:48:45Z"
         }
       ]
     },
@@ -6308,7 +6371,7 @@
             "3a732f11-95fc-401c-bbb4-63e791652da1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:04:47Z"
+          "lastCheckedAt": "2026-10-22T04:38:58Z"
         }
       ]
     },
@@ -6725,7 +6788,7 @@
             "da88f032-a594-4f23-8293-ab8525e75a6e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:34:32Z"
+          "lastCheckedAt": "2026-10-22T08:05:55Z"
         }
       ]
     },
@@ -6883,7 +6946,7 @@
             "b9298c3b-6e85-4f68-9bd3-ff9eba2eda01"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:31:30Z"
+          "lastCheckedAt": "2026-10-22T04:52:50Z"
         }
       ]
     },
@@ -6967,7 +7030,7 @@
             "7e7602f5-4fac-4c32-ba32-b015bef00d0d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:35:34Z"
+          "lastCheckedAt": "2026-10-22T03:26:52Z"
         }
       ]
     },
@@ -7235,7 +7298,7 @@
             "24be25e7-bb5d-4f18-a0ff-43bd993ebabb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:40:51Z"
+          "lastCheckedAt": "2026-10-22T06:09:50Z"
         }
       ]
     },
@@ -7323,7 +7386,7 @@
             "5676ffa5-d687-4df9-823b-ecd591caa4ee"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:26:07Z"
+          "lastCheckedAt": "2026-10-22T08:18:27Z"
         }
       ]
     },
@@ -7376,7 +7439,7 @@
             "c5f3acc5-6cd6-4094-b2f2-d5d54d632884"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:22:05Z"
+          "lastCheckedAt": "2026-10-22T08:33:42Z"
         }
       ]
     },
@@ -7726,7 +7789,7 @@
             "148531bd-d12e-4c16-a2b4-579fea921edd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:22:27Z"
+          "lastCheckedAt": "2026-10-21T23:25:27Z"
         }
       ]
     },
@@ -7772,7 +7835,7 @@
             "c0646941-d526-44c2-ad99-dbb793678055"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:37:29Z"
+          "lastCheckedAt": "2026-10-21T23:54:13Z"
         },
         {
           "id": "aws_1ba401fb5ba635866029",
@@ -7841,7 +7904,7 @@
             "4579447c-baff-4d5b-84ee-26c8acdf8498"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T22:31:10Z"
+          "lastCheckedAt": "2026-10-22T08:16:27Z"
         }
       ]
     },
@@ -7888,7 +7951,7 @@
             "ded8a29a-786e-4350-bb81-dd3c516b7d3b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T08:02:40Z"
+          "lastCheckedAt": "2026-10-22T08:27:24Z"
         }
       ]
     },
@@ -7935,7 +7998,7 @@
             "cc6b4cf5-82f1-44e7-bf3c-c68ef6d06a1f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T21:24:04Z"
+          "lastCheckedAt": "2026-10-22T06:50:20Z"
         }
       ]
     },
@@ -7979,7 +8042,7 @@
             "4723a254-2bc1-442d-9ddd-7debc003370f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:27:18Z"
+          "lastCheckedAt": "2026-10-21T23:57:41Z"
         }
       ]
     },
@@ -8029,7 +8092,7 @@
             "4e8fbccb-479c-46d7-a28c-e941eac966a1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:30:41Z"
+          "lastCheckedAt": "2026-10-21T22:39:14Z"
         }
       ]
     },
@@ -8216,7 +8279,7 @@
             "961f04d0-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:08:21Z"
+          "lastCheckedAt": "2026-10-22T06:13:49Z"
         }
       ]
     },
@@ -8349,7 +8412,7 @@
             "259e410c-b516-11e8-afe1-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T00:23:14Z"
+          "lastCheckedAt": "2026-10-22T04:20:06Z"
         }
       ]
     },
@@ -8392,7 +8455,7 @@
             "cbccd4ff-fbbf-4136-9c64-c01dcee69b2e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T19:23:05Z"
+          "lastCheckedAt": "2026-10-22T03:51:51Z"
         }
       ]
     },
@@ -8521,7 +8584,7 @@
             "51daaa30-b408-4d05-b5b7-a2a3c377b20a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:59:17Z"
+          "lastCheckedAt": "2026-10-22T02:07:36Z"
         }
       ]
     },
@@ -8609,7 +8672,7 @@
             "4dacdece-5cbe-4bc2-b9a1-f9160dfc87c8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:13:47Z"
+          "lastCheckedAt": "2026-10-22T06:34:07Z"
         }
       ]
     },
@@ -8652,7 +8715,7 @@
             "024cf729-92a3-446b-b157-c13e42afafef"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:57:31Z"
+          "lastCheckedAt": "2026-10-22T08:19:16Z"
         }
       ]
     },
@@ -8695,7 +8758,7 @@
             "d2ad5a90-8e73-4dde-b62e-a1f5300c1823"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:31:04Z"
+          "lastCheckedAt": "2026-10-22T02:43:28Z"
         }
       ]
     },
@@ -8787,7 +8850,7 @@
             "77337406-99c4-11e9-a605-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:17:49Z"
+          "lastCheckedAt": "2026-10-22T06:18:42Z"
         }
       ]
     },
@@ -8973,7 +9036,7 @@
             "71a2d7c4-51a3-41e7-b57e-5dc155088156"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:59:24Z"
+          "lastCheckedAt": "2026-10-22T06:20:47Z"
         }
       ]
     },
@@ -9079,7 +9142,7 @@
             "8dc26fca-2006-4960-b493-5f9ee020bf0d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:03:43Z"
+          "lastCheckedAt": "2026-10-22T06:07:34Z"
         }
       ]
     },
@@ -9271,7 +9334,7 @@
             "21a278fb-dac4-433f-aa80-7b74341fb012"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:06:58Z"
+          "lastCheckedAt": "2026-10-22T07:34:38Z"
         }
       ]
     },
@@ -9355,7 +9418,7 @@
             "35ecc442-1ba3-48ff-a874-cacc4e5867c1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T08:07:01Z"
+          "lastCheckedAt": "2026-10-22T08:33:42Z"
         }
       ]
     },
@@ -9399,7 +9462,7 @@
             "3c7f4935-3ec1-49f3-a51e-517337f62594"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:01:16Z"
+          "lastCheckedAt": "2026-10-22T02:54:01Z"
         }
       ]
     },
@@ -9446,7 +9509,7 @@
             "22585394-5294-43c3-897e-ed9e7d480836"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:08:36Z"
+          "lastCheckedAt": "2026-10-22T07:21:09Z"
         },
         {
           "id": "aws_35f3097a27051501c687",
@@ -9643,7 +9706,7 @@
             "9646b5ee-4b98-11e8-a4d1-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:51:38Z"
+          "lastCheckedAt": "2026-10-21T22:15:41Z"
         }
       ]
     },
@@ -9706,7 +9769,7 @@
             "9618cb1f-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:27:02Z"
+          "lastCheckedAt": "2026-10-22T02:11:57Z"
         }
       ]
     },
@@ -9794,7 +9857,7 @@
             "a4c58a3d-64d3-4250-a9eb-63ce24a9dbdb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:32:16Z"
+          "lastCheckedAt": "2026-10-22T08:31:36Z"
         },
         {
           "id": "aws_6a95b84d3c36a394801e",
@@ -9813,7 +9876,7 @@
             "527d90da-4b98-11e8-a4d1-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:46:17Z"
+          "lastCheckedAt": "2026-10-22T00:48:45Z"
         }
       ]
     },
@@ -9866,7 +9929,7 @@
             "0e37ece1-7969-42d9-ac04-13bfdd3e8c10"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T20:39:53Z"
+          "lastCheckedAt": "2026-10-21T21:12:29Z"
         }
       ]
     },
@@ -10006,7 +10069,7 @@
             "18a12030-0b31-449e-9b0b-493a4c57ada7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:46:31Z"
+          "lastCheckedAt": "2026-10-22T05:33:23Z"
         }
       ]
     },
@@ -10050,7 +10113,7 @@
             "735ab714-b14e-4b4c-906c-8371e8cc3965"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:10:48Z"
+          "lastCheckedAt": "2026-10-21T23:25:27Z"
         }
       ]
     },
@@ -10091,7 +10154,7 @@
             "b5042009-fd94-4b87-9b6a-0b4779129d4e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:28:58Z"
+          "lastCheckedAt": "2026-10-22T00:43:21Z"
         }
       ]
     },
@@ -10136,7 +10199,7 @@
             "c96d6308-814c-4970-82c7-957b77bd8a8b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:35:26Z"
+          "lastCheckedAt": "2026-10-21T21:51:30Z"
         },
         {
           "id": "aws_01d78018f9bd92b152e2",
@@ -10155,7 +10218,7 @@
             "a12d24f6-d2b0-4f7c-98ca-6852ff4ef7af"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:52:39Z"
+          "lastCheckedAt": "2026-10-22T06:07:34Z"
         }
       ]
     },
@@ -10197,7 +10260,7 @@
             "0c3a8684-c016-40dc-8c16-59129fe7181d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:36:11Z"
+          "lastCheckedAt": "2026-10-22T01:43:15Z"
         },
         {
           "id": "aws_ad9ed6c1c8b3181072db",
@@ -10537,7 +10600,7 @@
             "39a3b5d6-568a-47fe-b156-74235369d17b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:53:32Z"
+          "lastCheckedAt": "2026-10-21T22:10:27Z"
         },
         {
           "id": "aws_e8dd1328784a8b4ed5b9",
@@ -10636,7 +10699,7 @@
           "name": "Radio Regenbogen - Metal",
           "country": "DE",
           "url": "http://streams.regenbogen.de/rr-metal-128-aac",
-          "codec": "aac",
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "http",
           "hls": false,
@@ -10647,7 +10710,7 @@
             "45efffad-ba3a-4f83-a17e-3f66681eda67"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:31:37Z"
+          "lastCheckedAt": "2026-10-21T23:45:25Z"
         },
         {
           "id": "aws_c87bfd8b8d8cc631f88d",
@@ -10666,7 +10729,7 @@
             "4fd93041-0125-11e9-a1be-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:32:17Z"
+          "lastCheckedAt": "2026-10-22T07:21:09Z"
         }
       ]
     },
@@ -10716,7 +10779,7 @@
             "83068b20-0681-46ad-ade4-a810990e7694"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:42:23Z"
+          "lastCheckedAt": "2026-10-22T01:56:19Z"
         }
       ]
     },
@@ -10984,7 +11047,7 @@
             "2e3a581d-19f1-4ed1-ba3d-067f4c66819f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:46:16Z"
+          "lastCheckedAt": "2026-10-22T04:11:00Z"
         }
       ]
     },
@@ -11165,7 +11228,7 @@
             "84e59828-e5d5-4b8e-ae9a-aa61e517b21c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:04:02Z"
+          "lastCheckedAt": "2026-10-22T03:33:38Z"
         }
       ]
     },
@@ -11232,7 +11295,7 @@
             "DE:rock-antenne-heavy-metal-2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:46:17Z"
+          "lastCheckedAt": "2026-10-22T01:04:32Z"
         }
       ]
     },
@@ -11275,7 +11338,7 @@
             "f8b20bea-61d6-4c96-bf9d-d6287a5ec69b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:30:41Z"
+          "lastCheckedAt": "2026-10-21T23:08:04Z"
         }
       ]
     },
@@ -11363,7 +11426,7 @@
             "acb5c97f-b572-4820-bf05-054b4f4ce413"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T23:25:37Z"
+          "lastCheckedAt": "2026-10-22T01:16:54Z"
         },
         {
           "id": "aws_2b03f538a858dbb04f6d",
@@ -11618,7 +11681,7 @@
             "c3e19107-591e-4b35-a1fc-90045eafc3a7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:43:31Z"
+          "lastCheckedAt": "2026-10-22T02:03:37Z"
         }
       ]
     },
@@ -11661,7 +11724,7 @@
             "ae648419-2ac9-431d-8933-deb732ad6c9c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:57:55Z"
+          "lastCheckedAt": "2026-10-22T04:13:29Z"
         }
       ]
     },
@@ -11749,7 +11812,7 @@
             "db4b93eb-cb4e-43d7-abdc-2e8dd2d249ea"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:14:01Z"
+          "lastCheckedAt": "2026-10-22T07:29:40Z"
         }
       ]
     },
@@ -12087,7 +12150,7 @@
             "a5e81303-c397-462a-adc0-b9c2ecf51d65"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:45:00Z"
+          "lastCheckedAt": "2026-10-22T06:05:20Z"
         },
         {
           "id": "aws_3c94f9ea2d02b757d5bc",
@@ -12205,7 +12268,7 @@
             "1050d0fc-06af-4269-ad04-ff751dda8039"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:16:04Z"
+          "lastCheckedAt": "2026-10-22T03:33:38Z"
         }
       ]
     },
@@ -12290,7 +12353,7 @@
             "d319451e-4dc5-433f-8046-8ba1437b74c2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:19:46Z"
+          "lastCheckedAt": "2026-10-22T06:25:31Z"
         }
       ]
     },
@@ -12330,7 +12393,7 @@
             "871304a3-cf31-4a4a-850c-c1cb898ff2ad"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:34:31Z"
+          "lastCheckedAt": "2026-10-22T06:54:32Z"
         }
       ]
     },
@@ -12484,7 +12547,7 @@
             "3738fc9e-2c16-11e8-91bf-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:22:02Z"
+          "lastCheckedAt": "2026-10-21T21:31:04Z"
         }
       ]
     },
@@ -12583,7 +12646,7 @@
             "b60c41f0-f041-4146-bcca-88d03775e0a2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:15:38Z"
+          "lastCheckedAt": "2026-10-22T05:48:41Z"
         }
       ]
     },
@@ -12865,7 +12928,7 @@
             "cbb233ad-fad1-46e1-b89b-9389f457f204"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:19:10Z"
+          "lastCheckedAt": "2026-10-21T21:31:04Z"
         }
       ]
     },
@@ -12954,7 +13017,7 @@
             "cfebf081-ff18-4a32-b053-726b0fcfe64f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T00:53:43Z"
+          "lastCheckedAt": "2026-10-22T00:14:56Z"
         }
       ]
     },
@@ -13046,7 +13109,7 @@
             "78b84693-1439-45a1-99ca-2d505ebaf7a6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:08:21Z"
+          "lastCheckedAt": "2026-10-22T07:19:31Z"
         },
         {
           "id": "aws_ad6e88a18c4c6afd4bea",
@@ -13065,7 +13128,7 @@
             "c8b240ad-1e4c-470e-a5dc-7e48915c4564"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:30:27Z"
+          "lastCheckedAt": "2026-10-22T05:56:03Z"
         }
       ]
     },
@@ -13105,7 +13168,7 @@
             "a60a0243-00bd-492d-8802-7cf4b97e9e24"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:59:17Z"
+          "lastCheckedAt": "2026-10-22T02:47:40Z"
         }
       ]
     },
@@ -13157,7 +13220,7 @@
             "4ebb31d1-b195-487c-8d99-b44ebe2cf4be"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:29:16Z"
+          "lastCheckedAt": "2026-10-22T07:23:03Z"
         }
       ]
     },
@@ -13223,7 +13286,7 @@
             "05232733-7804-47c4-b9d8-b570739900c7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:11:52Z"
+          "lastCheckedAt": "2026-10-22T03:37:49Z"
         },
         {
           "id": "aws_5f9d50a30460dc53c2b8",
@@ -13264,7 +13327,7 @@
             "4cf612b0-bb58-42f3-9353-a41ecae2fd23"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T09:46:17Z"
+          "lastCheckedAt": "2026-10-22T05:02:00Z"
         }
       ]
     },
@@ -13308,7 +13371,7 @@
             "e389696c-5217-43d3-aa41-bc3c5b52f049"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:29:11Z"
+          "lastCheckedAt": "2026-10-21T21:47:05Z"
         }
       ]
     },
@@ -13568,7 +13631,7 @@
             "FR:la-grosse-radio-metal"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:32:35Z"
+          "lastCheckedAt": "2026-10-21T22:35:58Z"
         }
       ]
     },
@@ -13659,7 +13722,7 @@
             "f5b5ec12-50bf-47cf-aab8-5f7fdedd465b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:28:54Z"
+          "lastCheckedAt": "2026-10-22T00:02:49Z"
         }
       ]
     },
@@ -13703,7 +13766,7 @@
             "5b8a7ecb-3755-4f3a-b4d0-e68a0fdeb065"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:00:42Z"
+          "lastCheckedAt": "2026-10-22T01:57:05Z"
         }
       ]
     },
@@ -13749,7 +13812,7 @@
             "8cef7e65-d5bc-427d-917a-f65a22b50126"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T16:31:13Z"
+          "lastCheckedAt": "2026-10-21T21:47:05Z"
         },
         {
           "id": "aws_753d125fd64921b664d0",
@@ -13817,7 +13880,7 @@
             "d27842b3-97d8-4be7-9152-503167301955"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:38:29Z"
+          "lastCheckedAt": "2026-10-22T05:17:02Z"
         }
       ]
     },
@@ -14003,7 +14066,7 @@
             "e1302232-248d-4433-88c6-c12b1bfafc81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:49:28Z"
+          "lastCheckedAt": "2026-10-21T21:58:31Z"
         }
       ]
     },
@@ -14188,7 +14251,7 @@
             "ee95b138-614c-45ce-b0be-3603b13516f3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:20:47Z"
+          "lastCheckedAt": "2026-10-22T08:08:04Z"
         }
       ]
     },
@@ -14230,7 +14293,7 @@
             "364dc635-5007-4a75-aeac-d9e6e1c856bb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:58:23Z"
+          "lastCheckedAt": "2026-10-21T23:16:29Z"
         }
       ]
     },
@@ -14271,7 +14334,7 @@
             "d220916c-2d5c-48de-a785-b4a466ec790b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:17:37Z"
+          "lastCheckedAt": "2026-10-22T08:05:55Z"
         }
       ]
     },
@@ -14447,7 +14510,7 @@
             "1c6dcd6f-88c6-4fd4-8191-078435168e85"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:25:05Z"
+          "lastCheckedAt": "2026-10-22T08:16:27Z"
         },
         {
           "id": "aws_a08076f635340597396d",
@@ -14466,7 +14529,7 @@
             "19da0207-9c0a-4697-a0db-4571f8354af8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:36:57Z"
+          "lastCheckedAt": "2026-10-22T00:43:21Z"
         }
       ]
     },
@@ -14509,7 +14572,7 @@
             "cdd8697c-2872-42a2-ae98-c79371310bdc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:46:31Z"
+          "lastCheckedAt": "2026-10-22T04:01:27Z"
         },
         {
           "id": "aws_c09347e16a255a444038",
@@ -14528,7 +14591,7 @@
             "c936b88e-e00a-49f9-a700-1fb3a0916c35"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:38:21Z"
+          "lastCheckedAt": "2026-10-22T03:42:04Z"
         }
       ]
     },
@@ -14671,7 +14734,7 @@
             "782ddb56-6e35-4e77-8178-362bcfd8ec55"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:54:20Z"
+          "lastCheckedAt": "2026-10-22T04:52:50Z"
         },
         {
           "id": "aws_40a2bb4a49ffc8059afe",
@@ -14690,7 +14753,7 @@
             "54a71ddd-f509-40a5-98d8-0a1c9879fb4d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:08:40Z"
+          "lastCheckedAt": "2026-10-21T23:52:10Z"
         }
       ]
     },
@@ -14736,7 +14799,7 @@
             "304088e0-9e01-458a-bdcd-3c7d6dadaed8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:44:38Z"
+          "lastCheckedAt": "2026-10-21T22:59:53Z"
         }
       ]
     },
@@ -14918,7 +14981,7 @@
             "94a47b3a-1808-4ecf-8a6f-8b80ee80878c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:49:06Z"
+          "lastCheckedAt": "2026-10-22T00:04:49Z"
         }
       ]
     },
@@ -15075,7 +15138,7 @@
             "GB:the-voice-of-doom"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:17:49Z"
+          "lastCheckedAt": "2026-10-22T05:48:41Z"
         }
       ]
     },
@@ -15118,7 +15181,7 @@
             "f5ad6af1-f4f8-4bee-8620-c7c6accf1ae4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T12:50:34Z"
+          "lastCheckedAt": "2026-10-21T23:14:41Z"
         }
       ]
     },
@@ -15162,7 +15225,7 @@
             "GB:totalrock-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T14:43:35Z"
+          "lastCheckedAt": "2026-10-22T06:11:44Z"
         }
       ]
     },
@@ -15208,7 +15271,7 @@
             "GR:1055-rock-thessaloniki"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:53:19Z"
+          "lastCheckedAt": "2026-10-21T23:27:24Z"
         },
         {
           "id": "aws_ec0d916c1d504ebdd18b",
@@ -15406,7 +15469,7 @@
             "43d164bc-589c-4429-b5c4-0bc7e7c5c5f0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:17:13Z"
+          "lastCheckedAt": "2026-10-21T21:31:04Z"
         }
       ]
     },
@@ -15467,7 +15530,7 @@
             "f40c5137-2113-4782-a285-a0427c6a99bc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:47:51Z"
+          "lastCheckedAt": "2026-10-22T02:14:06Z"
         }
       ]
     },
@@ -15567,7 +15630,7 @@
             "6e349a60-7e62-4f63-9686-d5c4fa00fc7b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:06:47Z"
+          "lastCheckedAt": "2026-10-22T05:41:29Z"
         },
         {
           "id": "aws_07198dc39826727c10fc",
@@ -15687,7 +15750,7 @@
             "54340297-7ceb-4ac0-80db-79bf534303ff"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:13:24Z"
+          "lastCheckedAt": "2026-10-21T23:45:25Z"
         }
       ]
     },
@@ -15771,7 +15834,7 @@
             "4512f735-bea8-11e9-8502-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:47:10Z"
+          "lastCheckedAt": "2026-10-21T22:53:18Z"
         },
         {
           "id": "aws_89b507568e80c5d9cffc",
@@ -15792,7 +15855,7 @@
             "HU:rocker-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:33:01Z"
+          "lastCheckedAt": "2026-10-21T23:59:35Z"
         }
       ]
     },
@@ -16190,7 +16253,7 @@
             "ID:mash"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:34:20Z"
+          "lastCheckedAt": "2026-10-22T05:29:08Z"
         }
       ]
     },
@@ -16233,7 +16296,7 @@
             "f9621d68-052b-454b-8fa4-a7708ab409f5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:30:55Z"
+          "lastCheckedAt": "2026-10-22T00:31:52Z"
         }
       ]
     },
@@ -16315,7 +16378,7 @@
             "ID:metalcore"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:51:36Z"
+          "lastCheckedAt": "2026-10-22T04:06:23Z"
         }
       ]
     },
@@ -16395,7 +16458,7 @@
             "c55bf329-a746-448e-bdf9-8554b83e4055"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:11:52Z"
+          "lastCheckedAt": "2026-10-22T03:49:15Z"
         }
       ]
     },
@@ -16440,7 +16503,7 @@
             "6bd67acb-e99e-4673-8270-19d55935be2a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:41:39Z"
+          "lastCheckedAt": "2026-10-21T22:44:08Z"
         }
       ]
     },
@@ -16575,7 +16638,7 @@
             "e77ab056-eda4-4438-8e0f-6e8522e75343"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T08:15:00Z"
+          "lastCheckedAt": "2026-10-22T08:25:13Z"
         }
       ]
     },
@@ -16728,7 +16791,7 @@
             "91995698-64c0-4864-85e9-09504dfee1de"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:08:21Z"
+          "lastCheckedAt": "2026-10-22T03:14:15Z"
         }
       ]
     },
@@ -16795,7 +16858,7 @@
             "8844bdbf-4edc-4a0d-9fff-ce0bc66bbc2e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T16:43:28Z"
+          "lastCheckedAt": "2026-10-21T21:51:30Z"
         }
       ]
     },
@@ -16895,7 +16958,7 @@
             "a1e1e108-0408-47fd-b51c-55974e9111e4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:03:43Z"
+          "lastCheckedAt": "2026-10-22T05:21:19Z"
         }
       ]
     },
@@ -16942,7 +17005,48 @@
             "5c327a56-fc92-41f5-b0ab-701b2e5d3c2a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:20:07Z"
+          "lastCheckedAt": "2026-10-22T03:26:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8a7e8119b7d179374c67",
+      "name": "Metal FM Lebanon",
+      "country": "LB",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "metal"
+      ],
+      "tags": [
+        "metal"
+      ],
+      "homepage": null,
+      "favicon": "https://proxy.zeno.fm/content/stations/af7be76f-5746-485c-b13e-c722d3d589d8/image/?u=1776113711000",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-21T08:04:20Z",
+      "streams": [
+        {
+          "id": "aws_7b3217f207972f063838",
+          "stationId": "awb_8a7e8119b7d179374c67",
+          "name": "Metal FM Lebanon",
+          "country": "LB",
+          "url": "https://stream.zeno.fm/yyiy8r5gcfpvv",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4f420bd6-f547-4d84-acb1-0526f5263151"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T10:49:37Z"
         }
       ]
     },
@@ -16989,7 +17093,7 @@
             "d82775da-f080-44d2-8de0-0effb81db596"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:18:22Z"
+          "lastCheckedAt": "2026-10-21T23:54:13Z"
         }
       ]
     },
@@ -17198,7 +17302,7 @@
             "3f3b2cf1-7569-43b8-b171-2f7f37da8f76"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:42:42Z"
+          "lastCheckedAt": "2026-10-21T23:29:20Z"
         }
       ]
     },
@@ -17541,7 +17645,7 @@
             "c078ce1a-2d32-472a-8b51-3a5b051d09b4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:31:34Z"
+          "lastCheckedAt": "2026-10-22T07:21:09Z"
         }
       ]
     },
@@ -17722,7 +17826,7 @@
             "c5c19438-ae6a-4f82-8038-df424095e575"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T09:11:31Z"
+          "lastCheckedAt": "2026-10-22T07:03:04Z"
         }
       ]
     },
@@ -17922,7 +18026,7 @@
             "ad37b092-f582-4841-8022-bd70b7592067"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:50:59Z"
+          "lastCheckedAt": "2026-10-22T00:10:32Z"
         }
       ]
     },
@@ -18032,7 +18136,7 @@
             "PL:antyradio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T08:49:38Z"
+          "lastCheckedAt": "2026-10-22T00:38:34Z"
         },
         {
           "id": "aws_9e88bdb29aea9a3f575e",
@@ -18119,7 +18223,7 @@
             "bf487b2b-503c-42c3-b088-9b5d679fdf29"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:03:17Z"
+          "lastCheckedAt": "2026-10-22T02:32:47Z"
         }
       ]
     },
@@ -18162,7 +18266,7 @@
             "c3e57425-e517-4d08-90ea-08565adb8add"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T20:39:45Z"
+          "lastCheckedAt": "2026-10-22T01:51:41Z"
         }
       ]
     },
@@ -18203,7 +18307,7 @@
             "f232f486-8c1d-48ec-a49a-d8eeb676bb2a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:23:08Z"
+          "lastCheckedAt": "2026-10-22T03:31:45Z"
         }
       ]
     },
@@ -18246,7 +18350,7 @@
             "c692ce46-4dfe-4d7b-867c-453fcfdb1281"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:37:29Z"
+          "lastCheckedAt": "2026-10-21T21:47:51Z"
         }
       ]
     },
@@ -18343,7 +18447,7 @@
             "5125ff5f-6965-474b-a702-1017789bd485"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:08:55Z"
+          "lastCheckedAt": "2026-10-22T01:13:54Z"
         },
         {
           "id": "aws_09f92902396b310b43d2",
@@ -18748,7 +18852,7 @@
             "PT:radio-metal-on-toxic"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:41:19Z"
+          "lastCheckedAt": "2026-10-22T01:43:15Z"
         }
       ]
     },
@@ -18940,7 +19044,7 @@
             "RO:adjud-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:57:38Z"
+          "lastCheckedAt": "2026-10-22T01:04:32Z"
         },
         {
           "id": "aws_ac99fd8d83c779f19199",
@@ -19002,7 +19106,7 @@
             "RO:gorock"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:24:28Z"
+          "lastCheckedAt": "2026-10-22T00:18:28Z"
         }
       ]
     },
@@ -19230,7 +19334,7 @@
             "636e3762-b648-46c5-8130-6d79625c2089"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:15:07Z"
+          "lastCheckedAt": "2026-10-21T23:02:05Z"
         }
       ]
     },
@@ -19331,7 +19435,7 @@
             "bb46c050-ad81-46f0-a946-fe00535aae4e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:47:51Z"
+          "lastCheckedAt": "2026-10-22T02:09:56Z"
         }
       ]
     },
@@ -19378,7 +19482,7 @@
             "RU:biker-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:22:50Z"
+          "lastCheckedAt": "2026-10-22T01:26:55Z"
         }
       ]
     },
@@ -19424,7 +19528,7 @@
             "96202df9-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:35:26Z"
+          "lastCheckedAt": "2026-10-21T21:41:15Z"
         }
       ]
     },
@@ -19465,7 +19569,7 @@
             "fcdca0ed-ba45-4a7c-9b43-6207aeea20a6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:52:39Z"
+          "lastCheckedAt": "2026-10-22T06:43:01Z"
         }
       ]
     },
@@ -19591,7 +19695,7 @@
             "b7d5f87f-b033-496c-b655-aedb28e59f76"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:28:40Z"
+          "lastCheckedAt": "2026-10-22T02:36:40Z"
         }
       ]
     },
@@ -19755,7 +19859,7 @@
             "f673549e-54be-47c5-b2ff-f635281ec472"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:18:40Z"
+          "lastCheckedAt": "2026-10-22T01:26:04Z"
         }
       ]
     },
@@ -19849,7 +19953,7 @@
             "a9f05865-bdfd-4b6a-bd8c-8f26134842db"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:45:14Z"
+          "lastCheckedAt": "2026-10-22T07:00:52Z"
         }
       ]
     },
@@ -19953,7 +20057,7 @@
             "e74a22ea-6bfc-4e80-889c-d12b8f0e7d03"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T08:41:34Z"
+          "lastCheckedAt": "2026-10-22T01:22:08Z"
         }
       ]
     },
@@ -19996,7 +20100,7 @@
             "5b281201-5964-42c0-98e9-b7fca3466c3c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:24:15Z"
+          "lastCheckedAt": "2026-10-21T22:28:34Z"
         }
       ]
     },
@@ -20039,7 +20143,7 @@
             "853963f2-ec56-4e9a-a67c-a25682902781"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:37:09Z"
+          "lastCheckedAt": "2026-10-22T03:47:05Z"
         }
       ]
     },
@@ -20082,7 +20186,7 @@
             "71e6e2bc-7143-4e06-9e6c-61aebe046966"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:46:33Z"
+          "lastCheckedAt": "2026-10-21T23:08:04Z"
         }
       ]
     },
@@ -20125,7 +20229,7 @@
             "f4fe720e-e72e-40c6-baf5-2a3f781c7ef5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:26:33Z"
+          "lastCheckedAt": "2026-10-22T05:39:21Z"
         }
       ]
     },
@@ -20340,7 +20444,7 @@
             "cee76738-4ff5-478f-8810-5e0a8edfcbd9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:46:17Z"
+          "lastCheckedAt": "2026-10-22T01:04:32Z"
         }
       ]
     },
@@ -20512,7 +20616,7 @@
             "1dd82137-4782-4a91-94e5-d6798feb7221"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:16:04Z"
+          "lastCheckedAt": "2026-10-22T03:51:51Z"
         }
       ]
     },
@@ -20556,7 +20660,7 @@
             "50e7cde5-157c-4eec-a254-7c77a88a3e39"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:43:31Z"
+          "lastCheckedAt": "2026-10-22T02:26:23Z"
         }
       ]
     },
@@ -20643,7 +20747,7 @@
             "2162841a-995a-4040-8ca8-886043cd3e3c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:20:29Z"
+          "lastCheckedAt": "2026-10-22T02:22:48Z"
         }
       ]
     },
@@ -20815,7 +20919,7 @@
             "1f78c3ac-b923-4c4e-9aba-f6c67a9fc242"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:32:34Z"
+          "lastCheckedAt": "2026-10-21T21:39:13Z"
         }
       ]
     },
@@ -20944,7 +21048,7 @@
             "9acd84cf-22d3-4260-a7d5-f26589e21956"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:33:10Z"
+          "lastCheckedAt": "2026-10-22T00:53:40Z"
         }
       ]
     },
@@ -21074,7 +21178,7 @@
             "eaeec0f2-9b0f-462e-875b-fb59e182c8de"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:36:35Z"
+          "lastCheckedAt": "2026-10-22T06:48:26Z"
         }
       ]
     },
@@ -21247,7 +21351,7 @@
             "536802d7-8f40-4f5e-8968-7599ae50be8b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:34:09Z"
+          "lastCheckedAt": "2026-10-22T02:47:40Z"
         }
       ]
     },
@@ -21333,7 +21437,7 @@
             "35d3fe80-5299-46ce-8307-541c5808b6c7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:49:06Z"
+          "lastCheckedAt": "2026-10-22T00:14:56Z"
         }
       ]
     },
@@ -21419,7 +21523,7 @@
             "b4466512-327f-4aa9-a387-7afaa682b278"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:45:42Z"
+          "lastCheckedAt": "2026-10-22T02:01:59Z"
         }
       ]
     },
@@ -21462,7 +21566,7 @@
             "abef736c-5c50-4a73-b9fa-2204efde081d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:57:55Z"
+          "lastCheckedAt": "2026-10-22T03:05:00Z"
         }
       ]
     },
@@ -21505,7 +21609,7 @@
             "5be181fc-9c33-4fcb-93d2-ae23b95117b8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:39:51Z"
+          "lastCheckedAt": "2026-10-22T00:35:44Z"
         }
       ]
     },
@@ -21591,7 +21695,7 @@
             "2a6e4234-bd62-432a-9616-f9ca4d6cb1c9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:11:03Z"
+          "lastCheckedAt": "2026-10-21T22:15:41Z"
         }
       ]
     },
@@ -21677,7 +21781,7 @@
             "86f266f5-09c8-477a-8b02-5a9e31e6ab0d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:31:30Z"
+          "lastCheckedAt": "2026-10-22T04:41:09Z"
         }
       ]
     },
@@ -21763,7 +21867,7 @@
             "a873f307-7269-48f6-ba6f-45843c1e49ea"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:25:43Z"
+          "lastCheckedAt": "2026-10-22T00:31:10Z"
         }
       ]
     },
@@ -21806,7 +21910,7 @@
             "a3926401-8dab-40b8-a190-2d306d0cd441"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:26:07Z"
+          "lastCheckedAt": "2026-10-22T08:05:55Z"
         }
       ]
     },
@@ -22019,7 +22123,7 @@
             "77e35147-7bdd-4b4c-a200-3f69d7804208"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:22:42Z"
+          "lastCheckedAt": "2026-10-21T21:58:31Z"
         }
       ]
     },
@@ -22103,7 +22207,7 @@
             "4435acb0-c5cb-4ed9-b8a3-9bb36123c707"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:22:45Z"
+          "lastCheckedAt": "2026-10-22T06:25:31Z"
         }
       ]
     },
@@ -22232,7 +22336,7 @@
             "cecd25d8-6107-49d1-8f68-8a3e268cf62a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:00:42Z"
+          "lastCheckedAt": "2026-10-22T01:31:57Z"
         }
       ]
     },
@@ -22318,7 +22422,7 @@
             "949aec8c-2342-4f02-9312-e3f74cf840f6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:49:28Z"
+          "lastCheckedAt": "2026-10-21T23:25:27Z"
         }
       ]
     },
@@ -22361,7 +22465,7 @@
             "359ffcf7-2429-4d3f-abd5-a7a0c023fb21"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:23:23Z"
+          "lastCheckedAt": "2026-10-21T22:44:09Z"
         }
       ]
     },
@@ -22537,7 +22641,7 @@
             "9cfe095b-edea-4d05-945f-1487223a892c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:26:19Z"
+          "lastCheckedAt": "2026-10-21T22:39:14Z"
         },
         {
           "id": "aws_0a17a8ab52757eae5559",
@@ -22598,7 +22702,7 @@
             "afdc0070-2fe5-4aa1-bfa4-b8f5d5196ce4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T15:11:18Z"
+          "lastCheckedAt": "2026-10-22T01:37:56Z"
         }
       ]
     },
@@ -22665,7 +22769,7 @@
             "87c803e0-9a8e-4cab-a8ff-62927ae80c67"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:25:00Z"
+          "lastCheckedAt": "2026-10-22T03:29:27Z"
         },
         {
           "id": "aws_1114ba4750729b9e20c0",
@@ -22812,7 +22916,7 @@
             "96427c67-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:20:47Z"
+          "lastCheckedAt": "2026-10-22T08:04:13Z"
         }
       ]
     },
@@ -23038,7 +23142,7 @@
             "0f129823-2b5b-4ea3-a4f9-d1e6eeddf1bf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:32:16Z"
+          "lastCheckedAt": "2026-10-22T08:08:04Z"
         }
       ]
     },
@@ -23171,7 +23275,7 @@
             "8dff953e-e92b-4e05-ba07-863eb9d6b169"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:34:34Z"
+          "lastCheckedAt": "2026-10-22T08:10:18Z"
         }
       ]
     },
@@ -23317,7 +23421,7 @@
             "bbe22a84-0de9-400b-896b-430fddc2ed4a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:05:28Z"
+          "lastCheckedAt": "2026-10-22T02:45:32Z"
         }
       ]
     },
@@ -23515,7 +23619,7 @@
             "249d45c8-3711-488a-8d40-904f4fa930b1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:20:33Z"
+          "lastCheckedAt": "2026-10-21T23:23:15Z"
         }
       ]
     },
@@ -23650,7 +23754,7 @@
             "614ea326-b21b-47f8-9413-9257a07ebb06"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:24:55Z"
+          "lastCheckedAt": "2026-10-22T01:29:57Z"
         }
       ]
     },
@@ -23692,7 +23796,7 @@
             "6c2ec0d6-31af-40f0-ae97-0a0071b3f519"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:04:04Z"
+          "lastCheckedAt": "2026-10-22T03:14:15Z"
         }
       ]
     },
@@ -23902,7 +24006,7 @@
             "96ab0427-9398-453d-ac18-a3c5272d5305"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:51:40Z"
+          "lastCheckedAt": "2026-10-22T05:31:18Z"
         }
       ]
     },
@@ -24267,7 +24371,7 @@
             "a37d6fc8-981d-44e5-b6fa-476533dfd30a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:28:29Z"
+          "lastCheckedAt": "2026-10-22T07:32:35Z"
         },
         {
           "id": "aws_76c74b979480eb6d9f3a",
@@ -24286,7 +24390,7 @@
             "96474790-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:58:43Z"
+          "lastCheckedAt": "2026-10-22T04:51:11Z"
         }
       ]
     },
@@ -24333,7 +24437,7 @@
             "853ef384-382a-4556-8193-d265b56fe19a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:46:19Z"
+          "lastCheckedAt": "2026-10-21T22:49:01Z"
         }
       ]
     },
@@ -24377,7 +24481,7 @@
             "677987f5-ddfe-403b-ba08-47af86e5ca50"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:58:31Z"
+          "lastCheckedAt": "2026-10-22T01:00:33Z"
         }
       ]
     },
@@ -24621,7 +24725,7 @@
             "9647e837-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:22:41Z"
+          "lastCheckedAt": "2026-10-22T04:26:39Z"
         }
       ]
     },
@@ -24697,7 +24801,7 @@
             "9aff5d2d-00e0-4be0-86ca-c2f9760e582c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T17:52:39Z"
+          "lastCheckedAt": "2026-10-22T07:42:33Z"
         }
       ]
     },
@@ -24741,7 +24845,7 @@
             "f99e4bda-71b9-11ea-b1cf-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:56:32Z"
+          "lastCheckedAt": "2026-10-22T04:06:23Z"
         }
       ]
     },
@@ -24818,7 +24922,7 @@
           "country": "RU",
           "url": "https://stream3.radiogoose.ru/listen/rock/play",
           "codec": "aac",
-          "bitrate": 96,
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -24828,7 +24932,7 @@
             "88e91d7d-d7a2-4a2e-bd5c-8f78fed4cdee"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:39:28Z"
+          "lastCheckedAt": "2026-10-22T03:47:05Z"
         }
       ]
     },
@@ -24872,7 +24976,7 @@
             "440340ac-3597-454d-987d-5b6930345700"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:37:16Z"
+          "lastCheckedAt": "2026-10-21T23:08:53Z"
         }
       ]
     },
@@ -24914,7 +25018,7 @@
             "d5994576-8829-4aeb-a73c-cfe0d3d9acf0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:21:13Z"
+          "lastCheckedAt": "2026-10-21T21:41:15Z"
         }
       ]
     },
@@ -25106,7 +25210,7 @@
             "168e0796-3b97-479c-949d-b1871ef07379"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:34:54Z"
+          "lastCheckedAt": "2026-10-22T06:23:11Z"
         }
       ]
     },
@@ -25199,7 +25303,7 @@
             "f385b04f-6882-4cb4-8a96-58d2c90b5fbc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:12:04Z"
+          "lastCheckedAt": "2026-10-22T02:41:17Z"
         }
       ]
     },
@@ -25243,7 +25347,7 @@
             "f77411a2-8285-4271-8fa8-178a0792a22c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:08:55Z"
+          "lastCheckedAt": "2026-10-22T01:11:58Z"
         }
       ]
     },
@@ -25377,7 +25481,7 @@
             "b1760e2d-260e-477e-a31a-87028d4a44ff"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:27:18Z"
+          "lastCheckedAt": "2026-10-21T23:31:42Z"
         }
       ]
     },
@@ -25422,7 +25526,7 @@
             "aec438e2-74b3-11ea-b1cf-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:52:02Z"
+          "lastCheckedAt": "2026-10-22T01:59:43Z"
         }
       ]
     },
@@ -25515,7 +25619,7 @@
             "UA:radio-rocks-kyiv-103-6fm-hd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:49:28Z"
+          "lastCheckedAt": "2026-10-21T22:51:03Z"
         }
       ]
     },
@@ -25559,7 +25663,7 @@
             "47278da2-b2c1-4f1b-90ac-e8ffb4918cfb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:09:17Z"
+          "lastCheckedAt": "2026-10-22T02:49:50Z"
         },
         {
           "id": "aws_4de8f3028f10f7038320",
@@ -25580,7 +25684,7 @@
             "a6e7696f-e9bb-4b0e-9bba-728a6e92a150"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:38:33Z"
+          "lastCheckedAt": "2026-10-21T23:46:16Z"
         }
       ]
     },
@@ -25625,7 +25729,7 @@
             "a978a096-5b89-4212-a751-b825e50ee6c1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T04:59:36Z"
+          "lastCheckedAt": "2026-10-22T05:12:59Z"
         }
       ]
     },
@@ -25667,7 +25771,7 @@
             "2b11e548-801a-48f3-a74e-dab927c71ece"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:03:17Z"
+          "lastCheckedAt": "2026-10-22T02:20:32Z"
         }
       ]
     },
@@ -25760,7 +25864,7 @@
             "21d284f0-00ce-4f38-8afd-854fd0c877e1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:08:55Z"
+          "lastCheckedAt": "2026-10-22T01:13:54Z"
         }
       ]
     },
@@ -25903,7 +26007,7 @@
             "4552f53b-cc17-4b85-a601-607c010fb575"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T15:21:41Z"
+          "lastCheckedAt": "2026-10-22T08:29:20Z"
         }
       ]
     },
@@ -25932,6 +26036,25 @@
       "updatedAt": "2026-08-24",
       "streams": [
         {
+          "id": "aws_ff247dc43d77abef4610",
+          "stationId": "awb_978320086a9a286abede",
+          "name": "181.FM - 80's HairBand",
+          "country": "US",
+          "url": "http://listen.181fm.com/181-hairband_128k.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9637d635-0601-11e8-ae97-52543be04c81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-22T03:10:11Z"
+        },
+        {
           "id": "aws_def65d6f9044e7735213",
           "stationId": "awb_978320086a9a286abede",
           "name": "181.FM - 80's HairBand",
@@ -25942,15 +26065,13 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "9637d635-0601-11e8-ae97-52543be04c81",
             "US:181-fm-80-s-hairband"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:04:04Z"
+          "lastCheckedAt": "2026-08-24"
         }
       ]
     },
@@ -26041,7 +26162,7 @@
             "0e1d0fd2-4feb-4c69-8c0c-76eb21a16608"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:19:15Z"
+          "lastCheckedAt": "2026-10-21T22:28:34Z"
         }
       ]
     },
@@ -26126,7 +26247,7 @@
             "f555b81b-3645-46ef-8c7e-7882849073bf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:07:23Z"
+          "lastCheckedAt": "2026-10-22T02:26:23Z"
         }
       ]
     },
@@ -26226,7 +26347,7 @@
             "13903bd6-f68b-4016-8d48-3b4823a2640e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:57:31Z"
+          "lastCheckedAt": "2026-10-22T08:02:15Z"
         }
       ]
     },
@@ -26310,7 +26431,7 @@
             "77e606ea-bf7d-11e9-8502-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:13:24Z"
+          "lastCheckedAt": "2026-10-22T05:54:03Z"
         }
       ]
     },
@@ -26400,7 +26521,7 @@
             "7d911013-c936-4403-9736-9266303dd100"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:18:31Z"
+          "lastCheckedAt": "2026-10-22T02:49:50Z"
         }
       ]
     },
@@ -26448,7 +26569,7 @@
             "f957a66c-9ed9-4d96-8878-0f6ca24504ec"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:49:57Z"
+          "lastCheckedAt": "2026-10-22T02:38:52Z"
         }
       ]
     },
@@ -26494,7 +26615,7 @@
             "3a9a9083-7d62-43ac-8ca0-1e74e3ba81b2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T08:26:23Z"
+          "lastCheckedAt": "2026-10-22T08:31:36Z"
         }
       ]
     },
@@ -26586,7 +26707,7 @@
             "25f64684-0564-4797-9431-3539cb9cd027"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:06:58Z"
+          "lastCheckedAt": "2026-10-22T08:08:04Z"
         }
       ]
     },
@@ -26632,7 +26753,7 @@
             "bba9410a-8021-4e11-9fff-8c062b0783b7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T22:23:01Z"
+          "lastCheckedAt": "2026-10-22T07:34:38Z"
         }
       ]
     },
@@ -26677,7 +26798,7 @@
             "b4342cf3-a7b8-469d-afb5-7f09444cbb13"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:20:48Z"
+          "lastCheckedAt": "2026-10-22T01:48:40Z"
         },
         {
           "id": "aws_16714f2323919a47b58b",
@@ -26697,7 +26818,7 @@
             "e5110ac3-9387-4ace-82a3-0378a4aeea11"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T21:42:42Z"
+          "lastCheckedAt": "2026-10-21T23:41:21Z"
         }
       ]
     },
@@ -26788,7 +26909,7 @@
             "5e63c494-2c63-401b-8e4e-ceef8b3bca47"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:31:32Z"
+          "lastCheckedAt": "2026-10-22T02:11:57Z"
         }
       ]
     },
@@ -26856,7 +26977,7 @@
           "country": "US",
           "url": "https://s20.myradiostream.com:18792/listen.mp3",
           "codec": "mp3",
-          "bitrate": 160,
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -26866,7 +26987,7 @@
             "7994106c-e293-41bf-ad54-df742486e7da"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:18:31Z"
+          "lastCheckedAt": "2026-10-22T02:43:28Z"
         }
       ]
     },
@@ -26913,7 +27034,7 @@
             "96407fcb-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:28:01Z"
+          "lastCheckedAt": "2026-10-22T03:51:51Z"
         },
         {
           "id": "aws_ff5995642c6803a918b4",
@@ -27025,7 +27146,7 @@
             "96336b01-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T19:13:11Z"
+          "lastCheckedAt": "2026-10-21T21:51:30Z"
         }
       ]
     },
@@ -27068,7 +27189,7 @@
             "9afeaf65-bb57-4d76-892d-c7a39fc6c805"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:42:00Z"
+          "lastCheckedAt": "2026-10-22T00:46:38Z"
         }
       ]
     },
@@ -27200,7 +27321,7 @@
             "f799eab2-2073-4669-bf48-ca62ff8f88a4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T05:39:14Z"
+          "lastCheckedAt": "2026-10-22T06:13:49Z"
         }
       ]
     },
@@ -27241,7 +27362,7 @@
             "8801161b-7eea-4683-b683-257e11c5ae2e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:13:47Z"
+          "lastCheckedAt": "2026-10-22T06:23:11Z"
         }
       ]
     },
@@ -27344,7 +27465,7 @@
             "16b32eac-febf-49ee-85e4-06b559c78b96"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:41:04Z"
+          "lastCheckedAt": "2026-10-22T01:04:32Z"
         }
       ]
     },
@@ -27400,7 +27521,7 @@
             "c9491211-f0e8-480b-a969-7f421e851e53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T21:58:07Z"
+          "lastCheckedAt": "2026-10-21T23:46:16Z"
         }
       ]
     },
@@ -27455,7 +27576,7 @@
             "aab7d2fe-7286-4bf0-84fa-49cda876b1e8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T20:23:11Z"
+          "lastCheckedAt": "2026-10-21T20:33:49Z"
         }
       ]
     },
@@ -27499,7 +27620,7 @@
             "9440bbb7-f6b0-4e25-9d0a-c22a30412e5e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:08:40Z"
+          "lastCheckedAt": "2026-10-21T23:48:16Z"
         }
       ]
     },
@@ -27551,7 +27672,7 @@
             "6428477b-5226-419a-bb63-086d9c9f8219"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:09:42Z"
+          "lastCheckedAt": "2026-10-22T06:18:41Z"
         }
       ]
     },
@@ -27689,7 +27810,7 @@
             "ceb6b3af-3bfb-4135-bace-9fa6fac9e8ac"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T01:02:54Z"
+          "lastCheckedAt": "2026-10-22T03:02:59Z"
         }
       ]
     },
@@ -27828,7 +27949,7 @@
             "9ede2cdc-c5f6-4bf3-b0ca-b64cea95c373"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:16:06Z"
+          "lastCheckedAt": "2026-10-22T07:27:26Z"
         }
       ]
     },
@@ -27927,7 +28048,7 @@
             "0de271e3-7a23-4641-9b91-c93dffeede41"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T00:48:18Z"
+          "lastCheckedAt": "2026-10-22T01:09:49Z"
         },
         {
           "id": "aws_73ec26601ef271110a82",
@@ -28204,7 +28325,7 @@
             "986d9f4e-8614-490b-a61e-91d23fd57555"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T13:04:52Z"
+          "lastCheckedAt": "2026-10-21T22:15:41Z"
         }
       ]
     },
@@ -28294,7 +28415,7 @@
             "964e946c-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:16:06Z"
+          "lastCheckedAt": "2026-10-22T08:08:04Z"
         }
       ]
     },
@@ -28387,7 +28508,7 @@
             "143ff518-5d57-4bf0-9859-e82af365a771"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:52:33Z"
+          "lastCheckedAt": "2026-10-21T23:10:54Z"
         }
       ]
     },
@@ -28497,7 +28618,7 @@
             "82370617-9a11-4489-bd8e-c02813b50eff"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:28:54Z"
+          "lastCheckedAt": "2026-10-21T23:46:16Z"
         }
       ]
     },
@@ -28960,7 +29081,7 @@
             "a14b2da8-ebcf-4888-88c5-d25bce0328c6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:16:18Z"
+          "lastCheckedAt": "2026-10-22T03:37:49Z"
         }
       ]
     },
@@ -29003,7 +29124,7 @@
             "0bac9b3c-7c4b-4268-b675-3e2a4cd0368a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:28:54Z"
+          "lastCheckedAt": "2026-10-21T23:45:25Z"
         }
       ]
     },
@@ -29049,7 +29170,7 @@
             "e1a4d336-6d51-4ba7-b717-aaa4679daf9b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T20:23:11Z"
+          "lastCheckedAt": "2026-10-21T21:12:29Z"
         }
       ]
     },
@@ -29091,7 +29212,7 @@
             "4d193336-66a3-4921-b173-b60a76e55692"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:06:58Z"
+          "lastCheckedAt": "2026-10-22T07:25:14Z"
         }
       ]
     },
@@ -29189,7 +29310,7 @@
             "c13ac148-ea9f-4037-b66d-3472f37596de"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:35:12Z"
+          "lastCheckedAt": "2026-10-22T04:51:11Z"
         },
         {
           "id": "aws_18f5f144704f7ff82f5e",
@@ -29281,7 +29402,7 @@
             "98aa93a7-af33-4af9-a5ee-cb8d44069980"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T19:59:51Z"
+          "lastCheckedAt": "2026-10-22T07:57:33Z"
         }
       ]
     },
@@ -29330,7 +29451,7 @@
             "0389cd54-bf1b-4e3b-b0c3-98309eb9fa34"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:52:33Z"
+          "lastCheckedAt": "2026-10-21T23:08:53Z"
         }
       ]
     },
@@ -29378,7 +29499,7 @@
             "3618029d-4a05-4094-9097-3649255d265f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T23:10:48Z"
+          "lastCheckedAt": "2026-10-21T23:12:48Z"
         }
       ]
     },
@@ -29469,7 +29590,7 @@
             "6e3c6a56-f0e1-4ac8-a640-af2c3103f430"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:22:42Z"
+          "lastCheckedAt": "2026-10-21T21:36:57Z"
         }
       ]
     },
@@ -29560,7 +29681,7 @@
             "c29a8ef0-f80c-4263-a371-061e503d34b7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T06:26:50Z"
+          "lastCheckedAt": "2026-10-22T08:19:16Z"
         }
       ]
     },
@@ -29650,7 +29771,7 @@
             "18c4a5d4-b2d8-4233-bd84-a2d0369bc515"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T07:59:45Z"
+          "lastCheckedAt": "2026-10-22T08:08:04Z"
         }
       ]
     },
@@ -29736,7 +29857,7 @@
             "ab773155-e0ab-11e9-a8ba-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T03:09:58Z"
+          "lastCheckedAt": "2026-10-22T03:54:04Z"
         }
       ]
     },
@@ -29819,7 +29940,7 @@
           "stationId": "awb_9757666ddfe7c861a96d",
           "name": "DJ 666 Geordieblackcore",
           "country": "ZZ",
-          "url": "http://dj666geordieblackcore.stream.laut.fm/dj666geordieblackcore?uuid=b066e84c-025e-1dc0-9a47-ee76b722aa1a&t302=2026-10-17_10-12-22",
+          "url": "http://dj666geordieblackcore.stream.laut.fm/dj666geordieblackcore?t302=2026-10-22_10-21-43&uuid=ac28e219-06b7-c10e-8745-239b198e85c9",
           "codec": "mp3",
           "bitrate": 128,
           "protocol": "http",
@@ -29831,7 +29952,7 @@
             "814ff1ae-7f10-46d8-8784-d60be8a43365"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T08:14:09Z"
+          "lastCheckedAt": "2026-10-22T08:23:19Z"
         }
       ]
     },
@@ -29880,7 +30001,7 @@
             "4297153c-4e5b-11ea-b877-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T21:21:13Z"
+          "lastCheckedAt": "2026-10-21T22:23:43Z"
         }
       ]
     },
@@ -30070,7 +30191,7 @@
             "83668e29-2b34-11ea-aa0c-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:45:27Z"
+          "lastCheckedAt": "2026-10-21T23:08:04Z"
         }
       ]
     },
@@ -30114,7 +30235,7 @@
             "d4ca2e05-1bd7-11ea-a955-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T02:57:09Z"
+          "lastCheckedAt": "2026-10-22T03:12:18Z"
         }
       ]
     },
@@ -30236,7 +30357,7 @@
             "44cbb6d8-3217-11ea-afca-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:19:15Z"
+          "lastCheckedAt": "2026-10-21T23:06:06Z"
         }
       ]
     },
@@ -30280,7 +30401,7 @@
             "b659e9d3-861e-11e9-aa30-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-16T22:23:23Z"
+          "lastCheckedAt": "2026-10-21T22:44:08Z"
         }
       ]
     },
