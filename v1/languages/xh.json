@@ -1,6 +1,6 @@
 {
   "code": "xh",
-  "stationCount": 2,
+  "stationCount": 3,
   "stations": [
     {
       "id": "awb_b296c5c79ae00cbe0a13",
@@ -58,7 +58,7 @@
             "cf477514-6fc0-446b-adf2-d252dba5ee75"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T03:10:11Z"
+          "lastCheckedAt": "2026-10-22T22:40:50Z"
         }
       ]
     },
@@ -105,6 +105,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:44:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0ac9c989cb8a1a64e0c3",
+      "name": "Wild Coast FM 98.6",
+      "country": "ZA",
+      "subdivision": "Eastern Cape",
+      "languages": [
+        "af",
+        "en",
+        "xh"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "various"
+      ],
+      "homepage": "https://www.wildcoastfm.co.za/",
+      "favicon": null,
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-22T15:18:38Z",
+      "streams": [
+        {
+          "id": "aws_f30d1f5f2eaa55d0de90",
+          "stationId": "awb_0ac9c989cb8a1a64e0c3",
+          "name": "Wild Coast FM 98.6",
+          "country": "ZA",
+          "url": "http://116.202.241.212:8090/",
+          "codec": "mp3",
+          "bitrate": 112,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ad13c837-f8f3-412b-8646-ec4b8367b165"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-22T15:18:39Z"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "code": "jv",
-  "stationCount": 12,
+  "stationCount": 13,
   "stations": [
     {
       "id": "awb_b33a88e0a44ee4f8382f",
@@ -90,6 +90,44 @@
       ]
     },
     {
+      "id": "awb_3c228acbb15d3383c413",
+      "name": "Kharisma FM Kediri",
+      "country": "ID",
+      "subdivision": null,
+      "languages": [
+        "id",
+        "jv"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://kharismafm.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-05-16T23:05:06Z",
+      "streams": [
+        {
+          "id": "aws_06b9d2a5aa06071a7b46",
+          "stationId": "awb_3c228acbb15d3383c413",
+          "name": "Kharisma FM Kediri",
+          "country": "ID",
+          "url": "http://stream.kharismafm.com:9550/kharismafm",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bf9ecc18-2fd3-46ea-918a-a9fefa7a0f63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-22T23:41:48Z"
+        }
+      ]
+    },
+    {
       "id": "awb_43a6f31f6ef11b827d7c",
       "name": "Koplo FM",
       "country": "ID",
@@ -167,7 +205,7 @@
             "ID:mettaswara-koplo"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T12:41:21Z"
+          "lastCheckedAt": "2026-10-22T12:47:07Z"
         }
       ]
     },
@@ -209,7 +247,7 @@
             "e4c36cba-3bac-45b9-a41b-13216967359e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T21:08:10Z"
+          "lastCheckedAt": "2026-10-23T01:06:15Z"
         }
       ]
     },
@@ -250,7 +288,7 @@
             "2a1303cc-ef13-401a-9383-4c9cae648807"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T09:12:08Z"
+          "lastCheckedAt": "2026-10-22T09:14:23Z"
         }
       ]
     },
@@ -287,7 +325,7 @@
             "ebdd105b-6d6d-41df-b783-20d32d6dc281"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T15:52:46Z"
+          "lastCheckedAt": "2026-10-22T16:18:22Z"
         }
       ]
     },
@@ -322,8 +360,8 @@
           "name": "Radio Swara Semarang",
           "country": "ID",
           "url": "https://server.radioimeldafm.co.id/radio/8010/swarasemarang",
-          "codec": "mp3",
-          "bitrate": 96,
+          "codec": "aac",
+          "bitrate": 56,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -335,7 +373,7 @@
             "e45d3451-d020-4ee5-a273-a25fc7df02bf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T22:31:10Z"
+          "lastCheckedAt": "2026-10-23T00:50:33Z"
         }
       ]
     },
@@ -418,7 +456,7 @@
             "bce51a67-e922-48c2-9d52-0dd686d37cba"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T05:33:23Z"
+          "lastCheckedAt": "2026-10-22T21:10:45Z"
         }
       ]
     },
@@ -461,7 +499,7 @@
             "6e3605b7-cc53-462c-83dd-4e8c58568e1e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T08:31:43Z"
+          "lastCheckedAt": "2026-10-22T10:04:26Z"
         }
       ]
     },

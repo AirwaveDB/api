@@ -1,6 +1,6 @@
 {
   "code": "mg",
-  "stationCount": 4,
+  "stationCount": 5,
   "stations": [
     {
       "id": "awb_b8aa2c314bd3810163db",
@@ -48,7 +48,7 @@
             "3bbba2aa-8426-4270-9e05-a33ef51bfd98"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T23:22:48Z"
+          "lastCheckedAt": "2026-10-23T00:07:16Z"
         }
       ]
     },
@@ -93,7 +93,7 @@
             "MG:hopefy-radio-mg"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-17T18:32:36Z"
+          "lastCheckedAt": "2026-10-22T21:31:10Z"
         }
       ]
     },
@@ -135,6 +135,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:21:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ac18dff3027f13a6c233",
+      "name": "Radio RSF 109 Antanifotsy",
+      "country": "MG",
+      "subdivision": "Vakinakaratra",
+      "languages": [
+        "mg"
+      ],
+      "categories": [],
+      "tags": [
+        "communautaire"
+      ],
+      "homepage": "https://www.tropicastradio.com/fr",
+      "favicon": "https://www.tropicastradio.com/tropicast-logo-256.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-22T23:16:59Z",
+      "streams": [
+        {
+          "id": "aws_21dc63cd5786035e66b2",
+          "stationId": "awb_ac18dff3027f13a6c233",
+          "name": "Radio RSF 109 Antanifotsy",
+          "country": "MG",
+          "url": "https://listen.tropicastradio.com/stations/3freccr11b/live.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fa937257-0bd4-41a7-99f0-b976d35c7196"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-22T23:17:02Z"
         }
       ]
     },
