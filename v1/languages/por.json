@@ -1,7 +1,7 @@
 {
   "code": "por",
   "canonicalCode": "pt",
-  "stationCount": 761,
+  "stationCount": 763,
   "stations": [
     {
       "id": "awb_a0d15f5e22fb30532808",
@@ -2927,7 +2927,7 @@
             "BR:89fm-radio-rock"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -4746,6 +4746,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T20:03:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_295671226b2743135375",
+      "name": "DERLEI RADIO",
+      "country": "BR",
+      "subdivision": "PR",
+      "languages": [
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "bots",
+        "derlei",
+        "highrise"
+      ],
+      "homepage": "https://high.rs/user?name=y.Bro",
+      "favicon": "https://high.rs/user?name=y.Bro",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T22:58:22Z",
+      "streams": [
+        {
+          "id": "aws_c5f2be7a4547f0b8ca8f",
+          "stationId": "awb_295671226b2743135375",
+          "name": "DERLEI RADIO",
+          "country": "BR",
+          "url": "http://164.152.48.227:8090/nexo-1e383864ee0b44a7b14833b76174a8e0.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3612a05b-d6c8-477c-a5e8-a4b8f1f26145"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },
@@ -8325,7 +8366,7 @@
             "b25f1a3c-af8a-4cf9-8610-2b5e522adf97"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },
@@ -11064,7 +11105,7 @@
             "26ae7032-1659-4cea-ae09-0a30606a276e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
         }
       ]
     },
@@ -19939,7 +19980,7 @@
             "cdaa0235-dd3e-475b-9e9c-c7c9b13b312b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T15:33:29Z"
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -20628,7 +20669,7 @@
       "id": "awb_4236313780f9154e875b",
       "name": "Rádio IBNJ Paris",
       "country": "FR",
-      "subdivision": "Ile de France",
+      "subdivision": "Île-de-France",
       "languages": [
         "fr",
         "pt"
@@ -20643,7 +20684,7 @@
         "gospel music",
         "pop rock"
       ],
-      "homepage": "https://www.radioibnjparis.com/",
+      "homepage": "https://radioibnjparis.com/",
       "favicon": null,
       "type": null,
       "sourceCount": 3,
@@ -32781,6 +32822,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T10:13:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f427da4eccb27e89537f",
+      "name": "Radio Bigode Grosso",
+      "country": "ZA",
+      "subdivision": "maputo",
+      "languages": [
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "popular"
+      ],
+      "homepage": "https://www.owh.radio.br/",
+      "favicon": "https://cp-1.owh.radio.br/static/uploads/owh_s35236/album_art.1790703504.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T12:56:11Z",
+      "streams": [
+        {
+          "id": "aws_1a2e28011463c5920b23",
+          "stationId": "awb_f427da4eccb27e89537f",
+          "name": "Radio Bigode Grosso",
+          "country": "ZA",
+          "url": "https://cp-1.owh.radio.br/listen/owh_s35236/radio-mp3",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ff6240ce-0f35-40c5-955b-54d6a2315b50"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
         }
       ]
     },

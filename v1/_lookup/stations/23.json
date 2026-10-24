@@ -1158,7 +1158,7 @@
           "cdaa0235-dd3e-475b-9e9c-c7c9b13b312b"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-18T15:33:29Z"
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
       }
     ]
   },
@@ -2983,7 +2983,7 @@
         "country": "EG",
         "url": "https://radio.xecod.com/station/abdulbasit",
         "codec": "mp3",
-        "bitrate": 64,
+        "bitrate": 32,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -2994,7 +2994,7 @@
           "e906fab6-1bd1-4545-a79a-19cc8afe7bac"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T01:04:12Z"
+        "lastCheckedAt": "2026-10-24T02:40:54Z"
       }
     ]
   },
@@ -3789,6 +3789,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T17:40:36Z"
+      }
+    ]
+  },
+  "awb_2331799ace4f5f068cf4": {
+    "id": "awb_2331799ace4f5f068cf4",
+    "name": "Ambient on Party Vibe Radio",
+    "country": "GB",
+    "subdivision": "London",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient",
+      "electronic"
+    ],
+    "tags": [
+      "ambient electronic"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T11:48:05Z",
+    "streams": [
+      {
+        "id": "aws_153170c1cac63d2fa8b4",
+        "stationId": "awb_2331799ace4f5f068cf4",
+        "name": "Ambient on Party Vibe Radio",
+        "country": "GB",
+        "url": "http://www.partyviberadio.com:8056/stream/1/",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "cdec6253-1828-4016-82b9-dbe88466779c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
       }
     ]
   },

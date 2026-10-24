@@ -3567,7 +3567,7 @@
           "9b3d385f-b0f5-46bb-a6b7-b19fc6a0a50a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-22T00:07:09Z"
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
       }
     ]
   },
@@ -7036,8 +7036,8 @@
     "homepage": "https://www.eskarock.pl/",
     "favicon": "https://static.mytuner.mobi/media/tvos_radios/2LqeyZhdFq.png",
     "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-08-24",
+    "sourceCount": 5,
+    "updatedAt": "2026-10-23T21:54:25Z",
     "streams": [
       {
         "id": "aws_9407c90ab5ada1c44559",
@@ -7059,6 +7059,25 @@
         "lastCheckedAt": "2026-10-23T00:27:51Z"
       },
       {
+        "id": "aws_1bb2e2294f92708d70b2",
+        "stationId": "awb_2ed0263ef97686da4c11",
+        "name": "ESKA ROCK",
+        "country": "PL",
+        "url": "https://ic2.smcdn.pl/5380-1.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5c35f5b9-094d-4440-92d7-f4f21d1d7105"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T03:39:45Z"
+      },
+      {
         "id": "aws_efc3f24d6fce4862031f",
         "stationId": "awb_2ed0263ef97686da4c11",
         "name": "ESKA ROCK",
@@ -7077,7 +7096,7 @@
           "bf487b2b-503c-42c3-b088-9b5d679fdf29"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-22T02:32:47Z"
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
       }
     ]
   },
@@ -8743,6 +8762,54 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T23:43:43Z"
+      }
+    ]
+  },
+  "awb_2ed252260f0284233cde": {
+    "id": "awb_2ed252260f0284233cde",
+    "name": "Hollowlight Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country",
+      "jazz",
+      "oldies"
+    ],
+    "tags": [
+      "classic country",
+      "easy listening",
+      "fallout",
+      "jazz",
+      "oldies",
+      "swing"
+    ],
+    "homepage": "https://live365.com/station/Hollowlight-Radio-a83179",
+    "favicon": "https://image.live365.com/download/ae1ab7aa-2234-459a-8103-85ad4a86b49f.png/400/image.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T03:59:30Z",
+    "streams": [
+      {
+        "id": "aws_737adb022d2f0da1b932",
+        "stationId": "awb_2ed252260f0284233cde",
+        "name": "Hollowlight Radio",
+        "country": "US",
+        "url": "https://streaming.live365.com/a83179",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4788ec3b-5e2c-4ea9-a2cb-c407956b6eb8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

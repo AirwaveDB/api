@@ -3295,7 +3295,7 @@
   },
   "awb_f5f98cbe1bfefa043e85": {
     "id": "awb_f5f98cbe1bfefa043e85",
-    "name": "PCR.fm (Parnu Club Radio)",
+    "name": "PCR.FM (Parnu Club Radio)",
     "country": "EE",
     "subdivision": "Parnu",
     "languages": [
@@ -8463,6 +8463,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-23T01:23:01Z"
+      }
+    ]
+  },
+  "awb_f5c0a8c1580ea6970033": {
+    "id": "awb_f5c0a8c1580ea6970033",
+    "name": "La Mega 95.7 FM ( Valencia - Venezuela)",
+    "country": "VE",
+    "subdivision": "Barquisimeto, Estado Lara",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "various"
+    ],
+    "homepage": "https://mundour.com/home-mega/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T13:56:56Z",
+    "streams": [
+      {
+        "id": "aws_f35b0796f25ab9361f59",
+        "stationId": "awb_f5c0a8c1580ea6970033",
+        "name": "La Mega 95.7 FM ( Valencia - Venezuela)",
+        "country": "VE",
+        "url": "http://acp4.lorini.net:15004/stream",
+        "codec": "aac+",
+        "bitrate": 64,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e97797e0-7af3-49d3-ade2-40d3dd1664e6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
       }
     ]
   },

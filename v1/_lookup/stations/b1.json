@@ -5885,77 +5885,6 @@
       }
     ]
   },
-  "awb_b129fd4eef05446a27b6": {
-    "id": "awb_b129fd4eef05446a27b6",
-    "name": "+Azul 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
-    "country": "MX",
-    "subdivision": "Ciudad de México",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "acir",
-      "acir online",
-      "américa",
-      "baladas en inglés",
-      "cdmx",
-      "ciudad de méxico",
-      "clásicos",
-      "clásicos en inglés",
-      "entretenimiento",
-      "español",
-      "estación",
-      "grupo acir",
-      "iheart",
-      "iheart radio",
-      "latinoamérica",
-      "mexico city",
-      "moi merino",
-      "méxico",
-      "música",
-      "música en inglés",
-      "norteamérica",
-      "oldies",
-      "online",
-      "online only",
-      "radio",
-      "radio online",
-      "retro hits",
-      "retro music",
-      "valle de méxico"
-    ],
-    "homepage": "https://www.iheart.com/live/azul-89-7874/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5bc5ed95c7977ca1c9302289",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-04T14:10:36Z",
-    "streams": [
-      {
-        "id": "aws_ac15f6ffbf5e4989bdf0",
-        "stationId": "awb_b129fd4eef05446a27b6",
-        "name": "AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
-        "country": "MX",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac",
-        "codec": "aac+",
-        "bitrate": 48,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "b15f20e2-f41d-4c9c-a690-f979fcd61d57",
-          "b21edf7b-a452-420a-8fe8-40436962651c"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-22T17:10:47Z"
-      }
-    ]
-  },
   "awb_b127120924297f866fc9": {
     "id": "awb_b127120924297f866fc9",
     "name": "105.7 La Lupe (Veracruz) - 105.7 FM - XHPUGC-FM - Multimedios Radio - Veracruz, Veracruz",
@@ -6113,6 +6042,77 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-23T01:35:48Z"
+      }
+    ]
+  },
+  "awb_b129fd4eef05446a27b6": {
+    "id": "awb_b129fd4eef05446a27b6",
+    "name": "AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
+    "country": "MX",
+    "subdivision": "Ciudad de México",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "acir",
+      "acir online",
+      "américa",
+      "baladas en inglés",
+      "cdmx",
+      "ciudad de méxico",
+      "clásicos",
+      "clásicos en inglés",
+      "entretenimiento",
+      "español",
+      "estación",
+      "grupo acir",
+      "iheart",
+      "iheart radio",
+      "latinoamérica",
+      "mexico city",
+      "moi merino",
+      "méxico",
+      "música",
+      "música en inglés",
+      "norteamérica",
+      "oldies",
+      "online",
+      "online only",
+      "radio",
+      "radio online",
+      "retro hits",
+      "retro music",
+      "valle de méxico"
+    ],
+    "homepage": "https://www.iheart.com/live/azul-89-7874/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5bc5ed95c7977ca1c9302289",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-04T14:10:36Z",
+    "streams": [
+      {
+        "id": "aws_ac15f6ffbf5e4989bdf0",
+        "stationId": "awb_b129fd4eef05446a27b6",
+        "name": "AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
+        "country": "MX",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac",
+        "codec": "aac+",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b15f20e2-f41d-4c9c-a690-f979fcd61d57",
+          "b21edf7b-a452-420a-8fe8-40436962651c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-22T17:10:47Z"
       }
     ]
   },
@@ -8716,7 +8716,7 @@
         "name": "KVAN 91.7 - Tucson, Arizona",
         "country": "US",
         "url": "https://shoutcast.kvan.fm/radio",
-        "codec": "aac+",
+        "codec": "aac",
         "bitrate": 128,
         "protocol": "https",
         "hls": false,
@@ -8727,7 +8727,7 @@
           "d0466463-5d31-4c7a-ad53-a0be49db624e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-18T22:07:29Z"
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
       }
     ]
   },

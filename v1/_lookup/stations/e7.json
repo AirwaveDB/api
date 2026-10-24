@@ -2060,7 +2060,7 @@
           "9226fcee-dcaa-42e6-a030-3bce71ca46fa"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-18T22:07:29Z"
+        "lastCheckedAt": "2026-10-24T03:39:45Z"
       }
     ]
   },
@@ -3186,7 +3186,7 @@
     "categories": [],
     "tags": [],
     "homepage": "https://radiolagranjazaragoza.wordpress.com/",
-    "favicon": "https://radiobot.radioslibres.info/static/uploads/radio_la_granja/background.1713382583.jpg",
+    "favicon": "https://radiolagranjazaragoza.wordpress.com/wp-content/uploads/2021/07/cropped-radiolagranjaramone.png?w=180",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-17T06:08:50Z",
@@ -5300,7 +5300,7 @@
           "79ed8ddf-5e4d-4f4b-92e9-51dfbf899241"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T02:35:15Z"
+        "lastCheckedAt": "2026-10-24T03:39:45Z"
       }
     ]
   },
@@ -6395,14 +6395,37 @@
     "country": "NO",
     "subdivision": null,
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "religious"
+    ],
     "homepage": "https://ptro.no/",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-10T14:01:13Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-23T11:34:41Z",
     "streams": [
+      {
+        "id": "aws_d45032d99e99ae015cdd",
+        "stationId": "awb_e73858c1e29fdd32b699",
+        "name": "Ptro",
+        "country": "NO",
+        "url": "https://s2.radio.co/sd7f2a360c/listen",
+        "codec": "aac",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "cfee3afd-3368-468c-bce3-6ec59558764c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
+      },
       {
         "id": "aws_e3ab6d2529a7229f351b",
         "stationId": "awb_e73858c1e29fdd32b699",

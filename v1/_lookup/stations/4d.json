@@ -2144,7 +2144,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Baden-Württemberg",
+    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
     "languages": [
       "de"
     ],
@@ -6471,6 +6471,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T23:27:28Z"
+      }
+    ]
+  },
+  "awb_4d080535873190828d46": {
+    "id": "awb_4d080535873190828d46",
+    "name": "iFM Cauayan",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rmn.ph/985ifmcauayan/",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-DWKD-Cauayan.png?w=696&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:21:43Z",
+    "streams": [
+      {
+        "id": "aws_52bffb028dc22d6bab55",
+        "stationId": "awb_4d080535873190828d46",
+        "name": "iFM Cauayan",
+        "country": "PH",
+        "url": "https://livestream.rmn.ph/ifmcauayan",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1e2ed295-0f39-4253-b2f6-311d04b83181"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
       }
     ]
   },

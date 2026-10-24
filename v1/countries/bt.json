@@ -1,7 +1,7 @@
 {
   "code": "BT",
-  "stationCount": 1,
-  "streamCount": 1,
+  "stationCount": 2,
+  "streamCount": 2,
   "stations": [
     {
       "id": "awb_9e05f4d77427caa2481f",
@@ -37,6 +37,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T08:47:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_12994a6ae42412ba68e3",
+      "name": "Bhutan Broadcasting Service",
+      "country": "BT",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.bbs.bt/",
+      "favicon": "https://www.bbs.bt/wp-content/plugins/bbs-video-stories/assets/bbs-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T13:33:12Z",
+      "streams": [
+        {
+          "id": "aws_2eaf734fccc6b3873b9d",
+          "stationId": "awb_12994a6ae42412ba68e3",
+          "name": "Bhutan Broadcasting Service",
+          "country": "BT",
+          "url": "https://radio.bbs.bt/dz-ch",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4a1caf35-e380-4b0d-8a7b-43c46958cfe5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
         }
       ]
     }

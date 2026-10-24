@@ -1,7 +1,7 @@
 {
   "code": "EC",
-  "stationCount": 149,
-  "streamCount": 151,
+  "stationCount": 152,
+  "streamCount": 154,
   "stations": [
     {
       "id": "awb_f36122d4819d9ca5934a",
@@ -72,6 +72,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-21T22:35:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_592da2750f224f3a2795",
+      "name": "Alfa Radio98.5FM",
+      "country": "EC",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.alfa.com.ec/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiQArAOiFyT729LYISoz_s_vS_LfbEXrZT6o5KYLlNOw&s",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T04:17:38Z",
+      "streams": [
+        {
+          "id": "aws_3d816f953654d6885779",
+          "stationId": "awb_592da2750f224f3a2795",
+          "name": "Alfa Radio98.5FM",
+          "country": "EC",
+          "url": "https://d3487bptzruln7.cloudfront.net/hls/t6z22lsrczux/2/index.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2470939f-bb77-4193-a35b-3d93d4cb7da7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -800,6 +835,76 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T12:17:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c920bbd4bbbc7f4e97e4",
+      "name": "EXA FM",
+      "country": "EC",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://exafm.net/video/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxXjMCFGVVQnP_qkXWwIXYNI3hUr5AO3owvDkKPOr9ooxza0DOH5sxvtoL&s=10",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T04:21:20Z",
+      "streams": [
+        {
+          "id": "aws_3d39c7fafeeee4592ff5",
+          "stationId": "awb_c920bbd4bbbc7f4e97e4",
+          "name": "EXA FM",
+          "country": "EC",
+          "url": "https://27423.live.streamtheworld.com/ECUADORAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "321cfe8f-5319-4192-a782-3969a64dbeaa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_fa698ef67941757f0f8b",
+      "name": "EXA FM 92.5 FM",
+      "country": "EC",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://exafm.net/video/",
+      "favicon": "https://cdn-profiles.tunein.com/s95322/images/logog.jpg?t=155750",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T04:25:29Z",
+      "streams": [
+        {
+          "id": "aws_e95edcc1bfa5b57ff769",
+          "stationId": "awb_fa698ef67941757f0f8b",
+          "name": "EXA FM 92.5 FM",
+          "country": "EC",
+          "url": "https://27423.live.streamtheworld.com/ECUADORAAC.aac",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1edb99b0-006b-4655-8d15-281eb1bafdd2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

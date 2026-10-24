@@ -1,7 +1,7 @@
 {
   "code": "SV",
-  "stationCount": 62,
-  "streamCount": 63,
+  "stationCount": 63,
+  "streamCount": 64,
   "stations": [
     {
       "id": "awb_2de2b49bd93d48e636de",
@@ -833,6 +833,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T13:40:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fffa6d32967c285ebad1",
+      "name": "La Pop 98.9",
+      "country": "SV",
+      "subdivision": "San Salvador",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.miradio.com.sv/",
+      "favicon": "https://miradio.com.sv/wp-content/uploads/2026/10/Logo-04.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T15:17:29Z",
+      "streams": [
+        {
+          "id": "aws_ed3d220f4564812aa423",
+          "stationId": "awb_fffa6d32967c285ebad1",
+          "name": "La Pop 98.9",
+          "country": "SV",
+          "url": "https://mejor.watahosting.com/radio/8024/radio.mp3",
+          "codec": "aac+",
+          "bitrate": 56,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5268752b-6594-4338-abfb-309ba5b43f95"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
         }
       ]
     },

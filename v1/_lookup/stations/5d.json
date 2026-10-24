@@ -2238,7 +2238,7 @@
       "traffic radio broadcast"
     ],
     "homepage": "https://www.lyg1.com/index.html",
-    "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiEo.png@350w_1l",
+    "favicon": "http://pic.qingting.fm/2021/0714/20210714033025.jpeg",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T18:33:11Z",
@@ -2393,6 +2393,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T01:54:09Z"
+      }
+    ]
+  },
+  "awb_5d829a517c41a14b6a19": {
+    "id": "awb_5d829a517c41a14b6a19",
+    "name": "Jujube Radio Love Songs",
+    "country": "CY",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "ballads",
+      "love songs",
+      "soft pop"
+    ],
+    "homepage": "https://jujuberadio.com/",
+    "favicon": "https://jujuberadio.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T01:44:00Z",
+    "streams": [
+      {
+        "id": "aws_21137e763481e3ef4282",
+        "stationId": "awb_5d829a517c41a14b6a19",
+        "name": "Jujube Radio Love Songs",
+        "country": "CY",
+        "url": "https://jujuberadio.com/love",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0d7238c8-883d-4be7-ba89-6dd930988dfe"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T02:40:54Z"
       }
     ]
   },
@@ -9111,6 +9154,56 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T11:11:44Z"
+      }
+    ]
+  },
+  "awb_5dfd17c18cd586c6c4a8": {
+    "id": "awb_5dfd17c18cd586c6c4a8",
+    "name": "KPPM 93.5 Lake Charles, Louisiana",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues",
+      "jazz",
+      "religious",
+      "talk"
+    ],
+    "tags": [
+      "african american",
+      "black gospel",
+      "blues",
+      "jazz",
+      "southern soul",
+      "talk radio",
+      "zydeco"
+    ],
+    "homepage": "https://kppmfm.com/",
+    "favicon": "https://kppmfm.com/wp-content/uploads/2026/09/ChatGPT-Image-Aug-17-2026-02_19_46-PM.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T01:42:07Z",
+    "streams": [
+      {
+        "id": "aws_450e237b9749ef9cbce2",
+        "stationId": "awb_5dfd17c18cd586c6c4a8",
+        "name": "KPPM 93.5 Lake Charles, Louisiana",
+        "country": "US",
+        "url": "https://ice3.securenetsystems.net/KPPM",
+        "codec": "aac+",
+        "bitrate": 32,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ac7c963b-39f4-4299-a4d9-22fb283edb75"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T03:39:45Z"
       }
     ]
   },

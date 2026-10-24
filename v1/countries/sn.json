@@ -1,7 +1,7 @@
 {
   "code": "SN",
-  "stationCount": 33,
-  "streamCount": 33,
+  "stationCount": 34,
+  "streamCount": 34,
   "stations": [
     {
       "id": "awb_1400adb4701ae2a46be2",
@@ -1229,6 +1229,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-21T23:48:16Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_071c028179a8cbae25b6",
+      "name": "Xassida Online",
+      "country": "SN",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radio.sn/xassida-online/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T09:23:08Z",
+      "streams": [
+        {
+          "id": "aws_3b6bd5daef7e38c60767",
+          "stationId": "awb_071c028179a8cbae25b6",
+          "name": "Xassida Online",
+          "country": "SN",
+          "url": "https://radio.sn/xassida-online/#",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "307b4670-b5db-4610-91a5-9fb0e6823192"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

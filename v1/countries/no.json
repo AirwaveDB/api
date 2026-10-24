@@ -1,7 +1,7 @@
 {
   "code": "NO",
-  "stationCount": 121,
-  "streamCount": 124,
+  "stationCount": 122,
+  "streamCount": 126,
   "stations": [
     {
       "id": "awb_b30ed272047606b72284",
@@ -807,6 +807,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:41:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fd4cf0798f014987f2ad",
+      "name": "Jæren Misjonsradio",
+      "country": "NO",
+      "subdivision": "Rogaland",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.jmradio.no/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T11:45:44Z",
+      "streams": [
+        {
+          "id": "aws_1e34c3670857ee9c89aa",
+          "stationId": "awb_fd4cf0798f014987f2ad",
+          "name": "Jæren Misjonsradio",
+          "country": "NO",
+          "url": "https://stream.theradiohub.com/JMRadio/hq",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c4d193eb-47f6-4607-b69c-2c38c8ba5b0b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
         }
       ]
     },
@@ -3278,14 +3313,37 @@
       "country": "NO",
       "subdivision": null,
       "languages": [],
-      "categories": [],
-      "tags": [],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "religious"
+      ],
       "homepage": "https://ptro.no/",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-10T14:01:13Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-23T11:34:41Z",
       "streams": [
+        {
+          "id": "aws_d45032d99e99ae015cdd",
+          "stationId": "awb_e73858c1e29fdd32b699",
+          "name": "Ptro",
+          "country": "NO",
+          "url": "https://s2.radio.co/sd7f2a360c/listen",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cfee3afd-3368-468c-bce3-6ec59558764c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
+        },
         {
           "id": "aws_e3ab6d2529a7229f351b",
           "stationId": "awb_e73858c1e29fdd32b699",

@@ -4263,7 +4263,7 @@
     "id": "awb_4236313780f9154e875b",
     "name": "Rádio IBNJ Paris",
     "country": "FR",
-    "subdivision": "Ile de France",
+    "subdivision": "Île-de-France",
     "languages": [
       "fr",
       "pt"
@@ -4278,7 +4278,7 @@
       "gospel music",
       "pop rock"
     ],
-    "homepage": "https://www.radioibnjparis.com/",
+    "homepage": "https://radioibnjparis.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 3,
@@ -9162,6 +9162,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T23:23:26Z"
+      }
+    ]
+  },
+  "awb_428fdd67bae584613b33": {
+    "id": "awb_428fdd67bae584613b33",
+    "name": "WIFC",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.wifc.com/",
+    "favicon": "https://imgs.search.brave.com/BU2Fv-zMw0cPRMGKgvDXmtC8p9Rq8cV73bvS_8ccFfw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cy1y/YWRpby5jb20vd3At/Y29udGVudC91cGxv/YWRzLzk1LjUtV0lG/Qy5qcGc",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T21:11:21Z",
+    "streams": [
+      {
+        "id": "aws_6f5d5e39e3bff2d611d7",
+        "stationId": "awb_428fdd67bae584613b33",
+        "name": "WIFC",
+        "country": "US",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WIFCFM.mp3",
+        "codec": "mp3",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e79ba14b-d4b4-4fd5-bade-8e5359941db6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
       }
     ]
   },

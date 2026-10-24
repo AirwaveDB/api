@@ -1,7 +1,7 @@
 {
   "code": "zho",
   "canonicalCode": "zh",
-  "stationCount": 2037,
+  "stationCount": 2042,
   "stations": [
     {
       "id": "awb_a2962db32ca5ed989369",
@@ -4065,6 +4065,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T13:23:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_22394019aa422b32123b",
+      "name": "CHTV百姓健康频道",
+      "country": "CN",
+      "subdivision": "Beijing",
+      "languages": [
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "health",
+        "tv"
+      ],
+      "homepage": "http://www.mychtv.com/",
+      "favicon": "http://www.mychtv.com/Public/Images/logo_02.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T23:49:55Z",
+      "streams": [
+        {
+          "id": "aws_0209e0aa2bd165ebdc18",
+          "stationId": "awb_22394019aa422b32123b",
+          "name": "CHTV百姓健康频道",
+          "country": "CN",
+          "url": "https://p2hs.vzan.com/1532537644/njyq869272051046520219/live.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "991c605f-ad55-4dcd-9437-544f1bc11a07"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -22995,7 +23035,7 @@
       "id": "awb_023f2667c997817c3da6",
       "name": "哈尔滨经济广播",
       "country": "CN",
-      "subdivision": "黑龙江",
+      "subdivision": "Amur River",
       "languages": [
         "zh"
       ],
@@ -47525,6 +47565,48 @@
       ]
     },
     {
+      "id": "awb_1d20a56d8a17a7a1d5e9",
+      "name": "法国国际广播电台",
+      "country": "CN",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "news"
+      ],
+      "homepage": "https://www.rfi.fr/cn/",
+      "favicon": "https://www.rfi.fr/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-23T14:28:44Z",
+      "streams": [
+        {
+          "id": "aws_5e8113b72c4226c72d43",
+          "stationId": "awb_1d20a56d8a17a7a1d5e9",
+          "name": "法国国际广播电台",
+          "country": "CN",
+          "url": "https://rfienchinois64k.ice.infomaniak.ch//rfienchinois-64.mp3",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a9763c72-8502-4ca7-a172-a562af79d4d4",
+            "c4f67482-7919-40a3-bb2b-a5a6add10e45"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2a97a44e5aa82300e905",
       "name": "泗水广播电视台",
       "country": "CN",
@@ -50682,7 +50764,7 @@
             "0ce755e9-1df0-4cf1-b380-80852e0e3c14"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -64574,7 +64656,7 @@
         "traffic radio broadcast"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiEo.png@350w_1l",
+      "favicon": "http://pic.qingting.fm/2021/0714/20210714033025.jpeg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T18:33:11Z",
@@ -64699,7 +64781,7 @@
         "news"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://img23.11467.com/2023/02-07/571360612.jpg",
+      "favicon": "https://upload-qn.ajmide.com/p/image/202011/07/200-F8R6QPe8jN1604681117564_638x638.jpg@350w_1l",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T03:55:46Z",
@@ -65554,6 +65636,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T21:35:33Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_dcf35bbf3cf2ec650f66",
+      "name": "那曲综合广播",
+      "country": "CN",
+      "subdivision": "xizang",
+      "languages": [
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "full service"
+      ],
+      "homepage": "https://nq.tianma3600.com/application/tenma01ds_tvradio/view/web/#/radio",
+      "favicon": "https://nq.tianma3600.com/uploads/20260728/20903583218623630651021914548013814845681220.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T12:43:18Z",
+      "streams": [
+        {
+          "id": "aws_1806d5a85e11ca0aaaca",
+          "stationId": "awb_dcf35bbf3cf2ec650f66",
+          "name": "那曲综合广播",
+          "country": "CN",
+          "url": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzhgb.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6fedba0e-f646-4f1d-bf38-6f23bbfc9518"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
         }
       ]
     },
@@ -74630,6 +74751,49 @@
       ]
     },
     {
+      "id": "awb_177710b60631eb22dd14",
+      "name": "Jujube Radio Chinese Classics",
+      "country": "CY",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "cantopop",
+        "chinese pop",
+        "mandopop"
+      ],
+      "homepage": "https://jujuberadio.com/",
+      "favicon": "https://jujuberadio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T02:24:51Z",
+      "streams": [
+        {
+          "id": "aws_86c4e38275ea15b3732c",
+          "stationId": "awb_177710b60631eb22dd14",
+          "name": "Jujube Radio Chinese Classics",
+          "country": "CY",
+          "url": "https://jujuberadio.com/chinese",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "97e7c7c1-713e-4998-9f91-66e83460c803"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5b3d17b43c14e1d89d3a",
       "name": "塞浦路斯CCN欧洲中国平台",
       "country": "CY",
@@ -76612,7 +76776,7 @@
             "32ea3bdb-9010-43fa-be37-160f11c1c897"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T15:33:29Z"
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
         },
         {
           "id": "aws_ca430ccf277e04282a21",
@@ -83154,6 +83318,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T11:09:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c7ad8d78b29027b0e48c",
+      "name": "KQEV 104.7 Walnut, California",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "chinese pop"
+      ],
+      "homepage": "https://fm1047.net/",
+      "favicon": "https://i0.wp.com/fm1047.net/wp-content/uploads/2017/07/vola_fb-e1535406187945.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-18T17:31:21Z",
+      "streams": [
+        {
+          "id": "aws_83c7bb7126ed7d70c86d",
+          "stationId": "awb_c7ad8d78b29027b0e48c",
+          "name": "KQEV 104.7 Walnut, California",
+          "country": "US",
+          "url": "http://livecast1.soundofhope.org:2086/KQEVLPlive",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "829f7ce5-2cfe-4481-9f87-9506594a8306"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },

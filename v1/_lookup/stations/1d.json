@@ -249,6 +249,41 @@
       }
     ]
   },
+  "awb_1d05c66d7568141d7538": {
+    "id": "awb_1d05c66d7568141d7538",
+    "name": "7AD Devonport",
+    "country": "AU",
+    "subdivision": "Tasmania",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.7ad.com.au/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T00:45:59Z",
+    "streams": [
+      {
+        "id": "aws_1a950c8a9baa70982249",
+        "stationId": "awb_1d05c66d7568141d7538",
+        "name": "7AD Devonport",
+        "country": "AU",
+        "url": "https://15053.live.streamtheworld.com/DEV_7ADAAC_SC",
+        "codec": "aac+",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e916297e-a76d-4e8e-8e5f-395144ce9eaa"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T03:39:45Z"
+      }
+    ]
+  },
   "awb_1da87909d39bc5b8ed4a": {
     "id": "awb_1da87909d39bc5b8ed4a",
     "name": "Cassette Disco",
@@ -1436,6 +1471,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T13:03:11Z"
+      }
+    ]
+  },
+  "awb_1d20a56d8a17a7a1d5e9": {
+    "id": "awb_1d20a56d8a17a7a1d5e9",
+    "name": "法国国际广播电台",
+    "country": "CN",
+    "subdivision": null,
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.rfi.fr/cn/",
+    "favicon": "https://www.rfi.fr/apple-touch-icon.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-23T14:28:44Z",
+    "streams": [
+      {
+        "id": "aws_5e8113b72c4226c72d43",
+        "stationId": "awb_1d20a56d8a17a7a1d5e9",
+        "name": "法国国际广播电台",
+        "country": "CN",
+        "url": "https://rfienchinois64k.ice.infomaniak.ch//rfienchinois-64.mp3",
+        "codec": "mp3",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a9763c72-8502-4ca7-a172-a562af79d4d4",
+          "c4f67482-7919-40a3-bb2b-a5a6add10e45"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
       }
     ]
   },
@@ -4130,7 +4207,7 @@
       "pop dance"
     ],
     "homepage": "https://www.beat102103.com/",
-    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource122/v4/d0/c0/db/d0c0dbf6-cbee-ed1f-7a47-f7ae868d87f9/70aabc5c-2d63-43ab-ad31-12d2592c7c32.png/1200x1200bf-60.jpg",
+    "favicon": "https://www.beat102103.com/images/ico/android-icon-192x192.png",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-08-24",

@@ -1,6 +1,6 @@
 {
   "id": "talk",
-  "stationCount": 2565,
+  "stationCount": 2571,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -25323,7 +25323,7 @@
     },
     {
       "id": "awb_c92e661791babe438ff3",
-      "name": "ČRO Radiožurnál sport Adhoc stream 2",
+      "name": "ČRO Radiožurnál sport AdHoc stream 2",
       "country": "CZ",
       "subdivision": null,
       "languages": [
@@ -25941,7 +25941,7 @@
             "3f676fb0-3870-4494-8ef2-8ea05ae97300"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -36558,7 +36558,7 @@
         "talk"
       ],
       "homepage": "https://www.tbm06.fr/radio/",
-      "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
+      "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-20T17:58:29Z",
@@ -37479,7 +37479,7 @@
             "22cf6ca2-cb22-46e3-bc75-ae0f8edc4e4b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },
@@ -46903,6 +46903,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T04:32:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_acb6e7554bf92e1511c6",
+      "name": "Δημοτικό Ραδιόφωνο Κατερίνης 95.3",
+      "country": "GR",
+      "subdivision": "Pieria",
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "greek pop",
+        "municipal",
+        "news talk"
+      ],
+      "homepage": "https://www.953fm.gr/",
+      "favicon": "https://resources.live24.gr/resources/images/stations/a6177d20-874f-465e-990c-f09ed43b3dfa.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T18:25:04Z",
+      "streams": [
+        {
+          "id": "aws_d8a148eab27de64508a7",
+          "stationId": "awb_acb6e7554bf92e1511c6",
+          "name": "Δημοτικό Ραδιόφωνο Κατερίνης 95.3",
+          "country": "GR",
+          "url": "https://www.953fm.gr/live.php?t=1792778816016",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b5168cf2-0dcf-48d5-a327-7e2dec0b22a8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -56440,7 +56485,7 @@
             "96295b39-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T15:33:29Z"
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
         },
         {
           "id": "aws_dc6bc5feb0502ba73619",
@@ -59212,6 +59257,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-21T08:09:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff9a90ace28e1301f061",
+      "name": "Yaqeen FM 103.7",
+      "country": "JO",
+      "subdivision": "Amman",
+      "languages": [
+        "ar"
+      ],
+      "categories": [
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "islamic",
+        "religious",
+        "talk"
+      ],
+      "homepage": null,
+      "favicon": "https://cdn-profiles.tunein.com/s199080/images/logog.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T09:44:19Z",
+      "streams": [
+        {
+          "id": "aws_81bcda5148fb2dca0bcc",
+          "stationId": "awb_ff9a90ace28e1301f061",
+          "name": "Yaqeen FM 103.7",
+          "country": "JO",
+          "url": "http://45.63.116.205:8000/stream4",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "66b08e8e-3be6-4c4e-a765-9423e0398110"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
         }
       ]
     },
@@ -83469,7 +83558,7 @@
       "id": "awb_5989de5122b255078072",
       "name": "99.5 DZYW koolFM",
       "country": "PH",
-      "subdivision": "Quezon City",
+      "subdivision": "Metro Manila",
       "languages": [
         "en"
       ],
@@ -85298,7 +85387,7 @@
       "id": "awb_4b49e5c817ec766fe4aa",
       "name": "radiOFF",
       "country": "PL",
-      "subdivision": "Oderland",
+      "subdivision": "Lubuskie",
       "languages": [
         "de",
         "pl"
@@ -85330,7 +85419,7 @@
         "storytelling",
         "viadrina"
       ],
-      "homepage": "https://radioff.com/",
+      "homepage": "http://radioff.com/",
       "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
       "type": null,
       "sourceCount": 3,
@@ -98853,7 +98942,7 @@
             "ba58abda-2366-4429-b21b-e1471afd8bd0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -98945,9 +99034,9 @@
     },
     {
       "id": "awb_55d09ea1a556d2936616",
-      "name": "2020 The Beacon -- Shining A Light On You",
+      "name": "2020 The Beacon -- Shining A light on you",
       "country": "US",
-      "subdivision": "Colorado",
+      "subdivision": "col",
       "languages": [
         "en"
       ],
@@ -104093,7 +104182,7 @@
             "2451dfcd-66c6-4134-a48f-417f049d448c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
         }
       ]
     },
@@ -106437,6 +106526,56 @@
       ]
     },
     {
+      "id": "awb_5dfd17c18cd586c6c4a8",
+      "name": "KPPM 93.5 Lake Charles, Louisiana",
+      "country": "US",
+      "subdivision": "Louisiana",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "jazz",
+        "religious",
+        "talk"
+      ],
+      "tags": [
+        "african american",
+        "black gospel",
+        "blues",
+        "jazz",
+        "southern soul",
+        "talk radio",
+        "zydeco"
+      ],
+      "homepage": "https://kppmfm.com/",
+      "favicon": "https://kppmfm.com/wp-content/uploads/2026/09/ChatGPT-Image-Aug-17-2026-02_19_46-PM.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T01:42:07Z",
+      "streams": [
+        {
+          "id": "aws_450e237b9749ef9cbce2",
+          "stationId": "awb_5dfd17c18cd586c6c4a8",
+          "name": "KPPM 93.5 Lake Charles, Louisiana",
+          "country": "US",
+          "url": "https://ice3.securenetsystems.net/KPPM",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ac7c963b-39f4-4299-a4d9-22fb283edb75"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ff1794f1dc8a3e9dcbe0",
       "name": "KPRC AM 950",
       "country": "US",
@@ -107781,6 +107920,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T22:09:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_bc38ee296e0d79cd2684",
+      "name": "KXEP \"The Empower House\" 101.5 - San Antonio, Texas",
+      "country": "US",
+      "subdivision": "Texas",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "categories": [
+        "community",
+        "talk"
+      ],
+      "tags": [
+        "community radio",
+        "lgbtq",
+        "music variety",
+        "political talk"
+      ],
+      "homepage": "https://empowerhousesa.org/radio/",
+      "favicon": "https://images.radio.co/station_logos/s4a6d5e028.20240411013910.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T04:28:23Z",
+      "streams": [
+        {
+          "id": "aws_f7fa91c50c7f0aa005f9",
+          "stationId": "awb_bc38ee296e0d79cd2684",
+          "name": "KXEP \"The Empower House\" 101.5 - San Antonio, Texas",
+          "country": "US",
+          "url": "https://s2.radio.co/s4a6d5e028/listen",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8f890f80-13f7-4d75-a194-b4036438872f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -113141,6 +113326,50 @@
       ]
     },
     {
+      "id": "awb_b794c8da0628a25d211a",
+      "name": "Social Feed Radio",
+      "country": "US",
+      "subdivision": "Pennsylvania",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "news-talk",
+        "talk"
+      ],
+      "homepage": "https://www.socialfeedradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T01:44:00Z",
+      "streams": [
+        {
+          "id": "aws_2d8856e1aabcb30eeac4",
+          "stationId": "awb_b794c8da0628a25d211a",
+          "name": "Social Feed Radio",
+          "country": "US",
+          "url": "https://cast1.soundcast.ca:8443/socialfeedradio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6480a3e8-53b2-4c28-a43b-b59d78aa149c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_37beca10156eced7531c",
       "name": "Talk | Montez Press Radio",
       "country": "US",
@@ -113476,7 +113705,7 @@
             "e4e2c442-268f-4ff1-8a3c-61248c2ca300"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },
@@ -114243,7 +114472,7 @@
             "a46b8147-96d9-4da2-9428-dee2f18e0b03"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         },
         {
           "id": "aws_4c95b14227185d511734",
@@ -115102,7 +115331,7 @@
             "46910332-733f-4bcf-951c-d9b5ebf35c2e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },
@@ -116503,6 +116732,50 @@
       ]
     },
     {
+      "id": "awb_ffc458ffeb1bc5e7a325",
+      "name": "WHIV 102.3 New Orleans, Louisiana",
+      "country": "US",
+      "subdivision": "Louisiana",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "talk"
+      ],
+      "tags": [
+        "community radio",
+        "music variety",
+        "political talk"
+      ],
+      "homepage": "https://whivfm.org/",
+      "favicon": "https://images.squarespace-cdn.com/content/v1/5b4e2887b27e39e732bdeb2e/e06fdc95-a88f-4c89-92bd-6abc1ecb9254/WHIV%2BLogo%2B2018.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T02:10:34Z",
+      "streams": [
+        {
+          "id": "aws_9481003e352b4070d5e5",
+          "stationId": "awb_ffc458ffeb1bc5e7a325",
+          "name": "WHIV 102.3 New Orleans, Louisiana",
+          "country": "US",
+          "url": "http://peridot.streamguys.com:5080/live-mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4848fe61-0e58-4af7-8382-f0f4a3e523ae"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6461f271321ffb7b83b8",
       "name": "WHP 580",
       "country": "US",
@@ -116683,7 +116956,7 @@
       "id": "awb_22024cbbd9c119a9375e",
       "name": "WHYR 96.9 FM – Baton Rouge Community Radio",
       "country": "US",
-      "subdivision": "LA - Louisiana",
+      "subdivision": "Loui",
       "languages": [
         "en"
       ],
@@ -117435,7 +117708,7 @@
             "3156c76d-0f79-4e28-abfc-6ddc388aef59"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },
@@ -117597,8 +117870,8 @@
           "name": "WLMX \"Radio St. Pete Online Channel 2\" St. Petersburg, Florida",
           "country": "US",
           "url": "https://stream.radio.co/sadfcc5289/listen",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -117608,7 +117881,7 @@
             "e73e188d-40ce-44f6-850a-fc40cd2de371"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },
@@ -118800,7 +119073,7 @@
             "16e52888-8103-4d7e-a92a-548b6df622b4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T15:33:29Z"
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },

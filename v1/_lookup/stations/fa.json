@@ -993,6 +993,41 @@
       }
     ]
   },
+  "awb_fa4c19d61ea4fe70c9e2": {
+    "id": "awb_fa4c19d61ea4fe70c9e2",
+    "name": "fm_Salyutf",
+    "country": "BY",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://stream.salyutfm.ru:8000/stream",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T10:35:39Z",
+    "streams": [
+      {
+        "id": "aws_73bc617d0d9dea774383",
+        "stationId": "awb_fa4c19d61ea4fe70c9e2",
+        "name": "fm_Salyutf",
+        "country": "BY",
+        "url": "http://stream.salyutfm.ru:8000/stream",
+        "codec": "mp3",
+        "bitrate": 160,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d2a30318-0c3e-402b-8dda-1ca2ded8b566"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
+      }
+    ]
+  },
   "awb_fad6015bca8c93c7f11c": {
     "id": "awb_fad6015bca8c93c7f11c",
     "name": "CJCW 590 Sussex, NB",
@@ -2973,6 +3008,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-23T00:16:57Z"
+      }
+    ]
+  },
+  "awb_fa698ef67941757f0f8b": {
+    "id": "awb_fa698ef67941757f0f8b",
+    "name": "EXA FM 92.5 FM",
+    "country": "EC",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://exafm.net/video/",
+    "favicon": "https://cdn-profiles.tunein.com/s95322/images/logog.jpg?t=155750",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T04:25:29Z",
+    "streams": [
+      {
+        "id": "aws_e95edcc1bfa5b57ff769",
+        "stationId": "awb_fa698ef67941757f0f8b",
+        "name": "EXA FM 92.5 FM",
+        "country": "EC",
+        "url": "https://27423.live.streamtheworld.com/ECUADORAAC.aac",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1edb99b0-006b-4655-8d15-281eb1bafdd2"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },
@@ -8964,7 +9034,7 @@
       "variety hits"
     ],
     "homepage": "http://www.wyml.us/",
-    "favicon": "https://wyml.us/assets/favicon.png",
+    "favicon": "https://www.wyml.us/assets/Logo1.png",
     "type": "public",
     "sourceCount": 3,
     "updatedAt": "2026-05-07T20:50:10Z",

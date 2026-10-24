@@ -6185,21 +6185,6 @@
       }
     ]
   },
-  "awb_91712b3e161013d0af4f": {
-    "id": "awb_91712b3e161013d0af4f",
-    "name": "Valor Radio",
-    "country": "PL",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://radio.mikihisa.dev/public/valor",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-23T06:07:20Z",
-    "streams": []
-  },
   "awb_916b08410cd801dcc353": {
     "id": "awb_916b08410cd801dcc353",
     "name": "Cool FM Albufeira",
@@ -6582,7 +6567,7 @@
           "dc3592d3-3ada-4aae-ae41-0e4a1f5096ef"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-18T22:07:29Z"
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
       }
     ]
   },
@@ -8089,7 +8074,7 @@
           "ae2453a5-341d-4897-a214-9b99e4950a89"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T02:35:15Z"
+        "lastCheckedAt": "2026-10-24T03:39:45Z"
       }
     ]
   },
@@ -8294,6 +8279,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T03:33:38Z"
+      }
+    ]
+  },
+  "awb_91e2773435ac4b40a4c7": {
+    "id": "awb_91e2773435ac4b40a4c7",
+    "name": "WAMF 90.3 New Orleans, Louisiana",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "music variety"
+    ],
+    "homepage": "https://wamf.org/",
+    "favicon": "https://wamf.org/wp-content/uploads/2017/06/cropped-WAMF-LOGO-w-color-1-768x768.jpg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T01:20:33Z",
+    "streams": [
+      {
+        "id": "aws_4307200d6854af880396",
+        "stationId": "awb_91e2773435ac4b40a4c7",
+        "name": "WAMF 90.3 New Orleans, Louisiana",
+        "country": "US",
+        "url": "https://cast.acornradio.org/wamf",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "98105b9e-366a-4330-92b9-32481bc8fb97"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T02:40:54Z"
       }
     ]
   },

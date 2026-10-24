@@ -66,7 +66,7 @@
       "rock"
     ],
     "homepage": "https://exclusive.radio/",
-    "favicon": "https://s1.qwant.com/thumbr/474x355/a/f/bc8c2acd7d97a6ed1c1c01d04cfded2403ebbaa40c71560a7cb540bd5785c6/OIP.yEB4ZHBVjcZFJLVuYtZ7sAAAAA.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.yEB4ZHBVjcZFJLVuYtZ7sAAAAA%3Fpid%3DApi&q=0&b=1&p=0&a=0",
+    "favicon": "https://s1.qwant.com/thumbr/474x316/9/c/c7c07b531c2a5efb3f78e3e05fe286b3efb3f51ca0450cd2b875c5c724dd38/OIP.iAveVg4WM9IyCkPL_0w-mwHaE8.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.iAveVg4WM9IyCkPL_0w-mwHaE8%3Fpid%3DApi&q=0&b=1&p=0&a=0",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-10-15T10:39:00Z",
@@ -1257,6 +1257,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T10:48:39Z"
+      }
+    ]
+  },
+  "awb_dcf35bbf3cf2ec650f66": {
+    "id": "awb_dcf35bbf3cf2ec650f66",
+    "name": "那曲综合广播",
+    "country": "CN",
+    "subdivision": "xizang",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "full service"
+    ],
+    "homepage": "https://nq.tianma3600.com/application/tenma01ds_tvradio/view/web/#/radio",
+    "favicon": "https://nq.tianma3600.com/uploads/20260728/20903583218623630651021914548013814845681220.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:43:18Z",
+    "streams": [
+      {
+        "id": "aws_1806d5a85e11ca0aaaca",
+        "stationId": "awb_dcf35bbf3cf2ec650f66",
+        "name": "那曲综合广播",
+        "country": "CN",
+        "url": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzhgb.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6fedba0e-f646-4f1d-bf38-6f23bbfc9518"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
       }
     ]
   },

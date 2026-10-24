@@ -1,7 +1,7 @@
 {
   "code": "PL",
-  "stationCount": 900,
-  "streamCount": 983,
+  "stationCount": 899,
+  "streamCount": 985,
   "stations": [
     {
       "id": "awb_03de24da3435e407fba6",
@@ -4265,8 +4265,8 @@
       "homepage": "https://www.eskarock.pl/",
       "favicon": "https://static.mytuner.mobi/media/tvos_radios/2LqeyZhdFq.png",
       "type": null,
-      "sourceCount": 3,
-      "updatedAt": "2026-08-24",
+      "sourceCount": 5,
+      "updatedAt": "2026-10-23T21:54:25Z",
       "streams": [
         {
           "id": "aws_9407c90ab5ada1c44559",
@@ -4288,6 +4288,25 @@
           "lastCheckedAt": "2026-10-23T00:27:51Z"
         },
         {
+          "id": "aws_1bb2e2294f92708d70b2",
+          "stationId": "awb_2ed0263ef97686da4c11",
+          "name": "ESKA ROCK",
+          "country": "PL",
+          "url": "https://ic2.smcdn.pl/5380-1.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5c35f5b9-094d-4440-92d7-f4f21d1d7105"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
+        },
+        {
           "id": "aws_efc3f24d6fce4862031f",
           "stationId": "awb_2ed0263ef97686da4c11",
           "name": "ESKA ROCK",
@@ -4306,7 +4325,7 @@
             "bf487b2b-503c-42c3-b088-9b5d679fdf29"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T02:32:47Z"
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -22385,7 +22404,7 @@
             "96100732-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T15:33:29Z"
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
         }
       ]
     },
@@ -27056,7 +27075,7 @@
       "id": "awb_4b49e5c817ec766fe4aa",
       "name": "radiOFF",
       "country": "PL",
-      "subdivision": "Oderland",
+      "subdivision": "Lubuskie",
       "languages": [
         "de",
         "pl"
@@ -27088,7 +27107,7 @@
         "storytelling",
         "viadrina"
       ],
-      "homepage": "https://radioff.com/",
+      "homepage": "http://radioff.com/",
       "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
       "type": null,
       "sourceCount": 3,
@@ -30975,7 +30994,7 @@
       "id": "awb_ccafb97eb92dab888427",
       "name": "RMF MAXX",
       "country": "PL",
-      "subdivision": "Małopolskie",
+      "subdivision": "Malopolskie",
       "languages": [
         "pl"
       ],
@@ -30983,14 +31002,39 @@
         "pop"
       ],
       "tags": [
-        "pop"
+        "dance pop",
+        "energetic",
+        "high energy",
+        "party",
+        "pop",
+        "top 40",
+        "upbeat"
       ],
       "homepage": "https://www.rmfmaxx.pl/",
-      "favicon": "https://www.rmfmaxx.pl/favicon.ico",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VCxLogQxD9XPszTgZkGp3WCNUOBzXBkyQQ&s",
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-12T12:16:58Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-23T21:50:24Z",
       "streams": [
+        {
+          "id": "aws_d6bd23a0a7c53770423a",
+          "stationId": "awb_ccafb97eb92dab888427",
+          "name": "RMF MAXX",
+          "country": "PL",
+          "url": "http://195.150.20.242/rmf_maxxx",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb403aa2-2451-45e4-b770-a62012d2ddac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
+        },
         {
           "id": "aws_5a5e5f9cf3905eeaa36a",
           "stationId": "awb_ccafb97eb92dab888427",
@@ -36336,21 +36380,6 @@
           "lastCheckedAt": "2026-10-21T22:28:34Z"
         }
       ]
-    },
-    {
-      "id": "awb_91712b3e161013d0af4f",
-      "name": "Valor Radio",
-      "country": "PL",
-      "subdivision": null,
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://radio.mikihisa.dev/public/valor",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-23T06:07:20Z",
-      "streams": []
     },
     {
       "id": "awb_a3c634e57559c3a186aa",

@@ -5654,8 +5654,8 @@
     "languages": [],
     "categories": [],
     "tags": [],
-    "homepage": "https://glassrock.nl/",
-    "favicon": "https://glassrock.nl/grlogo.png",
+    "homepage": "http://www.glassrock.nl/",
+    "favicon": "https://www.glassrock.nl/images/GR%20Logo%20rm.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-06-08T14:11:56Z",
@@ -8383,6 +8383,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T11:50:55Z"
+      }
+    ]
+  },
+  "awb_a94272a6c10de80ee9be": {
+    "id": "awb_a94272a6c10de80ee9be",
+    "name": "EWTN Classics",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "catholic",
+      "christian",
+      "christianity",
+      "religious"
+    ],
+    "homepage": "https://www.ewtn.com/",
+    "favicon": "https://www.ewtn.com/img/favicons/favicon-128x128.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T08:59:31Z",
+    "streams": [
+      {
+        "id": "aws_90de740f683d191c6870",
+        "stationId": "awb_a94272a6c10de80ee9be",
+        "name": "EWTN Classics",
+        "country": "US",
+        "url": "https://ewtn-ice.streamguys1.com/classics-aac",
+        "codec": "aac",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "44517a78-03f0-4d0e-8f93-f83d5de73986"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:20Z"
       }
     ]
   },

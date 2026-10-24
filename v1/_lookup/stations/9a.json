@@ -4624,6 +4624,41 @@
       }
     ]
   },
+  "awb_9aa91ef9fa13404e8d3d": {
+    "id": "awb_9aa91ef9fa13404e8d3d",
+    "name": "NXS WEB RADIO",
+    "country": "ID",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://netwymanblogs.net/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T13:52:11Z",
+    "streams": [
+      {
+        "id": "aws_45c2ff4c6af2d13a0ac0",
+        "stationId": "awb_9aa91ef9fa13404e8d3d",
+        "name": "NXS WEB RADIO",
+        "country": "ID",
+        "url": "https://centova.dukahosting.com/proxy/nxsradio/stream?1650565787793",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "165d3760-6dc2-466d-8fc3-f2aab177e67f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
+      }
+    ]
+  },
   "awb_9a7dca0f78e6f8444da9": {
     "id": "awb_9a7dca0f78e6f8444da9",
     "name": "ברסלב פוריו: דעת רבנו",
@@ -5222,7 +5257,7 @@
           "425e8c93-790d-4100-9868-f107923af220"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-18T15:33:29Z"
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
       }
     ]
   },
@@ -7792,6 +7827,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-21T22:29:28Z"
+      }
+    ]
+  },
+  "awb_9a973b08b86a4556a204": {
+    "id": "awb_9a973b08b86a4556a204",
+    "name": "KELB 100.5 Lake Charles, Louisiana",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian preaching",
+      "gospel music"
+    ],
+    "homepage": "https://www.kelbradio.com/",
+    "favicon": "https://www.kelbradio.com/resources/KELB_Information/KELB_Logo.png.opt439x330o0%2C0s439x330.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T02:10:34Z",
+    "streams": [
+      {
+        "id": "aws_f73446f34f304ccfe33e",
+        "stationId": "awb_9a973b08b86a4556a204",
+        "name": "KELB 100.5 Lake Charles, Louisiana",
+        "country": "US",
+        "url": "https://streaming.live365.com/a59327",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7da9bf83-ee9b-45c6-96bf-5e009d836be1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T02:40:54Z"
       }
     ]
   },

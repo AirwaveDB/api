@@ -1,7 +1,7 @@
 {
   "code": "CY",
-  "stationCount": 54,
-  "streamCount": 57,
+  "stationCount": 59,
+  "streamCount": 62,
   "stations": [
     {
       "id": "awb_96d135a54b7ef12d4da4",
@@ -510,6 +510,135 @@
       ]
     },
     {
+      "id": "awb_177710b60631eb22dd14",
+      "name": "Jujube Radio Chinese Classics",
+      "country": "CY",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "cantopop",
+        "chinese pop",
+        "mandopop"
+      ],
+      "homepage": "https://jujuberadio.com/",
+      "favicon": "https://jujuberadio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T02:24:51Z",
+      "streams": [
+        {
+          "id": "aws_86c4e38275ea15b3732c",
+          "stationId": "awb_177710b60631eb22dd14",
+          "name": "Jujube Radio Chinese Classics",
+          "country": "CY",
+          "url": "https://jujuberadio.com/chinese",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "97e7c7c1-713e-4998-9f91-66e83460c803"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cebbd3d415718b0f2c8d",
+      "name": "Jujube Radio Classic Rock",
+      "country": "CY",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "classic rock",
+        "rock"
+      ],
+      "homepage": "https://jujuberadio.com/",
+      "favicon": "https://jujuberadio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T02:16:48Z",
+      "streams": [
+        {
+          "id": "aws_4f145b34935d71cf1005",
+          "stationId": "awb_cebbd3d415718b0f2c8d",
+          "name": "Jujube Radio Classic Rock",
+          "country": "CY",
+          "url": "https://jujuberadio.com/classicrock",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8b7436cc-4503-4de5-8db1-d6368eb23a7e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff419c87d282f63d921b",
+      "name": "Jujube Radio Dance Hits",
+      "country": "CY",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "club",
+        "dance",
+        "edm",
+        "house"
+      ],
+      "homepage": "https://jujuberadio.com/dance",
+      "favicon": "https://jujuberadio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T02:31:58Z",
+      "streams": [
+        {
+          "id": "aws_4c809b526849e0b2f244",
+          "stationId": "awb_ff419c87d282f63d921b",
+          "name": "Jujube Radio Dance Hits",
+          "country": "CY",
+          "url": "https://jujuberadio.com/dance",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "41660c82-d479-4e59-a64c-dc616927c237"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9436bd6f7a23359ba84c",
       "name": "Jujube Radio Hits",
       "country": "CY",
@@ -543,6 +672,93 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T11:37:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5d829a517c41a14b6a19",
+      "name": "Jujube Radio Love Songs",
+      "country": "CY",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "ballads",
+        "love songs",
+        "soft pop"
+      ],
+      "homepage": "https://jujuberadio.com/",
+      "favicon": "https://jujuberadio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T01:44:00Z",
+      "streams": [
+        {
+          "id": "aws_21137e763481e3ef4282",
+          "stationId": "awb_5d829a517c41a14b6a19",
+          "name": "Jujube Radio Love Songs",
+          "country": "CY",
+          "url": "https://jujuberadio.com/love",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0d7238c8-883d-4be7-ba89-6dd930988dfe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8d02c031811ed91b6f6e",
+      "name": "Jujube Radio Party Classics",
+      "country": "CY",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "disco",
+        "oldies"
+      ],
+      "homepage": "https://jujuberadio.com/",
+      "favicon": "https://jujuberadio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T01:12:29Z",
+      "streams": [
+        {
+          "id": "aws_a35e1db6fe570ed2cd45",
+          "stationId": "awb_8d02c031811ed91b6f6e",
+          "name": "Jujube Radio Party Classics",
+          "country": "CY",
+          "url": "https://jujuberadio.com/partyclassics",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1439b51e-70dc-4335-92c5-d100609ce81c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
         }
       ]
     },

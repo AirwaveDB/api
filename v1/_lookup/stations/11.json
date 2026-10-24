@@ -3713,6 +3713,45 @@
       }
     ]
   },
+  "awb_11283e84af1580d224e5": {
+    "id": "awb_11283e84af1580d224e5",
+    "name": "FRONTERA RADIO",
+    "country": "ES",
+    "subdivision": "Andalucia",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "flamenco"
+    ],
+    "homepage": "https://www.fronteraradio.org/",
+    "favicon": "https://i.imgur.com/AvLDWo8.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T15:53:25Z",
+    "streams": [
+      {
+        "id": "aws_6e47d2a80568d76eac10",
+        "stationId": "awb_11283e84af1580d224e5",
+        "name": "FRONTERA RADIO",
+        "country": "ES",
+        "url": "https://relay.stream.enacast-cloud.com:30284/fronteraradioHD.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bccd6828-0b78-4865-8ee0-93e4ba2143b6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
+      }
+    ]
+  },
   "awb_1100d52dbc9e6cb6ad70": {
     "id": "awb_1100d52dbc9e6cb6ad70",
     "name": "Mad Radio Barcelona",
@@ -7523,6 +7562,41 @@
       }
     ]
   },
+  "awb_116d6825c62bab3fbd98": {
+    "id": "awb_116d6825c62bab3fbd98",
+    "name": "RMN DXDR 981 Dipolog",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rmn.ph/dxdr981dipolog",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/Dipolog.png?w=400&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:18:20Z",
+    "streams": [
+      {
+        "id": "aws_a788813002ab486671e0",
+        "stationId": "awb_116d6825c62bab3fbd98",
+        "name": "RMN DXDR 981 Dipolog",
+        "country": "PH",
+        "url": "https://livestream.rmn.ph/dxdrdipolog",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9b4bd95f-ff5a-43de-9abf-db18c520f29e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T02:40:54Z"
+      }
+    ]
+  },
   "awb_1164906f9a4c3b5ebfa5": {
     "id": "awb_1164906f9a4c3b5ebfa5",
     "name": "UFM 105.5",
@@ -9692,6 +9766,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T01:43:15Z"
+      }
+    ]
+  },
+  "awb_1193fd6ef151e81daab0": {
+    "id": "awb_1193fd6ef151e81daab0",
+    "name": "KXTJ \"Classic Hits 96.9\" San Antonio Texas",
+    "country": "US",
+    "subdivision": "Texas",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "pop"
+    ],
+    "tags": [
+      "classic hits",
+      "electronic dance music"
+    ],
+    "homepage": "https://hits969.com/",
+    "favicon": "https://img1.wsimg.com/isteam/ip/bee4223d-c84c-4c88-ba14-6399f4b2b0bd/IMG_0296.jpeg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T04:44:39Z",
+    "streams": [
+      {
+        "id": "aws_a0fe1793617acacb2365",
+        "stationId": "awb_1193fd6ef151e81daab0",
+        "name": "KXTJ \"Classic Hits 96.9\" San Antonio Texas",
+        "country": "US",
+        "url": "https://s5.radio.co/s6ac20f7f4/listen",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "01908911-94f9-4bec-9096-a3afa62c351a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

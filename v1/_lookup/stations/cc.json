@@ -2435,8 +2435,8 @@
     "homepage": "https://radio.xecod.com/listen/khaledabushady",
     "favicon": null,
     "type": null,
-    "sourceCount": 8,
-    "updatedAt": "2026-10-20T20:09:26Z",
+    "sourceCount": 9,
+    "updatedAt": "2026-10-23T19:13:16Z",
     "streams": [
       {
         "id": "aws_44d7b68e302354b81f24",
@@ -2445,7 +2445,7 @@
         "country": "EG",
         "url": "https://radio.xecod.com/station/khaledabushady",
         "codec": "mp3",
-        "bitrate": 64,
+        "bitrate": 32,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -2456,7 +2456,7 @@
           "09e25af8-0999-42e4-b231-9b12949c95f4"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T01:23:42Z"
+        "lastCheckedAt": "2026-10-24T02:40:54Z"
       }
     ]
   },
@@ -4974,7 +4974,7 @@
           "237da676-b4b7-40e4-8620-94f64b9bfcea"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-18T15:33:29Z"
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
       }
     ]
   },
@@ -6232,7 +6232,7 @@
     "id": "awb_ccafb97eb92dab888427",
     "name": "RMF MAXX",
     "country": "PL",
-    "subdivision": "Małopolskie",
+    "subdivision": "Malopolskie",
     "languages": [
       "pl"
     ],
@@ -6240,14 +6240,39 @@
       "pop"
     ],
     "tags": [
-      "pop"
+      "dance pop",
+      "energetic",
+      "high energy",
+      "party",
+      "pop",
+      "top 40",
+      "upbeat"
     ],
     "homepage": "https://www.rmfmaxx.pl/",
-    "favicon": "https://www.rmfmaxx.pl/favicon.ico",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VCxLogQxD9XPszTgZkGp3WCNUOBzXBkyQQ&s",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-12T12:16:58Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-23T21:50:24Z",
     "streams": [
+      {
+        "id": "aws_d6bd23a0a7c53770423a",
+        "stationId": "awb_ccafb97eb92dab888427",
+        "name": "RMF MAXX",
+        "country": "PL",
+        "url": "http://195.150.20.242/rmf_maxxx",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bb403aa2-2451-45e4-b770-a62012d2ddac"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
+      },
       {
         "id": "aws_5a5e5f9cf3905eeaa36a",
         "stationId": "awb_ccafb97eb92dab888427",
@@ -8725,6 +8750,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T11:57:38Z"
+      }
+    ]
+  },
+  "awb_cc1f1993241b0e8d9007": {
+    "id": "awb_cc1f1993241b0e8d9007",
+    "name": "WNOG 104.1 New Orleans, Louisiana",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "blues"
+    ],
+    "tags": [
+      "rhythm and blues",
+      "soul"
+    ],
+    "homepage": "https://wnog1041.com/",
+    "favicon": "https://wnog1041.com/wnog_tr.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T02:16:48Z",
+    "streams": [
+      {
+        "id": "aws_ed00f26b63d4567673c3",
+        "stationId": "awb_cc1f1993241b0e8d9007",
+        "name": "WNOG 104.1 New Orleans, Louisiana",
+        "country": "US",
+        "url": "https://wnog1041.com/proxywnog.php",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "cbbd86c2-3b57-4d8e-8271-8c76a17e5a24"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T03:39:45Z"
       }
     ]
   },

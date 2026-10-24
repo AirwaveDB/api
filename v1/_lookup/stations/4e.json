@@ -689,7 +689,7 @@
           "5da9e61c-add8-47d5-b648-3f4420fc4b60"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T02:35:15Z"
+        "lastCheckedAt": "2026-10-24T03:39:45Z"
       }
     ]
   },
@@ -732,7 +732,7 @@
   },
   "awb_4efbd7a6b22fc211c2b1": {
     "id": "awb_4efbd7a6b22fc211c2b1",
-    "name": "Rowyna Music (New stream)",
+    "name": "Rowyna Music (NEW stream)",
     "country": "BE",
     "subdivision": null,
     "languages": [
@@ -3533,6 +3533,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T08:45:37Z"
+      }
+    ]
+  },
+  "awb_4ea479c379672b38eac3": {
+    "id": "awb_4ea479c379672b38eac3",
+    "name": "Reggae on Party Vibe Radio",
+    "country": "GB",
+    "subdivision": "London",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "reggae"
+    ],
+    "tags": [
+      "reggae"
+    ],
+    "homepage": "https://www.partyvibe.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T11:53:43Z",
+    "streams": [
+      {
+        "id": "aws_74700f48119ed32be40c",
+        "stationId": "awb_4ea479c379672b38eac3",
+        "name": "Reggae on Party Vibe Radio",
+        "country": "GB",
+        "url": "http://www.partyviberadio.com:8000/stream/1/",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3707b63a-983a-4ab2-9299-1f9145eb6d8f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
       }
     ]
   },

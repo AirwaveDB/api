@@ -1612,6 +1612,46 @@
       }
     ]
   },
+  "awb_22394019aa422b32123b": {
+    "id": "awb_22394019aa422b32123b",
+    "name": "CHTV百姓健康频道",
+    "country": "CN",
+    "subdivision": "Beijing",
+    "languages": [
+      "zh"
+    ],
+    "categories": [],
+    "tags": [
+      "health",
+      "tv"
+    ],
+    "homepage": "http://www.mychtv.com/",
+    "favicon": "http://www.mychtv.com/Public/Images/logo_02.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T23:49:55Z",
+    "streams": [
+      {
+        "id": "aws_0209e0aa2bd165ebdc18",
+        "stationId": "awb_22394019aa422b32123b",
+        "name": "CHTV百姓健康频道",
+        "country": "CN",
+        "url": "https://p2hs.vzan.com/1532537644/njyq869272051046520219/live.m3u8",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "991c605f-ad55-4dcd-9437-544f1bc11a07"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_2268a2258a7ae149fe99": {
     "id": "awb_2268a2258a7ae149fe99",
     "name": "九江交通广播",
@@ -9150,7 +9190,7 @@
     "id": "awb_22024cbbd9c119a9375e",
     "name": "WHYR 96.9 FM – Baton Rouge Community Radio",
     "country": "US",
-    "subdivision": "LA - Louisiana",
+    "subdivision": "Loui",
     "languages": [
       "en"
     ],

@@ -988,7 +988,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina,SC",
+    "subdivision": "Santa Catarina, SC",
     "languages": [],
     "categories": [
       "country",
@@ -8322,6 +8322,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T05:23:34Z"
+      }
+    ]
+  },
+  "awb_2bfe8a17bbde8779f3f9": {
+    "id": "awb_2bfe8a17bbde8779f3f9",
+    "name": "iPartyRadio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "2000s",
+      "90s",
+      "club",
+      "dance",
+      "pop"
+    ],
+    "homepage": "https://ipartyradio.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T19:55:01Z",
+    "streams": [
+      {
+        "id": "aws_16d972e08abbb68bf01b",
+        "stationId": "awb_2bfe8a17bbde8779f3f9",
+        "name": "iPartyRadio",
+        "country": "US",
+        "url": "https://streaming.live365.com/a90324",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6e3850b8-3f85-4921-9326-6996bcff1339"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T22:17:37Z"
       }
     ]
   },

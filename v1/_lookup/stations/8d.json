@@ -2050,6 +2050,50 @@
       }
     ]
   },
+  "awb_8d02c031811ed91b6f6e": {
+    "id": "awb_8d02c031811ed91b6f6e",
+    "name": "Jujube Radio Party Classics",
+    "country": "CY",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies"
+    ],
+    "tags": [
+      "70s",
+      "80s",
+      "disco",
+      "oldies"
+    ],
+    "homepage": "https://jujuberadio.com/",
+    "favicon": "https://jujuberadio.com/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T01:12:29Z",
+    "streams": [
+      {
+        "id": "aws_a35e1db6fe570ed2cd45",
+        "stationId": "awb_8d02c031811ed91b6f6e",
+        "name": "Jujube Radio Party Classics",
+        "country": "CY",
+        "url": "https://jujuberadio.com/partyclassics",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1439b51e-70dc-4335-92c5-d100609ce81c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T03:39:45Z"
+      }
+    ]
+  },
   "awb_8d7169c308dc848908c1": {
     "id": "awb_8d7169c308dc848908c1",
     "name": "Calimeroclub Radio",
@@ -4384,7 +4428,7 @@
           "fffa0320-34a0-406e-b3d1-3e93dd2c630d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T02:35:15Z"
+        "lastCheckedAt": "2026-10-24T02:40:54Z"
       }
     ]
   },
@@ -7181,6 +7225,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T14:14:55Z"
+      }
+    ]
+  },
+  "awb_8d9683d8475bc66009b0": {
+    "id": "awb_8d9683d8475bc66009b0",
+    "name": "RMN DYRI 774 Iloilo",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rmn.ph/dyri774iloilo",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/Iloilo.png?w=400&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:34:13Z",
+    "streams": [
+      {
+        "id": "aws_b9f8f70b5fcb5bf6b591",
+        "stationId": "awb_8d9683d8475bc66009b0",
+        "name": "RMN DYRI 774 Iloilo",
+        "country": "PH",
+        "url": "https://livestream.rmn.ph/rmniloilo",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7254f1cc-277b-4bba-b5f1-d22435c69ff6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-23T15:41:19Z"
       }
     ]
   },

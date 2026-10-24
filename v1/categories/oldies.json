@@ -1,6 +1,6 @@
 {
   "id": "oldies",
-  "stationCount": 2974,
+  "stationCount": 2980,
   "stations": [
     {
       "id": "awb_54b14451982a6e74df55",
@@ -25924,6 +25924,50 @@
       ]
     },
     {
+      "id": "awb_8d02c031811ed91b6f6e",
+      "name": "Jujube Radio Party Classics",
+      "country": "CY",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "70s",
+        "80s",
+        "disco",
+        "oldies"
+      ],
+      "homepage": "https://jujuberadio.com/",
+      "favicon": "https://jujuberadio.com/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T01:12:29Z",
+      "streams": [
+        {
+          "id": "aws_a35e1db6fe570ed2cd45",
+          "stationId": "awb_8d02c031811ed91b6f6e",
+          "name": "Jujube Radio Party Classics",
+          "country": "CY",
+          "url": "https://jujuberadio.com/partyclassics",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1439b51e-70dc-4335-92c5-d100609ce81c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a20c5285d928a8180707",
       "name": "Radio Turbo21",
       "country": "CY",
@@ -33733,7 +33777,7 @@
             "eaef888e-0e78-11e9-a80b-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T15:33:29Z"
+          "lastCheckedAt": "2026-10-23T15:41:19Z"
         }
       ]
     },
@@ -37995,7 +38039,7 @@
         "rock",
         "soul"
       ],
-      "homepage": "https://www.flaemingradio.de/",
+      "homepage": "https://flaemingradio.de/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -88174,77 +88218,6 @@
       ]
     },
     {
-      "id": "awb_b129fd4eef05446a27b6",
-      "name": "+Azul 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "oldies",
-        "pop"
-      ],
-      "tags": [
-        "acir",
-        "acir online",
-        "américa",
-        "baladas en inglés",
-        "cdmx",
-        "ciudad de méxico",
-        "clásicos",
-        "clásicos en inglés",
-        "entretenimiento",
-        "español",
-        "estación",
-        "grupo acir",
-        "iheart",
-        "iheart radio",
-        "latinoamérica",
-        "mexico city",
-        "moi merino",
-        "méxico",
-        "música",
-        "música en inglés",
-        "norteamérica",
-        "oldies",
-        "online",
-        "online only",
-        "radio",
-        "radio online",
-        "retro hits",
-        "retro music",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.iheart.com/live/azul-89-7874/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5bc5ed95c7977ca1c9302289",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-04T14:10:36Z",
-      "streams": [
-        {
-          "id": "aws_ac15f6ffbf5e4989bdf0",
-          "stationId": "awb_b129fd4eef05446a27b6",
-          "name": "AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "b15f20e2-f41d-4c9c-a690-f979fcd61d57",
-            "b21edf7b-a452-420a-8fe8-40436962651c"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:10:47Z"
-        }
-      ]
-    },
-    {
       "id": "awb_88b9c70248bdb6a31785",
       "name": "+Café Romántico Radio (MTY) - Online - www.caferomanticoradio.com - Grupo Digital Retroland - Monterrey, Nuevo León",
       "country": "MX",
@@ -88799,88 +88772,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T16:54:56Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_ab671410e5a46c7d2b92",
-      "name": "+Stereorey (CDMX) - Online - www.stereorey.com - MVS Radio - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "all-time-classics",
-        "américa",
-        "baladas en inglés",
-        "cdmx",
-        "ciudad de méxico",
-        "classic rock",
-        "classics",
-        "clásicos",
-        "clásicos en inglés",
-        "entretenimiento",
-        "español",
-        "estación",
-        "internet",
-        "internet radio",
-        "internet station",
-        "latinoamérica",
-        "mexico city",
-        "moi merino",
-        "music",
-        "mvs",
-        "mvs radio",
-        "méxico",
-        "música",
-        "música en inglés",
-        "new classics",
-        "norteamérica",
-        "oldies",
-        "online",
-        "online only",
-        "only the golden classics",
-        "pop clásico",
-        "pop en ingles",
-        "radio",
-        "radio online",
-        "retro",
-        "rock classics",
-        "rock en inglés",
-        "stereorey",
-        "valle de méxico"
-      ],
-      "homepage": "https://www.stereorey.com/",
-      "favicon": "https://i.postimg.cc/jS5mFrLM/stereorey.jpg",
-      "type": "internet",
-      "sourceCount": 2,
-      "updatedAt": "2026-06-01T09:48:35Z",
-      "streams": [
-        {
-          "id": "aws_b759c2801aee24542119",
-          "stationId": "awb_ab671410e5a46c7d2b92",
-          "name": "STEREOREY (CDMX) - Online - www.stereorey.com - MVS Radio - Ciudad de México",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1b8770bb-986b-48cc-aa78-df1b544cb357",
-            "56601aac-81e5-432b-86b6-4dbb15fa209f"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:03:37Z"
         }
       ]
     },
@@ -94699,6 +94590,77 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T16:34:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b129fd4eef05446a27b6",
+      "name": "AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "acir",
+        "acir online",
+        "américa",
+        "baladas en inglés",
+        "cdmx",
+        "ciudad de méxico",
+        "clásicos",
+        "clásicos en inglés",
+        "entretenimiento",
+        "español",
+        "estación",
+        "grupo acir",
+        "iheart",
+        "iheart radio",
+        "latinoamérica",
+        "mexico city",
+        "moi merino",
+        "méxico",
+        "música",
+        "música en inglés",
+        "norteamérica",
+        "oldies",
+        "online",
+        "online only",
+        "radio",
+        "radio online",
+        "retro hits",
+        "retro music",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.iheart.com/live/azul-89-7874/",
+      "favicon": "https://i.iheart.com/v3/re/new_assets/5bc5ed95c7977ca1c9302289",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-04T14:10:36Z",
+      "streams": [
+        {
+          "id": "aws_ac15f6ffbf5e4989bdf0",
+          "stationId": "awb_b129fd4eef05446a27b6",
+          "name": "AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b15f20e2-f41d-4c9c-a690-f979fcd61d57",
+            "b21edf7b-a452-420a-8fe8-40436962651c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-22T17:10:47Z"
         }
       ]
     },
@@ -107449,6 +107411,88 @@
       ]
     },
     {
+      "id": "awb_ab671410e5a46c7d2b92",
+      "name": "STEREOREY (CDMX) - Online - www.stereorey.com - MVS Radio - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "all-time-classics",
+        "américa",
+        "baladas en inglés",
+        "cdmx",
+        "ciudad de méxico",
+        "classic rock",
+        "classics",
+        "clásicos",
+        "clásicos en inglés",
+        "entretenimiento",
+        "español",
+        "estación",
+        "internet",
+        "internet radio",
+        "internet station",
+        "latinoamérica",
+        "mexico city",
+        "moi merino",
+        "music",
+        "mvs",
+        "mvs radio",
+        "méxico",
+        "música",
+        "música en inglés",
+        "new classics",
+        "norteamérica",
+        "oldies",
+        "online",
+        "online only",
+        "only the golden classics",
+        "pop clásico",
+        "pop en ingles",
+        "radio",
+        "radio online",
+        "retro",
+        "rock classics",
+        "rock en inglés",
+        "stereorey",
+        "valle de méxico"
+      ],
+      "homepage": "https://www.stereorey.com/",
+      "favicon": "https://i.postimg.cc/jS5mFrLM/stereorey.jpg",
+      "type": "internet",
+      "sourceCount": 2,
+      "updatedAt": "2026-06-01T09:48:35Z",
+      "streams": [
+        {
+          "id": "aws_b759c2801aee24542119",
+          "stationId": "awb_ab671410e5a46c7d2b92",
+          "name": "STEREOREY (CDMX) - Online - www.stereorey.com - MVS Radio - Ciudad de México",
+          "country": "MX",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1b8770bb-986b-48cc-aa78-df1b544cb357",
+            "56601aac-81e5-432b-86b6-4dbb15fa209f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-22T22:03:37Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a068be98386b4fc3408a",
       "name": "Stereorey (Ciudad de México) - Online - www.stereorey.com - MVS Radio - Ciudad d",
       "country": "MX",
@@ -111790,7 +111834,7 @@
         "pop"
       ],
       "homepage": "https://www.deventerrtv.nl/",
-      "favicon": "https://www.deventerrtv.nl/own-files/drtv-512x512.png",
+      "favicon": "https://www.deventerrtv.nl/own-files/apple-touch-icon.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-24",
@@ -117426,7 +117470,7 @@
             "8df85a7e-75fb-4698-85f4-2e9ea13d1424"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T15:33:29Z"
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -137905,6 +137949,54 @@
       ]
     },
     {
+      "id": "awb_2ed252260f0284233cde",
+      "name": "Hollowlight Radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "country",
+        "jazz",
+        "oldies"
+      ],
+      "tags": [
+        "classic country",
+        "easy listening",
+        "fallout",
+        "jazz",
+        "oldies",
+        "swing"
+      ],
+      "homepage": "https://live365.com/station/Hollowlight-Radio-a83179",
+      "favicon": "https://image.live365.com/download/ae1ab7aa-2234-459a-8103-85ad4a86b49f.png/400/image.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T03:59:30Z",
+      "streams": [
+        {
+          "id": "aws_737adb022d2f0da1b932",
+          "stationId": "awb_2ed252260f0284233cde",
+          "name": "Hollowlight Radio",
+          "country": "US",
+          "url": "https://streaming.live365.com/a83179",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4788ec3b-5e2c-4ea9-a2cb-c407956b6eb8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_f25b6e85ee2f3926bc6e",
       "name": "HOT HITZ 80'",
       "country": "US",
@@ -138411,6 +138503,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T12:27:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2bfe8a17bbde8779f3f9",
+      "name": "iPartyRadio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "2000s",
+        "90s",
+        "club",
+        "dance",
+        "pop"
+      ],
+      "homepage": "https://ipartyradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T19:55:01Z",
+      "streams": [
+        {
+          "id": "aws_16d972e08abbb68bf01b",
+          "stationId": "awb_2bfe8a17bbde8779f3f9",
+          "name": "iPartyRadio",
+          "country": "US",
+          "url": "https://streaming.live365.com/a90324",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6e3850b8-3f85-4921-9326-6996bcff1339"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -138961,6 +139099,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T20:34:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b04930d38fd1268769d5",
+      "name": "KCSA 97.1 San Angelo, Texas",
+      "country": "US",
+      "subdivision": "Texas",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "classic hits",
+        "community radio",
+        "oldies"
+      ],
+      "homepage": "https://www.kcsaradio.com/",
+      "favicon": "https://www.kcsaradio.com/images/kcsa.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T04:40:59Z",
+      "streams": [
+        {
+          "id": "aws_44a1eec5ec00c8490b7d",
+          "stationId": "awb_b04930d38fd1268769d5",
+          "name": "KCSA 97.1 San Angelo, Texas",
+          "country": "US",
+          "url": "https://s47.myradiostream.com:15300/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "47329033-b6b2-4565-9e50-56ddb7072d63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -139847,6 +140030,58 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T23:43:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d89901b9436e325e3be2",
+      "name": "KTYT 107.5 The Yeti",
+      "country": "US",
+      "subdivision": "Texas",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "country",
+        "news",
+        "oldies",
+        "rock"
+      ],
+      "tags": [
+        "80s",
+        "classic rock",
+        "community radio",
+        "country",
+        "local news",
+        "lpfm",
+        "outlaw country",
+        "texarkana"
+      ],
+      "homepage": "https://ktytradio.com/",
+      "favicon": "https://ktytradio.com/assets/icons/apple-touch-icon.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-23T10:01:06Z",
+      "streams": [
+        {
+          "id": "aws_80c752c58c63c6241dd9",
+          "stationId": "awb_d89901b9436e325e3be2",
+          "name": "KTYT 107.5 The Yeti",
+          "country": "US",
+          "url": "https://streaming.live365.com/a09921",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "86dcef76-3b60-48d8-8c58-7feb31a71de8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
         }
       ]
     },
@@ -147373,6 +147608,49 @@
       ]
     },
     {
+      "id": "awb_24315eb928dd1ceaee5d",
+      "name": "WRJM \"Live 95.5 - Alternate Channel 4\" Cullman, Alabama",
+      "country": "US",
+      "subdivision": "Alabama",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "sports"
+      ],
+      "tags": [
+        "local sports",
+        "oldies"
+      ],
+      "homepage": "https://www.live95cullman.com/listenlive.html",
+      "favicon": "https://www.live95cullman.com/live95logo.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T01:07:59Z",
+      "streams": [
+        {
+          "id": "aws_eb061f092e4cfd74ebdb",
+          "stationId": "awb_24315eb928dd1ceaee5d",
+          "name": "WRJM \"Live 95.5 - Alternate Channel 4\" Cullman, Alabama",
+          "country": "US",
+          "url": "http://104.152.40.10:8000/live95alt4",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "035d7531-94e0-4454-b85e-b9308483a519"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T03:39:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_057df221a008a3cbe1fd",
       "name": "WRPS 88.3 FM",
       "country": "US",
@@ -148259,7 +148537,7 @@
         "variety hits"
       ],
       "homepage": "http://www.wyml.us/",
-      "favicon": "https://wyml.us/assets/favicon.png",
+      "favicon": "https://www.wyml.us/assets/Logo1.png",
       "type": "public",
       "sourceCount": 3,
       "updatedAt": "2026-05-07T20:50:10Z",
@@ -148390,7 +148668,7 @@
             "0c31765c-78c5-4406-b143-6e4d1b2ef60a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
         }
       ]
     },
@@ -148472,7 +148750,7 @@
             "ae15311c-cf7e-4016-bee4-4189e240c262"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-23T22:17:37Z"
         }
       ]
     },
@@ -148601,7 +148879,7 @@
             "d999294b-368a-40a8-b564-3c0035711eb1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T02:40:54Z"
         }
       ]
     },
