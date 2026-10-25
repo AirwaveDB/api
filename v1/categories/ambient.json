@@ -1,6 +1,6 @@
 {
   "id": "ambient",
-  "stationCount": 1077,
+  "stationCount": 1090,
   "stations": [
     {
       "id": "awb_f3a472b44392f167951e",
@@ -5168,7 +5168,7 @@
             "830365d1-530d-4945-8d30-5ced3734a48b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -5210,7 +5210,7 @@
             "c963baa8-e165-418d-a2d0-7e28e5d6f841"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -8264,7 +8264,7 @@
             "ebc7ae7c-c07a-4968-9b08-775da44c7612"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -24700,7 +24700,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao Radio",
+      "name": "Cacao-Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -25743,7 +25743,7 @@
             "54d05162-e97b-4a67-a33b-e3ab763013d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -26647,6 +26647,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T21:15:42Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e75132f0e840720361ce",
+      "name": "RADIO SYNO",
+      "country": "FR",
+      "subdivision": "Nord",
+      "languages": [],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "bossa",
+        "chill",
+        "chillhop",
+        "lofi",
+        "study"
+      ],
+      "homepage": "https://radiosyno.fr/",
+      "favicon": "https://radiosyno.fr/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T10:20:10Z",
+      "streams": [
+        {
+          "id": "aws_76b738aa988d4d09dc83",
+          "stationId": "awb_e75132f0e840720361ce",
+          "name": "RADIO SYNO",
+          "country": "FR",
+          "url": "https://radiosyno.fr/radio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "55ff9071-33e4-4bfc-b88c-c789956534dc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -33699,6 +33743,52 @@
       ]
     },
     {
+      "id": "awb_09ed6597146d936b4a76",
+      "name": "Radio Cafè",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "ambient",
+        "jazz",
+        "pop"
+      ],
+      "tags": [
+        "acid jazz & smooth jazz",
+        "bossa nova & easy listening",
+        "lounge & chillout",
+        "pop",
+        "r&b",
+        "soul"
+      ],
+      "homepage": "https://xn--radiocaf-80a.it/",
+      "favicon": "https://radiocafe.it/wp-content/uploads/2020/06/LOGO.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T10:12:20Z",
+      "streams": [
+        {
+          "id": "aws_22f9869c427c4b2473ad",
+          "stationId": "awb_09ed6597146d936b4a76",
+          "name": "Radio Cafè",
+          "country": "IT",
+          "url": "https://geminione.it/proxy/test/;",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2fb51dfd-7e8c-41bc-a0c9-fea8a321e8a1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9779555c4eaba254dfeb",
       "name": "Radio Del Mar - Italia",
       "country": "IT",
@@ -34315,6 +34405,88 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T18:12:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cc714d4e2d509d91a326",
+      "name": "United Music Chillout",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chillout"
+      ],
+      "homepage": "http://www.unitedmusic.com/",
+      "favicon": "https://static2.mytuner.mobi/media/tvos_radios/199/-095-united-music-chillout.11ddb2c2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T13:59:44Z",
+      "streams": [
+        {
+          "id": "aws_0868b37de81a70884b18",
+          "stationId": "awb_cc714d4e2d509d91a326",
+          "name": "United Music Chillout",
+          "country": "IT",
+          "url": "https://icy.unitedradio.it/um095.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1eff64a6-957a-4762-b23d-e3c66d321c4e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0c1e72864c326c78daad",
+      "name": "United Music Lounge",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "lounge"
+      ],
+      "homepage": "http://www.unitedmusic.com/",
+      "favicon": "https://static2.mytuner.mobi/media/tvos_radios/650/026-united-music-lounge.11ddb2c2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T13:54:39Z",
+      "streams": [
+        {
+          "id": "aws_927c7909396da45ad352",
+          "stationId": "awb_0c1e72864c326c78daad",
+          "name": "United Music Lounge",
+          "country": "IT",
+          "url": "https://icy.unitedradio.it/um026.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "086bdd46-c380-423c-8de3-d256d6c49881"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -35398,6 +35570,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T20:29:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_43b4cd04ee345ceec717",
+      "name": "Radio Relax - Weekend fără griji",
+      "country": "MD",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chillout",
+        "easy listening"
+      ],
+      "homepage": "https://radiorelax.md/",
+      "favicon": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T13:09:34Z",
+      "streams": [
+        {
+          "id": "aws_448c7cd99b8558e18d87",
+          "stationId": "awb_43b4cd04ee345ceec717",
+          "name": "Radio Relax - Weekend fără griji",
+          "country": "MD",
+          "url": "https://radio8.dixi.md/listen/relax_weekend/relax_weekend.aac",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c65cc092-58ab-44ad-8585-610b0411ee38"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -38106,7 +38318,7 @@
             "4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:49:33Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -38283,7 +38495,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radiaura.net/apple-touch-icon.png",
+      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -40590,6 +40802,350 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T17:44:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3857389c7afd99319120",
+      "name": "get.radio — Чилл (Английский)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chill",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=chill&lang=en",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/chill.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:14Z",
+      "streams": [
+        {
+          "id": "aws_44e80b492d2287485b7a",
+          "stationId": "awb_3857389c7afd99319120",
+          "name": "get.radio — Чилл (Английский)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/chill-en.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2f16c1fe-4f4a-4978-b4bd-dd5f8c40395f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_136035036d07b612f85c",
+      "name": "get.radio — Чилл (Без вокала)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chill",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=chill&lang=instrumental",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/chill.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:04:49Z",
+      "streams": [
+        {
+          "id": "aws_3e02e243d575389302fd",
+          "stationId": "awb_136035036d07b612f85c",
+          "name": "get.radio — Чилл (Без вокала)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/chill-instrumental.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0c06abd2-3c1e-43fe-8c60-a05fa3794e1d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_37d41ce87eadddce23ae",
+      "name": "get.radio — Чилл (Прочие языки)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "es",
+        "fr"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chill",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=chill&lang=other",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/chill.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:14Z",
+      "streams": [
+        {
+          "id": "aws_aca5f9ca2e461b5b445d",
+          "stationId": "awb_37d41ce87eadddce23ae",
+          "name": "get.radio — Чилл (Прочие языки)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/chill-other.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "de4d691e-e717-4c86-bc83-c7b83c6c8670"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ea75e812c59f0cfb2dbb",
+      "name": "get.radio — Чилл (Русский)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chill",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=chill&lang=ru",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/chill.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:14Z",
+      "streams": [
+        {
+          "id": "aws_55d5c849c2181b85706e",
+          "stationId": "awb_ea75e812c59f0cfb2dbb",
+          "name": "get.radio — Чилл (Русский)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/chill-ru.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "36f8d9fb-9005-4266-ba6a-ac123eac5841"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5d4e90a5074c3afb7ab8",
+      "name": "get.radio — Эмбиент (Английский)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=ambient&lang=en",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/ambient.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:45Z",
+      "streams": [
+        {
+          "id": "aws_16debcd86431a4aaecc2",
+          "stationId": "awb_5d4e90a5074c3afb7ab8",
+          "name": "get.radio — Эмбиент (Английский)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/ambient-en.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8aebdc29-11c8-4594-bca3-62eda263761d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_cb12b60eb39aec6785ca",
+      "name": "get.radio — Эмбиент (Без вокала)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=ambient&lang=instrumental",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/ambient.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:04:35Z",
+      "streams": [
+        {
+          "id": "aws_cd53f45c0f4c809ffe56",
+          "stationId": "awb_cb12b60eb39aec6785ca",
+          "name": "get.radio — Эмбиент (Без вокала)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/ambient-instrumental.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "47e0e6a5-0099-444b-b1e8-c866a7c0751d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_32681638b8638dd590c8",
+      "name": "get.radio — Эмбиент (Прочие языки)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "es",
+        "fr"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=ambient&lang=other",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/ambient.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:14Z",
+      "streams": [
+        {
+          "id": "aws_2ee9a257ed4918c17da6",
+          "stationId": "awb_32681638b8638dd590c8",
+          "name": "get.radio — Эмбиент (Прочие языки)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/ambient-other.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "09568dbf-bfb5-4d8c-8ae2-4addcf3066ad"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2e8682e74aaa5399d464",
+      "name": "get.radio — Эмбиент (Русский)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=ambient&lang=ru",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/ambient.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:05:23Z",
+      "streams": [
+        {
+          "id": "aws_fd12a5af368b44402f6d",
+          "stationId": "awb_2e8682e74aaa5399d464",
+          "name": "get.radio — Эмбиент (Русский)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/ambient-ru.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f8adccdc-0d90-4875-b9ca-97e7285df446"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -44393,8 +44949,8 @@
         "chillout",
         "lounge"
       ],
-      "homepage": "https://loungefm.com.ua/chill",
-      "favicon": "https://loungefm.com.ua/img/favicon/favicon.ico",
+      "homepage": "https://loungefm.com.ua/",
+      "favicon": "https://loungefm.com.ua/img/icon-144x144.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-24",
@@ -51323,7 +51879,7 @@
             "20f745a7-b8b7-4ca9-8eba-6e7b2780941a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },

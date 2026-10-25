@@ -336,8 +336,8 @@
         "name": "7XS Queenstown",
         "country": "AU",
         "url": "https://27163.live.streamtheworld.com/QUE_7XSAAC_SC",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac+",
+        "bitrate": 64,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -347,7 +347,7 @@
           "b053c7be-2ead-4139-be64-f3733ed80631"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },
@@ -2458,7 +2458,7 @@
           "39f83dc5-3899-4c46-b5ae-f731a25cad83"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T21:24:16Z"
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },
@@ -3274,7 +3274,7 @@
           "ac9b30c8-46f5-42ff-8059-f68e98105d65"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T21:24:16Z"
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },
@@ -7205,7 +7205,7 @@
           "4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-22T22:49:33Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7604,6 +7604,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T18:45:22Z"
+      }
+    ]
+  },
+  "awb_4bd87ff9513b5f8d6b64": {
+    "id": "awb_4bd87ff9513b5f8d6b64",
+    "name": "get.radio — Рок (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "music",
+      "rock",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=rock&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/rock.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_afb836f35cb4dc3f2535",
+        "stationId": "awb_4bd87ff9513b5f8d6b64",
+        "name": "get.radio — Рок (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/rock-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "12cc00cd-61a1-4416-af5f-bf3c55242f73"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },
@@ -9850,7 +9895,7 @@
       "university radio"
     ],
     "homepage": "http://wkdu.org/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Wkdu-logo.png",
+    "favicon": "https://wkdu.org/sites/all/themes/pills/images/logo-square-white.svg",
     "type": "college",
     "sourceCount": 7,
     "updatedAt": "2026-09-05T15:33:39Z",

@@ -1,7 +1,7 @@
 {
   "code": "FR",
-  "stationCount": 2705,
-  "streamCount": 2974,
+  "stationCount": 2711,
+  "streamCount": 2980,
   "stations": [
     {
       "id": "awb_3f26fc954da543ad8869",
@@ -4859,7 +4859,7 @@
             "fbe4d009-b421-4bbc-8bf2-ab410fc47542"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -11816,7 +11816,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao Radio",
+      "name": "Cacao-Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -21286,7 +21286,7 @@
       "id": "awb_7e7569648104bc027057",
       "name": "DIGITAL2RADIO",
       "country": "FR",
-      "subdivision": "Normandy",
+      "subdivision": "Normandie",
       "languages": [],
       "categories": [
         "oldies",
@@ -31071,6 +31071,43 @@
       ]
     },
     {
+      "id": "awb_66755b55150cf80a13d5",
+      "name": "France Culture officiel",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "culture"
+      ],
+      "homepage": "https://www.franceculture.fr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T07:55:44Z",
+      "streams": [
+        {
+          "id": "aws_dcad29977a8725e576b0",
+          "stationId": "awb_66755b55150cf80a13d5",
+          "name": "France Culture officiel",
+          "country": "FR",
+          "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+          "codec": "aac",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a29adb63-a7a5-47e5-9952-22495ff8f55f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
       "id": "awb_1dc8ef586f413c40f241",
       "name": "France Info",
       "country": "FR",
@@ -34471,7 +34508,7 @@
             "1019e195-bd10-472f-8ccf-8b4660ca56ac"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -34517,7 +34554,7 @@
             "15323f82-c670-425a-b88a-2ec43a9cbad6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -34610,7 +34647,7 @@
             "1f4d18cf-5570-4ba7-bf69-59889d11c34e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -34701,7 +34738,7 @@
             "d1c2f750-0993-458e-8f45-c64589cc2a3f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -34748,7 +34785,7 @@
             "193cfc54-6137-477c-a0b9-eb4a94696fb0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -42592,8 +42629,8 @@
         "love-songs",
         "pop"
       ],
-      "homepage": "https://hotmixradio.com/",
-      "favicon": "https://cdn.hotmixradio.com/hotmix-love-fr-mp3.jpg",
+      "homepage": "https://www.hotmixradio.com/",
+      "favicon": "https://www.hotmixradio.com/favicon.ico",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-18T18:14:54Z",
@@ -49096,7 +49133,7 @@
             "54d05162-e97b-4a67-a33b-e3ab763013d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -61643,8 +61680,8 @@
         "nostalgie",
         "soul"
       ],
-      "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-funky-collector",
-      "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA_WR_FUNKY-COLLECTOR.jpg",
+      "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios",
+      "favicon": "https://www.nostalgie.fr/uploads/assets/nostalgie/icons/apple-icon-180x180.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-08-30T08:20:08Z",
@@ -74131,7 +74168,7 @@
             "fab746b6-db4c-4e01-bbd0-79b5b9e99905"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -74530,7 +74567,7 @@
           "country": "FR",
           "url": "https://str3.openstream.co/1637?aw_0_1st.collectionid%3D5462%26stationId%3D5462%26publisherId%3D1661%26k%3D1792398617",
           "codec": "aac",
-          "bitrate": 98,
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -74540,7 +74577,7 @@
             "9cc2a7c2-28c0-4070-a70f-1b235a18302e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -76324,7 +76361,7 @@
             "fc636be8-03aa-42ac-a678-d36a80b5b972"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -80064,6 +80101,43 @@
       ]
     },
     {
+      "id": "awb_e93126655a5e48b283b9",
+      "name": "PulsRadio 80s",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "80's"
+      ],
+      "homepage": "https://www.pulsradio.com/de/80s/",
+      "favicon": "https://www.pulsradio.com/img/logo-80.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T07:26:49Z",
+      "streams": [
+        {
+          "id": "aws_c3e8790e577cbf907077",
+          "stationId": "awb_e93126655a5e48b283b9",
+          "name": "PulsRadio 80s",
+          "country": "FR",
+          "url": "https://sc7.gergosnet.com/magicradioHD.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "eb3b6c26-dbe6-44d4-a520-c6fafdd16555"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4afeefafb330532d246e",
       "name": "PulsRadio Club",
       "country": "FR",
@@ -82457,7 +82531,7 @@
             "4f30ac19-4a41-40cb-8999-2ca19b34711e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -84209,14 +84283,14 @@
     },
     {
       "id": "awb_344f994bcc4a86baedee",
-      "name": "Radio Club 105.7FM",
+      "name": "RADIO CLUB 105.7FM",
       "country": "FR",
       "subdivision": null,
       "languages": [],
       "categories": [],
       "tags": [],
-      "homepage": "https://radioclub.fr/",
-      "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/269965503_533759981882903_4768925474557172552_n-1.jpg",
+      "homepage": "https://radioclub.fr/wp-admin/",
+      "favicon": "https://radioclub.fr/wp-content/uploads/2024/08/cropped-269965503_533759981882903_4768925474557172552_n-270x270.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-06-18T11:23:34Z",
@@ -84613,7 +84687,7 @@
       "id": "awb_d032b5f52782fed4daa0",
       "name": "Radio Couleur Sud",
       "country": "FR",
-      "subdivision": "Var",
+      "subdivision": "France",
       "languages": [
         "en",
         "fr"
@@ -86055,7 +86129,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -88536,7 +88610,7 @@
       "id": "awb_4236313780f9154e875b",
       "name": "Rádio IBNJ Paris",
       "country": "FR",
-      "subdivision": "Île-de-France",
+      "subdivision": "Ile de France",
       "languages": [
         "fr",
         "pt"
@@ -89553,7 +89627,7 @@
             "82018398-3e60-4792-9bd4-bc354e2526e6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -91186,6 +91260,41 @@
       ]
     },
     {
+      "id": "awb_da341e56fad40c4ddce6",
+      "name": "Radio Nîmes",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radionimes.fr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T08:50:53Z",
+      "streams": [
+        {
+          "id": "aws_981f034f2c0ebbea9015",
+          "stationId": "awb_da341e56fad40c4ddce6",
+          "name": "Radio Nîmes",
+          "country": "FR",
+          "url": "https://stream.votreradiosurlenet.eu/radionimes.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e40b0914-9f28-44d9-a159-12f56bf508d1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a99f076126b0676ca9bc",
       "name": "Ràdio Nissa Pantai",
       "country": "FR",
@@ -91222,6 +91331,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T23:55:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c328ccf68cd0d9086b84",
+      "name": "Radio Noel",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radio-noel.fr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T09:52:58Z",
+      "streams": [
+        {
+          "id": "aws_15757ee7393240984344",
+          "stationId": "awb_c328ccf68cd0d9086b84",
+          "name": "Radio Noel",
+          "country": "FR",
+          "url": "https://listen.radioking.com/radio/105919/stream/144850",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bed6d302-a4a6-4bc0-ac71-4d101d29b326"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -93317,6 +93461,44 @@
       ]
     },
     {
+      "id": "awb_183193d8aefe18130c6c",
+      "name": "Radio Radio Toulouse",
+      "country": "FR",
+      "subdivision": "Occitanie",
+      "languages": [
+        "fr"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radioradiotoulouse.net/",
+      "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
+      "type": null,
+      "sourceCount": 3,
+      "updatedAt": "2026-08-21T19:44:18Z",
+      "streams": [
+        {
+          "id": "aws_bce961d0f243a815782e",
+          "stationId": "awb_183193d8aefe18130c6c",
+          "name": "Radio Radio Toulouse",
+          "country": "FR",
+          "url": "http://62.210.215.26:8000/xstream",
+          "codec": "mp3",
+          "bitrate": 140,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4dc41329-dfdb-47df-8904-2f9894c3c6c4",
+            "61188e85-4d06-4e00-9964-38a7b4a055e9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-22T17:21:32Z"
+        }
+      ]
+    },
+    {
       "id": "awb_54764c36c49b298e952d",
       "name": "Radio RBS",
       "country": "FR",
@@ -95208,6 +95390,50 @@
       ]
     },
     {
+      "id": "awb_e75132f0e840720361ce",
+      "name": "RADIO SYNO",
+      "country": "FR",
+      "subdivision": "Nord",
+      "languages": [],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "bossa",
+        "chill",
+        "chillhop",
+        "lofi",
+        "study"
+      ],
+      "homepage": "https://radiosyno.fr/",
+      "favicon": "https://radiosyno.fr/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T10:20:10Z",
+      "streams": [
+        {
+          "id": "aws_76b738aa988d4d09dc83",
+          "stationId": "awb_e75132f0e840720361ce",
+          "name": "RADIO SYNO",
+          "country": "FR",
+          "url": "https://radiosyno.fr/radio",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "55ff9071-33e4-4bfc-b88c-c789956534dc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_b6e6534ca27f596bd033",
       "name": "Radio Tempête",
       "country": "FR",
@@ -96935,44 +97161,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T07:57:33Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_183193d8aefe18130c6c",
-      "name": "Radio-Radio Toulouse",
-      "country": "FR",
-      "subdivision": "Midi-Pyrénées",
-      "languages": [
-        "fr"
-      ],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://www.radioradiotoulouse.net/",
-      "favicon": "https://static.wixstatic.com/media/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7aed71_37cd9ea417504fcfaaa8d39449daf587%7Emv2.png",
-      "type": null,
-      "sourceCount": 3,
-      "updatedAt": "2026-08-21T19:44:18Z",
-      "streams": [
-        {
-          "id": "aws_bce961d0f243a815782e",
-          "stationId": "awb_183193d8aefe18130c6c",
-          "name": "Radio Radio Toulouse",
-          "country": "FR",
-          "url": "http://62.210.215.26:8000/xstream",
-          "codec": "mp3",
-          "bitrate": 140,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "4dc41329-dfdb-47df-8904-2f9894c3c6c4",
-            "61188e85-4d06-4e00-9964-38a7b4a055e9"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:21:32Z"
         }
       ]
     },
@@ -104138,6 +104326,41 @@
       ]
     },
     {
+      "id": "awb_ea8ace6bfcb8458d4834",
+      "name": "rvm",
+      "country": "FR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.rvm.fr/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T12:26:02Z",
+      "streams": [
+        {
+          "id": "aws_d75380a1e0b6b3d51978",
+          "stationId": "awb_ea8ace6bfcb8458d4834",
+          "name": "rvm",
+          "country": "FR",
+          "url": "http://stream.rcs.revma.com/pz66me32fchvv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "749f7df2-82c0-49e2-81b4-d38d8ad2f705"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ec54c80e514851e9a501",
       "name": "RVR",
       "country": "FR",
@@ -106819,7 +107042,7 @@
         "metal"
       ],
       "homepage": "https://lesonunique.com/mysun/parcourir/sun-metal",
-      "favicon": "https://assets.radioplayer.org/250/2501923/600/600/mrp1g2m0.png",
+      "favicon": "https://assets.radioplayer.org/250/2501928/600/600/m6gk7w9y.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-02T03:21:24Z",
@@ -107691,7 +107914,7 @@
         "talk"
       ],
       "homepage": "https://www.tbm06.fr/radio/",
-      "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
+      "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-20T17:58:29Z",

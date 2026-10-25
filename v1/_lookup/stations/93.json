@@ -4857,7 +4857,7 @@
           "a7a10889-e3af-4085-b800-1868e8cc8085"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-22T13:10:33Z"
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },
@@ -6067,6 +6067,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T09:16:36Z"
+      }
+    ]
+  },
+  "awb_9347cb482bc9838b3caa": {
+    "id": "awb_9347cb482bc9838b3caa",
+    "name": "get.radio — Синтвейв (Без вокала)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "music",
+      "sipout.ai",
+      "synth"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=synth&lang=instrumental",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/synth.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_b9d08d96d5f8589f7d9b",
+        "stationId": "awb_9347cb482bc9838b3caa",
+        "name": "get.radio — Синтвейв (Без вокала)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/synth-instrumental.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c8176597-bdcf-4078-a916-def4b6fdc5fd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

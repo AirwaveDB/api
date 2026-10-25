@@ -1765,7 +1765,7 @@
           "6f48e7e7-6274-4b27-b7de-b409063339be"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7454,6 +7454,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T01:52:32Z"
+      }
+    ]
+  },
+  "awb_8addef545a3120b99975": {
+    "id": "awb_8addef545a3120b99975",
+    "name": "get.radio — Кино (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "cinema",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=cinema&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/cinema.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_ede3b093b9cf898dc046",
+        "stationId": "awb_8addef545a3120b99975",
+        "name": "get.radio — Кино (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/cinema-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ddc17aed-8631-4625-8893-781113b032f0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },

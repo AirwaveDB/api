@@ -1,6 +1,6 @@
 {
   "id": "classical",
-  "stationCount": 1610,
+  "stationCount": 1615,
   "stations": [
     {
       "id": "awb_b3f1b3a695c80821cbff",
@@ -38955,7 +38955,7 @@
             "9b9f71ff-3a0d-475f-8017-91ef84f233b3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -43379,7 +43379,7 @@
             "838460ee-30f9-4aa6-92b0-0bdc4b9bd621"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -43440,7 +43440,7 @@
             "a9e24bdd-0f5e-490e-88d5-a1fa1c0ac7e3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -43501,7 +43501,7 @@
             "5808e2da-b25a-49e7-9ba3-7667499f2d00"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -43562,7 +43562,48 @@
             "e0485a8b-0fc9-445a-97fe-95b701cdcec9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_291418f292ccc2bafe6f",
+      "name": "Radi.fm クラシック Nippon",
+      "country": "JP",
+      "subdivision": "Tokyo",
+      "languages": [
+        "ja"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://radi.fm/ClassicNippon/",
+      "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-19T06:44:21Z",
+      "streams": [
+        {
+          "id": "aws_cd7c4450b64d5dd52dec",
+          "stationId": "awb_291418f292ccc2bafe6f",
+          "name": "Radi.fm クラシック Nippon",
+          "country": "JP",
+          "url": "https://live.radi.fm/stream/ja.aac",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "baa56155-7308-4085-bcf6-174e5bb22494"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -43623,7 +43664,7 @@
             "836b2af3-7941-4c02-b5bc-ed28e46cda43"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -52005,6 +52046,178 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:48:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_10380a6e3e48d08b914e",
+      "name": "get.radio — Классика (Английский)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=classical&lang=en",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/classical.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:14Z",
+      "streams": [
+        {
+          "id": "aws_8067c026fca896358c6e",
+          "stationId": "awb_10380a6e3e48d08b914e",
+          "name": "get.radio — Классика (Английский)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/classical-en.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1870bb4f-8731-4768-9a03-a79e987db027"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_32d8abf2cc70cf8f2bf0",
+      "name": "get.radio — Классика (Без вокала)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=classical&lang=instrumental",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/classical.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:05:30Z",
+      "streams": [
+        {
+          "id": "aws_ff80f62712bd801582c7",
+          "stationId": "awb_32d8abf2cc70cf8f2bf0",
+          "name": "get.radio — Классика (Без вокала)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/classical-instrumental.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ff68d822-ee53-4455-802f-42a53019644b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c586ee7bcc499818a749",
+      "name": "get.radio — Классика (Прочие языки)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "es",
+        "fr"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=classical&lang=other",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/classical.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:14Z",
+      "streams": [
+        {
+          "id": "aws_2d721e890d5f1ac111d8",
+          "stationId": "awb_c586ee7bcc499818a749",
+          "name": "get.radio — Классика (Прочие языки)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/classical-other.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "44392040-af12-4e65-9f0d-e544ac293d93"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ffa55383c10a71abe249",
+      "name": "get.radio — Классика (Русский)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=classical&lang=ru",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/classical.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:14Z",
+      "streams": [
+        {
+          "id": "aws_24cc369de1d2c048114d",
+          "stationId": "awb_ffa55383c10a71abe249",
+          "name": "get.radio — Классика (Русский)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/classical-ru.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d7f3292b-4cc3-4bed-9965-7f077f0d0a93"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },

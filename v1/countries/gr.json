@@ -1,7 +1,7 @@
 {
   "code": "GR",
-  "stationCount": 1988,
-  "streamCount": 2067,
+  "stationCount": 1992,
+  "streamCount": 2071,
   "stations": [
     {
       "id": "awb_f5f40894daec9900cad0",
@@ -1527,7 +1527,7 @@
       "id": "awb_4d4d44464f31efb7b977",
       "name": "1st Greek 80s FLAC Radio",
       "country": "GR",
-      "subdivision": "Kozani",
+      "subdivision": "Attica, Athens",
       "languages": [
         "el",
         "en"
@@ -16732,6 +16732,46 @@
       ]
     },
     {
+      "id": "awb_3b27cdb124e3f746db26",
+      "name": "Energy 93.4",
+      "country": "GR",
+      "subdivision": "Preveza",
+      "languages": [],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "adult hits",
+        "pop"
+      ],
+      "homepage": "https://energy934.gr/",
+      "favicon": "https://resources.live24.gr/resources/images/stations/d3330778-81ac-4b96-bd3e-35e85df5247e.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T19:16:55Z",
+      "streams": [
+        {
+          "id": "aws_7c0d69160c0e14eef2a3",
+          "stationId": "awb_3b27cdb124e3f746db26",
+          "name": "Energy 93.4",
+          "country": "GR",
+          "url": "http://i3.streams.ovh:12218/stream?type=http&nocache=328",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0f6b7387-13cb-4be4-9d55-66f2e5ce0e0e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3f0a6a6d43d7ee0edd50",
       "name": "Energy 94.2",
       "country": "GR",
@@ -27638,6 +27678,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T18:45:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fd9f9181637bf606fda3",
+      "name": "LaikiNota",
+      "country": "GR",
+      "subdivision": "Thessaloniki",
+      "languages": [
+        "el"
+      ],
+      "categories": [],
+      "tags": [
+        "laika"
+      ],
+      "homepage": "https://laikinota.gr/",
+      "favicon": "https://laikinota.gr/LaikiNota.GR-Logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T15:47:55Z",
+      "streams": [
+        {
+          "id": "aws_21d57f50fdf5b1669355",
+          "stationId": "awb_fd9f9181637bf606fda3",
+          "name": "LaikiNota",
+          "country": "GR",
+          "url": "https://laikinota.gr/laikinota",
+          "codec": "aac",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "eb41cd08-5881-4304-b2ac-4dec4a47b4d4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -38945,6 +39024,52 @@
       ]
     },
     {
+      "id": "awb_2868f4a3b2c156c96f12",
+      "name": "Preveza 93",
+      "country": "GR",
+      "subdivision": "Preveza",
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "adult hits",
+        "news",
+        "news talk",
+        "pop"
+      ],
+      "homepage": "https://www.radiopreveza.gr/",
+      "favicon": "https://resources.live24.gr/resources/images/stations/5cd88e6d-8326-46a7-9fa4-94cac2936ebf.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T19:02:23Z",
+      "streams": [
+        {
+          "id": "aws_d38ffd75f34419db0afe",
+          "stationId": "awb_2868f4a3b2c156c96f12",
+          "name": "Preveza 93",
+          "country": "GR",
+          "url": "https://stream3.proradio.gr/listen/radiopreveza/radiopreveza",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ef2b9779-a88b-41e4-8853-fab639cf7f61"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f5179ba8329969697505",
       "name": "Preveza Dee Jay 93.4",
       "country": "GR",
@@ -48754,7 +48879,7 @@
             "9b9f71ff-3a0d-475f-8017-91ef84f233b3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -79926,6 +80051,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T19:39:23Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_12e5e818cb3542ef6c33",
+      "name": "Ρυθμός Μακεδονίας 106.7",
+      "country": "GR",
+      "subdivision": "Pieria",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radio-rythmos.gr/",
+      "favicon": "https://www.radio-rythmos.gr/images/Rythmos_1024%CF%87585_back1.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T18:35:05Z",
+      "streams": [
+        {
+          "id": "aws_4de5db1cdd156bdfe72e",
+          "stationId": "awb_12e5e818cb3542ef6c33",
+          "name": "Ρυθμός Μακεδονίας 106.7",
+          "country": "GR",
+          "url": "https://centova.streams.gr/sc/rythmosfm/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4ac17566-161c-4804-a62e-33136567dfd1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },

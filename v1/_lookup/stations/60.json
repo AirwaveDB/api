@@ -3307,8 +3307,8 @@
     "homepage": "https://radio.xecod.com/listen/albanna",
     "favicon": null,
     "type": null,
-    "sourceCount": 22,
-    "updatedAt": "2026-10-22T18:29:12Z",
+    "sourceCount": 23,
+    "updatedAt": "2026-10-24T18:01:45Z",
     "streams": [
       {
         "id": "aws_f88eb02cb872b229cd38",
@@ -3328,7 +3328,7 @@
           "a57c831b-bd64-434d-88aa-573e1587367e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },
@@ -8475,6 +8475,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T16:42:06Z"
+      }
+    ]
+  },
+  "awb_60111930f7a117480fbe": {
+    "id": "awb_60111930f7a117480fbe",
+    "name": "get.radio — Джаз (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=jazz&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/jazz.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_10db720156b4c7084305",
+        "stationId": "awb_60111930f7a117480fbe",
+        "name": "get.radio — Джаз (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/jazz-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "969f5ec1-b136-4c3c-a199-aedf932c4123"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },

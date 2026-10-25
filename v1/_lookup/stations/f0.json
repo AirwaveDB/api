@@ -5182,7 +5182,7 @@
     "id": "awb_f0418ec6f2a427f541db",
     "name": "Radijo Stotis Kelyje",
     "country": "LT",
-    "subdivision": "Kaunas",
+    "subdivision": "Vilnius",
     "languages": [
       "lt"
     ],
@@ -6993,6 +6993,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T20:07:14Z"
+      }
+    ]
+  },
+  "awb_f0d0c6167cfe44241348": {
+    "id": "awb_f0d0c6167cfe44241348",
+    "name": "ABBA",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "discography"
+    ],
+    "homepage": "https://pcradio.app/radio/abba-live-pcr-27oiqfn/",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006364/logo_MaqqHMSZ01.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T04:24:53Z",
+    "streams": [
+      {
+        "id": "aws_ddabf4dc0c299669abc8",
+        "stationId": "awb_f0d0c6167cfe44241348",
+        "name": "ABBA",
+        "country": "RU",
+        "url": "https://stream.pcradio.ru/abba-hi",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8ef7c364-430d-4d09-b9ef-66e8c2d3b803"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

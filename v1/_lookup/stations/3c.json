@@ -2787,8 +2787,8 @@
     "homepage": "https://radio.xecod.com/listen/majid-farouk",
     "favicon": null,
     "type": null,
-    "sourceCount": 9,
-    "updatedAt": "2026-10-21T20:01:53Z",
+    "sourceCount": 12,
+    "updatedAt": "2026-10-24T19:02:23Z",
     "streams": [
       {
         "id": "aws_1547002101ffda70bf44",
@@ -2808,7 +2808,7 @@
           "870899bd-4240-452d-bfa9-7f9b4b8384a8"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -3047,7 +3047,7 @@
           "7d647a6d-588a-4f43-989c-4608b76662e4"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -8123,6 +8123,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T01:26:55Z"
+      }
+    ]
+  },
+  "awb_3c8ff5b2cddaa4cf0b66": {
+    "id": "awb_3c8ff5b2cddaa4cf0b66",
+    "name": "KLDK 96.5 Dixon, New Mexico",
+    "country": "US",
+    "subdivision": "New Mexico",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio",
+      "library"
+    ],
+    "homepage": "https://www.embudovalleylibrary.org/kldk",
+    "favicon": "https://cdn.prod.website-files.com/5d7686f58b43352e7ff8bde3/5d768cc2d2b14433c70e43e4_EVL_White.png",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T02:59:09Z",
+    "streams": [
+      {
+        "id": "aws_1026b2a761571c410347",
+        "stationId": "awb_3c8ff5b2cddaa4cf0b66",
+        "name": "KLDK 96.5 Dixon, New Mexico",
+        "country": "US",
+        "url": "http://172.97.100.38:8016/;stream.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3c4250bc-f466-4c71-bdbf-cfcc6925b039"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

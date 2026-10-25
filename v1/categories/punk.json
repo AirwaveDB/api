@@ -1,6 +1,6 @@
 {
   "id": "punk",
-  "stationCount": 272,
+  "stationCount": 273,
   "stations": [
     {
       "id": "awb_80373f81c18b4f7bcc35",
@@ -1018,7 +1018,10 @@
       "name": "Dark Wave Radomir",
       "country": "BG",
       "subdivision": "Pernik",
-      "languages": [],
+      "languages": [
+        "bg",
+        "en"
+      ],
       "categories": [
         "punk"
       ],
@@ -1036,8 +1039,8 @@
       "homepage": "https://dwr.radio/",
       "favicon": "https://dwr.radio/wp-content/uploads/2023/10/cropped-favicon.png",
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-08-24",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-24T19:51:52Z",
       "streams": [
         {
           "id": "aws_0e198bf4102df6fa5425",
@@ -1059,6 +1062,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:23:34Z"
+        },
+        {
+          "id": "aws_6095e46a575c49094d99",
+          "stationId": "awb_56105bf2133fc181ed1e",
+          "name": "Dark wave Radomir",
+          "country": "BG",
+          "url": "https://dwrstream.eu/?ver=209395",
+          "codec": "aac+",
+          "bitrate": 7,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "36e3ed92-00ce-4992-9c1c-201e58606e5f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -7348,7 +7370,7 @@
             "4f30ac19-4a41-40cb-8999-2ca19b34711e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -7665,6 +7687,45 @@
       ]
     },
     {
+      "id": "awb_a4ab14fd83afdb110914",
+      "name": "24-7 Punk",
+      "country": "GB",
+      "subdivision": "unknown",
+      "languages": [],
+      "categories": [
+        "punk"
+      ],
+      "tags": [
+        "punk"
+      ],
+      "homepage": "https://24-7nicheradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T19:06:41Z",
+      "streams": [
+        {
+          "id": "aws_548e9c51aa651b2c6a84",
+          "stationId": "awb_a4ab14fd83afdb110914",
+          "name": "24-7 Punk",
+          "country": "GB",
+          "url": "https://stream.rcast.net/1003807",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d50796ae-a0e4-493f-b276-6b0a15b0c6dc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
       "id": "awb_cb343dce128107335463",
       "name": "BBC Radio 6 Music",
       "country": "GB",
@@ -7933,7 +7994,7 @@
             "b2fe839e-69fc-4158-88af-3d363f60d423"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },

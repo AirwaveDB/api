@@ -1,6 +1,6 @@
 {
   "id": "blues",
-  "stationCount": 422,
+  "stationCount": 425,
   "stations": [
     {
       "id": "awb_c8795a989008061ddca1",
@@ -1207,7 +1207,9 @@
       "name": "Estación PRODAN fm 100.7",
       "country": "AR",
       "subdivision": "Mendoza",
-      "languages": [],
+      "languages": [
+        "es"
+      ],
       "categories": [
         "blues",
         "pop",
@@ -1216,16 +1218,38 @@
       "tags": [
         "alternative rock",
         "blues",
+        "indie",
         "indie rock",
+        "pop music",
         "pop rock",
-        "regional"
+        "regional",
+        "rock"
       ],
       "homepage": "https://www.estacionprodan.com.ar/",
       "favicon": "https://www.estacionprodan.com.ar/",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-09-05T17:09:28Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-24T13:43:06Z",
       "streams": [
+        {
+          "id": "aws_37cc440e9e24b88af9b0",
+          "stationId": "awb_6b0f9fcc0d054c4a08bb",
+          "name": "Estación PRODAN fm 100.7",
+          "country": "AR",
+          "url": "https://streaming01.shockmedia.com.ar/8064/stream",
+          "codec": "aac+",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f15af84b-34b3-43ba-a039-b80435ae2b6a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        },
         {
           "id": "aws_20700c07312508d9b949",
           "stationId": "awb_6b0f9fcc0d054c4a08bb",
@@ -9801,7 +9825,7 @@
             "4f30ac19-4a41-40cb-8999-2ca19b34711e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -12721,6 +12745,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T20:34:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_aa29e819a12021762f19",
+      "name": "Radio Jamboree - Blues – Country – Rockabilly – Rock & Roll – Soul",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "blues",
+        "country"
+      ],
+      "tags": [
+        "blues",
+        "country",
+        "rockabilly",
+        "soul"
+      ],
+      "homepage": "https://www.radiojamboree.it/",
+      "favicon": "https://www.radiojamboree.it/wp-content/uploads/2026/09/radiojamboree_new.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T08:11:20Z",
+      "streams": [
+        {
+          "id": "aws_2a31ee8f1105e44a2477",
+          "stationId": "awb_aa29e819a12021762f19",
+          "name": "Radio Jamboree - Blues – Country – Rockabilly – Rock & Roll – Soul",
+          "country": "IT",
+          "url": "https://s5.radio.co/s6ceee59fd/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f91c9f21-39f0-4d7d-8b93-76314e23ff48"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -17856,8 +17923,8 @@
           "name": "KKYL 94.3 \"Kyle Radio\" Kyle, Texas",
           "country": "US",
           "url": "https://ice26.securenetsystems.net/KKYL",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -17867,7 +17934,7 @@
             "5b053462-dc22-4d20-8152-32a088d4ee1a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -18514,8 +18581,8 @@
           "name": "KVLJ 99.5 Victoria, Texas",
           "country": "US",
           "url": "http://ice42.securenetsystems.net/KVLJ",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -18525,7 +18592,7 @@
             "10bc96da-38c5-4f9a-8491-16bac502cad1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -19363,6 +19430,58 @@
       ]
     },
     {
+      "id": "awb_f1def47d43ad72ff7eee",
+      "name": "TheBigBeat.FM",
+      "country": "US",
+      "subdivision": "Texas",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "jazz",
+        "rock"
+      ],
+      "tags": [
+        "album rock",
+        "americana",
+        "blues",
+        "classic rock",
+        "commercial-free",
+        "deep cuts",
+        "free-form",
+        "jazz",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://thebigbeat.fm/",
+      "favicon": "https://www.thebigbeat.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:10:14Z",
+      "streams": [
+        {
+          "id": "aws_2cbed740525e20813923",
+          "stationId": "awb_f1def47d43ad72ff7eee",
+          "name": "TheBigBeat.FM",
+          "country": "US",
+          "url": "https://ice41.securenetsystems.net/THEBIGBEAT",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6e2b5149-b2f1-4134-ab40-571024007f30"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_6378347651414e4f6c6f",
       "name": "Too Much Too Soon Radio",
       "country": "US",
@@ -19639,6 +19758,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T06:25:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_86ef725822f94ae945c0",
+      "name": "WDBP \"Mix 106.7\" Rocky Mount, North Carolina",
+      "country": "US",
+      "subdivision": "North Carolina",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues"
+      ],
+      "tags": [
+        "1980's",
+        "1990's",
+        "rhythm and blues",
+        "soul"
+      ],
+      "homepage": "https://wdbp1067.com/",
+      "favicon": "https://platform-upload.cdn-brlogic.com/250481/logo/9d4dd92985687537c9598e369bda542b.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:07:11Z",
+      "streams": [
+        {
+          "id": "aws_a8e21c4f7515e3f72ccc",
+          "stationId": "awb_86ef725822f94ae945c0",
+          "name": "WDBP \"Mix 106.7\" Rocky Mount, North Carolina",
+          "country": "US",
+          "url": "https://servidor28-4.brlogic.com:7074/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fdba580d-80a5-4c14-975f-37c120bd195e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -20135,7 +20298,7 @@
           "stationId": "awb_dadf85360f52d5f05af5",
           "name": "WQEN-HD2 \"103.1 The Beat\" - Birmingham, Alabama",
           "country": "US",
-          "url": "https://n10b-e2.revma.ihrhls.com/zc4956",
+          "url": "https://n01b-e2.revma.ihrhls.com/zc4956",
           "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
@@ -20147,7 +20310,7 @@
             "7a2b91a5-f16c-4384-8778-f7ddbc166f60"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },

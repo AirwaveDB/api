@@ -2621,7 +2621,7 @@
         "name": "Michael Jackson",
         "country": "DE",
         "url": "https://stream.pcradio.ru/Michael_Jackson-hi",
-        "codec": null,
+        "codec": "aac",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -2632,7 +2632,7 @@
           "b1bbe84c-8d49-422a-a28d-69ae197c2dfa"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },
@@ -5587,7 +5587,7 @@
       "pop"
     ],
     "homepage": "https://www.deventerrtv.nl/",
-    "favicon": "https://www.deventerrtv.nl/own-files/apple-touch-icon.png",
+    "favicon": "https://www.deventerrtv.nl/own-files/drtv-512x512.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-24",
@@ -6374,6 +6374,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T23:39:46Z"
+      }
+    ]
+  },
+  "awb_5cb1c5f7af7228e26009": {
+    "id": "awb_5cb1c5f7af7228e26009",
+    "name": "get.radio — Шансон (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "chanson",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=chanson&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/chanson.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:31Z",
+    "streams": [
+      {
+        "id": "aws_feae4639763f52cc99ef",
+        "stationId": "awb_5cb1c5f7af7228e26009",
+        "name": "get.radio — Шансон (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/chanson-en.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4d39ac16-0be9-4809-9ad4-23552bc4b838"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },

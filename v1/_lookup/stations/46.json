@@ -6923,6 +6923,49 @@
       }
     ]
   },
+  "awb_460bd1df1a7779638362": {
+    "id": "awb_460bd1df1a7779638362",
+    "name": "get.radio — Хип-хоп (Русский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hiphop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hiphop&lang=ru",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hiphop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_698fde708bfed6cbf812",
+        "stationId": "awb_460bd1df1a7779638362",
+        "name": "get.radio — Хип-хоп (Русский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/hiphop-ru.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7b5f464d-7dc8-4265-91c3-cfef64575536"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_46b8b21858c2219556c7": {
     "id": "awb_46b8b21858c2219556c7",
     "name": "hermitage",
@@ -8537,6 +8580,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T16:18:22Z"
+      }
+    ]
+  },
+  "awb_4689b3d1aa00ca4815dd": {
+    "id": "awb_4689b3d1aa00ca4815dd",
+    "name": "WWWL 97.1 \"Wadsworth Community Radio\" Wadsworth, Ohio",
+    "country": "US",
+    "subdivision": "Ohio",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "classic hits",
+      "classic rock",
+      "deep cuts",
+      "oldies"
+    ],
+    "homepage": "https://wadsworthcommunityradio.com/",
+    "favicon": "https://wadsworthcommunityradio.com/wp-content/uploads/2014/10/WasworthComRadio_Logoc.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T03:53:43Z",
+    "streams": [
+      {
+        "id": "aws_05fe8d5b71865a90ad52",
+        "stationId": "awb_4689b3d1aa00ca4815dd",
+        "name": "WWWL 97.1 \"Wadsworth Community Radio\" Wadsworth, Ohio",
+        "country": "US",
+        "url": "http://stream.wadsworthcommunityradio.com:7259/live",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b4dc8b0e-b5c0-4082-aeb3-fbbfcf53be4e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

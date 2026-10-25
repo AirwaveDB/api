@@ -4190,7 +4190,7 @@
           "bba9a53b-4c07-4a03-b02e-288b0305456e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T01:06:15Z"
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },
@@ -8047,6 +8047,47 @@
       }
     ]
   },
+  "awb_8f2d8a0326a356bf94ed": {
+    "id": "awb_8f2d8a0326a356bf94ed",
+    "name": "get.radio — Кино (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "cinema",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=cinema&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/cinema.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_23e53e971fd3da5a80fa",
+        "stationId": "awb_8f2d8a0326a356bf94ed",
+        "name": "get.radio — Кино (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/cinema-en.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ce1da0b8-5cce-4a9b-835b-78ff0d6c3bff"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_8f7ff3300a8ae6e11d7b": {
     "id": "awb_8f7ff3300a8ae6e11d7b",
     "name": "Misc",
@@ -10091,7 +10132,7 @@
     "tags": [
       "bossa nova"
     ],
-    "homepage": "https://somafm.com/player/#/now-playing/bossa",
+    "homepage": "https://somafm.com/",
     "favicon": "https://somafm.com/logos/400/bossa-400.jpg",
     "type": null,
     "sourceCount": 2,

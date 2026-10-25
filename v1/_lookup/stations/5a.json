@@ -1077,7 +1077,7 @@
           "74e9e192-f937-4c97-b412-fd6f6f287591"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -5273,71 +5273,9 @@
       }
     ]
   },
-  "awb_5ac5cae413910d4feac9": {
-    "id": "awb_5ac5cae413910d4feac9",
-    "name": "90.3 Adictivo Radio (Torreón) - 90.3 FM - XHBP-FM - GPS Media - Torreón, Coahuila",
-    "country": "MX",
-    "subdivision": "Torreón, Coahuila",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "90.3 fm",
-      "adictivo radio",
-      "américa",
-      "coahuila",
-      "durango",
-      "entretenimiento",
-      "español",
-      "estación",
-      "fm",
-      "gps media",
-      "gómez palacio",
-      "latinoamérica",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música pop",
-      "música variada",
-      "norteamérica",
-      "pop music",
-      "radio",
-      "torreón"
-    ],
-    "homepage": "https://losadictivos.com/",
-    "favicon": "https://i.postimg.cc/65ZCCHv7/adictivoradio.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-04-23T18:51:45Z",
-    "streams": [
-      {
-        "id": "aws_9306b7ffd4086a6eb4c0",
-        "stationId": "awb_5ac5cae413910d4feac9",
-        "name": "90.3 Adictivo Radio (Torreón) - 90.3 FM - XHBP-FM - GPS Media - Torreón, Coahuila",
-        "country": "MX",
-        "url": "http://s22.myradiostream.com:9504/",
-        "codec": "mp3",
-        "bitrate": 192,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "bda52b1b-ad32-4dea-a1ee-f44249e3f4f6"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-22T19:22:35Z"
-      }
-    ]
-  },
   "awb_5ad131aa9cdeeced6205": {
     "id": "awb_5ad131aa9cdeeced6205",
-    "name": "EXTASIS DIGITAL (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
+    "name": "+Extasis Digital (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
     "country": "MX",
     "subdivision": "Poza Rica, Veracruz",
     "languages": [
@@ -5433,6 +5371,68 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-21T20:33:49Z"
+      }
+    ]
+  },
+  "awb_5ac5cae413910d4feac9": {
+    "id": "awb_5ac5cae413910d4feac9",
+    "name": "90.3 Adictivo Radio (Torreón) - 90.3 FM - XHBP-FM - GPS Media - Torreón, Coahuila",
+    "country": "MX",
+    "subdivision": "Torreón, Coahuila",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "90.3 fm",
+      "adictivo radio",
+      "américa",
+      "coahuila",
+      "durango",
+      "entretenimiento",
+      "español",
+      "estación",
+      "fm",
+      "gps media",
+      "gómez palacio",
+      "latinoamérica",
+      "moi merino",
+      "music",
+      "méxico",
+      "música",
+      "música pop",
+      "música variada",
+      "norteamérica",
+      "pop music",
+      "radio",
+      "torreón"
+    ],
+    "homepage": "https://losadictivos.com/",
+    "favicon": "https://i.postimg.cc/65ZCCHv7/adictivoradio.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-04-23T18:51:45Z",
+    "streams": [
+      {
+        "id": "aws_9306b7ffd4086a6eb4c0",
+        "stationId": "awb_5ac5cae413910d4feac9",
+        "name": "90.3 Adictivo Radio (Torreón) - 90.3 FM - XHBP-FM - GPS Media - Torreón, Coahuila",
+        "country": "MX",
+        "url": "http://s22.myradiostream.com:9504/",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bda52b1b-ad32-4dea-a1ee-f44249e3f4f6"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-22T19:22:35Z"
       }
     ]
   },
@@ -8036,8 +8036,8 @@
         "name": "KKYL 94.3 \"Kyle Radio\" Kyle, Texas",
         "country": "US",
         "url": "https://ice26.securenetsystems.net/KKYL",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 64,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -8047,7 +8047,7 @@
           "5b053462-dc22-4d20-8152-32a088d4ee1a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },

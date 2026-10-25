@@ -4269,6 +4269,55 @@
       }
     ]
   },
+  "awb_f7c0e54f72b0e6ead6f8": {
+    "id": "awb_f7c0e54f72b0e6ead6f8",
+    "name": "Soul Rhythms Radio",
+    "country": "GB",
+    "subdivision": "Kent",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "jazz",
+      "reggae"
+    ],
+    "tags": [
+      "house",
+      "independent music",
+      "jazz",
+      "neo soul",
+      "reggae",
+      "rnb",
+      "soul"
+    ],
+    "homepage": "https://soulrhythmsradio.com/",
+    "favicon": "https://soulrhythmsradio.com/",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T11:51:18Z",
+    "streams": [
+      {
+        "id": "aws_af2a684f37d1ebb08b01",
+        "stationId": "awb_f7c0e54f72b0e6ead6f8",
+        "name": "Soul Rhythms Radio",
+        "country": "GB",
+        "url": "http://forwardmystream.com/soulrhythmsradiouk",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bcdbcbd8-f017-4c43-b7ec-e55504daeeef"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
+      }
+    ]
+  },
   "awb_f74dbd051c04e26cf4ff": {
     "id": "awb_f74dbd051c04e26cf4ff",
     "name": "Xtra Hot",
@@ -6968,6 +7017,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T17:36:33Z"
+      }
+    ]
+  },
+  "awb_f7e3ca671077e997ba90": {
+    "id": "awb_f7e3ca671077e997ba90",
+    "name": "get.radio — Хаус (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "house",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=house&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/house.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_ff75c8940a73d016a69d",
+        "stationId": "awb_f7e3ca671077e997ba90",
+        "name": "get.radio — Хаус (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/house-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "978edd91-10ba-4ca4-b5af-691db6d44ea8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

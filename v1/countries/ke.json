@@ -1,7 +1,7 @@
 {
   "code": "KE",
-  "stationCount": 57,
-  "streamCount": 58,
+  "stationCount": 58,
+  "streamCount": 59,
   "stations": [
     {
       "id": "awb_a9a05fe3d6f31deb7e54",
@@ -1340,6 +1340,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-23T00:08:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_477441c1e43681ba01b6",
+      "name": "Kiss FM 100",
+      "country": "KE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "hip-hop"
+      ],
+      "tags": [
+        "rap hiphop rnb"
+      ],
+      "homepage": "https://atunwadigital.streamguys1.com/kiss100fm",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T09:38:22Z",
+      "streams": [
+        {
+          "id": "aws_732985886a859c26dd6c",
+          "stationId": "awb_477441c1e43681ba01b6",
+          "name": "Kiss FM 100",
+          "country": "KE",
+          "url": "https://atunwadigital.streamguys1.com/kiss100fm",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f80d8f29-56a7-4c5b-83c2-b9d21c0c5d99"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },

@@ -1206,6 +1206,46 @@
       }
     ]
   },
+  "awb_a7a1fcc138dc1859342e": {
+    "id": "awb_a7a1fcc138dc1859342e",
+    "name": "Rádio Dosvox",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro - RJ",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "college",
+      "variety"
+    ],
+    "homepage": null,
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T23:29:33Z",
+    "streams": [
+      {
+        "id": "aws_e98c2ae7036b2b7b512e",
+        "stationId": "awb_a7a1fcc138dc1859342e",
+        "name": "Rádio Dosvox",
+        "country": "BR",
+        "url": "https://streaming.studioshopping.com.br:8200/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "2a5e6c05-3b5a-4a91-b4fd-f6e91301de41"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
+      }
+    ]
+  },
   "awb_a7f24e413a1f7dc92a64": {
     "id": "awb_a7f24e413a1f7dc92a64",
     "name": "Rádio Nacional Brasília AM",
@@ -7749,6 +7789,90 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T23:27:28Z"
+      }
+    ]
+  },
+  "awb_a76218f000bf71986e1f": {
+    "id": "awb_a76218f000bf71986e1f",
+    "name": "get.radio — 60-е (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "sipout.ai",
+      "sixties"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=sixties&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/sixties.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_32af92a985b9742508e5",
+        "stationId": "awb_a76218f000bf71986e1f",
+        "name": "get.radio — 60-е (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/sixties-en.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "79883d73-81f5-4604-9839-c2a4411a2c54"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
+  "awb_a762af6c2b8027f0c882": {
+    "id": "awb_a762af6c2b8027f0c882",
+    "name": "get.radio — Хип-хоп (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hiphop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hiphop&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hiphop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_399c379a921f0bca8bfd",
+        "stationId": "awb_a762af6c2b8027f0c882",
+        "name": "get.radio — Хип-хоп (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/hiphop-en.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "32bb3854-35b5-421a-9f45-1cdaa915f473"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

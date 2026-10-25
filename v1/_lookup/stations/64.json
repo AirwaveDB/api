@@ -2415,7 +2415,7 @@
   },
   "awb_64da13ba48280ff8393c": {
     "id": "awb_64da13ba48280ff8393c",
-    "name": "Radio Bob",
+    "name": "Radio BOB",
     "country": "DE",
     "subdivision": "Hessen (Kassel)",
     "languages": [
@@ -2423,7 +2423,7 @@
     ],
     "categories": [],
     "tags": [],
-    "homepage": "https://www.radiobob.de/",
+    "homepage": "https://www.radiobob.de/#",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -5512,7 +5512,7 @@
           "d816fce4-a7af-43c8-a6b7-6228cf35889c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7164,6 +7164,45 @@
       }
     ]
   },
+  "awb_6424829aec3dfe81d8d3": {
+    "id": "awb_6424829aec3dfe81d8d3",
+    "name": "get.radio — Гиперпоп (Без вокала)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "hyperpop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hyperpop&lang=instrumental",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hyperpop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:10Z",
+    "streams": [
+      {
+        "id": "aws_66c8cc9c77549e836247",
+        "stationId": "awb_6424829aec3dfe81d8d3",
+        "name": "get.radio — Гиперпоп (Без вокала)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/hyperpop-instrumental.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "baa42584-0ab4-4261-a677-58cb206fcae8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_644c4b3007a47abee897": {
     "id": "awb_644c4b3007a47abee897",
     "name": "Radio Vesna (Smolensk)",
@@ -7270,6 +7309,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T00:55:52Z"
+      }
+    ]
+  },
+  "awb_645472cbd8c48d6288b4": {
+    "id": "awb_645472cbd8c48d6288b4",
+    "name": "MBC FM",
+    "country": "SA",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://mbcmood.com/en",
+    "favicon": "https://assets-new.mbcmood.com/mbc-mood/channel/6adb0cd12bdd7.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T01:09:33Z",
+    "streams": [
+      {
+        "id": "aws_eea52aee1bf1df6580f7",
+        "stationId": "awb_645472cbd8c48d6288b4",
+        "name": "MBC FM",
+        "country": "SA",
+        "url": "https://radio-mbcfm.mbc.net/radio-mbcfm_1.m3u8",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0bd2d571-7fc8-4158-8e8e-0635c9a330ad"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

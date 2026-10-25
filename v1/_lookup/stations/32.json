@@ -1266,6 +1266,41 @@
       }
     ]
   },
+  "awb_32a206e1cea6bb88db37": {
+    "id": "awb_32a206e1cea6bb88db37",
+    "name": "Pylot FM",
+    "country": "BY",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://pilotfm.by/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T17:27:11Z",
+    "streams": [
+      {
+        "id": "aws_d5c83dc093ffc6c00a0e",
+        "stationId": "awb_32a206e1cea6bb88db37",
+        "name": "Pylot FM",
+        "country": "BY",
+        "url": "https://edge1.usp.unistar.by/hls/unistar_pilotfm/96k.m3u8?session_id=mvmo6b6w-rxbyqldtul",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fb4cd612-8890-4670-b073-6496c1d99747"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_32b59de3e7a5f3ab44e4": {
     "id": "awb_32b59de3e7a5f3ab44e4",
     "name": "CALMRADIO.COM - Zen",
@@ -1507,7 +1542,7 @@
           "c963baa8-e165-418d-a2d0-7e28e5d6f841"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7469,6 +7504,92 @@
       }
     ]
   },
+  "awb_32d8abf2cc70cf8f2bf0": {
+    "id": "awb_32d8abf2cc70cf8f2bf0",
+    "name": "get.radio — Классика (Без вокала)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=classical&lang=instrumental",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/classical.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:30Z",
+    "streams": [
+      {
+        "id": "aws_ff80f62712bd801582c7",
+        "stationId": "awb_32d8abf2cc70cf8f2bf0",
+        "name": "get.radio — Классика (Без вокала)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/classical-instrumental.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ff68d822-ee53-4455-802f-42a53019644b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
+  "awb_32681638b8638dd590c8": {
+    "id": "awb_32681638b8638dd590c8",
+    "name": "get.radio — Эмбиент (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=ambient&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/ambient.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_2ee9a257ed4918c17da6",
+        "stationId": "awb_32681638b8638dd590c8",
+        "name": "get.radio — Эмбиент (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/ambient-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "09568dbf-bfb5-4d8c-8ae2-4addcf3066ad"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_32222a5fc4f4c85bc814": {
     "id": "awb_32222a5fc4f4c85bc814",
     "name": "Jazz",
@@ -9773,7 +9894,7 @@
           "70da5340-e9e1-4882-803f-c1bd86d8f5bc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-18T22:07:29Z"
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },

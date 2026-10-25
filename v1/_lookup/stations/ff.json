@@ -5174,7 +5174,7 @@
       "religion",
       "spirituals"
     ],
-    "homepage": "https://shaivam.org/radio-shaivalahari/#gsc.tab=0",
+    "homepage": "https://shaivam.org/",
     "favicon": "https://shaivam.org/images/shaivam-logo-2015.png",
     "type": null,
     "sourceCount": 3,
@@ -7582,7 +7582,91 @@
           "652c4fcf-ea4a-4a41-b951-09939e3a30f2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
+      }
+    ]
+  },
+  "awb_ffa55383c10a71abe249": {
+    "id": "awb_ffa55383c10a71abe249",
+    "name": "get.radio — Классика (Русский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=classical&lang=ru",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/classical.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_24cc369de1d2c048114d",
+        "stationId": "awb_ffa55383c10a71abe249",
+        "name": "get.radio — Классика (Русский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/classical-ru.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d7f3292b-4cc3-4bed-9965-7f077f0d0a93"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
+  "awb_ff06552aecbb801315cb": {
+    "id": "awb_ff06552aecbb801315cb",
+    "name": "get.radio — Лоу-фай (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "lofi",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=lofi&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/lofi.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_ef4eac460a162f449aca",
+        "stationId": "awb_ff06552aecbb801315cb",
+        "name": "get.radio — Лоу-фай (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/lofi-en.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7cb07eae-9e9d-45a6-b0dc-50a9f59a6a50"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },
@@ -9951,6 +10035,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T09:05:12Z"
+      }
+    ]
+  },
+  "awb_ff2783e3bbbb60891f29": {
+    "id": "awb_ff2783e3bbbb60891f29",
+    "name": "WZLP 96.1 Loudonville, Ohio",
+    "country": "US",
+    "subdivision": "Ohio",
+    "languages": [],
+    "categories": [
+      "religious",
+      "sports"
+    ],
+    "tags": [
+      "christian preaching",
+      "gospel",
+      "local sports",
+      "sermons"
+    ],
+    "homepage": "https://www.wzlpradio.com/",
+    "favicon": "https://static.wixstatic.com/media/40d5dc_ca4ae4c5b71740ac8cb1cc232a53860c~mv2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T04:08:22Z",
+    "streams": [
+      {
+        "id": "aws_6530cabc1100f9e59cf0",
+        "stationId": "awb_ff2783e3bbbb60891f29",
+        "name": "WZLP 96.1 Loudonville, Ohio",
+        "country": "US",
+        "url": "https://streaming.live365.com/a52258",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "70f6bc1e-96a1-4120-a6e4-f9a3e448935c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

@@ -7492,6 +7492,47 @@
       }
     ]
   },
+  "awb_cf8d155176a40de6fe2a": {
+    "id": "awb_cf8d155176a40de6fe2a",
+    "name": "get.radio — Рэп (Без вокала)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "music",
+      "rap",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=rap&lang=instrumental",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/rap.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_1c74bcbcf467d442f14b",
+        "stationId": "awb_cf8d155176a40de6fe2a",
+        "name": "get.radio — Рэп (Без вокала)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/rap-instrumental.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e794330e-10aa-4bc8-935c-085d141e0a77"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_cf57d95c007fdacaca52": {
     "id": "awb_cf57d95c007fdacaca52",
     "name": "Radio Hit Orsk 103.7 FM",
@@ -9140,6 +9181,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T21:33:25Z"
+      }
+    ]
+  },
+  "awb_cf99bdbdced510088499": {
+    "id": "awb_cf99bdbdced510088499",
+    "name": "WMDI 107.9 \"Kol Bramah\" Lakewood, New Jersey",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "languages": [
+      "en",
+      "he",
+      "yi"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "jewish",
+      "jewish community",
+      "jewish culture"
+    ],
+    "homepage": "https://newyorkjewishradio.com/",
+    "favicon": "https://play-lh.googleusercontent.com/s2v-uj2J2GXra6nN2FVIEVfSrvI9LKsdUqWNhv2EK_sE-6usKp-CFt5Db31L0Or29gY3rdsDogU9iP6rHMpR=w240-h480-rw",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T02:49:54Z",
+    "streams": [
+      {
+        "id": "aws_95377b19c61050af0581",
+        "stationId": "awb_cf99bdbdced510088499",
+        "name": "WMDI 107.9 \"Kol Bramah\" Lakewood, New Jersey",
+        "country": "US",
+        "url": "https://us2.maindigitalstream.com/stream/kolbramah",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "00f86b20-e255-4d19-9cc9-224888a14566"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

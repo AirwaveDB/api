@@ -3581,7 +3581,7 @@
           "20f00b2a-e363-4062-a158-32529bc3e306"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -3604,8 +3604,8 @@
     "homepage": "https://radio.xecod.com/listen/bandar-balila",
     "favicon": null,
     "type": null,
-    "sourceCount": 16,
-    "updatedAt": "2026-10-18T20:04:43Z",
+    "sourceCount": 18,
+    "updatedAt": "2026-10-24T20:03:11Z",
     "streams": [
       {
         "id": "aws_8fcac0616ffca086364c",
@@ -3614,7 +3614,7 @@
         "country": "EG",
         "url": "https://radio.xecod.com/station/bandar-balila",
         "codec": "mp3",
-        "bitrate": 64,
+        "bitrate": 32,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3625,7 +3625,7 @@
           "ab0c57d4-febc-4072-96c5-bba09cbe3456"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T22:17:37Z"
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },
@@ -7307,6 +7307,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T12:51:16Z"
+      }
+    ]
+  },
+  "awb_442a04892fdbd25d441e": {
+    "id": "awb_442a04892fdbd25d441e",
+    "name": "get.radio — Синтвейв (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "sipout.ai",
+      "synth"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=synth&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/synth.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_ef05cb9dff04a2e11a26",
+        "stationId": "awb_442a04892fdbd25d441e",
+        "name": "get.radio — Синтвейв (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/synth-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1a1ecb9a-f7ed-4aaa-aa1b-bbe67c9e1c76"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

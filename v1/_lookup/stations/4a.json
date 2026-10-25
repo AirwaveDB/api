@@ -2953,7 +2953,7 @@
   },
   "awb_4a0594f664b678b4203c": {
     "id": "awb_4a0594f664b678b4203c",
-    "name": "sunshine live - Trance",
+    "name": "Sunshine Live - Trance",
     "country": "DE",
     "subdivision": "baden-wurttemberg",
     "languages": [],
@@ -3245,7 +3245,7 @@
           "7040ec72-3dac-489c-89e1-e64a0741e127"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T21:24:16Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7709,6 +7709,92 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T12:08:31Z"
+      }
+    ]
+  },
+  "awb_4adb3047c6a6f88d58f6": {
+    "id": "awb_4adb3047c6a6f88d58f6",
+    "name": "get.radio — 60-е (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "sipout.ai",
+      "sixties"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=sixties&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/sixties.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_8ee7f09c932ee4221042",
+        "stationId": "awb_4adb3047c6a6f88d58f6",
+        "name": "get.radio — 60-е (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/sixties-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e494a6b7-aac5-43b1-9284-7f12fb46517f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
+  "awb_4ae1068a6c694ce7919e": {
+    "id": "awb_4ae1068a6c694ce7919e",
+    "name": "get.radio — Лоу-фай (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "lofi",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=lofi&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/lofi.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_aced6749e4299d5b4d2e",
+        "stationId": "awb_4ae1068a6c694ce7919e",
+        "name": "get.radio — Лоу-фай (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/lofi-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "704dd806-34c1-4a82-8ca3-d4c2ce85cfcd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

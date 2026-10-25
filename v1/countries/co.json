@@ -1,7 +1,7 @@
 {
   "code": "CO",
-  "stationCount": 701,
-  "streamCount": 720,
+  "stationCount": 702,
+  "streamCount": 721,
   "stations": [
     {
       "id": "awb_03c6978cc1b15fb50f86",
@@ -5315,7 +5315,7 @@
         "noticias"
       ],
       "homepage": "https://emisorascolombianas.online/caracol-en-vivo/",
-      "favicon": "https://emisorascolombianas.online/logos/caracol-en-vivo.png",
+      "favicon": "https://emisorascolombianas.online/default-logo.svg",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-19T21:37:13Z",
@@ -7547,8 +7547,8 @@
           "name": "cristal boyacá 98.3 fm",
           "country": "CO",
           "url": "https://impactodigitalcol.com/8020/stream",
-          "codec": "aac+",
-          "bitrate": 96,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -7558,7 +7558,7 @@
             "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -14039,7 +14039,7 @@
             "aea2f8cd-a203-4fa9-95b7-cb82503bc60c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -18361,6 +18361,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T18:47:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1f52b146ba9a677246d3",
+      "name": "MusicVox Fm",
+      "country": "CO",
+      "subdivision": "CUNDINAMARCA",
+      "languages": [],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "alternativa",
+        "colombia emisora",
+        "radio",
+        "rock"
+      ],
+      "homepage": "https://www.musicvoxfm.com/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhXZRLXwDMuxna4LKFlUDiUhAiH3pJ51PmUL_G1xaTA&s",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T22:24:27Z",
+      "streams": [
+        {
+          "id": "aws_c6aea6e1eb990c1b1401",
+          "stationId": "awb_1f52b146ba9a677246d3",
+          "name": "MusicVox Fm",
+          "country": "CO",
+          "url": "https://radio.juanjuiserver.com:8090/radio.mp3",
+          "codec": "aac",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1504347b-289c-4561-a7e4-8985a91598c5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "id": "community",
-  "stationCount": 967,
+  "stationCount": 971,
   "stations": [
     {
       "id": "awb_264633f48847fb757bbd",
@@ -3928,7 +3928,7 @@
             "72452618-dcd0-4e72-adf2-a3df331956e4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -22966,7 +22966,7 @@
             "82018398-3e60-4792-9bd4-bc354e2526e6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -24114,6 +24114,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T11:55:20Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a3baa5449983d8327673",
+      "name": "Dragon 470 Radio",
+      "country": "GB",
+      "subdivision": "Wales",
+      "languages": [],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio"
+      ],
+      "homepage": "https://www.dragon470radio.com/",
+      "favicon": null,
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T16:13:18Z",
+      "streams": [
+        {
+          "id": "aws_158195ffb1aeacbef445",
+          "stationId": "awb_a3baa5449983d8327673",
+          "name": "Dragon 470 Radio",
+          "country": "GB",
+          "url": "https://s4.radio.co/sf48c236db/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e3087b4d-499f-486b-93c4-1acdf1916934"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -35387,8 +35426,8 @@
           "name": "KBAE \"Unity 89.1\" Corpus Christi, Texas",
           "country": "US",
           "url": "https://unity89fm.com/streaming-backend/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -35398,7 +35437,7 @@
             "e04e653d-f10c-407c-851f-8adfa423c87d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -35740,8 +35779,8 @@
           "name": "KCSA 97.1 San Angelo, Texas",
           "country": "US",
           "url": "https://s47.myradiostream.com:15300/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -35751,7 +35790,7 @@
             "47329033-b6b2-4565-9e50-56ddb7072d63"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -36647,8 +36686,8 @@
           "name": "KKYL 94.3 \"Kyle Radio\" Kyle, Texas",
           "country": "US",
           "url": "https://ice26.securenetsystems.net/KKYL",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -36656,6 +36695,48 @@
           ],
           "sourceIds": [
             "5b053462-dc22-4d20-8152-32a088d4ee1a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3c8ff5b2cddaa4cf0b66",
+      "name": "KLDK 96.5 Dixon, New Mexico",
+      "country": "US",
+      "subdivision": "New Mexico",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "library"
+      ],
+      "homepage": "https://www.embudovalleylibrary.org/kldk",
+      "favicon": "https://cdn.prod.website-files.com/5d7686f58b43352e7ff8bde3/5d768cc2d2b14433c70e43e4_EVL_White.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:59:09Z",
+      "streams": [
+        {
+          "id": "aws_1026b2a761571c410347",
+          "stationId": "awb_3c8ff5b2cddaa4cf0b66",
+          "name": "KLDK 96.5 Dixon, New Mexico",
+          "country": "US",
+          "url": "http://172.97.100.38:8016/;stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3c4250bc-f466-4c71-bdbf-cfcc6925b039"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": null
@@ -38786,7 +38867,7 @@
             "0254dd2d-91ef-407e-ba52-8c6cab8c39b2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -38824,8 +38905,8 @@
           "name": "KVLJ 99.5 Victoria, Texas",
           "country": "US",
           "url": "http://ice42.securenetsystems.net/KVLJ",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -38835,7 +38916,7 @@
             "10bc96da-38c5-4f9a-8491-16bac502cad1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -39026,52 +39107,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T08:37:01Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_bc38ee296e0d79cd2684",
-      "name": "KXEP \"The Empower House\" 101.5 - San Antonio, Texas",
-      "country": "US",
-      "subdivision": "Texas",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "categories": [
-        "community",
-        "talk"
-      ],
-      "tags": [
-        "community radio",
-        "lgbtq",
-        "music variety",
-        "political talk"
-      ],
-      "homepage": "https://empowerhousesa.org/radio/",
-      "favicon": "https://images.radio.co/station_logos/s4a6d5e028.20240411013910.png",
-      "type": "community",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-24T04:28:23Z",
-      "streams": [
-        {
-          "id": "aws_f7fa91c50c7f0aa005f9",
-          "stationId": "awb_bc38ee296e0d79cd2684",
-          "name": "KXEP \"The Empower House\" 101.5 - San Antonio, Texas",
-          "country": "US",
-          "url": "https://s2.radio.co/s4a6d5e028/listen",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "8f890f80-13f7-4d75-a194-b4036438872f"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },
@@ -41147,6 +41182,48 @@
       ]
     },
     {
+      "id": "awb_7851029d4e93c73d0ec7",
+      "name": "WGGG 102.3 Ossipee, New Hampshire",
+      "country": "US",
+      "subdivision": "New Hampshire",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "http://ossipee1023.com/",
+      "favicon": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/449678285_122156630096175118_7916106775081742328_n.jpg?stp=dst-jpg_tt6&cstp=mx960x958&ctp=s960x958&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NO1fwcsCqpgQ7kNvwHSapMl&_nc_oc=Adoru_3jN0ylfasWml4Oox2Xbn028LpuLD6rmiFTyis1dsSjsN4hgwThyMRf7-xXUhg&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=bIGrDKctmGbN8fvi3z8sLg&_nc_ss=7b289&oh=00_AQPrXaLtOoRtqtfH0vcvd8-vaIXemR0Wp8JFx58fdghzYg&oe=6AE32335",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:42:58Z",
+      "streams": [
+        {
+          "id": "aws_252a1a6aa4dc185ea12e",
+          "stationId": "awb_7851029d4e93c73d0ec7",
+          "name": "WGGG 102.3 Ossipee, New Hampshire",
+          "country": "US",
+          "url": "https://stream3.rcast.net/71613",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2d988799-6b98-471b-ae3d-8a4ca0dbe168"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_d38361f1cea0ce428933",
       "name": "WGMC \"Jazz 90.1\" Rochester, NY",
       "country": "US",
@@ -41542,7 +41619,7 @@
       "id": "awb_22024cbbd9c119a9375e",
       "name": "WHYR 96.9 FM – Baton Rouge Community Radio",
       "country": "US",
-      "subdivision": "Loui",
+      "subdivision": "LA - Louisiana",
       "languages": [
         "en"
       ],
@@ -41647,6 +41724,51 @@
       ]
     },
     {
+      "id": "awb_a6113b2b91d701b4c541",
+      "name": "WIOH 95.9 Wilmington, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "news",
+        "oldies"
+      ],
+      "tags": [
+        "community radio",
+        "local news",
+        "oldies"
+      ],
+      "homepage": "https://wioh.org/",
+      "favicon": "https://wioh.org/wp-content/themes/wioh/assets/images/wioh-logo-badge.svg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:49:55Z",
+      "streams": [
+        {
+          "id": "aws_a1af429f913d0eb58bc4",
+          "stationId": "awb_a6113b2b91d701b4c541",
+          "name": "WIOH 95.9 Wilmington, Ohio",
+          "country": "US",
+          "url": "https://streaming.live365.com/a30329",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "70f5dc1e-75a7-428e-b791-92557bf12164"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_ce5fe58e08b82b466142",
       "name": "WITT 91.9 \"Unpredictable Radio\" Indianapolis, Indiana",
       "country": "US",
@@ -41684,7 +41806,7 @@
             "db2c0466-d3a1-402a-968c-4643e8ee34a5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -41957,6 +42079,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-24T03:39:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cf99bdbdced510088499",
+      "name": "WMDI 107.9 \"Kol Bramah\" Lakewood, New Jersey",
+      "country": "US",
+      "subdivision": "New Jersey",
+      "languages": [
+        "en",
+        "he",
+        "yi"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "jewish",
+        "jewish community",
+        "jewish culture"
+      ],
+      "homepage": "https://newyorkjewishradio.com/",
+      "favicon": "https://play-lh.googleusercontent.com/s2v-uj2J2GXra6nN2FVIEVfSrvI9LKsdUqWNhv2EK_sE-6usKp-CFt5Db31L0Or29gY3rdsDogU9iP6rHMpR=w240-h480-rw",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:49:54Z",
+      "streams": [
+        {
+          "id": "aws_95377b19c61050af0581",
+          "stationId": "awb_cf99bdbdced510088499",
+          "name": "WMDI 107.9 \"Kol Bramah\" Lakewood, New Jersey",
+          "country": "US",
+          "url": "https://us2.maindigitalstream.com/stream/kolbramah",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "00f86b20-e255-4d19-9cc9-224888a14566"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -42265,48 +42432,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-21T23:14:41Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_37b4d16f3d3a96a297b1",
-      "name": "WOZO 105.9 \"The People's Station\" Knoxville, Tennessee",
-      "country": "US",
-      "subdivision": "Tennessee",
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "community"
-      ],
-      "tags": [
-        "community radio",
-        "music variety"
-      ],
-      "homepage": "https://wozoradio.com/",
-      "favicon": "https://wozoradio.com/wp-content/uploads/2022/08/wozo_logo_flag_wo-fist-1024x718.jpg",
-      "type": "community",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-24T05:20:53Z",
-      "streams": [
-        {
-          "id": "aws_24df4583ee77359c85d3",
-          "stationId": "awb_37b4d16f3d3a96a297b1",
-          "name": "WOZO 105.9 \"The People's Station\" Knoxville, Tennessee",
-          "country": "US",
-          "url": "https://hello.citrus3.com:2020/public/wozolp",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "9e90d21c-1704-403f-95fd-fd9fd795659a"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },
@@ -43950,6 +44075,51 @@
       ]
     },
     {
+      "id": "awb_1a2b86dadd3a99f54153",
+      "name": "Zapstech Media Variety (ZTMV)",
+      "country": "US",
+      "subdivision": "Connecticut",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "automated",
+        "community radio",
+        "misc",
+        "miscellaneous",
+        "variety"
+      ],
+      "homepage": "https://www.zapstech.net/feed",
+      "favicon": null,
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T11:23:52Z",
+      "streams": [
+        {
+          "id": "aws_c6b87a11a79bab2c1c0e",
+          "stationId": "awb_1a2b86dadd3a99f54153",
+          "name": "Zapstech Media Variety (ZTMV)",
+          "country": "US",
+          "url": "http://philipiptv.cloudns.ph:8082/ZTMV",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7183612f-d618-4870-97e2-19a07f27623f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f9eac4bead5fbff85388",
       "name": "ZT Dispatch 7500 Repeater Scanner",
       "country": "US",
@@ -43993,7 +44163,7 @@
     },
     {
       "id": "awb_d4dffdef11ea48c90167",
-      "name": "ZTVGM radio",
+      "name": "ZTVGM Radio",
       "country": "US",
       "subdivision": "Connecticut",
       "languages": [
@@ -44017,7 +44187,7 @@
         "weather",
         "wilde mischung diverse metal-stilrichtungen inkl. ruhigerer "
       ],
-      "homepage": "https://www.zapstech.net/feed",
+      "homepage": "https://www.zapstech.net/",
       "favicon": null,
       "type": "community",
       "sourceCount": 4,

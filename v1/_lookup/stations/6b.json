@@ -82,7 +82,9 @@
     "name": "Estación PRODAN fm 100.7",
     "country": "AR",
     "subdivision": "Mendoza",
-    "languages": [],
+    "languages": [
+      "es"
+    ],
     "categories": [
       "blues",
       "pop",
@@ -91,16 +93,38 @@
     "tags": [
       "alternative rock",
       "blues",
+      "indie",
       "indie rock",
+      "pop music",
       "pop rock",
-      "regional"
+      "regional",
+      "rock"
     ],
     "homepage": "https://www.estacionprodan.com.ar/",
     "favicon": "https://www.estacionprodan.com.ar/",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-05T17:09:28Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-24T13:43:06Z",
     "streams": [
+      {
+        "id": "aws_37cc440e9e24b88af9b0",
+        "stationId": "awb_6b0f9fcc0d054c4a08bb",
+        "name": "Estación PRODAN fm 100.7",
+        "country": "AR",
+        "url": "https://streaming01.shockmedia.com.ar/8064/stream",
+        "codec": "aac+",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f15af84b-34b3-43ba-a039-b80435ae2b6a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
+      },
       {
         "id": "aws_20700c07312508d9b949",
         "stationId": "awb_6b0f9fcc0d054c4a08bb",
@@ -2378,7 +2402,7 @@
           "e5ab02f4-7496-4011-b171-a9a567e14adf"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-18T22:07:29Z"
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },
@@ -5384,7 +5408,7 @@
           "4bb8c0ee-7e48-4e20-8966-c57a12ffb0bd"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7227,8 +7251,8 @@
     "homepage": "https://classicradio.network/",
     "favicon": "https://smartstream.myautodj.com/static/img/logo.png?v=0.17.1",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-19T13:04:42Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-24T17:22:43Z",
     "streams": [
       {
         "id": "aws_3c1e33e523c1818f8e10",
@@ -7247,7 +7271,7 @@
           "6c979374-c12a-475e-8e0f-a03d4e17babb"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       },
       {
         "id": "aws_e663b7fd271f1d8c393d",
@@ -7263,10 +7287,11 @@
           "radio-browser"
         ],
         "sourceIds": [
+          "66b8199a-4c00-4e0a-b5e1-94fc434c77cc",
           "c84df2ae-6563-4445-a43e-226145856df9"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },

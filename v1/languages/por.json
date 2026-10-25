@@ -1,7 +1,7 @@
 {
   "code": "por",
   "canonicalCode": "pt",
-  "stationCount": 763,
+  "stationCount": 766,
   "stations": [
     {
       "id": "awb_a0d15f5e22fb30532808",
@@ -5443,7 +5443,7 @@
             "541f6bfb-961a-4453-a22b-7cc27e596355"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -5823,6 +5823,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T08:04:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8b7f827bb4d71cce1e30",
+      "name": "Hunter.FM - O Canal Rock",
+      "country": "BR",
+      "subdivision": "São Paulo - SP",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "homepage": "https://hunter.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T22:39:47Z",
+      "streams": [
+        {
+          "id": "aws_12c3f6b5dd5f05905383",
+          "stationId": "awb_8b7f827bb4d71cce1e30",
+          "name": "Hunter.FM - O Canal Rock",
+          "country": "BR",
+          "url": "https://live.hunter.fm/rock_normal",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d432e55b-e425-406e-bcff-b1e252b99c5f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -9237,6 +9278,45 @@
       ]
     },
     {
+      "id": "awb_b8015c6d6aa171930c5a",
+      "name": "Radio A Voz da Salvação Divina",
+      "country": "BR",
+      "subdivision": "Bahia",
+      "languages": [
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "radio cristal"
+      ],
+      "homepage": "https://radioavozdasalvacaodivina.zdx.com.br/",
+      "favicon": "https://radioavozdasalvacaodivina.zdx.com.br/",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T16:01:43Z",
+      "streams": [
+        {
+          "id": "aws_788787fc0573c871cbc1",
+          "stationId": "awb_b8015c6d6aa171930c5a",
+          "name": "Radio A Voz da Salvação Divina",
+          "country": "BR",
+          "url": "https://cast1.midiazdx.com.br:6678/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "48c11d12-5a09-4534-9ce6-363b24f49334"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_0638bbe06c34dc4e2d2a",
       "name": "Radio Advento - Londrina",
       "country": "BR",
@@ -12326,6 +12406,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:48:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a7a1fcc138dc1859342e",
+      "name": "Rádio Dosvox",
+      "country": "BR",
+      "subdivision": "Rio de Janeiro - RJ",
+      "languages": [
+        "pt"
+      ],
+      "categories": [],
+      "tags": [
+        "college",
+        "variety"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T23:29:33Z",
+      "streams": [
+        {
+          "id": "aws_e98c2ae7036b2b7b512e",
+          "stationId": "awb_a7a1fcc138dc1859342e",
+          "name": "Rádio Dosvox",
+          "country": "BR",
+          "url": "https://streaming.studioshopping.com.br:8200/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2a5e6c05-3b5a-4a91-b4fd-f6e91301de41"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -20669,7 +20789,7 @@
       "id": "awb_4236313780f9154e875b",
       "name": "Rádio IBNJ Paris",
       "country": "FR",
-      "subdivision": "Île-de-France",
+      "subdivision": "Ile de France",
       "languages": [
         "fr",
         "pt"

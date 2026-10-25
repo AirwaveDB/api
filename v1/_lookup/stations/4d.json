@@ -2144,7 +2144,7 @@
     "id": "awb_4d93db1f5602c64a3ae1",
     "name": "Club85",
     "country": "DE",
-    "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
+    "subdivision": "Baden-Württemberg",
     "languages": [
       "de"
     ],
@@ -4230,7 +4230,7 @@
     "id": "awb_4d4d44464f31efb7b977",
     "name": "1st Greek 80s FLAC Radio",
     "country": "GR",
-    "subdivision": "Kozani",
+    "subdivision": "Attica, Athens",
     "languages": [
       "el",
       "en"
@@ -7408,6 +7408,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T22:29:00Z"
+      }
+    ]
+  },
+  "awb_4de1fe91a56a93207ad6": {
+    "id": "awb_4de1fe91a56a93207ad6",
+    "name": "get.radio — Рок (Без вокала)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "music",
+      "rock",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=rock&lang=instrumental",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/rock.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_7576187c1381507dc6e0",
+        "stationId": "awb_4de1fe91a56a93207ad6",
+        "name": "get.radio — Рок (Без вокала)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/rock-instrumental.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "52d72c59-1aa2-4305-b202-7944ec810ff4"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

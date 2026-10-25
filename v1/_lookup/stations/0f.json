@@ -5270,7 +5270,7 @@
           "f62a07b1-7585-4af8-8e70-8a30d058cb9d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T02:35:15Z"
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },
@@ -6724,6 +6724,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T13:51:48Z"
+      }
+    ]
+  },
+  "awb_0f65c573fc1158a3a4ef": {
+    "id": "awb_0f65c573fc1158a3a4ef",
+    "name": "get.radio — Джаз (Русский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=jazz&lang=ru",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/jazz.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_6ef78b068c6162b33cd2",
+        "stationId": "awb_0f65c573fc1158a3a4ef",
+        "name": "get.radio — Джаз (Русский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/jazz-ru.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c7668dc2-e960-4c5c-831f-22ff1b254dea"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

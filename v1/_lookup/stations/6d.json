@@ -6562,6 +6562,47 @@
       }
     ]
   },
+  "awb_6d78be9c33fe4946013a": {
+    "id": "awb_6d78be9c33fe4946013a",
+    "name": "get.radio — Гиперпоп (Русский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "hyperpop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hyperpop&lang=ru",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hyperpop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_16d6290d1a7d49d26543",
+        "stationId": "awb_6d78be9c33fe4946013a",
+        "name": "get.radio — Гиперпоп (Русский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/hyperpop-ru.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e6471679-d266-46a6-86c5-ba08bcc6cb28"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_6d11ff0edaebc1b13970": {
     "id": "awb_6d11ff0edaebc1b13970",
     "name": "insomnia",
@@ -6910,6 +6951,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T13:19:31Z"
+      }
+    ]
+  },
+  "awb_6dd5e6b065a536beab10": {
+    "id": "awb_6dd5e6b065a536beab10",
+    "name": "Муслим Магомаев",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "discography"
+    ],
+    "homepage": "https://pcradio.app/radio/muslim-magomaev-live-pcr-27pe2ht/",
+    "favicon": "https://media.pcradio.app/media/logos/180/1006674/logo_mxtzXZY1pW.jpg?v=20260529-media-restore",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T13:39:27Z",
+    "streams": [
+      {
+        "id": "aws_fa3d9542c21e8fe4b469",
+        "stationId": "awb_6dd5e6b065a536beab10",
+        "name": "Муслим Магомаев",
+        "country": "RU",
+        "url": "https://stream03.pcradio.app/Muslim_Magomaev-hi",
+        "codec": "aac",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "cb8811c1-845e-4526-ba24-21d8755cf9cb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },

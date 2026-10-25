@@ -1,7 +1,7 @@
 {
   "code": "BG",
   "stationCount": 341,
-  "streamCount": 373,
+  "streamCount": 374,
   "stations": [
     {
       "id": "awb_ddd2f0a889b5b975fca5",
@@ -1992,7 +1992,10 @@
       "name": "Dark Wave Radomir",
       "country": "BG",
       "subdivision": "Pernik",
-      "languages": [],
+      "languages": [
+        "bg",
+        "en"
+      ],
       "categories": [
         "punk"
       ],
@@ -2010,8 +2013,8 @@
       "homepage": "https://dwr.radio/",
       "favicon": "https://dwr.radio/wp-content/uploads/2023/10/cropped-favicon.png",
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-08-24",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-24T19:51:52Z",
       "streams": [
         {
           "id": "aws_0e198bf4102df6fa5425",
@@ -2033,6 +2036,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:23:34Z"
+        },
+        {
+          "id": "aws_6095e46a575c49094d99",
+          "stationId": "awb_56105bf2133fc181ed1e",
+          "name": "Dark wave Radomir",
+          "country": "BG",
+          "url": "https://dwrstream.eu/?ver=209395",
+          "codec": "aac+",
+          "bitrate": 7,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "36e3ed92-00ce-4992-9c1c-201e58606e5f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -7855,7 +7877,7 @@
             "9e415d73-38d5-412d-8c17-e667844717db"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -13977,7 +13999,7 @@
             "96b58791-6b1e-409c-83ca-ba018080427c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -14195,9 +14217,9 @@
     },
     {
       "id": "awb_ceac03347026f81dacb7",
-      "name": "��� � ����� �����",
+      "name": "��� � ����� ������",
       "country": "BG",
-      "subdivision": "Sofia City",
+      "subdivision": "Burgas",
       "languages": [
         "bg"
       ],
@@ -14211,7 +14233,7 @@
         "public radio",
         "talk"
       ],
-      "homepage": "https://bnrnews.bg/sofia",
+      "homepage": "https://bnrnews.bg/burgas",
       "favicon": null,
       "type": "public",
       "sourceCount": 8,

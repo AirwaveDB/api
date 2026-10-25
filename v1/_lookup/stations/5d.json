@@ -3861,7 +3861,7 @@
           "1f4d18cf-5570-4ba7-bf69-59889d11c34e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7621,6 +7621,90 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T19:39:23Z"
+      }
+    ]
+  },
+  "awb_5da5d4f35797da34b47b": {
+    "id": "awb_5da5d4f35797da34b47b",
+    "name": "get.radio — Синтвейв (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "sipout.ai",
+      "synth"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=synth&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/synth.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_8430874b5a92afb9df82",
+        "stationId": "awb_5da5d4f35797da34b47b",
+        "name": "get.radio — Синтвейв (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/synth-en.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "06b2f2cb-3357-43b4-b111-87a5d84a8622"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
+  "awb_5d4e90a5074c3afb7ab8": {
+    "id": "awb_5d4e90a5074c3afb7ab8",
+    "name": "get.radio — Эмбиент (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=ambient&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/ambient.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:45Z",
+    "streams": [
+      {
+        "id": "aws_16debcd86431a4aaecc2",
+        "stationId": "awb_5d4e90a5074c3afb7ab8",
+        "name": "get.radio — Эмбиент (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/ambient-en.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8aebdc29-11c8-4594-bca3-62eda263761d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

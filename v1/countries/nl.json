@@ -1,7 +1,7 @@
 {
   "code": "NL",
-  "stationCount": 1166,
-  "streamCount": 1292,
+  "stationCount": 1169,
+  "streamCount": 1295,
   "stations": [
     {
       "id": "awb_0a76a3e25fd5a71dfff9",
@@ -8493,7 +8493,7 @@
         "pop"
       ],
       "homepage": "https://www.deventerrtv.nl/",
-      "favicon": "https://www.deventerrtv.nl/own-files/apple-touch-icon.png",
+      "favicon": "https://www.deventerrtv.nl/own-files/drtv-512x512.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-24",
@@ -11306,8 +11306,8 @@
       "languages": [],
       "categories": [],
       "tags": [],
-      "homepage": "http://www.glassrock.nl/",
-      "favicon": "https://www.glassrock.nl/images/GR%20Logo%20rm.png",
+      "homepage": "https://glassrock.nl/",
+      "favicon": "https://glassrock.nl/grlogo.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-06-08T14:11:56Z",
@@ -17889,6 +17889,41 @@
       ]
     },
     {
+      "id": "awb_666fb331506012e47370",
+      "name": "joyradio",
+      "country": "NL",
+      "subdivision": "joyradio",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://joyradio.nl/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T09:01:51Z",
+      "streams": [
+        {
+          "id": "aws_3c6f4f10569f71f4fb87",
+          "stationId": "awb_666fb331506012e47370",
+          "name": "joyradio",
+          "country": "NL",
+          "url": "https://stream.joyradio.nl/joyradio",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "cfdcc400-27d2-4d78-9c27-d1a2bd726c3b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ad89eec414515ab79608",
       "name": "jungletrain.net - 24/7 drum and bass",
       "country": "NL",
@@ -19949,7 +19984,7 @@
             "e02acb43-e955-479e-9f4a-37bc48701ea7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -22648,7 +22683,7 @@
             "8a3496d2-aeee-424e-bc02-7e39992ee493"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -24672,6 +24707,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T18:51:44Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0a17cf539ad1b384dc76",
+      "name": "NPO Sterren NL",
+      "country": "NL",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.nporadio5.nl/sterrennl",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T12:19:52Z",
+      "streams": [
+        {
+          "id": "aws_3c38bbc351f0876dae79",
+          "stationId": "awb_0a17cf539ad1b384dc76",
+          "name": "NPO Sterren NL",
+          "country": "NL",
+          "url": "https://www.mp3streams.nl/zender/npo-sterren-nl/stream/82-mp3-192",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ba7b54ea-7f05-4fe9-b600-385f1486fb09"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -36105,7 +36175,7 @@
             "50e8d003-685a-4db8-8f8b-f9349c78a302"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -47601,6 +47671,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T17:23:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_84af6c736ffb308599c7",
+      "name": "WEEFF Radio",
+      "country": "NL",
+      "subdivision": "Noord-Holland, Hoorn",
+      "languages": [
+        "nl"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.streekomroepwestfriesland.nl/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T18:03:12Z",
+      "streams": [
+        {
+          "id": "aws_a470e91787f49cc0cbfe",
+          "stationId": "awb_84af6c736ffb308599c7",
+          "name": "WEEFF Radio",
+          "country": "NL",
+          "url": "https://ice.cr1.streamzilla.xlcdn.com:8000/sz=weeff=weeffradio",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "220ed980-321a-48ec-a9a7-058d16952099"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },

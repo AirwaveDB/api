@@ -1,6 +1,6 @@
 {
   "code": "nl",
-  "stationCount": 760,
+  "stationCount": 762,
   "stations": [
     {
       "id": "awb_2cd97e4936e987a3edf5",
@@ -8303,6 +8303,50 @@
       ]
     },
     {
+      "id": "awb_a0a597a57c444b5a9d2b",
+      "name": "Costa Blanca Radio",
+      "country": "ES",
+      "subdivision": "Comunidad Valenciana",
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "adult contemporary",
+        "costa blanca",
+        "dutch",
+        "hits"
+      ],
+      "homepage": "https://costablancaradio.nl/",
+      "favicon": "https://costablancaradio.nl/wp-content/uploads/2026/06/cropped-CBR-logo-2026-192x192.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T10:17:46Z",
+      "streams": [
+        {
+          "id": "aws_6286ed4bc067a0c49ebd",
+          "stationId": "awb_a0a597a57c444b5a9d2b",
+          "name": "Costa Blanca Radio",
+          "country": "ES",
+          "url": "https://stream.costablancaradio.nl/costablancaradio",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "982f249f-7fef-4dd1-a800-7754645f9481"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_528d6f15ddbd41b691e8",
       "name": "Holland FM Gran Canaria",
       "country": "ES",
@@ -12602,7 +12646,7 @@
         "pop"
       ],
       "homepage": "https://www.deventerrtv.nl/",
-      "favicon": "https://www.deventerrtv.nl/own-files/apple-touch-icon.png",
+      "favicon": "https://www.deventerrtv.nl/own-files/drtv-512x512.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-24",
@@ -19021,7 +19065,7 @@
             "8a3496d2-aeee-424e-bc02-7e39992ee493"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -26802,7 +26846,7 @@
             "50e8d003-685a-4db8-8f8b-f9349c78a302"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -32985,6 +33029,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T20:13:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_84af6c736ffb308599c7",
+      "name": "WEEFF Radio",
+      "country": "NL",
+      "subdivision": "Noord-Holland, Hoorn",
+      "languages": [
+        "nl"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.streekomroepwestfriesland.nl/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T18:03:12Z",
+      "streams": [
+        {
+          "id": "aws_a470e91787f49cc0cbfe",
+          "stationId": "awb_84af6c736ffb308599c7",
+          "name": "WEEFF Radio",
+          "country": "NL",
+          "url": "https://ice.cr1.streamzilla.xlcdn.com:8000/sz=weeff=weeffradio",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "220ed980-321a-48ec-a9a7-058d16952099"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },

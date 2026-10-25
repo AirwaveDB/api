@@ -1,6 +1,6 @@
 {
   "id": "sports",
-  "stationCount": 886,
+  "stationCount": 888,
   "stations": [
     {
       "id": "awb_10ca8b5c03a36ce2fd6c",
@@ -2140,7 +2140,7 @@
             "f81ba4e2-6db5-41e6-92d4-5cb1ba1a21c2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -7689,7 +7689,7 @@
         "noticias"
       ],
       "homepage": "https://emisorascolombianas.online/caracol-en-vivo/",
-      "favicon": "https://emisorascolombianas.online/logos/caracol-en-vivo.png",
+      "favicon": "https://emisorascolombianas.online/default-logo.svg",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-19T21:37:13Z",
@@ -7848,8 +7848,8 @@
           "name": "cristal boyacá 98.3 fm",
           "country": "CO",
           "url": "https://impactodigitalcol.com/8020/stream",
-          "codec": "aac+",
-          "bitrate": 96,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -7859,7 +7859,7 @@
             "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -11744,7 +11744,7 @@
             "500e90ba-7b72-466e-b2be-db0e89a49ff3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -11880,7 +11880,7 @@
             "22b9e907-68a3-4230-82ab-7d4a3a2443b9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -14148,8 +14148,8 @@
         "sports",
         "talks"
       ],
-      "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
-      "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
+      "homepage": "https://ondacero.es/",
+      "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-04-01T11:00:35Z",
@@ -43695,6 +43695,49 @@
       ]
     },
     {
+      "id": "awb_7e3c10f109589d4e99f8",
+      "name": "WRKD 101.3 Rockford, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "classic rock",
+        "local sports"
+      ],
+      "homepage": "https://www.mix1013wrkd.com/",
+      "favicon": "https://static.wixstatic.com/media/46cb3f_f44622ab458c41fab7b26461b2d5dc88~mv2.jpg/v1/fill/w_152,h_79,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WRKD%20-%20full_color.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T04:19:18Z",
+      "streams": [
+        {
+          "id": "aws_def2ff6ac73f54966118",
+          "stationId": "awb_7e3c10f109589d4e99f8",
+          "name": "WRKD 101.3 Rockford, Ohio",
+          "country": "US",
+          "url": "https://ice24.securenetsystems.net/WRKD",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4dc956e7-992f-45c4-8a03-5c47422d754a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_5614ab108106b1039d78",
       "name": "WRST 90.3 FM Oshkosh",
       "country": "US",
@@ -43996,7 +44039,7 @@
             "70da5340-e9e1-4882-803f-c1bd86d8f5bc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -44214,6 +44257,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-20T18:48:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ff2783e3bbbb60891f29",
+      "name": "WZLP 96.1 Loudonville, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [],
+      "categories": [
+        "religious",
+        "sports"
+      ],
+      "tags": [
+        "christian preaching",
+        "gospel",
+        "local sports",
+        "sermons"
+      ],
+      "homepage": "https://www.wzlpradio.com/",
+      "favicon": "https://static.wixstatic.com/media/40d5dc_ca4ae4c5b71740ac8cb1cc232a53860c~mv2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T04:08:22Z",
+      "streams": [
+        {
+          "id": "aws_6530cabc1100f9e59cf0",
+          "stationId": "awb_ff2783e3bbbb60891f29",
+          "name": "WZLP 96.1 Loudonville, Ohio",
+          "country": "US",
+          "url": "https://streaming.live365.com/a52258",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "70f6bc1e-96a1-4120-a6e4-f9a3e448935c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

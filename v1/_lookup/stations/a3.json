@@ -4324,6 +4324,41 @@
       }
     ]
   },
+  "awb_a3684b4a7db4d5891702": {
+    "id": "awb_a3684b4a7db4d5891702",
+    "name": "Catamaran Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.catamaranradio.com/",
+    "favicon": "https://www.catamaranradio.com/wp-content/uploads/2026/10/Emblema-Catamarano-Dorato-Lucente1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T14:50:59Z",
+    "streams": [
+      {
+        "id": "aws_2a9a56e7100ba058ff18",
+        "stationId": "awb_a3684b4a7db4d5891702",
+        "name": "Catamaran Radio",
+        "country": "GB",
+        "url": "https://c2.radioboss.fm:9271/stream",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4aaceb1e-254f-4836-bf97-b6d10b9e8145"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
+      }
+    ]
+  },
   "awb_a3138f7d5787a1c26e54": {
     "id": "awb_a3138f7d5787a1c26e54",
     "name": "Deepvibes Radio",
@@ -4356,6 +4391,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T12:32:54Z"
+      }
+    ]
+  },
+  "awb_a3baa5449983d8327673": {
+    "id": "awb_a3baa5449983d8327673",
+    "name": "Dragon 470 Radio",
+    "country": "GB",
+    "subdivision": "Wales",
+    "languages": [],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "community radio"
+    ],
+    "homepage": "https://www.dragon470radio.com/",
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T16:13:18Z",
+    "streams": [
+      {
+        "id": "aws_158195ffb1aeacbef445",
+        "stationId": "awb_a3baa5449983d8327673",
+        "name": "Dragon 470 Radio",
+        "country": "GB",
+        "url": "https://s4.radio.co/sf48c236db/listen",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e3087b4d-499f-486b-93c4-1acdf1916934"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },

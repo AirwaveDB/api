@@ -1037,7 +1037,7 @@
           "d4da3f46-3c8d-4c4a-808a-9e2b76b0597c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T21:24:16Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -1894,7 +1894,7 @@
   },
   "awb_1d190ad77ab885676d97": {
     "id": "awb_1d190ad77ab885676d97",
-    "name": "Arberwaldradio",
+    "name": "arberwaldradio",
     "country": "DE",
     "subdivision": null,
     "languages": [],
@@ -1904,7 +1904,7 @@
     "tags": [
       "folk"
     ],
-    "homepage": "https://arberwoidradio.com/",
+    "homepage": "https://www.arberwoidradio.com/",
     "favicon": null,
     "type": null,
     "sourceCount": 2,
@@ -6636,6 +6636,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T07:29:40Z"
+      }
+    ]
+  },
+  "awb_1dd66515f50cb4614ce6": {
+    "id": "awb_1dd66515f50cb4614ce6",
+    "name": "get.radio — Хаус (Русский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "house",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=house&lang=ru",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/house.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_de52c75f72ddfdb13a4e",
+        "stationId": "awb_1dd66515f50cb4614ce6",
+        "name": "get.radio — Хаус (Русский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/house-ru.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c643229d-b7ac-45a9-a1b2-3931f4781312"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

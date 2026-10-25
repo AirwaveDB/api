@@ -936,6 +936,45 @@
       }
     ]
   },
+  "awb_b8015c6d6aa171930c5a": {
+    "id": "awb_b8015c6d6aa171930c5a",
+    "name": "Radio A Voz da Salvação Divina",
+    "country": "BR",
+    "subdivision": "Bahia",
+    "languages": [
+      "pt"
+    ],
+    "categories": [],
+    "tags": [
+      "radio cristal"
+    ],
+    "homepage": "https://radioavozdasalvacaodivina.zdx.com.br/",
+    "favicon": "https://radioavozdasalvacaodivina.zdx.com.br/",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T16:01:43Z",
+    "streams": [
+      {
+        "id": "aws_788787fc0573c871cbc1",
+        "stationId": "awb_b8015c6d6aa171930c5a",
+        "name": "Radio A Voz da Salvação Divina",
+        "country": "BR",
+        "url": "https://cast1.midiazdx.com.br:6678/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "48c11d12-5a09-4534-9ce6-363b24f49334"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
+      }
+    ]
+  },
   "awb_b84d1d3ec97fc3ec8e32": {
     "id": "awb_b84d1d3ec97fc3ec8e32",
     "name": "Radio Catedral FM RJ 106.7",
@@ -4307,7 +4346,7 @@
         "country": "FR",
         "url": "https://str3.openstream.co/1637?aw_0_1st.collectionid%3D5462%26stationId%3D5462%26publisherId%3D1661%26k%3D1792398617",
         "codec": "aac",
-        "bitrate": 98,
+        "bitrate": 96,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -4317,7 +4356,7 @@
           "9cc2a7c2-28c0-4070-a70f-1b235a18302e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -5490,7 +5529,7 @@
       "pop"
     ],
     "homepage": "http://www.radioalfalombardia.it/",
-    "favicon": "https://images.app.goo.gl/qSVCrU2pFd1kunSR6",
+    "favicon": "https://www.radioalfalombardia.it/wp-content/uploads/2024/05/1698582165981_small.jpg",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-01-15T03:01:40Z",
@@ -9356,7 +9395,7 @@
       "worship"
     ],
     "homepage": "https://www.247praiseradio.co/",
-    "favicon": "https://www.247praiseradio.co/favicon.ico",
+    "favicon": "https://www.247praiseradio.co/favicon.png",
     "type": null,
     "sourceCount": 3,
     "updatedAt": "2026-08-17T14:09:15Z",
@@ -9788,6 +9827,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T09:05:12Z"
+      }
+    ]
+  },
+  "awb_b858665e7c0bd4031ee9": {
+    "id": "awb_b858665e7c0bd4031ee9",
+    "name": "KYHW 94.7 Gardnerville, Nevada",
+    "country": "US",
+    "subdivision": "Nevada",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "calvary chapel",
+      "christian contemporary",
+      "christian preaching",
+      "christian worship"
+    ],
+    "homepage": "https://www.cvcalvarychapel.org/",
+    "favicon": "https://faithconnector.s3.amazonaws.com/1909/images/library/design_assets/kyhw_logo_500_x_300_b_web_page_1.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T02:03:36Z",
+    "streams": [
+      {
+        "id": "aws_35792ff964b1560ba5f3",
+        "stationId": "awb_b858665e7c0bd4031ee9",
+        "name": "KYHW 94.7 Gardnerville, Nevada",
+        "country": "US",
+        "url": "http://135.148.34.128:9023/stream",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5d062b94-6737-47e0-8e11-a65baa57ef85"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

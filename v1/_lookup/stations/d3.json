@@ -2310,6 +2310,49 @@
       }
     ]
   },
+  "awb_d30acfbab38504862b9a": {
+    "id": "awb_d30acfbab38504862b9a",
+    "name": "CaRaMe - Campusradio Merseburg",
+    "country": "DE",
+    "subdivision": "DE-ST",
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "campusradio",
+      "campusradio merseburg",
+      "carame",
+      "caramel",
+      "hochschule merseburg"
+    ],
+    "homepage": "https://radio.hs-merseburg.de/",
+    "favicon": "https://radio.hs-merseburg.de/data/carame.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T16:17:46Z",
+    "streams": [
+      {
+        "id": "aws_30f15518fd7a2dc2ba43",
+        "stationId": "awb_d30acfbab38504862b9a",
+        "name": "CaRaMe - Campusradio Merseburg",
+        "country": "DE",
+        "url": "https://radio.hs-merseburg.de:8443/stream",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b410d26f-1674-4029-8d43-74f4b3da7830"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
+      }
+    ]
+  },
   "awb_d346e4ba1630680c5d82": {
     "id": "awb_d346e4ba1630680c5d82",
     "name": "I love radio - robin schulz",

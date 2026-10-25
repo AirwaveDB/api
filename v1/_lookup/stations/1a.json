@@ -2431,6 +2431,45 @@
       }
     ]
   },
+  "awb_1aad25932b5e6f63057a": {
+    "id": "awb_1aad25932b5e6f63057a",
+    "name": "Radio Fantasy Classix",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [
+      "de"
+    ],
+    "categories": [],
+    "tags": [
+      "throwbacks"
+    ],
+    "homepage": "https://www.fantasy.de/",
+    "favicon": "https://www.fantasy.de/templates/main/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T13:41:56Z",
+    "streams": [
+      {
+        "id": "aws_da0e07b77b53693c6c16",
+        "stationId": "awb_1aad25932b5e6f63057a",
+        "name": "Radio Fantasy Classix",
+        "country": "DE",
+        "url": "https://edge68.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "07ccfdee-7f44-4354-a99d-977ac20dc42a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
+      }
+    ]
+  },
   "awb_1aa0edaa72714c02f884": {
     "id": "awb_1aa0edaa72714c02f884",
     "name": "Radio Regenbogen Kuschelrock",
@@ -8533,6 +8572,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T01:29:57Z"
+      }
+    ]
+  },
+  "awb_1a2b86dadd3a99f54153": {
+    "id": "awb_1a2b86dadd3a99f54153",
+    "name": "Zapstech Media Variety (ZTMV)",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "automated",
+      "community radio",
+      "misc",
+      "miscellaneous",
+      "variety"
+    ],
+    "homepage": "https://www.zapstech.net/feed",
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T11:23:52Z",
+    "streams": [
+      {
+        "id": "aws_c6b87a11a79bab2c1c0e",
+        "stationId": "awb_1a2b86dadd3a99f54153",
+        "name": "Zapstech Media Variety (ZTMV)",
+        "country": "US",
+        "url": "http://philipiptv.cloudns.ph:8082/ZTMV",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7183612f-d618-4870-97e2-19a07f27623f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "id": "rock",
-  "stationCount": 4965,
+  "stationCount": 4980,
   "stations": [
     {
       "id": "awb_78161707a0c7917e52dd",
@@ -7951,7 +7951,9 @@
       "name": "Estación PRODAN fm 100.7",
       "country": "AR",
       "subdivision": "Mendoza",
-      "languages": [],
+      "languages": [
+        "es"
+      ],
       "categories": [
         "blues",
         "pop",
@@ -7960,16 +7962,38 @@
       "tags": [
         "alternative rock",
         "blues",
+        "indie",
         "indie rock",
+        "pop music",
         "pop rock",
-        "regional"
+        "regional",
+        "rock"
       ],
       "homepage": "https://www.estacionprodan.com.ar/",
       "favicon": "https://www.estacionprodan.com.ar/",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-09-05T17:09:28Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-24T13:43:06Z",
       "streams": [
+        {
+          "id": "aws_37cc440e9e24b88af9b0",
+          "stationId": "awb_6b0f9fcc0d054c4a08bb",
+          "name": "Estación PRODAN fm 100.7",
+          "country": "AR",
+          "url": "https://streaming01.shockmedia.com.ar/8064/stream",
+          "codec": "aac+",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f15af84b-34b3-43ba-a039-b80435ae2b6a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        },
         {
           "id": "aws_20700c07312508d9b949",
           "stationId": "awb_6b0f9fcc0d054c4a08bb",
@@ -13130,7 +13154,7 @@
             "72452618-dcd0-4e72-adf2-a3df331956e4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -13912,7 +13936,7 @@
             "446e3b26-1dcd-408f-a7f2-3ac0c15ffb49"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -24575,6 +24599,47 @@
       ]
     },
     {
+      "id": "awb_8b7f827bb4d71cce1e30",
+      "name": "Hunter.FM - O Canal Rock",
+      "country": "BR",
+      "subdivision": "São Paulo - SP",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "homepage": "https://hunter.fm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T22:39:47Z",
+      "streams": [
+        {
+          "id": "aws_12c3f6b5dd5f05905383",
+          "stationId": "awb_8b7f827bb4d71cce1e30",
+          "name": "Hunter.FM - O Canal Rock",
+          "country": "BR",
+          "url": "https://live.hunter.fm/rock_normal",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d432e55b-e425-406e-bcff-b1e252b99c5f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5a0b0d4534a54bb85be7",
       "name": "Itapema 102.3 FM",
       "country": "BR",
@@ -24913,7 +24978,7 @@
       "id": "awb_a21216fd9e9d6f2e9273",
       "name": "Jovem pan 95,9 FM",
       "country": "BR",
-      "subdivision": "Pernambuco",
+      "subdivision": "Recife",
       "languages": [],
       "categories": [
         "pop",
@@ -27566,7 +27631,7 @@
       "id": "awb_2b7b7954faeaf86005a4",
       "name": "Rádio Cambirela - Virtual,mas real.",
       "country": "BR",
-      "subdivision": "Santa Catarina, SC",
+      "subdivision": "Santa Catarina,SC",
       "languages": [],
       "categories": [
         "country",
@@ -30062,7 +30127,7 @@
             "22e73d38-9092-4e05-8092-fc36a4899ded"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -36583,7 +36648,7 @@
             "d4da3f46-3c8d-4c4a-808a-9e2b76b0597c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -46133,6 +46198,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-21T21:47:51Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1f52b146ba9a677246d3",
+      "name": "MusicVox Fm",
+      "country": "CO",
+      "subdivision": "CUNDINAMARCA",
+      "languages": [],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "alternativa",
+        "colombia emisora",
+        "radio",
+        "rock"
+      ],
+      "homepage": "https://www.musicvoxfm.com/",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhXZRLXwDMuxna4LKFlUDiUhAiH3pJ51PmUL_G1xaTA&s",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T22:24:27Z",
+      "streams": [
+        {
+          "id": "aws_c6aea6e1eb990c1b1401",
+          "stationId": "awb_1f52b146ba9a677246d3",
+          "name": "MusicVox Fm",
+          "country": "CO",
+          "url": "https://radio.juanjuiserver.com:8090/radio.mp3",
+          "codec": "aac",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1504347b-289c-4561-a7e4-8985a91598c5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -56194,7 +56301,7 @@
           "country": "DE",
           "url": "https://stream.backroadcountryradio.com/listen/backroad/radio.mp3",
           "codec": "mp3",
-          "bitrate": 192,
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -56204,7 +56311,7 @@
             "380a0773-6a92-4406-8312-10a286d55003"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -92458,7 +92565,7 @@
           "name": "METAL BROTHERS",
           "country": "ES",
           "url": "https://azuracast.javidai.uk/listen/metalmeria/radio.mp3",
-          "codec": "mp3",
+          "codec": "aac",
           "bitrate": 64,
           "protocol": "https",
           "hls": false,
@@ -92470,7 +92577,7 @@
             "ab6a1372-1364-4db8-848e-6bca16ef8523"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -101217,7 +101324,7 @@
             "4f30ac19-4a41-40cb-8999-2ca19b34711e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -101739,7 +101846,7 @@
             "534581ba-206d-4ed8-b64f-2197e7bb7d53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -101836,7 +101943,7 @@
       "id": "awb_4236313780f9154e875b",
       "name": "Rádio IBNJ Paris",
       "country": "FR",
-      "subdivision": "Île-de-France",
+      "subdivision": "Ile de France",
       "languages": [
         "fr",
         "pt"
@@ -101981,7 +102088,7 @@
             "82018398-3e60-4792-9bd4-bc354e2526e6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -124784,7 +124891,7 @@
     },
     {
       "id": "awb_769f5959d590f4abb5de",
-      "name": "imsostablee Radio",
+      "name": "Imsostablee Radio",
       "country": "IL",
       "subdivision": null,
       "languages": [],
@@ -124823,8 +124930,8 @@
           "name": "Imsostablee Radio",
           "country": "IL",
           "url": "https://c44.radioboss.fm:8178/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -124834,7 +124941,7 @@
             "dcbd792b-1547-440b-82ae-23b6f926283e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         },
         {
           "id": "aws_2bff254543d91e09ab2c",
@@ -129524,7 +129631,7 @@
     },
     {
       "id": "awb_11ab40cc55b8779b4047",
-      "name": "rcuno",
+      "name": "RCUNO",
       "country": "IT",
       "subdivision": null,
       "languages": [
@@ -129542,7 +129649,7 @@
         "rock"
       ],
       "homepage": "http://rcuno.altervista.org/",
-      "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/RCUNO1.jpg",
+      "favicon": "https://rcuno.altervista.org/wp-content/uploads/2021/09/cropped-RCUNO1.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-15T15:59:50Z",
@@ -130255,6 +130362,84 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:58:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_25a513ef4305a3752072",
+      "name": "United Music AC/DC",
+      "country": "IT",
+      "subdivision": "1",
+      "languages": [],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "hard rock"
+      ],
+      "homepage": "https://www.unitedmusic.com/#304131-progressive-house",
+      "favicon": "https://static2.mytuner.mobi/media/tvos_radios/683/-1026-united-music-acdc.11ddb2c2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T09:17:52Z",
+      "streams": [
+        {
+          "id": "aws_9dea1b1785fa8baa420d",
+          "stationId": "awb_25a513ef4305a3752072",
+          "name": "United Music AC/DC",
+          "country": "IT",
+          "url": "https://icy.unitedradio.it/um1026.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f93132b2-0d81-4da1-8304-9c5c3bc6a081"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7b0e3ecc8f53c23f3574",
+      "name": "United Music Rock Hits",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "rock"
+      ],
+      "homepage": "https://www.unitedmusic.com/#304131-progressive-house",
+      "favicon": "https://static2.mytuner.mobi/media/tvos_radios/412/-066-united-music-rock.11ddb2c2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T09:24:17Z",
+      "streams": [
+        {
+          "id": "aws_18cb3c83a49e08e39c61",
+          "stationId": "awb_7b0e3ecc8f53c23f3574",
+          "name": "United Music Rock Hits",
+          "country": "IT",
+          "url": "https://icy.unitedradio.it/um066.aac",
+          "codec": "aac",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "29245e4d-3813-46e1-97cc-ee0ce4c8dc61"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -136340,6 +136525,107 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T21:31:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5ad131aa9cdeeced6205",
+      "name": "+Extasis Digital (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
+      "country": "MX",
+      "subdivision": "Poza Rica, Veracruz",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "1970s",
+        "1980's",
+        "1980s",
+        "1990s",
+        "70 80 hits",
+        "70's",
+        "70s",
+        "70s soft rock",
+        "80's",
+        "80s",
+        "80s rock",
+        "90's",
+        "90s",
+        "90s y más",
+        "alternative classics",
+        "américa",
+        "classics",
+        "clásicos",
+        "entretenimiento",
+        "español",
+        "estación",
+        "hits 70's",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "méxico",
+        "música",
+        "música en inglés",
+        "new classics",
+        "new classics 80´s",
+        "norteamérica",
+        "oldies",
+        "online",
+        "online only",
+        "online radio",
+        "pop en inglés",
+        "poza rica",
+        "radio",
+        "radio online",
+        "radiorama"
+      ],
+      "homepage": "https://www.extasisdigital.mx/",
+      "favicon": "https://i.postimg.cc/W3y97G25/extasisdigitalpozarica.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-16T18:43:51Z",
+      "streams": [
+        {
+          "id": "aws_f489e3fcd21f842eb9dd",
+          "stationId": "awb_5ad131aa9cdeeced6205",
+          "name": "+Extasis Digital (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
+          "country": "MX",
+          "url": "https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVKLWZRbkRlUjIyWnVVdFNnRUNnUkEiLCJpYXQiOjE3OTI2MTkyMzcsImV4cCI6MTc5MjYxOTI5N30.NlRh-gt3SRscT7L7RtyBxhEH4nZ32MVpiIeBwUwKUIY",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e701e061-bbbe-4254-988a-b6c44869b3e4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T21:47:51Z"
+        },
+        {
+          "id": "aws_f506778a135c0353fd36",
+          "stationId": "awb_5ad131aa9cdeeced6205",
+          "name": "EXTASIS DIGITAL (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
+          "country": "MX",
+          "url": "https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjAwajRSanZsVDJhTEZLeDVCb1kwcHciLCJpYXQiOjE3OTI2MTQ3NDIsImV4cCI6MTc5MjYxNDgwMn0.4kVvxjUZ1RF9Plz4_EJK1v5gP32wCRKTP3D_G--Melc",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bafa84c7-9558-4cca-b1b5-cd20f6c75d8a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T20:33:49Z"
         }
       ]
     },
@@ -149343,7 +149629,7 @@
         "youth"
       ],
       "homepage": "https://www.arroba.fm/",
-      "favicon": "https://i.postimg.cc/HxQKjYdS/arrobafmdurango.png",
+      "favicon": "https://i.postimg.cc/cJb5wDsp/arrobafmdurango.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-18T20:33:49Z",
@@ -150443,7 +150729,7 @@
             "a7a10889-e3af-4085-b800-1868e8cc8085"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:10:33Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -158659,7 +158945,7 @@
             "72331819-dfcb-44f6-9e94-92f1a28b3965"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T04:11:47Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -163155,107 +163441,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T03:33:38Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_5ad131aa9cdeeced6205",
-      "name": "EXTASIS DIGITAL (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
-      "country": "MX",
-      "subdivision": "Poza Rica, Veracruz",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "1970s",
-        "1980's",
-        "1980s",
-        "1990s",
-        "70 80 hits",
-        "70's",
-        "70s",
-        "70s soft rock",
-        "80's",
-        "80s",
-        "80s rock",
-        "90's",
-        "90s",
-        "90s y más",
-        "alternative classics",
-        "américa",
-        "classics",
-        "clásicos",
-        "entretenimiento",
-        "español",
-        "estación",
-        "hits 70's",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "méxico",
-        "música",
-        "música en inglés",
-        "new classics",
-        "new classics 80´s",
-        "norteamérica",
-        "oldies",
-        "online",
-        "online only",
-        "online radio",
-        "pop en inglés",
-        "poza rica",
-        "radio",
-        "radio online",
-        "radiorama"
-      ],
-      "homepage": "https://www.extasisdigital.mx/",
-      "favicon": "https://i.postimg.cc/W3y97G25/extasisdigitalpozarica.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-16T18:43:51Z",
-      "streams": [
-        {
-          "id": "aws_f489e3fcd21f842eb9dd",
-          "stationId": "awb_5ad131aa9cdeeced6205",
-          "name": "+Extasis Digital (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
-          "country": "MX",
-          "url": "https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVKLWZRbkRlUjIyWnVVdFNnRUNnUkEiLCJpYXQiOjE3OTI2MTkyMzcsImV4cCI6MTc5MjYxOTI5N30.NlRh-gt3SRscT7L7RtyBxhEH4nZ32MVpiIeBwUwKUIY",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "e701e061-bbbe-4254-988a-b6c44869b3e4"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T21:47:51Z"
-        },
-        {
-          "id": "aws_f506778a135c0353fd36",
-          "stationId": "awb_5ad131aa9cdeeced6205",
-          "name": "EXTASIS DIGITAL (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
-          "country": "MX",
-          "url": "https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjAwajRSanZsVDJhTEZLeDVCb1kwcHciLCJpYXQiOjE3OTI2MTQ3NDIsImV4cCI6MTc5MjYxNDgwMn0.4kVvxjUZ1RF9Plz4_EJK1v5gP32wCRKTP3D_G--Melc",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "bafa84c7-9558-4cca-b1b5-cd20f6c75d8a"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T20:33:49Z"
         }
       ]
     },
@@ -187769,7 +187954,7 @@
             "50e8d003-685a-4db8-8f8b-f9349c78a302"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -204763,6 +204948,178 @@
       ]
     },
     {
+      "id": "awb_dcd2c15af8b5ae76499f",
+      "name": "get.radio — Рок (Английский)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "music",
+        "rock",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=rock&lang=en",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/rock.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:05:23Z",
+      "streams": [
+        {
+          "id": "aws_e4989e3ccddda8f55c78",
+          "stationId": "awb_dcd2c15af8b5ae76499f",
+          "name": "get.radio — Рок (Английский)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/rock-en.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "987d8d3c-c6e6-45df-be61-5b319d961048"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4de1fe91a56a93207ad6",
+      "name": "get.radio — Рок (Без вокала)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "music",
+        "rock",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=rock&lang=instrumental",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/rock.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:14Z",
+      "streams": [
+        {
+          "id": "aws_7576187c1381507dc6e0",
+          "stationId": "awb_4de1fe91a56a93207ad6",
+          "name": "get.radio — Рок (Без вокала)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/rock-instrumental.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "52d72c59-1aa2-4305-b202-7944ec810ff4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4bd87ff9513b5f8d6b64",
+      "name": "get.radio — Рок (Прочие языки)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "es",
+        "fr"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "music",
+        "rock",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=rock&lang=other",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/rock.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:05:23Z",
+      "streams": [
+        {
+          "id": "aws_afb836f35cb4dc3f2535",
+          "stationId": "awb_4bd87ff9513b5f8d6b64",
+          "name": "get.radio — Рок (Прочие языки)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/rock-other.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "12cc00cd-61a1-4416-af5f-bf3c55242f73"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_eeb4e370dc3aa9128ce7",
+      "name": "get.radio — Рок (Русский)",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "ru"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "music",
+        "rock",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=rock&lang=ru",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/rock.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T21:06:14Z",
+      "streams": [
+        {
+          "id": "aws_1832a3d0c66ac7e215ac",
+          "stationId": "awb_eeb4e370dc3aa9128ce7",
+          "name": "get.radio — Рок (Русский)",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/rock-ru.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "34388a75-da1d-4061-b4cb-7e24f392fe22"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f93884ab0c77abe18062",
       "name": "Glam Rock / Metal - Caprice Radio",
       "country": "RU",
@@ -211980,7 +212337,7 @@
       "id": "awb_d0e72ae4262a7e8be492",
       "name": "Хит FM",
       "country": "RU",
-      "subdivision": "Moscow/Saint Petersburg",
+      "subdivision": "Moscow",
       "languages": [
         "ru"
       ],
@@ -232237,6 +232594,99 @@
       ]
     },
     {
+      "id": "awb_41ccebee64d5dc660c50",
+      "name": "Jet.FM",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "eclectic",
+        "indie",
+        "los angeles",
+        "new wave",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://jet.fm/",
+      "favicon": "https://jet.fm/stream/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T20:51:01Z",
+      "streams": [
+        {
+          "id": "aws_04c3589719742836642b",
+          "stationId": "awb_41ccebee64d5dc660c50",
+          "name": "Jet.FM",
+          "country": "US",
+          "url": "https://jet.fm/radio",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "08e660e0-c598-4f40-a2a6-ebe6a8c62d0e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b26a062457096107f8b8",
+      "name": "Jet.FM HD-1 - I Heart Jet.FM",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "hits",
+        "indie",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://jet.fm/#hits",
+      "favicon": "https://jet.fm/stream/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T20:55:01Z",
+      "streams": [
+        {
+          "id": "aws_7b95c1f323208ba4f08f",
+          "stationId": "awb_b26a062457096107f8b8",
+          "name": "Jet.FM HD-1 - I Heart Jet.FM",
+          "country": "US",
+          "url": "https://jet.fm/hd1",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5a4e80a0-4619-4722-956e-59ed8c0b15c3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
       "id": "awb_d7c739520e4e0c349263",
       "name": "Jimi Hendrix",
       "country": "US",
@@ -233586,8 +234036,8 @@
           "name": "KKYL 94.3 \"Kyle Radio\" Kyle, Texas",
           "country": "US",
           "url": "https://ice26.securenetsystems.net/KKYL",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -233597,7 +234047,7 @@
             "5b053462-dc22-4d20-8152-32a088d4ee1a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -236313,8 +236763,8 @@
           "name": "KZCW 104.5 / KZCC 106.1 \"Lonestar Community Radio\" Conroe, Texas",
           "country": "US",
           "url": "https://ice6.securenetsystems.net/LSIR",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 32,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -236324,7 +236774,7 @@
             "e208d238-080f-4813-90cf-73c63c1bf7a0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -241164,7 +241614,7 @@
             "4832f373-4792-4eb5-9cc5-c1454e27a87f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -242439,7 +242889,7 @@
             "336aefa4-6f43-4f78-b67c-c65952431e2a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -246039,6 +246489,58 @@
       ]
     },
     {
+      "id": "awb_f1def47d43ad72ff7eee",
+      "name": "TheBigBeat.FM",
+      "country": "US",
+      "subdivision": "Texas",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "jazz",
+        "rock"
+      ],
+      "tags": [
+        "album rock",
+        "americana",
+        "blues",
+        "classic rock",
+        "commercial-free",
+        "deep cuts",
+        "free-form",
+        "jazz",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://thebigbeat.fm/",
+      "favicon": "https://www.thebigbeat.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:10:14Z",
+      "streams": [
+        {
+          "id": "aws_2cbed740525e20813923",
+          "stationId": "awb_f1def47d43ad72ff7eee",
+          "name": "TheBigBeat.FM",
+          "country": "US",
+          "url": "https://ice41.securenetsystems.net/THEBIGBEAT",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6e2b5149-b2f1-4134-ab40-571024007f30"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_d9421b0ced62980176c7",
       "name": "TheRockHD.com",
       "country": "US",
@@ -247127,6 +247629,48 @@
       ]
     },
     {
+      "id": "awb_fc1332f594ae98f38a87",
+      "name": "WBNH-LP 105.1 Bedford, New Hampshire",
+      "country": "US",
+      "subdivision": "New Hampshire",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "alternative rock",
+        "emergency & public safety"
+      ],
+      "homepage": "https://bedford1051.com/",
+      "favicon": "https://bedford1051.com/wp-content/uploads/2025/04/wbnh-300.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:12:50Z",
+      "streams": [
+        {
+          "id": "aws_eb163b857128a97bf940",
+          "stationId": "awb_fc1332f594ae98f38a87",
+          "name": "WBNH-LP 105.1 Bedford, New Hampshire",
+          "country": "US",
+          "url": "https://ice66.securenetsystems.net/WBNHLP",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "78b64f1b-8be9-4d32-8c23-1fa0ba8b9470"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_368105d4f5db23020405",
       "name": "WBPT \"Classic Rock 106.9\" Birmingham, Alabama",
       "country": "US",
@@ -247596,6 +248140,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T15:45:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2a50beb7f7b4aa9f37db",
+      "name": "WDOG 105.9 \"The Rock Dog\" New Philadelphia, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "album rock"
+      ],
+      "homepage": "https://www.wdog1059.com/",
+      "favicon": "https://cdnrf.securenetsystems.net/file_radio/stations_large/WDOGLP/v5/album-art-default.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:45:07Z",
+      "streams": [
+        {
+          "id": "aws_48f59193a97b20fa9868",
+          "stationId": "awb_2a50beb7f7b4aa9f37db",
+          "name": "WDOG 105.9 \"The Rock Dog\" New Philadelphia, Ohio",
+          "country": "US",
+          "url": "https://ice25.securenetsystems.net/WDOGLP",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "011460c5-5b69-4dba-bc65-1f6badb3c100"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -249597,6 +250182,49 @@
       ]
     },
     {
+      "id": "awb_7e3c10f109589d4e99f8",
+      "name": "WRKD 101.3 Rockford, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "classic rock",
+        "local sports"
+      ],
+      "homepage": "https://www.mix1013wrkd.com/",
+      "favicon": "https://static.wixstatic.com/media/46cb3f_f44622ab458c41fab7b26461b2d5dc88~mv2.jpg/v1/fill/w_152,h_79,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WRKD%20-%20full_color.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T04:19:18Z",
+      "streams": [
+        {
+          "id": "aws_def2ff6ac73f54966118",
+          "stationId": "awb_7e3c10f109589d4e99f8",
+          "name": "WRKD 101.3 Rockford, Ohio",
+          "country": "US",
+          "url": "https://ice24.securenetsystems.net/WRKD",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4dc956e7-992f-45c4-8a03-5c47422d754a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_60744537bbb21ba24e28",
       "name": "WRLT 100.1 FM Nashville, TN (AAC)",
       "country": "US",
@@ -250370,6 +250998,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T08:27:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4689b3d1aa00ca4815dd",
+      "name": "WWWL 97.1 \"Wadsworth Community Radio\" Wadsworth, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock",
+        "deep cuts",
+        "oldies"
+      ],
+      "homepage": "https://wadsworthcommunityradio.com/",
+      "favicon": "https://wadsworthcommunityradio.com/wp-content/uploads/2014/10/WasworthComRadio_Logoc.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:53:43Z",
+      "streams": [
+        {
+          "id": "aws_05fe8d5b71865a90ad52",
+          "stationId": "awb_4689b3d1aa00ca4815dd",
+          "name": "WWWL 97.1 \"Wadsworth Community Radio\" Wadsworth, Ohio",
+          "country": "US",
+          "url": "http://stream.wadsworthcommunityradio.com:7259/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b4dc8b0e-b5c0-4082-aeb3-fbbfcf53be4e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

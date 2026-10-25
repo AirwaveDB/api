@@ -1,7 +1,7 @@
 {
   "code": "NZ",
-  "stationCount": 202,
-  "streamCount": 221,
+  "stationCount": 204,
+  "streamCount": 223,
   "stations": [
     {
       "id": "awb_4fad87ac8a708b8bec50",
@@ -1228,6 +1228,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T09:46:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_27abecbf310ac6e570f4",
+      "name": "Burn 729",
+      "country": "NZ",
+      "subdivision": "Central Otago",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://burn729am.co.nz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T10:41:58Z",
+      "streams": [
+        {
+          "id": "aws_3e49ca21d55528784a52",
+          "stationId": "awb_27abecbf310ac6e570f4",
+          "name": "Burn 729",
+          "country": "NZ",
+          "url": "https://23093.live.streamtheworld.com/NZME_226AAC/HLS/playlist.m3u8",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "178837fa-8850-434e-9c25-065c9450ec50"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -4885,6 +4920,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T21:08:24Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_23b52b364aaeb44f1ec9",
+      "name": "Puketapu Radio",
+      "country": "NZ",
+      "subdivision": "Otago",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://live-radio.co.nz/63724-puketapu-radio-756-am.html",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T10:10:50Z",
+      "streams": [
+        {
+          "id": "aws_6927490a0c6f23d6c603",
+          "stationId": "awb_23b52b364aaeb44f1ec9",
+          "name": "Puketapu Radio",
+          "country": "NZ",
+          "url": "https://a.tunzilla.com/http://usa3.fastcast4u.com:1892/;",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c7e32893-dc87-48df-8b0d-04c1fb721a16"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },

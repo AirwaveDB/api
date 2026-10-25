@@ -1,7 +1,7 @@
 {
   "code": "heb",
   "canonicalCode": "he",
-  "stationCount": 72,
+  "stationCount": 73,
   "stations": [
     {
       "id": "awb_3aa20fe54e04955490e1",
@@ -3052,6 +3052,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T23:14:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cf99bdbdced510088499",
+      "name": "WMDI 107.9 \"Kol Bramah\" Lakewood, New Jersey",
+      "country": "US",
+      "subdivision": "New Jersey",
+      "languages": [
+        "en",
+        "he",
+        "yi"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "jewish",
+        "jewish community",
+        "jewish culture"
+      ],
+      "homepage": "https://newyorkjewishradio.com/",
+      "favicon": "https://play-lh.googleusercontent.com/s2v-uj2J2GXra6nN2FVIEVfSrvI9LKsdUqWNhv2EK_sE-6usKp-CFt5Db31L0Or29gY3rdsDogU9iP6rHMpR=w240-h480-rw",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:49:54Z",
+      "streams": [
+        {
+          "id": "aws_95377b19c61050af0581",
+          "stationId": "awb_cf99bdbdced510088499",
+          "name": "WMDI 107.9 \"Kol Bramah\" Lakewood, New Jersey",
+          "country": "US",
+          "url": "https://us2.maindigitalstream.com/stream/kolbramah",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "00f86b20-e255-4d19-9cc9-224888a14566"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     }

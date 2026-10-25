@@ -1,7 +1,7 @@
 {
   "code": "AR",
   "stationCount": 1098,
-  "streamCount": 1114,
+  "streamCount": 1115,
   "stations": [
     {
       "id": "awb_8b80a34329fc9201818f",
@@ -6229,7 +6229,7 @@
             "96b0d68b-a57d-46e0-a33d-29b9238b07ae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -7059,7 +7059,9 @@
       "name": "Estación PRODAN fm 100.7",
       "country": "AR",
       "subdivision": "Mendoza",
-      "languages": [],
+      "languages": [
+        "es"
+      ],
       "categories": [
         "blues",
         "pop",
@@ -7068,16 +7070,38 @@
       "tags": [
         "alternative rock",
         "blues",
+        "indie",
         "indie rock",
+        "pop music",
         "pop rock",
-        "regional"
+        "regional",
+        "rock"
       ],
       "homepage": "https://www.estacionprodan.com.ar/",
       "favicon": "https://www.estacionprodan.com.ar/",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-09-05T17:09:28Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-24T13:43:06Z",
       "streams": [
+        {
+          "id": "aws_37cc440e9e24b88af9b0",
+          "stationId": "awb_6b0f9fcc0d054c4a08bb",
+          "name": "Estación PRODAN fm 100.7",
+          "country": "AR",
+          "url": "https://streaming01.shockmedia.com.ar/8064/stream",
+          "codec": "aac+",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f15af84b-34b3-43ba-a039-b80435ae2b6a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        },
         {
           "id": "aws_20700c07312508d9b949",
           "stationId": "awb_6b0f9fcc0d054c4a08bb",
@@ -30073,7 +30097,7 @@
     },
     {
       "id": "awb_d049a8b8118ea943f532",
-      "name": "Radio Cristiana fm 88.3",
+      "name": "Radio Cristiana FM 88.3",
       "country": "AR",
       "subdivision": "Buenos Aires",
       "languages": [
@@ -30090,7 +30114,7 @@
         "radio hablada",
         "religious"
       ],
-      "homepage": "https://radiocristiana883.com.ar/",
+      "homepage": "https://www.radiocristiana883.com.ar/",
       "favicon": "https://www.radiocristiana883.com.ar/splash.jpg",
       "type": null,
       "sourceCount": 2,

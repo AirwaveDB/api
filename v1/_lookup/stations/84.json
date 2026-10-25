@@ -1146,7 +1146,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto",
+    "subdivision": "Toronto, ON",
     "languages": [],
     "categories": [
       "jazz"
@@ -1155,7 +1155,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,
@@ -6328,6 +6328,43 @@
       }
     ]
   },
+  "awb_84af6c736ffb308599c7": {
+    "id": "awb_84af6c736ffb308599c7",
+    "name": "WEEFF Radio",
+    "country": "NL",
+    "subdivision": "Noord-Holland, Hoorn",
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.streekomroepwestfriesland.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T18:03:12Z",
+    "streams": [
+      {
+        "id": "aws_a470e91787f49cc0cbfe",
+        "stationId": "awb_84af6c736ffb308599c7",
+        "name": "WEEFF Radio",
+        "country": "NL",
+        "url": "https://ice.cr1.streamzilla.xlcdn.com:8000/sz=weeff=weeffradio",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "220ed980-321a-48ec-a9a7-058d16952099"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_84673e2bf11d1a7d9d5d": {
     "id": "awb_84673e2bf11d1a7d9d5d",
     "name": "Yoursaferadio",
@@ -8101,6 +8138,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T17:40:36Z"
+      }
+    ]
+  },
+  "awb_847e3839afd1f59374b1": {
+    "id": "awb_847e3839afd1f59374b1",
+    "name": "Opening Night: Old-Time Radio Theatre | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1930s",
+      "1940s",
+      "lux radio theatre",
+      "movies",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "radio theatre"
+    ],
+    "homepage": "https://stupidpotato.com/opening-night/",
+    "favicon": "https://stupidpotato.com/opening-night/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T13:14:08Z",
+    "streams": [
+      {
+        "id": "aws_60e6a490a12930d395cc",
+        "stationId": "awb_847e3839afd1f59374b1",
+        "name": "Opening Night: Old-Time Radio Theatre | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/opening-night/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "2c7960bb-ea5c-49b4-bae4-76d42a60c9ad"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "id": "country",
-  "stationCount": 789,
+  "stationCount": 790,
   "stations": [
     {
       "id": "awb_29e9a4a80266c36730df",
@@ -4858,7 +4858,7 @@
       "id": "awb_2b7b7954faeaf86005a4",
       "name": "Rádio Cambirela - Virtual,mas real.",
       "country": "BR",
-      "subdivision": "Santa Catarina, SC",
+      "subdivision": "Santa Catarina,SC",
       "languages": [],
       "categories": [
         "country",
@@ -12330,7 +12330,7 @@
           "country": "DE",
           "url": "https://stream.backroadcountryradio.com/listen/backroad/radio.mp3",
           "codec": "mp3",
-          "bitrate": 192,
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -12340,7 +12340,7 @@
             "380a0773-6a92-4406-8312-10a286d55003"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -17005,10 +17005,53 @@
       ]
     },
     {
+      "id": "awb_aa29e819a12021762f19",
+      "name": "Radio Jamboree - Blues – Country – Rockabilly – Rock & Roll – Soul",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "blues",
+        "country"
+      ],
+      "tags": [
+        "blues",
+        "country",
+        "rockabilly",
+        "soul"
+      ],
+      "homepage": "https://www.radiojamboree.it/",
+      "favicon": "https://www.radiojamboree.it/wp-content/uploads/2026/09/radiojamboree_new.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T08:11:20Z",
+      "streams": [
+        {
+          "id": "aws_2a31ee8f1105e44a2477",
+          "stationId": "awb_aa29e819a12021762f19",
+          "name": "Radio Jamboree - Blues – Country – Rockabilly – Rock & Roll – Soul",
+          "country": "IT",
+          "url": "https://s5.radio.co/s6ceee59fd/listen",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f91c9f21-39f0-4d7d-8b93-76314e23ff48"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2ec5014d6733135a428b",
       "name": "Radio Meano",
       "country": "IT",
-      "subdivision": "Veneto",
+      "subdivision": "Belluno",
       "languages": [
         "it"
       ],
@@ -26351,8 +26394,8 @@
           "name": "Hollowlight Radio",
           "country": "US",
           "url": "https://streaming.live365.com/a83179",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -26362,7 +26405,7 @@
             "4788ec3b-5e2c-4ea9-a2cb-c407956b6eb8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -28143,8 +28186,8 @@
           "name": "KKYL 94.3 \"Kyle Radio\" Kyle, Texas",
           "country": "US",
           "url": "https://ice26.securenetsystems.net/KKYL",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -28154,7 +28197,7 @@
             "5b053462-dc22-4d20-8152-32a088d4ee1a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -29203,8 +29246,8 @@
           "name": "KVLJ 99.5 Victoria, Texas",
           "country": "US",
           "url": "http://ice42.securenetsystems.net/KVLJ",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -29214,7 +29257,7 @@
             "10bc96da-38c5-4f9a-8491-16bac502cad1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -29531,8 +29574,8 @@
           "name": "KZCW 104.5 / KZCC 106.1 \"Lonestar Community Radio\" Conroe, Texas",
           "country": "US",
           "url": "https://ice6.securenetsystems.net/LSIR",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 32,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -29542,7 +29585,7 @@
             "e208d238-080f-4813-90cf-73c63c1bf7a0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -32796,7 +32839,7 @@
           "stationId": "awb_0e5d36d84c41c555d076",
           "name": "WDXB \"102.5 The Bull\" - Birmingham, Alabama",
           "country": "US",
-          "url": "https://n26b-e2.revma.ihrhls.com/zc3089",
+          "url": "https://n16b-e2.revma.ihrhls.com/zc3089",
           "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
@@ -32808,7 +32851,7 @@
             "17958225-4028-43a0-af2c-76298aab1ea7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },

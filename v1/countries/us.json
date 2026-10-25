@@ -1,7 +1,7 @@
 {
   "code": "US",
-  "stationCount": 6941,
-  "streamCount": 7196,
+  "stationCount": 6966,
+  "streamCount": 7221,
   "stations": [
     {
       "id": "awb_4d30246a9baae5c57a54",
@@ -15747,7 +15747,7 @@
         "worship"
       ],
       "homepage": "https://www.247praiseradio.co/",
-      "favicon": "https://www.247praiseradio.co/favicon.ico",
+      "favicon": "https://www.247praiseradio.co/favicon.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-17T14:09:15Z",
@@ -52595,6 +52595,53 @@
       ]
     },
     {
+      "id": "awb_029e87eca30918ce6642",
+      "name": "CCC Worldwide Radio",
+      "country": "US",
+      "subdivision": "Illinois",
+      "languages": [
+        "en",
+        "yo"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "celestial church of christ",
+        "christian",
+        "church",
+        "gospel",
+        "sermons",
+        "worship"
+      ],
+      "homepage": "https://ccc-worldwide.org/app/",
+      "favicon": "https://cccworldwide.net/podcast/artwork-3000.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T22:50:13Z",
+      "streams": [
+        {
+          "id": "aws_1d8fd4443104218d2c81",
+          "stationId": "awb_029e87eca30918ce6642",
+          "name": "CCC Worldwide Radio",
+          "country": "US",
+          "url": "https://cccworldwide.net/radio/live.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "38c25788-3641-4c11-b55c-8367ab236a93"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_7e1c7ab817e3ca41553c",
       "name": "CCR Chronicles Christian Radio",
       "country": "US",
@@ -58773,6 +58820,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T16:20:19Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5f48b491fefd67e61ca7",
+      "name": "Cliffhangers: Old-Time Radio Adventure | Stupid Potato",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "1940s",
+        "adventure",
+        "green hornet",
+        "old time radio",
+        "otr",
+        "radio drama",
+        "serials",
+        "superman",
+        "tarzan"
+      ],
+      "homepage": "https://stupidpotato.com/cliffhangers/",
+      "favicon": "https://stupidpotato.com/cliffhangers/brand/cover-600.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T13:11:48Z",
+      "streams": [
+        {
+          "id": "aws_fe879a4030d6091a525c",
+          "stationId": "awb_5f48b491fefd67e61ca7",
+          "name": "Cliffhangers: Old-Time Radio Adventure | Stupid Potato",
+          "country": "US",
+          "url": "https://stupidpotato.com/cliffhangers/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a164d24e-4bd2-448f-907e-532af071778f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -66776,6 +66870,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T12:32:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_596abffd4f28712bc78a",
+      "name": "Discover YOU RADIO",
+      "country": "US",
+      "subdivision": "Colorado",
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "alternative",
+        "clean",
+        "independent",
+        "indie"
+      ],
+      "homepage": "https://discoveryouradio.com/",
+      "favicon": "https://discoveryouradio.com/files/1436797/prism-avatar-mansion-v2.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T22:18:27Z",
+      "streams": [
+        {
+          "id": "aws_0e6cf3f52bc629655a12",
+          "stationId": "awb_596abffd4f28712bc78a",
+          "name": "Discover YOU RADIO",
+          "country": "US",
+          "url": "https://streaming.live365.com/a43097",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fd3e0774-9da1-43b2-9bcd-92283e7541f2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -87174,8 +87310,8 @@
       "homepage": "https://classicradio.network/",
       "favicon": "https://smartstream.myautodj.com/static/img/logo.png?v=0.17.1",
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-19T13:04:42Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-24T17:22:43Z",
       "streams": [
         {
           "id": "aws_3c1e33e523c1818f8e10",
@@ -87194,7 +87330,7 @@
             "6c979374-c12a-475e-8e0f-a03d4e17babb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         },
         {
           "id": "aws_e663b7fd271f1d8c393d",
@@ -87210,10 +87346,11 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "66b8199a-4c00-4e0a-b5e1-94fc434c77cc",
             "c84df2ae-6563-4445-a43e-226145856df9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -87257,7 +87394,7 @@
             "d2c68d36-3614-48ad-a210-a8b6898f9431"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -88027,8 +88164,8 @@
           "name": "Hollowlight Radio",
           "country": "US",
           "url": "https://streaming.live365.com/a83179",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -88038,7 +88175,7 @@
             "4788ec3b-5e2c-4ea9-a2cb-c407956b6eb8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -96584,6 +96721,143 @@
       ]
     },
     {
+      "id": "awb_41ccebee64d5dc660c50",
+      "name": "Jet.FM",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "eclectic",
+        "indie",
+        "los angeles",
+        "new wave",
+        "rock",
+        "variety"
+      ],
+      "homepage": "https://jet.fm/",
+      "favicon": "https://jet.fm/stream/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T20:51:01Z",
+      "streams": [
+        {
+          "id": "aws_04c3589719742836642b",
+          "stationId": "awb_41ccebee64d5dc660c50",
+          "name": "Jet.FM",
+          "country": "US",
+          "url": "https://jet.fm/radio",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "08e660e0-c598-4f40-a2a6-ebe6a8c62d0e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b26a062457096107f8b8",
+      "name": "Jet.FM HD-1 - I Heart Jet.FM",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "hits",
+        "indie",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://jet.fm/#hits",
+      "favicon": "https://jet.fm/stream/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T20:55:01Z",
+      "streams": [
+        {
+          "id": "aws_7b95c1f323208ba4f08f",
+          "stationId": "awb_b26a062457096107f8b8",
+          "name": "Jet.FM HD-1 - I Heart Jet.FM",
+          "country": "US",
+          "url": "https://jet.fm/hd1",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5a4e80a0-4619-4722-956e-59ed8c0b15c3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_07abef703ebf4ef4a4ad",
+      "name": "Jet.FM HD-2 - Old Time Radio",
+      "country": "US",
+      "subdivision": "California",
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "comedy",
+        "mystery",
+        "old time radio",
+        "otr",
+        "radio drama",
+        "western"
+      ],
+      "homepage": "https://jet.fm/#otr",
+      "favicon": "https://jet.fm/stream/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T20:53:01Z",
+      "streams": [
+        {
+          "id": "aws_12522f512b0fe7c54073",
+          "stationId": "awb_07abef703ebf4ef4a4ad",
+          "name": "Jet.FM HD-2 - Old Time Radio",
+          "country": "US",
+          "url": "https://jet.fm/hd2",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f166f4a8-0f7b-4eff-bc85-01a51aa47a8e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ec698bb833aec621b386",
       "name": "Jewish Music Stream",
       "country": "US",
@@ -100432,8 +100706,8 @@
           "name": "KBAE \"Unity 89.1\" Corpus Christi, Texas",
           "country": "US",
           "url": "https://unity89fm.com/streaming-backend/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -100443,7 +100717,7 @@
             "e04e653d-f10c-407c-851f-8adfa423c87d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -101276,6 +101550,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T16:54:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a405fa9664ef021689f2",
+      "name": "KBOK 93.3 \"K-Book\" Reno, Nevada",
+      "country": "US",
+      "subdivision": "Nevada",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "calvary chapel",
+        "christian contemporary",
+        "christian preaching",
+        "christian worship"
+      ],
+      "homepage": "https://kbook933.com/",
+      "favicon": "https://content.app-sources.com/s/519914924019267101/uploads/Images/radio_logo-1844017.jpeg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:00:34Z",
+      "streams": [
+        {
+          "id": "aws_83735d4dec624bca29d6",
+          "stationId": "awb_a405fa9664ef021689f2",
+          "name": "KBOK 93.3 \"K-Book\" Reno, Nevada",
+          "country": "US",
+          "url": "http://198.245.60.88:8024/;stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6aaa8a7c-09d3-4964-a9e0-a7fd8b83f353"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -103755,6 +104073,50 @@
       ]
     },
     {
+      "id": "awb_7349b9e9c551c1792e9e",
+      "name": "KCPV 95.9 \"Faith FM\" - Pahrump, Nevada",
+      "country": "US",
+      "subdivision": "Nevada",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "calvary chapel",
+        "christian contemporary",
+        "christian preaching",
+        "christian worship"
+      ],
+      "homepage": "https://kcpv959.com/",
+      "favicon": "https://dq5pwpg1q8ru0.cloudfront.net/2025/04/10/14/24/20/c4b92dda-e720-4134-99f0-58490c9cbb59/Untitled%20design.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T01:58:36Z",
+      "streams": [
+        {
+          "id": "aws_e4322b029d5242b7a669",
+          "stationId": "awb_7349b9e9c551c1792e9e",
+          "name": "KCPV 95.9 \"Faith FM\" - Pahrump, Nevada",
+          "country": "US",
+          "url": "https://ice25.securenetsystems.net/KCPVLP",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9b2a5d20-0745-4314-abd3-7b5e592b24a8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_c3124de262ab8be6c5a6",
       "name": "KCRW 88.9 FM - Live",
       "country": "US",
@@ -104195,8 +104557,8 @@
           "name": "KCSA 97.1 San Angelo, Texas",
           "country": "US",
           "url": "https://s47.myradiostream.com:15300/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -104206,7 +104568,7 @@
             "47329033-b6b2-4565-9e50-56ddb7072d63"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -104757,8 +105119,8 @@
           "name": "KCZN 105.9 \"Citizen Radio\" McAllen, Texas",
           "country": "US",
           "url": "https://s27.myradiostream.com/:15446/listen.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -104768,7 +105130,7 @@
             "a693841b-4334-4e84-98a9-ceb4ce3b8442"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -108217,7 +108579,7 @@
             "a02dce0d-4554-418e-aa6e-e7eb0bd96e7a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -110197,7 +110559,7 @@
             "4437234d-9478-4f1b-b74d-ab55c09b82cf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -111693,8 +112055,8 @@
           "name": "KIFN 93.1 \"City On A Hill Radio\" Decatur, Texas",
           "country": "US",
           "url": "https://streaming.live365.com/a50914",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -111704,7 +112066,7 @@
             "38a657fa-8c60-4c2f-b11f-9fcefd85f097"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -115010,8 +115372,8 @@
           "name": "KKVI-LP 92.9 \"92K\" Mesquite, Texas",
           "country": "US",
           "url": "https://ice26.securenetsystems.net/KKVI",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 32,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -115021,7 +115383,7 @@
             "851b318e-9ac3-4446-849a-aff7d2dd735d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -115148,8 +115510,8 @@
           "name": "KKYL 94.3 \"Kyle Radio\" Kyle, Texas",
           "country": "US",
           "url": "https://ice26.securenetsystems.net/KKYL",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac",
+          "bitrate": 64,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -115159,7 +115521,7 @@
             "5b053462-dc22-4d20-8152-32a088d4ee1a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -115629,6 +115991,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T06:52:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3c8ff5b2cddaa4cf0b66",
+      "name": "KLDK 96.5 Dixon, New Mexico",
+      "country": "US",
+      "subdivision": "New Mexico",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "library"
+      ],
+      "homepage": "https://www.embudovalleylibrary.org/kldk",
+      "favicon": "https://cdn.prod.website-files.com/5d7686f58b43352e7ff8bde3/5d768cc2d2b14433c70e43e4_EVL_White.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:59:09Z",
+      "streams": [
+        {
+          "id": "aws_1026b2a761571c410347",
+          "stationId": "awb_3c8ff5b2cddaa4cf0b66",
+          "name": "KLDK 96.5 Dixon, New Mexico",
+          "country": "US",
+          "url": "http://172.97.100.38:8016/;stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3c4250bc-f466-4c71-bdbf-cfcc6925b039"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -132198,7 +132602,7 @@
             "0254dd2d-91ef-407e-ba52-8c6cab8c39b2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -133857,8 +134261,8 @@
           "name": "KVLJ 99.5 Victoria, Texas",
           "country": "US",
           "url": "http://ice42.securenetsystems.net/KVLJ",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 64,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -133868,7 +134272,7 @@
             "10bc96da-38c5-4f9a-8491-16bac502cad1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -136388,52 +136792,6 @@
       ]
     },
     {
-      "id": "awb_bc38ee296e0d79cd2684",
-      "name": "KXEP \"The Empower House\" 101.5 - San Antonio, Texas",
-      "country": "US",
-      "subdivision": "Texas",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "categories": [
-        "community",
-        "talk"
-      ],
-      "tags": [
-        "community radio",
-        "lgbtq",
-        "music variety",
-        "political talk"
-      ],
-      "homepage": "https://empowerhousesa.org/radio/",
-      "favicon": "https://images.radio.co/station_logos/s4a6d5e028.20240411013910.png",
-      "type": "community",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-24T04:28:23Z",
-      "streams": [
-        {
-          "id": "aws_f7fa91c50c7f0aa005f9",
-          "stationId": "awb_bc38ee296e0d79cd2684",
-          "name": "KXEP \"The Empower House\" 101.5 - San Antonio, Texas",
-          "country": "US",
-          "url": "https://s2.radio.co/s4a6d5e028/listen",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "8f890f80-13f7-4d75-a194-b4036438872f"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
       "id": "awb_3bb4aa5076a4c56c6c99",
       "name": "KXGL - FM 100.9",
       "country": "US",
@@ -137387,8 +137745,8 @@
           "name": "KXTJ \"Classic Hits 96.9\" San Antonio Texas",
           "country": "US",
           "url": "https://s5.radio.co/s6ac20f7f4/listen",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -137398,7 +137756,7 @@
             "01908911-94f9-4bec-9096-a3afa62c351a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -137563,6 +137921,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:35:17Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b858665e7c0bd4031ee9",
+      "name": "KYHW 94.7 Gardnerville, Nevada",
+      "country": "US",
+      "subdivision": "Nevada",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "calvary chapel",
+        "christian contemporary",
+        "christian preaching",
+        "christian worship"
+      ],
+      "homepage": "https://www.cvcalvarychapel.org/",
+      "favicon": "https://faithconnector.s3.amazonaws.com/1909/images/library/design_assets/kyhw_logo_500_x_300_b_web_page_1.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:03:36Z",
+      "streams": [
+        {
+          "id": "aws_35792ff964b1560ba5f3",
+          "stationId": "awb_b858665e7c0bd4031ee9",
+          "name": "KYHW 94.7 Gardnerville, Nevada",
+          "country": "US",
+          "url": "http://135.148.34.128:9023/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5d062b94-6737-47e0-8e11-a65baa57ef85"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -138031,8 +138433,8 @@
           "name": "KZCW 104.5 / KZCC 106.1 \"Lonestar Community Radio\" Conroe, Texas",
           "country": "US",
           "url": "https://ice6.securenetsystems.net/LSIR",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 32,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -138042,7 +138444,7 @@
             "e208d238-080f-4813-90cf-73c63c1bf7a0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -147797,7 +148199,7 @@
             "b8912bdd-f4df-4bf9-866d-2143025ae299"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -159804,6 +160206,52 @@
       ]
     },
     {
+      "id": "awb_847e3839afd1f59374b1",
+      "name": "Opening Night: Old-Time Radio Theatre | Stupid Potato",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "1930s",
+        "1940s",
+        "lux radio theatre",
+        "movies",
+        "old time radio",
+        "otr",
+        "radio drama",
+        "radio theatre"
+      ],
+      "homepage": "https://stupidpotato.com/opening-night/",
+      "favicon": "https://stupidpotato.com/opening-night/brand/cover-600.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T13:14:08Z",
+      "streams": [
+        {
+          "id": "aws_60e6a490a12930d395cc",
+          "stationId": "awb_847e3839afd1f59374b1",
+          "name": "Opening Night: Old-Time Radio Theatre | Stupid Potato",
+          "country": "US",
+          "url": "https://stupidpotato.com/opening-night/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2c7960bb-ea5c-49b4-bae4-76d42a60c9ad"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_290b130cfc79df094935",
       "name": "Opihi 107.7",
       "country": "US",
@@ -160097,6 +160545,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T21:31:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c31cdbbc5c8f96eed120",
+      "name": "Orson Welles on the Air | Stupid Potato",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [
+        "1930s",
+        "1940s",
+        "mercury theatre",
+        "old time radio",
+        "orson welles",
+        "otr",
+        "radio drama"
+      ],
+      "homepage": "https://stupidpotato.com/orson-welles/",
+      "favicon": "https://stupidpotato.com/orson-welles/brand/cover-600.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T13:11:48Z",
+      "streams": [
+        {
+          "id": "aws_0228d0309b2d95ed5145",
+          "stationId": "awb_c31cdbbc5c8f96eed120",
+          "name": "Orson Welles on the Air | Stupid Potato",
+          "country": "US",
+          "url": "https://stupidpotato.com/orson-welles/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "491d7540-bbc9-4cc3-afa8-0adf8371053d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -166780,7 +167273,7 @@
             "24c59ea8-5c9d-4ae8-9fa3-d319b82397bd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -178523,7 +179016,7 @@
             "4832f373-4792-4eb5-9cc5-c1454e27a87f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -186822,7 +187315,7 @@
             "336aefa4-6f43-4f78-b67c-c65952431e2a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -196833,7 +197326,7 @@
       "tags": [
         "bossa nova"
       ],
-      "homepage": "https://somafm.com/player/#/now-playing/bossa",
+      "homepage": "https://somafm.com/",
       "favicon": "https://somafm.com/logos/400/bossa-400.jpg",
       "type": null,
       "sourceCount": 2,
@@ -202258,7 +202751,7 @@
             "20f745a7-b8b7-4ca9-8eba-6e7b2780941a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -204619,7 +205112,7 @@
             "307ec9a7-4928-45aa-92a6-db9a3f46a991"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -214167,6 +214660,41 @@
       ]
     },
     {
+      "id": "awb_0a56146200cadef322a1",
+      "name": "The Mix USA",
+      "country": "US",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://sky.doscast.com/",
+      "favicon": "https://cdn.onlineradiobox.com/img/l/9/158209.v1.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T14:20:25Z",
+      "streams": [
+        {
+          "id": "aws_950b15a72f3d1e0d37f5",
+          "stationId": "awb_0a56146200cadef322a1",
+          "name": "The Mix USA",
+          "country": "US",
+          "url": "https://sky.doscast.com/proxy/joshua/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2b6805fd-9372-4cb5-b201-c4946ea8a233"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_20f4b0114ce479b4cf86",
       "name": "The Moose 94.7 KMMS-FM",
       "country": "US",
@@ -216317,7 +216845,7 @@
     },
     {
       "id": "awb_dce1f737b260dec682b6",
-      "name": "The Source - Smooth Jazz Radio KJAC.DB",
+      "name": "The Source:Smooth Jazz Radio - KJAC.DB",
       "country": "US",
       "subdivision": "WA",
       "languages": [
@@ -216334,7 +216862,7 @@
         "vocal contemporary"
       ],
       "homepage": "https://www.thesourcesmoothjazzradio.com/",
-      "favicon": "https://www.thesourcesmoothjazzradio.com/images/favicon-32x32.png",
+      "favicon": "https://assets.clrd.net/uploads/logos/autodj/019dadf0-f0bf-7212-a652-f5c4e0c20233/0a60605f-b500-401f-a62f-8d05b670dda4.webp",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-27T21:12:09Z",
@@ -217602,6 +218130,58 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T14:02:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f1def47d43ad72ff7eee",
+      "name": "TheBigBeat.FM",
+      "country": "US",
+      "subdivision": "Texas",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "jazz",
+        "rock"
+      ],
+      "tags": [
+        "album rock",
+        "americana",
+        "blues",
+        "classic rock",
+        "commercial-free",
+        "deep cuts",
+        "free-form",
+        "jazz",
+        "rock",
+        "soul"
+      ],
+      "homepage": "https://thebigbeat.fm/",
+      "favicon": "https://www.thebigbeat.fm/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:10:14Z",
+      "streams": [
+        {
+          "id": "aws_2cbed740525e20813923",
+          "stationId": "awb_f1def47d43ad72ff7eee",
+          "name": "TheBigBeat.FM",
+          "country": "US",
+          "url": "https://ice41.securenetsystems.net/THEBIGBEAT",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6e2b5149-b2f1-4134-ab40-571024007f30"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -222236,7 +222816,7 @@
             "0c194bcc-47e0-46f6-a173-c0f392772976"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T02:35:15Z"
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -224021,7 +224601,7 @@
       "categories": [],
       "tags": [],
       "homepage": "https://www.vintagebroadcast.com/",
-      "favicon": "https://www.vintagebroadcast.com/favicon.ico",
+      "favicon": "https://vintagebroadcast.com/favicon.ico",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-14T22:54:12Z",
@@ -226805,7 +227385,7 @@
             "3af89cec-fa7e-46e3-9699-99d889173a02"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -229341,6 +229921,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-21T23:50:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_fc1332f594ae98f38a87",
+      "name": "WBNH-LP 105.1 Bedford, New Hampshire",
+      "country": "US",
+      "subdivision": "New Hampshire",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "alternative rock",
+        "emergency & public safety"
+      ],
+      "homepage": "https://bedford1051.com/",
+      "favicon": "https://bedford1051.com/wp-content/uploads/2025/04/wbnh-300.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:12:50Z",
+      "streams": [
+        {
+          "id": "aws_eb163b857128a97bf940",
+          "stationId": "awb_fc1332f594ae98f38a87",
+          "name": "WBNH-LP 105.1 Bedford, New Hampshire",
+          "country": "US",
+          "url": "https://ice66.securenetsystems.net/WBNHLP",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "78b64f1b-8be9-4d32-8c23-1fa0ba8b9470"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -233522,6 +234144,50 @@
       ]
     },
     {
+      "id": "awb_86ef725822f94ae945c0",
+      "name": "WDBP \"Mix 106.7\" Rocky Mount, North Carolina",
+      "country": "US",
+      "subdivision": "North Carolina",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues"
+      ],
+      "tags": [
+        "1980's",
+        "1990's",
+        "rhythm and blues",
+        "soul"
+      ],
+      "homepage": "https://wdbp1067.com/",
+      "favicon": "https://platform-upload.cdn-brlogic.com/250481/logo/9d4dd92985687537c9598e369bda542b.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:07:11Z",
+      "streams": [
+        {
+          "id": "aws_a8e21c4f7515e3f72ccc",
+          "stationId": "awb_86ef725822f94ae945c0",
+          "name": "WDBP \"Mix 106.7\" Rocky Mount, North Carolina",
+          "country": "US",
+          "url": "https://servidor28-4.brlogic.com:7074/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fdba580d-80a5-4c14-975f-37c120bd195e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_2d2cfd1bfdaff7aa5a94",
       "name": "WDCB 90.9 \"Jazz & Blues\" Chicago, IL",
       "country": "US",
@@ -234179,6 +234845,47 @@
       ]
     },
     {
+      "id": "awb_2a50beb7f7b4aa9f37db",
+      "name": "WDOG 105.9 \"The Rock Dog\" New Philadelphia, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "album rock"
+      ],
+      "homepage": "https://www.wdog1059.com/",
+      "favicon": "https://cdnrf.securenetsystems.net/file_radio/stations_large/WDOGLP/v5/album-art-default.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:45:07Z",
+      "streams": [
+        {
+          "id": "aws_48f59193a97b20fa9868",
+          "stationId": "awb_2a50beb7f7b4aa9f37db",
+          "name": "WDOG 105.9 \"The Rock Dog\" New Philadelphia, Ohio",
+          "country": "US",
+          "url": "https://ice25.securenetsystems.net/WDOGLP",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "011460c5-5b69-4dba-bc65-1f6badb3c100"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_8cfd69768a678a99e2a2",
       "name": "WDOR 93.9FM/910AM",
       "country": "US",
@@ -234575,7 +235282,7 @@
           "stationId": "awb_0e5d36d84c41c555d076",
           "name": "WDXB \"102.5 The Bull\" - Birmingham, Alabama",
           "country": "US",
-          "url": "https://n26b-e2.revma.ihrhls.com/zc3089",
+          "url": "https://n16b-e2.revma.ihrhls.com/zc3089",
           "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
@@ -234587,7 +235294,7 @@
             "17958225-4028-43a0-af2c-76298aab1ea7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
         }
       ]
     },
@@ -239442,6 +240149,48 @@
       ]
     },
     {
+      "id": "awb_7851029d4e93c73d0ec7",
+      "name": "WGGG 102.3 Ossipee, New Hampshire",
+      "country": "US",
+      "subdivision": "New Hampshire",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "music variety"
+      ],
+      "homepage": "http://ossipee1023.com/",
+      "favicon": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/449678285_122156630096175118_7916106775081742328_n.jpg?stp=dst-jpg_tt6&cstp=mx960x958&ctp=s960x958&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NO1fwcsCqpgQ7kNvwHSapMl&_nc_oc=Adoru_3jN0ylfasWml4Oox2Xbn028LpuLD6rmiFTyis1dsSjsN4hgwThyMRf7-xXUhg&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=bIGrDKctmGbN8fvi3z8sLg&_nc_ss=7b289&oh=00_AQPrXaLtOoRtqtfH0vcvd8-vaIXemR0Wp8JFx58fdghzYg&oe=6AE32335",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:42:58Z",
+      "streams": [
+        {
+          "id": "aws_252a1a6aa4dc185ea12e",
+          "stationId": "awb_7851029d4e93c73d0ec7",
+          "name": "WGGG 102.3 Ossipee, New Hampshire",
+          "country": "US",
+          "url": "https://stream3.rcast.net/71613",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2d988799-6b98-471b-ae3d-8a4ca0dbe168"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_5b5f26642f0db6459278",
       "name": "WGHQ 920 Magic 92.5 FM",
       "country": "US",
@@ -241276,7 +242025,7 @@
             "e0099161-ad6f-47df-a1d3-3e10ea4f4fa3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -243006,7 +243755,7 @@
       "id": "awb_22024cbbd9c119a9375e",
       "name": "WHYR 96.9 FM – Baton Rouge Community Radio",
       "country": "US",
-      "subdivision": "Loui",
+      "subdivision": "LA - Louisiana",
       "languages": [
         "en"
       ],
@@ -244232,6 +244981,51 @@
       ]
     },
     {
+      "id": "awb_a6113b2b91d701b4c541",
+      "name": "WIOH 95.9 Wilmington, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community",
+        "news",
+        "oldies"
+      ],
+      "tags": [
+        "community radio",
+        "local news",
+        "oldies"
+      ],
+      "homepage": "https://wioh.org/",
+      "favicon": "https://wioh.org/wp-content/themes/wioh/assets/images/wioh-logo-badge.svg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:49:55Z",
+      "streams": [
+        {
+          "id": "aws_a1af429f913d0eb58bc4",
+          "stationId": "awb_a6113b2b91d701b4c541",
+          "name": "WIOH 95.9 Wilmington, Ohio",
+          "country": "US",
+          "url": "https://streaming.live365.com/a30329",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "70f5dc1e-75a7-428e-b791-92557bf12164"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_0b6386bfd7c60b9537d8",
       "name": "WION",
       "country": "US",
@@ -244898,7 +245692,7 @@
             "db2c0466-d3a1-402a-968c-4643e8ee34a5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -246086,7 +246880,7 @@
             "1895cb6b-7017-49c3-b9cd-ecf2179aad63"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -247114,7 +247908,7 @@
             "2fd6d63d-346a-4f8e-b6db-9f0f469ee182"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -247587,7 +248381,7 @@
         "university radio"
       ],
       "homepage": "http://wkdu.org/",
-      "favicon": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Wkdu-logo.png",
+      "favicon": "https://wkdu.org/sites/all/themes/pills/images/logo-square-white.svg",
       "type": "college",
       "sourceCount": 7,
       "updatedAt": "2026-09-05T15:33:39Z",
@@ -251993,6 +252787,51 @@
       ]
     },
     {
+      "id": "awb_cf99bdbdced510088499",
+      "name": "WMDI 107.9 \"Kol Bramah\" Lakewood, New Jersey",
+      "country": "US",
+      "subdivision": "New Jersey",
+      "languages": [
+        "en",
+        "he",
+        "yi"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "jewish",
+        "jewish community",
+        "jewish culture"
+      ],
+      "homepage": "https://newyorkjewishradio.com/",
+      "favicon": "https://play-lh.googleusercontent.com/s2v-uj2J2GXra6nN2FVIEVfSrvI9LKsdUqWNhv2EK_sE-6usKp-CFt5Db31L0Or29gY3rdsDogU9iP6rHMpR=w240-h480-rw",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:49:54Z",
+      "streams": [
+        {
+          "id": "aws_95377b19c61050af0581",
+          "stationId": "awb_cf99bdbdced510088499",
+          "name": "WMDI 107.9 \"Kol Bramah\" Lakewood, New Jersey",
+          "country": "US",
+          "url": "https://us2.maindigitalstream.com/stream/kolbramah",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "00f86b20-e255-4d19-9cc9-224888a14566"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_75c1fbffd5f1f24f9a71",
       "name": "WMEA 90.1Maine Public Public Broadcasting - Portland, ME",
       "country": "US",
@@ -252169,6 +253008,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T19:06:29Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ae63f46f07e3a0891739",
+      "name": "WMEX 105.9 Rochester, New Hampshire",
+      "country": "US",
+      "subdivision": "New Hampshire",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "oldies",
+        "oldies 50's/60's"
+      ],
+      "homepage": "https://1059wmex.com/",
+      "favicon": "https://img1.wsimg.com/isteam/ip/fd2ab2f7-88f9-4450-aac5-a0b05f494bbc/WMEX%20LOGO%20W-80S.PNG",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:25:57Z",
+      "streams": [
+        {
+          "id": "aws_686f31cd8b0f6d00631f",
+          "stationId": "awb_ae63f46f07e3a0891739",
+          "name": "WMEX 105.9 Rochester, New Hampshire",
+          "country": "US",
+          "url": "https://broadcast.shoutcheap.com/tunein/rochest1-stream.pls",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b9a9eaf2-2990-4bd3-ad31-5aa69665b067"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -253222,7 +254103,7 @@
             "d7745446-4e0a-458b-8ded-fef6c5217bcf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -255648,6 +256529,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T20:07:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2e59cdffc22201daf0f7",
+      "name": "WNTR Jazz Radio New York",
+      "country": "US",
+      "subdivision": "New York",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://muse.ai/s/wntr-jazz-radio-new-york-am6p4mxtxdxhxta",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T13:38:55Z",
+      "streams": [
+        {
+          "id": "aws_a2d52d4cb7c86a5316c9",
+          "stationId": "awb_2e59cdffc22201daf0f7",
+          "name": "WNTR Jazz Radio New York",
+          "country": "US",
+          "url": "https://streaming.live365.com/a48256",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "61e57b52-acb2-4339-82ee-5dc1ee1452ac"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -258298,48 +259214,6 @@
       ]
     },
     {
-      "id": "awb_37b4d16f3d3a96a297b1",
-      "name": "WOZO 105.9 \"The People's Station\" Knoxville, Tennessee",
-      "country": "US",
-      "subdivision": "Tennessee",
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "community"
-      ],
-      "tags": [
-        "community radio",
-        "music variety"
-      ],
-      "homepage": "https://wozoradio.com/",
-      "favicon": "https://wozoradio.com/wp-content/uploads/2022/08/wozo_logo_flag_wo-fist-1024x718.jpg",
-      "type": "community",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-24T05:20:53Z",
-      "streams": [
-        {
-          "id": "aws_24df4583ee77359c85d3",
-          "stationId": "awb_37b4d16f3d3a96a297b1",
-          "name": "WOZO 105.9 \"The People's Station\" Knoxville, Tennessee",
-          "country": "US",
-          "url": "https://hello.citrus3.com:2020/public/wozolp",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "9e90d21c-1704-403f-95fd-fd9fd795659a"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
       "id": "awb_5627aad5229f6ea04b51",
       "name": "WOZQ 91.9 FM",
       "country": "US",
@@ -260517,7 +261391,7 @@
           "stationId": "awb_dadf85360f52d5f05af5",
           "name": "WQEN-HD2 \"103.1 The Beat\" - Birmingham, Alabama",
           "country": "US",
-          "url": "https://n10b-e2.revma.ihrhls.com/zc4956",
+          "url": "https://n01b-e2.revma.ihrhls.com/zc4956",
           "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
@@ -260529,7 +261403,7 @@
             "7a2b91a5-f16c-4384-8778-f7ddbc166f60"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -263506,6 +264380,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T06:41:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7e3c10f109589d4e99f8",
+      "name": "WRKD 101.3 Rockford, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "rock",
+        "sports"
+      ],
+      "tags": [
+        "classic rock",
+        "local sports"
+      ],
+      "homepage": "https://www.mix1013wrkd.com/",
+      "favicon": "https://static.wixstatic.com/media/46cb3f_f44622ab458c41fab7b26461b2d5dc88~mv2.jpg/v1/fill/w_152,h_79,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/WRKD%20-%20full_color.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T04:19:18Z",
+      "streams": [
+        {
+          "id": "aws_def2ff6ac73f54966118",
+          "stationId": "awb_7e3c10f109589d4e99f8",
+          "name": "WRKD 101.3 Rockford, Ohio",
+          "country": "US",
+          "url": "https://ice24.securenetsystems.net/WRKD",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4dc956e7-992f-45c4-8a03-5c47422d754a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -268715,6 +269632,47 @@
       ]
     },
     {
+      "id": "awb_082745caa3984ed5b5c1",
+      "name": "WTBU Radio",
+      "country": "US",
+      "subdivision": "Massachusetts",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "college"
+      ],
+      "tags": [
+        "college radio"
+      ],
+      "homepage": "https://sites.bu.edu/wtbu/",
+      "favicon": "https://sites.bu.edu/wtbu/wp-content/themes/responsive-framework/icons/apple-touch-icon-precomposed.png",
+      "type": "college",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-14T19:40:42Z",
+      "streams": [
+        {
+          "id": "aws_cfe226906e91fd9be01f",
+          "stationId": "awb_082745caa3984ed5b5c1",
+          "name": "WTBU Radio",
+          "country": "US",
+          "url": "https://headphones.bu.edu:8443/listen",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7c44d325-27cc-45dd-af1a-9885df5541bc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7d8dd89826716fbe6b84",
       "name": "WTCM 580 Traverse City, MI",
       "country": "US",
@@ -270415,7 +271373,7 @@
             "70da5340-e9e1-4882-803f-c1bd86d8f5bc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -277168,6 +278126,52 @@
       ]
     },
     {
+      "id": "awb_4689b3d1aa00ca4815dd",
+      "name": "WWWL 97.1 \"Wadsworth Community Radio\" Wadsworth, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "classic hits",
+        "classic rock",
+        "deep cuts",
+        "oldies"
+      ],
+      "homepage": "https://wadsworthcommunityradio.com/",
+      "favicon": "https://wadsworthcommunityradio.com/wp-content/uploads/2014/10/WasworthComRadio_Logoc.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T03:53:43Z",
+      "streams": [
+        {
+          "id": "aws_05fe8d5b71865a90ad52",
+          "stationId": "awb_4689b3d1aa00ca4815dd",
+          "name": "WWWL 97.1 \"Wadsworth Community Radio\" Wadsworth, Ohio",
+          "country": "US",
+          "url": "http://stream.wadsworthcommunityradio.com:7259/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b4dc8b0e-b5c0-4082-aeb3-fbbfcf53be4e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_96cc46c559de250208dd",
       "name": "WXCI 91.7 FM",
       "country": "US",
@@ -280432,6 +281436,49 @@
       ]
     },
     {
+      "id": "awb_ff2783e3bbbb60891f29",
+      "name": "WZLP 96.1 Loudonville, Ohio",
+      "country": "US",
+      "subdivision": "Ohio",
+      "languages": [],
+      "categories": [
+        "religious",
+        "sports"
+      ],
+      "tags": [
+        "christian preaching",
+        "gospel",
+        "local sports",
+        "sermons"
+      ],
+      "homepage": "https://www.wzlpradio.com/",
+      "favicon": "https://static.wixstatic.com/media/40d5dc_ca4ae4c5b71740ac8cb1cc232a53860c~mv2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T04:08:22Z",
+      "streams": [
+        {
+          "id": "aws_6530cabc1100f9e59cf0",
+          "stationId": "awb_ff2783e3bbbb60891f29",
+          "name": "WZLP 96.1 Loudonville, Ohio",
+          "country": "US",
+          "url": "https://streaming.live365.com/a52258",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "70f6bc1e-96a1-4120-a6e4-f9a3e448935c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_7846dce85dc6a8eefe51",
       "name": "WZMB 91.3 FM",
       "country": "US",
@@ -281089,6 +282136,44 @@
       ]
     },
     {
+      "id": "awb_d823f202a95bdb95ef32",
+      "name": "X Radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [
+        "international"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-01-14T22:54:04Z",
+      "streams": [
+        {
+          "id": "aws_61ab789de70e86d1d65f",
+          "stationId": "awb_d823f202a95bdb95ef32",
+          "name": "X Radio",
+          "country": "US",
+          "url": "http://live.xradiofm.gr:8010/913.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7aa1e5c6-5b8d-4a2a-ae33-60ba0b23e168",
+            "89110987-2c0b-4d66-a90d-6f647b8301d3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-22T07:42:33Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f54284bdb6d28d13ea35",
       "name": "X Treme Vibes Radio -- The rhythm of the People!",
       "country": "US",
@@ -281127,44 +282212,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T21:13:22Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_d823f202a95bdb95ef32",
-      "name": "X-Radio",
-      "country": "US",
-      "subdivision": null,
-      "languages": [],
-      "categories": [],
-      "tags": [
-        "international"
-      ],
-      "homepage": null,
-      "favicon": null,
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-01-14T22:54:04Z",
-      "streams": [
-        {
-          "id": "aws_61ab789de70e86d1d65f",
-          "stationId": "awb_d823f202a95bdb95ef32",
-          "name": "X Radio",
-          "country": "US",
-          "url": "http://live.xradiofm.gr:8010/913.mp3",
-          "codec": "mp3",
-          "bitrate": 192,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7aa1e5c6-5b8d-4a2a-ae33-60ba0b23e168",
-            "89110987-2c0b-4d66-a90d-6f647b8301d3"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T07:42:33Z"
         }
       ]
     },
@@ -285667,6 +286714,51 @@
       ]
     },
     {
+      "id": "awb_1a2b86dadd3a99f54153",
+      "name": "Zapstech Media Variety (ZTMV)",
+      "country": "US",
+      "subdivision": "Connecticut",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "automated",
+        "community radio",
+        "misc",
+        "miscellaneous",
+        "variety"
+      ],
+      "homepage": "https://www.zapstech.net/feed",
+      "favicon": null,
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T11:23:52Z",
+      "streams": [
+        {
+          "id": "aws_c6b87a11a79bab2c1c0e",
+          "stationId": "awb_1a2b86dadd3a99f54153",
+          "name": "Zapstech Media Variety (ZTMV)",
+          "country": "US",
+          "url": "http://philipiptv.cloudns.ph:8082/ZTMV",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7183612f-d618-4870-97e2-19a07f27623f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5070d35d92c6efae3a20",
       "name": "ZChristmas",
       "country": "US",
@@ -286220,7 +287312,7 @@
     },
     {
       "id": "awb_d4dffdef11ea48c90167",
-      "name": "ZTVGM radio",
+      "name": "ZTVGM Radio",
       "country": "US",
       "subdivision": "Connecticut",
       "languages": [
@@ -286244,7 +287336,7 @@
         "weather",
         "wilde mischung diverse metal-stilrichtungen inkl. ruhigerer "
       ],
-      "homepage": "https://www.zapstech.net/feed",
+      "homepage": "https://www.zapstech.net/",
       "favicon": null,
       "type": "community",
       "sourceCount": 4,

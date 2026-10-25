@@ -2628,8 +2628,8 @@
     "homepage": "https://radio.xecod.com/listen/AdelRayan",
     "favicon": null,
     "type": null,
-    "sourceCount": 18,
-    "updatedAt": "2026-10-21T14:03:44Z",
+    "sourceCount": 19,
+    "updatedAt": "2026-10-24T19:02:23Z",
     "streams": [
       {
         "id": "aws_320ddc2cee361033be72",
@@ -2649,7 +2649,7 @@
           "73b270bb-0631-4a8f-bc7d-b525093aad12"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7639,6 +7639,45 @@
       }
     ]
   },
+  "awb_7134277d4e30bcc09c97": {
+    "id": "awb_7134277d4e30bcc09c97",
+    "name": "get.radio — Кино (Без вокала)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "cinema",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=cinema&lang=instrumental",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/cinema.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:04:42Z",
+    "streams": [
+      {
+        "id": "aws_f27159f273e49780703f",
+        "stationId": "awb_7134277d4e30bcc09c97",
+        "name": "get.radio — Кино (Без вокала)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/cinema-instrumental.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e81156c9-206d-4169-b28d-2fc3fe067597"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_715142a1f89a991d008a": {
     "id": "awb_715142a1f89a991d008a",
     "name": "Maximum Heavy Monday",
@@ -9472,7 +9511,7 @@
           "20f745a7-b8b7-4ca9-8eba-6e7b2780941a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T21:24:16Z"
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },

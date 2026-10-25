@@ -3439,6 +3439,47 @@
       }
     ]
   },
+  "awb_b4b00fd9b46e7a0fe8e6": {
+    "id": "awb_b4b00fd9b46e7a0fe8e6",
+    "name": "Capital North East (Tyne and Wear)",
+    "country": "GB",
+    "subdivision": "Tyne and Wear",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits"
+    ],
+    "homepage": "https://www.capitalfm.com/tynewear/",
+    "favicon": "https://www.capitalfm.com/assets_v4r/dist/combined/img/large_logos/capital_north_east.svg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T15:17:01Z",
+    "streams": [
+      {
+        "id": "aws_320f3081167a04f557fd",
+        "stationId": "awb_b4b00fd9b46e7a0fe8e6",
+        "name": "Capital North East (Tyne and Wear)",
+        "country": "GB",
+        "url": "https://media-ice.musicradio.com/CapitalTyneWear",
+        "codec": "aac",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dc2dada4-a74f-44e5-8a7e-8c80defababd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
+      }
+    ]
+  },
   "awb_b4d85f20583ba0f8a400": {
     "id": "awb_b4d85f20583ba0f8a400",
     "name": "Heart Norfolk 102.4",
@@ -6558,6 +6599,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T05:21:19Z"
+      }
+    ]
+  },
+  "awb_b449388e610bd7ba4fce": {
+    "id": "awb_b449388e610bd7ba4fce",
+    "name": "get.radio — Гиперпоп (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "hyperpop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hyperpop&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hyperpop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:31Z",
+    "streams": [
+      {
+        "id": "aws_6a32d54fa2839f41729b",
+        "stationId": "awb_b449388e610bd7ba4fce",
+        "name": "get.radio — Гиперпоп (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/hyperpop-en.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4bbfc650-6ae2-438d-acaf-5b144832fe6e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },

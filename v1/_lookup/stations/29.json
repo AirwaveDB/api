@@ -5260,6 +5260,47 @@
       }
     ]
   },
+  "awb_291418f292ccc2bafe6f": {
+    "id": "awb_291418f292ccc2bafe6f",
+    "name": "Radi.fm クラシック Nippon",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "languages": [
+      "ja"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://radi.fm/ClassicNippon/",
+    "favicon": "https://www.xpand.website/assets/images/Radifm_0600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-19T06:44:21Z",
+    "streams": [
+      {
+        "id": "aws_cd7c4450b64d5dd52dec",
+        "stationId": "awb_291418f292ccc2bafe6f",
+        "name": "Radi.fm クラシック Nippon",
+        "country": "JP",
+        "url": "https://live.radi.fm/stream/ja.aac",
+        "codec": "aac",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "baa56155-7308-4085-bcf6-174e5bb22494"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
+      }
+    ]
+  },
   "awb_29ee0b1f2defbb085858": {
     "id": "awb_29ee0b1f2defbb085858",
     "name": "The ViBE Radio Lebanon",
@@ -6838,7 +6879,7 @@
       "top 40"
     ],
     "homepage": "https://www.kq105.com/",
-    "favicon": "https://bloximages.chicago2.vip.townnews.com/kq105.com/content/tncms/custom/image/23c304fa-a5bb-11ee-aed9-ab40ab64f7be.png?resize=990%2C284",
+    "favicon": "https://bloximages.chicago2.vip.townnews.com/kq105.com/content/tncms/custom/image/eec03826-a5c5-11ee-9b55-cfe8019cb216.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-09-08T16:39:16Z",
@@ -7398,6 +7439,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T13:08:28Z"
+      }
+    ]
+  },
+  "awb_292fe4149809b6b3a110": {
+    "id": "awb_292fe4149809b6b3a110",
+    "name": "Vinyl drinks 33/13",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://radio.obakiri.ru/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-18T19:49:29Z",
+    "streams": [
+      {
+        "id": "aws_327008924f14814c2146",
+        "stationId": "awb_292fe4149809b6b3a110",
+        "name": "Vinyl drinks 33/13",
+        "country": "RU",
+        "url": "http://radio.obakiri.ru:8000/vinyl-33-13-drinks",
+        "codec": "ogg",
+        "bitrate": 1536,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b21a4200-eec2-4820-92d9-e683e4b87316"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },

@@ -35,7 +35,7 @@
           "ae5ae7aa-b82e-4b87-8970-f19200e0a5e9"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T21:24:16Z"
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },
@@ -6389,6 +6389,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T19:24:44Z"
+      }
+    ]
+  },
+  "awb_cb12b60eb39aec6785ca": {
+    "id": "awb_cb12b60eb39aec6785ca",
+    "name": "get.radio — Эмбиент (Без вокала)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "ambient",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=ambient&lang=instrumental",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/ambient.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:04:35Z",
+    "streams": [
+      {
+        "id": "aws_cd53f45c0f4c809ffe56",
+        "stationId": "awb_cb12b60eb39aec6785ca",
+        "name": "get.radio — Эмбиент (Без вокала)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/ambient-instrumental.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "47e0e6a5-0099-444b-b1e8-c866a7c0751d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

@@ -4661,7 +4661,7 @@
           "b8de31a7-5eec-43b5-ad77-761b4baa92c2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-22T20:15:44Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -6978,6 +6978,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T20:34:53Z"
+      }
+    ]
+  },
+  "awb_15c6bbab1cb72bd6edb4": {
+    "id": "awb_15c6bbab1cb72bd6edb4",
+    "name": "get.radio — 60-е (Без вокала)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "music",
+      "sipout.ai",
+      "sixties"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=sixties&lang=instrumental",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/sixties.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:45Z",
+    "streams": [
+      {
+        "id": "aws_5114acb6164ace7e5bf7",
+        "stationId": "awb_15c6bbab1cb72bd6edb4",
+        "name": "get.radio — 60-е (Без вокала)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/sixties-instrumental.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b5fefc23-4123-4b0c-b9f7-76e7e3d72e11"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },

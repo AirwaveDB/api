@@ -1907,6 +1907,48 @@
       }
     ]
   },
+  "awb_1f52b146ba9a677246d3": {
+    "id": "awb_1f52b146ba9a677246d3",
+    "name": "MusicVox Fm",
+    "country": "CO",
+    "subdivision": "CUNDINAMARCA",
+    "languages": [],
+    "categories": [
+      "rock"
+    ],
+    "tags": [
+      "alternativa",
+      "colombia emisora",
+      "radio",
+      "rock"
+    ],
+    "homepage": "https://www.musicvoxfm.com/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhXZRLXwDMuxna4LKFlUDiUhAiH3pJ51PmUL_G1xaTA&s",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T22:24:27Z",
+    "streams": [
+      {
+        "id": "aws_c6aea6e1eb990c1b1401",
+        "stationId": "awb_1f52b146ba9a677246d3",
+        "name": "MusicVox Fm",
+        "country": "CO",
+        "url": "https://radio.juanjuiserver.com:8090/radio.mp3",
+        "codec": "aac",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1504347b-289c-4561-a7e4-8985a91598c5"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
+      }
+    ]
+  },
   "awb_1feea22e8eac8ea4e6ed": {
     "id": "awb_1feea22e8eac8ea4e6ed",
     "name": "Tolima Stereo 92.3 FM",
@@ -6780,6 +6822,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T17:18:55Z"
+      }
+    ]
+  },
+  "awb_1f869c608c970c969f65": {
+    "id": "awb_1f869c608c970c969f65",
+    "name": "get.radio — Гиперпоп (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "hyperpop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hyperpop&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hyperpop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_1bed278eef9372c552ff",
+        "stationId": "awb_1f869c608c970c969f65",
+        "name": "get.radio — Гиперпоп (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/hyperpop-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fd82c10a-8dde-402b-a14d-cca5de276f48"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

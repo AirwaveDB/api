@@ -1,7 +1,7 @@
 {
   "code": "DE",
-  "stationCount": 5286,
-  "streamCount": 5944,
+  "stationCount": 5290,
+  "streamCount": 5949,
   "stations": [
     {
       "id": "awb_3188958cfeae1099d95c",
@@ -27142,7 +27142,7 @@
             "ef908e01-3aed-492a-9fd9-407adfe1ef52"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -31683,7 +31683,7 @@
             "41109c3a-db06-4149-88fa-9a5142c783be"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -36232,6 +36232,41 @@
       ]
     },
     {
+      "id": "awb_83c75524df31541b122c",
+      "name": "ANTENNE BAYERN Workout Mix",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.antenne.de/webradio/workout-hits",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T15:26:29Z",
+      "streams": [
+        {
+          "id": "aws_9b0f898f291343ce8fbb",
+          "stationId": "awb_83c75524df31541b122c",
+          "name": "ANTENNE BAYERN Workout Mix",
+          "country": "DE",
+          "url": "http://mp3channels.webradio.antenne.de/workout-hits%20%20%20%20%20%20%20%20%20%20%20#Workout%20Hits",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ffb2a337-a6c3-414a-bdbf-1c279bfe18eb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_57505f59706d8e50e3d9",
       "name": "Antenne Bayern, Schlagersahne",
       "country": "DE",
@@ -40345,7 +40380,7 @@
     },
     {
       "id": "awb_1d190ad77ab885676d97",
-      "name": "Arberwaldradio",
+      "name": "arberwaldradio",
       "country": "DE",
       "subdivision": null,
       "languages": [],
@@ -40355,7 +40390,7 @@
       "tags": [
         "folk"
       ],
-      "homepage": "https://arberwoidradio.com/",
+      "homepage": "https://www.arberwoidradio.com/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -41324,7 +41359,7 @@
           "country": "DE",
           "url": "https://stream.backroadcountryradio.com/listen/backroad/radio.mp3",
           "codec": "mp3",
-          "bitrate": 192,
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -41334,7 +41369,7 @@
             "380a0773-6a92-4406-8312-10a286d55003"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -45815,7 +45850,7 @@
         "tv"
       ],
       "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-      "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+      "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T06:09:01Z",
@@ -48427,9 +48462,28 @@
       "homepage": "https://www.bigfm.de/",
       "favicon": "https://cdn.bigfm.de/sites/default/files/styles/wide/public/scald/image/bigFM-XMAS-300x300.jpg",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T06:59:17Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-24T11:34:29Z",
       "streams": [
+        {
+          "id": "aws_496609ac004e0b4c9d9a",
+          "stationId": "awb_2c731c2197bcde86c057",
+          "name": "bigFM - XMAS",
+          "country": "DE",
+          "url": "https://stream.bigfm.de/xmas/128-mp3/",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "507bcd64-c235-49c6-9d5e-2761e9c10fb1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        },
         {
           "id": "aws_21c7418de3181580c2ef",
           "stationId": "awb_2c731c2197bcde86c057",
@@ -53261,6 +53315,49 @@
       ]
     },
     {
+      "id": "awb_d30acfbab38504862b9a",
+      "name": "CaRaMe - Campusradio Merseburg",
+      "country": "DE",
+      "subdivision": "DE-ST",
+      "languages": [
+        "de"
+      ],
+      "categories": [],
+      "tags": [
+        "campusradio",
+        "campusradio merseburg",
+        "carame",
+        "caramel",
+        "hochschule merseburg"
+      ],
+      "homepage": "https://radio.hs-merseburg.de/",
+      "favicon": "https://radio.hs-merseburg.de/data/carame.svg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T16:17:46Z",
+      "streams": [
+        {
+          "id": "aws_30f15518fd7a2dc2ba43",
+          "stationId": "awb_d30acfbab38504862b9a",
+          "name": "CaRaMe - Campusradio Merseburg",
+          "country": "DE",
+          "url": "https://radio.hs-merseburg.de:8443/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b410d26f-1674-4029-8d43-74f4b3da7830"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a85b8b19cd7db1c11716",
       "name": "CARAVAN.fm",
       "country": "DE",
@@ -55896,7 +55993,7 @@
       "id": "awb_4d93db1f5602c64a3ae1",
       "name": "Club85",
       "country": "DE",
-      "subdivision": "Hessen, Frankfurt, HLS 192 kbits",
+      "subdivision": "Baden-Württemberg",
       "languages": [
         "de"
       ],
@@ -56789,7 +56886,7 @@
             "90c7b0f9-79a3-48f8-9b26-bcd84a639180"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T06:14:38Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -63714,7 +63811,7 @@
             "4c59728b-4c36-417c-89b7-edfcb321d3d8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -91011,7 +91108,7 @@
             "f75f4d49-4d40-405c-b84f-6cee59474ef1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -93365,7 +93462,7 @@
             "6f48e7e7-6274-4b27-b7de-b409063339be"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -102244,7 +102341,7 @@
       "languages": [],
       "categories": [],
       "tags": [],
-      "homepage": "https://inthemix.at/?live_stream_id=108",
+      "homepage": "https://inthemix.at/",
       "favicon": "https://inthemix.at/image.php?object_id=108&object_type=live_stream&thumb=14",
       "type": null,
       "sourceCount": 2,
@@ -108913,7 +109010,7 @@
             "8495c4a7-0c66-47b3-acd6-4b957017f610"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -126733,7 +126830,7 @@
           "name": "Michael Jackson",
           "country": "DE",
           "url": "https://stream.pcradio.ru/Michael_Jackson-hi",
-          "codec": null,
+          "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -126744,7 +126841,7 @@
             "b1bbe84c-8d49-422a-a28d-69ae197c2dfa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -129416,7 +129513,7 @@
             "c8a101cc-c981-42e5-889d-3cc351f6fa82"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -129504,7 +129601,7 @@
             "129302a4-db27-451c-b9bf-6abd7644c88e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -129548,7 +129645,7 @@
             "ad8c4d53-774d-482d-97c3-aa31c243748a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -140812,7 +140909,7 @@
           "stationId": "awb_4f830d51d8573597b92b",
           "name": "Progschuppen",
           "country": "DE",
-          "url": "https://progschuppen.stream.laut.fm/progschuppen?t302=2026-10-20_02-20-43&uuid=4e837935-26fd-3291-e1c0-200076bdff3d",
+          "url": "https://progschuppen.stream.laut.fm/progschuppen?uuid=c325c1e0-e7b0-9a87-2ebc-37cb4147c547&t302=2026-10-25_02-41-57",
           "codec": "mp3",
           "bitrate": 128,
           "protocol": "https",
@@ -140824,7 +140921,7 @@
             "5a63e83a-2baa-4a9e-8fc2-55c88dc864b3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -146646,7 +146743,7 @@
             "e661e874-3ce2-4f13-b520-7d6fe664753a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T06:18:41Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -149538,7 +149635,7 @@
     },
     {
       "id": "awb_64da13ba48280ff8393c",
-      "name": "Radio Bob",
+      "name": "Radio BOB",
       "country": "DE",
       "subdivision": "Hessen (Kassel)",
       "languages": [
@@ -149546,7 +149643,7 @@
       ],
       "categories": [],
       "tags": [],
-      "homepage": "https://www.radiobob.de/",
+      "homepage": "https://www.radiobob.de/#",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -151163,7 +151260,7 @@
             "39f83dc5-3899-4c46-b5ae-f731a25cad83"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-24T21:43:15Z"
         }
       ]
     },
@@ -160643,6 +160740,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T05:14:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1aad25932b5e6f63057a",
+      "name": "Radio Fantasy Classix",
+      "country": "DE",
+      "subdivision": null,
+      "languages": [
+        "de"
+      ],
+      "categories": [],
+      "tags": [
+        "throwbacks"
+      ],
+      "homepage": "https://www.fantasy.de/",
+      "favicon": "https://www.fantasy.de/templates/main/favicon.ico",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T13:41:56Z",
+      "streams": [
+        {
+          "id": "aws_da0e07b77b53693c6c16",
+          "stationId": "awb_1aad25932b5e6f63057a",
+          "name": "Radio Fantasy Classix",
+          "country": "DE",
+          "url": "https://edge68.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "07ccfdee-7f44-4354-a99d-977ac20dc42a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -179306,7 +179442,7 @@
             "e5ab02f4-7496-4011-b171-a9a567e14adf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -182187,6 +182323,43 @@
       ]
     },
     {
+      "id": "awb_9afb0a387441efb29f46",
+      "name": "Radio Wildherz",
+      "country": "DE",
+      "subdivision": "Bavaria",
+      "languages": [
+        "de"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://bellawildherz.de/",
+      "favicon": "https://bellawildherz.de/Bilder/RadioWildherz.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T19:09:16Z",
+      "streams": [
+        {
+          "id": "aws_7936cc22ba1cd1e02aa5",
+          "stationId": "awb_9afb0a387441efb29f46",
+          "name": "Radio Wildherz",
+          "country": "DE",
+          "url": "https://radio.webradiohost.de/listen/bellawildherz/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ec3872df-4dee-452a-b7b7-f0ba1536cc6a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-24T21:06:17Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9707139a6dde3a440e22",
       "name": "Radio Winsen (Luhe)",
       "country": "DE",
@@ -182719,7 +182892,7 @@
       "categories": [],
       "tags": [],
       "homepage": "https://streamzentrale.de/",
-      "favicon": "https://zett-stream.de/static/uploads/radio_zett/album_art.1781224792.png",
+      "favicon": "https://radio-zett.org/wp-content/uploads/2023/09/radio-zett.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T11:23:48Z",
@@ -210084,7 +210257,7 @@
             "446814ba-9628-43d0-9ea3-22404d0e6983"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },
@@ -213181,7 +213354,7 @@
     },
     {
       "id": "awb_4a0594f664b678b4203c",
-      "name": "sunshine live - Trance",
+      "name": "Sunshine Live - Trance",
       "country": "DE",
       "subdivision": "baden-wurttemberg",
       "languages": [],
@@ -218604,7 +218777,7 @@
             "ed1d2979-fb9a-47b0-9483-d61aa4c42016"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-18T22:07:29Z"
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -220707,7 +220880,7 @@
             "55ba1adc-6379-448a-b529-99abec40d506"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },

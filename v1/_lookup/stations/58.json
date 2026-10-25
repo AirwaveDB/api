@@ -2398,7 +2398,7 @@
           "869f7609-c8bf-4785-9b7f-64ab09908999"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7170,6 +7170,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T01:17:51Z"
+      }
+    ]
+  },
+  "awb_58659f6f37d53ae92899": {
+    "id": "awb_58659f6f37d53ae92899",
+    "name": "get.radio — Поп (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "music",
+      "pop",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=pop&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/pop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:05:23Z",
+    "streams": [
+      {
+        "id": "aws_6066a00e0d1f9fb9611f",
+        "stationId": "awb_58659f6f37d53ae92899",
+        "name": "get.radio — Поп (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/pop-en.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b59b5a70-96d4-4200-a3ef-13d0ae253deb"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

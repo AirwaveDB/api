@@ -1,7 +1,7 @@
 {
   "code": "chi",
   "canonicalCode": "zh",
-  "stationCount": 2042,
+  "stationCount": 2043,
   "stations": [
     {
       "id": "awb_a2962db32ca5ed989369",
@@ -4093,7 +4093,7 @@
           "name": "CHTV百姓健康频道",
           "country": "CN",
           "url": "https://p2hs.vzan.com/1532537644/njyq869272051046520219/live.m3u8",
-          "codec": null,
+          "codec": "unknown",
           "bitrate": 0,
           "protocol": "https",
           "hls": true,
@@ -4104,7 +4104,7 @@
             "991c605f-ad55-4dcd-9437-544f1bc11a07"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-24T16:24:45Z"
         }
       ]
     },
@@ -6353,6 +6353,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-21T23:54:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a48a6be42848a0baa362",
+      "name": "HardBestFM",
+      "country": "CN",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "hardcore",
+        "hardstyle"
+      ],
+      "homepage": "https://www.hardbest.cn/",
+      "favicon": "https://fm.hardbest.cn/static/uploads/browser_icon/original.1790605035.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T02:36:57Z",
+      "streams": [
+        {
+          "id": "aws_3c450996e8c13c633655",
+          "stationId": "awb_a48a6be42848a0baa362",
+          "name": "HardBestFM",
+          "country": "CN",
+          "url": "https://fm.hardbest.cn/listen/hardstyle/radio.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "afc77bb3-6aa1-44d3-9284-950dd806f435"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -23035,7 +23076,7 @@
       "id": "awb_023f2667c997817c3da6",
       "name": "哈尔滨经济广播",
       "country": "CN",
-      "subdivision": "Amur River",
+      "subdivision": "黑龙江",
       "languages": [
         "zh"
       ],
@@ -64720,7 +64761,7 @@
         "pop"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiF2.png@350w_1l",
+      "favicon": "https://m.mlzhongguo.com/uploads/image/05/15901171693455.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T17:46:36Z",
@@ -64781,7 +64822,7 @@
         "news"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://upload-qn.ajmide.com/p/image/202011/07/200-F8R6QPe8jN1604681117564_638x638.jpg@350w_1l",
+      "favicon": "https://img23.11467.com/2023/02-07/571360612.jpg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T03:55:46Z",
@@ -76795,7 +76836,7 @@
             "836b2af3-7941-4c02-b5bc-ed28e46cda43"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-19T21:24:16Z"
+          "lastCheckedAt": "2026-10-25T00:42:25Z"
         }
       ]
     },

@@ -4220,7 +4220,7 @@
           "9b9f71ff-3a0d-475f-8017-91ef84f233b3"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },
@@ -8027,6 +8027,50 @@
       }
     ]
   },
+  "awb_7349b9e9c551c1792e9e": {
+    "id": "awb_7349b9e9c551c1792e9e",
+    "name": "KCPV 95.9 \"Faith FM\" - Pahrump, Nevada",
+    "country": "US",
+    "subdivision": "Nevada",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "calvary chapel",
+      "christian contemporary",
+      "christian preaching",
+      "christian worship"
+    ],
+    "homepage": "https://kcpv959.com/",
+    "favicon": "https://dq5pwpg1q8ru0.cloudfront.net/2025/04/10/14/24/20/c4b92dda-e720-4134-99f0-58490c9cbb59/Untitled%20design.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T01:58:36Z",
+    "streams": [
+      {
+        "id": "aws_e4322b029d5242b7a669",
+        "stationId": "awb_7349b9e9c551c1792e9e",
+        "name": "KCPV 95.9 \"Faith FM\" - Pahrump, Nevada",
+        "country": "US",
+        "url": "https://ice25.securenetsystems.net/KCPVLP",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9b2a5d20-0745-4314-abd3-7b5e592b24a8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_7373f21edf4c4116cbcc": {
     "id": "awb_7373f21edf4c4116cbcc",
     "name": "KDAN - Jive Radio",
@@ -8093,8 +8137,8 @@
         "name": "KZCW 104.5 / KZCC 106.1 \"Lonestar Community Radio\" Conroe, Texas",
         "country": "US",
         "url": "https://ice6.securenetsystems.net/LSIR",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac+",
+        "bitrate": 32,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -8104,7 +8148,7 @@
           "e208d238-080f-4813-90cf-73c63c1bf7a0"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

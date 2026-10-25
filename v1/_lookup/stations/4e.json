@@ -2951,7 +2951,7 @@
           "fab746b6-db4c-4e01-bbd0-79b5b9e99905"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-19T21:24:16Z"
+        "lastCheckedAt": "2026-10-24T21:43:15Z"
       }
     ]
   },
@@ -6142,6 +6142,90 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-21T23:31:42Z"
+      }
+    ]
+  },
+  "awb_4e04278688e910545f8c": {
+    "id": "awb_4e04278688e910545f8c",
+    "name": "get.radio — Хип-хоп (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hiphop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hiphop&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hiphop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_cdb31f45d82d07ffff79",
+        "stationId": "awb_4e04278688e910545f8c",
+        "name": "get.radio — Хип-хоп (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/hiphop-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7e72b2cd-4fe4-4cf3-9f80-898e1ee1cd68"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
+  "awb_4ed4d0503befffec98fd": {
+    "id": "awb_4ed4d0503befffec98fd",
+    "name": "get.radio — Шансон (Без вокала)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "chanson",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=chanson&lang=instrumental",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/chanson.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:04:56Z",
+    "streams": [
+      {
+        "id": "aws_4af95689b721943283fc",
+        "stationId": "awb_4ed4d0503befffec98fd",
+        "name": "get.radio — Шансон (Без вокала)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/chanson-instrumental.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f790519d-f471-4fbe-b769-9067ced6a8e7"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

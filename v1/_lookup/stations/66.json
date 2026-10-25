@@ -3336,6 +3336,43 @@
       }
     ]
   },
+  "awb_66755b55150cf80a13d5": {
+    "id": "awb_66755b55150cf80a13d5",
+    "name": "France Culture officiel",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "culture"
+    ],
+    "homepage": "https://www.franceculture.fr/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T07:55:44Z",
+    "streams": [
+      {
+        "id": "aws_dcad29977a8725e576b0",
+        "stationId": "awb_66755b55150cf80a13d5",
+        "name": "France Culture officiel",
+        "country": "FR",
+        "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+        "codec": "aac",
+        "bitrate": 192,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a29adb63-a7a5-47e5-9952-22495ff8f55f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_6626f8fd0415368c7233": {
     "id": "awb_6626f8fd0415368c7233",
     "name": "Generations 2015",
@@ -6090,6 +6127,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T04:24:27Z"
+      }
+    ]
+  },
+  "awb_666fb331506012e47370": {
+    "id": "awb_666fb331506012e47370",
+    "name": "joyradio",
+    "country": "NL",
+    "subdivision": "joyradio",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://joyradio.nl/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T09:01:51Z",
+    "streams": [
+      {
+        "id": "aws_3c6f4f10569f71f4fb87",
+        "stationId": "awb_666fb331506012e47370",
+        "name": "joyradio",
+        "country": "NL",
+        "url": "https://stream.joyradio.nl/joyradio",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "cfdcc400-27d2-4d78-9c27-d1a2bd726c3b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },

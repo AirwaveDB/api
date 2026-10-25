@@ -721,7 +721,10 @@
     "name": "Dark Wave Radomir",
     "country": "BG",
     "subdivision": "Pernik",
-    "languages": [],
+    "languages": [
+      "bg",
+      "en"
+    ],
     "categories": [
       "punk"
     ],
@@ -739,8 +742,8 @@
     "homepage": "https://dwr.radio/",
     "favicon": "https://dwr.radio/wp-content/uploads/2023/10/cropped-favicon.png",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-24",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-24T19:51:52Z",
     "streams": [
       {
         "id": "aws_0e198bf4102df6fa5425",
@@ -762,6 +765,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T05:23:34Z"
+      },
+      {
+        "id": "aws_6095e46a575c49094d99",
+        "stationId": "awb_56105bf2133fc181ed1e",
+        "name": "Dark wave Radomir",
+        "country": "BG",
+        "url": "https://dwrstream.eu/?ver=209395",
+        "codec": "aac+",
+        "bitrate": 7,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "36e3ed92-00ce-4992-9c1c-201e58606e5f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

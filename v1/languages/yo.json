@@ -1,6 +1,6 @@
 {
   "code": "yo",
-  "stationCount": 9,
+  "stationCount": 10,
   "stations": [
     {
       "id": "awb_e90aeac072deb5def3ec",
@@ -445,6 +445,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T19:52:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_029e87eca30918ce6642",
+      "name": "CCC Worldwide Radio",
+      "country": "US",
+      "subdivision": "Illinois",
+      "languages": [
+        "en",
+        "yo"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "celestial church of christ",
+        "christian",
+        "church",
+        "gospel",
+        "sermons",
+        "worship"
+      ],
+      "homepage": "https://ccc-worldwide.org/app/",
+      "favicon": "https://cccworldwide.net/podcast/artwork-3000.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T22:50:13Z",
+      "streams": [
+        {
+          "id": "aws_1d8fd4443104218d2c81",
+          "stationId": "awb_029e87eca30918ce6642",
+          "name": "CCC Worldwide Radio",
+          "country": "US",
+          "url": "https://cccworldwide.net/radio/live.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "38c25788-3641-4c11-b55c-8367ab236a93"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     }

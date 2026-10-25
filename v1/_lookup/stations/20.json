@@ -3132,7 +3132,7 @@
           "0eb917c2-6544-4069-ba27-0c46bd9d066d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T00:21:03Z"
+        "lastCheckedAt": "2026-10-25T00:42:25Z"
       }
     ]
   },
@@ -7194,6 +7194,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T15:50:25Z"
+      }
+    ]
+  },
+  "awb_208bda92f31a8502edc8": {
+    "id": "awb_208bda92f31a8502edc8",
+    "name": "get.radio — Шансон (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [],
+    "tags": [
+      "chanson",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=chanson&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/chanson.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_709a2010eb98d88badec",
+        "stationId": "awb_208bda92f31a8502edc8",
+        "name": "get.radio — Шансон (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/chanson-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "17a108a2-07a7-4b63-b87a-e4daa014307a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
       }
     ]
   },

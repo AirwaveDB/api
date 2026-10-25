@@ -6276,6 +6276,49 @@
       }
     ]
   },
+  "awb_5f5343271fd411fe3c13": {
+    "id": "awb_5f5343271fd411fe3c13",
+    "name": "get.radio — Рэп (Английский)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "music",
+      "rap",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=rap&lang=en",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/rap.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_db9f34d35d4ddcc19d97",
+        "stationId": "awb_5f5343271fd411fe3c13",
+        "name": "get.radio — Рэп (Английский)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/rap-en.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bf306f67-658d-4e19-bd6b-353007e69d2e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_5f4724e871a8ba902e3d": {
     "id": "awb_5f4724e871a8ba902e3d",
     "name": "Monte Carlo: Sweet",
@@ -6902,6 +6945,53 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T06:31:00Z"
+      }
+    ]
+  },
+  "awb_5f48b491fefd67e61ca7": {
+    "id": "awb_5f48b491fefd67e61ca7",
+    "name": "Cliffhangers: Old-Time Radio Adventure | Stupid Potato",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [
+      "1940s",
+      "adventure",
+      "green hornet",
+      "old time radio",
+      "otr",
+      "radio drama",
+      "serials",
+      "superman",
+      "tarzan"
+    ],
+    "homepage": "https://stupidpotato.com/cliffhangers/",
+    "favicon": "https://stupidpotato.com/cliffhangers/brand/cover-600.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T13:11:48Z",
+    "streams": [
+      {
+        "id": "aws_fe879a4030d6091a525c",
+        "stationId": "awb_5f48b491fefd67e61ca7",
+        "name": "Cliffhangers: Old-Time Radio Adventure | Stupid Potato",
+        "country": "US",
+        "url": "https://stupidpotato.com/cliffhangers/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a164d24e-4bd2-448f-907e-532af071778f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T16:24:45Z"
       }
     ]
   },

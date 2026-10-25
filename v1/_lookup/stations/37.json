@@ -7916,6 +7916,51 @@
       }
     ]
   },
+  "awb_37d41ce87eadddce23ae": {
+    "id": "awb_37d41ce87eadddce23ae",
+    "name": "get.radio — Чилл (Прочие языки)",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "ambient"
+    ],
+    "tags": [
+      "chill",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=chill&lang=other",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/chill.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-24T21:06:14Z",
+    "streams": [
+      {
+        "id": "aws_aca5f9ca2e461b5b445d",
+        "stationId": "awb_37d41ce87eadddce23ae",
+        "name": "get.radio — Чилл (Прочие языки)",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/chill-other.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "de4d691e-e717-4c86-bc83-c7b83c6c8670"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-24T21:06:17Z"
+      }
+    ]
+  },
   "awb_373c123f6fd09bf6f7b1": {
     "id": "awb_373c123f6fd09bf6f7b1",
     "name": "Office",
@@ -9320,48 +9365,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-23T01:45:38Z"
-      }
-    ]
-  },
-  "awb_37b4d16f3d3a96a297b1": {
-    "id": "awb_37b4d16f3d3a96a297b1",
-    "name": "WOZO 105.9 \"The People's Station\" Knoxville, Tennessee",
-    "country": "US",
-    "subdivision": "Tennessee",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "community"
-    ],
-    "tags": [
-      "community radio",
-      "music variety"
-    ],
-    "homepage": "https://wozoradio.com/",
-    "favicon": "https://wozoradio.com/wp-content/uploads/2022/08/wozo_logo_flag_wo-fist-1024x718.jpg",
-    "type": "community",
-    "sourceCount": 1,
-    "updatedAt": "2026-10-24T05:20:53Z",
-    "streams": [
-      {
-        "id": "aws_24df4583ee77359c85d3",
-        "stationId": "awb_37b4d16f3d3a96a297b1",
-        "name": "WOZO 105.9 \"The People's Station\" Knoxville, Tennessee",
-        "country": "US",
-        "url": "https://hello.citrus3.com:2020/public/wozolp",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "9e90d21c-1704-403f-95fd-fd9fd795659a"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
       }
     ]
   },
