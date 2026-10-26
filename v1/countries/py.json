@@ -1,7 +1,7 @@
 {
   "code": "PY",
-  "stationCount": 63,
-  "streamCount": 66,
+  "stationCount": 64,
+  "streamCount": 67,
   "stations": [
     {
       "id": "awb_c877bc9d0ff412554aef",
@@ -274,6 +274,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T22:32:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c94570b8ca1218793ee1",
+      "name": "Electrolevel Radiomix",
+      "country": "PY",
+      "subdivision": "Asunción",
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://getme.radio/electrolevel-radiomix",
+      "favicon": "https://www.getmeradio.com/stations/electrolevel-radiomix-8626/logos/512x512.png?t=1792973792074",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-26T00:20:13Z",
+      "streams": [
+        {
+          "id": "aws_1514cc1b14c5c03a5d98",
+          "stationId": "awb_c94570b8ca1218793ee1",
+          "name": "Electrolevel Radiomix",
+          "country": "PY",
+          "url": "http://212.84.160.3:6265/",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c3abe2b9-6b32-4272-8a70-c4889bf94b87"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -1125,7 +1162,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+      "favicon": "https://radiaura.net/apple-touch-icon.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",

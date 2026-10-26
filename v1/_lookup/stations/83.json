@@ -758,6 +758,43 @@
       }
     ]
   },
+  "awb_83c4d279e0b353b2d3f3": {
+    "id": "awb_83c4d279e0b353b2d3f3",
+    "name": "RGR classic",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.rgrfmbe/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T10:51:59Z",
+    "streams": [
+      {
+        "id": "aws_d81906d65d67a0476ef5",
+        "stationId": "awb_83c4d279e0b353b2d3f3",
+        "name": "RGR classic",
+        "country": "BE",
+        "url": "https://media1.hostin.cc/rgr-classic-hits.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "95d4b270-315c-4236-8a93-c34ad6f671c5"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T15:31:59Z"
+      }
+    ]
+  },
   "awb_83a089746b71ff7525b3": {
     "id": "awb_83a089746b71ff7525b3",
     "name": "RTBF Classic 21 - Underground",
@@ -3967,7 +4004,7 @@
         "country": "FR",
         "url": "https://live.afrionde.fr/afrionde2",
         "codec": "mp3",
-        "bitrate": 192,
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3977,7 +4014,7 @@
           "7719768a-e584-4a77-9846-36c42155cc9b"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T15:25:29Z"
+        "lastCheckedAt": "2026-10-25T23:13:21Z"
       }
     ]
   },
@@ -6254,6 +6291,46 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T18:04:01Z"
+      }
+    ]
+  },
+  "awb_83e2ecd8667e55ab03ce": {
+    "id": "awb_83e2ecd8667e55ab03ce",
+    "name": "MIX FM Malaysia",
+    "country": "MY",
+    "subdivision": "Kuala Lumpur",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "21st century",
+      "contemporary hits"
+    ],
+    "homepage": "https://mix.my/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T11:49:10Z",
+    "streams": [
+      {
+        "id": "aws_7a7c38f66bedc38155d4",
+        "stationId": "awb_83e2ecd8667e55ab03ce",
+        "name": "MIX FM Malaysia",
+        "country": "MY",
+        "url": "https://stream.rcs.revma.com/v5pq3htbv4uvv/hls.m3u8",
+        "codec": "aac",
+        "bitrate": 22,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1e4941ec-37db-4741-8dc9-e486537bdaa8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
       }
     ]
   },

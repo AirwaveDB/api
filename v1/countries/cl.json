@@ -1,7 +1,7 @@
 {
   "code": "CL",
-  "stationCount": 546,
-  "streamCount": 561,
+  "stationCount": 548,
+  "streamCount": 563,
   "stations": [
     {
       "id": "awb_f69e4ba57c28e5464617",
@@ -2546,6 +2546,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T01:13:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c51158f599398adb6cfe",
+      "name": "Conexión X",
+      "country": "CL",
+      "subdivision": "Santiago, Región Metropolitana",
+      "languages": [],
+      "categories": [
+        "news",
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "noticias",
+        "pop music"
+      ],
+      "homepage": "https://www.devnova.cl/",
+      "favicon": "https://static2.mytuner.mobi/media/tvos_radios/639/start-radio.b763752c.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T15:41:59Z",
+      "streams": [
+        {
+          "id": "aws_5220ad380500f8c15a63",
+          "stationId": "awb_c51158f599398adb6cfe",
+          "name": "Conexión X",
+          "country": "CL",
+          "url": "https://video.mediawebchile.com:8116/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "86d70b67-a9bc-4c0c-8b41-dfcaf5415d90"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },
@@ -8553,7 +8598,7 @@
     },
     {
       "id": "awb_488a05d1d811ecb5936d",
-      "name": "Radio 7 Tazas de Molina FM",
+      "name": "Radio 7 Tazas de Molina FM.",
       "country": "CL",
       "subdivision": "Maule",
       "languages": [],
@@ -19963,6 +20008,50 @@
       ]
     },
     {
+      "id": "awb_111b97d70da42a114f79",
+      "name": "Ritmo en Frecuencia",
+      "country": "CL",
+      "subdivision": "Valparaíso",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "pop"
+      ],
+      "homepage": "https://zeno.fm/radio/ritmo-en-frecuencia/",
+      "favicon": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ36Xd4AsMCxIOU3RhdGlvblByb2ZpbGUYgIDQn7-81QkMogEEemVubw/image/?u=1667171822000",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-26T02:02:38Z",
+      "streams": [
+        {
+          "id": "aws_6c185b7b722f05d032bd",
+          "stationId": "awb_111b97d70da42a114f79",
+          "name": "Ritmo en Frecuencia",
+          "country": "CL",
+          "url": "https://stream.zeno.fm/9chucgdsqp8uv",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9b1507c9-05b4-406d-89b5-9ee07f279f32"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_6dac017fe81c8ed314b0",
       "name": "Ritmo FM",
       "country": "CL",
@@ -20650,7 +20739,7 @@
             "2e781f03-dd07-4ae3-bf4d-d085a39df37c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },

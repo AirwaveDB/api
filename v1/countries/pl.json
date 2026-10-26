@@ -1,7 +1,7 @@
 {
   "code": "PL",
-  "stationCount": 900,
-  "streamCount": 986,
+  "stationCount": 902,
+  "streamCount": 988,
   "stations": [
     {
       "id": "awb_03de24da3435e407fba6",
@@ -4968,6 +4968,56 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-23T00:54:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c6ce72bb5ef234a53657",
+      "name": "HardbanRecords Radio",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "en",
+        "pl"
+      ],
+      "categories": [
+        "electronic",
+        "hip-hop",
+        "jazz"
+      ],
+      "tags": [
+        "cinematic",
+        "deep house",
+        "electronic",
+        "hip hop",
+        "independent",
+        "jazz",
+        "neo soul"
+      ],
+      "homepage": "https://hardbanrecordslab.online/radio/",
+      "favicon": "https://hardbanrecordslab.online/wp-content/uploads/2026/09/hrl-master-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-26T05:26:49Z",
+      "streams": [
+        {
+          "id": "aws_8c29263795168d847da6",
+          "stationId": "awb_c6ce72bb5ef234a53657",
+          "name": "HardbanRecords Radio",
+          "country": "PL",
+          "url": "https://radio.hardbanrecordslab.online/listen/skomrakus_radio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8793f47d-eb51-4ea2-a39f-e738f4dabb8b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-26T08:16:01Z"
         }
       ]
     },
@@ -14713,6 +14763,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T08:18:28Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_a18643f7a99390a2b487",
+      "name": "Radio Eska Warszawa",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "128 kbps",
+        "pop",
+        "top 40"
+      ],
+      "homepage": "https://warszawa.eska.pl/",
+      "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-25T15:43:00Z",
+      "streams": [
+        {
+          "id": "aws_39764cb20b9e76ea4f2c",
+          "stationId": "awb_a18643f7a99390a2b487",
+          "name": "Radio Eska Warszawa",
+          "country": "PL",
+          "url": "http://waw.ic.smcdn.pl/2980-1.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3fcaf924-2282-44f2-99e7-6a6df592aff9",
+            "89bb521f-857a-45f4-9a28-10d8b3b06d9c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },
@@ -27110,7 +27204,7 @@
       "id": "awb_4b49e5c817ec766fe4aa",
       "name": "radiOFF",
       "country": "PL",
-      "subdivision": "Lubuskie",
+      "subdivision": "Oderland",
       "languages": [
         "de",
         "pl"
@@ -27142,7 +27236,7 @@
         "storytelling",
         "viadrina"
       ],
-      "homepage": "http://radioff.com/",
+      "homepage": "https://radioff.com/",
       "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
       "type": null,
       "sourceCount": 3,
@@ -30904,7 +30998,7 @@
             "4150fce5-cc6d-401c-8f42-c3a1716fc064"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -31029,7 +31123,7 @@
       "id": "awb_ccafb97eb92dab888427",
       "name": "RMF MAXX",
       "country": "PL",
-      "subdivision": "Malopolskie",
+      "subdivision": "Małopolskie",
       "languages": [
         "pl"
       ],
@@ -31046,7 +31140,7 @@
         "upbeat"
       ],
       "homepage": "https://www.rmfmaxx.pl/",
-      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VCxLogQxD9XPszTgZkGp3WCNUOBzXBkyQQ&s",
+      "favicon": "https://www.rmfmaxx.pl/favicon.ico",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-10-23T21:50:24Z",

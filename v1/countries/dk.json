@@ -1,7 +1,7 @@
 {
   "code": "DK",
-  "stationCount": 206,
-  "streamCount": 232,
+  "stationCount": 207,
+  "streamCount": 233,
   "stations": [
     {
       "id": "awb_f603fd3fb73dbab84b6a",
@@ -4623,6 +4623,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T20:31:48Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_52de8c7fdb0cd1046740",
+      "name": "NyhedsTjek.dk",
+      "country": "DK",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://nyhedstjek.dk/",
+      "favicon": "https://nyhedstjek.dk/favicon-32x32.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T19:25:11Z",
+      "streams": [
+        {
+          "id": "aws_715c932db9d8be8bf018",
+          "stationId": "awb_52de8c7fdb0cd1046740",
+          "name": "NyhedsTjek.dk",
+          "country": "DK",
+          "url": "https://a12.asurahosting.com/listen/nyhedstjek.dk/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f72a343b-f5b7-4efc-888a-734872a180af"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
         }
       ]
     },

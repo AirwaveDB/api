@@ -3249,7 +3249,7 @@
         "country": "FR",
         "url": "https://live.afrionde.fr/afrionde7",
         "codec": "mp3",
-        "bitrate": 192,
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3259,7 +3259,7 @@
           "3e29036d-0c60-4a13-b493-e5767233834d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T15:25:29Z"
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
       }
     ]
   },
@@ -4480,68 +4480,6 @@
       }
     ]
   },
-  "awb_95fce1a366c3dc8394ab": {
-    "id": "awb_95fce1a366c3dc8394ab",
-    "name": "+Radio en Redes (Atlixco) - Online - www.radioenredes.com - Atlixco, Puebla",
-    "country": "MX",
-    "subdivision": "Atlixco, Puebla",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "américa",
-      "atlixco",
-      "entretenimiento",
-      "español",
-      "estación",
-      "kalimán",
-      "latinoamérica",
-      "local",
-      "local radio",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música y noticias",
-      "norteamérica",
-      "noticias locales",
-      "programas grabados",
-      "puebla",
-      "radio",
-      "variada",
-      "variedad"
-    ],
-    "homepage": "https://radioenredes.com/",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s284222d.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-17T17:11:45Z",
-    "streams": [
-      {
-        "id": "aws_ac0b5ea3b00abd52b429",
-        "stationId": "awb_95fce1a366c3dc8394ab",
-        "name": "RADIO EN REDES (Atlixco) - Online - www.radioenredes.com - Atlixco, Puebla",
-        "country": "MX",
-        "url": "https://turadiodigital.com/8014/;",
-        "codec": "aac+",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "5740362f-7929-4c73-8acd-3308d3f7bdab",
-          "58c33820-a26e-4657-be38-a120e913bdc7"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-22T21:15:42Z"
-      }
-    ]
-  },
   "awb_958bc0646386bab9a0b0": {
     "id": "awb_958bc0646386bab9a0b0",
     "name": "100.9 W Radio (Tampico) - 100.9 FM - XHS-FM - Grupo AS Comunicación - Tampico, Tamaulipas",
@@ -5342,6 +5280,68 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T22:43:09Z"
+      }
+    ]
+  },
+  "awb_95fce1a366c3dc8394ab": {
+    "id": "awb_95fce1a366c3dc8394ab",
+    "name": "RADIO EN REDES (Atlixco) - Online - www.radioenredes.com - Atlixco, Puebla",
+    "country": "MX",
+    "subdivision": "Atlixco, Puebla",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "américa",
+      "atlixco",
+      "entretenimiento",
+      "español",
+      "estación",
+      "kalimán",
+      "latinoamérica",
+      "local",
+      "local radio",
+      "moi merino",
+      "music",
+      "méxico",
+      "música",
+      "música y noticias",
+      "norteamérica",
+      "noticias locales",
+      "programas grabados",
+      "puebla",
+      "radio",
+      "variada",
+      "variedad"
+    ],
+    "homepage": "https://radioenredes.com/",
+    "favicon": "https://i.postimg.cc/QxbQVfGw/radioenredes.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-17T17:11:45Z",
+    "streams": [
+      {
+        "id": "aws_ac0b5ea3b00abd52b429",
+        "stationId": "awb_95fce1a366c3dc8394ab",
+        "name": "RADIO EN REDES (Atlixco) - Online - www.radioenredes.com - Atlixco, Puebla",
+        "country": "MX",
+        "url": "https://turadiodigital.com/8014/;",
+        "codec": "aac+",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5740362f-7929-4c73-8acd-3308d3f7bdab",
+          "58c33820-a26e-4657-be38-a120e913bdc7"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-22T21:15:42Z"
       }
     ]
   },

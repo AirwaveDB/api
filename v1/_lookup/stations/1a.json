@@ -650,6 +650,47 @@
       }
     ]
   },
+  "awb_1aeb2a69d25e2db21647": {
+    "id": "awb_1aeb2a69d25e2db21647",
+    "name": "VRT Klara",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://www.vrt.be/vrtmax/",
+    "favicon": "https://www.phonostar.de/images/auto_created/VRT_Klara3184x184.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T17:49:15Z",
+    "streams": [
+      {
+        "id": "aws_e6f88986aa43b7edd4fb",
+        "stationId": "awb_1aeb2a69d25e2db21647",
+        "name": "VRT Klara",
+        "country": "BE",
+        "url": "https://icecast.vrtcdn.be/klara.aac",
+        "codec": "aac",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8ee993a7-df42-4579-9284-732155aafdc8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
+      }
+    ]
+  },
   "awb_1a067e31d4d100be4fac": {
     "id": "awb_1a067e31d4d100be4fac",
     "name": "Radio Hushove",
@@ -3312,7 +3353,7 @@
           "ea0f35b8-8094-4e58-9e8d-21982f2eebbe"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T22:36:25Z"
+        "lastCheckedAt": "2026-10-25T23:13:21Z"
       }
     ]
   },
@@ -5948,6 +5989,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T20:33:58Z"
+      }
+    ]
+  },
+  "awb_1ad36ebd1a4a07b719e8": {
+    "id": "awb_1ad36ebd1a4a07b719e8",
+    "name": "The Hawk NZ",
+    "country": "NZ",
+    "subdivision": "Central Otago",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://thehawk.nz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T23:40:56Z",
+    "streams": [
+      {
+        "id": "aws_dddefe10218204ed841e",
+        "stationId": "awb_1ad36ebd1a4a07b719e8",
+        "name": "The Hawk NZ",
+        "country": "NZ",
+        "url": "https://cast5.asurahosting.com/proxy/thehawkf/stream",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9c0a69e6-c2be-47b8-bd25-818b6227f49b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-26T00:27:24Z"
       }
     ]
   },

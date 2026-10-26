@@ -203,6 +203,51 @@
       }
     ]
   },
+  "awb_feb4d3002f3245da6995": {
+    "id": "awb_feb4d3002f3245da6995",
+    "name": "Radio Dielli",
+    "country": "AL",
+    "subdivision": "Tirana",
+    "languages": [
+      "sq"
+    ],
+    "categories": [
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "pop",
+      "rock",
+      "talk"
+    ],
+    "homepage": "http://www.radiodielli.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T21:37:59Z",
+    "streams": [
+      {
+        "id": "aws_19e660d4de6810803ca5",
+        "stationId": "awb_feb4d3002f3245da6995",
+        "name": "Radio Dielli",
+        "country": "AL",
+        "url": "https://radiodielli.synology.me/listen/radiodielli/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "393b5475-6848-47f6-b5df-c2c42f0bb02e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T23:13:21Z"
+      }
+    ]
+  },
   "awb_fe26c4493869c4b68648": {
     "id": "awb_fe26c4493869c4b68648",
     "name": "La 100 Rock Nacional",
@@ -3080,7 +3125,7 @@
         "country": "FR",
         "url": "https://live.afrionde.fr/afrionde10",
         "codec": "mp3",
-        "bitrate": 128,
+        "bitrate": 0,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3090,7 +3135,7 @@
           "cb3ac084-3965-4f84-961f-10f73380cc0f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T15:25:29Z"
+        "lastCheckedAt": "2026-10-25T15:32:00Z"
       }
     ]
   },
@@ -3237,7 +3282,7 @@
           "dbde7434-e855-4f75-87a4-2129731c3efc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T22:36:25Z"
+        "lastCheckedAt": "2026-10-25T23:13:21Z"
       }
     ]
   },
@@ -5287,6 +5332,54 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T12:30:41Z"
+      }
+    ]
+  },
+  "awb_fe48f9e7a02bebd6fb3e": {
+    "id": "awb_fe48f9e7a02bebd6fb3e",
+    "name": "Radio Gandhi",
+    "country": "MX",
+    "subdivision": "CDMX",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "folk",
+      "jazz",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "folk",
+      "jazz",
+      "pop",
+      "rock"
+    ],
+    "homepage": "https://www.gandhi.com.mx/radiogandhi",
+    "favicon": "https://gandhi.vtexassets.com/arquivos/radio-gandhi-internal-banner.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T12:01:27Z",
+    "streams": [
+      {
+        "id": "aws_bc79788a9780870175de",
+        "stationId": "awb_fe48f9e7a02bebd6fb3e",
+        "name": "Radio Gandhi",
+        "country": "MX",
+        "url": "https://streamingcwsradio30.com/8120/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3a333264-9a09-45f5-81e2-800423bc0834"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
       }
     ]
   },
@@ -7990,6 +8083,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T10:20:15Z"
+      }
+    ]
+  },
+  "awb_fefb6ec5205b0b17206a": {
+    "id": "awb_fefb6ec5205b0b17206a",
+    "name": "KKAU 96.5 Naalehu, Hawaii",
+    "country": "US",
+    "subdivision": "Hawaii",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "classic hits",
+      "classic rock"
+    ],
+    "homepage": "https://kkaufm.com/",
+    "favicon": "https://img1.wsimg.com/isteam/ip/e7fa53e3-4d5c-4b02-a118-d31f1230dc10/KKAU-6e9bf83.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T03:28:07Z",
+    "streams": [
+      {
+        "id": "aws_2f1c036a37e896f3cd4c",
+        "stationId": "awb_fefb6ec5205b0b17206a",
+        "name": "KKAU 96.5 Naalehu, Hawaii",
+        "country": "US",
+        "url": "http://cast6.my-control-panel.com:8230/stream",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4d14737e-c977-42eb-96ce-f9fe3fdc5795"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

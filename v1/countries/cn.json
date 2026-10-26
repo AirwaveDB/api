@@ -1,7 +1,7 @@
 {
   "code": "CN",
-  "stationCount": 1981,
-  "streamCount": 2056,
+  "stationCount": 1982,
+  "streamCount": 2057,
   "stations": [
     {
       "id": "awb_1ea34b0863da984e748f",
@@ -3968,7 +3968,7 @@
             "f050220b-ac6d-43a7-8a0e-06e76e0cc6c6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -4089,7 +4089,7 @@
             "9242b993-efbb-497b-8a82-66d3cda3827c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
         }
       ]
     },
@@ -7236,8 +7236,8 @@
           "name": "HardBestFM",
           "country": "CN",
           "url": "https://fm.hardbest.cn/listen/hardstyle/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -7247,7 +7247,7 @@
             "afc77bb3-6aa1-44d3-9284-950dd806f435"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -25810,7 +25810,7 @@
       "id": "awb_023f2667c997817c3da6",
       "name": "哈尔滨经济广播",
       "country": "CN",
-      "subdivision": "黑龙江",
+      "subdivision": "Amur River",
       "languages": [
         "zh"
       ],
@@ -26617,7 +26617,7 @@
             "ad07fec6-f4f1-4acb-b1ca-e05b0820e216"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -59549,6 +59549,47 @@
       ]
     },
     {
+      "id": "awb_042f073b757dc9861e39",
+      "name": "爵士乐",
+      "country": "CN",
+      "subdivision": "Beijing",
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "homepage": "https://big-radio.net/zh/online-radio/jazz/",
+      "favicon": "https://pic.pngsucai.com/00/84/02/02845c3850e9e036.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-26T00:58:09Z",
+      "streams": [
+        {
+          "id": "aws_4ae741881bfc3a683b21",
+          "stationId": "awb_042f073b757dc9861e39",
+          "name": "爵士乐",
+          "country": "CN",
+          "url": "https://ec3.yesstreaming.net:3455/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3fa9f0d8-1cd1-4bc3-9492-50e949d41baa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_61678bdefe4243c903e6",
       "name": "牟平广播电视台",
       "country": "CN",
@@ -70283,7 +70324,7 @@
         "traffic radio broadcast"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "http://pic.qingting.fm/2021/0714/20210714033025.jpeg",
+      "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiEo.png@350w_1l",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T18:33:11Z",
@@ -70347,7 +70388,7 @@
         "pop"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://m.mlzhongguo.com/uploads/image/05/15901171693455.jpg",
+      "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiF2.png@350w_1l",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T17:46:36Z",
@@ -70408,7 +70449,7 @@
         "news"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://img23.11467.com/2023/02-07/571360612.jpg",
+      "favicon": "https://upload-qn.ajmide.com/p/image/202011/07/200-F8R6QPe8jN1604681117564_638x638.jpg@350w_1l",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T03:55:46Z",

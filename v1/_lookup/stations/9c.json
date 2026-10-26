@@ -162,7 +162,7 @@
           "b8189b1a-0b0a-4d3a-b79f-5db905ba7987"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T23:07:56Z"
+        "lastCheckedAt": "2026-10-26T00:27:24Z"
       }
     ]
   },
@@ -1100,6 +1100,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-21T23:45:25Z"
+      }
+    ]
+  },
+  "awb_9c06c43fe1ce7e64fdd2": {
+    "id": "awb_9c06c43fe1ce7e64fdd2",
+    "name": "VRT MNM",
+    "country": "BE",
+    "subdivision": null,
+    "languages": [
+      "nl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "pop"
+    ],
+    "homepage": "https://www.vrt.be/vrtmax/",
+    "favicon": "https://www.phonostar.de/images/auto_created/VRT_MNM5184x184.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T17:47:51Z",
+    "streams": [
+      {
+        "id": "aws_ae247ed889a2a4e93bee",
+        "stationId": "awb_9c06c43fe1ce7e64fdd2",
+        "name": "VRT MNM",
+        "country": "BE",
+        "url": "https://icecast.vrtcdn.be/mnm.aac",
+        "codec": "aac",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1e61ab18-d9b4-43e4-8f2a-e0adefa93b59"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
       }
     ]
   },

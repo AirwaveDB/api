@@ -235,7 +235,7 @@
           "c6975ff0-662c-43b4-b27a-40bb3d19a802"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-21T00:26:37Z"
+        "lastCheckedAt": "2026-10-26T08:16:01Z"
       }
     ]
   },
@@ -3243,8 +3243,8 @@
     "homepage": "https://radio.xecod.com/listen/abubakr-shatri",
     "favicon": null,
     "type": null,
-    "sourceCount": 10,
-    "updatedAt": "2026-10-22T20:00:58Z",
+    "sourceCount": 15,
+    "updatedAt": "2026-10-25T21:01:08Z",
     "streams": [
       {
         "id": "aws_23e714227fce94c259b9",
@@ -3261,10 +3261,10 @@
         ],
         "sourceIds": [
           "2601f821-db62-4d99-8151-61117076c619",
-          "8cc543b2-f178-4e84-99b1-b5784213ca9d"
+          "91848d40-843f-415b-8577-222f6748a869"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:43:15Z"
+        "lastCheckedAt": "2026-10-26T00:27:24Z"
       }
     ]
   },
@@ -4980,7 +4980,7 @@
           "c5c6b9aa-c2dd-48b3-ab87-e1dbd457c2d2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-21T08:09:24Z"
+        "lastCheckedAt": "2026-10-26T08:16:01Z"
       }
     ]
   },
@@ -5059,7 +5059,7 @@
           "ec4e6546-df1a-4bba-a326-551e6e1a5616"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-21T08:09:24Z"
+        "lastCheckedAt": "2026-10-26T08:16:01Z"
       }
     ]
   },
@@ -5188,7 +5188,7 @@
           "96697826-72f1-4ccb-aa96-90eea2219367"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-22T06:03:12Z"
+        "lastCheckedAt": "2026-10-25T20:47:44Z"
       }
     ]
   },
@@ -6188,6 +6188,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T14:57:49Z"
+      }
+    ]
+  },
+  "awb_f41994dbce8c47e6bd90": {
+    "id": "awb_f41994dbce8c47e6bd90",
+    "name": "Cave FM Southland",
+    "country": "NZ",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://cavefm.co.nz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T23:45:10Z",
+    "streams": [
+      {
+        "id": "aws_b26ee2a4b36bb6677007",
+        "stationId": "awb_f41994dbce8c47e6bd90",
+        "name": "Cave FM Southland",
+        "country": "NZ",
+        "url": "https://stream.velocitynet.co.nz:8000/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "569ce1ba-8304-49b3-9842-18332d36780f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-26T00:04:52Z"
       }
     ]
   },

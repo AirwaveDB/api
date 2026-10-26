@@ -2265,6 +2265,43 @@
       }
     ]
   },
+  "awb_0aaea15f4f0ebdd165ae": {
+    "id": "awb_0aaea15f4f0ebdd165ae",
+    "name": "Moon Safari",
+    "country": "DE",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "90' relaxed electro"
+    ],
+    "homepage": "https://laut.fm/moon-safari",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T21:12:08Z",
+    "streams": [
+      {
+        "id": "aws_cb23d961eecb9eab406a",
+        "stationId": "awb_0aaea15f4f0ebdd165ae",
+        "name": "Moon Safari",
+        "country": "DE",
+        "url": "https://stream.laut.fm/moon-safari",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0637227a-faf0-4107-8412-99b4d12506e3"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-26T00:04:52Z"
+      }
+    ]
+  },
   "awb_0ab009e7a575c5ccd3a1": {
     "id": "awb_0ab009e7a575c5ccd3a1",
     "name": "Munich's Hardest Hits",
@@ -9185,8 +9222,8 @@
         "name": "Radio 2000",
         "country": "VE",
         "url": "https://streaming.panelautomatizado.com/listen/adclic/radio2000.mp3?refresh=1791934738679",
-        "codec": "aac",
-        "bitrate": 96,
+        "codec": "mp3",
+        "bitrate": 0,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -9196,7 +9233,7 @@
           "86e2057d-bda4-4ed0-8e8f-1e520cc04709"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T15:25:29Z"
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "code": "NZ",
-  "stationCount": 204,
-  "streamCount": 223,
+  "stationCount": 210,
+  "streamCount": 229,
   "stations": [
     {
       "id": "awb_4fad87ac8a708b8bec50",
@@ -852,7 +852,7 @@
             "1e3bed93-a6a3-454d-b8ab-fead7d526812"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T00:21:03Z"
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },
@@ -1267,6 +1267,43 @@
       ]
     },
     {
+      "id": "awb_f41994dbce8c47e6bd90",
+      "name": "Cave FM Southland",
+      "country": "NZ",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://cavefm.co.nz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T23:45:10Z",
+      "streams": [
+        {
+          "id": "aws_b26ee2a4b36bb6677007",
+          "stationId": "awb_f41994dbce8c47e6bd90",
+          "name": "Cave FM Southland",
+          "country": "NZ",
+          "url": "https://stream.velocitynet.co.nz:8000/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "569ce1ba-8304-49b3-9842-18332d36780f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
+        }
+      ]
+    },
+    {
       "id": "awb_dd07445e1e13ac89f53a",
       "name": "CFM Coromandel",
       "country": "NZ",
@@ -1392,6 +1429,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T20:05:08Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d7ce671fe92a32e3b03a",
+      "name": "Choice FM Otematata",
+      "country": "NZ",
+      "subdivision": "South Canterbury",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.choicefm.co.nz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T23:46:47Z",
+      "streams": [
+        {
+          "id": "aws_dd725230ee428fc1f221",
+          "stationId": "awb_d7ce671fe92a32e3b03a",
+          "name": "Choice FM Otematata",
+          "country": "NZ",
+          "url": "https://stream-15.aiir.com/oa48kzux9mmuv",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dfcaad65-a6bb-4f64-b55e-a8150a089ae3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -5895,6 +5967,41 @@
       ]
     },
     {
+      "id": "awb_3595c8fb776de41dc57c",
+      "name": "Radio Southland",
+      "country": "NZ",
+      "subdivision": "Southland",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiosouthland.org.nz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-26T00:03:22Z",
+      "streams": [
+        {
+          "id": "aws_bb310819ecb8d295c8fc",
+          "stationId": "awb_3595c8fb776de41dc57c",
+          "name": "Radio Southland",
+          "country": "NZ",
+          "url": "https://live.accessmedia.nz/Southland.stream/chunklist_w1501837953.m3u8",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6d1d0246-6c5e-4f00-ae57-3f483bd82e98"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_7cae41faa2b189eee20e",
       "name": "Radio Spice (Auckland, New Zealand)",
       "country": "NZ",
@@ -6009,6 +6116,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T20:50:04Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f074dfd734840b96be2b",
+      "name": "Radio Wanaka",
+      "country": "NZ",
+      "subdivision": "Central Otago",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radiowanaka.co.nz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T23:51:24Z",
+      "streams": [
+        {
+          "id": "aws_4e03ed119cde5e7d6aa7",
+          "stationId": "awb_f074dfd734840b96be2b",
+          "name": "Radio Wanaka",
+          "country": "NZ",
+          "url": "https://27273.live.streamtheworld.com/NZME_83AAC/HLS/playlist.m3u8",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7ec7a4c5-29d0-4c37-9e81-eb1d159092e7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-26T08:16:01Z"
         }
       ]
     },
@@ -6394,6 +6536,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T08:50:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4e4aab017f72176acccb",
+      "name": "Real Radio Oamaru",
+      "country": "NZ",
+      "subdivision": "Otago",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://realradio.nz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T23:53:28Z",
+      "streams": [
+        {
+          "id": "aws_26f36f820146fd4bb5be",
+          "stationId": "awb_4e4aab017f72176acccb",
+          "name": "Real Radio Oamaru",
+          "country": "NZ",
+          "url": "https://stream4.themediasite.co.uk:8016/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "83f06d97-7528-43ba-a992-170a1401b863"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },
@@ -7757,6 +7934,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T23:31:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1ad36ebd1a4a07b719e8",
+      "name": "The Hawk NZ",
+      "country": "NZ",
+      "subdivision": "Central Otago",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://thehawk.nz/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T23:40:56Z",
+      "streams": [
+        {
+          "id": "aws_dddefe10218204ed841e",
+          "stationId": "awb_1ad36ebd1a4a07b719e8",
+          "name": "The Hawk NZ",
+          "country": "NZ",
+          "url": "https://cast5.asurahosting.com/proxy/thehawkf/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9c0a69e6-c2be-47b8-bd25-818b6227f49b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },

@@ -3235,7 +3235,7 @@
           "d9081f9a-2850-41db-b9b0-688307873b08"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T18:48:01Z"
+        "lastCheckedAt": "2026-10-25T23:13:21Z"
       }
     ]
   },
@@ -5182,7 +5182,7 @@
     "id": "awb_f0418ec6f2a427f541db",
     "name": "Radijo Stotis Kelyje",
     "country": "LT",
-    "subdivision": "Vilnius",
+    "subdivision": "Kaunas",
     "languages": [
       "lt"
     ],
@@ -5219,7 +5219,7 @@
           "547b5600-53b8-4327-ae5d-c9a40b2163c4"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-21T00:26:37Z"
+        "lastCheckedAt": "2026-10-26T00:27:24Z"
       },
       {
         "id": "aws_cab0dd6abba2c4dae513",
@@ -6083,6 +6083,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T21:59:37Z"
+      }
+    ]
+  },
+  "awb_f074dfd734840b96be2b": {
+    "id": "awb_f074dfd734840b96be2b",
+    "name": "Radio Wanaka",
+    "country": "NZ",
+    "subdivision": "Central Otago",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiowanaka.co.nz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T23:51:24Z",
+    "streams": [
+      {
+        "id": "aws_4e03ed119cde5e7d6aa7",
+        "stationId": "awb_f074dfd734840b96be2b",
+        "name": "Radio Wanaka",
+        "country": "NZ",
+        "url": "https://27273.live.streamtheworld.com/NZME_83AAC/HLS/playlist.m3u8",
+        "codec": "aac+",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7ec7a4c5-29d0-4c37-9e81-eb1d159092e7"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-26T08:16:01Z"
       }
     ]
   },
@@ -7020,7 +7055,7 @@
         "name": "ABBA",
         "country": "RU",
         "url": "https://stream.pcradio.ru/abba-hi",
-        "codec": null,
+        "codec": "aac",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -7031,7 +7066,7 @@
           "8ef7c364-430d-4d09-b9ef-66e8c2d3b803"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-25T15:31:59Z"
       }
     ]
   },

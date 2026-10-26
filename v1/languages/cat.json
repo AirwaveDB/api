@@ -1,7 +1,7 @@
 {
   "code": "cat",
   "canonicalCode": "ca",
-  "stationCount": 105,
+  "stationCount": 106,
   "stations": [
     {
       "id": "awb_0c70a6667ca1c92a77f7",
@@ -2407,6 +2407,44 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T18:29:14Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b2f50bff1cb2000ccdfc",
+      "name": "Ràdio Gallinera",
+      "country": "ES",
+      "subdivision": "Alicante",
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radiogallinera.net/",
+      "favicon": "https://radiogallinera.net/wp-content/uploads/2022/05/4_6030573557522632109.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T19:44:06Z",
+      "streams": [
+        {
+          "id": "aws_30e65e704c0992ece91a",
+          "stationId": "awb_b2f50bff1cb2000ccdfc",
+          "name": "Ràdio Gallinera",
+          "country": "ES",
+          "url": "https://radiobot.radioslibres.info/listen/radio_gallinera/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6c8741ca-79d5-4054-be26-5dc1c3bac273"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },

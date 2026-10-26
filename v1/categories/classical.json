@@ -1,6 +1,6 @@
 {
   "id": "classical",
-  "stationCount": 1615,
+  "stationCount": 1618,
   "stations": [
     {
       "id": "awb_b3f1b3a695c80821cbff",
@@ -9048,7 +9048,7 @@
             "ec51f6f2-e43b-4a58-8315-9e7275f41733"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T08:09:24Z"
+          "lastCheckedAt": "2026-10-26T08:16:01Z"
         }
       ]
     },
@@ -11468,6 +11468,47 @@
       ]
     },
     {
+      "id": "awb_1aeb2a69d25e2db21647",
+      "name": "VRT Klara",
+      "country": "BE",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://www.vrt.be/vrtmax/",
+      "favicon": "https://www.phonostar.de/images/auto_created/VRT_Klara3184x184.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T17:49:15Z",
+      "streams": [
+        {
+          "id": "aws_e6f88986aa43b7edd4fb",
+          "stationId": "awb_1aeb2a69d25e2db21647",
+          "name": "VRT Klara",
+          "country": "BE",
+          "url": "https://icecast.vrtcdn.be/klara.aac",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8ee993a7-df42-4579-9284-732155aafdc8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_017ebc66743790e787f5",
       "name": "Easy Radio",
       "country": "BG",
@@ -12361,7 +12402,7 @@
             "4cebc367-016c-44d3-a60b-0916ea8562fe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -32563,7 +32604,7 @@
             "e363d1d7-727d-4b48-ad2d-a348c140c7a5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         },
         {
           "id": "aws_c55ec6a9702cdd9ec2fb",
@@ -33544,6 +33585,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T21:03:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_453119288bf375423bcd",
+      "name": "Mezzo live",
+      "country": "FR",
+      "subdivision": "Paris",
+      "languages": [],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://www.mezzo.tv/en%E2%81%A0",
+      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg-Z5Za_88MTaqP5CKCqvFlqvFs_4D0x89qsH-4Y7tDw&s=10",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T08:23:26Z",
+      "streams": [
+        {
+          "id": "aws_53755f60833b46649760",
+          "stationId": "awb_453119288bf375423bcd",
+          "name": "Mezzo live",
+          "country": "FR",
+          "url": "http://stream.mcquack.net/276/index.m3u8",
+          "codec": "aac",
+          "bitrate": 4880,
+          "protocol": "http",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "4fb060a6-042e-4f33-96e3-ff1d76973c67"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -55616,6 +55696,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T18:02:15Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7a519b934e922545d8a6",
+      "name": "SR P2 (128k HLS)",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz"
+      ],
+      "tags": [
+        "classical",
+        "folk",
+        "jazz",
+        "world music"
+      ],
+      "homepage": "https://www.sverigesradio.se/kanaler/p2",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T16:09:55Z",
+      "streams": [
+        {
+          "id": "aws_73524c45785238c4fd86",
+          "stationId": "awb_7a519b934e922545d8a6",
+          "name": "SR P2 (128k HLS)",
+          "country": "SE",
+          "url": "https://ljud2-cdn.sr.se/lc/p2/p2_128.pls",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "43fa8d16-e0c1-43ef-aca0-d8da5a0e1d73"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
         }
       ]
     },

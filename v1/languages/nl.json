@@ -1,6 +1,6 @@
 {
   "code": "nl",
-  "stationCount": 762,
+  "stationCount": 766,
   "stations": [
     {
       "id": "awb_2cd97e4936e987a3edf5",
@@ -4768,6 +4768,43 @@
       ]
     },
     {
+      "id": "awb_83c4d279e0b353b2d3f3",
+      "name": "RGR classic",
+      "country": "BE",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.rgrfmbe/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T10:51:59Z",
+      "streams": [
+        {
+          "id": "aws_d81906d65d67a0476ef5",
+          "stationId": "awb_83c4d279e0b353b2d3f3",
+          "name": "RGR classic",
+          "country": "BE",
+          "url": "https://media1.hostin.cc/rgr-classic-hits.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "95d4b270-315c-4236-8a93-c34ad6f671c5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7db0dff0051d5d19004f",
       "name": "RGR Classic Hits",
       "country": "BE",
@@ -4898,7 +4935,7 @@
     },
     {
       "id": "awb_4efbd7a6b22fc211c2b1",
-      "name": "Rowyna Music (NEW stream)",
+      "name": "Rowyna Music (New stream)",
       "country": "BE",
       "subdivision": null,
       "languages": [
@@ -6347,6 +6384,47 @@
       ]
     },
     {
+      "id": "awb_1aeb2a69d25e2db21647",
+      "name": "VRT Klara",
+      "country": "BE",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://www.vrt.be/vrtmax/",
+      "favicon": "https://www.phonostar.de/images/auto_created/VRT_Klara3184x184.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T17:49:15Z",
+      "streams": [
+        {
+          "id": "aws_e6f88986aa43b7edd4fb",
+          "stationId": "awb_1aeb2a69d25e2db21647",
+          "name": "VRT Klara",
+          "country": "BE",
+          "url": "https://icecast.vrtcdn.be/klara.aac",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8ee993a7-df42-4579-9284-732155aafdc8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4a97cbf03a3d4daed236",
       "name": "vrt klara high quality",
       "country": "BE",
@@ -6380,6 +6458,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T19:43:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9c06c43fe1ce7e64fdd2",
+      "name": "VRT MNM",
+      "country": "BE",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "pop"
+      ],
+      "homepage": "https://www.vrt.be/vrtmax/",
+      "favicon": "https://www.phonostar.de/images/auto_created/VRT_MNM5184x184.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T17:47:51Z",
+      "streams": [
+        {
+          "id": "aws_ae247ed889a2a4e93bee",
+          "stationId": "awb_9c06c43fe1ce7e64fdd2",
+          "name": "VRT MNM",
+          "country": "BE",
+          "url": "https://icecast.vrtcdn.be/mnm.aac",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1e61ab18-d9b4-43e4-8f2a-e0adefa93b59"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },
@@ -6986,6 +7106,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T07:29:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4d7c1608bb82dd72d488",
+      "name": "VRT Studio Brussel",
+      "country": "BE",
+      "subdivision": null,
+      "languages": [
+        "nl"
+      ],
+      "categories": [
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "pop",
+        "rock"
+      ],
+      "homepage": "https://www.vrt.be/vrtmax/livestream/audio/studio-brussel/",
+      "favicon": "https://www.phonostar.de/images/auto_created/VRT_Studio_Brussel4184x184.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T17:47:51Z",
+      "streams": [
+        {
+          "id": "aws_89acfb3bdf5719e2d40b",
+          "stationId": "awb_4d7c1608bb82dd72d488",
+          "name": "VRT Studio Brussel",
+          "country": "BE",
+          "url": "https://icecast.vrtcdn.be/stubru.aac",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "77c8c400-f516-4960-99bb-037ca80452c5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },
@@ -12410,7 +12574,7 @@
             "efda155e-a306-4ba6-831b-6356059950e4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -12447,7 +12611,7 @@
             "5f872740-75a2-496a-8030-a1f7bfad180c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -16674,7 +16838,7 @@
             "9793e740-8c38-4bcb-998d-5baf96edced3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
         }
       ]
     },
@@ -17592,7 +17756,7 @@
       "id": "awb_54c38625fb0d85da7d96",
       "name": "Langstraat FM",
       "country": "NL",
-      "subdivision": "Noord-Brabant, Waalwijk",
+      "subdivision": "Noord-Brabant",
       "languages": [
         "nl"
       ],
@@ -17609,8 +17773,8 @@
         "regional",
         "top 40"
       ],
-      "homepage": "https://www.langstraatmedia.nl/langstraat-fm/",
-      "favicon": "https://www.langstraatmedia.nl/logos/LangstraatFM.png",
+      "homepage": "https://www.langstraatmedia.nl/",
+      "favicon": "https://www.langstraatmedia.nl/favicon.ico",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-18T15:42:14Z",
@@ -18188,7 +18352,7 @@
       "id": "awb_8a0d399c51b7ae5a645a",
       "name": "MeerRadio",
       "country": "NL",
-      "subdivision": "Noord-Holland, Haarlemmermeer",
+      "subdivision": "Noord-Holland",
       "languages": [
         "nl"
       ],
@@ -18202,7 +18366,7 @@
         "local news",
         "pop music"
       ],
-      "homepage": "https://meerradio.nl/",
+      "homepage": "https://meerradio.nl/radio/luister-naar-meerradio/",
       "favicon": "https://meerradio.nl/wp-content/uploads/2023/07/Watermerk-meerradio.png",
       "type": "community",
       "sourceCount": 2,
@@ -25701,7 +25865,7 @@
             "a8c6ab94-bfea-462d-91a5-a06bb4db6cfe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T23:07:57Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -28626,7 +28790,7 @@
             "767e6fd1-b42d-4e47-982e-4a010e757868"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },

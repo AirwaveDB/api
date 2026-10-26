@@ -1,6 +1,6 @@
 {
   "code": "az",
-  "stationCount": 28,
+  "stationCount": 30,
   "stations": [
     {
       "id": "awb_5bd892f9a471c193051c",
@@ -509,6 +509,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T07:00:52Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d0f6a44df009bc85d258",
+      "name": "Max tv Azerbaycan",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "pop",
+        "world music"
+      ],
+      "homepage": "https://maxmusicmedia.com/live/",
+      "favicon": "https://media.licdn.com/dms/image/v2/D4D0BAQFXVzaA2YrWHw/company-logo_200_200/B4DZ1dwTk2IoAI-/0/1775394438234?e=2147483647&v=beta&t=xfU5k86JcUVLsDsDV-OjKEay9YuvLONyb6QcPHo50mk",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T15:45:51Z",
+      "streams": [
+        {
+          "id": "aws_d19ee3846af074d830a3",
+          "stationId": "awb_d0f6a44df009bc85d258",
+          "name": "Max tv Azerbaycan",
+          "country": "AZ",
+          "url": "https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "eaf183cb-7011-4f58-88e7-ffeee53184b5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },
@@ -1059,6 +1101,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T15:52:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_65102f0a3b5a53e70129",
+      "name": "Ayaz tv",
+      "country": "CA",
+      "subdivision": "Vinnipeq",
+      "languages": [
+        "az"
+      ],
+      "categories": [],
+      "tags": [
+        "national music"
+      ],
+      "homepage": "https://www.ayaztv.com/tv",
+      "favicon": "https://www.ayaztv.com/storage/assets/site_logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T19:56:18Z",
+      "streams": [
+        {
+          "id": "aws_aabb760bc61b372c98d5",
+          "stationId": "awb_65102f0a3b5a53e70129",
+          "name": "Ayaz tv",
+          "country": "CA",
+          "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8",
+          "codec": "aac",
+          "bitrate": 800,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7e850fc0-a2b7-4272-b146-45cf76a025c7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
         }
       ]
     },

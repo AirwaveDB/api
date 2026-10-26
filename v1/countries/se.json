@@ -1,7 +1,7 @@
 {
   "code": "SE",
-  "stationCount": 234,
-  "streamCount": 260,
+  "stationCount": 235,
+  "streamCount": 261,
   "stations": [
     {
       "id": "awb_1fa62770edd89b33f01f",
@@ -7437,6 +7437,52 @@
       ]
     },
     {
+      "id": "awb_7a519b934e922545d8a6",
+      "name": "SR P2 (128k HLS)",
+      "country": "SE",
+      "subdivision": null,
+      "languages": [
+        "sv"
+      ],
+      "categories": [
+        "classical",
+        "folk",
+        "jazz"
+      ],
+      "tags": [
+        "classical",
+        "folk",
+        "jazz",
+        "world music"
+      ],
+      "homepage": "https://www.sverigesradio.se/kanaler/p2",
+      "favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-p2.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T16:09:55Z",
+      "streams": [
+        {
+          "id": "aws_73524c45785238c4fd86",
+          "stationId": "awb_7a519b934e922545d8a6",
+          "name": "SR P2 (128k HLS)",
+          "country": "SE",
+          "url": "https://ljud2-cdn.sr.se/lc/p2/p2_128.pls",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "43fa8d16-e0c1-43ef-aca0-d8da5a0e1d73"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
+        }
+      ]
+    },
+    {
       "id": "awb_42d601942cd0038b100a",
       "name": "SR P4 Jönköping",
       "country": "SE",
@@ -8514,7 +8560,7 @@
             "5c7ef11f-a6a0-4697-9d87-6df7a3209258"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:29:55Z"
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },
@@ -9591,7 +9637,7 @@
           "country": "SE",
           "url": "https://live1.sr.se/p4vrml-mp3-96",
           "codec": "mp3",
-          "bitrate": 128,
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -9601,7 +9647,7 @@
             "ac126472-b670-4f55-8fb4-4b3a16a00bc5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },

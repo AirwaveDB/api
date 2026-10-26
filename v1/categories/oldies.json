@@ -1,6 +1,6 @@
 {
   "id": "oldies",
-  "stationCount": 2983,
+  "stationCount": 2987,
   "stations": [
     {
       "id": "awb_54b14451982a6e74df55",
@@ -1226,7 +1226,7 @@
             "43779f66-347f-44c2-aabd-4c1936bdfc7b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T08:16:01Z"
         }
       ]
     },
@@ -1272,7 +1272,7 @@
             "1b50cb68-e626-4ae5-8552-45502e50d9c1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T23:07:57Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -1317,7 +1317,7 @@
             "207b21a1-b67e-4b52-9582-0db71b29fcdc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -1360,7 +1360,7 @@
             "e87c2e39-388e-4b4b-81ad-c07322a09795"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },
@@ -6665,7 +6665,7 @@
             "eee408cd-7d2d-45bd-a20c-3467c6c88202"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -16435,7 +16435,7 @@
             "50afa332-86b9-48df-a4c1-e7d5bf47984f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
         }
       ]
     },
@@ -19091,6 +19091,51 @@
       ]
     },
     {
+      "id": "awb_c51158f599398adb6cfe",
+      "name": "Conexión X",
+      "country": "CL",
+      "subdivision": "Santiago, Región Metropolitana",
+      "languages": [],
+      "categories": [
+        "news",
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "2000s",
+        "80s",
+        "90s",
+        "noticias",
+        "pop music"
+      ],
+      "homepage": "https://www.devnova.cl/",
+      "favicon": "https://static2.mytuner.mobi/media/tvos_radios/639/start-radio.b763752c.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T15:41:59Z",
+      "streams": [
+        {
+          "id": "aws_5220ad380500f8c15a63",
+          "stationId": "awb_c51158f599398adb6cfe",
+          "name": "Conexión X",
+          "country": "CL",
+          "url": "https://video.mediawebchile.com:8116/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "86d70b67-a9bc-4c0c-8b41-dfcaf5415d90"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_f0b85a4c34b6bbe7680e",
       "name": "Edelweiss",
       "country": "CL",
@@ -20260,6 +20305,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T17:10:47Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_111b97d70da42a114f79",
+      "name": "Ritmo en Frecuencia",
+      "country": "CL",
+      "subdivision": "Valparaíso",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "oldies",
+        "pop"
+      ],
+      "tags": [
+        "80s",
+        "90s",
+        "pop"
+      ],
+      "homepage": "https://zeno.fm/radio/ritmo-en-frecuencia/",
+      "favicon": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ36Xd4AsMCxIOU3RhdGlvblByb2ZpbGUYgIDQn7-81QkMogEEemVubw/image/?u=1667171822000",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-26T02:02:38Z",
+      "streams": [
+        {
+          "id": "aws_6c185b7b722f05d032bd",
+          "stationId": "awb_111b97d70da42a114f79",
+          "name": "Ritmo en Frecuencia",
+          "country": "CL",
+          "url": "https://stream.zeno.fm/9chucgdsqp8uv",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9b1507c9-05b4-406d-89b5-9ee07f279f32"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -38039,7 +38128,7 @@
         "rock",
         "soul"
       ],
-      "homepage": "https://flaemingradio.de/",
+      "homepage": "https://www.flaemingradio.de/",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -47211,7 +47300,7 @@
             "02d47423-df7d-4c49-a9b9-f1f54ec3cbfe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
         }
       ]
     },
@@ -47267,7 +47356,7 @@
             "c7255c64-5bb6-4f4e-9bf9-3cd0beebad64"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -55402,7 +55491,7 @@
             "513d7605-f78c-44de-a7b0-296f740fb559"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -55449,7 +55538,7 @@
             "28ceda9d-0944-4a1a-8e1b-5542b68fa274"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },
@@ -55494,7 +55583,7 @@
             "c42beec4-2330-4d09-bc9c-5b951eb76378"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -55541,7 +55630,7 @@
             "f37f752c-fc2e-49a1-ba3f-41649af92d0f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -56076,7 +56165,7 @@
             "a627e7d9-6152-4a0e-8533-0cc22ab80491"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T23:07:56Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -56119,7 +56208,7 @@
             "36fdf13a-63f4-48cf-8bf2-721067f607fa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -56258,7 +56347,7 @@
             "df89e10f-97af-4a04-b1eb-c42e2511188f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -60390,6 +60479,47 @@
       ]
     },
     {
+      "id": "awb_4a2a5ccdcc2c0e35d535",
+      "name": "Remember 90s By RamperDjs",
+      "country": "ES",
+      "subdivision": "Sagunto",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "90s"
+      ],
+      "homepage": "https://radio.ramperdjs.com/stream",
+      "favicon": "https://i.imgur.com/6vPbQKD.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T11:06:37Z",
+      "streams": [
+        {
+          "id": "aws_3cb07c5f65682d4f903d",
+          "stationId": "awb_4a2a5ccdcc2c0e35d535",
+          "name": "Remember 90s By RamperDjs",
+          "country": "ES",
+          "url": "https://radio.ramperdjs.com/stream",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d19f2b75-f378-4b0c-93bd-0620420302e1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T15:32:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5d1315c99913498d9c1b",
       "name": "Remember the music FM 96.6",
       "country": "ES",
@@ -60724,7 +60854,7 @@
             "d7fde6f3-9f1b-4ea3-b50f-f58b26b51165"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },
@@ -62551,7 +62681,7 @@
             "413dd42d-a810-4d3a-8dac-fac4c22483b6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -62690,7 +62820,7 @@
             "c6848ed6-5eb0-4347-bfb5-2ca13b5e3eee"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },
@@ -62749,7 +62879,7 @@
             "61573c6a-95dd-444d-90be-871e3b0b667d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
         }
       ]
     },
@@ -67420,7 +67550,7 @@
             "fae03b86-d61f-4803-a96b-1108d5b922a8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T23:07:56Z"
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },
@@ -70623,7 +70753,7 @@
             "af927ce9-35d4-4d98-b36e-0812039bd16d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T23:07:57Z"
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },
@@ -71110,7 +71240,7 @@
             "d6f182de-5d6b-470b-8bee-3f6929feb2d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T20:01:01Z"
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         },
         {
           "id": "aws_ffcf98dea1c6785aa897",
@@ -72241,7 +72371,7 @@
       "id": "awb_4d4d44464f31efb7b977",
       "name": "1st Greek 80s FLAC Radio",
       "country": "GR",
-      "subdivision": "Attica, Athens",
+      "subdivision": "Athens Greece",
       "languages": [
         "el",
         "en"
@@ -77176,7 +77306,7 @@
             "b5e8595b-8dfd-4dc4-905c-f3688ed64153"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },
@@ -85475,7 +85605,7 @@
             "aa16bef0-6a20-4a85-abd6-d14397aabfa4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -86874,7 +87004,7 @@
             "dc0d3b6b-e150-4896-b329-23c250797298"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T08:09:24Z"
+          "lastCheckedAt": "2026-10-26T08:16:01Z"
         }
       ]
     },
@@ -86915,7 +87045,7 @@
             "5f654c9c-b3b9-4413-b201-5c79248c787c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T08:09:24Z"
+          "lastCheckedAt": "2026-10-26T08:16:01Z"
         }
       ]
     },
@@ -87043,7 +87173,7 @@
             "c6d71255-a5e0-4631-a605-ff9eed2d092c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T08:09:24Z"
+          "lastCheckedAt": "2026-10-26T08:16:01Z"
         }
       ]
     },
@@ -87203,7 +87333,7 @@
             "bd2ce58d-da96-443a-94d2-1b1451102f21"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -87295,7 +87425,7 @@
             "ec4e6546-df1a-4bba-a326-551e6e1a5616"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T08:09:24Z"
+          "lastCheckedAt": "2026-10-26T08:16:01Z"
         }
       ]
     },
@@ -87343,7 +87473,7 @@
             "f6cbecc2-9f2f-4107-a34f-08e184171ea0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -87390,7 +87520,7 @@
             "3ef1104f-2563-4aed-b97b-3453d89dc02b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T00:27:24Z"
         }
       ]
     },
@@ -87434,7 +87564,7 @@
             "0a274f0d-e00d-48f5-b207-02ada2d2b7a0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T23:07:57Z"
+          "lastCheckedAt": "2026-10-26T00:04:52Z"
         }
       ]
     },
@@ -87476,7 +87606,7 @@
             "07175f59-54a2-4d2e-ac46-14b992463c21"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T00:26:37Z"
+          "lastCheckedAt": "2026-10-26T08:16:01Z"
         }
       ]
     },
@@ -88553,107 +88683,6 @@
       ]
     },
     {
-      "id": "awb_5ad131aa9cdeeced6205",
-      "name": "+Extasis Digital (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
-      "country": "MX",
-      "subdivision": "Poza Rica, Veracruz",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "oldies",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "1970s",
-        "1980's",
-        "1980s",
-        "1990s",
-        "70 80 hits",
-        "70's",
-        "70s",
-        "70s soft rock",
-        "80's",
-        "80s",
-        "80s rock",
-        "90's",
-        "90s",
-        "90s y más",
-        "alternative classics",
-        "américa",
-        "classics",
-        "clásicos",
-        "entretenimiento",
-        "español",
-        "estación",
-        "hits 70's",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "méxico",
-        "música",
-        "música en inglés",
-        "new classics",
-        "new classics 80´s",
-        "norteamérica",
-        "oldies",
-        "online",
-        "online only",
-        "online radio",
-        "pop en inglés",
-        "poza rica",
-        "radio",
-        "radio online",
-        "radiorama"
-      ],
-      "homepage": "https://www.extasisdigital.mx/",
-      "favicon": "https://i.postimg.cc/W3y97G25/extasisdigitalpozarica.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-16T18:43:51Z",
-      "streams": [
-        {
-          "id": "aws_f489e3fcd21f842eb9dd",
-          "stationId": "awb_5ad131aa9cdeeced6205",
-          "name": "+Extasis Digital (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
-          "country": "MX",
-          "url": "https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVKLWZRbkRlUjIyWnVVdFNnRUNnUkEiLCJpYXQiOjE3OTI2MTkyMzcsImV4cCI6MTc5MjYxOTI5N30.NlRh-gt3SRscT7L7RtyBxhEH4nZ32MVpiIeBwUwKUIY",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "e701e061-bbbe-4254-988a-b6c44869b3e4"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T21:47:51Z"
-        },
-        {
-          "id": "aws_f506778a135c0353fd36",
-          "stationId": "awb_5ad131aa9cdeeced6205",
-          "name": "EXTASIS DIGITAL (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
-          "country": "MX",
-          "url": "https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjAwajRSanZsVDJhTEZLeDVCb1kwcHciLCJpYXQiOjE3OTI2MTQ3NDIsImV4cCI6MTc5MjYxNDgwMn0.4kVvxjUZ1RF9Plz4_EJK1v5gP32wCRKTP3D_G--Melc",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "bafa84c7-9558-4cca-b1b5-cd20f6c75d8a"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-21T20:33:49Z"
-        }
-      ]
-    },
-    {
       "id": "awb_c6a2eeb6e1de9a62337e",
       "name": "+Radio 620 (CDMX) - Online - www.cadenarasa.com - Cadena RASA - Ciudad de México",
       "country": "MX",
@@ -88720,82 +88749,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T04:08:42Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9990a32fe61b0c99f027",
-      "name": "+Radio Bemba (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
-      "country": "MX",
-      "subdivision": "Veracruz, Veracruz",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "latin",
-        "news",
-        "oldies"
-      ],
-      "tags": [
-        "américa",
-        "boca del río",
-        "classic salsa",
-        "domingo lucas",
-        "entretenimiento",
-        "español",
-        "estación",
-        "latin salsa",
-        "latinoamérica",
-        "local",
-        "local music",
-        "local radio",
-        "moi merino",
-        "music",
-        "méxico",
-        "música tropical",
-        "norteamérica",
-        "noticias locales",
-        "online",
-        "online only",
-        "radio",
-        "radio bemba",
-        "radio local",
-        "radio online",
-        "salsa",
-        "salsa 80s 90s",
-        "salsa colombiana",
-        "sureste",
-        "tropical",
-        "tropical music",
-        "veracruz",
-        "veracruz city",
-        "youth programs"
-      ],
-      "homepage": "https://www.radiobembaveracruz.com/",
-      "favicon": "https://cdn-profiles.tunein.com/s251775/images/logod.jpg",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-17T17:08:40Z",
-      "streams": [
-        {
-          "id": "aws_557dabddaf559a8f51e6",
-          "stationId": "awb_9990a32fe61b0c99f027",
-          "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
-          "country": "MX",
-          "url": "https://radio.e-ver.com.mx:8001/live",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0efd923f-8eac-405e-a652-2b227d113b18",
-            "9ba295c0-15e0-4d2e-82b3-8d464e523e63"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:38:31Z"
         }
       ]
     },
@@ -97687,6 +97640,107 @@
       ]
     },
     {
+      "id": "awb_5ad131aa9cdeeced6205",
+      "name": "EXTASIS DIGITAL (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
+      "country": "MX",
+      "subdivision": "Poza Rica, Veracruz",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "oldies",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "1970s",
+        "1980's",
+        "1980s",
+        "1990s",
+        "70 80 hits",
+        "70's",
+        "70s",
+        "70s soft rock",
+        "80's",
+        "80s",
+        "80s rock",
+        "90's",
+        "90s",
+        "90s y más",
+        "alternative classics",
+        "américa",
+        "classics",
+        "clásicos",
+        "entretenimiento",
+        "español",
+        "estación",
+        "hits 70's",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "méxico",
+        "música",
+        "música en inglés",
+        "new classics",
+        "new classics 80´s",
+        "norteamérica",
+        "oldies",
+        "online",
+        "online only",
+        "online radio",
+        "pop en inglés",
+        "poza rica",
+        "radio",
+        "radio online",
+        "radiorama"
+      ],
+      "homepage": "https://www.extasisdigital.mx/",
+      "favicon": "https://i.postimg.cc/W3y97G25/extasisdigitalpozarica.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-16T18:43:51Z",
+      "streams": [
+        {
+          "id": "aws_f489e3fcd21f842eb9dd",
+          "stationId": "awb_5ad131aa9cdeeced6205",
+          "name": "+Extasis Digital (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
+          "country": "MX",
+          "url": "https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVKLWZRbkRlUjIyWnVVdFNnRUNnUkEiLCJpYXQiOjE3OTI2MTkyMzcsImV4cCI6MTc5MjYxOTI5N30.NlRh-gt3SRscT7L7RtyBxhEH4nZ32MVpiIeBwUwKUIY",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e701e061-bbbe-4254-988a-b6c44869b3e4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T21:47:51Z"
+        },
+        {
+          "id": "aws_f506778a135c0353fd36",
+          "stationId": "awb_5ad131aa9cdeeced6205",
+          "name": "EXTASIS DIGITAL (Poza Rica) - Online - www.extasisdigital.mx - Radiorama Poza Rica - Poza Rica, Veracruz",
+          "country": "MX",
+          "url": "https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjAwajRSanZsVDJhTEZLeDVCb1kwcHciLCJpYXQiOjE3OTI2MTQ3NDIsImV4cCI6MTc5MjYxNDgwMn0.4kVvxjUZ1RF9Plz4_EJK1v5gP32wCRKTP3D_G--Melc",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bafa84c7-9558-4cca-b1b5-cd20f6c75d8a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-21T20:33:49Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5eeb8896218f0883d8c7",
       "name": "EXTASIS DIGITAL 105.9 (GDL) - 105.9 FM - XHQJ-FM - Radiorama de Occidente - Guadalajara, Jalisco",
       "country": "MX",
@@ -104619,6 +104673,82 @@
       ]
     },
     {
+      "id": "awb_9990a32fe61b0c99f027",
+      "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
+      "country": "MX",
+      "subdivision": "Veracruz, Veracruz",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "news",
+        "oldies"
+      ],
+      "tags": [
+        "américa",
+        "boca del río",
+        "classic salsa",
+        "domingo lucas",
+        "entretenimiento",
+        "español",
+        "estación",
+        "latin salsa",
+        "latinoamérica",
+        "local",
+        "local music",
+        "local radio",
+        "moi merino",
+        "music",
+        "méxico",
+        "música tropical",
+        "norteamérica",
+        "noticias locales",
+        "online",
+        "online only",
+        "radio",
+        "radio bemba",
+        "radio local",
+        "radio online",
+        "salsa",
+        "salsa 80s 90s",
+        "salsa colombiana",
+        "sureste",
+        "tropical",
+        "tropical music",
+        "veracruz",
+        "veracruz city",
+        "youth programs"
+      ],
+      "homepage": "https://www.radiobembaveracruz.com/",
+      "favicon": "https://i.postimg.cc/qM3fT6P7/radiobemba.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-17T17:08:40Z",
+      "streams": [
+        {
+          "id": "aws_557dabddaf559a8f51e6",
+          "stationId": "awb_9990a32fe61b0c99f027",
+          "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
+          "country": "MX",
+          "url": "https://radio.e-ver.com.mx:8001/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0efd923f-8eac-405e-a652-2b227d113b18",
+            "9ba295c0-15e0-4d2e-82b3-8d464e523e63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-22T17:38:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4b1c4b2bd1dae0a7f087",
       "name": "Radio Cañón (Córdoba) - 107.5 FM - XHKG-FM - Radio Cañón / NTR Medios de Comunicación - Córdoba, Veracruz",
       "country": "MX",
@@ -105345,7 +105475,7 @@
           "stationId": "awb_5c85b30d7c654a728717",
           "name": "Radio Fest Tehuacán",
           "country": "MX",
-          "url": "https://stream-178.surfernetwork.com/dwhxrwbsjaevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkd2h4cndic2phZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlBoUTdUVG13VDk2d0ExdGlMdGd4eGciLCJpYXQiOjE3OTI1MDk5MDQsImV4cCI6MTc5MjUwOTk2NH0.kc1tEQHMfuFboEnObYSxORB34Vc67jBfL1j41lW1NxM",
+          "url": "https://stream-178.surfernetwork.com/dwhxrwbsjaevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkd2h4cndic2phZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlZhSlJHWmNvVFVlY2E3VGkxYlVOVXciLCJpYXQiOjE3OTI5NTEzMDcsImV4cCI6MTc5Mjk1MTM2N30.0Z06fi5ksFKGvucV1qOtBfDvQSq8P5Ix-Ve2RMJP3gw",
           "codec": "mp3",
           "bitrate": 128,
           "protocol": "https",
@@ -105357,7 +105487,7 @@
             "aca6e13a-f563-46ac-ae91-bede2856c4bc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },
@@ -111710,7 +111840,7 @@
             "c52eb9d5-e95b-475d-830f-6a69f6b91fb6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -119920,7 +120050,7 @@
       "id": "awb_024ab1a6c2712c886805",
       "name": "Gongas Radio",
       "country": "PT",
-      "subdivision": "cascaos",
+      "subdivision": "cascais",
       "languages": [
         "en"
       ],
@@ -127343,7 +127473,7 @@
             "30e6aa70-cf8c-44b2-9492-7605a57c2dae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -133746,7 +133876,7 @@
             "07c935e0-e828-4b29-889b-1f0b8837b847"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T18:48:01Z"
+          "lastCheckedAt": "2026-10-25T20:47:44Z"
         }
       ]
     },
@@ -136418,7 +136548,7 @@
             "cd4e4b31-bb2a-4906-b101-463bfaa28311"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T22:36:25Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -143140,7 +143270,7 @@
             "4832f373-4792-4eb5-9cc5-c1454e27a87f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -143320,6 +143450,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T19:51:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6d8f911fc9a51b990992",
+      "name": "Raymond Hernandez",
+      "country": "US",
+      "subdivision": "Florida",
+      "languages": [],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "freestyle 80s"
+      ],
+      "homepage": "http://www.rewind1039.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T21:27:36Z",
+      "streams": [
+        {
+          "id": "aws_044d2570cfdfc34ab269",
+          "stationId": "awb_6d8f911fc9a51b990992",
+          "name": "Raymond Hernandez",
+          "country": "US",
+          "url": "http://209.133.221.250:8188/mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "72b1dfdd-8218-4a9a-92d1-820fb2022d4f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
@@ -146763,8 +146932,8 @@
           "name": "WIOH 95.9 Wilmington, Ohio",
           "country": "US",
           "url": "https://streaming.live365.com/a30329",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -146774,7 +146943,7 @@
             "70f5dc1e-75a7-428e-b791-92557bf12164"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -147233,10 +147402,10 @@
           "stationId": "awb_ae63f46f07e3a0891739",
           "name": "WMEX 105.9 Rochester, New Hampshire",
           "country": "US",
-          "url": "https://broadcast.shoutcheap.com/tunein/rochest1-stream.pls",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
+          "url": "http://broadcast.shoutcheap.com:8698/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "http",
           "hls": false,
           "sources": [
             "radio-browser"
@@ -147245,7 +147414,7 @@
             "b9a9eaf2-2990-4bd3-ad31-5aa69665b067"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-25T15:32:00Z"
         }
       ]
     },
@@ -148584,8 +148753,8 @@
           "name": "WWWL 97.1 \"Wadsworth Community Radio\" Wadsworth, Ohio",
           "country": "US",
           "url": "http://stream.wadsworthcommunityradio.com:7259/live",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "http",
           "hls": false,
           "sources": [
@@ -148595,7 +148764,7 @@
             "b4dc8b0e-b5c0-4082-aeb3-fbbfcf53be4e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },

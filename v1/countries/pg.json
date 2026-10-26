@@ -1,7 +1,7 @@
 {
   "code": "PG",
-  "stationCount": 2,
-  "streamCount": 2,
+  "stationCount": 4,
+  "streamCount": 4,
   "stations": [
     {
       "id": "awb_8d350c3c5cb7823d2189",
@@ -43,6 +43,41 @@
       ]
     },
     {
+      "id": "awb_ae605345988e26f488af",
+      "name": "Nau FM",
+      "country": "PG",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://yumifm.net/",
+      "favicon": "https://yumifm.net/wp-content/uploads/2021/06/Yumi-FM-CORRECT-LOGO.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T09:07:58Z",
+      "streams": [
+        {
+          "id": "aws_51ddd215c999a1ec29a3",
+          "stationId": "awb_ae605345988e26f488af",
+          "name": "Nau FM",
+          "country": "PG",
+          "url": "https://stream.rcs.revma.com/ae7zr39kmbpwv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c287d828-7656-4486-9ce2-a31dd68a5110"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_12be36dcaab9201d9948",
       "name": "Radio Bantaba",
       "country": "PG",
@@ -74,6 +109,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "id": "awb_7c8d9eb9e13c750d8842",
+      "name": "Yumi FM",
+      "country": "PG",
+      "subdivision": "National Capital District",
+      "languages": [],
+      "categories": [
+        "reggae"
+      ],
+      "tags": [
+        "pacific island",
+        "pacific island music",
+        "reggae"
+      ],
+      "homepage": "https://yumifm.net/",
+      "favicon": "https://yumifm.net/wp-content/uploads/2021/06/Yumi-FM-CORRECT-LOGO.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-25T09:17:07Z",
+      "streams": [
+        {
+          "id": "aws_20239db866fce477e188",
+          "stationId": "awb_7c8d9eb9e13c750d8842",
+          "name": "Yumi FM",
+          "country": "PG",
+          "url": "https://stream.rcs.revma.com/n5vb288kmbpwv",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "56e07caa-ca7c-4617-83fa-078141feab04",
+            "7196a5cc-c53f-422a-ab42-9066bd6d8139"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T15:32:00Z"
         }
       ]
     }

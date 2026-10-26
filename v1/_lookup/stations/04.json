@@ -1774,6 +1774,47 @@
       }
     ]
   },
+  "awb_042f073b757dc9861e39": {
+    "id": "awb_042f073b757dc9861e39",
+    "name": "爵士乐",
+    "country": "CN",
+    "subdivision": "Beijing",
+    "languages": [
+      "zh"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "jazz"
+    ],
+    "homepage": "https://big-radio.net/zh/online-radio/jazz/",
+    "favicon": "https://pic.pngsucai.com/00/84/02/02845c3850e9e036.webp",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T00:58:09Z",
+    "streams": [
+      {
+        "id": "aws_4ae741881bfc3a683b21",
+        "stationId": "awb_042f073b757dc9861e39",
+        "name": "爵士乐",
+        "country": "CN",
+        "url": "https://ec3.yesstreaming.net:3455/stream",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3fa9f0d8-1cd1-4bc3-9492-50e949d41baa"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_0444e0aa3aca6e7e9677": {
     "id": "awb_0444e0aa3aca6e7e9677",
     "name": "Andina Stereo 95.1 FM",
@@ -3557,7 +3598,7 @@
         "country": "FR",
         "url": "https://live.afrionde.fr/afrionde8",
         "codec": "mp3",
-        "bitrate": 192,
+        "bitrate": 0,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3567,7 +3608,7 @@
           "5922440f-dbf5-45e5-a02b-2995b7d9bcff"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T15:25:29Z"
+        "lastCheckedAt": "2026-10-25T15:31:59Z"
       }
     ]
   },

@@ -2451,7 +2451,7 @@
           "3341d46f-64a5-42f8-a0e5-bb94a7a79e25"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T15:25:29Z"
+        "lastCheckedAt": "2026-10-25T15:31:59Z"
       }
     ]
   },
@@ -3340,6 +3340,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T02:43:28Z"
+      }
+    ]
+  },
+  "awb_453119288bf375423bcd": {
+    "id": "awb_453119288bf375423bcd",
+    "name": "Mezzo live",
+    "country": "FR",
+    "subdivision": "Paris",
+    "languages": [],
+    "categories": [
+      "classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "homepage": "https://www.mezzo.tv/en%E2%81%A0",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg-Z5Za_88MTaqP5CKCqvFlqvFs_4D0x89qsH-4Y7tDw&s=10",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T08:23:26Z",
+    "streams": [
+      {
+        "id": "aws_53755f60833b46649760",
+        "stationId": "awb_453119288bf375423bcd",
+        "name": "Mezzo live",
+        "country": "FR",
+        "url": "http://stream.mcquack.net/276/index.m3u8",
+        "codec": "aac",
+        "bitrate": 4880,
+        "protocol": "http",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "4fb060a6-042e-4f33-96e3-ff1d76973c67"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T15:31:59Z"
       }
     ]
   },

@@ -245,7 +245,7 @@
           "ad5bf88a-f015-4030-9ffc-588af393a5f0"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T23:07:57Z"
+        "lastCheckedAt": "2026-10-25T23:13:21Z"
       }
     ]
   },
@@ -691,6 +691,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T09:00:57Z"
+      }
+    ]
+  },
+  "awb_79ccae4c01d8ff326101": {
+    "id": "awb_79ccae4c01d8ff326101",
+    "name": "DovaFM Radio",
+    "country": "AU",
+    "subdivision": "Brisbane QLD",
+    "languages": [
+      "en"
+    ],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://dovafm.com/",
+    "favicon": "https://dovafm.com/static/img/png/icon-solid.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-25T07:45:39Z",
+    "streams": [
+      {
+        "id": "aws_ce62f04deb89cc8bc216",
+        "stationId": "awb_79ccae4c01d8ff326101",
+        "name": "DovaFM Radio",
+        "country": "AU",
+        "url": "https://listen.dovafm.com/listen/dovafm/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "2ba2b5c2-90e7-40f5-99c9-250639e4be80"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T15:31:59Z"
       }
     ]
   },
@@ -3238,7 +3275,7 @@
           "3755cc7b-1da6-40f7-b618-5a8a6f82490f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T22:36:25Z"
+        "lastCheckedAt": "2026-10-26T00:04:52Z"
       }
     ]
   },
@@ -5315,7 +5352,7 @@
           "4d0783e4-801f-46d7-9155-3cce134b706e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T15:25:29Z"
+        "lastCheckedAt": "2026-10-25T20:47:44Z"
       }
     ]
   },
@@ -7001,7 +7038,7 @@
           "ff2a3f5f-8d42-4c1e-8238-0f2843d334f6"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:43:15Z"
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
       }
     ]
   },
@@ -8018,7 +8055,7 @@
         "country": "SE",
         "url": "https://live1.sr.se/p4vrml-mp3-96",
         "codec": "mp3",
-        "bitrate": 128,
+        "bitrate": 96,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -8028,7 +8065,7 @@
           "ac126472-b670-4f55-8fb4-4b3a16a00bc5"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T15:25:29Z"
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
       }
     ]
   },
@@ -8697,7 +8734,7 @@
           "f264d8bb-2cae-4ac3-a3c7-fafc95397eec"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T15:25:29Z"
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
       }
     ]
   },
@@ -9187,6 +9224,53 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T03:07:10Z"
+      }
+    ]
+  },
+  "awb_79fa73c2a4feccf07c96": {
+    "id": "awb_79fa73c2a4feccf07c96",
+    "name": "KXIQ 105.1 Brownsville, Texas",
+    "country": "US",
+    "subdivision": "Texas",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "community",
+      "jazz"
+    ],
+    "tags": [
+      "community radio",
+      "jazz",
+      "music variety",
+      "podcast",
+      "regional mexican"
+    ],
+    "homepage": "https://brosoperformingarts.org/kxiq-105-1fm",
+    "favicon": "https://la2.indexcom.com/player/bspa/blu/img/Image_Default.jpg",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T00:54:16Z",
+    "streams": [
+      {
+        "id": "aws_4922bc91d054389b6bfc",
+        "stationId": "awb_79fa73c2a4feccf07c96",
+        "name": "KXIQ 105.1 Brownsville, Texas",
+        "country": "US",
+        "url": "https://bspa.la11.streamindex.net/bspa/64k/program.m3u8",
+        "codec": "mp4",
+        "bitrate": 64000,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6e755fd8-6082-41e9-8d27-397e50b457c0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-26T08:16:01Z"
       }
     ]
   },

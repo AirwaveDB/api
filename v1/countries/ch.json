@@ -1,7 +1,7 @@
 {
   "code": "CH",
-  "stationCount": 502,
-  "streamCount": 585,
+  "stationCount": 503,
+  "streamCount": 586,
   "stations": [
     {
       "id": "awb_582d4249c015a00bfcff",
@@ -15084,6 +15084,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-22T09:00:57Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_378ba0e26fdd4f14d7a6",
+      "name": "Radio Sunrise Swiss",
+      "country": "CH",
+      "subdivision": null,
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "hip-hop",
+        "pop"
+      ],
+      "tags": [
+        "hits",
+        "rap fr",
+        "suisse",
+        "swiss",
+        "webradio"
+      ],
+      "homepage": "https://sunriseradio.ch/",
+      "favicon": "https://sunriseradio.ch/icon-512.png",
+      "type": "internet",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T15:44:14Z",
+      "streams": [
+        {
+          "id": "aws_12efe4f8204ac972c47c",
+          "stationId": "awb_378ba0e26fdd4f14d7a6",
+          "name": "Radio Sunrise Swiss",
+          "country": "CH",
+          "url": "https://radio.sunriseradio.ch/listen/radio_sunrise_swiss/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "91bad15a-cec9-471b-8f3c-39cd9039d15a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     },

@@ -3277,8 +3277,8 @@
     "homepage": "http://chaos-radio.fr/",
     "favicon": "http://chaos-radio.fr/assets/icons/icon-128x128.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:20:09Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-25T17:18:31Z",
     "streams": [
       {
         "id": "aws_e32c7c24b6c8c6d69375",
@@ -3298,6 +3298,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T17:46:23Z"
+      },
+      {
+        "id": "aws_5d4bf489edea03ab0d55",
+        "stationId": "awb_66481665c68e9df085c2",
+        "name": "Chaos Radio",
+        "country": "FR",
+        "url": "https://chaos-radio.fr/stream/128",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8e75f2bc-ae71-40fe-84e9-a9cb9abfac40"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-25T18:02:00Z"
       }
     ]
   },
@@ -8304,7 +8323,7 @@
           "d4fa1531-9da5-40d9-9a10-bb1e9664d48c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-20T18:48:01Z"
+        "lastCheckedAt": "2026-10-25T20:47:44Z"
       }
     ]
   },
@@ -8679,6 +8698,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-22T21:50:54Z"
+      }
+    ]
+  },
+  "awb_661fed19b543abdd82b4": {
+    "id": "awb_661fed19b543abdd82b4",
+    "name": "WQJZ 103.9 Murfreesboro, Tennessee",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "jazz"
+    ],
+    "tags": [
+      "easy listening",
+      "smooth jazz"
+    ],
+    "homepage": "https://wqjz-lp.com/",
+    "favicon": "https://media.live365.com/download/7acad13a-ce18-49a4-9b4e-85a0618f0733.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-26T00:21:00Z",
+    "streams": [
+      {
+        "id": "aws_645333d006954bdf4caf",
+        "stationId": "awb_661fed19b543abdd82b4",
+        "name": "WQJZ 103.9 Murfreesboro, Tennessee",
+        "country": "US",
+        "url": "https://streaming.live365.com/a20262",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6fb224b3-5b66-4cf6-99da-809f45412532"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-26T00:27:24Z"
       }
     ]
   },

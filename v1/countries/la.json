@@ -1,7 +1,7 @@
 {
   "code": "LA",
-  "stationCount": 4,
-  "streamCount": 4,
+  "stationCount": 5,
+  "streamCount": 5,
   "stations": [
     {
       "id": "awb_740fc1705ec551a6a4f1",
@@ -142,6 +142,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-21T22:18:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_afd2bb08ff60f43b7edb",
+      "name": "东盟电视台",
+      "country": "LA",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "tv"
+      ],
+      "homepage": "https://tvasean.com/",
+      "favicon": "https://img1.wsimg.com/isteam/ip/b4b5610f-9197-46fd-b84b-9960a86df716/%E5%9B%BE%E7%89%87%201.gif/:/rs=w:406,h:380,cg:true,m/cr=w:406,h:380/qt=q:100/ll",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T12:55:56Z",
+      "streams": [
+        {
+          "id": "aws_c7beec55d7c0aceaa45c",
+          "stationId": "awb_afd2bb08ff60f43b7edb",
+          "name": "东盟电视台",
+          "country": "LA",
+          "url": "https://stream.tvasean.com/live/test/hls.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "de1fc4b8-3269-4019-9e7e-d6a89cf40ece"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
         }
       ]
     }

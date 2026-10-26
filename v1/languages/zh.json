@@ -1,6 +1,6 @@
 {
   "code": "zh",
-  "stationCount": 2043,
+  "stationCount": 2045,
   "stations": [
     {
       "id": "awb_a2962db32ca5ed989369",
@@ -6381,8 +6381,8 @@
           "name": "HardBestFM",
           "country": "CN",
           "url": "https://fm.hardbest.cn/listen/hardstyle/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -6392,7 +6392,7 @@
             "afc77bb3-6aa1-44d3-9284-950dd806f435"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -23075,7 +23075,7 @@
       "id": "awb_023f2667c997817c3da6",
       "name": "哈尔滨经济广播",
       "country": "CN",
-      "subdivision": "黑龙江",
+      "subdivision": "Amur River",
       "languages": [
         "zh"
       ],
@@ -23882,7 +23882,7 @@
             "ad07fec6-f4f1-4acb-b1ca-e05b0820e216"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T15:25:29Z"
+          "lastCheckedAt": "2026-10-25T15:31:59Z"
         }
       ]
     },
@@ -54674,6 +54674,47 @@
       ]
     },
     {
+      "id": "awb_042f073b757dc9861e39",
+      "name": "爵士乐",
+      "country": "CN",
+      "subdivision": "Beijing",
+      "languages": [
+        "zh"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz"
+      ],
+      "homepage": "https://big-radio.net/zh/online-radio/jazz/",
+      "favicon": "https://pic.pngsucai.com/00/84/02/02845c3850e9e036.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-26T00:58:09Z",
+      "streams": [
+        {
+          "id": "aws_4ae741881bfc3a683b21",
+          "stationId": "awb_042f073b757dc9861e39",
+          "name": "爵士乐",
+          "country": "CN",
+          "url": "https://ec3.yesstreaming.net:3455/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3fa9f0d8-1cd1-4bc3-9492-50e949d41baa"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_61678bdefe4243c903e6",
       "name": "牟平广播电视台",
       "country": "CN",
@@ -64696,7 +64737,7 @@
         "traffic radio broadcast"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "http://pic.qingting.fm/2021/0714/20210714033025.jpeg",
+      "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiEo.png@350w_1l",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T18:33:11Z",
@@ -64760,7 +64801,7 @@
         "pop"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://m.mlzhongguo.com/uploads/image/05/15901171693455.jpg",
+      "favicon": "https://img-ossimg-qn.ajmide.com/program/1KtiF2.png@350w_1l",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T17:46:36Z",
@@ -64821,7 +64862,7 @@
         "news"
       ],
       "homepage": "https://www.lyg1.com/index.html",
-      "favicon": "https://img23.11467.com/2023/02-07/571360612.jpg",
+      "favicon": "https://upload-qn.ajmide.com/p/image/202011/07/200-F8R6QPe8jN1604681117564_638x638.jpg@350w_1l",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T03:55:46Z",
@@ -77038,6 +77079,45 @@
       ]
     },
     {
+      "id": "awb_afd2bb08ff60f43b7edb",
+      "name": "东盟电视台",
+      "country": "LA",
+      "subdivision": null,
+      "languages": [
+        "zh"
+      ],
+      "categories": [],
+      "tags": [
+        "tv"
+      ],
+      "homepage": "https://tvasean.com/",
+      "favicon": "https://img1.wsimg.com/isteam/ip/b4b5610f-9197-46fd-b84b-9960a86df716/%E5%9B%BE%E7%89%87%201.gif/:/rs=w:406,h:380,cg:true,m/cr=w:406,h:380/qt=q:100/ll",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-25T12:55:56Z",
+      "streams": [
+        {
+          "id": "aws_c7beec55d7c0aceaa45c",
+          "stationId": "awb_afd2bb08ff60f43b7edb",
+          "name": "东盟电视台",
+          "country": "LA",
+          "url": "https://stream.tvasean.com/live/test/hls.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "de1fc4b8-3269-4019-9e7e-d6a89cf40ece"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-25T18:02:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7e417acfe3bd5a8bf06e",
       "name": "101.1 Smooth FM",
       "country": "MO",
@@ -77532,7 +77612,7 @@
             "6de14705-f887-44b4-a858-3bfc26b2ffd1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-20T23:07:56Z"
+          "lastCheckedAt": "2026-10-25T23:13:21Z"
         }
       ]
     },
