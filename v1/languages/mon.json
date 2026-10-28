@@ -1,7 +1,7 @@
 {
   "code": "mon",
   "canonicalCode": "mn",
-  "stationCount": 21,
+  "stationCount": 23,
   "stations": [
     {
       "id": "awb_9d10588f6cfa119398cf",
@@ -36,7 +36,7 @@
             "a3d3ffe7-bd9e-11e8-aaf2-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:19:38Z"
+          "lastCheckedAt": "2026-10-27T11:39:02Z"
         }
       ]
     },
@@ -195,7 +195,7 @@
             "1d99eacb-f96e-44b9-94a5-2319298ca2d8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:05:37Z"
+          "lastCheckedAt": "2026-10-27T23:44:24Z"
         }
       ]
     },
@@ -273,7 +273,7 @@
             "df894c85-218e-461b-8080-96bed088a07d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:03:35Z"
+          "lastCheckedAt": "2026-10-27T10:57:11Z"
         }
       ]
     },
@@ -316,7 +316,7 @@
             "c3972aae-b462-4de9-a054-2ffe7b5f19c2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:32:55Z"
+          "lastCheckedAt": "2026-10-27T22:55:34Z"
         }
       ]
     },
@@ -355,7 +355,7 @@
             "e466a33f-cb76-485a-a299-bb767764a323"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:14:12Z"
+          "lastCheckedAt": "2026-10-28T01:33:35Z"
         }
       ]
     },
@@ -394,7 +394,7 @@
             "f225f466-9111-41b8-b07b-164b95797031"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T07:49:14Z"
+          "lastCheckedAt": "2026-10-27T10:32:40Z"
         }
       ]
     },
@@ -572,7 +572,7 @@
             "085e01d1-4501-4b35-913b-c0efa860008c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:31:11Z"
+          "lastCheckedAt": "2026-10-27T19:09:10Z"
         }
       ]
     },
@@ -616,7 +616,7 @@
             "e06f5e4b-3b17-4fe1-a4d4-5fe85131d580"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:16:24Z"
+          "lastCheckedAt": "2026-10-27T23:09:46Z"
         }
       ]
     },
@@ -664,7 +664,51 @@
             "MN:elgen-nutag"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:50:17Z"
+          "lastCheckedAt": "2026-10-27T11:24:45Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f37a2f1a6e17d01da314",
+      "name": "Khukh Tenger Radio (MNB Radio 2)",
+      "country": "MN",
+      "subdivision": "Ulaanbaatar",
+      "languages": [
+        "mn"
+      ],
+      "categories": [
+        "public",
+        "talk"
+      ],
+      "tags": [
+        "culture",
+        "public radio",
+        "talk"
+      ],
+      "homepage": "https://mnb.mn/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-27T18:18:36Z",
+      "streams": [
+        {
+          "id": "aws_faab50c2d94803855b1d",
+          "stationId": "awb_f37a2f1a6e17d01da314",
+          "name": "Khukh Tenger Radio (MNB Radio 2)",
+          "country": "MN",
+          "url": "https://live.mnb.mn/hls/radio2.stream.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1627a9b4-35dd-455a-97a1-9579bfd75b0c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T18:18:38Z"
         }
       ]
     },
@@ -701,7 +745,7 @@
             "fa31e2f5-8092-11e9-aa30-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:10:36Z"
+          "lastCheckedAt": "2026-10-27T14:49:16Z"
         }
       ]
     },
@@ -746,7 +790,52 @@
             "e7223f6a-0ee8-4c3f-9a10-977fae786d79"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:24:31Z"
+          "lastCheckedAt": "2026-10-27T14:36:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e5bfdd74c44ae7363805",
+      "name": "Mongolyn radio (MNB Radio 1)",
+      "country": "MN",
+      "subdivision": "Ulaanbaatar",
+      "languages": [
+        "mn"
+      ],
+      "categories": [
+        "news",
+        "public",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "talk"
+      ],
+      "homepage": "https://mnb.mn/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-27T16:52:07Z",
+      "streams": [
+        {
+          "id": "aws_dcc6249a498bf5fc2c48",
+          "stationId": "awb_e5bfdd74c44ae7363805",
+          "name": "Mongolyn radio (MNB Radio 1)",
+          "country": "MN",
+          "url": "https://live.mnb.mn/hls/radio1.stream.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7fe32b2d-0d7c-47db-ba51-c30e2784e99e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T16:52:09Z"
         }
       ]
     },
@@ -880,7 +969,7 @@
             "MN:inner-mongolia-voice-of-grassland"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:17:25Z"
+          "lastCheckedAt": "2026-10-27T12:31:54Z"
         }
       ]
     }

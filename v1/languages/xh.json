@@ -1,6 +1,6 @@
 {
   "code": "xh",
-  "stationCount": 3,
+  "stationCount": 4,
   "stations": [
     {
       "id": "awb_b296c5c79ae00cbe0a13",
@@ -38,7 +38,7 @@
             "bc6cebdf-e061-49db-a5d9-ce1131eb58a9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:25:13Z"
+          "lastCheckedAt": "2026-10-27T11:50:16Z"
         },
         {
           "id": "aws_afa1499780b933aa108a",
@@ -58,7 +58,7 @@
             "cf477514-6fc0-446b-adf2-d252dba5ee75"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T03:42:00Z"
+          "lastCheckedAt": "2026-10-28T00:23:06Z"
         }
       ]
     },
@@ -109,6 +109,50 @@
       ]
     },
     {
+      "id": "awb_2988ebadf57dc9858bb0",
+      "name": "Umhlobo Wenene FM",
+      "country": "ZA",
+      "subdivision": "Eastern Cape",
+      "languages": [
+        "xh"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "music",
+        "news",
+        "talk"
+      ],
+      "homepage": "https://www.umhlobowenenefm.co.za/umhlobowenenefm/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-27T12:34:09Z",
+      "streams": [
+        {
+          "id": "aws_ca29748f23dcaf63367f",
+          "stationId": "awb_2988ebadf57dc9858bb0",
+          "name": "Umhlobo Wenene FM",
+          "country": "ZA",
+          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UMHLOBOWENENEAAC.aac",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a0ce0304-60b3-4378-969f-722bee38b14b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T12:34:11Z"
+        }
+      ]
+    },
+    {
       "id": "awb_0ac9c989cb8a1a64e0c3",
       "name": "Wild Coast FM 98.6",
       "country": "ZA",
@@ -148,7 +192,7 @@
             "ad13c837-f8f3-412b-8646-ec4b8367b165"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:18:39Z"
+          "lastCheckedAt": "2026-10-27T15:23:59Z"
         }
       ]
     }

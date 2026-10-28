@@ -1,7 +1,7 @@
 {
   "code": "swa",
   "canonicalCode": "sw",
-  "stationCount": 35,
+  "stationCount": 37,
   "stations": [
     {
       "id": "awb_e90aeac072deb5def3ec",
@@ -52,7 +52,7 @@
             "b4f9acd7-1bc7-4321-97a6-82dbe285d9b2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:27:00Z"
+          "lastCheckedAt": "2026-10-27T11:45:30Z"
         },
         {
           "id": "aws_4a803eefb6214599ca34",
@@ -73,7 +73,7 @@
             "BE:afrikana-radio-live-african"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:25:06Z"
+          "lastCheckedAt": "2026-10-27T16:07:14Z"
         }
       ]
     },
@@ -114,7 +114,7 @@
             "b8d8be2b-f217-4499-b2f6-533dfb5d49e1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:50:33Z"
+          "lastCheckedAt": "2026-10-28T01:11:09Z"
         }
       ]
     },
@@ -191,7 +191,7 @@
             "32a53f49-a4fe-4bbc-a254-947843d0bc90"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:28:47Z"
+          "lastCheckedAt": "2026-10-27T19:47:13Z"
         }
       ]
     },
@@ -232,6 +232,95 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T00:19:58Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e63ed58a36423f624a4f",
+      "name": "Radio Citizen",
+      "country": "KE",
+      "subdivision": "Nairobi",
+      "languages": [
+        "sw"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "swahili",
+        "talk"
+      ],
+      "homepage": "https://citizen.digital/radio/radio-citizen-13",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-27T13:30:44Z",
+      "streams": [
+        {
+          "id": "aws_51eff0742d6128ab8f5f",
+          "stationId": "awb_e63ed58a36423f624a4f",
+          "name": "Radio Citizen",
+          "country": "KE",
+          "url": "https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8",
+          "codec": "aac",
+          "bitrate": 130,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d9387a6d-6be9-4f5f-91fb-ef33a9675584"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T13:30:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_13a89f485b17a2d90354",
+      "name": "Radio Jambo",
+      "country": "KE",
+      "subdivision": "Nairobi",
+      "languages": [
+        "sw"
+      ],
+      "categories": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://www.radiojambo.co.ke/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-27T17:36:35Z",
+      "streams": [
+        {
+          "id": "aws_c70848259a125de0f21c",
+          "stationId": "awb_13a89f485b17a2d90354",
+          "name": "Radio Jambo",
+          "country": "KE",
+          "url": "https://radiojambo-atunwadigital.streamguys1.com/radiojambo",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fc939579-455a-4593-9e0d-ee9df38f5c2f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T17:36:38Z"
         }
       ]
     },
@@ -322,7 +411,7 @@
             "cc843b9a-768c-40de-8acd-3139c7750993"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:55:51Z"
+          "lastCheckedAt": "2026-10-27T10:44:15Z"
         }
       ]
     },
@@ -458,7 +547,7 @@
             "65927162-0c6e-42cf-980b-56b1a3721aa5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:15:06Z"
+          "lastCheckedAt": "2026-10-27T12:31:54Z"
         }
       ]
     },
@@ -497,7 +586,7 @@
             "a7a7cec4-59f2-447b-bae2-b729f6d42f60"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T00:41:57Z"
+          "lastCheckedAt": "2026-10-28T01:50:03Z"
         }
       ]
     },
@@ -543,7 +632,7 @@
             "TZ:capital-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:23:06Z"
+          "lastCheckedAt": "2026-10-27T13:13:39Z"
         }
       ]
     },
@@ -634,7 +723,7 @@
             "TZ:east-africa-radio-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:53:53Z"
+          "lastCheckedAt": "2026-10-27T23:26:49Z"
         }
       ]
     },
@@ -721,7 +810,7 @@
             "bdc5ea78-cd94-4408-884e-34fd64647dcc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:29:39Z"
+          "lastCheckedAt": "2026-10-27T20:13:12Z"
         }
       ]
     },
@@ -764,7 +853,7 @@
             "TZ:radio-uhai"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:26:23Z"
+          "lastCheckedAt": "2026-10-27T20:24:20Z"
         }
       ]
     },
@@ -801,7 +890,7 @@
             "b2219f6c-6b94-4fb6-9aee-5ade3100eab4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T21:15:42Z"
+          "lastCheckedAt": "2026-10-27T23:02:33Z"
         }
       ]
     },
@@ -845,7 +934,7 @@
             "96088068-8088-4db8-bd6c-6737a3c1e865"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T21:43:42Z"
+          "lastCheckedAt": "2026-10-27T22:11:42Z"
         }
       ]
     },
@@ -892,7 +981,7 @@
             "7e44ccb0-66cb-45a6-a2ea-8526f275814b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:06:28Z"
+          "lastCheckedAt": "2026-10-27T14:28:31Z"
         }
       ]
     },
@@ -938,7 +1027,7 @@
             "46514a9b-3e35-4457-9e3a-313533e745f1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:03:35Z"
+          "lastCheckedAt": "2026-10-27T10:51:00Z"
         }
       ]
     },
@@ -983,7 +1072,7 @@
             "a0110ab4-f8e2-4e1f-b5e9-7f825ba26986"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:12:35Z"
+          "lastCheckedAt": "2026-10-27T13:07:17Z"
         }
       ]
     },
@@ -1028,7 +1117,7 @@
             "416e0acf-fa75-4a98-ab7a-30800729a41c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:04:13Z"
+          "lastCheckedAt": "2026-10-27T09:46:14Z"
         }
       ]
     },
@@ -1438,7 +1527,7 @@
             "ddb98f5e-a810-4222-a556-375dc38e05a1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T07:22:12Z"
+          "lastCheckedAt": "2026-10-27T21:49:02Z"
         }
       ]
     },
@@ -1482,7 +1571,7 @@
             "d0b6ac35-a587-4b66-97c1-f742166b65a8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:07:16Z"
+          "lastCheckedAt": "2026-10-28T00:23:41Z"
         }
       ]
     },

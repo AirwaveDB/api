@@ -1,7 +1,7 @@
 {
   "code": "MN",
-  "stationCount": 9,
-  "streamCount": 9,
+  "stationCount": 11,
+  "streamCount": 11,
   "stations": [
     {
       "id": "awb_647590d54933d0864bbe",
@@ -16,7 +16,7 @@
       "homepage": "https://mp3islam.com/",
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-23",
       "streams": [
         {
@@ -25,20 +25,18 @@
           "name": "Abdulbasit Abdulsamad",
           "country": "MN",
           "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-          "codec": "aac",
+          "codec": "mp3",
           "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "MN:abdulbasit-abdulsamad",
-            "ffc3b335-f821-4ef1-b694-49aec6143d0b"
+            "MN:abdulbasit-abdulsamad"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:32:31Z"
+          "lastCheckedAt": "2026-08-23"
         }
       ]
     },
@@ -82,7 +80,7 @@
             "e06f5e4b-3b17-4fe1-a4d4-5fe85131d580"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:16:24Z"
+          "lastCheckedAt": "2026-10-27T23:09:46Z"
         }
       ]
     },
@@ -130,7 +128,7 @@
             "MN:elgen-nutag"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:50:17Z"
+          "lastCheckedAt": "2026-10-27T11:24:45Z"
         }
       ]
     },
@@ -171,7 +169,51 @@
             "b1aae7b8-8916-4016-b57a-c2bb08704510"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:53:55Z"
+          "lastCheckedAt": "2026-10-27T17:34:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f37a2f1a6e17d01da314",
+      "name": "Khukh Tenger Radio (MNB Radio 2)",
+      "country": "MN",
+      "subdivision": "Ulaanbaatar",
+      "languages": [
+        "mn"
+      ],
+      "categories": [
+        "public",
+        "talk"
+      ],
+      "tags": [
+        "culture",
+        "public radio",
+        "talk"
+      ],
+      "homepage": "https://mnb.mn/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-27T18:18:36Z",
+      "streams": [
+        {
+          "id": "aws_faab50c2d94803855b1d",
+          "stationId": "awb_f37a2f1a6e17d01da314",
+          "name": "Khukh Tenger Radio (MNB Radio 2)",
+          "country": "MN",
+          "url": "https://live.mnb.mn/hls/radio2.stream.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1627a9b4-35dd-455a-97a1-9579bfd75b0c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T18:18:38Z"
         }
       ]
     },
@@ -208,7 +250,7 @@
             "fa31e2f5-8092-11e9-aa30-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:10:36Z"
+          "lastCheckedAt": "2026-10-27T14:49:16Z"
         }
       ]
     },
@@ -253,7 +295,52 @@
             "e7223f6a-0ee8-4c3f-9a10-977fae786d79"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:24:31Z"
+          "lastCheckedAt": "2026-10-27T14:36:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e5bfdd74c44ae7363805",
+      "name": "Mongolyn radio (MNB Radio 1)",
+      "country": "MN",
+      "subdivision": "Ulaanbaatar",
+      "languages": [
+        "mn"
+      ],
+      "categories": [
+        "news",
+        "public",
+        "talk"
+      ],
+      "tags": [
+        "news",
+        "public radio",
+        "talk"
+      ],
+      "homepage": "https://mnb.mn/",
+      "favicon": null,
+      "type": "public",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-27T16:52:07Z",
+      "streams": [
+        {
+          "id": "aws_dcc6249a498bf5fc2c48",
+          "stationId": "awb_e5bfdd74c44ae7363805",
+          "name": "Mongolyn radio (MNB Radio 1)",
+          "country": "MN",
+          "url": "https://live.mnb.mn/hls/radio1.stream.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7fe32b2d-0d7c-47db-ba51-c30e2784e99e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T16:52:09Z"
         }
       ]
     },
@@ -387,7 +474,7 @@
             "MN:inner-mongolia-voice-of-grassland"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:17:25Z"
+          "lastCheckedAt": "2026-10-27T12:31:54Z"
         }
       ]
     }

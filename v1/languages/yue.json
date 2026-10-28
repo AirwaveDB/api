@@ -1,6 +1,6 @@
 {
   "code": "yue",
-  "stationCount": 113,
+  "stationCount": 111,
   "stations": [
     {
       "id": "awb_02668f04a39728fcda3f",
@@ -86,7 +86,7 @@
             "f919b900-be81-4fd8-a3de-6132b9f2620b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:27:51Z"
+          "lastCheckedAt": "2026-10-28T03:05:42Z"
         }
       ]
     },
@@ -215,7 +215,7 @@
             "AU:sbs-popasia"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:12:12Z"
+          "lastCheckedAt": "2026-10-27T11:41:22Z"
         }
       ]
     },
@@ -297,7 +297,7 @@
             "e5ec7527-cb54-4632-b5a1-7ee080bb19c0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:46:56Z"
+          "lastCheckedAt": "2026-10-28T01:18:08Z"
         }
       ]
     },
@@ -338,7 +338,7 @@
             "ec10de1d-8019-485e-98e5-e6713eaff24a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:49:35Z"
+          "lastCheckedAt": "2026-10-27T16:56:20Z"
         }
       ]
     },
@@ -417,7 +417,7 @@
             "35fa9c1c-4f62-4cdc-93fc-b895f6f91b73"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:18:57Z"
+          "lastCheckedAt": "2026-10-28T00:23:41Z"
         }
       ]
     },
@@ -456,7 +456,7 @@
             "d84ba969-f1a3-49ef-830a-bd38e57c8e83"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:41:00Z"
+          "lastCheckedAt": "2026-10-27T19:54:39Z"
         }
       ]
     },
@@ -528,25 +528,42 @@
       "updatedAt": "2026-08-24",
       "streams": [
         {
-          "id": "aws_4e35fedb2c4ad161c791",
+          "id": "aws_690dd21d1fb03a8ce116",
           "stationId": "awb_5a4f0044070894c77ec0",
           "name": "Bridge Radio - 华语 HITS （2）",
           "country": "CN",
-          "url": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
+          "url": "https://das-edge11-live365-dal03.cdnstream.com/a57743_2",
           "codec": "aac+",
           "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "189d86d1-95ef-4d2b-98d6-ce7577c70395"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T18:14:34Z"
+        },
+        {
+          "id": "aws_4e35fedb2c4ad161c791",
+          "stationId": "awb_5a4f0044070894c77ec0",
+          "name": "Bridge Radio - 华语 HITS （2）",
+          "country": "CN",
+          "url": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
+          "codec": "aac",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "189d86d1-95ef-4d2b-98d6-ce7577c70395",
             "CN:bridge-radio-hits-2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:56:19Z"
+          "lastCheckedAt": "2026-08-24"
         }
       ]
     },
@@ -583,7 +600,7 @@
             "f067ee72-b81e-11e8-aaf2-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:58:48Z"
+          "lastCheckedAt": "2026-10-27T09:15:33Z"
         }
       ]
     },
@@ -626,46 +643,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T00:54:17Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_0755393c6080e2341d56",
-      "name": "Hong Kong Fantastic TV",
-      "country": "CN",
-      "subdivision": "Hong Kong",
-      "languages": [
-        "yue"
-      ],
-      "categories": [],
-      "tags": [
-        "hls video",
-        "hong kong"
-      ],
-      "homepage": "http://www.fantv.hk/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T23:52:39Z",
-      "streams": [
-        {
-          "id": "aws_63523339812f1789f4b1",
-          "stationId": "awb_0755393c6080e2341d56",
-          "name": "Hong Kong Fantastic TV",
-          "country": "CN",
-          "url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8",
-          "codec": "unknown",
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": true,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "19c96827-666a-11e8-b15b-52543be04c81"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:09:41Z"
         }
       ]
     },
@@ -743,7 +720,7 @@
             "9618f097-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:35:48Z"
+          "lastCheckedAt": "2026-10-28T01:50:58Z"
         }
       ]
     },
@@ -822,7 +799,7 @@
             "96183a34-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:54:20Z"
+          "lastCheckedAt": "2026-10-27T18:45:48Z"
         }
       ]
     },
@@ -990,7 +967,7 @@
             "CN:967"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:25:22Z"
+          "lastCheckedAt": "2026-10-28T00:07:28Z"
         }
       ]
     },
@@ -1069,7 +1046,7 @@
             "66463560-6e08-4b0b-9970-608a965aa563"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:07:05Z"
+          "lastCheckedAt": "2026-10-27T23:13:44Z"
         }
       ]
     },
@@ -1227,7 +1204,7 @@
             "46342f4b-b992-4a4e-aad3-4d5cd8eadddb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:36:28Z"
+          "lastCheckedAt": "2026-10-28T00:56:44Z"
         }
       ]
     },
@@ -1306,7 +1283,7 @@
             "f4a8e480-4bf9-4e3d-8341-171ebfee1c4f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:58:24Z"
+          "lastCheckedAt": "2026-10-27T16:37:11Z"
         }
       ]
     },
@@ -1345,7 +1322,7 @@
             "e2859a1c-a4a9-407b-b560-50242696604a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:47:22Z"
+          "lastCheckedAt": "2026-10-27T19:40:44Z"
         }
       ]
     },
@@ -1386,7 +1363,7 @@
             "93689afc-0086-44b7-9bc5-0a213f0042db"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:40:50Z"
+          "lastCheckedAt": "2026-10-28T00:56:44Z"
         }
       ]
     },
@@ -1465,7 +1442,7 @@
             "fdc4660c-c569-4247-852c-05a00f331a18"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:35:48Z"
+          "lastCheckedAt": "2026-10-28T03:05:41Z"
         }
       ]
     },
@@ -1510,7 +1487,7 @@
             "eb6e5048-d4db-4e80-933a-2f48681bdcf3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:34:15Z"
+          "lastCheckedAt": "2026-10-28T02:01:52Z"
         }
       ]
     },
@@ -1553,7 +1530,7 @@
             "6420a400-38fe-47e4-ab5c-28f0d00667bf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T05:18:17Z"
+          "lastCheckedAt": "2026-10-27T17:32:06Z"
         }
       ]
     },
@@ -1593,7 +1570,7 @@
             "7d81e6eb-88a4-4674-a03b-4873576f73e8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:07:58Z"
+          "lastCheckedAt": "2026-10-27T09:28:17Z"
         }
       ]
     },
@@ -1635,7 +1612,7 @@
             "CN:gdtv"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T23:30:06Z"
+          "lastCheckedAt": "2026-10-27T10:51:00Z"
         }
       ]
     },
@@ -1719,7 +1696,7 @@
             "c8f49f16-f969-4f73-b1db-fa2ef40e78b6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T21:08:24Z"
+          "lastCheckedAt": "2026-10-27T22:35:49Z"
         }
       ]
     },
@@ -1761,7 +1738,7 @@
             "7b2c2f84-0997-46f9-bfba-049a4bb2bff2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:18:22Z"
+          "lastCheckedAt": "2026-10-27T17:50:53Z"
         }
       ]
     },
@@ -1845,7 +1822,7 @@
             "a2a654a0-ebac-4f4d-bfc6-54225029438c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T20:37:04Z"
+          "lastCheckedAt": "2026-10-27T21:13:33Z"
         }
       ]
     },
@@ -1927,7 +1904,7 @@
             "3366bd2b-9e59-4bf0-ad99-96b5bfcd7111"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:07:16Z"
+          "lastCheckedAt": "2026-10-28T01:03:11Z"
         }
       ]
     },
@@ -2017,7 +1994,7 @@
             "f8df1bbf-be1f-41b8-b187-60ff60a14df6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T21:50:54Z"
+          "lastCheckedAt": "2026-10-27T23:58:49Z"
         }
       ]
     },
@@ -2102,7 +2079,7 @@
             "d140c306-b0ea-4603-9f26-9c0c9a1cea86"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T20:50:04Z"
+          "lastCheckedAt": "2026-10-27T20:53:42Z"
         }
       ]
     },
@@ -2221,7 +2198,7 @@
             "bffd66cb-1017-46a7-b706-5a8d6877dc3b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:40:36Z"
+          "lastCheckedAt": "2026-10-27T19:07:13Z"
         }
       ]
     },
@@ -2267,46 +2244,6 @@
       ]
     },
     {
-      "id": "awb_8e4aba3079fe5feac24f",
-      "name": "江门旅游之声",
-      "country": "CN",
-      "subdivision": "Kwangtung",
-      "languages": [
-        "yue"
-      ],
-      "categories": [],
-      "tags": [
-        "music",
-        "traffic information"
-      ],
-      "homepage": "http://www.jmtv.cn/",
-      "favicon": "http://pic.qtfm.cn/2013/channel_logo/1283.jpg!200",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-03-19T09:22:09Z",
-      "streams": [
-        {
-          "id": "aws_af70925abaf916cd40da",
-          "stationId": "awb_8e4aba3079fe5feac24f",
-          "name": "江门旅游之声",
-          "country": "CN",
-          "url": "https://lhttp-hw.qtfm.cn/live/1283/64k.mp3",
-          "codec": "mp3",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "90a4de37-423a-41d3-9046-fdc13a69bcff"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:59:19Z"
-        }
-      ]
-    },
-    {
       "id": "awb_92632f0df0d2f560448b",
       "name": "江门综合广播",
       "country": "CN",
@@ -2345,7 +2282,7 @@
             "f84673dc-578a-4235-8a90-8f375a1dc744"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T07:46:49Z"
+          "lastCheckedAt": "2026-10-27T10:26:17Z"
         }
       ]
     },
@@ -2548,7 +2485,7 @@
             "64e5cc8f-1531-49e0-8300-8129298949db"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:19:16Z"
+          "lastCheckedAt": "2026-10-27T11:41:22Z"
         }
       ]
     },
@@ -2589,7 +2526,7 @@
             "5a714abd-1c0c-4564-9ee1-663d697fbdfc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:42:06Z"
+          "lastCheckedAt": "2026-10-27T17:23:40Z"
         }
       ]
     },
@@ -2719,7 +2656,7 @@
             "5575e2a0-a523-4367-9b59-c9f4db0a5859"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:16:05Z"
+          "lastCheckedAt": "2026-10-28T01:24:02Z"
         }
       ]
     },
@@ -2802,7 +2739,7 @@
             "bdf335ca-9c7d-43f9-9564-77bcf9092a33"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:35:00Z"
+          "lastCheckedAt": "2026-10-27T12:44:08Z"
         }
       ]
     },
@@ -2844,7 +2781,7 @@
             "ad187807-6c94-43d4-94fb-840f3a8817d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:12:12Z"
+          "lastCheckedAt": "2026-10-27T10:39:43Z"
         }
       ]
     },
@@ -2883,7 +2820,7 @@
             "ce998ec3-59e1-49d7-8476-f32d4d3b5d41"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:03:23Z"
+          "lastCheckedAt": "2026-10-27T14:22:57Z"
         }
       ]
     },
@@ -2922,7 +2859,7 @@
             "bda613a3-1bbe-47bc-ab24-d0e4d4ab9f20"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:05:34Z"
+          "lastCheckedAt": "2026-10-27T15:32:46Z"
         }
       ]
     },
@@ -3029,7 +2966,7 @@
             "b52583a4-0da1-4c32-b917-a229f9d3a122"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:25:06Z"
+          "lastCheckedAt": "2026-10-27T15:34:30Z"
         }
       ]
     },
@@ -3071,7 +3008,7 @@
             "2da259ce-c76a-4996-8a89-23f200f6ac1c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:03:05Z"
+          "lastCheckedAt": "2026-10-27T09:34:39Z"
         },
         {
           "id": "aws_a598c6cf5723ff517974",
@@ -3134,7 +3071,7 @@
             "ff98b8d3-f26a-4801-8c02-6759c15f0003"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:29:00Z"
+          "lastCheckedAt": "2026-10-27T22:44:18Z"
         }
       ]
     },
@@ -3224,7 +3161,7 @@
             "140cbc06-7365-40c8-b81e-564f55e7f290"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:06:20Z"
+          "lastCheckedAt": "2026-10-27T16:52:09Z"
         }
       ]
     },
@@ -3346,7 +3283,7 @@
             "aa91470c-89dc-48ba-b155-f6455fc2fa74"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:55:20Z"
+          "lastCheckedAt": "2026-10-27T12:44:08Z"
         }
       ]
     },
@@ -3385,7 +3322,7 @@
             "HK:zsbtv"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:52:06Z"
+          "lastCheckedAt": "2026-10-27T18:11:54Z"
         }
       ]
     },
@@ -3424,7 +3361,7 @@
             "bcab3194-d497-453f-b3ac-644724a18345"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:23:01Z"
+          "lastCheckedAt": "2026-10-28T02:28:30Z"
         }
       ]
     },
@@ -3502,7 +3439,7 @@
             "4c1ca3b1-28c9-47db-93b7-de2053232009"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:06:28Z"
+          "lastCheckedAt": "2026-10-27T13:26:26Z"
         }
       ]
     },
@@ -3625,7 +3562,7 @@
             "c11e8296-758d-4ece-a891-cad8236f8c09"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:51:48Z"
+          "lastCheckedAt": "2026-10-27T13:59:22Z"
         }
       ]
     },
@@ -3703,7 +3640,7 @@
             "4e7155e6-3639-4ce4-a2f6-547dce3cc826"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:46:29Z"
+          "lastCheckedAt": "2026-10-27T13:42:33Z"
         }
       ]
     },
@@ -3743,7 +3680,7 @@
             "6f1d1d19-40a5-4cd4-ad30-b3fd930c52de"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:43:09Z"
+          "lastCheckedAt": "2026-10-28T00:05:18Z"
         }
       ]
     },
@@ -3782,7 +3719,7 @@
             "75958664-ebc5-42fc-b4b4-487bfdc39ea0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:46:09Z"
+          "lastCheckedAt": "2026-10-27T10:26:17Z"
         }
       ]
     },
@@ -3824,7 +3761,7 @@
             "98f1beba-b3eb-43d9-81f9-8bb09098f184"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:46:56Z"
+          "lastCheckedAt": "2026-10-27T23:50:49Z"
         }
       ]
     },
@@ -3903,7 +3840,7 @@
             "37530049-1ce7-4096-8728-470f1becaa0b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T21:33:25Z"
+          "lastCheckedAt": "2026-10-27T22:24:09Z"
         }
       ]
     },
@@ -4061,7 +3998,7 @@
             "d78c4367-fd2d-40f7-9f2c-80a7c3e066ad"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:57:50Z"
+          "lastCheckedAt": "2026-10-27T14:44:03Z"
         }
       ]
     },
@@ -4101,7 +4038,7 @@
             "7b0db4ec-a09f-49a9-a3d9-f7c3e468d4b0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:29:55Z"
+          "lastCheckedAt": "2026-10-28T02:07:52Z"
         }
       ]
     },
@@ -4143,7 +4080,7 @@
             "bb43694b-89ba-4ec6-a947-7e2406a0bf63"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:54:26Z"
+          "lastCheckedAt": "2026-10-27T21:15:59Z"
         }
       ]
     },
@@ -4275,7 +4212,7 @@
             "a7dfd0bc-c9cd-492d-aeb4-e43c8ed83745"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:09:07Z"
+          "lastCheckedAt": "2026-10-27T18:50:07Z"
         }
       ]
     },
@@ -4428,7 +4365,7 @@
             "2c59da7b-3ac1-481a-8c8e-656163382326"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:55:38Z"
+          "lastCheckedAt": "2026-10-27T14:58:33Z"
         }
       ]
     },
@@ -4578,7 +4515,7 @@
             "cc9c0708-d100-43cc-a76b-e1fef63d2e43"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:08:01Z"
+          "lastCheckedAt": "2026-10-28T01:39:41Z"
         }
       ]
     },
@@ -4623,7 +4560,7 @@
             "0dda225c-1025-4020-ab6d-1533cace91d8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:22:35Z"
+          "lastCheckedAt": "2026-10-27T20:25:06Z"
         }
       ]
     },
@@ -4664,7 +4601,7 @@
             "4d90ecb5-109b-4ee4-a557-2dcce0eca736"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:09:23Z"
+          "lastCheckedAt": "2026-10-27T12:17:35Z"
         }
       ]
     },
@@ -4704,7 +4641,7 @@
             "1442c526-4b68-423e-a14d-76f7fe16f7d7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:57:56Z"
+          "lastCheckedAt": "2026-10-27T10:57:11Z"
         }
       ]
     },
@@ -4746,7 +4683,7 @@
             "US:music-of-china"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:23:22Z"
+          "lastCheckedAt": "2026-10-28T01:05:27Z"
         }
       ]
     },

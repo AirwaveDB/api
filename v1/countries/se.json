@@ -1,7 +1,7 @@
 {
   "code": "SE",
-  "stationCount": 235,
-  "streamCount": 260,
+  "stationCount": 233,
+  "streamCount": 258,
   "stations": [
     {
       "id": "awb_1fa62770edd89b33f01f",
@@ -16,7 +16,7 @@
       "homepage": "https://mp3islam.com/",
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -25,20 +25,18 @@
           "name": ". Abdulbasit Abdulsamad",
           "country": "SE",
           "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-          "codec": "aac",
+          "codec": "mp3",
           "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "8a935b3c-f1b9-48d4-b572-cbba8889760f",
             "SE:abdulbasit-abdulsamad"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:29:48Z"
+          "lastCheckedAt": "2026-08-24"
         }
       ]
     },
@@ -55,9 +53,9 @@
         "classical"
       ],
       "homepage": null,
-      "favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+      "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -71,15 +69,13 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "3f27b07d-90b5-4d22-98ef-fef803f871ec",
             "SE:al-quran-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:05:37Z"
+          "lastCheckedAt": "2026-08-24"
         }
       ]
     },
@@ -120,7 +116,7 @@
             "9642ad8b-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:37:41Z"
+          "lastCheckedAt": "2026-10-28T01:03:12Z"
         }
       ]
     },
@@ -213,7 +209,7 @@
             "SE:24-7-cotinuous-music"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T01:53:22Z"
+          "lastCheckedAt": "2026-10-27T15:29:40Z"
         }
       ]
     },
@@ -306,7 +302,7 @@
             "ec0d3919-415f-4c63-9958-0da384b69ab4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:29:28Z"
+          "lastCheckedAt": "2026-10-28T00:23:06Z"
         }
       ]
     },
@@ -345,87 +341,7 @@
             "fa4701b9-034f-45c3-8be2-789bf2dd95cb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:18:39Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_e1c58a7504406969bac9",
-      "name": "All Watching Eye - Focus",
-      "country": "SE",
-      "subdivision": null,
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "ambient",
-        "electronic"
-      ],
-      "tags": [
-        "ambient",
-        "electronic",
-        "focus",
-        "study"
-      ],
-      "homepage": "https://aweradio.app/@listen",
-      "favicon": "https://hls.aweradio.app/stations/listen/avatar-256.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-28T01:59:40Z",
-      "streams": [
-        {
-          "id": "aws_c4bf551d9d710e8d3b20",
-          "stationId": "awb_e1c58a7504406969bac9",
-          "name": "All Watching Eye - Focus",
-          "country": "SE",
-          "url": "http://icy.aweradio.app/listen/focus",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "62c45b12-ca7b-440f-a985-ca0c209ff94c"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:47:22Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_e8a979ec64a04cea2082",
-      "name": "All Watching Eye — Chill",
-      "country": "SE",
-      "subdivision": null,
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://aweradio.app/@listen",
-      "favicon": "https://hls.aweradio.app/stations/listen/avatar-256.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-28T01:49:52Z",
-      "streams": [
-        {
-          "id": "aws_1f1b4f78e97d72ca77a8",
-          "stationId": "awb_e8a979ec64a04cea2082",
-          "name": "All Watching Eye — Chill",
-          "country": "SE",
-          "url": "http://icy.aweradio.app/listen/chill",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "ee6ae2aa-6f39-4549-816a-55f3fb59bdcf"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:01:39Z"
+          "lastCheckedAt": "2026-10-27T15:23:59Z"
         }
       ]
     },
@@ -468,7 +384,7 @@
             "SE:alt-edge-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:40:36Z"
+          "lastCheckedAt": "2026-10-27T17:44:02Z"
         }
       ]
     },
@@ -514,7 +430,7 @@
             "SE:american-truckers"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:22:56Z"
+          "lastCheckedAt": "2026-10-27T16:33:09Z"
         }
       ]
     },
@@ -567,7 +483,7 @@
             "SE:auralis-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T20:33:58Z"
+          "lastCheckedAt": "2026-10-27T21:37:05Z"
         }
       ]
     },
@@ -659,7 +575,7 @@
             "0ec29ca7-a458-4f36-96e3-0f0436b5554c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:26:42Z"
+          "lastCheckedAt": "2026-10-27T17:23:40Z"
         }
       ]
     },
@@ -687,7 +603,7 @@
       "favicon": "https://lyssna.bananradion.se/static/uploads/bananradion/background.1740701637.png",
       "type": null,
       "sourceCount": 2,
-      "updatedAt": "2026-10-22T11:52:59Z",
+      "updatedAt": "2026-10-27T12:59:18Z",
       "streams": [
         {
           "id": "aws_3b616a12ce6e022e9a92",
@@ -708,7 +624,7 @@
             "SE:bananradion"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:53:01Z"
+          "lastCheckedAt": "2026-10-27T12:59:20Z"
         }
       ]
     },
@@ -831,7 +747,7 @@
             "SE:bandit-classic-rock"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:28:33Z"
+          "lastCheckedAt": "2026-10-27T15:32:46Z"
         }
       ]
     },
@@ -915,7 +831,7 @@
             "a9fc150a-579c-44b9-b8c1-6f0e972be3d2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:08:45Z"
+          "lastCheckedAt": "2026-10-27T10:16:44Z"
         }
       ]
     },
@@ -959,7 +875,7 @@
             "SE:bandit-metal"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:22:36Z"
+          "lastCheckedAt": "2026-10-27T19:31:31Z"
         }
       ]
     },
@@ -1048,7 +964,7 @@
             "7ace76fa-d18b-4f18-82f8-73694a86b2aa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:24:32Z"
+          "lastCheckedAt": "2026-10-27T15:06:42Z"
         }
       ]
     },
@@ -1129,7 +1045,7 @@
             "a03d0d90-73ec-451d-bb7e-b698f9b3698e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:00:57Z"
+          "lastCheckedAt": "2026-10-27T09:24:18Z"
         }
       ]
     },
@@ -1172,7 +1088,7 @@
             "cc00eccd-eda8-4901-8e1f-4c2f3e1fcb53"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:32:56Z"
+          "lastCheckedAt": "2026-10-27T16:37:11Z"
         }
       ]
     },
@@ -1247,7 +1163,7 @@
             "1ca4c790-7797-4b00-afa0-19e276302d64"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:01:29Z"
+          "lastCheckedAt": "2026-10-27T19:56:59Z"
         }
       ]
     },
@@ -1439,7 +1355,7 @@
             "fe4b3646-7164-11e8-83fa-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:12:58Z"
+          "lastCheckedAt": "2026-10-27T15:03:33Z"
         }
       ]
     },
@@ -1483,7 +1399,7 @@
             "b8f2ef5c-eaac-499c-b006-6a2fd276efb1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:42:48Z"
+          "lastCheckedAt": "2026-10-28T01:24:02Z"
         }
       ]
     },
@@ -1524,7 +1440,7 @@
             "SE:dansbandskanalen"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:46:22Z"
+          "lastCheckedAt": "2026-10-27T16:56:20Z"
         }
       ]
     },
@@ -1565,7 +1481,7 @@
             "SE:dansbandskanalen-se"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:29:26Z"
+          "lastCheckedAt": "2026-10-27T10:48:37Z"
         }
       ]
     },
@@ -1663,7 +1579,7 @@
             "a615437b-ff32-4da2-904e-8390f7ed1052"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:19:29Z"
+          "lastCheckedAt": "2026-10-27T12:48:39Z"
         }
       ]
     },
@@ -1708,7 +1624,7 @@
             "80eab0ec-21b5-48fe-a4bc-30d5f993b77e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:53:01Z"
+          "lastCheckedAt": "2026-10-27T12:42:10Z"
         }
       ]
     },
@@ -1787,7 +1703,7 @@
             "71f377fc-3c53-4881-a53d-2a3e25ff030f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:46:29Z"
+          "lastCheckedAt": "2026-10-27T11:39:02Z"
         },
         {
           "id": "aws_7a7ffe462c4ffd75b6b9",
@@ -1806,7 +1722,7 @@
             "7ca8f95e-a67b-4d07-9712-e829e70ff7f3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:46:09Z"
+          "lastCheckedAt": "2026-10-28T01:05:27Z"
         }
       ]
     },
@@ -1851,7 +1767,7 @@
             "f81a5aa3-d7b5-4c12-85fa-436d081efc73"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:50:34Z"
+          "lastCheckedAt": "2026-10-27T11:41:22Z"
         }
       ]
     },
@@ -1895,7 +1811,7 @@
             "SE:epic-soundtracks-only"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:02:46Z"
+          "lastCheckedAt": "2026-10-27T23:22:53Z"
         }
       ]
     },
@@ -1932,7 +1848,7 @@
             "ffe421ec-4f51-4313-8bd0-e90a575fba8e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:43:10Z"
+          "lastCheckedAt": "2026-10-27T18:50:07Z"
         }
       ]
     },
@@ -1977,7 +1893,7 @@
             "a536d6ff-fe7e-41c4-ac95-378effaee0f6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:06:29Z"
+          "lastCheckedAt": "2026-10-27T16:07:14Z"
         }
       ]
     },
@@ -2016,7 +1932,7 @@
             "386b8b9b-3a34-4405-a274-29fe476ca198"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:57:50Z"
+          "lastCheckedAt": "2026-10-27T15:08:38Z"
         }
       ]
     },
@@ -2053,7 +1969,7 @@
             "e79af81b-db6d-4f60-9ce1-39ff9b5874ab"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:27:00Z"
+          "lastCheckedAt": "2026-10-27T13:01:38Z"
         }
       ]
     },
@@ -2101,7 +2017,7 @@
             "SE:gen-x"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:48:39Z"
+          "lastCheckedAt": "2026-10-27T11:30:51Z"
         }
       ]
     },
@@ -2145,7 +2061,7 @@
             "SE:go-country"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:18:49Z"
+          "lastCheckedAt": "2026-10-28T02:17:26Z"
         }
       ]
     },
@@ -2182,7 +2098,7 @@
             "96434238-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:15:40Z"
+          "lastCheckedAt": "2026-10-27T14:19:18Z"
         }
       ]
     },
@@ -2256,7 +2172,7 @@
             "964340cd-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:16:13Z"
+          "lastCheckedAt": "2026-10-27T19:17:13Z"
         }
       ]
     },
@@ -2376,7 +2292,7 @@
             "SE:guldkanalen-90-tal"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T21:59:37Z"
+          "lastCheckedAt": "2026-10-27T22:01:48Z"
         }
       ]
     },
@@ -2536,7 +2452,7 @@
             "8a590500-d643-43de-a1d0-a4be35843b72"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:02:18Z"
+          "lastCheckedAt": "2026-10-28T00:12:34Z"
         }
       ]
     },
@@ -2582,7 +2498,7 @@
             "ffc8d7d5-7244-4738-bfee-22fcf0340edf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:55:20Z"
+          "lastCheckedAt": "2026-10-27T13:18:00Z"
         }
       ]
     },
@@ -2701,7 +2617,7 @@
           "country": "SE",
           "url": "http://vod.tv7.fi:1935/tv7-se/mp4:tv7-se.stream_720p/playlist.m3u8",
           "codec": "aac",
-          "bitrate": 2821,
+          "bitrate": 3187,
           "protocol": "http",
           "hls": true,
           "sources": [
@@ -2711,7 +2627,7 @@
             "4a5ce51f-7966-11ea-8a3b-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:47:07Z"
+          "lastCheckedAt": "2026-10-27T13:03:54Z"
         }
       ]
     },
@@ -2764,7 +2680,7 @@
             "1067bc4c-fed3-459a-b0dd-045d68cc225e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:58:28Z"
+          "lastCheckedAt": "2026-10-28T01:29:04Z"
         },
         {
           "id": "aws_6c4e17835c4decb1c9fb",
@@ -2785,7 +2701,7 @@
             "SE:hitcity"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:41:48Z"
+          "lastCheckedAt": "2026-10-28T00:41:27Z"
         }
       ]
     },
@@ -2910,7 +2826,7 @@
             "1808e244-4ca2-4a4d-be3a-17babddef88a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T20:48:06Z"
+          "lastCheckedAt": "2026-10-28T01:59:34Z"
         }
       ]
     },
@@ -2956,7 +2872,7 @@
             "b6886275-1d73-4e71-86ce-483175bd2a80"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:30:56Z"
+          "lastCheckedAt": "2026-10-27T15:56:22Z"
         }
       ]
     },
@@ -3003,7 +2919,7 @@
             "cd9cad10-788f-44ee-9e35-00a05efe2271"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:51:44Z"
+          "lastCheckedAt": "2026-10-27T20:11:02Z"
         }
       ]
     },
@@ -3048,7 +2964,7 @@
             "d906e09f-49da-469e-9937-5f5273fc9006"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:09:41Z"
+          "lastCheckedAt": "2026-10-27T23:16:16Z"
         }
       ]
     },
@@ -3174,7 +3090,7 @@
             "e24fbf0b-a56f-4cec-9557-8300458efcc6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:46:09Z"
+          "lastCheckedAt": "2026-10-27T09:52:28Z"
         }
       ]
     },
@@ -3219,7 +3135,7 @@
             "SE:latin"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:13:48Z"
+          "lastCheckedAt": "2026-10-27T19:19:29Z"
         }
       ]
     },
@@ -3293,7 +3209,7 @@
             "96434319-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:27:24Z"
+          "lastCheckedAt": "2026-10-27T09:30:42Z"
         }
       ]
     },
@@ -3427,7 +3343,7 @@
             "SE:mad-mix-curated"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:59:59Z"
+          "lastCheckedAt": "2026-10-27T20:24:20Z"
         }
       ]
     },
@@ -3607,7 +3523,7 @@
             "SE:metal-mayhem"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:14:23Z"
+          "lastCheckedAt": "2026-10-27T09:17:54Z"
         }
       ]
     },
@@ -3688,7 +3604,7 @@
             "96342772-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:02:15Z"
+          "lastCheckedAt": "2026-10-27T09:28:17Z"
         }
       ]
     },
@@ -3750,7 +3666,7 @@
             "SE:mix-megapol-104-3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:50:33Z"
+          "lastCheckedAt": "2026-10-28T01:11:09Z"
         }
       ]
     },
@@ -3820,7 +3736,7 @@
             "faa6e568-c9a4-4d7c-bea0-939cb069ec75"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:47:38Z"
+          "lastCheckedAt": "2026-10-27T23:53:06Z"
         }
       ]
     },
@@ -3868,7 +3784,7 @@
             "d2b34ded-eb3e-47e0-8d6e-de27122537e2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:25:22Z"
+          "lastCheckedAt": "2026-10-28T00:56:44Z"
         }
       ]
     },
@@ -3905,7 +3821,7 @@
             "e35b1892-da16-48fa-8fb2-edf6803b6177"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:08:31Z"
+          "lastCheckedAt": "2026-10-27T13:30:46Z"
         }
       ]
     },
@@ -3942,7 +3858,7 @@
             "SE:northern-metal-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:35:45Z"
+          "lastCheckedAt": "2026-10-27T16:41:33Z"
         }
       ]
     },
@@ -3979,7 +3895,7 @@
             "SE:northern-metal-radio-extreme"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:06:28Z"
+          "lastCheckedAt": "2026-10-27T13:44:42Z"
         }
       ]
     },
@@ -4057,7 +3973,7 @@
             "96414222-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:57:38Z"
+          "lastCheckedAt": "2026-10-27T13:01:38Z"
         }
       ]
     },
@@ -4092,7 +4008,7 @@
             "d20a7b4a-4fe6-4f5f-ace5-16c7c9091c80"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:07:16Z"
+          "lastCheckedAt": "2026-10-28T00:32:57Z"
         }
       ]
     },
@@ -4161,7 +4077,7 @@
           "country": "SE",
           "url": "https://live1.sr.se/p4kalm-mp3-96",
           "codec": "mp3",
-          "bitrate": 156,
+          "bitrate": 176,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -4173,7 +4089,7 @@
             "SE:p4-kalmar"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:50:34Z"
+          "lastCheckedAt": "2026-10-27T15:49:11Z"
         }
       ]
     },
@@ -4210,7 +4126,7 @@
             "e3400276-f47e-4f63-94d4-c4f82aee184b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T04:29:49Z"
+          "lastCheckedAt": "2026-10-27T19:19:29Z"
         }
       ]
     },
@@ -4286,7 +4202,7 @@
             "4b226edb-15be-4563-b74b-372b103091f7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:18:50Z"
+          "lastCheckedAt": "2026-10-27T10:59:29Z"
         },
         {
           "id": "aws_33de6b13145c4ae0a903",
@@ -4307,7 +4223,7 @@
             "SE:p4-vasternorrland"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:23:26Z"
+          "lastCheckedAt": "2026-10-28T00:16:51Z"
         }
       ]
     },
@@ -4346,7 +4262,7 @@
             "SE:p4-vastmanland"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:33:04Z"
+          "lastCheckedAt": "2026-10-27T11:56:11Z"
         }
       ]
     },
@@ -4388,7 +4304,7 @@
             "SE:pain"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:42:06Z"
+          "lastCheckedAt": "2026-10-27T17:50:10Z"
         }
       ]
     },
@@ -4477,7 +4393,7 @@
             "f4fcca1a-ba7e-11e9-acb2-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:12:09Z"
+          "lastCheckedAt": "2026-10-28T02:10:17Z"
         }
       ]
     },
@@ -4559,7 +4475,7 @@
             "9642b0c2-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:04:25Z"
+          "lastCheckedAt": "2026-10-27T16:09:18Z"
         }
       ]
     },
@@ -4600,7 +4516,7 @@
             "ccfd647b-93da-4275-aa8f-0c39f56feac5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:12:32Z"
+          "lastCheckedAt": "2026-10-28T02:10:17Z"
         }
       ]
     },
@@ -4646,7 +4562,7 @@
             "SE:popburst"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:45:37Z"
+          "lastCheckedAt": "2026-10-27T09:15:33Z"
         }
       ]
     },
@@ -4762,7 +4678,7 @@
             "SE:power-street"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:45:38Z"
+          "lastCheckedAt": "2026-10-28T01:53:26Z"
         }
       ]
     },
@@ -4797,7 +4713,7 @@
             "02443a51-3d95-4bc1-aaf8-6cc3345fc763"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:54:39Z"
+          "lastCheckedAt": "2026-10-28T01:50:03Z"
         }
       ]
     },
@@ -4934,7 +4850,7 @@
             "SE:radio-567"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:17:02Z"
+          "lastCheckedAt": "2026-10-27T23:41:35Z"
         }
       ]
     },
@@ -4982,7 +4898,7 @@
             "SE:radio-789"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:47:28Z"
+          "lastCheckedAt": "2026-10-27T20:49:25Z"
         }
       ]
     },
@@ -5019,7 +4935,7 @@
             "SE:radio-88-partille-golden-hits"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:10:36Z"
+          "lastCheckedAt": "2026-10-27T12:34:11Z"
         }
       ]
     },
@@ -5069,7 +4985,7 @@
             "SE:radio-94-3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T20:34:53Z"
+          "lastCheckedAt": "2026-10-27T21:30:29Z"
         }
       ]
     },
@@ -5204,7 +5120,7 @@
             "c81bd753-b033-4143-8d24-44efc7142461"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:47:11Z"
+          "lastCheckedAt": "2026-10-27T14:19:18Z"
         }
       ]
     },
@@ -5245,7 +5161,7 @@
             "7525f5fd-393c-46f4-a0ba-e02856a1873c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T07:49:14Z"
+          "lastCheckedAt": "2026-10-27T10:30:27Z"
         }
       ]
     },
@@ -5289,7 +5205,7 @@
             "SE:radio-gbg-sevdah"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T21:37:51Z"
+          "lastCheckedAt": "2026-10-28T01:26:57Z"
         }
       ]
     },
@@ -5396,7 +5312,7 @@
             "15e028aa-8914-49d8-9241-ea8aded0f6b6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T21:57:15Z"
+          "lastCheckedAt": "2026-10-27T22:17:12Z"
         }
       ]
     },
@@ -5544,7 +5460,7 @@
             "c5353b6e-0cdd-427a-b666-f265bc6d4c73"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:37:41Z"
+          "lastCheckedAt": "2026-10-28T00:39:22Z"
         }
       ]
     },
@@ -5586,7 +5502,7 @@
             "SE:radio-nostalgi"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:23:25Z"
+          "lastCheckedAt": "2026-10-27T13:38:02Z"
         }
       ]
     },
@@ -5625,7 +5541,7 @@
             "be9cd5b3-570c-410c-ab98-7f99af678b20"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:31:38Z"
+          "lastCheckedAt": "2026-10-28T00:30:38Z"
         }
       ]
     },
@@ -5664,7 +5580,7 @@
             "SE:radio-orinoco"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:07:28Z"
+          "lastCheckedAt": "2026-10-27T12:36:15Z"
         }
       ]
     },
@@ -5709,7 +5625,7 @@
             "SE:radio-rainbow"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:06:28Z"
+          "lastCheckedAt": "2026-10-27T13:42:33Z"
         }
       ]
     },
@@ -5748,7 +5664,7 @@
             "SE:radio-rivendell"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T07:03:04Z"
+          "lastCheckedAt": "2026-10-27T09:56:45Z"
         },
         {
           "id": "aws_407b2190c4eed774375e",
@@ -5767,7 +5683,7 @@
             "9197541c-ca21-4500-b962-21863b0926cb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:07:16Z"
+          "lastCheckedAt": "2026-10-28T00:08:12Z"
         }
       ]
     },
@@ -5807,7 +5723,7 @@
             "3fc2ea83-9ed6-44a5-b6ed-cc0e648c7ee0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:13:56Z"
+          "lastCheckedAt": "2026-10-28T00:30:38Z"
         },
         {
           "id": "aws_4094ad5cd8b6ea3ec0bb",
@@ -5828,7 +5744,7 @@
             "SE:radio-sandviken"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:47:11Z"
+          "lastCheckedAt": "2026-10-27T11:56:11Z"
         }
       ]
     },
@@ -5865,7 +5781,7 @@
             "bb4855dc-2835-4974-958b-1a3ca10ddadc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:32:54Z"
+          "lastCheckedAt": "2026-10-27T13:06:28Z"
         }
       ]
     },
@@ -5914,7 +5830,7 @@
             "962afe61-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:40:55Z"
+          "lastCheckedAt": "2026-10-27T13:44:42Z"
         }
       ]
     },
@@ -6114,7 +6030,7 @@
             "2e16a698-2fe8-47eb-8b1d-74fa2bcc9f10"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:14:13Z"
+          "lastCheckedAt": "2026-10-27T23:57:10Z"
         }
       ]
     },
@@ -6151,7 +6067,7 @@
             "SE:radio45-dalsland-sweden"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:12:35Z"
+          "lastCheckedAt": "2026-10-27T12:40:15Z"
         }
       ]
     },
@@ -6188,7 +6104,7 @@
             "754681f3-08c0-4242-9cd0-d873d2ec9da0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:27:51Z"
+          "lastCheckedAt": "2026-10-28T02:41:13Z"
         }
       ]
     },
@@ -6369,7 +6285,7 @@
             "SE:relax-meditation"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T06:31:00Z"
+          "lastCheckedAt": "2026-10-27T09:59:36Z"
         }
       ]
     },
@@ -6412,7 +6328,7 @@
             "SE:replay-news-svenska"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:58:40Z"
+          "lastCheckedAt": "2026-10-27T20:28:07Z"
         }
       ]
     },
@@ -6494,7 +6410,7 @@
             "SE:retro-fm-skane"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:47:07Z"
+          "lastCheckedAt": "2026-10-27T14:17:20Z"
         }
       ]
     },
@@ -6538,7 +6454,7 @@
             "SE:retro-fm-sverige"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:48:09Z"
+          "lastCheckedAt": "2026-10-27T11:56:11Z"
         }
       ]
     },
@@ -6580,7 +6496,7 @@
             "50d2c7dd-dec7-4169-84a1-a2f1614278ad"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T21:29:07Z"
+          "lastCheckedAt": "2026-10-28T00:07:28Z"
         },
         {
           "id": "aws_05775b111aa77727a4d9",
@@ -6599,7 +6515,7 @@
             "d1620588-c6f3-4e40-a828-a0fd3f945c07"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:59:56Z"
+          "lastCheckedAt": "2026-10-27T14:51:28Z"
         }
       ]
     },
@@ -6640,7 +6556,7 @@
             "a72d9bd0-86b9-4450-8958-c53688e1e956"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:53:44Z"
+          "lastCheckedAt": "2026-10-27T12:42:10Z"
         },
         {
           "id": "aws_60e375c558d18997928a",
@@ -6661,7 +6577,7 @@
             "SE:rix-fm-106-7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:08:28Z"
+          "lastCheckedAt": "2026-10-27T13:21:54Z"
         }
       ]
     },
@@ -6828,7 +6744,7 @@
             "0acb4fc1-f062-4111-9eff-740c66bd9e44"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:27:31Z"
+          "lastCheckedAt": "2026-10-27T11:01:45Z"
         }
       ]
     },
@@ -6867,7 +6783,7 @@
             "eb6986d8-2f1f-4034-9afe-dad3cade2e35"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:21:14Z"
+          "lastCheckedAt": "2026-10-27T09:36:12Z"
         }
       ]
     },
@@ -6958,7 +6874,7 @@
             "0d11fc90-1129-4b76-b42d-98fe127c9317"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:47:28Z"
+          "lastCheckedAt": "2026-10-27T20:22:15Z"
         }
       ]
     },
@@ -6995,7 +6911,7 @@
             "d1c40bbb-618a-11e8-b15b-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:25:20Z"
+          "lastCheckedAt": "2026-10-27T10:59:29Z"
         }
       ]
     },
@@ -7034,7 +6950,7 @@
             "9614fe6c-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:36:05Z"
+          "lastCheckedAt": "2026-10-27T13:45:20Z"
         }
       ]
     },
@@ -7076,7 +6992,7 @@
             "f60c842e-6d57-4586-ac29-1e0a5b621f5d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:02:17Z"
+          "lastCheckedAt": "2026-10-27T16:56:20Z"
         }
       ]
     },
@@ -7132,7 +7048,7 @@
             "SE:skargardsradion"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:09:56Z"
+          "lastCheckedAt": "2026-10-27T09:17:55Z"
         }
       ]
     },
@@ -7177,7 +7093,7 @@
             "56311642-e348-4438-afe9-873a187132d6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:45:16Z"
+          "lastCheckedAt": "2026-10-27T22:55:34Z"
         }
       ]
     },
@@ -7259,7 +7175,7 @@
             "641fb7fd-6e73-4e62-b64f-2353fe96a5be"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:21:32Z"
+          "lastCheckedAt": "2026-10-27T17:44:57Z"
         }
       ]
     },
@@ -7300,7 +7216,7 @@
             "fa0f560a-e7f4-4918-b02d-d61a740b075e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:23:43Z"
+          "lastCheckedAt": "2026-10-27T17:50:53Z"
         }
       ]
     },
@@ -7415,7 +7331,7 @@
             "0826eaef-59e4-4761-b3e8-31670421a753"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:02:15Z"
+          "lastCheckedAt": "2026-10-27T18:58:59Z"
         }
       ]
     },
@@ -7502,7 +7418,7 @@
             "d49cfff7-ce57-475d-8ce1-c37d0e150574"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:08:01Z"
+          "lastCheckedAt": "2026-10-28T00:10:16Z"
         }
       ]
     },
@@ -7569,7 +7485,7 @@
           "country": "SE",
           "url": "https://live1.sr.se/p4malm-mp3-96",
           "codec": "mp3",
-          "bitrate": 130,
+          "bitrate": 168,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -7579,7 +7495,7 @@
             "378f071e-49d4-441b-b740-caba0d00b1dc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:58:18Z"
+          "lastCheckedAt": "2026-10-27T14:46:13Z"
         },
         {
           "id": "aws_538a218955544f4fd0d0",
@@ -7598,7 +7514,7 @@
             "d2cdc958-4871-4423-9884-f2a49c3c2445"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:04:18Z"
+          "lastCheckedAt": "2026-10-27T19:38:44Z"
         }
       ]
     },
@@ -7725,7 +7641,7 @@
             "2d106b56-62e5-4ced-8a5f-9f57721f760a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:17:29Z"
+          "lastCheckedAt": "2026-10-27T12:50:12Z"
         }
       ]
     },
@@ -7770,7 +7686,7 @@
             "6a26ca98-58b4-4127-8c3d-869564bc672c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:39:55Z"
+          "lastCheckedAt": "2026-10-27T16:48:03Z"
         }
       ]
     },
@@ -7848,7 +7764,7 @@
             "ce877b75-fbb5-4b67-a39c-707e59ab38cc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:38:18Z"
+          "lastCheckedAt": "2026-10-27T14:57:14Z"
         },
         {
           "id": "aws_b279fc340cd2e457bcb8",
@@ -7869,7 +7785,7 @@
             "b30f805d-8402-4555-b182-dcf5fa0820da"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:14:13Z"
+          "lastCheckedAt": "2026-10-27T22:44:18Z"
         }
       ]
     },
@@ -7916,7 +7832,7 @@
             "SE:stars-on-45"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:07:05Z"
+          "lastCheckedAt": "2026-10-28T00:41:27Z"
         }
       ]
     },
@@ -7955,7 +7871,7 @@
             "54e3f7cd-47a0-414a-ac11-1b7850ed5973"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:46:56Z"
+          "lastCheckedAt": "2026-10-28T01:05:27Z"
         }
       ]
     },
@@ -7983,7 +7899,7 @@
           "stationId": "awb_a6f81bdd50527f59d209",
           "name": "Stockholm FM 101,1 Sweden",
           "country": "SE",
-          "url": "http://radiostreamthree.mine.nu/18020",
+          "url": "http://radiostreamone.mine.nu:18020/",
           "codec": "mp3",
           "bitrate": 128,
           "protocol": "http",
@@ -7995,7 +7911,7 @@
             "957584f4-cef4-11e8-a54a-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:55:38Z"
+          "lastCheckedAt": "2026-10-27T15:10:44Z"
         }
       ]
     },
@@ -8063,7 +7979,7 @@
           "stationId": "awb_795dd64c067f10cec9fa",
           "name": "Stockholm FM 88,0 Sweden",
           "country": "SE",
-          "url": "http://radiostreamone.mine.nu:18000/",
+          "url": "http://radiostreamone.mine.nu/18000",
           "codec": "mp3",
           "bitrate": 128,
           "protocol": "http",
@@ -8075,7 +7991,7 @@
             "20aee753-cef5-11e8-a54a-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T13:00:16Z"
+          "lastCheckedAt": "2026-10-27T15:21:33Z"
         }
       ]
     },
@@ -8145,7 +8061,7 @@
             "a786a585-319c-4da9-ac13-794e805f1529"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:51:50Z"
+          "lastCheckedAt": "2026-10-27T23:20:27Z"
         }
       ]
     },
@@ -8262,7 +8178,7 @@
             "f075cd6b-dc5a-4268-bc81-dc873da77bee"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:43:10Z"
+          "lastCheckedAt": "2026-10-27T19:44:34Z"
         }
       ]
     },
@@ -8389,7 +8305,7 @@
             "9a58e0e1-7718-4d9a-8179-c9c95a255fd6"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:18:03Z"
+          "lastCheckedAt": "2026-10-27T21:23:08Z"
         }
       ]
     },
@@ -8435,7 +8351,7 @@
             "SE:sveriges-radio-ekot-sander-direkt"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:50:25Z"
+          "lastCheckedAt": "2026-10-27T16:12:19Z"
         }
       ]
     },
@@ -8483,7 +8399,7 @@
             "07c6d96f-1d15-4d36-9833-dee758087659"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:45:03Z"
+          "lastCheckedAt": "2026-10-27T15:46:53Z"
         },
         {
           "id": "aws_628b7814455278640e1b",
@@ -8492,7 +8408,7 @@
           "country": "SE",
           "url": "https://live1.sr.se/p1-aac-320",
           "codec": "aac",
-          "bitrate": 320,
+          "bitrate": 312,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -8504,7 +8420,7 @@
             "SE:sveriges-radio-p1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:12:32Z"
+          "lastCheckedAt": "2026-10-28T02:11:18Z"
         },
         {
           "id": "aws_742ccd6f81c900bd8c40",
@@ -8543,7 +8459,7 @@
             "5c7ef11f-a6a0-4697-9d87-6df7a3209258"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T01:34:54Z"
+          "lastCheckedAt": "2026-10-28T02:05:23Z"
         }
       ]
     },
@@ -8594,7 +8510,7 @@
             "697e5012-5cdc-46b5-abe6-18cebd3b3dd1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T21:29:03Z"
+          "lastCheckedAt": "2026-10-27T21:44:18Z"
         },
         {
           "id": "aws_8959643bcbd7da9c349b",
@@ -8615,7 +8531,7 @@
             "SE:sveriges-radio-p2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T12:00:34Z"
+          "lastCheckedAt": "2026-10-27T12:34:11Z"
         },
         {
           "id": "aws_2706f6b526197d2fa82b",
@@ -8634,7 +8550,7 @@
             "af0682ee-3a81-40d6-b474-70e3f2ce5468"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:06:29Z"
+          "lastCheckedAt": "2026-10-27T20:24:20Z"
         }
       ]
     },
@@ -8669,7 +8585,7 @@
             "287a4851-de0c-4184-8255-b435d6b62e0b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:03:05Z"
+          "lastCheckedAt": "2026-10-27T10:34:53Z"
         }
       ]
     },
@@ -8714,7 +8630,7 @@
             "SE:sveriges-radio-p2-sprak-och-musik"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:04:40Z"
+          "lastCheckedAt": "2026-10-28T01:29:04Z"
         }
       ]
     },
@@ -8760,7 +8676,7 @@
             "SE:sveriges-radio-p3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T20:48:06Z"
+          "lastCheckedAt": "2026-10-27T20:51:24Z"
         },
         {
           "id": "aws_92ac9b21b96fdbaee780",
@@ -8833,7 +8749,7 @@
           "country": "SE",
           "url": "https://live1.sr.se/dingata-aac-320",
           "codec": "aac",
-          "bitrate": 288,
+          "bitrate": 312,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -8845,7 +8761,7 @@
             "SE:sveriges-radio-p3-din-gata"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T16:35:45Z"
+          "lastCheckedAt": "2026-10-27T16:46:01Z"
         }
       ]
     },
@@ -8888,7 +8804,7 @@
             "a20f86e9-ec1b-425a-9ebe-831720249f74"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:21:07Z"
+          "lastCheckedAt": "2026-10-28T01:33:35Z"
         }
       ]
     },
@@ -8927,7 +8843,7 @@
             "SE:sveriges-radio-p4-halland"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:28:30Z"
+          "lastCheckedAt": "2026-10-27T20:38:55Z"
         },
         {
           "id": "aws_9a890081c2f4788f7535",
@@ -8936,7 +8852,7 @@
           "country": "SE",
           "url": "https://live1.sr.se/p4hall-aac-128",
           "codec": "aac",
-          "bitrate": 120,
+          "bitrate": 112,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -8946,7 +8862,7 @@
             "79d17f42-620e-437d-b7e6-ed1c1d26c670"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:05:37Z"
+          "lastCheckedAt": "2026-10-27T23:43:14Z"
         }
       ]
     },
@@ -8987,7 +8903,7 @@
           "country": "SE",
           "url": "https://live1.sr.se/p4plus-aac-320",
           "codec": "aac",
-          "bitrate": 312,
+          "bitrate": 304,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -8999,7 +8915,7 @@
             "SE:sveriges-radio-p4-plus"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:19:38Z"
+          "lastCheckedAt": "2026-10-27T13:44:42Z"
         }
       ]
     },
@@ -9026,7 +8942,7 @@
           "country": "SE",
           "url": "https://www.sverigesradio.se/topsy/direkt/srapi/206.mp3",
           "codec": "mp3",
-          "bitrate": 120,
+          "bitrate": 180,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -9038,7 +8954,7 @@
             "e12c31f2-3d73-4af4-b8db-11ad20989c5a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:58:24Z"
+          "lastCheckedAt": "2026-10-27T17:07:45Z"
         }
       ]
     },
@@ -9063,7 +8979,7 @@
           "country": "SE",
           "url": "https://live1.sr.se/p4vast-mp3-96",
           "codec": "mp3",
-          "bitrate": 114,
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -9075,7 +8991,7 @@
             "db511060-495a-4756-95d2-5070bc529f57"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:50:37Z"
+          "lastCheckedAt": "2026-10-27T09:17:55Z"
         }
       ]
     },
@@ -9165,7 +9081,7 @@
             "SE:sveriges-radio-p1-2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:57:49Z"
+          "lastCheckedAt": "2026-10-27T15:36:46Z"
         }
       ]
     },
@@ -9258,7 +9174,7 @@
             "c8c4a599-7230-4a08-997d-36c74b08c2ce"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:45:16Z"
+          "lastCheckedAt": "2026-10-28T00:18:50Z"
         },
         {
           "id": "aws_f6a4bd913991e9af560e",
@@ -9279,7 +9195,7 @@
             "fc34869b-77f3-4483-87ad-813361bbbfd0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T19:20:24Z"
+          "lastCheckedAt": "2026-10-27T20:25:06Z"
         }
       ]
     },
@@ -9322,7 +9238,7 @@
             "1d35c168-deb1-4751-a1e6-ae19fb3e7a3e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:48:39Z"
+          "lastCheckedAt": "2026-10-27T11:35:13Z"
         }
       ]
     },
@@ -9481,7 +9397,7 @@
             "SE:sveriges-radio-p4-malmohus"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T18:51:44Z"
+          "lastCheckedAt": "2026-10-27T20:30:15Z"
         },
         {
           "id": "aws_191d386243c704eb71cf",
@@ -9679,7 +9595,7 @@
             "SE:sveriges-radion-p4-ostergotland"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T08:27:24Z"
+          "lastCheckedAt": "2026-10-27T12:29:48Z"
         }
       ]
     },
@@ -9706,7 +9622,7 @@
           "country": "SE",
           "url": "https://live1.sr.se/p1-mp3-96",
           "codec": "mp3",
-          "bitrate": 140,
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -9718,7 +9634,7 @@
             "ec17a150-5a0c-11e8-b0ce-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:58:18Z"
+          "lastCheckedAt": "2026-10-27T12:40:15Z"
         }
       ]
     },
@@ -9755,7 +9671,7 @@
             "c0163cdc-0ae8-4512-8db0-528cfb5dbc25"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T15:45:03Z"
+          "lastCheckedAt": "2026-10-27T15:56:22Z"
         }
       ]
     },
@@ -9802,7 +9718,7 @@
             "SE:swedish-truckers"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T11:57:38Z"
+          "lastCheckedAt": "2026-10-27T12:59:20Z"
         }
       ]
     },
@@ -9969,7 +9885,7 @@
             "SE:tjenamors-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T22:51:50Z"
+          "lastCheckedAt": "2026-10-27T23:22:53Z"
         }
       ]
     },
@@ -10006,7 +9922,7 @@
             "fcc6c03e-5363-4028-9a58-5d63ec913c76"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T14:57:49Z"
+          "lastCheckedAt": "2026-10-27T15:49:11Z"
         }
       ]
     },
@@ -10051,7 +9967,7 @@
             "SE:urban-flow"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T10:21:08Z"
+          "lastCheckedAt": "2026-10-27T12:31:54Z"
         }
       ]
     },
@@ -10180,7 +10096,7 @@
             "b66bf5c5-1630-4d4c-9e7b-5017ca9594cc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T23:46:56Z"
+          "lastCheckedAt": "2026-10-28T01:26:57Z"
         }
       ]
     },
@@ -10224,7 +10140,7 @@
             "SE:wolf-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T09:14:23Z"
+          "lastCheckedAt": "2026-10-27T10:24:02Z"
         }
       ]
     },
@@ -10312,7 +10228,7 @@
             "SE:zergan-radyo-47an"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T17:56:19Z"
+          "lastCheckedAt": "2026-10-27T18:10:00Z"
         }
       ]
     }

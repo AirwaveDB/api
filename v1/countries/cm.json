@@ -1,7 +1,7 @@
 {
   "code": "CM",
-  "stationCount": 49,
-  "streamCount": 49,
+  "stationCount": 51,
+  "streamCount": 51,
   "stations": [
     {
       "id": "awb_81b7298782d680bf6115",
@@ -59,7 +59,7 @@
       "homepage": "https://mp3islam.com/",
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-23",
       "streams": [
         {
@@ -68,20 +68,18 @@
           "name": "Abdulbasit Abdulsamad",
           "country": "CM",
           "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-          "codec": "aac",
+          "codec": "mp3",
           "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "CM:abdulbasit-abdulsamad",
-            "f81fe147-ab44-4762-bdf4-6ef5bf9dfead"
+            "CM:abdulbasit-abdulsamad"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T07:22:12Z"
+          "lastCheckedAt": "2026-08-23"
         }
       ]
     },
@@ -121,7 +119,7 @@
             "06f4e5d9-de1f-46c6-b960-2852dd4e0eca"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:18:57Z"
+          "lastCheckedAt": "2026-10-28T01:03:12Z"
         }
       ]
     },
@@ -470,6 +468,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T10:53:43Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e70b11359600d5231d26",
+      "name": "EASY RADIO CAMEROUN",
+      "country": "CM",
+      "subdivision": "Littoral",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://easyradiokribi.com/",
+      "favicon": "https://www.image-heberg.fr/files/17930342603439706463.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-27T10:07:44Z",
+      "streams": [
+        {
+          "id": "aws_fc452f86c037da431f44",
+          "stationId": "awb_e70b11359600d5231d26",
+          "name": "EASY RADIO CAMEROUN",
+          "country": "CM",
+          "url": "http://ecmanager2.pro-fhi.net:1580/",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "72bd4070-9006-4736-9b15-9f2fccbfbbf8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T12:07:19Z"
         }
       ]
     },
@@ -1116,7 +1149,7 @@
             "CM:mmuock-community-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-22T20:05:08Z"
+          "lastCheckedAt": "2026-10-27T21:30:29Z"
         }
       ]
     },
@@ -1382,6 +1415,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T22:59:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_12da5a5d504664b9773d",
+      "name": "Radio Equinoxe",
+      "country": "CM",
+      "subdivision": "Douala",
+      "languages": [
+        "fr"
+      ],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "music",
+        "news"
+      ],
+      "homepage": "https://radioequinoxe.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-27T16:48:00Z",
+      "streams": [
+        {
+          "id": "aws_a8e43218c49c6ba0caa9",
+          "stationId": "awb_12da5a5d504664b9773d",
+          "name": "Radio Equinoxe",
+          "country": "CM",
+          "url": "https://s6.citrus3.com/stream/radioequinoxe",
+          "codec": "aac",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "81e71576-dcd8-4206-8c68-f8df794ee9e3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T16:48:03Z"
         }
       ]
     },
