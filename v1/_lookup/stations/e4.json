@@ -6440,47 +6440,6 @@
       }
     ]
   },
-  "awb_e493b1dfc22e3cf20afc": {
-    "id": "awb_e493b1dfc22e3cf20afc",
-    "name": "DXAB One Radyo 1296 AM",
-    "country": "PH",
-    "subdivision": "Davao City",
-    "languages": [],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "https://www.cignal.tv/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZANiJ2V8f83gic6GT5m_Lyk3Vs2lCM8iZA&usqp=CAU",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z",
-    "streams": [
-      {
-        "id": "aws_fad1cc04ca534765a99b",
-        "stationId": "awb_e493b1dfc22e3cf20afc",
-        "name": "DXAB One Radyo 1296 AM",
-        "country": "PH",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "codec": "aac",
-        "bitrate": 463,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "700fa0a4-351d-4399-b00c-fdd6640f1546"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T20:25:06Z"
-      }
-    ]
-  },
   "awb_e45c4726cf6e83d8028e": {
     "id": "awb_e45c4726cf6e83d8028e",
     "name": "K5 News FM Capiz",
@@ -7322,7 +7281,7 @@
   },
   "awb_e409ed31da9366df648d": {
     "id": "awb_e409ed31da9366df648d",
-    "name": "Радио Vibe Новый Звук",
+    "name": "Радио ViBE Новый Звук",
     "country": "RU",
     "subdivision": "russia",
     "languages": [
@@ -7337,7 +7296,7 @@
       "pop"
     ],
     "homepage": "https://radiovibe.ru/",
-    "favicon": "https://radiovibe.ru/favicon.ico",
+    "favicon": "https://radiovibe.ru/img/vibe_500.png",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-10-12T13:24:17Z",
@@ -8625,6 +8584,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T04:59:28Z"
+      }
+    ]
+  },
+  "awb_e45764d07cde78557704": {
+    "id": "awb_e45764d07cde78557704",
+    "name": "WRNK 96.3 \"The Keeper\" Lanett, Alabama",
+    "country": "US",
+    "subdivision": "Alabama",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "christian praise&worship",
+      "christian preaching",
+      "christian worship"
+    ],
+    "homepage": "https://wrnk.com/",
+    "favicon": "https://wrnk.com/wp-content/uploads/2019/06/keeper-1-e1560965188674.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T02:20:17Z",
+    "streams": [
+      {
+        "id": "aws_72fa0d02dc44347c1c7c",
+        "stationId": "awb_e45764d07cde78557704",
+        "name": "WRNK 96.3 \"The Keeper\" Lanett, Alabama",
+        "country": "US",
+        "url": "https://s9.viastreaming.net:9500/",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e105adcd-c3fe-41d9-9ce6-17affaa809c4"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },

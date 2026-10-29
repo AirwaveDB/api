@@ -4509,8 +4509,8 @@
     "homepage": "https://radio.4all.it/",
     "favicon": "https://radio.4all.it/new_index/wp-content/uploads/elementor/thumbs/logoradio4all_negative-qzrcf9pkjqkx0o2tv752d02jqbx6en5ze96foe1xxc.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-05-30T14:32:19Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-28T12:26:56Z",
     "streams": [
       {
         "id": "aws_71def195ace5a4790be1",
@@ -4530,6 +4530,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T23:05:34Z"
+      },
+      {
+        "id": "aws_09b1b5cd87fcee5edb3c",
+        "stationId": "awb_ba5838d2dde8ef95f0c8",
+        "name": "RADIO4ALL",
+        "country": "IT",
+        "url": "https://radio.wifi4all.it/rwifi4all",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0d999acd-279d-47f8-9135-caca7365c885"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },

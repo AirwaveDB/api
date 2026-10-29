@@ -3117,7 +3117,7 @@
         "stationId": "awb_e2c0eae7e40da0b69e22",
         "name": "RADIO PSR 80er",
         "country": "DE",
-        "url": "https://regiocast.streamabc.net/regc-psr80er2173775-mp3-192-2606798?sABC=6nqno72o%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1792718635",
+        "url": "https://regiocast.streamabc.net/regc-psr80er2173775-mp3-192-2606798?sABC=6nr20456%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1793197142",
         "codec": "mp3",
         "bitrate": 0,
         "protocol": "https",
@@ -3129,7 +3129,7 @@
           "35309135-eeae-479d-85da-2be94e229d20"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T01:25:47Z"
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       },
       {
         "id": "aws_70a024a4998a348e4f5a",
@@ -4096,7 +4096,7 @@
           "aa563a15-b644-4850-805e-763cba22f506"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T15:41:19Z"
+        "lastCheckedAt": "2026-10-28T15:43:41Z"
       }
     ]
   },
@@ -6761,6 +6761,41 @@
       }
     ]
   },
+  "awb_e2275ac038f06bec073c": {
+    "id": "awb_e2275ac038f06bec073c",
+    "name": "iFM Lucena",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://thermnnetworks.ph/stations/lucena/",
+    "favicon": "https://thermnnetworks.ph/wp-content/uploads/sites/4/2025/10/STATION-INFO-KV-22-1280x720.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:26:39Z",
+    "streams": [
+      {
+        "id": "aws_7d43ab525fea5a606711",
+        "stationId": "awb_e2275ac038f06bec073c",
+        "name": "iFM Lucena",
+        "country": "PH",
+        "url": "https://livestream.rmn.ph/ifmlucena",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6bb85e0c-cabd-49c8-ad2c-c5e9cf758952"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T15:43:41Z"
+      }
+    ]
+  },
   "awb_e2485eedfe1d941115a5": {
     "id": "awb_e2485eedfe1d941115a5",
     "name": "Mellow 94.7 BFM",
@@ -7777,48 +7812,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T06:36:14Z"
-      }
-    ]
-  },
-  "awb_e245da8e3722d43dbeb0": {
-    "id": "awb_e245da8e3722d43dbeb0",
-    "name": "Kapatid FM 95.8",
-    "country": "SA",
-    "subdivision": "Mecca",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "entertainment",
-      "news"
-    ],
-    "homepage": "https://www.kapatidinternational.com/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMB6I8J7udQpuYwoR78lwR9mfRSUVn-ZYn-Q&s",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:02:21Z",
-    "streams": [
-      {
-        "id": "aws_6452a6188f5344e5ad43",
-        "stationId": "awb_e245da8e3722d43dbeb0",
-        "name": "Kapatid FM 95.8",
-        "country": "SA",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "codec": "aac",
-        "bitrate": 463,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "464dca1e-5f91-4801-89a3-739c1239e985"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T22:11:42Z"
       }
     ]
   },

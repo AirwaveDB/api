@@ -2853,7 +2853,7 @@
           "963b7e6f-0601-11e8-ae97-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T04:59:28Z"
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },
@@ -3214,20 +3214,21 @@
     "id": "awb_4c7d67502f5a9dbca985",
     "name": "Nostalgie Saturday Night",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Paris",
     "languages": [
       "fr"
     ],
     "categories": [],
     "tags": [
+      "disco funk",
       "nostalgie",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/",
-    "favicon": null,
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-saturday-night",
+    "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA_WR_SATURDAY-NIGHT.jpg",
     "type": "internet",
-    "sourceCount": 1,
-    "updatedAt": "2026-09-18T18:53:20Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-28T16:12:08Z",
     "streams": [
       {
         "id": "aws_2b974ce632e161a88997",
@@ -3247,6 +3248,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-26T23:27:54Z"
+      },
+      {
+        "id": "aws_e8e312b5dba3c186f070",
+        "stationId": "awb_4c7d67502f5a9dbca985",
+        "name": "Nostalgie Saturday Night",
+        "country": "FR",
+        "url": "https://streaming.nrjaudio.fm/ou5evgirv93h?origine=fluxradios&aw_0_1st.station=Nostalgie-Saturday-Night%E2%81%A0%EF%BF%BC",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f1d04337-527b-49e4-888a-658ced5da340"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },
@@ -7510,13 +7530,12 @@
       "news"
     ],
     "tags": [
-      "music",
       "news"
     ],
-    "homepage": "https://bbc.ug/",
+    "homepage": "https://www.bbc.co.uk/",
     "favicon": null,
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-23",
     "streams": [
       {

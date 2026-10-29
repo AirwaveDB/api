@@ -1415,15 +1415,12 @@
     ],
     "tags": [
       "pop",
-      "top 40",
-      "top-40",
-      "variety",
-      "youth"
+      "top-40"
     ],
     "homepage": "https://radio.disney.com/",
-    "favicon": "https://radio.disney.com/favicon",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-24",
     "streams": [
       {
@@ -1437,15 +1434,13 @@
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "CA:radio-disney-country-fm-89-1",
-          "d1abcd2b-fbcc-4bf1-9cf8-76ceff9eb60e"
+          "CA:radio-disney-country-fm-89-1"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T22:13:26Z"
+        "lastCheckedAt": "2026-08-24"
       }
     ]
   },
@@ -3881,45 +3876,6 @@
       }
     ]
   },
-  "awb_d1b01b03c7ecdd10d1c0": {
-    "id": "awb_d1b01b03c7ecdd10d1c0",
-    "name": "اذاعة القرآن الكريم",
-    "country": "ET",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z",
-    "streams": [
-      {
-        "id": "aws_2ad94586ebc4d9f651b0",
-        "stationId": "awb_d1b01b03c7ecdd10d1c0",
-        "name": "اذاعة القرآن الكريم",
-        "country": "ET",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "codec": "mp3",
-        "bitrate": 0,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "c2216d80-ea98-4a67-932b-6b0fa1fa3623"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T05:18:17Z"
-      }
-    ]
-  },
   "awb_d1b575dcc304d3c9472b": {
     "id": "awb_d1b575dcc304d3c9472b",
     "name": "/mlpfm/",
@@ -4150,7 +4106,7 @@
     "id": "awb_d11758ec03ebfb7bcf83",
     "name": "Direct FM",
     "country": "FR",
-    "subdivision": "Grand Est",
+    "subdivision": null,
     "languages": [
       "fr"
     ],
@@ -4159,8 +4115,8 @@
     "homepage": "http://www.directfm.fr/",
     "favicon": "https://bocir-prod-bucket.s3.amazonaws.com/radios/directfm/images/favicon.x-icon",
     "type": null,
-    "sourceCount": 12,
-    "updatedAt": "2026-01-15T08:29:20Z",
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:39:08Z",
     "streams": [
       {
         "id": "aws_787701aa6ce8330ba109",
@@ -4176,8 +4132,7 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "003d5bbc-8bc5-4ee2-8a36-57879df8708e",
-          "1e31a16f-0427-44d3-9a1b-3feaa04b660b"
+          "25855f44-3618-4a12-976c-c8fd2c401b02"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T01:50:03Z"
@@ -5292,7 +5247,7 @@
           "GT:estereo-santa-sion"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T22:17:37Z"
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },

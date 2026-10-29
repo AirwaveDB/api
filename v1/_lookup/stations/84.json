@@ -1146,7 +1146,7 @@
     "id": "awb_84f94cc037b298681456",
     "name": "Stingray Smoot Jazz",
     "country": "CA",
-    "subdivision": "Toronto, ON",
+    "subdivision": "Toronto",
     "languages": [],
     "categories": [
       "jazz"
@@ -1155,7 +1155,7 @@
       "jazz",
       "smooth jazz"
     ],
-    "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+    "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
     "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
     "type": null,
     "sourceCount": 3,
@@ -3025,8 +3025,8 @@
         "name": "KV 94.7 FM",
         "country": "DO",
         "url": "https://stream.zeno.fm/po2kawctwputv",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3036,7 +3036,7 @@
           "13c51c89-3825-48c0-b63c-32c930ed4108"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },
@@ -3347,7 +3347,7 @@
         "stationId": "awb_84a6a28d711620884d12",
         "name": "Jeremías Sebastián Roco",
         "country": "ES",
-        "url": "https://strw3.openstream.co/534?aw_0_1st.collectionid%3D7499%26stationId%3D7499%26publisherId%3D558%26k%3D1792809636",
+        "url": "https://strw3.openstream.co/534?aw_0_1st.collectionid%3D7499%26stationId%3D7499%26publisherId%3D558%26k%3D1793245201",
         "codec": "mp3",
         "bitrate": 128,
         "protocol": "https",
@@ -3359,7 +3359,7 @@
           "837bd657-c7ef-4f18-a038-026884fd6cab"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-29T03:40:31Z"
       }
     ]
   },
@@ -5281,6 +5281,75 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T23:33:03Z"
+      }
+    ]
+  },
+  "awb_84c6c7632d9dcae9310e": {
+    "id": "awb_84c6c7632d9dcae9310e",
+    "name": "GRUPERA: La más tremenda 🤠",
+    "country": "MX",
+    "subdivision": "Morelia, Michoacán",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "93.1 fm",
+      "américa",
+      "entretenimiento",
+      "español",
+      "estación",
+      "fm",
+      "grupera",
+      "grupero",
+      "grupo radiosa",
+      "la hora nacional",
+      "latinoamérica",
+      "mexican music",
+      "michoacán",
+      "moi merino",
+      "morelia",
+      "music",
+      "méxico",
+      "música",
+      "música en español",
+      "música mexicana",
+      "música popular mexicana",
+      "música regional",
+      "música regional mexicana",
+      "norteamérica",
+      "programas en vivo",
+      "radio",
+      "radio sa",
+      "regional",
+      "regional mexican",
+      "regional mexicana",
+      "regional music"
+    ],
+    "homepage": "https://maxplay.com.mx/",
+    "favicon": "https://cdn-profiles.tunein.com/s161252/images/logod.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T00:33:16Z",
+    "streams": [
+      {
+        "id": "aws_895d1fe32ef82b84e142",
+        "stationId": "awb_84c6c7632d9dcae9310e",
+        "name": "GRUPERA: La más tremenda 🤠",
+        "country": "MX",
+        "url": "https://mdstrm.com/audio/66be5c00b6bf50d01ecf55c2/live.m3u8",
+        "codec": "aac",
+        "bitrate": 131,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9a3369ac-3a01-4b32-80fd-53c5b41c4f3b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },

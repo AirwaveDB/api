@@ -8,40 +8,18 @@
       "es"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "93.3 fm",
-      "entretenimiento",
-      "español",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música en español e inglés",
-      "música pop",
-      "ponte exa",
       "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
       "pop-music",
-      "pop-rock",
-      "radio"
+      "pop-rock"
     ],
     "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -50,20 +28,18 @@
         "name": "Exa FM",
         "country": "AD",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "codec": "aac+",
+        "codec": "aac",
         "bitrate": 48,
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "AD:exa-fm",
-          "c0eb35b1-eb76-4510-b759-f603125b5a0c"
+          "AD:exa-fm"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T13:51:46Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -1159,6 +1135,54 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T10:52:16Z"
+      }
+    ]
+  },
+  "awb_78f922f72e4f712d251b": {
+    "id": "awb_78f922f72e4f712d251b",
+    "name": "MAGIC BOXX RADIO",
+    "country": "BR",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "electronic"
+    ],
+    "tags": [
+      "dance",
+      "deep house",
+      "electronic",
+      "eurodance",
+      "house",
+      "progressive",
+      "tech house"
+    ],
+    "homepage": "https://mboxxradio.com/",
+    "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T05:52:08Z",
+    "streams": [
+      {
+        "id": "aws_e46645c7a62d9c49653b",
+        "stationId": "awb_78f922f72e4f712d251b",
+        "name": "MAGIC BOXX RADIO",
+        "country": "BR",
+        "url": "https://radio.mboxxradio.com/listen/magic-boxx-radio/radio.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5a20ac2a-fd85-4495-b88e-024456e43c47",
+          "ba3cbcbf-125e-478d-aadb-c34dd6167112"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },
@@ -4239,43 +4263,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T12:42:10Z"
-      }
-    ]
-  },
-  "awb_78ee8ba90015453063cc": {
-    "id": "awb_78ee8ba90015453063cc",
-    "name": "Top music",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.topmusic.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T01:49:53Z",
-    "streams": [
-      {
-        "id": "aws_36c03a9a53a71f74be6d",
-        "stationId": "awb_78ee8ba90015453063cc",
-        "name": "Top music",
-        "country": "FR",
-        "url": "http://str0.creacast.com/topmusic1",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "9f5b62b2-0e6d-4829-9418-6874a5a26a90"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T15:32:46Z"
       }
     ]
   },
@@ -9117,6 +9104,49 @@
       }
     ]
   },
+  "awb_786a930adabd3759d735": {
+    "id": "awb_786a930adabd3759d735",
+    "name": "WFTP 103.9 \"Truth FM\" Fort Payne, Alabama",
+    "country": "US",
+    "subdivision": "Alabama",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "a cappella",
+      "christian preaching",
+      "christian teaching"
+    ],
+    "homepage": "https://truthfm.live/fpls/",
+    "favicon": "https://truth-fm.s3.amazonaws.com/wp-content/uploads/2018/08/24084819/Fort-Payne-Radio-square-copy.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T04:06:52Z",
+    "streams": [
+      {
+        "id": "aws_bc347b593a91489e0c57",
+        "stationId": "awb_786a930adabd3759d735",
+        "name": "WFTP 103.9 \"Truth FM\" Fort Payne, Alabama",
+        "country": "US",
+        "url": "https://radio.truth.fm:8000/wftp",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3b22be4b-e305-43de-a20f-fe1ba484b1c7"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_7851029d4e93c73d0ec7": {
     "id": "awb_7851029d4e93c73d0ec7",
     "name": "WGGG 102.3 Ossipee, New Hampshire",
@@ -9197,7 +9227,7 @@
           "c33f6f40-245e-4779-9e07-2d5210addc2d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T03:40:31Z"
       }
     ]
   },

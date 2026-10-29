@@ -1968,7 +1968,7 @@
       "pop"
     ],
     "homepage": "https://www.bremenzwei.de/",
-    "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
+    "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:44:42Z",
@@ -3335,8 +3335,8 @@
         "name": "Nostalgie Funk & Disco",
         "country": "FR",
         "url": "https://streaming.nrjaudio.fm/ou3khmuizv6i",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "aac",
+        "bitrate": 320,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -3346,7 +3346,7 @@
           "294c191d-c531-4906-b9eb-afcdc15812ad"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },
@@ -4439,68 +4439,6 @@
       }
     ]
   },
-  "awb_95fce1a366c3dc8394ab": {
-    "id": "awb_95fce1a366c3dc8394ab",
-    "name": "+Radio en Redes (Atlixco) - Online - www.radioenredes.com - Atlixco, Puebla",
-    "country": "MX",
-    "subdivision": "Atlixco, Puebla",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "américa",
-      "atlixco",
-      "entretenimiento",
-      "español",
-      "estación",
-      "kalimán",
-      "latinoamérica",
-      "local",
-      "local radio",
-      "moi merino",
-      "music",
-      "méxico",
-      "música",
-      "música y noticias",
-      "norteamérica",
-      "noticias locales",
-      "programas grabados",
-      "puebla",
-      "radio",
-      "variada",
-      "variedad"
-    ],
-    "homepage": "https://radioenredes.com/",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s284222d.png",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-17T17:11:45Z",
-    "streams": [
-      {
-        "id": "aws_ac0b5ea3b00abd52b429",
-        "stationId": "awb_95fce1a366c3dc8394ab",
-        "name": "RADIO EN REDES (Atlixco) - Online - www.radioenredes.com - Atlixco, Puebla",
-        "country": "MX",
-        "url": "https://turadiodigital.com/8014/;",
-        "codec": "aac+",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "5740362f-7929-4c73-8acd-3308d3f7bdab",
-          "58c33820-a26e-4657-be38-a120e913bdc7"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T21:37:05Z"
-      }
-    ]
-  },
   "awb_958bc0646386bab9a0b0": {
     "id": "awb_958bc0646386bab9a0b0",
     "name": "100.9 W Radio (Tampico) - 100.9 FM - XHS-FM - Grupo AS Comunicación - Tampico, Tamaulipas",
@@ -5304,6 +5242,68 @@
       }
     ]
   },
+  "awb_95fce1a366c3dc8394ab": {
+    "id": "awb_95fce1a366c3dc8394ab",
+    "name": "RADIO EN REDES (Atlixco) - Online - www.radioenredes.com - Atlixco, Puebla",
+    "country": "MX",
+    "subdivision": "Atlixco, Puebla",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "américa",
+      "atlixco",
+      "entretenimiento",
+      "español",
+      "estación",
+      "kalimán",
+      "latinoamérica",
+      "local",
+      "local radio",
+      "moi merino",
+      "music",
+      "méxico",
+      "música",
+      "música y noticias",
+      "norteamérica",
+      "noticias locales",
+      "programas grabados",
+      "puebla",
+      "radio",
+      "variada",
+      "variedad"
+    ],
+    "homepage": "https://radioenredes.com/",
+    "favicon": "https://i.postimg.cc/QxbQVfGw/radioenredes.png",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-17T17:11:45Z",
+    "streams": [
+      {
+        "id": "aws_ac0b5ea3b00abd52b429",
+        "stationId": "awb_95fce1a366c3dc8394ab",
+        "name": "RADIO EN REDES (Atlixco) - Online - www.radioenredes.com - Atlixco, Puebla",
+        "country": "MX",
+        "url": "https://turadiodigital.com/8014/;",
+        "codec": "aac+",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5740362f-7929-4c73-8acd-3308d3f7bdab",
+          "58c33820-a26e-4657-be38-a120e913bdc7"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-27T21:37:05Z"
+      }
+    ]
+  },
   "awb_9514a8731aca5e14fe29": {
     "id": "awb_9514a8731aca5e14fe29",
     "name": "Radio fórmula (Veracruz) - 89.1 FM [Boca del Río Veracruz]",
@@ -6032,6 +6032,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T00:12:34Z"
+      }
+    ]
+  },
+  "awb_95936e1ee66d076d7821": {
+    "id": "awb_95936e1ee66d076d7821",
+    "name": "ABC Cardinal 730AM",
+    "country": "PY",
+    "subdivision": null,
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://www.abc.com.py/730am/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T21:33:26Z",
+    "streams": [
+      {
+        "id": "aws_d82651a3d461879e997a",
+        "stationId": "awb_95936e1ee66d076d7821",
+        "name": "ABC Cardinal 730AM",
+        "country": "PY",
+        "url": "https://ny1.radio.primcast.com/8342/stream",
+        "codec": "aac",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "ba57bbe9-1f75-439a-8eb1-226449f10381"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },
@@ -7960,50 +8001,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T06:30:18Z"
-      }
-    ]
-  },
-  "awb_95abb0e8455bfca68edc": {
-    "id": "awb_95abb0e8455bfca68edc",
-    "name": "Radio Disney 1110 AM",
-    "country": "US",
-    "subdivision": "Los Angeles CA",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "film music",
-      "pop",
-      "top 40",
-      "youth"
-    ],
-    "homepage": "https://www.radiodisney.com/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Radio_Disney_logo.svg/300px-Radio_Disney_logo.svg.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T08:16:50Z",
-    "streams": [
-      {
-        "id": "aws_e6d5d40595efc46b3578",
-        "stationId": "awb_95abb0e8455bfca68edc",
-        "name": "Radio Disney 1110 AM",
-        "country": "US",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "b3ab264d-c25a-42c5-9d09-b39af8a52f7b"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T01:11:09Z"
       }
     ]
   },

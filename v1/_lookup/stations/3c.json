@@ -2750,8 +2750,8 @@
     "homepage": "https://radio.xecod.com/listen/majid-farouk",
     "favicon": null,
     "type": null,
-    "sourceCount": 13,
-    "updatedAt": "2026-10-25T18:01:57Z",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-11T21:09:06Z",
     "streams": [
       {
         "id": "aws_1547002101ffda70bf44",
@@ -2767,11 +2767,10 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "0555ba63-a5b1-4edd-b92c-df24105ddddc",
-          "870899bd-4240-452d-bfa9-7f9b4b8384a8"
+          "d7a8abc4-9195-4be0-a7d7-6fda72e80260"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T18:45:48Z"
+        "lastCheckedAt": "2026-10-26T23:09:03Z"
       }
     ]
   },
@@ -6201,8 +6200,8 @@
         "name": "105.9 Energy FM - DWLA",
         "country": "PH",
         "url": "http://stream.zeno.fm/dnddzf0osc1uv",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "http",
         "hls": false,
         "sources": [
@@ -6212,7 +6211,7 @@
           "a8594f31-acb5-49b8-9b8d-9025553a3573"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },
@@ -6802,7 +6801,7 @@
           "76e9ac0d-fbbb-4169-8627-52eaaf208735"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T01:09:22Z"
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },
@@ -7320,84 +7319,6 @@
       }
     ]
   },
-  "awb_3c120cbd9c471a5af007": {
-    "id": "awb_3c120cbd9c471a5af007",
-    "name": "لا القارئ محمد أيوب",
-    "country": "SY",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:44Z",
-    "streams": [
-      {
-        "id": "aws_bdae9fa0ff0e0e9a3803",
-        "stationId": "awb_3c120cbd9c471a5af007",
-        "name": "لا القارئ محمد أيوب",
-        "country": "SY",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "abbab5ba-4d4c-4c1e-8356-fdf5d5a25de5"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T00:38:27Z"
-      }
-    ]
-  },
-  "awb_3c22301d7d409156a8cc": {
-    "id": "awb_3c22301d7d409156a8cc",
-    "name": "إذاعة القرآن الكريم",
-    "country": "TN",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": "https://twitter.com/QuranRadio_ksa",
-    "favicon": "https://twitter.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z",
-    "streams": [
-      {
-        "id": "aws_93cc4b9e6cd3d7dd1f90",
-        "stationId": "awb_3c22301d7d409156a8cc",
-        "name": "إذاعة القرآن الكريم",
-        "country": "TN",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "codec": "mp3",
-        "bitrate": 0,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "c8a43614-274e-4b9d-ac57-49bc2d513523"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T22:05:09Z"
-      }
-    ]
-  },
   "awb_3c64ad3267830141ba26": {
     "id": "awb_3c64ad3267830141ba26",
     "name": "Gevaş Sesi Radyosu",
@@ -7618,45 +7539,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T00:48:15Z"
-      }
-    ]
-  },
-  "awb_3c38b14d17d74e95bbb5": {
-    "id": "awb_3c38b14d17d74e95bbb5",
-    "name": "Talksport Premier League",
-    "country": "UG",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "football commentary"
-    ],
-    "homepage": "https://talksport.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-21T14:19:39Z",
-    "streams": [
-      {
-        "id": "aws_b102e8e09aed66bcd43e",
-        "stationId": "awb_3c38b14d17d74e95bbb5",
-        "name": "Talksport Premier League",
-        "country": "UG",
-        "url": "https://radio.talksport.com/stream",
-        "codec": "aac",
-        "bitrate": 64,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "18c3c67b-4b7d-401e-b9e1-07f4fc53e963"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T12:42:10Z"
       }
     ]
   },
@@ -8682,70 +8564,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T08:00:37Z"
-      }
-    ]
-  },
-  "awb_3ce8b838b2a38b76603f": {
-    "id": "awb_3ce8b838b2a38b76603f",
-    "name": "Exa FM",
-    "country": "VE",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "93.3 fm",
-      "entretenimiento",
-      "español",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música en español e inglés",
-      "música pop",
-      "ponte exa",
-      "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
-      "radio"
-    ],
-    "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://www.exafm.com/favicon.ico",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T07:42:27Z",
-    "streams": [
-      {
-        "id": "aws_e5b17a456b68435ba361",
-        "stationId": "awb_3ce8b838b2a38b76603f",
-        "name": "Exa FM",
-        "country": "VE",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "codec": "aac+",
-        "bitrate": 48,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "7b588600-ef14-464d-b963-b6c96acb3671"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T10:59:29Z"
       }
     ]
   },

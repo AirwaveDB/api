@@ -3013,45 +3013,6 @@
       }
     ]
   },
-  "awb_85ef966a7134fe3894cf": {
-    "id": "awb_85ef966a7134fe3894cf",
-    "name": "..مختصر التفسير",
-    "country": "DZ",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z",
-    "streams": [
-      {
-        "id": "aws_508e60e0aa9b2d837b77",
-        "stationId": "awb_85ef966a7134fe3894cf",
-        "name": "..مختصر التفسير",
-        "country": "DZ",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "d52d7a3c-6547-4bd4-893e-c7599cd6f565"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T05:30:19Z"
-      }
-    ]
-  },
   "awb_85dea65534162e7fa14b": {
     "id": "awb_85dea65534162e7fa14b",
     "name": "El Bahdja - الجزائر العاصمة",
@@ -6463,6 +6424,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T22:46:34Z"
+      }
+    ]
+  },
+  "awb_85cfe7ba662615909934": {
+    "id": "awb_85cfe7ba662615909934",
+    "name": "Palavra Antiga Kids",
+    "country": "PT",
+    "subdivision": null,
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "kids",
+      "religious"
+    ],
+    "tags": [
+      "children",
+      "christian",
+      "family",
+      "gospel"
+    ],
+    "homepage": "https://kids.palavraantiga.org/",
+    "favicon": "https://kids.palavraantiga.org/web/image/695-8db68381/logo-kids-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T22:01:21Z",
+    "streams": [
+      {
+        "id": "aws_09040e9505fb7cd51a69",
+        "stationId": "awb_85cfe7ba662615909934",
+        "name": "Palavra Antiga Kids",
+        "country": "PT",
+        "url": "https://radio.palavraantiga.org/listen/kids/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dc436a61-bc55-43a7-b25d-3e00cbefcebc"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },

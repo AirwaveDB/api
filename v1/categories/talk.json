@@ -1,6 +1,6 @@
 {
   "id": "talk",
-  "stationCount": 2598,
+  "stationCount": 2595,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -5235,7 +5235,7 @@
             "b70cc5b8-1868-40fe-b4b9-28857b8c7450"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T08:35:54Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -12303,6 +12303,52 @@
       ]
     },
     {
+      "id": "awb_7cd3ca9e3b2ca168f9db",
+      "name": "106.3 fm.az",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "folk",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "folk",
+        "national",
+        "pop",
+        "talk"
+      ],
+      "homepage": "https://106-3fm.az/about",
+      "favicon": "https://liveonlineradio.net/wp-content/uploads/2018/01/106.3-FM.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T20:45:05Z",
+      "streams": [
+        {
+          "id": "aws_6dfe349ffd61f46d5c39",
+          "stationId": "awb_7cd3ca9e3b2ca168f9db",
+          "name": "106.3 fm.az",
+          "country": "AZ",
+          "url": "https://audiostr.atv.az/106.3fm",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ae302143-a684-407c-9b37-24e36595eb5b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ba5147288ff8630da392",
       "name": "BH Radio 1",
       "country": "BA",
@@ -13747,9 +13793,9 @@
     },
     {
       "id": "awb_ceac03347026f81dacb7",
-      "name": "��� � ����� �����",
+      "name": "��� � ����� �����������",
       "country": "BG",
-      "subdivision": "Sofia City",
+      "subdivision": "Blagoevgrad",
       "languages": [
         "bg"
       ],
@@ -13763,7 +13809,7 @@
         "public radio",
         "talk"
       ],
-      "homepage": "https://bnrnews.bg/sofia",
+      "homepage": "https://bnrnews.bg/blagoevgrad",
       "favicon": null,
       "type": "public",
       "sourceCount": 8,
@@ -26050,7 +26096,7 @@
             "3f676fb0-3870-4494-8ef2-8ea05ae97300"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -27900,6 +27946,58 @@
       ]
     },
     {
+      "id": "awb_e80dad5b855ac4b4fa15",
+      "name": "radioGAGA",
+      "country": "DE",
+      "subdivision": "Saxony",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "electronic",
+        "talk"
+      ],
+      "tags": [
+        "24/7",
+        "ai",
+        "ai radio",
+        "ai-generated",
+        "artificial intelligence",
+        "electronic",
+        "experimental",
+        "generative",
+        "open source",
+        "talk"
+      ],
+      "homepage": "https://www.radiogaga.ai/",
+      "favicon": "https://www.radiogaga.ai/favicon-192.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-28T17:12:55Z",
+      "streams": [
+        {
+          "id": "aws_3d5eed3b123e2e9e8370",
+          "stationId": "awb_e80dad5b855ac4b4fa15",
+          "name": "radioGAGA",
+          "country": "DE",
+          "url": "https://www.radiogaga.ai/hls/stream.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2864f93d-e5bb-4ebb-8f0f-8cb27ca91f5d",
+            "47517cbb-2ea5-4c5f-bd5f-f2725fefa6b7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
+        }
+      ]
+    },
+    {
       "id": "awb_70a49d86c4874903954a",
       "name": "radioGAGA - World's First 100% AI Radio Station",
       "country": "DE",
@@ -29572,7 +29670,7 @@
           "name": "Independencia FM 93.3",
           "country": "DO",
           "url": "https://stream.radiojar.com/nc893hafc8zuv",
-          "codec": null,
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -29583,7 +29681,7 @@
             "9afd9500-4bdb-49fc-b73e-0a76099a721a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -36770,7 +36868,7 @@
         "talk"
       ],
       "homepage": "https://www.tbm06.fr/radio/",
-      "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
+      "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-20T17:58:29Z",
@@ -37691,7 +37789,7 @@
             "22cf6ca2-cb22-46e3-bc75-ae0f8edc4e4b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -47292,7 +47390,7 @@
             "b5168cf2-0dcf-48d5-a327-7e2dec0b22a8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -49723,7 +49821,7 @@
             "760dce2d-f17e-4b21-b4e1-53c88fd86f16"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:10:20Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -49770,6 +49868,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T07:24:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_c760b7ab50f25eac52d7",
+      "name": "Χιακός 102.4",
+      "country": "GR",
+      "subdivision": "Chios",
+      "languages": [
+        "el"
+      ],
+      "categories": [
+        "news",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "greek pop",
+        "mainstream",
+        "news talk"
+      ],
+      "homepage": "https://www.xiakoslaos.gr/",
+      "favicon": "https://www.xiakhttps//resources.live24.gr/resources/images/stations/8bf3c391-f34c-4283-9abc-bf67bf11936f.pngo",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T19:27:49Z",
+      "streams": [
+        {
+          "id": "aws_5b1f28d6aa7f4126ed43",
+          "stationId": "awb_c760b7ab50f25eac52d7",
+          "name": "Χιακός 102.4",
+          "country": "GR",
+          "url": "https://cast2.radiohost.ovh/xiakos?mp=/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e22ce601-b5fc-4d13-a699-9ac70d5eca9e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -52527,47 +52670,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T23:30:48Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_d5b2cc05ad0ec815a57b",
-      "name": "talkSPORT",
-      "country": "ID",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "sports",
-        "talk"
-      ],
-      "tags": [
-        "sport",
-        "talk"
-      ],
-      "homepage": "https://radiostream.novawap.com/",
-      "favicon": "https://static.mytuner.mobi/media/tvos_radios/22yeCk65a6.jpg",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-07-03T19:08:18Z",
-      "streams": [
-        {
-          "id": "aws_0cdfd3c4474f59db65db",
-          "stationId": "awb_d5b2cc05ad0ec815a57b",
-          "name": "talkSPORT",
-          "country": "ID",
-          "url": "https://radio.talksport.com/stream",
-          "codec": "aac",
-          "bitrate": 64,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "fc673753-937f-4810-b5de-fae52ae8db46"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T23:27:54Z"
         }
       ]
     },
@@ -56376,6 +56478,52 @@
       ]
     },
     {
+      "id": "awb_c1eb1688170ced23477d",
+      "name": "Radio Kirschdrops",
+      "country": "IT",
+      "subdivision": null,
+      "languages": [
+        "it"
+      ],
+      "categories": [
+        "electronic",
+        "talk"
+      ],
+      "tags": [
+        "alternative",
+        "books",
+        "electronic",
+        "indie",
+        "spoken word"
+      ],
+      "homepage": "https://www.raffaelerutigliano.com/radio/",
+      "favicon": "https://www.raffaelerutigliano.com/radio/app/assets/radio-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T23:37:45Z",
+      "streams": [
+        {
+          "id": "aws_a62191d2d08f59aeb999",
+          "stationId": "awb_c1eb1688170ced23477d",
+          "name": "Radio Kirschdrops",
+          "country": "IT",
+          "url": "https://stream.raffaelerutigliano.com/kirschdrops.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "669b6522-7210-4989-b553-bdead4c9f955"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_e4f64f2c80780e2898a5",
       "name": "Radio Liberta",
       "country": "IT",
@@ -56880,7 +57028,7 @@
             "96295b39-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         },
         {
           "id": "aws_dc6bc5feb0502ba73619",
@@ -59230,29 +59378,6 @@
       ]
     },
     {
-      "id": "awb_e73baeb0e0d1b6c8b57d",
-      "name": "Bess 100 FM",
-      "country": "JM",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "reggae",
-        "religious",
-        "talk"
-      ],
-      "tags": [
-        "gospel",
-        "reggae",
-        "talk"
-      ],
-      "homepage": "https://www.bessfm.com/",
-      "favicon": "https://static.wixstatic.com/media/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png/v1/fill/w_155,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-28T03:19:22Z",
-      "streams": []
-    },
-    {
       "id": "awb_c9a9fec5bad92b033629",
       "name": "Irie FM",
       "country": "JM",
@@ -59356,6 +59481,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T11:22:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_098befbc5e0a5c295f51",
+      "name": "SLEEK Radio 93FM",
+      "country": "JM",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news talk",
+        "talk"
+      ],
+      "homepage": "https://sleekradio.com/",
+      "favicon": "https://sleekradio.com/wp-content/uploads/cropped-SLEEK-Radio-magenta-outlined.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T21:44:36Z",
+      "streams": [
+        {
+          "id": "aws_9fcd8c096b2ccda84721",
+          "stationId": "awb_098befbc5e0a5c295f51",
+          "name": "SLEEK Radio 93FM",
+          "country": "JM",
+          "url": "https://stream-161.zeno.fm/p9kyywfqcbcuv",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7e2b3a32-2921-4d32-9ea0-506b7068031e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -59669,7 +59837,7 @@
             "66b08e8e-3be6-4c4e-a765-9423e0398110"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -60557,7 +60725,7 @@
       "id": "awb_f0418ec6f2a427f541db",
       "name": "Radijo Stotis Kelyje",
       "country": "LT",
-      "subdivision": "Kaunas",
+      "subdivision": "Vilnius",
       "languages": [
         "lt"
       ],
@@ -61356,7 +61524,7 @@
             "5170a1f4-d481-4ff0-b13d-b267efb87fb7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:50:33Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         },
         {
           "id": "aws_b27730f16672a3fc1e64",
@@ -84531,28 +84699,9 @@
       "homepage": "https://allradio1035.com.ph/",
       "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1ERZBjCdStxOc4uCDvwgRa780ElW2hkU1icaaJSa6w&s=10",
       "type": null,
-      "sourceCount": 3,
+      "sourceCount": 2,
       "updatedAt": "2026-03-16T02:38:49Z",
       "streams": [
-        {
-          "id": "aws_6aa5d4fb50cafc2d7f45",
-          "stationId": "awb_1c736b3a9fc6b62efb28",
-          "name": "ABS-CBN All Radio 101.9 FM",
-          "country": "PH",
-          "url": "http://209.126.124.126:8852/stream",
-          "codec": "aac+",
-          "bitrate": 64,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "922b6e7e-de90-4e55-a745-2b3e505d39e1"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T12:07:19Z"
-        },
         {
           "id": "aws_5285ed2a2abd96cb592e",
           "stationId": "awb_1c736b3a9fc6b62efb28",
@@ -84615,132 +84764,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T10:28:19Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_e493b1dfc22e3cf20afc",
-      "name": "DXAB One Radyo 1296 AM",
-      "country": "PH",
-      "subdivision": "Davao City",
-      "languages": [],
-      "categories": [
-        "news",
-        "talk"
-      ],
-      "tags": [
-        "news",
-        "talk"
-      ],
-      "homepage": "https://www.cignal.tv/",
-      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZANiJ2V8f83gic6GT5m_Lyk3Vs2lCM8iZA&usqp=CAU",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:06Z",
-      "streams": [
-        {
-          "id": "aws_fad1cc04ca534765a99b",
-          "stationId": "awb_e493b1dfc22e3cf20afc",
-          "name": "DXAB One Radyo 1296 AM",
-          "country": "PH",
-          "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-          "codec": "aac",
-          "bitrate": 463,
-          "protocol": "https",
-          "hls": true,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "700fa0a4-351d-4399-b00c-fdd6640f1546"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T20:25:06Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_8faa6684e30ccf341b64",
-      "name": "DYAB One Radyo 1512 AM",
-      "country": "PH",
-      "subdivision": "Cebu City",
-      "languages": [],
-      "categories": [
-        "news",
-        "talk"
-      ],
-      "tags": [
-        "news",
-        "talk"
-      ],
-      "homepage": "https://www.cignal.tv/",
-      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZANiJ2V8f83gic6GT5m_Lyk3Vs2lCM8iZA&usqp=CAU",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:07Z",
-      "streams": [
-        {
-          "id": "aws_8061e25758174b53e1f0",
-          "stationId": "awb_8faa6684e30ccf341b64",
-          "name": "DYAB One Radyo 1512 AM",
-          "country": "PH",
-          "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-          "codec": "aac",
-          "bitrate": 463,
-          "protocol": "https",
-          "hls": true,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "80b561a7-81eb-4c8b-be88-61e5a786cace"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:37:36Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_cf88ae65e37a43f38da4",
-      "name": "DZMV AllTV News Radio 1422 AM",
-      "country": "PH",
-      "subdivision": "Manila",
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "news",
-        "talk"
-      ],
-      "tags": [
-        "news",
-        "talk"
-      ],
-      "homepage": "https://m.facebook.com/alltvnewsph/",
-      "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEoQ69VaCtdZ2fH1UK11KxPmcZue1Zz-9plHHKaZhZ1a5M3kQINesQqpW&s=10",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-01-15T05:15:03Z",
-      "streams": [
-        {
-          "id": "aws_81e804c0b8e5d8412b9f",
-          "stationId": "awb_cf88ae65e37a43f38da4",
-          "name": "DZMV AllTV News Radio 1422 AM",
-          "country": "PH",
-          "url": "http://209.126.124.126:8852/stream",
-          "codec": "aac+",
-          "bitrate": 64,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "17549785-a95e-4c97-b74f-acc6c1bf5cf6",
-            "a297b848-38f9-41c3-a9ea-68cf9c9e2ef8"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T14:53:39Z"
         }
       ]
     },
@@ -84825,47 +84848,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T01:28:25Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_b502360cea27ef09f761",
-      "name": "FMR Radyo Serbisyo 107.1 Pampanga",
-      "country": "PH",
-      "subdivision": "Magalang, Pampanga",
-      "languages": [],
-      "categories": [
-        "news",
-        "talk"
-      ],
-      "tags": [
-        "news",
-        "talk"
-      ],
-      "homepage": "https://www.facebook.com/FMRadioPhils?mibextid=ZbWKwL",
-      "favicon": "https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:07Z",
-      "streams": [
-        {
-          "id": "aws_d586343f4a1a5f25ef04",
-          "stationId": "awb_b502360cea27ef09f761",
-          "name": "FMR Radyo Serbisyo 107.1 Pampanga",
-          "country": "PH",
-          "url": "http://209.126.124.126:8852/stream",
-          "codec": "aac+",
-          "bitrate": 64,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "89da646b-94bc-400f-ae24-0b141e107c9d"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T18:22:53Z"
         }
       ]
     },
@@ -85001,88 +84983,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T20:15:20Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_3130c509a9d7320dd2eb",
-      "name": "K5 News FM 101.9 FM",
-      "country": "PH",
-      "subdivision": "Manila",
-      "languages": [],
-      "categories": [
-        "news",
-        "talk"
-      ],
-      "tags": [
-        "news",
-        "talk"
-      ],
-      "homepage": "https://www.abs-cbn.com/patrolph",
-      "favicon": "https://play-lh.googleusercontent.com/8ZQioBOxi3WV-pIPi0gi-2_L-Gaut2sh4dr1JCnpJlAFvwYMSCVA4sdbxQEnRUmaEo3R",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:12Z",
-      "streams": [
-        {
-          "id": "aws_172ce8e85e8906bfbb69",
-          "stationId": "awb_3130c509a9d7320dd2eb",
-          "name": "K5 News FM 101.9 FM",
-          "country": "PH",
-          "url": "http://209.126.124.126:8852/stream",
-          "codec": "aac+",
-          "bitrate": 64,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "06e7b6f9-fa6b-4637-844c-d7cae8189864"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T16:10:11Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_75d3a2683a20bd31b229",
-      "name": "K5 News FM 101.9 Manila",
-      "country": "PH",
-      "subdivision": "Manila",
-      "languages": [],
-      "categories": [
-        "news",
-        "talk"
-      ],
-      "tags": [
-        "news",
-        "talk"
-      ],
-      "homepage": "https://www.abs-cbn.com/patrolph",
-      "favicon": "https://play-lh.googleusercontent.com/8ZQioBOxi3WV-pIPi0gi-2_L-Gaut2sh4dr1JCnpJlAFvwYMSCVA4sdbxQEnRUmaEo3R",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:12Z",
-      "streams": [
-        {
-          "id": "aws_9c9c3f0486ca95f8cea2",
-          "stationId": "awb_75d3a2683a20bd31b229",
-          "name": "K5 News FM 101.9 Manila",
-          "country": "PH",
-          "url": "http://209.126.124.126:8852/stream",
-          "codec": "aac+",
-          "bitrate": 64,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "3393119f-ad71-429c-9853-643152231551"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T20:55:47Z"
         }
       ]
     },
@@ -85419,47 +85319,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T14:02:15Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_4a231581c36fe18c3341",
-      "name": "TGON News Radio 99.5 FM",
-      "country": "PH",
-      "subdivision": "Manila",
-      "languages": [],
-      "categories": [
-        "news",
-        "talk"
-      ],
-      "tags": [
-        "news",
-        "talk"
-      ],
-      "homepage": "https://linktr.ee/tgonkoolfm",
-      "favicon": "https://yt3.googleusercontent.com/kKc-A6j7Bvb1WzDubI7rLDn0Ve_vbcn3lCv7VrJ0G5mxIF3H3-OSbaVJOB-96kH6qL8QtmjmZ50=s176-c-k-c0x00ffffff-no-rj-mo",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-03-15T14:06:36Z",
-      "streams": [
-        {
-          "id": "aws_54b2126faeaebe9b51fd",
-          "stationId": "awb_4a231581c36fe18c3341",
-          "name": "TGON News Radio 99.5 FM",
-          "country": "PH",
-          "url": "http://209.126.124.126:8852/stream",
-          "codec": "aac+",
-          "bitrate": 64,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "e98b6f21-2fe8-4f6c-b85f-209cf625323c"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T23:59:22Z"
         }
       ]
     },
@@ -86317,7 +86176,7 @@
       "id": "awb_4b49e5c817ec766fe4aa",
       "name": "radiOFF",
       "country": "PL",
-      "subdivision": "Oderland",
+      "subdivision": "Lubuskie",
       "languages": [
         "de",
         "pl"
@@ -86349,7 +86208,7 @@
         "storytelling",
         "viadrina"
       ],
-      "homepage": "https://radioff.com/",
+      "homepage": "http://radioff.com/",
       "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
       "type": null,
       "sourceCount": 3,
@@ -98550,48 +98409,6 @@
       ]
     },
     {
-      "id": "awb_93d06195945cc3e4e2a9",
-      "name": "BBC AFRICA UG",
-      "country": "UG",
-      "subdivision": null,
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "news",
-        "talk"
-      ],
-      "tags": [
-        "news talk"
-      ],
-      "homepage": "https://www.bbc.co.uk/",
-      "favicon": "https://www.bbc.co.uk/favicon.ico",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T08:36:02Z",
-      "streams": [
-        {
-          "id": "aws_7fdd0748509cdfa1c400",
-          "stationId": "awb_93d06195945cc3e4e2a9",
-          "name": "BBC AFRICA UG",
-          "country": "UG",
-          "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
-          "codec": "mp3",
-          "bitrate": 56,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "036fe0fb-4140-416f-8e35-865a34e6182d"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T21:28:18Z"
-        }
-      ]
-    },
-    {
       "id": "awb_7797ccf518bf96647cbc",
       "name": "BNX Media FM - Kampala (MP3)",
       "country": "UG",
@@ -99827,7 +99644,7 @@
             "ba58abda-2366-4429-b21b-e1471afd8bd0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -105067,7 +104884,7 @@
             "2451dfcd-66c6-4134-a48f-417f049d448c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -107456,7 +107273,7 @@
             "ac7c963b-39f4-4299-a4d9-22fb283edb75"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -108454,6 +108271,56 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T10:19:07Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_17cbe4b18582c85f26db",
+      "name": "KUHN Radio",
+      "country": "US",
+      "subdivision": "Oregon",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "electronic",
+        "folk",
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "ai",
+        "celtic",
+        "electronic",
+        "folk",
+        "news",
+        "portland",
+        "talk"
+      ],
+      "homepage": "https://kuhnradio.com/",
+      "favicon": "https://kuhnradio.com/brand/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T22:59:48Z",
+      "streams": [
+        {
+          "id": "aws_afb397117142270e6e1c",
+          "stationId": "awb_17cbe4b18582c85f26db",
+          "name": "KUHN Radio",
+          "country": "US",
+          "url": "https://kuhnradio.com/api/live.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9fd7b588-e2b9-4dd2-9b57-88f7c007b734"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -114153,7 +114020,7 @@
             "6480a3e8-53b2-4c28-a43b-b59d78aa149c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -114368,7 +114235,7 @@
             "73338aba-acc7-4901-9dbb-3e73780982b1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:12:32Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -114493,7 +114360,7 @@
             "e4e2c442-268f-4ff1-8a3c-61248c2ca300"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -115308,7 +115175,7 @@
             "a46b8147-96d9-4da2-9428-dee2f18e0b03"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         },
         {
           "id": "aws_4c95b14227185d511734",
@@ -116167,7 +116034,7 @@
             "46910332-733f-4bcf-951c-d9b5ebf35c2e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -117607,7 +117474,7 @@
             "4848fe61-0e58-4af7-8382-f0f4a3e523ae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -117792,7 +117659,7 @@
       "id": "awb_22024cbbd9c119a9375e",
       "name": "WHYR 96.9 FM – Baton Rouge Community Radio",
       "country": "US",
-      "subdivision": "LA - Louisiana",
+      "subdivision": "Loui",
       "languages": [
         "en"
       ],
@@ -118327,6 +118194,50 @@
       ]
     },
     {
+      "id": "awb_24c746ddf0b2e5b9b65d",
+      "name": "WKCG 99.1 Dothan, Alabama",
+      "country": "US",
+      "subdivision": "Alabama",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "blues",
+        "talk"
+      ],
+      "tags": [
+        "african american",
+        "rhythm and blues",
+        "talk show"
+      ],
+      "homepage": "https://www.wearetops.org/",
+      "favicon": "https://le-cdn.website-editor.net/s/e90a14b4adbe4712937ee1a279631b06/dms3rep/multi/opt/tops+logo+hetic-1920w.jpg?Expires=1795053076&Signature=CgRLfW8qBwzOqzC45LQO-IyXE-AjIfzkIVL-zaKbAuHUl23fsQVswLgH2Z3saHvUevW9p3kr8fwEAm23z-one2fA4yFmkGM3eDdqKSxUMn2VAVvQiGEW8fc7qjJEDynVSiFCdD1SMVuTmSu6kqLH7267RVXe1gZSYaYXo3~jRpFW7VnwMhJx42IW7CAFFsRFlN3L49p8acbSVb-UbuTkwDWWYnwBS6qAFUpyMMst5Tkbf1SWHz4mZwZm23G6U0EmgFAg5qIZ5TEnmQ6NIwCpduswKIy5oy7XELqtRK~OWG~Dazrp9Hy4AUaxx80UGAP8HNEpd051cs8HvwVPy8OgZQ__&Key-Pair-Id=K2NXBXLF010TJW",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T03:31:18Z",
+      "streams": [
+        {
+          "id": "aws_c9260588e24b7b71f8a8",
+          "stationId": "awb_24c746ddf0b2e5b9b65d",
+          "name": "WKCG 99.1 Dothan, Alabama",
+          "country": "US",
+          "url": "https://ice64.securenetsystems.net/WKCG",
+          "codec": "aac+",
+          "bitrate": 32,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7d72bd2d-c7fb-4026-87a5-00d378503b35"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_ae23a1354a388c731ee6",
       "name": "WKHM AM 970",
       "country": "US",
@@ -118763,7 +118674,7 @@
             "e73e188d-40ce-44f6-850a-fc40cd2de371"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },

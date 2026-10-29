@@ -3714,14 +3714,38 @@
     "country": "GB",
     "subdivision": "North Yorkshire",
     "languages": [],
-    "categories": [],
-    "tags": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "local news",
+      "music"
+    ],
     "homepage": "https://www.thisisthecoast.co.uk/",
     "favicon": "https://mmo.aiircdn.com/428/6192188de6d51.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-28T10:14:26Z",
     "streams": [
+      {
+        "id": "aws_34765cb6533d4715a7cb",
+        "stationId": "awb_c861dac91fd921de95a1",
+        "name": "This is the Coast",
+        "country": "GB",
+        "url": "https://streaming.broadcast.radio/thisisthecoast",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "49da569c-9424-4e07-ae77-2477bed14413"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
+      },
       {
         "id": "aws_6b6ed3d53b033d0049e9",
         "stationId": "awb_c861dac91fd921de95a1",
@@ -6495,7 +6519,7 @@
           "1a9fd875-7d79-4d0b-b71a-7db984d320b4"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },

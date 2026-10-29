@@ -2383,7 +2383,7 @@
           "099b1a44-0475-4aa3-a0fb-ef9e878e650b"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-29T03:40:31Z"
       }
     ]
   },
@@ -3628,7 +3628,7 @@
           "ff1cef81-1331-45a8-a541-556381021ccc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T22:17:37Z"
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       },
       {
         "id": "aws_dc879bcad8a44a192a45",
@@ -3647,7 +3647,7 @@
           "855901b2-eba6-44aa-a986-1a6843bbd66d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },
@@ -4084,7 +4084,7 @@
     "id": "awb_0d84734a9ee1e4dddcf0",
     "name": "Soul Rhythms Radio UK",
     "country": "GB",
-    "subdivision": "Kent",
+    "subdivision": "London, England",
     "languages": [
       "en"
     ],
@@ -4127,7 +4127,7 @@
       "soul",
       "soul music"
     ],
-    "homepage": "https://soulrhythmsradio.com/",
+    "homepage": "https://soulrhythmsradio.com/home/",
     "favicon": "https://soulrhythmsradio.com/wp-content/uploads/2023/12/SRR-LOGOTHIS_ONE.jpg",
     "type": null,
     "sourceCount": 6,
@@ -5253,6 +5253,52 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T20:49:25Z"
+      }
+    ]
+  },
+  "awb_0dea551db9772f2ae6f5": {
+    "id": "awb_0dea551db9772f2ae6f5",
+    "name": "RDS - Radio Dimensione Suono",
+    "country": "IT",
+    "subdivision": "Lazio",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "news",
+      "pop"
+    ],
+    "tags": [
+      "hits",
+      "italian pop",
+      "news",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://www.rds.it/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T22:40:45Z",
+    "streams": [
+      {
+        "id": "aws_35481d82852ad54b7f7d",
+        "stationId": "awb_0dea551db9772f2ae6f5",
+        "name": "RDS - Radio Dimensione Suono",
+        "country": "IT",
+        "url": "https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8",
+        "codec": "aac",
+        "bitrate": 129,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "3bbd0c70-fb75-416d-8e80-babeff39904c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },
@@ -7031,45 +7077,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T01:37:47Z"
-      }
-    ]
-  },
-  "awb_0dfa75f40cfabbab4930": {
-    "id": "awb_0dfa75f40cfabbab4930",
-    "name": ". القارئ محمد أيوب",
-    "country": "QA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:45Z",
-    "streams": [
-      {
-        "id": "aws_fe84b0ef3dd39650f9fd",
-        "stationId": "awb_0dfa75f40cfabbab4930",
-        "name": ". القارئ محمد أيوب",
-        "country": "QA",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "4aeccada-2c4a-45cf-8572-c9d4349238df"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T00:23:06Z"
       }
     ]
   },

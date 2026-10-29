@@ -1,7 +1,7 @@
 {
   "code": "DO",
-  "stationCount": 116,
-  "streamCount": 120,
+  "stationCount": 117,
+  "streamCount": 121,
   "stations": [
     {
       "id": "awb_c52a809a69969f448ffb",
@@ -2094,7 +2094,7 @@
           "name": "Independencia FM 93.3",
           "country": "DO",
           "url": "https://stream.radiojar.com/nc893hafc8zuv",
-          "codec": null,
+          "codec": "mp3",
           "bitrate": 0,
           "protocol": "https",
           "hls": false,
@@ -2105,7 +2105,7 @@
             "9afd9500-4bdb-49fc-b73e-0a76099a721a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -2138,8 +2138,8 @@
           "name": "KV 94.7 FM",
           "country": "DO",
           "url": "https://stream.zeno.fm/po2kawctwputv",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -2149,7 +2149,7 @@
             "13c51c89-3825-48c0-b63c-32c930ed4108"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -3017,8 +3017,8 @@
           "name": "Pura Vida FM",
           "country": "DO",
           "url": "https://cast10.plugstreaming.com/stream/pvsdq",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -3028,7 +3028,7 @@
             "370cc36a-878a-4777-8b53-4dcdaf4c5a43"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -3796,6 +3796,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T06:55:59Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e74a16df8b845f7c5693",
+      "name": "Reggaeton 92.3 FM",
+      "country": "DO",
+      "subdivision": "Santiago (Dominican Republic)",
+      "languages": [],
+      "categories": [
+        "latin"
+      ],
+      "tags": [
+        "soft reggaeton"
+      ],
+      "homepage": "https://streampanel.online/radio/reggaeton927fm",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T16:49:57Z",
+      "streams": [
+        {
+          "id": "aws_25d3174416fe601c5f37",
+          "stationId": "awb_e74a16df8b845f7c5693",
+          "name": "Reggaeton 92.3 FM",
+          "country": "DO",
+          "url": "https://streampanel.online/8495/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "acae4b4b-68b0-4d6c-9f92-c5f8f8ff4ac9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },

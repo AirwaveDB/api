@@ -1,7 +1,7 @@
 {
   "code": "CL",
-  "stationCount": 551,
-  "streamCount": 565,
+  "stationCount": 552,
+  "streamCount": 566,
   "stations": [
     {
       "id": "awb_f69e4ba57c28e5464617",
@@ -4329,40 +4329,18 @@
         "es"
       ],
       "categories": [
-        "news",
         "pop",
         "rock"
       ],
       "tags": [
-        "93.3 fm",
-        "entretenimiento",
-        "español",
-        "estación",
-        "exa",
-        "exa fm",
-        "fm",
-        "juvenil",
-        "la estación exacta",
-        "la estación naranja",
-        "moi merino",
-        "mvs",
-        "mvs noticias",
-        "mvs radio",
-        "música en español e inglés",
-        "música pop",
-        "ponte exa",
         "pop",
-        "pop en español e inglés",
-        "pop music",
-        "pop rock",
         "pop-music",
-        "pop-rock",
-        "radio"
+        "pop-rock"
       ],
       "homepage": "https://www.exafm.com/veracruz/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -4371,20 +4349,18 @@
           "name": "Exa FM",
           "country": "CL",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-          "codec": "aac+",
+          "codec": "aac",
           "bitrate": 48,
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "58ebdf26-bb83-42ac-b7fc-244756c08442",
             "CL:exa-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:21:42Z"
+          "lastCheckedAt": "2026-08-24"
         }
       ]
     },
@@ -4624,7 +4600,7 @@
           "stationId": "awb_a3ee2adcea71659e7c2e",
           "name": "FM Dos",
           "country": "CL",
-          "url": "http://24273.live.streamtheworld.com:3690/FMDOSAAC_SC",
+          "url": "http://24503.live.streamtheworld.com/FMDOSAAC_SC",
           "codec": "aac+",
           "bitrate": 56,
           "protocol": "http",
@@ -4636,7 +4612,7 @@
             "9b246252-1fa0-4fc9-b5f2-fb120587ad51"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:10:20Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -8367,7 +8343,7 @@
             "cbc5d4bd-1936-4a66-8b0c-6dd98012bccf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:34:15Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -19318,6 +19294,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T20:44:40Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d7fdf83425553003803d",
+      "name": "Radio80 Club",
+      "country": "CL",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://stream.radioclub80.cl:8012/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T16:47:07Z",
+      "streams": [
+        {
+          "id": "aws_8a9f203581fd44714943",
+          "stationId": "awb_d7fdf83425553003803d",
+          "name": "Radio80 Club",
+          "country": "CL",
+          "url": "http://stream.radioclub80.cl:8010/",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5c2a107b-84eb-4385-856f-f3d578444c2c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },

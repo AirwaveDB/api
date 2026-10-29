@@ -1,7 +1,7 @@
 {
   "code": "EC",
-  "stationCount": 152,
-  "streamCount": 154,
+  "stationCount": 153,
+  "streamCount": 155,
   "stations": [
     {
       "id": "awb_f36122d4819d9ca5934a",
@@ -4318,6 +4318,45 @@
       ]
     },
     {
+      "id": "awb_4b8eca2dd7f76121959e",
+      "name": "Radio Los Lagos",
+      "country": "EC",
+      "subdivision": "Imbabura",
+      "languages": [],
+      "categories": [
+        "latin"
+      ],
+      "tags": [
+        "cumbia ecuatoriana"
+      ],
+      "homepage": "https://radioloslagos.ec/",
+      "favicon": "https://radioloslagos.ec/wp-content/uploads/2025/05/Radio-Los-Lagos-1080-x-1080-px-1024x1024.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T23:06:43Z",
+      "streams": [
+        {
+          "id": "aws_c889e12b09e63e662324",
+          "stationId": "awb_4b8eca2dd7f76121959e",
+          "name": "Radio Los Lagos",
+          "country": "EC",
+          "url": "https://as100.globalhost1.com/8172/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb676376-3e06-426e-86f0-960a33a7adf7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
+        }
+      ]
+    },
+    {
       "id": "awb_88d9abbebb645de73e5c",
       "name": "Radio Mágica 87.7 (Ecuador)",
       "country": "EC",
@@ -4677,7 +4716,7 @@
             "25ef4e72-ffee-48be-b4c8-225d73d90d37"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:12:32Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },

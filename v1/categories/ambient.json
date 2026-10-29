@@ -1,6 +1,6 @@
 {
   "id": "ambient",
-  "stationCount": 1092,
+  "stationCount": 1093,
   "stations": [
     {
       "id": "awb_f3a472b44392f167951e",
@@ -2139,7 +2139,7 @@
             "fea94ff2-24ee-4a69-b858-8396942cfe11"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -4612,7 +4612,7 @@
             "cdaa0235-dd3e-475b-9e9c-c7c9b13b312b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -18241,7 +18241,7 @@
             "963d0354-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -21559,7 +21559,7 @@
             "7e487787-b12d-47c8-8764-158731c05a59"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -24647,7 +24647,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao Radio",
+      "name": "Cacao-Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -27813,7 +27813,7 @@
             "cdec6253-1828-4016-82b9-dbe88466779c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -29115,7 +29115,7 @@
         "praise",
         "worship"
       ],
-      "homepage": "https://www.premier.plus/stations/premier-peace",
+      "homepage": "https://www.premier.plus/stations/premier-praise",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -38289,7 +38289,7 @@
       "id": "awb_4b49e5c817ec766fe4aa",
       "name": "radiOFF",
       "country": "PL",
-      "subdivision": "Oderland",
+      "subdivision": "Lubuskie",
       "languages": [
         "de",
         "pl"
@@ -38321,7 +38321,7 @@
         "storytelling",
         "viadrina"
       ],
-      "homepage": "https://radioff.com/",
+      "homepage": "http://radioff.com/",
       "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
       "type": null,
       "sourceCount": 3,
@@ -38522,7 +38522,7 @@
         "spanish radio"
       ],
       "homepage": "https://radiaura.net/arasuncion",
-      "favicon": "https://radioaurastorage2.blob.core.windows.net/station-branding/2ab200ee-b166-415a-b8df-7b20c6a37ff9/logo.png",
+      "favicon": "https://radiaura.net/apple-touch-icon.png",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-09-02T23:05:11Z",
@@ -44481,6 +44481,55 @@
       ]
     },
     {
+      "id": "awb_3208caf63801888255ef",
+      "name": "Phuket Global Radio",
+      "country": "TH",
+      "subdivision": "Phuket",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient",
+        "electronic"
+      ],
+      "tags": [
+        "beach",
+        "chillout",
+        "deep house",
+        "house",
+        "ibiza",
+        "lounge",
+        "phuket",
+        "thailand"
+      ],
+      "homepage": "https://phuketglobalradio.online/",
+      "favicon": "https://phuketglobalradio.online/img/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T14:25:16Z",
+      "streams": [
+        {
+          "id": "aws_65368a7f98f16b7d0206",
+          "stationId": "awb_3208caf63801888255ef",
+          "name": "Phuket Global Radio",
+          "country": "TH",
+          "url": "https://radio.spectrummediasolutions.co.uk/listen/phuket_global_radio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "411fa155-0a68-4390-b033-7ad8d9609cb4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2faa57bee97810af839e",
       "name": "Radio Red Phuket",
       "country": "TH",
@@ -44911,7 +44960,7 @@
             "759f46ed-7a0f-4ae1-9e1e-949fad8eaffe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -46581,8 +46630,8 @@
       "homepage": "https://walmradio.com/classic",
       "favicon": "https://icecast.walmradio.com:8443/classic.jpg",
       "type": null,
-      "sourceCount": 13,
-      "updatedAt": "2026-10-16T10:25:15Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-08-24",
       "streams": [
         {
           "id": "aws_d89e8d8ad85a0457e06d",
@@ -46599,11 +46648,11 @@
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "0824b64d-3671-456d-9c12-391ba1a6cc7a",
-            "US:classic-vinyl-hd"
+            "US:classic-vinyl-hd",
+            "d1a54d2e-623e-4970-ab11-35f7b56c5ec3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T01:37:47Z"
+          "lastCheckedAt": "2026-10-27T16:33:09Z"
         }
       ]
     },

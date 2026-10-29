@@ -1,7 +1,7 @@
 {
   "code": "TH",
-  "stationCount": 105,
-  "streamCount": 106,
+  "stationCount": 110,
+  "streamCount": 111,
   "stations": [
     {
       "id": "awb_f299584280f88e4d131d",
@@ -1135,6 +1135,115 @@
       ]
     },
     {
+      "id": "awb_5386867ea03e7eb68ec4",
+      "name": "CWK Radio",
+      "country": "TH",
+      "subdivision": "พะเยา",
+      "languages": [
+        "th"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://netradio11.plathong.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T04:31:45Z",
+      "streams": [
+        {
+          "id": "aws_0074cf0ed3f55e0a8da5",
+          "stationId": "awb_5386867ea03e7eb68ec4",
+          "name": "CWK Radio",
+          "country": "TH",
+          "url": "https://radio11.plathong.net/7050/;stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "40aa7a62-dc54-420b-9f67-6abaeed1cd94"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_72b39cdd10a83b93b290",
+      "name": "CWK Radio",
+      "country": "TH",
+      "subdivision": "พะเยา",
+      "languages": [
+        "th"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radio11.plathong.net/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T05:52:08Z",
+      "streams": [
+        {
+          "id": "aws_710cd63d0d55a81938a1",
+          "stationId": "awb_72b39cdd10a83b93b290",
+          "name": "CWK Radio",
+          "country": "TH",
+          "url": "https://radio11.plathong.net/7050/;stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "331e7a2e-9699-44a2-a986-63c4516b3e26"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
+      "id": "awb_3130e89df2d3c8e3b4a0",
+      "name": "CWK-Radio",
+      "country": "TH",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://radio.plathong.net/main/radio11/7050",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T05:56:15Z",
+      "streams": [
+        {
+          "id": "aws_447af5e65972c7f83803",
+          "stationId": "awb_3130e89df2d3c8e3b4a0",
+          "name": "CWK-Radio",
+          "country": "TH",
+          "url": "https://radio11.plathong.net/7050/;stream.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "02c43bac-afda-4a82-9caa-2bc194eea346"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_9cc4d64008aeddd88d1d",
       "name": "Fabulous 103",
       "country": "TH",
@@ -1599,6 +1708,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T23:09:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_77f8a6f18693ae6a9b29",
+      "name": "Greenwave",
+      "country": "TH",
+      "subdivision": null,
+      "languages": [
+        "th"
+      ],
+      "categories": [],
+      "tags": [
+        "live"
+      ],
+      "homepage": "https://atimehd.smartclick.co.th/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T18:09:58Z",
+      "streams": [
+        {
+          "id": "aws_8dc3ebf093046d67f5ae",
+          "stationId": "awb_77f8a6f18693ae6a9b29",
+          "name": "Greenwave",
+          "country": "TH",
+          "url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
+          "codec": "unknown",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b684e88f-bdcf-4b21-a734-dba2eb82a0e3"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -2455,6 +2603,55 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T00:17:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_3208caf63801888255ef",
+      "name": "Phuket Global Radio",
+      "country": "TH",
+      "subdivision": "Phuket",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "ambient",
+        "electronic"
+      ],
+      "tags": [
+        "beach",
+        "chillout",
+        "deep house",
+        "house",
+        "ibiza",
+        "lounge",
+        "phuket",
+        "thailand"
+      ],
+      "homepage": "https://phuketglobalradio.online/",
+      "favicon": "https://phuketglobalradio.online/img/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T14:25:16Z",
+      "streams": [
+        {
+          "id": "aws_65368a7f98f16b7d0206",
+          "stationId": "awb_3208caf63801888255ef",
+          "name": "Phuket Global Radio",
+          "country": "TH",
+          "url": "https://radio.spectrummediasolutions.co.uk/listen/phuket_global_radio/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "411fa155-0a68-4390-b033-7ad8d9609cb4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },

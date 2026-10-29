@@ -1,7 +1,7 @@
 {
   "code": "AR",
-  "stationCount": 1096,
-  "streamCount": 1113,
+  "stationCount": 1097,
+  "streamCount": 1114,
   "stations": [
     {
       "id": "awb_8b80a34329fc9201818f",
@@ -6213,8 +6213,8 @@
       "homepage": "https://www.eldestapeweb.com/eldestaperadio",
       "favicon": "https://www.eldestapeweb.com/img/favicons/apple-icon-120x120.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T08:44:04Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-23T17:48:55Z",
       "streams": [
         {
           "id": "aws_2c272f3f116b7f2713e9",
@@ -6230,10 +6230,11 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "c9e76d51-4032-4ea8-bb67-1d267b591e4b",
             "df12530c-0ec3-4d97-8c54-d7fdffad2dae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T00:48:15Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -7430,37 +7431,18 @@
         "es"
       ],
       "categories": [
-        "news",
         "pop",
         "rock"
       ],
       "tags": [
-        "93.3 fm",
-        "estación",
-        "exa",
-        "exa fm",
-        "fm",
-        "juvenil",
-        "la estación exacta",
-        "la estación naranja",
-        "moi merino",
-        "mvs",
-        "mvs noticias",
-        "mvs radio",
-        "música pop",
-        "ponte exa",
         "pop",
-        "pop en español e inglés",
-        "pop music",
-        "pop rock",
         "pop-music",
-        "pop-rock",
-        "radio"
+        "pop-rock"
       ],
       "homepage": "https://www.exafm.com/veracruz/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -7469,20 +7451,18 @@
           "name": "Exa FM",
           "country": "AR",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-          "codec": "aac+",
+          "codec": "aac",
           "bitrate": 48,
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "48d47f4a-fedc-462b-b9f9-65fb66eae4ef",
             "AR:exa-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T05:54:50Z"
+          "lastCheckedAt": "2026-08-24"
         }
       ]
     },
@@ -22788,6 +22768,41 @@
       ]
     },
     {
+      "id": "awb_b3cf31f6f69297ee5b96",
+      "name": "m4dr35",
+      "country": "AR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radios-argentinas.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T11:14:35Z",
+      "streams": [
+        {
+          "id": "aws_ef12b69cbc0bed251f0b",
+          "stationId": "awb_b3cf31f6f69297ee5b96",
+          "name": "m4dr35",
+          "country": "AR",
+          "url": "https://cdn.instream.audio:9288/stream",
+          "codec": "aac+",
+          "bitrate": 48,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e7e78f55-8383-4086-8c7a-03a63a962f46"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
+        }
+      ]
+    },
+    {
       "id": "awb_5b621c72e8f37e3be255",
       "name": "M90 89.9 FM",
       "country": "AR",
@@ -33141,7 +33156,7 @@
             "9af2bdd6-4be6-4ff6-8dc2-439cb1c332f1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -34370,7 +34385,7 @@
             "ea63eebb-cdae-4821-aa1c-cda4f3bfae80"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T07:26:26Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -40573,7 +40588,7 @@
             "02998392-8877-44f8-93d8-088a6072f76b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -41978,7 +41993,7 @@
             "b70cc5b8-1868-40fe-b4b9-28857b8c7450"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T08:35:54Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },

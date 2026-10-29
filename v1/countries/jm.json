@@ -1,7 +1,7 @@
 {
   "code": "JM",
   "stationCount": 43,
-  "streamCount": 46,
+  "streamCount": 47,
   "stations": [
     {
       "id": "awb_ead2066dd1b47213071f",
@@ -213,29 +213,6 @@
           "lastCheckedAt": "2026-10-27T04:54:02Z"
         }
       ]
-    },
-    {
-      "id": "awb_e73baeb0e0d1b6c8b57d",
-      "name": "Bess 100 FM",
-      "country": "JM",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "reggae",
-        "religious",
-        "talk"
-      ],
-      "tags": [
-        "gospel",
-        "reggae",
-        "talk"
-      ],
-      "homepage": "https://www.bessfm.com/",
-      "favicon": "https://static.wixstatic.com/media/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png/v1/fill/w_155,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-28T03:19:22Z",
-      "streams": []
     },
     {
       "id": "awb_a1c874a3944ed6d3ea92",
@@ -1416,6 +1393,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-28T02:41:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_098befbc5e0a5c295f51",
+      "name": "SLEEK Radio 93FM",
+      "country": "JM",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "news",
+        "talk"
+      ],
+      "tags": [
+        "news talk",
+        "talk"
+      ],
+      "homepage": "https://sleekradio.com/",
+      "favicon": "https://sleekradio.com/wp-content/uploads/cropped-SLEEK-Radio-magenta-outlined.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T21:44:36Z",
+      "streams": [
+        {
+          "id": "aws_9fcd8c096b2ccda84721",
+          "stationId": "awb_098befbc5e0a5c295f51",
+          "name": "SLEEK Radio 93FM",
+          "country": "JM",
+          "url": "https://stream-161.zeno.fm/p9kyywfqcbcuv",
+          "codec": "mp3",
+          "bitrate": 160,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7e2b3a32-2921-4d32-9ea0-506b7068031e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },

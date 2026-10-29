@@ -1,6 +1,6 @@
 {
   "code": "IN",
-  "stationCount": 960,
+  "stationCount": 959,
   "streamCount": 974,
   "stations": [
     {
@@ -11362,21 +11362,6 @@
       ]
     },
     {
-      "id": "awb_1a0f9d0939a6284334c7",
-      "name": "ET Now",
-      "country": "IN",
-      "subdivision": null,
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://www.etnownews.com/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-28T03:00:57Z",
-      "streams": []
-    },
-    {
       "id": "awb_16e59cd6dbcf10ff49b7",
       "name": "etrradio",
       "country": "IN",
@@ -18286,7 +18271,7 @@
             "4abd67d8-8d77-44d6-878a-525d4f9707a1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T08:35:54Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -23884,7 +23869,7 @@
             "3b80ffbd-f6d7-4c73-9151-bfe198c705a9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T03:36:10Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -26133,7 +26118,7 @@
             "c5d7db59-0df8-4470-b842-46fc1ead8fac"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T00:56:49Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -27179,7 +27164,7 @@
             "6229d224-c4b1-4856-ae84-833eebe973ae"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -30111,7 +30096,7 @@
             "30d29cc7-d18a-4064-a840-4cea28d8259e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -35409,6 +35394,41 @@
       ]
     },
     {
+      "id": "awb_756de93c474e2473cf67",
+      "name": "Vaigai FM",
+      "country": "IN",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://vaigaifm.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T05:28:43Z",
+      "streams": [
+        {
+          "id": "aws_a06a0686254090926751",
+          "stationId": "awb_756de93c474e2473cf67",
+          "name": "Vaigai FM",
+          "country": "IN",
+          "url": "https://centova1.dribbcast.com/proxy/vaigaifm/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b785e08f-e01a-4603-ad22-04616839a4c1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_81dd8b0064c21fe64769",
       "name": "Vaigai FM",
       "country": "IN",
@@ -35955,7 +35975,7 @@
             "3c8b42bb-f1ae-4fea-802a-facdb2d8ad6c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -36939,45 +36959,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T20:24:20Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_4b7ac142374aa3100805",
-      "name": "اذاعة القرآن الكريم",
-      "country": "IN",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "classical"
-      ],
-      "tags": [
-        "classical"
-      ],
-      "homepage": null,
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:04Z",
-      "streams": [
-        {
-          "id": "aws_23486e9599e1c36becab",
-          "stationId": "awb_4b7ac142374aa3100805",
-          "name": "اذاعة القرآن الكريم",
-          "country": "IN",
-          "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-          "codec": "mp3",
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "87807c38-9618-496e-8161-70a147d581c9"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T15:26:03Z"
         }
       ]
     },

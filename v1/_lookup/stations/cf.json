@@ -3052,7 +3052,7 @@
           "25ef4e72-ffee-48be-b4c8-225d73d90d37"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T01:12:32Z"
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },
@@ -6515,7 +6515,7 @@
     "homepage": "https://www.truefm.ph/",
     "favicon": "https://www.truefm.ph/assets/footerlogo-mobile.webp",
     "type": null,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "updatedAt": "2026-08-28T04:22:15Z",
     "streams": [
       {
@@ -6536,25 +6536,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T13:33:04Z"
-      },
-      {
-        "id": "aws_39be58835ac911584ea3",
-        "stationId": "awb_cf51d832c6e025dd820d",
-        "name": "105.9 True FM",
-        "country": "PH",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "codec": "aac",
-        "bitrate": 463,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "114fe258-f71e-473d-8b7f-a0791b231add"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T13:57:25Z"
       },
       {
         "id": "aws_783c6855a42a704b8d26",
@@ -6650,50 +6631,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T14:58:33Z"
-      }
-    ]
-  },
-  "awb_cf88ae65e37a43f38da4": {
-    "id": "awb_cf88ae65e37a43f38da4",
-    "name": "DZMV AllTV News Radio 1422 AM",
-    "country": "PH",
-    "subdivision": "Manila",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "https://m.facebook.com/alltvnewsph/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSEoQ69VaCtdZ2fH1UK11KxPmcZue1Zz-9plHHKaZhZ1a5M3kQINesQqpW&s=10",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T05:15:03Z",
-    "streams": [
-      {
-        "id": "aws_81e804c0b8e5d8412b9f",
-        "stationId": "awb_cf88ae65e37a43f38da4",
-        "name": "DZMV AllTV News Radio 1422 AM",
-        "country": "PH",
-        "url": "http://209.126.124.126:8852/stream",
-        "codec": "aac+",
-        "bitrate": 64,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "17549785-a95e-4c97-b74f-acc6c1bf5cf6",
-          "a297b848-38f9-41c3-a9ea-68cf9c9e2ef8"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T14:53:39Z"
       }
     ]
   },

@@ -1,8 +1,54 @@
 {
   "code": "aze",
   "canonicalCode": "az",
-  "stationCount": 30,
+  "stationCount": 32,
   "stations": [
+    {
+      "id": "awb_7cd3ca9e3b2ca168f9db",
+      "name": "106.3 fm.az",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "folk",
+        "pop",
+        "talk"
+      ],
+      "tags": [
+        "folk",
+        "national",
+        "pop",
+        "talk"
+      ],
+      "homepage": "https://106-3fm.az/about",
+      "favicon": "https://liveonlineradio.net/wp-content/uploads/2018/01/106.3-FM.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T20:45:05Z",
+      "streams": [
+        {
+          "id": "aws_6dfe349ffd61f46d5c39",
+          "stationId": "awb_7cd3ca9e3b2ca168f9db",
+          "name": "106.3 fm.az",
+          "country": "AZ",
+          "url": "https://audiostr.atv.az/106.3fm",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ae302143-a684-407c-9b37-24e36595eb5b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
+        }
+      ]
+    },
     {
       "id": "awb_5bd892f9a471c193051c",
       "name": "Araz Supermarket Radio",
@@ -395,6 +441,51 @@
       ]
     },
     {
+      "id": "awb_9a04e6d634601d2498eb",
+      "name": "Dalga fm 92.5",
+      "country": "AZ",
+      "subdivision": "Baku",
+      "languages": [
+        "az"
+      ],
+      "categories": [
+        "folk",
+        "pop"
+      ],
+      "tags": [
+        "folk",
+        "national",
+        "pop",
+        "retro"
+      ],
+      "homepage": "https://dalgafm.az/",
+      "favicon": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pmg.az%2Fassets%2Fimages%2Flogos%2Fdalga%2520fm.jpg&f=1&nofb=1&ipt=b412b28afecdd19355decea45277c711c84b7d27dd8691bbf578c9c30db818f2&ipo=images",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T20:09:08Z",
+      "streams": [
+        {
+          "id": "aws_340bf3a9e2897193c66d",
+          "stationId": "awb_9a04e6d634601d2498eb",
+          "name": "Dalga fm 92.5",
+          "country": "AZ",
+          "url": "https://live.dinle.az/dalgafm",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ffb6ef8a-0cdb-4e91-8b7b-df7dda93aaf0"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
+        }
+      ]
+    },
+    {
       "id": "awb_b77955bd500bc4880c4f",
       "name": "DalğaFM 92.5",
       "country": "AZ",
@@ -637,7 +728,7 @@
     },
     {
       "id": "awb_d7f70117ce40881b5aac",
-      "name": "Media FM Jazz",
+      "name": "Media fm jazz",
       "country": "AZ",
       "subdivision": "Baku",
       "languages": [
@@ -1157,7 +1248,7 @@
         "traditional"
       ],
       "homepage": "https://www.azstartv.com/home/About",
-      "favicon": "https://duckduckgo.com/?q=azstar+tv+logo&t=iphone&ia=images&iax=images&iai=https%3A%2F%2Fwww.parsatv.com%2Findex_files%2Fchannels%2Fazstartv.png",
+      "favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.gKfahNAkDBbWH-x6okspwQHaEo%3Fpid%3DApi&f=1&ipt=b54ad8af054b0f3cdb5c2434108ced19e3153353bc39e8c49781eb26178dcd04&ipo=images",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-12T15:44:22Z",

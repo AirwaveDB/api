@@ -198,6 +198,41 @@
       }
     ]
   },
+  "awb_b3cf31f6f69297ee5b96": {
+    "id": "awb_b3cf31f6f69297ee5b96",
+    "name": "m4dr35",
+    "country": "AR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radios-argentinas.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T11:14:35Z",
+    "streams": [
+      {
+        "id": "aws_ef12b69cbc0bed251f0b",
+        "stationId": "awb_b3cf31f6f69297ee5b96",
+        "name": "m4dr35",
+        "country": "AR",
+        "url": "https://cdn.instream.audio:9288/stream",
+        "codec": "aac+",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e7e78f55-8383-4086-8c7a-03a63a962f46"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
+      }
+    ]
+  },
   "awb_b3366cfbe87e4f5bbc2c": {
     "id": "awb_b3366cfbe87e4f5bbc2c",
     "name": "Radio Ancasti",
@@ -4402,8 +4437,8 @@
         "name": "XEL MAXI",
         "country": "FR",
         "url": "https://manager10.streamradio.fr:2285/stream",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 320,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -4413,7 +4448,7 @@
           "f0814522-1406-44b9-8a05-85ed9c47857d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },
@@ -5716,6 +5751,77 @@
       }
     ]
   },
+  "awb_b347a16025815e96ebb6": {
+    "id": "awb_b347a16025815e96ebb6",
+    "name": "+NoFM Radio (CDMX) - Online - www.nofm-radio.com - Todo Menos Miedo - Ciudad de México",
+    "country": "MX",
+    "subdivision": "Ciudad de México",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "alternative",
+      "alternative / indie",
+      "américa",
+      "cdmx",
+      "ciudad de méxico",
+      "cultural",
+      "entretenimiento",
+      "español",
+      "estación",
+      "independent",
+      "independent radio",
+      "independiente",
+      "juvenil",
+      "latinoamérica",
+      "moi merino",
+      "multicultural",
+      "music",
+      "méxico",
+      "música",
+      "música alternativa",
+      "música en español e inglés",
+      "nofm radio",
+      "non-commercial",
+      "norteamérica",
+      "online",
+      "online only",
+      "online radio",
+      "podcast",
+      "radio",
+      "radio online",
+      "todo menos miedo",
+      "valle de méxico"
+    ],
+    "homepage": "https://nofm-radio.com/",
+    "favicon": "https://i.postimg.cc/Hx08h5Qt/nofmradio.jpg",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-08-12T23:34:52Z",
+    "streams": [
+      {
+        "id": "aws_0f1c9b01a123ccea8e7a",
+        "stationId": "awb_b347a16025815e96ebb6",
+        "name": "NOFM RADIO (CDMX) - Online - www.nofm-radio.com - Todo Menos Miedo - Ciudad de México",
+        "country": "MX",
+        "url": "https://securestreams7.autopo.st/?uri=https://s2.voscast.com:8163/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1d40d740-0f64-4a6c-ab57-5a96f7a24d9b",
+          "8ae56000-b8e0-42a6-aac5-56f72dc60975"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-27T12:38:19Z"
+      }
+    ]
+  },
   "awb_b37a6086ff3e7e474af6": {
     "id": "awb_b37a6086ff3e7e474af6",
     "name": "102.9 Exa FM (Tehuacán) - 102.9 FM - XHWJ-FM - Radio TH Comunicación - Tehuacán, Puebla",
@@ -6315,77 +6421,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T00:27:10Z"
-      }
-    ]
-  },
-  "awb_b347a16025815e96ebb6": {
-    "id": "awb_b347a16025815e96ebb6",
-    "name": "NOFM RADIO (CDMX) - Online - www.nofm-radio.com - Todo Menos Miedo - Ciudad de México",
-    "country": "MX",
-    "subdivision": "Ciudad de México",
-    "languages": [
-      "es"
-    ],
-    "categories": [],
-    "tags": [
-      "alternative",
-      "alternative / indie",
-      "américa",
-      "cdmx",
-      "ciudad de méxico",
-      "cultural",
-      "entretenimiento",
-      "español",
-      "estación",
-      "independent",
-      "independent radio",
-      "independiente",
-      "juvenil",
-      "latinoamérica",
-      "moi merino",
-      "multicultural",
-      "music",
-      "méxico",
-      "música",
-      "música alternativa",
-      "música en español e inglés",
-      "nofm radio",
-      "non-commercial",
-      "norteamérica",
-      "online",
-      "online only",
-      "online radio",
-      "podcast",
-      "radio",
-      "radio online",
-      "todo menos miedo",
-      "valle de méxico"
-    ],
-    "homepage": "https://nofm-radio.com/",
-    "favicon": "https://i.postimg.cc/Hx08h5Qt/nofmradio.jpg",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-08-12T23:34:52Z",
-    "streams": [
-      {
-        "id": "aws_0f1c9b01a123ccea8e7a",
-        "stationId": "awb_b347a16025815e96ebb6",
-        "name": "NOFM RADIO (CDMX) - Online - www.nofm-radio.com - Todo Menos Miedo - Ciudad de México",
-        "country": "MX",
-        "url": "https://securestreams7.autopo.st/?uri=https://s2.voscast.com:8163/stream",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "1d40d740-0f64-4a6c-ab57-5a96f7a24d9b",
-          "8ae56000-b8e0-42a6-aac5-56f72dc60975"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T12:38:19Z"
       }
     ]
   },
@@ -7569,40 +7604,18 @@
       "es"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "93.3 fm",
-      "entretenimiento",
-      "español",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música en español e inglés",
-      "música pop",
-      "ponte exa",
       "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
       "pop-music",
-      "pop-rock",
-      "radio"
+      "pop-rock"
     ],
     "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://www.exafm.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -7611,20 +7624,18 @@
         "name": "Exa FM",
         "country": "PR",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "codec": "aac+",
+        "codec": "aac",
         "bitrate": 48,
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "PR:exa-fm",
-          "e5cc6794-7191-481f-a888-d0043baced89"
+          "PR:exa-fm"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T06:55:59Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -9862,7 +9873,7 @@
           "a46b8147-96d9-4da2-9428-dee2f18e0b03"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T03:40:31Z"
       },
       {
         "id": "aws_4c95b14227185d511734",

@@ -3335,8 +3335,8 @@
     "homepage": "https://radio.xecod.com/listen/alminshawi",
     "favicon": null,
     "type": null,
-    "sourceCount": 21,
-    "updatedAt": "2026-10-27T21:51:04Z",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T22:01:21Z",
     "streams": [
       {
         "id": "aws_5d08986e9fc78386a6b6",
@@ -3352,11 +3352,10 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "20271194-a0d7-490d-9e02-14246f2861f7",
-          "d2085b95-5ab6-4ca7-bf07-527532bca88d"
+          "fbf6dcee-086b-4459-b9e0-8a8fe607a92e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T02:58:34Z"
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },
@@ -3960,6 +3959,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T18:05:38Z"
+      }
+    ]
+  },
+  "awb_fb5b95e0d80769598543": {
+    "id": "awb_fb5b95e0d80769598543",
+    "name": "Radio TFM",
+    "country": "FR",
+    "subdivision": null,
+    "languages": [
+      "fr"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "variété française des années 60 à nos jours"
+    ],
+    "homepage": "https://www.radiotfm.com/",
+    "favicon": "https://www.radiotfm.com/brand/logob.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T18:30:18Z",
+    "streams": [
+      {
+        "id": "aws_c810ff64580a2048dc00",
+        "stationId": "awb_fb5b95e0d80769598543",
+        "name": "Radio TFM",
+        "country": "FR",
+        "url": "https://st8.hotradio.fr/tfm",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b5da9a0f-4abc-4213-88aa-addcc3c156a1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },

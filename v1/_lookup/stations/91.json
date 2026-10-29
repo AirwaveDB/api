@@ -1780,40 +1780,18 @@
       "es"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "93.3 fm",
-      "entretenimiento",
-      "español",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música en español e inglés",
-      "música pop",
-      "ponte exa",
       "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
       "pop-music",
-      "pop-rock",
-      "radio"
+      "pop-rock"
     ],
     "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://www.exafm.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -1822,20 +1800,18 @@
         "name": "Exa FM",
         "country": "CU",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "codec": "aac+",
+        "codec": "aac",
         "bitrate": 48,
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "46813813-cdb1-4181-88cb-9efc3987d82b",
           "CU:exa-fm"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T19:19:29Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -5257,6 +5233,79 @@
       }
     ]
   },
+  "awb_91ea195ac202c2ee3ee1": {
+    "id": "awb_91ea195ac202c2ee3ee1",
+    "name": "LA KALIENTE: Préndete con La Kaliente 🔥",
+    "country": "MX",
+    "subdivision": "Ciudad Obregón, Sonora",
+    "languages": [
+      "es"
+    ],
+    "categories": [],
+    "tags": [
+      "92.9 fm",
+      "américa",
+      "ciudad obregón",
+      "entretenimiento",
+      "español",
+      "estación",
+      "fm",
+      "grupo radiosa",
+      "la hora nacional",
+      "la kaliente",
+      "latinoamérica",
+      "maxplay",
+      "mexican music",
+      "moi merino",
+      "music",
+      "méxico",
+      "música",
+      "música en español",
+      "música mexicana",
+      "música popular mexicana",
+      "música regional",
+      "música regional mexicana",
+      "música tradicional mexicana",
+      "norteamérica",
+      "programas en vivo",
+      "radio",
+      "radio sa",
+      "ranchera",
+      "rancheras",
+      "regional",
+      "regional mexican",
+      "regional mexicana",
+      "regional music",
+      "sonora",
+      "traditional mexican music"
+    ],
+    "homepage": "https://maxplay.com.mx/",
+    "favicon": "https://i.postimg.cc/x8PBpyhh/lakaliente.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T00:35:12Z",
+    "streams": [
+      {
+        "id": "aws_9a23d3928501f15cee7b",
+        "stationId": "awb_91ea195ac202c2ee3ee1",
+        "name": "LA KALIENTE: Préndete con La Kaliente 🔥",
+        "country": "MX",
+        "url": "https://mdstrm.com/audio/6715e0158ec04cb1e32dabdc/live.m3u8",
+        "codec": "aac",
+        "bitrate": 98,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "cbf62a77-3167-42ca-a456-536dc75e17b7"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
+      }
+    ]
+  },
   "awb_915c89fe9960b4378cba": {
     "id": "awb_915c89fe9960b4378cba",
     "name": "LOKURA: Te Reto A Que Me Escuches",
@@ -6522,7 +6571,7 @@
           "dc3592d3-3ada-4aae-ae41-0e4a1f5096ef"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T22:17:37Z"
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },
@@ -7992,7 +8041,7 @@
           "ae2453a5-341d-4897-a214-9b99e4950a89"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T03:40:31Z"
       }
     ]
   },
@@ -8238,7 +8287,7 @@
           "98105b9e-366a-4330-92b9-32481bc8fb97"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },

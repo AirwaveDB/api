@@ -6658,45 +6658,6 @@
       }
     ]
   },
-  "awb_da71093e515225614073": {
-    "id": "awb_da71093e515225614073",
-    "name": "106.7 Radyo5 True FM HD",
-    "country": "PH",
-    "subdivision": "Mandaluyong City",
-    "languages": [],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "https://news.tv5.com.ph/",
-    "favicon": "https://static.wikia.nocookie.net/tv5network/images/4/4e/TV5_HD.svg/revision/latest/scale-to-width/360?cb=20230424120548",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z",
-    "streams": [
-      {
-        "id": "aws_958b0fe8b781b93a7a96",
-        "stationId": "awb_da71093e515225614073",
-        "name": "106.7 Radyo5 True FM HD",
-        "country": "PH",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "codec": "aac",
-        "bitrate": 463,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "dc20ee23-200a-4542-9241-c190c86cfc79"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T22:37:16Z"
-      }
-    ]
-  },
   "awb_da32cb5491dedf23b9b1": {
     "id": "awb_da32cb5491dedf23b9b1",
     "name": "Barangay LS 99.5",
@@ -6803,6 +6764,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T11:56:11Z"
+      }
+    ]
+  },
+  "awb_da707f98b1b75a1d27c0": {
+    "id": "awb_da707f98b1b75a1d27c0",
+    "name": "Radio Eska Warszawa (64kbps + metadata)",
+    "country": "PL",
+    "subdivision": null,
+    "languages": [
+      "pl"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "128 kbps",
+      "pop",
+      "top 40"
+    ],
+    "homepage": "https://warszawa.eska.pl/",
+    "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T08:26:51Z",
+    "streams": [
+      {
+        "id": "aws_67d49f1ed83fa4b974e4",
+        "stationId": "awb_da707f98b1b75a1d27c0",
+        "name": "Radio Eska Warszawa (64kbps + metadata)",
+        "country": "PL",
+        "url": "https://go-audio.toya.net.pl/63222",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "56e2ffe1-e324-480e-9b25-66803318ce71"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },
@@ -7658,45 +7662,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T17:50:53Z"
-      }
-    ]
-  },
-  "awb_da989e315e0a42825f54": {
-    "id": "awb_da989e315e0a42825f54",
-    "name": "BBC WORLD SERVICE",
-    "country": "UG",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "🌍🌍🌍 uganda"
-    ],
-    "homepage": "https://www.livescore.cz/",
-    "favicon": "https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:24:33Z",
-    "streams": [
-      {
-        "id": "aws_f4aa96dafcefd2067a82",
-        "stationId": "awb_da989e315e0a42825f54",
-        "name": "BBC WORLD SERVICE",
-        "country": "UG",
-        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
-        "codec": "mp3",
-        "bitrate": 56,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "7c94e1c8-c1ef-4c9e-aa71-41565643ee12"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T09:30:42Z"
       }
     ]
   },

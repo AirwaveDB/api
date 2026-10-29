@@ -92,9 +92,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -103,20 +103,18 @@
         "name": "EXA FM: Música pop em inglês e espanhol",
         "country": "AO",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "codec": "aac+",
+        "codec": "aac",
         "bitrate": 48,
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "3973bb14-4377-4b62-86ac-b25d11d81949",
           "AO:exa-fm-musica-pop-em-ingles-e-espanhol"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T14:17:20Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -892,48 +890,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T01:32:52Z"
-      }
-    ]
-  },
-  "awb_71352c992dd40d383943": {
-    "id": "awb_71352c992dd40d383943",
-    "name": "maresol web radio - eirunepé",
-    "country": "BR",
-    "subdivision": "Amazonas",
-    "languages": [
-      "en",
-      "es"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-19T23:45:05Z",
-    "streams": [
-      {
-        "id": "aws_6e9af34db73a09184d6f",
-        "stationId": "awb_71352c992dd40d383943",
-        "name": "maresol web radio - eirunepé",
-        "country": "BR",
-        "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "2ac16ae1-f0a9-4738-a59e-d5fe4529c8be"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T04:48:05Z"
       }
     ]
   },

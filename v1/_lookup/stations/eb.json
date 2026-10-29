@@ -480,7 +480,7 @@
           "AU:fox-101-9"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },
@@ -7328,45 +7328,6 @@
       }
     ]
   },
-  "awb_ebee7fb81db3b85f5378": {
-    "id": "awb_ebee7fb81db3b85f5378",
-    "name": "إذاعة محمد أيوب",
-    "country": "SA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:44Z",
-    "streams": [
-      {
-        "id": "aws_dab8280a5965900e18b1",
-        "stationId": "awb_ebee7fb81db3b85f5378",
-        "name": "إذاعة محمد أيوب",
-        "country": "SA",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "98da22b5-050d-4ad2-a97d-3cdb7aa1d5fa"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T14:44:03Z"
-      }
-    ]
-  },
   "awb_eb1c41113ae2e0cd0fc5": {
     "id": "awb_eb1c41113ae2e0cd0fc5",
     "name": "Star 90's",
@@ -7462,6 +7423,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T13:44:42Z"
+      }
+    ]
+  },
+  "awb_ebb4026021a29010ac99": {
+    "id": "awb_ebb4026021a29010ac99",
+    "name": "Radio METEOR",
+    "country": "SI",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.radiometeor.si/",
+    "favicon": "https://www.radiometeor.si/images/logo/rm_logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T12:47:33Z",
+    "streams": [
+      {
+        "id": "aws_3b7819720489919e4d29",
+        "stationId": "awb_ebb4026021a29010ac99",
+        "name": "Radio METEOR",
+        "country": "SI",
+        "url": "http://stream.radiometeor.si/listen/meteor/live.aac",
+        "codec": "aac",
+        "bitrate": 64,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0fafeabd-e562-4773-860b-637f74bf135a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },

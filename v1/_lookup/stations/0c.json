@@ -1234,51 +1234,6 @@
       }
     ]
   },
-  "awb_0c0a39ce01fb81a2c473": {
-    "id": "awb_0c0a39ce01fb81a2c473",
-    "name": "maresol web radio - rio branco",
-    "country": "BR",
-    "subdivision": "Acre",
-    "languages": [
-      "en",
-      "pt"
-    ],
-    "categories": [
-      "blues",
-      "pop",
-      "rock"
-    ],
-    "tags": [
-      "electric blues",
-      "pop rock"
-    ],
-    "homepage": "https://www.radiomaresol.com.br/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-08-19T23:59:02Z",
-    "streams": [
-      {
-        "id": "aws_b41592c881044700ad78",
-        "stationId": "awb_0c0a39ce01fb81a2c473",
-        "name": "maresol web radio - rio branco",
-        "country": "BR",
-        "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "cf11dc3f-547c-4728-ac5b-5cd0e0346d39"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T01:41:15Z"
-      }
-    ]
-  },
   "awb_0c775ca7a77f109aa0f9": {
     "id": "awb_0c775ca7a77f109aa0f9",
     "name": "Radio Brasil IA Mundial",
@@ -4664,8 +4619,8 @@
     "homepage": "http://www.radyonne.fr/",
     "favicon": "http://www.radyonne.fr/favicon.ico",
     "type": null,
-    "sourceCount": 11,
-    "updatedAt": "2026-01-15T08:27:11Z",
+    "sourceCount": 1,
+    "updatedAt": "2026-01-14T23:41:54Z",
     "streams": [
       {
         "id": "aws_e69d67b76bb7273bfd52",
@@ -4681,8 +4636,7 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "3468014e-2ef7-40f7-91f9-2c15b67e03af",
-          "75536498-f2f1-4ac5-b634-1e2f9064094c"
+          "364b4dff-1159-4555-81f2-5902b9fc48f3"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T00:56:44Z"
@@ -4924,6 +4878,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T18:36:50Z"
+      }
+    ]
+  },
+  "awb_0cca48e20830392d8ab8": {
+    "id": "awb_0cca48e20830392d8ab8",
+    "name": "EB IT Radio",
+    "country": "GB",
+    "subdivision": "Lincolnshire",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://eb-it.uk/radio",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T14:57:15Z",
+    "streams": [
+      {
+        "id": "aws_24d460b5e27c4a094d68",
+        "stationId": "awb_0cca48e20830392d8ab8",
+        "name": "EB IT Radio",
+        "country": "GB",
+        "url": "https://s3.citrus3.com:8330/stream",
+        "codec": "aac",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "8c0a46b3-a288-4853-b449-cdd53f432de4"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T15:43:41Z"
       }
     ]
   },
@@ -5726,7 +5715,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -5740,15 +5729,13 @@
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "1e006e64-024e-4c04-96e5-c80559a92e96",
           "IR:mohammed-ayyub"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T13:28:38Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -8767,46 +8754,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T13:24:23Z"
-      }
-    ]
-  },
-  "awb_0c954ce3cbd61edb778d": {
-    "id": "awb_0c954ce3cbd61edb778d",
-    "name": "BBC Radio",
-    "country": "UG",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "current affairs"
-    ],
-    "homepage": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_141505536.jpg?alt=media&token=c04757e5-f941-4048-b5fa-db150f24cbf2",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T01:56:33Z",
-    "streams": [
-      {
-        "id": "aws_e13bcc753c34e76e6aa5",
-        "stationId": "awb_0c954ce3cbd61edb778d",
-        "name": "BBC Radio",
-        "country": "UG",
-        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
-        "codec": "mp3",
-        "bitrate": 56,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "b655615d-5723-441e-9648-72cbc7937669",
-          "d9059129-1426-4994-a2cb-e3da14f8e0c4"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T14:46:13Z"
       }
     ]
   },

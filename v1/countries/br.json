@@ -1,7 +1,7 @@
 {
   "code": "BR",
-  "stationCount": 1460,
-  "streamCount": 1502,
+  "stationCount": 1448,
+  "streamCount": 1490,
   "stations": [
     {
       "id": "awb_bf769f289865e0b6efda",
@@ -83,7 +83,7 @@
             "e60225c7-0326-43ca-97d0-725fa64fd671"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -1091,7 +1091,7 @@
             "BR:89fm-radio-rock"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -2564,6 +2564,48 @@
       ]
     },
     {
+      "id": "awb_d2325bca236dfd819eea",
+      "name": "Alpha FM Floripa 91.3 -",
+      "country": "BR",
+      "subdivision": "Florianópolis SC",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "oldies"
+      ],
+      "tags": [
+        "80s",
+        "90s"
+      ],
+      "homepage": null,
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-24T01:04:01Z",
+      "streams": [
+        {
+          "id": "aws_06287f4daaa3a6250a9f",
+          "stationId": "awb_d2325bca236dfd819eea",
+          "name": "Alpha FM Floripa 91.3 -",
+          "country": "BR",
+          "url": "https://radio01.zas.media/8006/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d21726ed-280f-4396-b39f-88af899f2508"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_0912570692425a2d398f",
       "name": "Alpha MPB",
       "country": "BR",
@@ -3332,7 +3374,7 @@
             "db197ac4-8190-45d7-bb30-47a9bb6e990a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T16:33:09Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -7785,7 +7827,7 @@
             "3612a05b-d6c8-477c-a5e8-a4b8f1f26145"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -13822,7 +13864,7 @@
       "id": "awb_a21216fd9e9d6f2e9273",
       "name": "Jovem pan 95,9 FM",
       "country": "BR",
-      "subdivision": "Pernambuco",
+      "subdivision": "Recife",
       "languages": [],
       "categories": [
         "pop",
@@ -15305,7 +15347,7 @@
             "6d588c12-f491-49db-83ce-8004bfa3310f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -16079,6 +16121,54 @@
       ]
     },
     {
+      "id": "awb_78f922f72e4f712d251b",
+      "name": "MAGIC BOXX RADIO",
+      "country": "BR",
+      "subdivision": null,
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "dance",
+        "deep house",
+        "electronic",
+        "eurodance",
+        "house",
+        "progressive",
+        "tech house"
+      ],
+      "homepage": "https://mboxxradio.com/",
+      "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-29T05:52:08Z",
+      "streams": [
+        {
+          "id": "aws_e46645c7a62d9c49653b",
+          "stationId": "awb_78f922f72e4f712d251b",
+          "name": "MAGIC BOXX RADIO",
+          "country": "BR",
+          "url": "https://radio.mboxxradio.com/listen/magic-boxx-radio/radio.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5a20ac2a-fd85-4495-b88e-024456e43c47",
+            "ba3cbcbf-125e-478d-aadb-c34dd6167112"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_93f71fed57428d6cd095",
       "name": "Maior Amor",
       "country": "BR",
@@ -16617,292 +16707,6 @@
       ]
     },
     {
-      "id": "awb_68990a15ff4431363875",
-      "name": "Maresol web radio",
-      "country": "BR",
-      "subdivision": "Aracajú",
-      "languages": [],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "pop music"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-07-28T22:19:30Z",
-      "streams": [
-        {
-          "id": "aws_8089413a4cd8cdc4330f",
-          "stationId": "awb_68990a15ff4431363875",
-          "name": "Maresol web radio",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "5b366b31-9b4e-4330-bab9-a42020f6fa40"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:42:25Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_c30bd21ce3644a669f43",
-      "name": "maresol web radio - Boa vista",
-      "country": "BR",
-      "subdivision": "Roraima",
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-21T20:20:40Z",
-      "streams": [
-        {
-          "id": "aws_74b9c88048620bd5cb5d",
-          "stationId": "awb_c30bd21ce3644a669f43",
-          "name": "maresol web radio - Boa vista",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "66efda45-9e03-4f7b-bc15-b8c405e25135"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T19:35:52Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_0ee5ec485db783993544",
-      "name": "maresol web radio - Coari",
-      "country": "BR",
-      "subdivision": "Amazonas",
-      "languages": [],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "amazon music.",
-        "pop music"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-20T03:24:26Z",
-      "streams": [
-        {
-          "id": "aws_1e184299f5c6fa42aa44",
-          "stationId": "awb_0ee5ec485db783993544",
-          "name": "maresol web radio - Coari",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "3ab1fd12-57a5-4169-aefd-cd0338d147ee"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T15:27:38Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_c56536fc22406e073ec1",
-      "name": "maresol web radio - cruzeiro do sul",
-      "country": "BR",
-      "subdivision": "Acre",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "categories": [
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "alternative rock",
-        "pop music"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-20T00:11:18Z",
-      "streams": [
-        {
-          "id": "aws_5b0ec2d90871470c4b04",
-          "stationId": "awb_c56536fc22406e073ec1",
-          "name": "maresol web radio - cruzeiro do sul",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "9876a444-d30e-4abe-8845-e0e9fbdee9e3"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T14:47:03Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_71352c992dd40d383943",
-      "name": "maresol web radio - eirunepé",
-      "country": "BR",
-      "subdivision": "Amazonas",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "pop music"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-19T23:45:05Z",
-      "streams": [
-        {
-          "id": "aws_6e9af34db73a09184d6f",
-          "stationId": "awb_71352c992dd40d383943",
-          "name": "maresol web radio - eirunepé",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "2ac16ae1-f0a9-4738-a59e-d5fe4529c8be"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T04:48:05Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9bdfe0aa19d7da22d6ea",
-      "name": "maresol web radio - Feijó",
-      "country": "BR",
-      "subdivision": "Acre",
-      "languages": [
-        "en",
-        "es",
-        "pt"
-      ],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-20T00:24:37Z",
-      "streams": [
-        {
-          "id": "aws_3b87f0136069956fab01",
-          "stationId": "awb_9bdfe0aa19d7da22d6ea",
-          "name": "maresol web radio - Feijó",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "494265b5-4c68-458d-9695-df3c5d5ea567"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T17:08:30Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_4382cfe0ab68bfa1b3e1",
-      "name": "maresol web radio - Macapá",
-      "country": "BR",
-      "subdivision": "Amapá",
-      "languages": [
-        "en",
-        "pt"
-      ],
-      "categories": [
-        "electronic",
-        "jazz",
-        "pop"
-      ],
-      "tags": [
-        "edm",
-        "jazz",
-        "pop"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-08-21T20:13:46Z",
-      "streams": [
-        {
-          "id": "aws_433c3d23f76d07e0da2a",
-          "stationId": "awb_4382cfe0ab68bfa1b3e1",
-          "name": "maresol web radio - Macapá",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "55467b5f-a511-4aac-b634-a992d5332ef3",
-            "9f6c0cc5-5028-4739-8dd4-4942f5230052"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T22:55:34Z"
-        }
-      ]
-    },
-    {
       "id": "awb_2772cc240a3c21505649",
       "name": "maresol web radio - Manaus",
       "country": "BR",
@@ -16946,305 +16750,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T03:27:41Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_7c3e8401ee05229aaad5",
-      "name": "maresol web radio - Manaus",
-      "country": "BR",
-      "subdivision": "Amazonas",
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://manaus.radiomaresol.com.br/",
-      "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-16T18:43:41Z",
-      "streams": [
-        {
-          "id": "aws_bc2e3e9fadb20cc9f0fa",
-          "stationId": "awb_7c3e8401ee05229aaad5",
-          "name": "maresol web radio - Manaus",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0c86ec24-a928-4967-90c6-7cb3fc56b3f2"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T21:56:12Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_5f43aff5759f0fc8b2cf",
-      "name": "maresol web radio - Parintins",
-      "country": "BR",
-      "subdivision": "Amazonas",
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-20T13:01:38Z",
-      "streams": [
-        {
-          "id": "aws_3f6239561d8e53368d3d",
-          "stationId": "awb_5f43aff5759f0fc8b2cf",
-          "name": "maresol web radio - Parintins",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "2d46a1aa-a314-4cb9-bf59-1192d0353f50"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T15:32:46Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_ac0a294bb2d22e63fa6a",
-      "name": "maresol web radio - Porto Velho",
-      "country": "BR",
-      "subdivision": "Porto Velho",
-      "languages": [
-        "en",
-        "es"
-      ],
-      "categories": [
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "mpb",
-        "pop",
-        "rock"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-20T00:36:34Z",
-      "streams": [
-        {
-          "id": "aws_18e2d1c3a1643e263709",
-          "stationId": "awb_ac0a294bb2d22e63fa6a",
-          "name": "maresol web radio - Porto Velho",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "b420828d-d670-48b7-b0e4-8293be3553e6"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T17:21:43Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_0c0a39ce01fb81a2c473",
-      "name": "maresol web radio - rio branco",
-      "country": "BR",
-      "subdivision": "Acre",
-      "languages": [
-        "en",
-        "pt"
-      ],
-      "categories": [
-        "blues",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "electric blues",
-        "pop rock"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-19T23:59:02Z",
-      "streams": [
-        {
-          "id": "aws_b41592c881044700ad78",
-          "stationId": "awb_0c0a39ce01fb81a2c473",
-          "name": "maresol web radio - rio branco",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "cf11dc3f-547c-4728-ac5b-5cd0e0346d39"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T01:41:15Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_92929e36946690055550",
-      "name": "maresol web radio - Santarém",
-      "country": "BR",
-      "subdivision": "Pará",
-      "languages": [
-        "en",
-        "pt"
-      ],
-      "categories": [
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "pagode",
-        "pop music",
-        "rock"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-20T03:12:41Z",
-      "streams": [
-        {
-          "id": "aws_5b424d9620e291c2e9e8",
-          "stationId": "awb_92929e36946690055550",
-          "name": "maresol web radio - Santarém",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "8459fa0d-8d97-4a2e-a031-2b8575a6ded8"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T12:42:10Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_cb3e284d6ed30a2ec575",
-      "name": "maresol web radio - Tefé",
-      "country": "BR",
-      "subdivision": "Amazonas",
-      "languages": [
-        "en",
-        "pt"
-      ],
-      "categories": [
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "amazon music",
-        "pop music",
-        "rock"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-08-20T03:18:45Z",
-      "streams": [
-        {
-          "id": "aws_1c2d6526fc13ccc83da1",
-          "stationId": "awb_cb3e284d6ed30a2ec575",
-          "name": "maresol web radio - Tefé",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "d44bc274-477a-40f8-95a8-41eecc47cf5c"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T23:42:40Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_d086c17919d8cecb9234",
-      "name": "maresolwebradio",
-      "country": "BR",
-      "subdivision": "AM",
-      "languages": [
-        "en"
-      ],
-      "categories": [
-        "jazz",
-        "pop"
-      ],
-      "tags": [
-        "forro",
-        "jazz",
-        "mpb",
-        "pagode",
-        "pop",
-        "pop music",
-        "samba"
-      ],
-      "homepage": "https://www.radiomaresol.com.br/",
-      "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png",
-      "type": null,
-      "sourceCount": 3,
-      "updatedAt": "2026-04-05T04:56:57Z",
-      "streams": [
-        {
-          "id": "aws_e3772e2f856ecdca17d7",
-          "stationId": "awb_d086c17919d8cecb9234",
-          "name": "maresolwebradio",
-          "country": "BR",
-          "url": "https://stream.zeno.fm/pxbrdor4opmvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "85f353b9-864f-4226-82e9-b178d5c493ca",
-            "946f5071-1993-47bc-9ef5-b24d84ad292e"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T20:55:47Z"
         }
       ]
     },
@@ -17977,7 +17482,7 @@
       "id": "awb_ae4fefbf450bfef15049",
       "name": "Metal Zone Radio",
       "country": "BR",
-      "subdivision": "São Paulo",
+      "subdivision": "Sao Paulo (Brazil)",
       "languages": [],
       "categories": [
         "metal"
@@ -17994,7 +17499,7 @@
         "symphonic metal",
         "trash metal"
       ],
-      "homepage": "http://www.metalzone.radio.br/",
+      "homepage": "https://metalzone.radio.br/",
       "favicon": "https://metalzone.radio.br/assets/img/favicon-512.png",
       "type": null,
       "sourceCount": 2,
@@ -19765,7 +19270,7 @@
             "f3b55cd5-a792-49ae-bb29-25e995230f69"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -21832,7 +21337,7 @@
             "b25f1a3c-af8a-4cf9-8610-2b5e522adf97"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -29099,7 +28604,7 @@
             "26ae7032-1659-4cea-ae09-0a30606a276e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -29289,7 +28794,7 @@
       "id": "awb_2b7b7954faeaf86005a4",
       "name": "Rádio Cambirela - Virtual,mas real.",
       "country": "BR",
-      "subdivision": "Santa Catarina,SC",
+      "subdivision": "Santa Catarina, SC",
       "languages": [],
       "categories": [
         "country",
@@ -36905,7 +36410,7 @@
             "97a993f8-1d31-4c9d-ace5-9a7ccd2c01f5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -43944,7 +43449,7 @@
       "id": "awb_a76eeb567f319bbe44bd",
       "name": "Rádio Play Mix FM",
       "country": "BR",
-      "subdivision": "AC",
+      "subdivision": "Acre",
       "languages": [
         "en",
         "pt"
@@ -43953,8 +43458,8 @@
       "tags": [
         "eclética"
       ],
-      "homepage": "https://www.playmixfm.com.br/",
-      "favicon": "https://i.postimg.cc/TwZKqbtt/Logo-play-mix-oficial.png",
+      "homepage": "https://playmixfm.com.br/",
+      "favicon": "https://i.postimg.cc/d3x5xqy2/PLAY-MIX-FM-fundo-transparente.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-02-19T18:53:16Z",
@@ -57885,7 +57390,7 @@
             "cdaa0235-dd3e-475b-9e9c-c7c9b13b312b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },

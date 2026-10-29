@@ -4885,7 +4885,7 @@
           "04b5608b-417d-4ba5-9ffd-cad6c1676d8b"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T15:41:19Z"
+        "lastCheckedAt": "2026-10-28T15:43:41Z"
       },
       {
         "id": "aws_3f6ba22739016fc689b7",
@@ -5225,7 +5225,7 @@
           "MC:radio-monte-carlo-italia"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T08:35:54Z"
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },
@@ -6375,40 +6375,18 @@
       "es"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "93.3 fm",
-      "entretenimiento",
-      "español",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música en español e inglés",
-      "música pop",
-      "ponte exa",
       "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
       "pop-music",
-      "pop-rock",
-      "radio"
+      "pop-rock"
     ],
     "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://www.exafm.com/favicon.ico",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -6417,20 +6395,18 @@
         "name": "Exa FM",
         "country": "PA",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "codec": "aac+",
+        "codec": "aac",
         "bitrate": 48,
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "PA:exa-fm",
-          "b7b47392-a7f9-41db-a71c-0da58c81e6b7"
+          "PA:exa-fm"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T00:23:41Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },

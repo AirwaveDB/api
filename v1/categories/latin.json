@@ -1,6 +1,6 @@
 {
   "id": "latin",
-  "stationCount": 1267,
+  "stationCount": 1268,
   "stations": [
     {
       "id": "awb_146dd6bb9daa0a9c315b",
@@ -19487,8 +19487,8 @@
           "name": "KV 94.7 FM",
           "country": "DO",
           "url": "https://stream.zeno.fm/po2kawctwputv",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -19498,7 +19498,7 @@
             "13c51c89-3825-48c0-b63c-32c930ed4108"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -19951,6 +19951,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T22:17:12Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_e74a16df8b845f7c5693",
+      "name": "Reggaeton 92.3 FM",
+      "country": "DO",
+      "subdivision": "Santiago (Dominican Republic)",
+      "languages": [],
+      "categories": [
+        "latin"
+      ],
+      "tags": [
+        "soft reggaeton"
+      ],
+      "homepage": "https://streampanel.online/radio/reggaeton927fm",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T16:49:57Z",
+      "streams": [
+        {
+          "id": "aws_25d3174416fe601c5f37",
+          "stationId": "awb_e74a16df8b845f7c5693",
+          "name": "Reggaeton 92.3 FM",
+          "country": "DO",
+          "url": "https://streampanel.online/8495/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "acae4b4b-68b0-4d6c-9f92-c5f8f8ff4ac9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -21568,6 +21607,45 @@
       ]
     },
     {
+      "id": "awb_4b8eca2dd7f76121959e",
+      "name": "Radio Los Lagos",
+      "country": "EC",
+      "subdivision": "Imbabura",
+      "languages": [],
+      "categories": [
+        "latin"
+      ],
+      "tags": [
+        "cumbia ecuatoriana"
+      ],
+      "homepage": "https://radioloslagos.ec/",
+      "favicon": "https://radioloslagos.ec/wp-content/uploads/2025/05/Radio-Los-Lagos-1080-x-1080-px-1024x1024.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T23:06:43Z",
+      "streams": [
+        {
+          "id": "aws_c889e12b09e63e662324",
+          "stationId": "awb_4b8eca2dd7f76121959e",
+          "name": "Radio Los Lagos",
+          "country": "EC",
+          "url": "https://as100.globalhost1.com/8172/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bb676376-3e06-426e-86f0-960a33a7adf7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
+        }
+      ]
+    },
+    {
       "id": "awb_cff3e29db260d67bbb79",
       "name": "radio nahya",
       "country": "EC",
@@ -21609,7 +21687,7 @@
             "25ef4e72-ffee-48be-b4c8-225d73d90d37"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T01:12:32Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -22999,7 +23077,7 @@
             "7ec365b0-7b3c-11ea-8a3b-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -26932,7 +27010,7 @@
             "9b9f71ff-3a0d-475f-8017-91ef84f233b3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -27785,87 +27863,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T20:44:40Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_bd9fec60c7ba50380b9f",
-      "name": "EXA FM: Música Pop en Español e Inglés",
-      "country": "HN",
-      "subdivision": "Veracruz, México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "latin",
-        "news",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "93.3 fm",
-        "boca del río",
-        "entretenimiento",
-        "español",
-        "estación",
-        "exa",
-        "exa fm",
-        "fm",
-        "juvenil",
-        "la estación exacta",
-        "la estación naranja",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "mvs",
-        "mvs noticias",
-        "mvs radio",
-        "méxico",
-        "música",
-        "música en español e inglés",
-        "música pop",
-        "música variada",
-        "música y noticias",
-        "norteamérica",
-        "ponte exa",
-        "pop",
-        "pop en español",
-        "pop en español e inglés",
-        "pop latino",
-        "pop music",
-        "pop rock",
-        "pop-music",
-        "pop-rock",
-        "radio",
-        "veracruz",
-        "veracruz city"
-      ],
-      "homepage": "https://exafm.com/",
-      "favicon": "https://exafm.com/favicon.ico",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-08-23",
-      "streams": [
-        {
-          "id": "aws_ad282eca962e1bdec5cc",
-          "stationId": "awb_bd9fec60c7ba50380b9f",
-          "name": "EXA FM: Música Pop en Español e Inglés",
-          "country": "HN",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser",
-            "verified-radio-streams"
-          ],
-          "sourceIds": [
-            "HN:exa-fm-musica-pop-en-espanol-e-ingles",
-            "e85b3f98-9cdb-4ac1-a012-6a2e384d1901"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T12:48:39Z"
         }
       ]
     },
@@ -29077,7 +29074,7 @@
       "id": "awb_57810bebbaaee6f27f9b",
       "name": "NRG Radio345",
       "country": "KY",
-      "subdivision": "Grand Cayman",
+      "subdivision": "grand cayman island",
       "languages": [
         "en",
         "es"
@@ -30018,87 +30015,6 @@
       ]
     },
     {
-      "id": "awb_6d85351c6324e7bda29d",
-      "name": "+Arroba FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "latin",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "@fm",
-        "@fm te conecta",
-        "américa",
-        "arroba fm",
-        "arroba fm te conecta",
-        "contemporary hits",
-        "contemporary hits radio",
-        "entretenimiento",
-        "español",
-        "estación",
-        "fm",
-        "juvenil",
-        "latin pop",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "méxico",
-        "música",
-        "música en español e inglés",
-        "música pop",
-        "norteamérica",
-        "pop",
-        "pop en español e inglés",
-        "pop music",
-        "pop rock",
-        "radio",
-        "radio resultados",
-        "radiorama",
-        "radiorama valle de méxico",
-        "spanish contemporary hits",
-        "te conecta",
-        "top",
-        "top 100",
-        "top 40",
-        "top 40 hits",
-        "top charts",
-        "top hits",
-        "youth"
-      ],
-      "homepage": "https://arroba.fm/",
-      "favicon": "https://i.postimg.cc/762SjQWk/arrobafm.webp",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-05-23T09:05:13Z",
-      "streams": [
-        {
-          "id": "aws_bf7670f68639af68f602",
-          "stationId": "awb_6d85351c6324e7bda29d",
-          "name": "ARROBA FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
-          "country": "MX",
-          "url": "https://stream.zeno.fm/6vtcayf9d78uv",
-          "codec": "mp3",
-          "bitrate": 64,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "7fa7ed69-98c5-4ce0-a77b-c5e71903c731",
-            "cb1d0881-6072-46fc-a4ab-82720706bc26"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T22:11:42Z"
-        }
-      ]
-    },
-    {
       "id": "awb_da98882e1fea6d20c6f0",
       "name": "+Azteka Radio (Río Verde) - Online - www.aztekaradio.com - Río Verde, San Luis Potosí",
       "country": "MX",
@@ -30375,6 +30291,82 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T20:38:55Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9990a32fe61b0c99f027",
+      "name": "+Radio Bemba (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
+      "country": "MX",
+      "subdivision": "Veracruz, Veracruz",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "news",
+        "oldies"
+      ],
+      "tags": [
+        "américa",
+        "boca del río",
+        "classic salsa",
+        "domingo lucas",
+        "entretenimiento",
+        "español",
+        "estación",
+        "latin salsa",
+        "latinoamérica",
+        "local",
+        "local music",
+        "local radio",
+        "moi merino",
+        "music",
+        "méxico",
+        "música tropical",
+        "norteamérica",
+        "noticias locales",
+        "online",
+        "online only",
+        "radio",
+        "radio bemba",
+        "radio local",
+        "radio online",
+        "salsa",
+        "salsa 80s 90s",
+        "salsa colombiana",
+        "sureste",
+        "tropical",
+        "tropical music",
+        "veracruz",
+        "veracruz city",
+        "youth programs"
+      ],
+      "homepage": "https://www.radiobembaveracruz.com/",
+      "favicon": "https://cdn-profiles.tunein.com/s251775/images/logod.jpg",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-17T17:08:40Z",
+      "streams": [
+        {
+          "id": "aws_557dabddaf559a8f51e6",
+          "stationId": "awb_9990a32fe61b0c99f027",
+          "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
+          "country": "MX",
+          "url": "https://radio.e-ver.com.mx:8001/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0efd923f-8eac-405e-a652-2b227d113b18",
+            "9ba295c0-15e0-4d2e-82b3-8d464e523e63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T19:36:37Z"
         }
       ]
     },
@@ -37275,6 +37267,87 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T18:56:50Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6d85351c6324e7bda29d",
+      "name": "ARROBA FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
+      "country": "MX",
+      "subdivision": "Ciudad de México",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "@fm",
+        "@fm te conecta",
+        "américa",
+        "arroba fm",
+        "arroba fm te conecta",
+        "contemporary hits",
+        "contemporary hits radio",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "juvenil",
+        "latin pop",
+        "latinoamérica",
+        "moi merino",
+        "music",
+        "méxico",
+        "música",
+        "música en español e inglés",
+        "música pop",
+        "norteamérica",
+        "pop",
+        "pop en español e inglés",
+        "pop music",
+        "pop rock",
+        "radio",
+        "radio resultados",
+        "radiorama",
+        "radiorama valle de méxico",
+        "spanish contemporary hits",
+        "te conecta",
+        "top",
+        "top 100",
+        "top 40",
+        "top 40 hits",
+        "top charts",
+        "top hits",
+        "youth"
+      ],
+      "homepage": "https://arroba.fm/CDMX",
+      "favicon": "https://thumbnail.anii.io/mx/radio-arroba-fm-stream-ciudad-de-mexico-mexico.webp",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-05-23T09:05:13Z",
+      "streams": [
+        {
+          "id": "aws_bf7670f68639af68f602",
+          "stationId": "awb_6d85351c6324e7bda29d",
+          "name": "ARROBA FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México",
+          "country": "MX",
+          "url": "https://stream.zeno.fm/6vtcayf9d78uv",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7fa7ed69-98c5-4ce0-a77b-c5e71903c731",
+            "cb1d0881-6072-46fc-a4ab-82720706bc26"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T22:11:42Z"
         }
       ]
     },
@@ -44696,87 +44769,6 @@
       ]
     },
     {
-      "id": "awb_de7105504c29cd8874a4",
-      "name": "EXA FM: En Todas Partes Ponte Exa",
-      "country": "MX",
-      "subdivision": null,
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "latin",
-        "news",
-        "pop",
-        "rock"
-      ],
-      "tags": [
-        "93.3 fm",
-        "boca del río",
-        "entretenimiento",
-        "español",
-        "estación",
-        "exa",
-        "exa fm",
-        "fm",
-        "juvenil",
-        "la estación exacta",
-        "la estación naranja",
-        "latinoamérica",
-        "moi merino",
-        "music",
-        "mvs",
-        "mvs noticias",
-        "mvs radio",
-        "méxico",
-        "música",
-        "música en español e inglés",
-        "música pop",
-        "música variada",
-        "música y noticias",
-        "norteamérica",
-        "ponte exa",
-        "pop",
-        "pop en español",
-        "pop en español e inglés",
-        "pop latino",
-        "pop music",
-        "pop rock",
-        "pop-music",
-        "pop-rock",
-        "radio",
-        "veracruz",
-        "veracruz city"
-      ],
-      "homepage": "https://www.exafm.com/",
-      "favicon": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/exa.jpg",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-08-24",
-      "streams": [
-        {
-          "id": "aws_f6026ce8e08076ac444b",
-          "stationId": "awb_de7105504c29cd8874a4",
-          "name": "EXA FM: En Todas Partes Ponte Exa",
-          "country": "MX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser",
-            "verified-radio-streams"
-          ],
-          "sourceIds": [
-            "5a87b600-7771-4bcc-a370-e349fd212baa",
-            "MX:exa-fm-en-todas-partes-ponte-exa"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T12:29:48Z"
-        }
-      ]
-    },
-    {
       "id": "awb_0961508fa0ffae7498b6",
       "name": "EXTREMO FM 97.3 (Villahermosa) - 97.3 FM - XHVB-FM - Radio Núcleo - Villahermosa, Tabasco",
       "country": "MX",
@@ -50025,7 +50017,7 @@
             "8c08f796-d956-418a-8e5d-909d3f4faa90"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T19:41:29Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -52231,6 +52223,89 @@
       ]
     },
     {
+      "id": "awb_36463f2547170a75c694",
+      "name": "LOVE: All you need is love",
+      "country": "MX",
+      "subdivision": "Veracruz, Veracruz",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "news",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "103.7 fm",
+        "alvarado",
+        "américa",
+        "balada",
+        "balada en español",
+        "balada pop",
+        "balada romántica",
+        "baladas",
+        "baladas en español",
+        "boca del río",
+        "clásicos",
+        "clásicos en español",
+        "entretenimiento",
+        "español",
+        "estación",
+        "fm",
+        "grupo radiosa",
+        "latin pop",
+        "latinoamérica",
+        "medellín",
+        "moi merino",
+        "music",
+        "méxico",
+        "música",
+        "música en español",
+        "música pop",
+        "música romántica",
+        "música y noticias",
+        "norteamérica",
+        "noticias locales",
+        "noticias y música",
+        "pop",
+        "pop en español",
+        "pop latino",
+        "pop music",
+        "pop rock",
+        "radio",
+        "radio local",
+        "radio sa",
+        "spanish adult contemporary"
+      ],
+      "homepage": "https://maxplay.com.mx/landing",
+      "favicon": "https://cdn-profiles.tunein.com/s91984/images/logod.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T01:34:41Z",
+      "streams": [
+        {
+          "id": "aws_601d02f25424895a95fd",
+          "stationId": "awb_36463f2547170a75c694",
+          "name": "LOVE: All you need is love",
+          "country": "MX",
+          "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+          "codec": "aac",
+          "bitrate": 98,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "1512e168-79d7-4464-a6ba-8f2758ce6346"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
+        }
+      ]
+    },
+    {
       "id": "awb_3206289cfddca6edf055",
       "name": "Lupe (Zacatecas) - 93.3 FM - XHEXZ-FM - Grupo Radiofónico ZER - Guadalupe, ZA",
       "country": "MX",
@@ -52328,8 +52403,8 @@
           "name": "Manzana Radio 100.7 FM",
           "country": "MX",
           "url": "https://stream.livesummer.com.mx/listen/manzana_radio_100.7/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -52339,7 +52414,7 @@
             "f1a898cd-5300-4d3c-addb-ce8471f0b7d8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -54139,82 +54214,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-28T01:47:59Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9990a32fe61b0c99f027",
-      "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
-      "country": "MX",
-      "subdivision": "Veracruz, Veracruz",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "latin",
-        "news",
-        "oldies"
-      ],
-      "tags": [
-        "américa",
-        "boca del río",
-        "classic salsa",
-        "domingo lucas",
-        "entretenimiento",
-        "español",
-        "estación",
-        "latin salsa",
-        "latinoamérica",
-        "local",
-        "local music",
-        "local radio",
-        "moi merino",
-        "music",
-        "méxico",
-        "música tropical",
-        "norteamérica",
-        "noticias locales",
-        "online",
-        "online only",
-        "radio",
-        "radio bemba",
-        "radio local",
-        "radio online",
-        "salsa",
-        "salsa 80s 90s",
-        "salsa colombiana",
-        "sureste",
-        "tropical",
-        "tropical music",
-        "veracruz",
-        "veracruz city",
-        "youth programs"
-      ],
-      "homepage": "https://www.radiobembaveracruz.com/",
-      "favicon": "https://i.postimg.cc/qM3fT6P7/radiobemba.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-17T17:08:40Z",
-      "streams": [
-        {
-          "id": "aws_557dabddaf559a8f51e6",
-          "stationId": "awb_9990a32fe61b0c99f027",
-          "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
-          "country": "MX",
-          "url": "https://radio.e-ver.com.mx:8001/live",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0efd923f-8eac-405e-a652-2b227d113b18",
-            "9ba295c0-15e0-4d2e-82b3-8d464e523e63"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T19:36:37Z"
         }
       ]
     },
@@ -59687,7 +59686,7 @@
             "8df85a7e-75fb-4698-85f4-2e9ea13d1424"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -61287,7 +61286,7 @@
         "smooth jazz"
       ],
       "homepage": "https://latremenda.pe/",
-      "favicon": "https://renewed-amaranth-wsrjzdvewp.edgeone.app/logo_latremenda.jpg",
+      "favicon": "https://imgur.com/a/vahyGFo",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-08-24",
@@ -67437,8 +67436,8 @@
           "name": "Tropicalísima.fm - Bachata",
           "country": "US",
           "url": "https://stream.zeno.fm/77w1swbrzxrvv",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -67448,7 +67447,7 @@
             "b2f2151b-8963-416f-a250-9e28b647d838"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },

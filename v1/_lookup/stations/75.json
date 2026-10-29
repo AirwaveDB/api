@@ -5583,6 +5583,41 @@
       }
     ]
   },
+  "awb_756de93c474e2473cf67": {
+    "id": "awb_756de93c474e2473cf67",
+    "name": "Vaigai FM",
+    "country": "IN",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://vaigaifm.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T05:28:43Z",
+    "streams": [
+      {
+        "id": "aws_a06a0686254090926751",
+        "stationId": "awb_756de93c474e2473cf67",
+        "name": "Vaigai FM",
+        "country": "IN",
+        "url": "https://centova1.dribbcast.com/proxy/vaigaifm/stream",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b785e08f-e01a-4603-ad22-04616839a4c1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_756c2cac962a3c74c9ab": {
     "id": "awb_756c2cac962a3c74c9ab",
     "name": "Xpression Fm bollywood",
@@ -7249,47 +7284,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T00:26:30Z"
-      }
-    ]
-  },
-  "awb_75d3a2683a20bd31b229": {
-    "id": "awb_75d3a2683a20bd31b229",
-    "name": "K5 News FM 101.9 Manila",
-    "country": "PH",
-    "subdivision": "Manila",
-    "languages": [],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "https://www.abs-cbn.com/patrolph",
-    "favicon": "https://play-lh.googleusercontent.com/8ZQioBOxi3WV-pIPi0gi-2_L-Gaut2sh4dr1JCnpJlAFvwYMSCVA4sdbxQEnRUmaEo3R",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z",
-    "streams": [
-      {
-        "id": "aws_9c9c3f0486ca95f8cea2",
-        "stationId": "awb_75d3a2683a20bd31b229",
-        "name": "K5 News FM 101.9 Manila",
-        "country": "PH",
-        "url": "http://209.126.124.126:8852/stream",
-        "codec": "aac+",
-        "bitrate": 64,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "3393119f-ad71-429c-9853-643152231551"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T20:55:47Z"
       }
     ]
   },

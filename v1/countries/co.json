@@ -1,7 +1,7 @@
 {
   "code": "CO",
-  "stationCount": 699,
-  "streamCount": 718,
+  "stationCount": 701,
+  "streamCount": 720,
   "stations": [
     {
       "id": "awb_03c6978cc1b15fb50f86",
@@ -9042,6 +9042,41 @@
       ]
     },
     {
+      "id": "awb_076d4a39cd2c3fa19afd",
+      "name": "El Túnel Rock",
+      "country": "CO",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://eltunel.co/staff/",
+      "favicon": "https://cdn-profiles.tunein.com/s269409/images/logog.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T03:09:38Z",
+      "streams": [
+        {
+          "id": "aws_0629096036fbc1cffc70",
+          "stationId": "awb_076d4a39cd2c3fa19afd",
+          "name": "El Túnel Rock",
+          "country": "CO",
+          "url": "https://play10.tikast.com/8014/stream",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0916acd0-afa7-4ff0-9dc9-743036ed252d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2b26c30574621b7b3dee",
       "name": "elbaulsalsero",
       "country": "CO",
@@ -9994,40 +10029,18 @@
         "es"
       ],
       "categories": [
-        "news",
         "pop",
         "rock"
       ],
       "tags": [
-        "93.3 fm",
-        "entretenimiento",
-        "español",
-        "estación",
-        "exa",
-        "exa fm",
-        "fm",
-        "juvenil",
-        "la estación exacta",
-        "la estación naranja",
-        "moi merino",
-        "mvs",
-        "mvs noticias",
-        "mvs radio",
-        "música en español e inglés",
-        "música pop",
-        "ponte exa",
         "pop",
-        "pop en español e inglés",
-        "pop music",
-        "pop rock",
         "pop-music",
-        "pop-rock",
-        "radio"
+        "pop-rock"
       ],
       "homepage": "https://www.exafm.com/veracruz/",
-      "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+      "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -10036,20 +10049,18 @@
           "name": "Exa FM",
           "country": "CO",
           "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-          "codec": "aac+",
+          "codec": "aac",
           "bitrate": 48,
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "CO:exa-fm",
-            "e2eb2320-3f9b-4b72-8324-c5165fbda276"
+            "CO:exa-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T04:31:24Z"
+          "lastCheckedAt": "2026-08-24"
         }
       ]
     },
@@ -10654,7 +10665,7 @@
             "51954509-32c1-42ff-9ec5-ffb492783552"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -12401,7 +12412,7 @@
             "acf5ec8a-5d50-4a77-8cbc-d29b726dad21"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -15219,6 +15230,47 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T23:09:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9825ff79f39b191df1bc",
+      "name": "la voz de Cali 900 am",
+      "country": "CO",
+      "subdivision": "cali",
+      "languages": [],
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "baladas",
+        "noticias",
+        "romántica"
+      ],
+      "homepage": "https://www.todelarcali.com/en-vivo",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T20:22:19Z",
+      "streams": [
+        {
+          "id": "aws_0b1ef03f98d399931492",
+          "stationId": "awb_9825ff79f39b191df1bc",
+          "name": "la voz de Cali 900 am",
+          "country": "CO",
+          "url": "https://tupanel.info/stream/2digitalradioHDsslLIVE046",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "90003e4b-cfd5-45dc-a892-47a25db03cfe"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },

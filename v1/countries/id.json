@@ -1,7 +1,7 @@
 {
   "code": "ID",
-  "stationCount": 550,
-  "streamCount": 575,
+  "stationCount": 549,
+  "streamCount": 574,
   "stations": [
     {
       "id": "awb_1d64e4d80f4c343648e6",
@@ -2245,7 +2245,7 @@
             "2f43bec2-3043-45f1-a1aa-bee21aa21304"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -6012,7 +6012,7 @@
             "4fbee4a8-f8e6-4b34-98ed-21bde0af1b0d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T08:35:54Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -7907,7 +7907,7 @@
             "c852e532-a34d-4086-b3f0-48ac0b64f1d5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T08:35:54Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -9904,7 +9904,7 @@
             "ID:mettaswara-softrock"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -11205,7 +11205,7 @@
             "165d3760-6dc2-466d-8fc3-f2aab177e67f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -20439,47 +20439,6 @@
       ]
     },
     {
-      "id": "awb_d5b2cc05ad0ec815a57b",
-      "name": "talkSPORT",
-      "country": "ID",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "sports",
-        "talk"
-      ],
-      "tags": [
-        "sport",
-        "talk"
-      ],
-      "homepage": "https://radiostream.novawap.com/",
-      "favicon": "https://static.mytuner.mobi/media/tvos_radios/22yeCk65a6.jpg",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-07-03T19:08:18Z",
-      "streams": [
-        {
-          "id": "aws_0cdfd3c4474f59db65db",
-          "stationId": "awb_d5b2cc05ad0ec815a57b",
-          "name": "talkSPORT",
-          "country": "ID",
-          "url": "https://radio.talksport.com/stream",
-          "codec": "aac",
-          "bitrate": 64,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "fc673753-937f-4810-b5de-fae52ae8db46"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T23:27:54Z"
-        }
-      ]
-    },
-    {
       "id": "awb_883c72aac26fefb81333",
       "name": "Tarakan FM",
       "country": "ID",
@@ -20949,6 +20908,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T02:37:06Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_42ef0197b318d6032f06",
+      "name": "TJANDRA FM CIANJUR",
+      "country": "ID",
+      "subdivision": "Jawa Barat",
+      "languages": [
+        "en",
+        "id"
+      ],
+      "categories": [],
+      "tags": [
+        "dangdut"
+      ],
+      "homepage": "https://www.tjandrafm.com/",
+      "favicon": "https://i.imgur.com/NwN4rnC.jpeg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T02:57:15Z",
+      "streams": [
+        {
+          "id": "aws_41cafd70fe173ce0208b",
+          "stationId": "awb_42ef0197b318d6032f06",
+          "name": "TJANDRA FM CIANJUR",
+          "country": "ID",
+          "url": "https://live.tjandrafm.com/listen/tjandrafm/stream",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "86018131-b6a1-4883-b101-d367357e5342"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -22166,45 +22165,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T07:09:27Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_0050a07bece947ea9395",
-      "name": "اذاعة القرآن الكريم",
-      "country": "ID",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "classical"
-      ],
-      "tags": [
-        "classical"
-      ],
-      "homepage": null,
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:03Z",
-      "streams": [
-        {
-          "id": "aws_1c7dc0571ffa12ee1a21",
-          "stationId": "awb_0050a07bece947ea9395",
-          "name": "اذاعة القرآن الكريم",
-          "country": "ID",
-          "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-          "codec": "mp3",
-          "bitrate": 0,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1b55de16-bf05-449a-a163-bd0f8a018d3d"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T05:43:14Z"
         }
       ]
     }

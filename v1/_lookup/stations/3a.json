@@ -520,47 +520,6 @@
       }
     ]
   },
-  "awb_3a9a4b2af4dd4244d037": {
-    "id": "awb_3a9a4b2af4dd4244d037",
-    "name": "Rebel FM - Cooktown - 93.7 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "rock"
-    ],
-    "tags": [
-      "rock"
-    ],
-    "homepage": "https://rebelfm.com.au/cooktown/",
-    "favicon": "https://i.ibb.co/C5ZhqjqM/Rebel-93-7-Rocks-Cooktown-1.webp",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:34:47Z",
-    "streams": [
-      {
-        "id": "aws_f3f1a6fd65dd5bd336db",
-        "stationId": "awb_3a9a4b2af4dd4244d037",
-        "name": "Rebel FM - Cooktown - 93.7 FM (AAC)",
-        "country": "AU",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "codec": "aac",
-        "bitrate": 64,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "8abd6509-2d36-4ba3-bc04-3d3c8ffdec77"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T15:03:34Z"
-      }
-    ]
-  },
   "awb_3a06e74fa42972773657": {
     "id": "awb_3a06e74fa42972773657",
     "name": "Smooth FM 95.3",
@@ -2929,7 +2888,7 @@
     "id": "awb_3affbb98dab24e7b2119",
     "name": "GRX BIT RADIO on line",
     "country": "ES",
-    "subdivision": "Alhama - Granada- Andalucía",
+    "subdivision": "granada",
     "languages": [],
     "categories": [
       "pop"
@@ -3006,7 +2965,7 @@
           "ES:locafm-90-s"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T08:35:54Z"
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },
@@ -5393,40 +5352,18 @@
       "es"
     ],
     "categories": [
-      "news",
       "pop",
       "rock"
     ],
     "tags": [
-      "93.3 fm",
-      "entretenimiento",
-      "español",
-      "estación",
-      "exa",
-      "exa fm",
-      "fm",
-      "juvenil",
-      "la estación exacta",
-      "la estación naranja",
-      "moi merino",
-      "mvs",
-      "mvs noticias",
-      "mvs radio",
-      "música en español e inglés",
-      "música pop",
-      "ponte exa",
       "pop",
-      "pop en español e inglés",
-      "pop music",
-      "pop rock",
       "pop-music",
-      "pop-rock",
-      "radio"
+      "pop-rock"
     ],
     "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -5435,20 +5372,18 @@
         "name": "Exa FM",
         "country": "NI",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "codec": "aac+",
+        "codec": "aac",
         "bitrate": 48,
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "NI:exa-fm",
-          "accb9deb-c017-431d-b829-6ccd065975ef"
+          "NI:exa-fm"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T22:58:38Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -6480,7 +6415,7 @@
     "homepage": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
     "favicon": null,
     "type": null,
-    "sourceCount": 10,
+    "sourceCount": 1,
     "updatedAt": "2026-01-15T06:19:57Z",
     "streams": [
       {
@@ -6490,18 +6425,17 @@
         "country": "RU",
         "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
         "codec": "aac,h.264",
-        "bitrate": 2620,
+        "bitrate": 2590,
         "protocol": "http",
         "hls": true,
         "sources": [
           "radio-browser"
         ],
         "sourceIds": [
-          "184549bc-ffd5-432f-b7ac-8006320d3ebe",
-          "635aac78-bb2f-4f6e-ab84-223bda1b9125"
+          "45be4e23-06ba-46c5-8376-460f12b8980a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T00:20:58Z"
+        "lastCheckedAt": "2026-10-27T08:33:17Z"
       }
     ]
   },
@@ -8093,7 +8027,7 @@
           "7ac58340-89c1-4728-b3dc-f48d7ce3b388"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T03:40:31Z"
       }
     ]
   },

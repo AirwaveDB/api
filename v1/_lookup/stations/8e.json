@@ -2918,9 +2918,9 @@
     "categories": [],
     "tags": [],
     "homepage": "https://www.exafm.com/veracruz/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+    "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -2929,20 +2929,18 @@
         "name": "EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية",
         "country": "DZ",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "codec": "aac+",
+        "codec": "aac",
         "bitrate": 48,
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "934e3f5a-2aad-408e-989c-ff32ea3851b3",
           "DZ:exa-fm"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T03:50:12Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -9322,6 +9320,53 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-25T23:13:21Z"
+      }
+    ]
+  },
+  "awb_8ef27093d712b772334c": {
+    "id": "awb_8ef27093d712b772334c",
+    "name": "z103.com -- Over 7 decades of Great Music!",
+    "country": "US",
+    "subdivision": "Indiana",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community"
+    ],
+    "tags": [
+      "blind",
+      "blind radio",
+      "community radio",
+      "community radio station",
+      "misc",
+      "miscellaneous",
+      "variety"
+    ],
+    "homepage": "https://z103.com/",
+    "favicon": null,
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T16:05:05Z",
+    "streams": [
+      {
+        "id": "aws_59d51f5dca9deb0ccf82",
+        "stationId": "awb_8ef27093d712b772334c",
+        "name": "z103.com -- Over 7 decades of Great Music!",
+        "country": "US",
+        "url": "https://stream.zeno.fm/tjpxkkpbvnetv",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1436a9bc-1119-4b2e-8083-76cda532cf14"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },

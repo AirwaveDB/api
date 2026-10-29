@@ -2800,20 +2800,23 @@
     "id": "awb_8273334c7a91505cea48",
     "name": "Nostalgie Génération 90",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Paris",
     "languages": [
       "fr"
     ],
-    "categories": [],
+    "categories": [
+      "pop"
+    ],
     "tags": [
       "nostalgie",
+      "pop dance",
       "webradio"
     ],
-    "homepage": "https://www.nostalgie.fr/",
-    "favicon": null,
+    "homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-generation-90",
+    "favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/nosta90.jpeg",
     "type": "internet",
-    "sourceCount": 2,
-    "updatedAt": "2026-09-18T18:53:20Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-28T16:34:43Z",
     "streams": [
       {
         "id": "aws_b36a0c5cb537a120d30c",
@@ -2834,6 +2837,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T17:19:19Z"
+      },
+      {
+        "id": "aws_732613395ca2114aa467",
+        "stationId": "awb_8273334c7a91505cea48",
+        "name": "Nostalgie Génération 90",
+        "country": "FR",
+        "url": "https://streaming.nrjaudio.fm/oumokb8fnozc?origine=fluxradios&aw_0_1st.station=Nostalgie-Generation-90",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5e715eb8-9657-4aa8-adb3-dff152c9858a"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },
@@ -7658,54 +7680,6 @@
       }
     ]
   },
-  "awb_827acc1c0e5d29a23c43": {
-    "id": "awb_827acc1c0e5d29a23c43",
-    "name": "EXA FM: POP MUSIC in Spanish and English",
-    "country": "US",
-    "subdivision": null,
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "news",
-      "pop"
-    ],
-    "tags": [
-      "contemporary hits",
-      "entertainment",
-      "music",
-      "news",
-      "pop",
-      "pop music",
-      "top 40"
-    ],
-    "homepage": "https://exafm.com/plaza/veracruz/",
-    "favicon": "https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:30:35Z",
-    "streams": [
-      {
-        "id": "aws_602c5972730c3d319d9e",
-        "stationId": "awb_827acc1c0e5d29a23c43",
-        "name": "EXA FM: POP MUSIC in Spanish and English",
-        "country": "US",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "codec": "aac+",
-        "bitrate": 48,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "203eef04-b6e0-4dac-b483-c7290e12d0d8"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T03:43:41Z"
-      }
-    ]
-  },
   "awb_822da5be1670773d67a8": {
     "id": "awb_822da5be1670773d67a8",
     "name": "GUITAR - SEGOVIA",
@@ -8265,7 +8239,7 @@
           "64053944-142e-4df4-a235-f35b5513d043"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },

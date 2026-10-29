@@ -1,7 +1,7 @@
 {
   "code": "SI",
-  "stationCount": 124,
-  "streamCount": 136,
+  "stationCount": 125,
+  "streamCount": 137,
   "stations": [
     {
       "id": "awb_5e49b5e89a0ce6f7f447",
@@ -2827,6 +2827,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T05:57:32Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ebb4026021a29010ac99",
+      "name": "Radio METEOR",
+      "country": "SI",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.radiometeor.si/",
+      "favicon": "https://www.radiometeor.si/images/logo/rm_logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T12:47:33Z",
+      "streams": [
+        {
+          "id": "aws_3b7819720489919e4d29",
+          "stationId": "awb_ebb4026021a29010ac99",
+          "name": "Radio METEOR",
+          "country": "SI",
+          "url": "http://stream.radiometeor.si/listen/meteor/live.aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0fafeabd-e562-4773-860b-637f74bf135a"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },

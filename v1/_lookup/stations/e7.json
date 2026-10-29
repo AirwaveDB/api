@@ -1670,7 +1670,7 @@
         "name": "山西交通广播",
         "country": "CN",
         "url": "https://lhttp-hw.qtfm.cn/live/20007/64k.mp3",
-        "codec": null,
+        "codec": "mp3",
         "bitrate": 0,
         "protocol": "https",
         "hls": false,
@@ -1681,7 +1681,7 @@
           "d24ae08d-8b80-4a05-a887-75426e4308bb"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },
@@ -2151,7 +2151,7 @@
           "9226fcee-dcaa-42e6-a030-3bce71ca46fa"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T03:40:31Z"
       }
     ]
   },
@@ -2897,6 +2897,45 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T08:35:22Z"
+      }
+    ]
+  },
+  "awb_e74a16df8b845f7c5693": {
+    "id": "awb_e74a16df8b845f7c5693",
+    "name": "Reggaeton 92.3 FM",
+    "country": "DO",
+    "subdivision": "Santiago (Dominican Republic)",
+    "languages": [],
+    "categories": [
+      "latin"
+    ],
+    "tags": [
+      "soft reggaeton"
+    ],
+    "homepage": "https://streampanel.online/radio/reggaeton927fm",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T16:49:57Z",
+    "streams": [
+      {
+        "id": "aws_25d3174416fe601c5f37",
+        "stationId": "awb_e74a16df8b845f7c5693",
+        "name": "Reggaeton 92.3 FM",
+        "country": "DO",
+        "url": "https://streampanel.online/8495/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "acae4b4b-68b0-4d6c-9f92-c5f8f8ff4ac9"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },
@@ -5242,29 +5281,6 @@
       }
     ]
   },
-  "awb_e73baeb0e0d1b6c8b57d": {
-    "id": "awb_e73baeb0e0d1b6c8b57d",
-    "name": "Bess 100 FM",
-    "country": "JM",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "reggae",
-      "religious",
-      "talk"
-    ],
-    "tags": [
-      "gospel",
-      "reggae",
-      "talk"
-    ],
-    "homepage": "https://www.bessfm.com/",
-    "favicon": "https://static.wixstatic.com/media/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png/v1/fill/w_155,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-28T03:19:22Z",
-    "streams": []
-  },
   "awb_e784d4becf9966da5610": {
     "id": "awb_e784d4becf9966da5610",
     "name": "Nightwave Plaza (HLS)",
@@ -5458,7 +5474,7 @@
           "79ed8ddf-5e4d-4f4b-92e9-51dfbf899241"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T03:40:31Z"
       }
     ]
   },
@@ -6582,7 +6598,7 @@
           "cfee3afd-3368-468c-bce3-6ec59558764c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T15:41:19Z"
+        "lastCheckedAt": "2026-10-28T15:43:41Z"
       },
       {
         "id": "aws_e3ab6d2529a7229f351b",
@@ -6711,41 +6727,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T00:37:15Z"
-      }
-    ]
-  },
-  "awb_e7d6b717aa175ed076ba": {
-    "id": "awb_e7d6b717aa175ed076ba",
-    "name": "DZMM Radyo Patrol 630",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://pcmc.com.ph/dzmmradyopatrol630/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/DZMM_630_2025.svg/1920px-DZMM_630_2025.svg.png?_=20250813042602",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-10T14:13:36Z",
-    "streams": [
-      {
-        "id": "aws_6c7a3a34db01602a72df",
-        "stationId": "awb_e7d6b717aa175ed076ba",
-        "name": "DZMM Radyo Patrol 630",
-        "country": "PH",
-        "url": "http://209.126.124.126:8852/stream",
-        "codec": "aac+",
-        "bitrate": 64,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "e5e72efa-9134-46e9-841b-5e451f8108dd"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T16:39:21Z"
       }
     ]
   },

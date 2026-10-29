@@ -2083,7 +2083,7 @@
           "97e7c7c1-713e-4998-9f91-66e83460c803"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T03:40:31Z"
       }
     ]
   },
@@ -4726,7 +4726,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -4740,15 +4740,13 @@
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "JO:qurango",
-          "be44cca7-0196-4d6d-a424-976ef9aea37e"
+          "JO:qurango"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T02:11:18Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -7438,6 +7436,56 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T02:22:09Z"
+      }
+    ]
+  },
+  "awb_17cbe4b18582c85f26db": {
+    "id": "awb_17cbe4b18582c85f26db",
+    "name": "KUHN Radio",
+    "country": "US",
+    "subdivision": "Oregon",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "folk",
+      "news",
+      "talk"
+    ],
+    "tags": [
+      "ai",
+      "celtic",
+      "electronic",
+      "folk",
+      "news",
+      "portland",
+      "talk"
+    ],
+    "homepage": "https://kuhnradio.com/",
+    "favicon": "https://kuhnradio.com/brand/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-28T22:59:48Z",
+    "streams": [
+      {
+        "id": "aws_afb397117142270e6e1c",
+        "stationId": "awb_17cbe4b18582c85f26db",
+        "name": "KUHN Radio",
+        "country": "US",
+        "url": "https://kuhnradio.com/api/live.m3u8",
+        "codec": "unknown",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9fd7b588-e2b9-4dd2-9b57-88f7c007b734"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T02:46:05Z"
       }
     ]
   },

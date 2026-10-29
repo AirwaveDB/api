@@ -1,6 +1,6 @@
 {
   "id": "kids",
-  "stationCount": 155,
+  "stationCount": 156,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -5457,6 +5457,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T03:25:22Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_85cfe7ba662615909934",
+      "name": "Palavra Antiga Kids",
+      "country": "PT",
+      "subdivision": null,
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "kids",
+        "religious"
+      ],
+      "tags": [
+        "children",
+        "christian",
+        "family",
+        "gospel"
+      ],
+      "homepage": "https://kids.palavraantiga.org/",
+      "favicon": "https://kids.palavraantiga.org/web/image/695-8db68381/logo-kids-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T22:01:21Z",
+      "streams": [
+        {
+          "id": "aws_09040e9505fb7cd51a69",
+          "stationId": "awb_85cfe7ba662615909934",
+          "name": "Palavra Antiga Kids",
+          "country": "PT",
+          "url": "https://radio.palavraantiga.org/listen/kids/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dc436a61-bc55-43a7-b25d-3e00cbefcebc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },

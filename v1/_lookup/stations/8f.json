@@ -4167,8 +4167,8 @@
     "homepage": "https://radio.xecod.com/listen/alhussary",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-25T11:00:08Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T07:18:35Z",
     "streams": [
       {
         "id": "aws_1f10189584ca0831cb26",
@@ -4184,6 +4184,7 @@
           "radio-browser"
         ],
         "sourceIds": [
+          "33d261b8-79cc-4a96-ba2f-a84f2884c01a",
           "e62ed1be-c057-4e7a-9f21-c13ee017ba23"
         ],
         "lastCheckOk": true,
@@ -7332,47 +7333,6 @@
       }
     ]
   },
-  "awb_8faa6684e30ccf341b64": {
-    "id": "awb_8faa6684e30ccf341b64",
-    "name": "DYAB One Radyo 1512 AM",
-    "country": "PH",
-    "subdivision": "Cebu City",
-    "languages": [],
-    "categories": [
-      "news",
-      "talk"
-    ],
-    "tags": [
-      "news",
-      "talk"
-    ],
-    "homepage": "https://www.cignal.tv/",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZANiJ2V8f83gic6GT5m_Lyk3Vs2lCM8iZA&usqp=CAU",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z",
-    "streams": [
-      {
-        "id": "aws_8061e25758174b53e1f0",
-        "stationId": "awb_8faa6684e30ccf341b64",
-        "name": "DYAB One Radyo 1512 AM",
-        "country": "PH",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "codec": "aac",
-        "bitrate": 463,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "80b561a7-81eb-4c8b-be88-61e5a786cace"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T08:37:36Z"
-      }
-    ]
-  },
   "awb_8f969eb04f3ce63ad6ab": {
     "id": "awb_8f969eb04f3ce63ad6ab",
     "name": "EL-Stacja",
@@ -7846,45 +7806,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T04:12:02Z"
-      }
-    ]
-  },
-  "awb_8f22b1defa6afed386b9": {
-    "id": "awb_8f22b1defa6afed386b9",
-    "name": ".. مختصر التفسير",
-    "country": "QA",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:44Z",
-    "streams": [
-      {
-        "id": "aws_db3805c41c6fc1451f42",
-        "stationId": "awb_8f22b1defa6afed386b9",
-        "name": ".. مختصر التفسير",
-        "country": "QA",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "cc523bb7-3789-4fa6-a52a-84bbcb9d79b8"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T15:00:41Z"
       }
     ]
   },

@@ -118,51 +118,6 @@
       }
     ]
   },
-  "awb_a159d0542dd0759c996c": {
-    "id": "awb_a159d0542dd0759c996c",
-    "name": "Radio Disney Arab World 106.9 FM",
-    "country": "AE",
-    "subdivision": "Dubai",
-    "languages": [
-      "ar",
-      "en"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop",
-      "top 40",
-      "variety",
-      "world middle east"
-    ],
-    "homepage": "https://www.radiodisney.com/",
-    "favicon": "https://static.wikia.nocookie.net/dreamfiction/images/f/fe/ARN_Radio_Disney_106.9_logo.png/revision/latest?cb=20210518225208",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-01T02:46:41Z",
-    "streams": [
-      {
-        "id": "aws_31e53b410bf037ca62ed",
-        "stationId": "awb_a159d0542dd0759c996c",
-        "name": "Radio Disney Arab World 106.9 FM",
-        "country": "AE",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "3eda5a34-629d-48db-a855-8340ff0a840b"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T06:42:25Z"
-      }
-    ]
-  },
   "awb_a1667b17ada6efaa7d25": {
     "id": "awb_a1667b17ada6efaa7d25",
     "name": "Radio del Plata",
@@ -3527,7 +3482,7 @@
           "c01f0307-f33d-4033-b537-a8c8ef3dc04c"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T15:41:19Z"
+        "lastCheckedAt": "2026-10-28T15:43:41Z"
       }
     ]
   },
@@ -3668,7 +3623,7 @@
           "a78a0fd1-b137-465a-88d4-73e9ab4846d6"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T15:41:19Z"
+        "lastCheckedAt": "2026-10-28T15:43:41Z"
       }
     ]
   },
@@ -5649,6 +5604,41 @@
       }
     ]
   },
+  "awb_a18d3e93f418428e438d": {
+    "id": "awb_a18d3e93f418428e438d",
+    "name": "RMN DXDC 621 Davao",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rmn.ph/dxdc621davao",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/Station-DXDC-Davaoresized.png?resize=768%2C660&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-23T12:16:37Z",
+    "streams": [
+      {
+        "id": "aws_2a59cbc5f7a290f6e977",
+        "stationId": "awb_a18d3e93f418428e438d",
+        "name": "RMN DXDC 621 Davao",
+        "country": "PH",
+        "url": "https://livestream.rmn.ph/dxdcdavao",
+        "codec": "mp3",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c4a625a3-6ba8-4975-9c7e-cfd4f2af1407"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
+      }
+    ]
+  },
   "awb_a1c78466df1ad4076710": {
     "id": "awb_a1c78466df1ad4076710",
     "name": "Vibe Radio",
@@ -5951,10 +5941,10 @@
       "top 40"
     ],
     "homepage": "https://warszawa.eska.pl/",
-    "favicon": "http://eska.pl/favicon.ico",
+    "favicon": "https://cdn.music.smcloud.net/t/logo/2f7b5979-4b66-4586-aefb-ca31e4b8580d_eska_1500x1500_500x500.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-25T15:43:00Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-29T07:38:13Z",
     "streams": [
       {
         "id": "aws_39764cb20b9e76ea4f2c",
@@ -5975,6 +5965,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-25T18:02:00Z"
+      },
+      {
+        "id": "aws_22325b62fd53cf1975c9",
+        "stationId": "awb_a18643f7a99390a2b487",
+        "name": "Radio Eska Warszawa",
+        "country": "PL",
+        "url": "https://go-audio.toya.net.pl/63222",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "83f50f8a-26e6-454d-b8e8-27e02183f55c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },
@@ -8250,7 +8259,7 @@
           "73338aba-acc7-4901-9dbb-3e73780982b1"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T01:12:32Z"
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },

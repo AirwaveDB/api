@@ -1,6 +1,6 @@
 {
   "id": "religious",
-  "stationCount": 1803,
+  "stationCount": 1807,
   "stations": [
     {
       "id": "awb_3aa20fe54e04955490e1",
@@ -9391,7 +9391,7 @@
             "fccdf1da-21c1-46cf-aabf-d28934b0b965"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -10058,7 +10058,7 @@
             "42441cb5-d519-4ca9-ae03-2f1c5db5e002"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -16294,7 +16294,7 @@
         "tv"
       ],
       "homepage": "https://beta.bibeltv.de/livestreams/musik/",
-      "favicon": "https://beta.bibeltv.de/livestreams/favicon.ico",
+      "favicon": "https://www.bibeltv.de/assets/images/btv_logo.svg",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-01-15T06:09:01Z",
@@ -20755,8 +20755,8 @@
           "name": "Pura Vida FM",
           "country": "DO",
           "url": "https://cast10.plugstreaming.com/stream/pvsdq",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "aac+",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -20766,7 +20766,7 @@
             "370cc36a-878a-4777-8b53-4dcdaf4c5a43"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -21641,8 +21641,8 @@
       "homepage": "https://radio.xecod.com/listen/abubakr-shatri",
       "favicon": null,
       "type": null,
-      "sourceCount": 16,
-      "updatedAt": "2026-10-27T21:49:00Z",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-11T21:11:56Z",
       "streams": [
         {
           "id": "aws_23e714227fce94c259b9",
@@ -21658,11 +21658,10 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "2601f821-db62-4d99-8151-61117076c619",
-            "91848d40-843f-415b-8577-222f6748a869"
+            "2601f821-db62-4d99-8151-61117076c619"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T02:28:30Z"
+          "lastCheckedAt": "2026-10-26T22:20:44Z"
         }
       ]
     },
@@ -21688,8 +21687,8 @@
       "homepage": "https://radio.xecod.com/listen/quran-cairo",
       "favicon": null,
       "type": null,
-      "sourceCount": 15,
-      "updatedAt": "2026-10-27T20:34:30Z",
+      "sourceCount": 1,
+      "updatedAt": "2026-09-22T17:00:13Z",
       "streams": [
         {
           "id": "aws_ca7243f0b6dbc50e59f7",
@@ -21705,11 +21704,10 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "01191c9e-fc22-47cf-acc5-d6230ca73914",
-            "1db13087-3950-4e94-ac7b-4a67c68215de"
+            "13a37b90-41f5-4b3e-9789-3e3a80fa2e45"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T00:08:12Z"
+          "lastCheckedAt": "2026-10-27T14:03:05Z"
         }
       ]
     },
@@ -21731,11 +21729,11 @@
         "religious",
         "uploads"
       ],
-      "homepage": "https://radio.xecod.com/",
+      "homepage": "https://radio.xecod.com/listen/local-library",
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-28T04:02:58Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-28T20:01:17Z",
       "streams": [
         {
           "id": "aws_17498d591625945bca3d",
@@ -21755,7 +21753,7 @@
             "9062f97c-7c49-4a6a-be28-4997a06aa001"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T08:39:44Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -21778,8 +21776,8 @@
       "homepage": "https://radio.xecod.com/listen/khaledabushady",
       "favicon": null,
       "type": null,
-      "sourceCount": 12,
-      "updatedAt": "2026-10-26T18:01:08Z",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-12T18:55:46Z",
       "streams": [
         {
           "id": "aws_44d7b68e302354b81f24",
@@ -21795,55 +21793,10 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "094d05e1-19d3-4f84-88cf-aa82059f7943",
-            "09e25af8-0999-42e4-b231-9b12949c95f4"
+            "645d4aba-6e8a-4a10-ae2c-43cbd1ae4e96"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T01:33:35Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_e02cc865a0bafe05bf96",
-      "name": "OmniRadio - Quran & Islamic Radio (إذاعة القرآن الكريم)",
-      "country": "EG",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "religious"
-      ],
-      "tags": [
-        "arabic",
-        "islam",
-        "islamic",
-        "koran",
-        "quran",
-        "religious"
-      ],
-      "homepage": "https://radio.xecod.com/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-09-21T19:07:07Z",
-      "streams": [
-        {
-          "id": "aws_64cdb7a3f831bae1a02b",
-          "stationId": "awb_e02cc865a0bafe05bf96",
-          "name": "OmniRadio - Quran & Islamic Radio (إذاعة القرآن الكريم)",
-          "country": "EG",
-          "url": "https://radio.xecod.com/station/quran-cairo",
-          "codec": "mp3",
-          "bitrate": 32,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "6617f9be-e393-4f53-9611-ac7cb7728600"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T00:14:37Z"
+          "lastCheckedAt": "2026-10-27T23:02:33Z"
         }
       ]
     },
@@ -21887,7 +21840,7 @@
             "b0f7160f-5ff0-4ca6-ae65-07dee33c9497"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T23:58:49Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -21913,8 +21866,8 @@
       "homepage": "https://radio.xecod.com/listen/abdulbasit",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-09-29T19:29:13Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-28T20:01:17Z",
       "streams": [
         {
           "id": "aws_9bff49c31da6e1336a89",
@@ -21930,10 +21883,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "5f3383bd-deb8-45a0-900c-cb6201d23619"
+            "5f3383bd-deb8-45a0-900c-cb6201d23619",
+            "87a52708-15e3-4c45-904d-3f556dc085f1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T01:22:02Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -21999,8 +21953,8 @@
       "homepage": "https://radio.xecod.com/listen/ahmad-tamim",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-09-24T05:00:16Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-28T20:01:39Z",
       "streams": [
         {
           "id": "aws_3e3dc771211b6706c7b5",
@@ -22016,10 +21970,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "e008e07c-4bc7-4364-a77f-b59b4cd2f2ee"
+            "e008e07c-4bc7-4364-a77f-b59b4cd2f2ee",
+            "fd4d220b-4f38-4497-868f-06b6a4fe5981"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T13:57:25Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -22042,8 +21997,8 @@
       "homepage": "https://radio.xecod.com/",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-12T14:17:00Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-28T20:01:17Z",
       "streams": [
         {
           "id": "aws_dd1b8edf486a8bbc0c3a",
@@ -22059,10 +22014,11 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "a8969577-f18f-47d8-a520-ee2979c3846e",
             "eefc06d5-ff7e-436b-8b6c-607321f873d8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T19:48:11Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -22085,8 +22041,8 @@
       "homepage": "https://radio.xecod.com/listen/bandar-balila",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-26T21:02:05Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-28T20:00:30Z",
       "streams": [
         {
           "id": "aws_8fcac0616ffca086364c",
@@ -22102,10 +22058,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "17a713ff-e248-48f3-94e8-90204e6fd2fe"
+            "17a713ff-e248-48f3-94e8-90204e6fd2fe",
+            "87a21eee-3292-44d7-9e58-0cf5aff8afe7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T21:02:06Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -22174,8 +22131,8 @@
       "homepage": "https://radio.xecod.com/listen/alhussary",
       "favicon": null,
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-09-25T11:00:08Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-29T07:18:35Z",
       "streams": [
         {
           "id": "aws_1f10189584ca0831cb26",
@@ -22191,6 +22148,7 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "33d261b8-79cc-4a96-ba2f-a84f2884c01a",
             "e62ed1be-c057-4e7a-9f21-c13ee017ba23"
           ],
           "lastCheckOk": true,
@@ -22217,8 +22175,8 @@
       "homepage": "https://radio.xecod.com/listen/majid-farouk",
       "favicon": null,
       "type": null,
-      "sourceCount": 13,
-      "updatedAt": "2026-10-25T18:01:57Z",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-11T21:09:06Z",
       "streams": [
         {
           "id": "aws_1547002101ffda70bf44",
@@ -22234,11 +22192,10 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "0555ba63-a5b1-4edd-b92c-df24105ddddc",
-            "870899bd-4240-452d-bfa9-7f9b4b8384a8"
+            "d7a8abc4-9195-4be0-a7d7-6fda72e80260"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T18:45:48Z"
+          "lastCheckedAt": "2026-10-26T23:09:03Z"
         }
       ]
     },
@@ -22309,8 +22266,8 @@
       "homepage": "https://radio.xecod.com/listen/alminshawi",
       "favicon": null,
       "type": null,
-      "sourceCount": 21,
-      "updatedAt": "2026-10-27T21:51:04Z",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T22:01:21Z",
       "streams": [
         {
           "id": "aws_5d08986e9fc78386a6b6",
@@ -22326,11 +22283,10 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "20271194-a0d7-490d-9e02-14246f2861f7",
-            "d2085b95-5ab6-4ca7-bf07-527532bca88d"
+            "fbf6dcee-086b-4459-b9e0-8a8fe607a92e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T02:58:34Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -22670,8 +22626,8 @@
           "name": "Plexus Motown - PlexusRadio.com",
           "country": "ES",
           "url": "https://stream.zeno.fm/evnpwt6wc6quv",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -22681,7 +22637,7 @@
             "fcdab1c9-467a-4245-8394-73c986ec6c33"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -23958,8 +23914,8 @@
       "homepage": "http://pharefm.com/",
       "favicon": null,
       "type": null,
-      "sourceCount": 17,
-      "updatedAt": "2026-01-15T08:31:59Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-01-15T04:45:19Z",
       "streams": [
         {
           "id": "aws_f301a805e6d4e71e4e40",
@@ -23994,11 +23950,10 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "041d166a-a7da-41cc-b931-f9d03cfc985a",
-            "f9dad5bd-f27f-4283-8fa4-43436b0792e1"
+            "3153cf57-fc72-4743-93a8-0ee710faa8eb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T01:26:14Z"
+          "lastCheckedAt": "2026-10-27T17:54:52Z"
         }
       ]
     },
@@ -24703,7 +24658,7 @@
         "gospel music",
         "pop rock"
       ],
-      "homepage": "https://www.radioibnjparis.com/",
+      "homepage": "https://radioibnjparis.com/",
       "favicon": null,
       "type": null,
       "sourceCount": 3,
@@ -26256,7 +26211,7 @@
             "fbc5cb08-2452-49b6-9e5d-92dc024e3140"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -26871,7 +26826,7 @@
         "praise",
         "worship"
       ],
-      "homepage": "https://www.premier.plus/stations/premier-peace",
+      "homepage": "https://www.premier.plus/stations/premier-praise",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -26958,7 +26913,7 @@
             "41dba8f6-6971-4efa-bf74-f26045b2eaa9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -30683,7 +30638,7 @@
             "GT:estereo-santa-sion"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -34619,29 +34574,6 @@
       ]
     },
     {
-      "id": "awb_e73baeb0e0d1b6c8b57d",
-      "name": "Bess 100 FM",
-      "country": "JM",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "reggae",
-        "religious",
-        "talk"
-      ],
-      "tags": [
-        "gospel",
-        "reggae",
-        "talk"
-      ],
-      "homepage": "https://www.bessfm.com/",
-      "favicon": "https://static.wixstatic.com/media/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png/v1/fill/w_155,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2e386c_0307312e27bf4c43b2995c5afa891ace~mv2.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-28T03:19:22Z",
-      "streams": []
-    },
-    {
       "id": "awb_c953785c2905cb7babf6",
       "name": "GGFM 90.1 Discovery Bay",
       "country": "JM",
@@ -34997,7 +34929,7 @@
             "66b08e8e-3be6-4c4e-a765-9423e0398110"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -37059,7 +36991,7 @@
             "b90c0167-61a7-4719-ba42-4993eaff4858"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:22:43Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -41452,7 +41384,7 @@
             "cfee3afd-3368-468c-bce3-6ec59558764c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         },
         {
           "id": "aws_e3ab6d2529a7229f351b",
@@ -42279,7 +42211,7 @@
             "PE:red-radio-integridad-rri"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -44293,6 +44225,51 @@
       ]
     },
     {
+      "id": "awb_85cfe7ba662615909934",
+      "name": "Palavra Antiga Kids",
+      "country": "PT",
+      "subdivision": null,
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "kids",
+        "religious"
+      ],
+      "tags": [
+        "children",
+        "christian",
+        "family",
+        "gospel"
+      ],
+      "homepage": "https://kids.palavraantiga.org/",
+      "favicon": "https://kids.palavraantiga.org/web/image/695-8db68381/logo-kids-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-28T22:01:21Z",
+      "streams": [
+        {
+          "id": "aws_09040e9505fb7cd51a69",
+          "stationId": "awb_85cfe7ba662615909934",
+          "name": "Palavra Antiga Kids",
+          "country": "PT",
+          "url": "https://radio.palavraantiga.org/listen/kids/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "dc436a61-bc55-43a7-b25d-3e00cbefcebc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
+        }
+      ]
+    },
+    {
       "id": "awb_68535be193ec5bd10544",
       "name": "Radio Biblia",
       "country": "PT",
@@ -44471,6 +44448,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T15:26:03Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_72405298cdd59f27cb7a",
+      "name": "Rádio Palavra Antiga",
+      "country": "PT",
+      "subdivision": null,
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "bible",
+        "christian",
+        "gospel",
+        "portuguese"
+      ],
+      "homepage": "https://palavraantiga.org/",
+      "favicon": "https://palavraantiga.org/web/image/717-e4330d3e/logo-palavraantiga-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T02:06:48Z",
+      "streams": [
+        {
+          "id": "aws_0d5d8f393b747af253d8",
+          "stationId": "awb_72405298cdd59f27cb7a",
+          "name": "Rádio Palavra Antiga",
+          "country": "PT",
+          "url": "https://radio.palavraantiga.org/listen/palavraantiga/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "016c302b-1b36-4dc3-ad0f-a9f6b158de1c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -46276,7 +46297,7 @@
         "ortodox"
       ],
       "homepage": "https://sfantulneagoe.ro/",
-      "favicon": "https://sfantulneagoe.ro/assets/img/header-mobil.webp",
+      "favicon": "https://sfantulneagoe.ro/",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-10-27T13:01:36Z",
@@ -47311,7 +47332,7 @@
       "homepage": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
       "favicon": null,
       "type": null,
-      "sourceCount": 10,
+      "sourceCount": 1,
       "updatedAt": "2026-01-15T06:19:57Z",
       "streams": [
         {
@@ -47321,18 +47342,17 @@
           "country": "RU",
           "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
           "codec": "aac,h.264",
-          "bitrate": 2620,
+          "bitrate": 2590,
           "protocol": "http",
           "hls": true,
           "sources": [
             "radio-browser"
           ],
           "sourceIds": [
-            "184549bc-ffd5-432f-b7ac-8006320d3ebe",
-            "635aac78-bb2f-4f6e-ab84-223bda1b9125"
+            "45be4e23-06ba-46c5-8376-460f12b8980a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T00:20:58Z"
+          "lastCheckedAt": "2026-10-27T08:33:17Z"
         }
       ]
     },
@@ -54885,7 +54905,7 @@
         "worship"
       ],
       "homepage": "https://www.247praiseradio.co/",
-      "favicon": "https://www.247praiseradio.co/favicon.png",
+      "favicon": "https://www.247praiseradio.co/favicon.ico",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-17T14:09:15Z",
@@ -60574,7 +60594,7 @@
             "44517a78-03f0-4d0e-8f93-f83d5de73986"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:20Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -61815,7 +61835,7 @@
             "05029f05-0ce4-49ac-97d4-363cf73eee0f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -63527,7 +63547,7 @@
             "cf7070bd-b2a0-45fa-8d7b-77cd0a6a3901"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },
@@ -63610,7 +63630,7 @@
             "7da9bf83-ee9b-45c6-96bf-5e009d836be1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -64545,6 +64565,51 @@
       ]
     },
     {
+      "id": "awb_f7ff72982b0ac304488e",
+      "name": "KNWG-LP \"Diné Adventist Radio\" - St. Michaels, Arizona",
+      "country": "US",
+      "subdivision": "Arizona",
+      "languages": [
+        "en",
+        "nv"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "adventist",
+        "christian music",
+        "christian preaching",
+        "native american"
+      ],
+      "homepage": "https://www.dineadventistradio.org/",
+      "favicon": "https://static.wixstatic.com/media/2f4233_b260bbcaba584aadaf64802879ddac92~mv2.png/v1/crop/x_0,y_316,w_4807,h_3205/fill/w_118,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Dar%20Logo%20Lite%20(Transparent).png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T04:43:40Z",
+      "streams": [
+        {
+          "id": "aws_9067e971da895e6e45e6",
+          "stationId": "awb_f7ff72982b0ac304488e",
+          "name": "KNWG-LP \"Diné Adventist Radio\" - St. Michaels, Arizona",
+          "country": "US",
+          "url": "https://ice25.securenetsystems.net/DAR",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aaa68fec-f2d3-4f68-84c9-1474a586a4f5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_927c45c16d331fb68d32",
       "name": "KOIR 88.5 FM Radio Esperanza",
       "country": "US",
@@ -64720,7 +64785,7 @@
             "ac7c963b-39f4-4299-a4d9-22fb283edb75"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -71145,7 +71210,7 @@
           "stationId": "awb_c23692da3ca7b88f61f7",
           "name": "WAKN 94.7 \"Radio Compasion\" Monroe, Louisiana",
           "country": "US",
-          "url": "https://stream-282.surfernetwork.com/v6oldlxnd4vuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2Nm9sZGx4bmQ0dnV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ikg4YWUtTGdRU2xPdzZlSFlHMk5USGciLCJpYXQiOjE3OTI4MDk2MzMsImV4cCI6MTc5MjgwOTY5M30.KnJKpAW7Pwf_XWsB_U3WjJVeoz6h-PtI1W69FjcuXgU",
+          "url": "https://stream-282.surfernetwork.com/v6oldlxnd4vuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2Nm9sZGx4bmQ0dnV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlBad3lmS0tYVHVPYXhYc00wbXZIalEiLCJpYXQiOjE3OTMyNDE4NTksImV4cCI6MTc5MzI0MTkxOX0.VkcabYcHmLP0iJzld5BNR6QwugCr9aE5oMZAXWoi__s",
           "codec": "mp3",
           "bitrate": 128,
           "protocol": "https",
@@ -71157,7 +71222,7 @@
             "0865183e-3880-4c26-bdcb-036c5e64fb5d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -72073,7 +72138,7 @@
             "46910332-733f-4bcf-951c-d9b5ebf35c2e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -72238,7 +72303,51 @@
             "4ae71ce2-ce33-4d02-be02-cc68383ef8d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_faae0c1e629bf3c95042",
+      "name": "WCOC 103.5 \"Truth FM\" Jacksonville, Alabama",
+      "country": "US",
+      "subdivision": "Alabama",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "a cappella",
+        "christian hymns",
+        "christian preaching",
+        "christian teaching"
+      ],
+      "homepage": "https://www.truth.fm/",
+      "favicon": "https://images.subsplash.com/image.jpg?id=202cb7c1-372c-4872-af7d-a0088269c304&w=1280&h=720",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T04:06:52Z",
+      "streams": [
+        {
+          "id": "aws_64251a6ce4d73dbe12e6",
+          "stationId": "awb_faae0c1e629bf3c95042",
+          "name": "WCOC 103.5 \"Truth FM\" Jacksonville, Alabama",
+          "country": "US",
+          "url": "https://radio.truth.fm:8000/wcoc",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f6901b97-8075-4e57-9e15-79da50e1ff97"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -72581,7 +72690,50 @@
             "d505fdbd-36d7-465b-b6c3-792e27d46512"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_786a930adabd3759d735",
+      "name": "WFTP 103.9 \"Truth FM\" Fort Payne, Alabama",
+      "country": "US",
+      "subdivision": "Alabama",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "a cappella",
+        "christian preaching",
+        "christian teaching"
+      ],
+      "homepage": "https://truthfm.live/fpls/",
+      "favicon": "https://truth-fm.s3.amazonaws.com/wp-content/uploads/2018/08/24084819/Fort-Payne-Radio-square-copy.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T04:06:52Z",
+      "streams": [
+        {
+          "id": "aws_bc347b593a91489e0c57",
+          "stationId": "awb_786a930adabd3759d735",
+          "name": "WFTP 103.9 \"Truth FM\" Fort Payne, Alabama",
+          "country": "US",
+          "url": "https://radio.truth.fm:8000/wftp",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b22be4b-e305-43de-a20f-fe1ba484b1c7"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -72705,7 +72857,7 @@
             "c33f6f40-245e-4779-9e07-2d5210addc2d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -73006,7 +73158,7 @@
             "3f00f321-fdfb-4a3e-b321-54c33aa83aa8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -73228,7 +73380,7 @@
             "708f86be-d755-4308-8f1b-0ed0f848f5f0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T08:35:54Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -73313,7 +73465,7 @@
             "5da2ecb8-f5bb-4f0f-82eb-69da541cc768"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
         }
       ]
     },
@@ -73605,7 +73757,7 @@
             "6417f176-f910-408d-9206-67379f6f9430"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },
@@ -74167,7 +74319,7 @@
             "71c099bf-99c5-4263-b34d-b8c5e5a8ccd3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T15:41:19Z"
+          "lastCheckedAt": "2026-10-28T15:43:41Z"
         }
       ]
     },
@@ -74785,6 +74937,49 @@
       ]
     },
     {
+      "id": "awb_e45764d07cde78557704",
+      "name": "WRNK 96.3 \"The Keeper\" Lanett, Alabama",
+      "country": "US",
+      "subdivision": "Alabama",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "religious"
+      ],
+      "tags": [
+        "christian praise&worship",
+        "christian preaching",
+        "christian worship"
+      ],
+      "homepage": "https://wrnk.com/",
+      "favicon": "https://wrnk.com/wp-content/uploads/2019/06/keeper-1-e1560965188674.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T02:20:17Z",
+      "streams": [
+        {
+          "id": "aws_72fa0d02dc44347c1c7c",
+          "stationId": "awb_e45764d07cde78557704",
+          "name": "WRNK 96.3 \"The Keeper\" Lanett, Alabama",
+          "country": "US",
+          "url": "https://s9.viastreaming.net:9500/",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e105adcd-c3fe-41d9-9ce6-17affaa809c4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T02:46:05Z"
+        }
+      ]
+    },
+    {
       "id": "awb_1c7ae73cd70c2c1e2467",
       "name": "WRTW 90.5 \"The Key\" Crown Point - Hammond, Indiana",
       "country": "US",
@@ -75305,7 +75500,7 @@
             "0514ad04-f3e8-4676-80be-1938683c6821"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T22:17:37Z"
+          "lastCheckedAt": "2026-10-28T22:40:48Z"
         }
       ]
     },

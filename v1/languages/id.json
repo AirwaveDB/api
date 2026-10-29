@@ -1,6 +1,6 @@
 {
   "code": "id",
-  "stationCount": 174,
+  "stationCount": 175,
   "stations": [
     {
       "id": "awb_563187bb0c79d8cef2b7",
@@ -2424,7 +2424,7 @@
             "4fbee4a8-f8e6-4b34-98ed-21bde0af1b0d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-23T08:35:54Z"
+          "lastCheckedAt": "2026-10-28T14:20:55Z"
         }
       ]
     },
@@ -7226,6 +7226,46 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T21:28:18Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_42ef0197b318d6032f06",
+      "name": "TJANDRA FM CIANJUR",
+      "country": "ID",
+      "subdivision": "Jawa Barat",
+      "languages": [
+        "en",
+        "id"
+      ],
+      "categories": [],
+      "tags": [
+        "dangdut"
+      ],
+      "homepage": "https://www.tjandrafm.com/",
+      "favicon": "https://i.imgur.com/NwN4rnC.jpeg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T02:57:15Z",
+      "streams": [
+        {
+          "id": "aws_41cafd70fe173ce0208b",
+          "stationId": "awb_42ef0197b318d6032f06",
+          "name": "TJANDRA FM CIANJUR",
+          "country": "ID",
+          "url": "https://live.tjandrafm.com/listen/tjandrafm/stream",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "86018131-b6a1-4883-b101-d367357e5342"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T03:40:31Z"
         }
       ]
     },

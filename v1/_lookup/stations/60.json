@@ -1444,7 +1444,7 @@
           "339d3591-c1ca-44ec-925d-5ea20802a319"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T22:17:37Z"
+        "lastCheckedAt": "2026-10-28T22:40:48Z"
       }
     ]
   },
@@ -7559,41 +7559,6 @@
       }
     ]
   },
-  "awb_6043849aed9f6fdce112": {
-    "id": "awb_6043849aed9f6fdce112",
-    "name": "105.9 True FM",
-    "country": "PH",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://news.tv5.com.ph/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TrueFM1059-logo.png/440px-TrueFM1059-logo.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:07Z",
-    "streams": [
-      {
-        "id": "aws_8dc3213150a938a5f34d",
-        "stationId": "awb_6043849aed9f6fdce112",
-        "name": "105.9 True FM",
-        "country": "PH",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "codec": "aac",
-        "bitrate": 463,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "4400c3bb-a43f-4321-8aea-16d66d0c06e8"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T23:15:37Z"
-      }
-    ]
-  },
   "awb_600f2829aba120378950": {
     "id": "awb_600f2829aba120378950",
     "name": "106.7 LITE FM MEGA MANILA",
@@ -8596,44 +8561,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T14:27:07Z"
-      }
-    ]
-  },
-  "awb_602c9e00ee298b06705b": {
-    "id": "awb_602c9e00ee298b06705b",
-    "name": "Soyuz",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-01-15T04:22:41Z",
-    "streams": [
-      {
-        "id": "aws_5750582ef9344963fdf9",
-        "stationId": "awb_602c9e00ee298b06705b",
-        "name": "Soyuz",
-        "country": "RU",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "codec": "aac,h.264",
-        "bitrate": 2600,
-        "protocol": "http",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "54af555b-6d18-477d-b8f8-a5d1b67d4328",
-          "7b2b0b81-38c0-4ad6-95a6-4f46b89323e9"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T22:17:13Z"
       }
     ]
   },
@@ -10708,8 +10635,8 @@
         "name": "LA MEGA 88.9 FM - Puerto Ordaz",
         "country": "VE",
         "url": "http://acp4.lorini.net:10115/stream",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "http",
         "hls": false,
         "sources": [
@@ -10719,7 +10646,7 @@
           "b2a528c9-aa18-4dd4-87a4-96db72abbdbe"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },

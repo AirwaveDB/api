@@ -661,46 +661,6 @@
       }
     ]
   },
-  "awb_f7c8064f27354a584a1e": {
-    "id": "awb_f7c8064f27354a584a1e",
-    "name": "The Breeze - Weipa - 97.7 FM (AAC)",
-    "country": "AU",
-    "subdivision": "Queensland",
-    "languages": [
-      "en"
-    ],
-    "categories": [],
-    "tags": [
-      "adult contemporary",
-      "easy listening"
-    ],
-    "homepage": "https://thebreeze.com.au/weipa/",
-    "favicon": "https://i.ibb.co/s9THhF9K/Breeze-Weipa-97-7-300x78-1.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T06:04:09Z",
-    "streams": [
-      {
-        "id": "aws_ffa43b3aefc97e5dc7c6",
-        "stationId": "awb_f7c8064f27354a584a1e",
-        "name": "The Breeze - Weipa - 97.7 FM (AAC)",
-        "country": "AU",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
-        "codec": "aac",
-        "bitrate": 64,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "e6e05c53-a6ab-4f67-9f5c-79a0b2e47660"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T23:31:34Z"
-      }
-    ]
-  },
   "awb_f7b73f3e0d6e813e3a7c": {
     "id": "awb_f7b73f3e0d6e813e3a7c",
     "name": "Radio Begov Han",
@@ -2996,68 +2956,6 @@
       }
     ]
   },
-  "awb_f76d25a0775adcfcd50e": {
-    "id": "awb_f76d25a0775adcfcd50e",
-    "name": "Radio Luca",
-    "country": "DE",
-    "subdivision": "Sachsen-Anhalt",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "deutschland",
-      "pop"
-    ],
-    "homepage": "https://radio-luca.jimdofree.com/",
-    "favicon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s79cec96568b26f45/image/i5caa35bbb9c8e63a/version/1654619498/image.png",
-    "type": null,
-    "sourceCount": 4,
-    "updatedAt": "2026-01-15T06:22:11Z",
-    "streams": [
-      {
-        "id": "aws_e8747538dc357cb07051",
-        "stationId": "awb_f76d25a0775adcfcd50e",
-        "name": "Radio Luca",
-        "country": "DE",
-        "url": "https://stream.laut.fm/luca",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "1a0a1864-6ccd-4341-9239-583a6e2e95a2",
-          "8df4f214-c35b-4206-8818-3e1cef1c7660"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T20:25:06Z"
-      },
-      {
-        "id": "aws_527867ded1b4bc477349",
-        "stationId": "awb_f76d25a0775adcfcd50e",
-        "name": "Radio.luca",
-        "country": "DE",
-        "url": "https://luca.stream.laut.fm/luca?t302=2024-06-07_07-49-23&uuid=5c7dcb97-8e6a-4630-a8c4-4e3185f06b1f",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "e79ef6a4-aca4-447b-9ef6-57804dcefd8b"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T23:55:06Z"
-      }
-    ]
-  },
   "awb_f79a8a7346d3fa4b3e16": {
     "id": "awb_f79a8a7346d3fa4b3e16",
     "name": "Radio Regenbogen - Kinderlieder",
@@ -3120,6 +3018,68 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T00:38:27Z"
+      }
+    ]
+  },
+  "awb_f76d25a0775adcfcd50e": {
+    "id": "awb_f76d25a0775adcfcd50e",
+    "name": "Radio.luca",
+    "country": "DE",
+    "subdivision": "Deutschland (Germany)",
+    "languages": [
+      "de"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "deutschland",
+      "pop"
+    ],
+    "homepage": "https://radio-luca.jimdofree.com/",
+    "favicon": "https://image.jimcdn.com/app/cms/image/transf/none/path/s79cec96568b26f45/image/i5caa35bbb9c8e63a/version/1654619498/image.png",
+    "type": null,
+    "sourceCount": 4,
+    "updatedAt": "2026-01-15T06:22:11Z",
+    "streams": [
+      {
+        "id": "aws_e8747538dc357cb07051",
+        "stationId": "awb_f76d25a0775adcfcd50e",
+        "name": "Radio Luca",
+        "country": "DE",
+        "url": "https://stream.laut.fm/luca",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1a0a1864-6ccd-4341-9239-583a6e2e95a2",
+          "8df4f214-c35b-4206-8818-3e1cef1c7660"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-27T20:25:06Z"
+      },
+      {
+        "id": "aws_527867ded1b4bc477349",
+        "stationId": "awb_f76d25a0775adcfcd50e",
+        "name": "Radio.luca",
+        "country": "DE",
+        "url": "https://luca.stream.laut.fm/luca?t302=2024-06-07_07-49-23&uuid=5c7dcb97-8e6a-4630-a8c4-4e3185f06b1f",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e79ef6a4-aca4-447b-9ef6-57804dcefd8b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-27T23:55:06Z"
       }
     ]
   },
@@ -3418,7 +3378,7 @@
           "c3153d80-729e-4e48-9629-dc3def79c7d2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T08:35:54Z"
+        "lastCheckedAt": "2026-10-28T14:20:55Z"
       }
     ]
   },
@@ -7813,6 +7773,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T03:54:13Z"
+      }
+    ]
+  },
+  "awb_f7ff72982b0ac304488e": {
+    "id": "awb_f7ff72982b0ac304488e",
+    "name": "KNWG-LP \"Diné Adventist Radio\" - St. Michaels, Arizona",
+    "country": "US",
+    "subdivision": "Arizona",
+    "languages": [
+      "en",
+      "nv"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "adventist",
+      "christian music",
+      "christian preaching",
+      "native american"
+    ],
+    "homepage": "https://www.dineadventistradio.org/",
+    "favicon": "https://static.wixstatic.com/media/2f4233_b260bbcaba584aadaf64802879ddac92~mv2.png/v1/crop/x_0,y_316,w_4807,h_3205/fill/w_118,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Dar%20Logo%20Lite%20(Transparent).png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T04:43:40Z",
+    "streams": [
+      {
+        "id": "aws_9067e971da895e6e45e6",
+        "stationId": "awb_f7ff72982b0ac304488e",
+        "name": "KNWG-LP \"Diné Adventist Radio\" - St. Michaels, Arizona",
+        "country": "US",
+        "url": "https://ice25.securenetsystems.net/DAR",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "aaa68fec-f2d3-4f68-84c9-1474a586a4f5"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

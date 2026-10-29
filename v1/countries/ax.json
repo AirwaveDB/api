@@ -1,7 +1,7 @@
 {
   "code": "AX",
-  "stationCount": 2,
-  "streamCount": 2,
+  "stationCount": 1,
+  "streamCount": 1,
   "stations": [
     {
       "id": "awb_b06d8d84b0d4474c2630",
@@ -37,46 +37,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T13:33:04Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_11e0218d29dd21e5d111",
-      "name": "EXA FM: Popmusik på engelska och spanska",
-      "country": "AX",
-      "subdivision": "Veracruz, México",
-      "languages": [
-        "es"
-      ],
-      "categories": [],
-      "tags": [
-        "moi merino",
-        "åland islands"
-      ],
-      "homepage": "https://exafm.com/",
-      "favicon": "https://cdn-profiles.tunein.com/s90984/images/logog.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T23:24:33Z",
-      "streams": [
-        {
-          "id": "aws_40d3cbd0894da54ba1ab",
-          "stationId": "awb_11e0218d29dd21e5d111",
-          "name": "EXA FM: Popmusik på engelska och spanska",
-          "country": "AX",
-          "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-          "codec": "aac+",
-          "bitrate": 48,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "d7a3eb69-9212-4b9d-98d7-ac5bdfe105da"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T00:10:16Z"
         }
       ]
     }
