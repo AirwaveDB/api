@@ -3245,7 +3245,7 @@
           "7040ec72-3dac-489c-89e1-e64a0741e127"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-25T00:42:25Z"
+        "lastCheckedAt": "2026-10-30T00:49:08Z"
       }
     ]
   },
@@ -7751,7 +7751,7 @@
           "e494a6b7-aac5-43b1-9284-7f12fb46517f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },
@@ -7794,7 +7794,52 @@
           "704dd806-34c1-4a82-8ca3-d4c2ce85cfcd"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
+      }
+    ]
+  },
+  "awb_4a9b4b7f18577a5b2467": {
+    "id": "awb_4a9b4b7f18577a5b2467",
+    "name": "get.radio — Микс всех волн",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "mix",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=mix",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/mix.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:45:22Z",
+    "streams": [
+      {
+        "id": "aws_5f671149ed1f0a3b88c7",
+        "stationId": "awb_4a9b4b7f18577a5b2467",
+        "name": "get.radio — Микс всех волн",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/mix.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "32f0603f-2281-40e1-ab04-ca3b31e7a669"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },

@@ -1081,7 +1081,7 @@
           "3560e702-faaa-4b32-8193-d6ac5994649d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T16:24:45Z"
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },
@@ -1699,7 +1699,7 @@
   },
   "awb_f85d515686d208619eea": {
     "id": "awb_f85d515686d208619eea",
-    "name": "Radio la Chúkara",
+    "name": "Radio La Chúkara",
     "country": "CL",
     "subdivision": null,
     "languages": [
@@ -8467,47 +8467,6 @@
       }
     ]
   },
-  "awb_f88c2e55ea06e5d80c6a": {
-    "id": "awb_f88c2e55ea06e5d80c6a",
-    "name": "Русское Радио Moscow",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "pop music"
-    ],
-    "homepage": "https://rusradio.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T03:43:13Z",
-    "streams": [
-      {
-        "id": "aws_bdf499d9ec7463ace176",
-        "stationId": "awb_f88c2e55ea06e5d80c6a",
-        "name": "Русское Радио Moscow",
-        "country": "RU",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "codec": "aac",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "1e2884ee-03af-4a17-b679-fbc87fcecdd7"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T17:17:24Z"
-      }
-    ]
-  },
   "awb_f897a40620e39a5257f5": {
     "id": "awb_f897a40620e39a5257f5",
     "name": "Saudia Radio 103.6 FM",
@@ -8709,6 +8668,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-26T21:22:10Z"
+      }
+    ]
+  },
+  "awb_f88ccea40bdf7db7b1c9": {
+    "id": "awb_f88ccea40bdf7db7b1c9",
+    "name": "Radio San Pedro",
+    "country": "SV",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://radiosanpedrometapan.net/radio/",
+    "favicon": "https://radiosanpedrometapan.net/radio/wp-content/uploads/2022/05/logo-BLANCO2.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T04:07:45Z",
+    "streams": [
+      {
+        "id": "aws_313cde5f2a45cdaff5aa",
+        "stationId": "awb_f88ccea40bdf7db7b1c9",
+        "name": "Radio San Pedro",
+        "country": "SV",
+        "url": "https://radios.com.sv/catolica-san-pedro-metapan/",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bb7925fb-4c4a-4ec3-9309-9a04f7e847f0"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

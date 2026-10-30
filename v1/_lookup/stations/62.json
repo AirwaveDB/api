@@ -6958,6 +6958,41 @@
       }
     ]
   },
+  "awb_6296e51036862712b0c5": {
+    "id": "awb_6296e51036862712b0c5",
+    "name": "iFM Cagayan de Oro",
+    "country": "PH",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "http://rmn.ph/ifm991cdo",
+    "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-iFM-CDO.png?w=592&ssl=1",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T12:19:49Z",
+    "streams": [
+      {
+        "id": "aws_e26d96e832d86f700515",
+        "stationId": "awb_6296e51036862712b0c5",
+        "name": "iFM Cagayan de Oro",
+        "country": "PH",
+        "url": "http://livestream.rmn.ph:8000/ifmcdo",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "71ebab9a-ce19-4f2a-822d-473449e3d682"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
+      }
+    ]
+  },
   "awb_626dc639c4e8f2c0c004": {
     "id": "awb_626dc639c4e8f2c0c004",
     "name": "Magik FM Dipolog",
@@ -7379,6 +7414,51 @@
       }
     ]
   },
+  "awb_6234a39afc4bd2e853df": {
+    "id": "awb_6234a39afc4bd2e853df",
+    "name": "get.radio — Новый год",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "newyear",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=newyear",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/newyear.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:54:30Z",
+    "streams": [
+      {
+        "id": "aws_261b2393d4cd4b439512",
+        "stationId": "awb_6234a39afc4bd2e853df",
+        "name": "get.radio — Новый год",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/newyear.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "332e85bc-1ee3-4f39-bfaa-1c680ec2a99e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
+      }
+    ]
+  },
   "awb_62df4d72ee6fa2fc09c4": {
     "id": "awb_62df4d72ee6fa2fc09c4",
     "name": "get.radio — Поп (Русский)",
@@ -7418,7 +7498,7 @@
           "486bd0f3-633b-4124-8715-083a10a04041"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },

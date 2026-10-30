@@ -1,7 +1,7 @@
 {
   "code": "CX",
-  "stationCount": 2,
-  "streamCount": 2,
+  "stationCount": 3,
+  "streamCount": 3,
   "stations": [
     {
       "id": "awb_d1d8412875665a459125",
@@ -37,6 +37,43 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-08-23"
+        }
+      ]
+    },
+    {
+      "id": "awb_b960e42c1643c8a2b491",
+      "name": "Christmas Island Community Radio",
+      "country": "CX",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.6rci.net/",
+      "favicon": "https://www.6rci.net/uploads/1/5/1/1/151154262/6rci-logo-hq.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T09:48:55Z",
+      "streams": [
+        {
+          "id": "aws_ccb9a7b7a73b0c41f01a",
+          "stationId": "awb_b960e42c1643c8a2b491",
+          "name": "Christmas Island Community Radio",
+          "country": "CX",
+          "url": "https://streams.radio.co/s254f35e58/listen",
+          "codec": "mp3",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "91ee4dd4-3b2a-4b30-b442-c9f4a7217f55"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },

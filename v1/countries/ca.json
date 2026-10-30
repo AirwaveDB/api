@@ -1,7 +1,7 @@
 {
   "code": "CA",
-  "stationCount": 1445,
-  "streamCount": 1483,
+  "stationCount": 1448,
+  "streamCount": 1486,
   "stations": [
     {
       "id": "awb_654770d3387f31abb729",
@@ -57,7 +57,7 @@
       "homepage": null,
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -71,15 +71,13 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "CA:quran",
-            "a0b6a42c-d5c7-46c4-8193-235642319116"
+            "CA:quran"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T12:17:35Z"
+          "lastCheckedAt": "2026-08-24"
         }
       ]
     },
@@ -4986,7 +4984,7 @@
             "17870a88-c273-4192-ac2d-6bbcf914e419"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -22823,6 +22821,49 @@
       ]
     },
     {
+      "id": "awb_30346c393b734624bd58",
+      "name": "CIPU \"Shubie FM\" Sipekne'katik/Shubencadie, Nova Scotia",
+      "country": "CA",
+      "subdivision": "Nova Scotia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "first nations",
+        "music variety"
+      ],
+      "homepage": "https://www.facebook.com/shubiefm.supekanekati/",
+      "favicon": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/867192251_29169185706055544_7572063509964896249_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HHC2Z3DNaQMQ7kNvwEOjyVH&_nc_oc=AdoJy5qFRm6rx0u2wpIrvo1DGfb7LTGO_fgfwt-JPKIWcwWPdQQ3nOSD_T-qL1z6q-E&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=dVjVlbqjTDpix78XpZoDOA&_nc_ss=7b289&oh=00_AQTHH977weipwNUEQwC46YWL2-6PkyUEzRLGrdfLA8LEjA&oe=6AE9DC69",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T03:38:59Z",
+      "streams": [
+        {
+          "id": "aws_254c3092f33af4ac9866",
+          "stationId": "awb_30346c393b734624bd58",
+          "name": "CIPU \"Shubie FM\" Sipekne'katik/Shubencadie, Nova Scotia",
+          "country": "CA",
+          "url": "https://listen.radioking.com/radio/626449/stream/688756",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9355e586-e0a8-4948-b7e7-37afe7cee956"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_b010ee060915bfb9414d",
       "name": "CIQB \"Big 101.1\" Barrie, ON",
       "country": "CA",
@@ -23182,6 +23223,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T16:50:11Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8c0dcf2916c955991d51",
+      "name": "CISB 106.3 Sandy Bay, Manitoba",
+      "country": "CA",
+      "subdivision": "Manitoba",
+      "languages": [
+        "en",
+        "oj"
+      ],
+      "categories": [
+        "community"
+      ],
+      "tags": [
+        "community radio",
+        "first nations",
+        "music variety"
+      ],
+      "homepage": "https://sbofn.com/sandy-bay-radio-106-3-cisb-fm/",
+      "favicon": "https://sbofn.com/wp-content/uploads/2025/08/Sandy-Bay-Radio-Logo.png",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T03:23:53Z",
+      "streams": [
+        {
+          "id": "aws_83c13e7b32b96b730076",
+          "stationId": "awb_8c0dcf2916c955991d51",
+          "name": "CISB 106.3 Sandy Bay, Manitoba",
+          "country": "CA",
+          "url": "https://cast5.my-control-panel.com/proxy/michell2/live",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b4c93a1-ea26-4af7-9cf2-5473a9a39b20"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -26350,6 +26435,53 @@
       ]
     },
     {
+      "id": "awb_8e978077913365897cb5",
+      "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
+      "country": "CA",
+      "subdivision": "Manitoba",
+      "languages": [
+        "cr",
+        "en",
+        "oj"
+      ],
+      "categories": [
+        "community",
+        "country"
+      ],
+      "tags": [
+        "alternative / indie",
+        "community radio",
+        "country",
+        "first nations"
+      ],
+      "homepage": "https://peguis.ca/index.php/departments/country-rock-radio",
+      "favicon": "https://peguis.ca/images/zCRR_Logo-01.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T03:24:20Z",
+      "streams": [
+        {
+          "id": "aws_4e6055512cd1be0b3d02",
+          "stationId": "awb_8e978077913365897cb5",
+          "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
+          "country": "CA",
+          "url": "https://cast4.my-control-panel.com/proxy/peguis1/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bfe2d634-3c5e-4ea3-9b50-db853ac56a3d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_e85583a0a526761bcec9",
       "name": "CJFO \"Unique FM\"",
       "country": "CA",
@@ -27418,7 +27550,7 @@
             "a5bdebc6-2103-4c59-bf22-5569b6abcd2e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -32446,6 +32578,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T15:32:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4419644a89038cc0c34d",
+      "name": "CKDM 730 Dauphin, Manitoba",
+      "country": "CA",
+      "subdivision": "Manitoba",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "country"
+      ],
+      "tags": [
+        "adult contemporary",
+        "country music"
+      ],
+      "homepage": "https://730ckdm.com/",
+      "favicon": "https://730ckdm.com/templates/g5_hydrogen/custom/images/CKDM/730ckdm.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T03:08:08Z",
+      "streams": [
+        {
+          "id": "aws_f500c15dac88124f5d40",
+          "stationId": "awb_4419644a89038cc0c34d",
+          "name": "CKDM 730 Dauphin, Manitoba",
+          "country": "CA",
+          "url": "https://ckdm.smartstreamingsolutions.ca/ssl/CKDM",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "192a78e4-db30-4276-a3f2-0db2e580fab8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -40988,45 +41162,6 @@
       ]
     },
     {
-      "id": "awb_3d36d7d2fca349b37fa7",
-      "name": "Dance Wave!",
-      "country": "CA",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "electronic"
-      ],
-      "tags": [
-        "club dance electronic house trance"
-      ],
-      "homepage": "https://dancewave.online/",
-      "favicon": "https://dancewave.online/dw_logo.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:11Z",
-      "streams": [
-        {
-          "id": "aws_d9f47d1ec632eb52dfa1",
-          "stationId": "awb_3d36d7d2fca349b37fa7",
-          "name": "Dance Wave!",
-          "country": "CA",
-          "url": "https://dancewave.online/dance.flac.ogg",
-          "codec": "ogg",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1c8d915c-4016-4e0e-b47a-c4296edd1054"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T23:44:34Z"
-        }
-      ]
-    },
-    {
       "id": "awb_48861667b278f6f64277",
       "name": "DanceRadio.ca Radio ONE",
       "country": "CA",
@@ -43137,7 +43272,7 @@
             "830365d1-530d-4945-8d30-5ced3734a48b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -43178,7 +43313,7 @@
             "d916f208-b68c-402b-816e-d765a6823411"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -43474,7 +43609,7 @@
             "e1acc817-4627-40dc-a688-7078917df20c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T22:40:48Z"
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -47730,7 +47865,7 @@
       "homepage": null,
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-24",
       "streams": [
         {
@@ -47744,15 +47879,13 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "3e30cc0e-ffa8-470a-a234-cd1236c0c7a4",
             "CA:maiqly-maher"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T02:17:14Z"
+          "lastCheckedAt": "2026-08-24"
         }
       ]
     },
@@ -50093,7 +50226,7 @@
             "b30754c1-48f7-44a8-be1c-401de492f4a7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -53163,7 +53296,7 @@
             "263e79f0-f145-4b15-aa95-adfc5bc87051"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -56707,7 +56840,7 @@
       "id": "awb_84f94cc037b298681456",
       "name": "Stingray Smoot Jazz",
       "country": "CA",
-      "subdivision": "Toronto",
+      "subdivision": "Toronto, ON",
       "languages": [],
       "categories": [
         "jazz"
@@ -56716,7 +56849,7 @@
         "jazz",
         "smooth jazz"
       ],
-      "homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+      "homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
       "favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
       "type": null,
       "sourceCount": 3,
@@ -58136,7 +58269,7 @@
             "850578f4-9466-4c92-8fd6-8dd65efd41da"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },

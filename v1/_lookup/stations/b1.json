@@ -2662,7 +2662,7 @@
           "4c59728b-4c36-417c-89b7-edfcb321d3d8"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-25T00:42:25Z"
+        "lastCheckedAt": "2026-10-30T00:49:08Z"
       }
     ]
   },
@@ -3934,6 +3934,54 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T00:23:41Z"
+      }
+    ]
+  },
+  "awb_b1f914a8cadeb3736d44": {
+    "id": "awb_b1f914a8cadeb3736d44",
+    "name": "Legend FM",
+    "country": "FJ",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "fj"
+    ],
+    "categories": [
+      "oldies",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "adult contemporary",
+      "classic hits",
+      "classic pop",
+      "oldies",
+      "soft rock"
+    ],
+    "homepage": "https://legendfm.com.fj/",
+    "favicon": "https://legendfm.com.fj/wp-content/uploads/2021/09/legendfm-favicon.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T11:14:26Z",
+    "streams": [
+      {
+        "id": "aws_1eaa00fc428d60e2f48d",
+        "stationId": "awb_b1f914a8cadeb3736d44",
+        "name": "Legend FM",
+        "country": "FJ",
+        "url": "https://stream.rcs.revma.com/7wnnz47a303vv?ver=864684",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c24927d0-bdf9-44bd-a2f4-204dd19b8d29"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },
@@ -5869,6 +5917,77 @@
       }
     ]
   },
+  "awb_b129fd4eef05446a27b6": {
+    "id": "awb_b129fd4eef05446a27b6",
+    "name": "+Azul 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
+    "country": "MX",
+    "subdivision": "Ciudad de México",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "acir",
+      "acir online",
+      "américa",
+      "baladas en inglés",
+      "cdmx",
+      "ciudad de méxico",
+      "clásicos",
+      "clásicos en inglés",
+      "entretenimiento",
+      "español",
+      "estación",
+      "grupo acir",
+      "iheart",
+      "iheart radio",
+      "latinoamérica",
+      "mexico city",
+      "moi merino",
+      "méxico",
+      "música",
+      "música en inglés",
+      "norteamérica",
+      "oldies",
+      "online",
+      "online only",
+      "radio",
+      "radio online",
+      "retro hits",
+      "retro music",
+      "valle de méxico"
+    ],
+    "homepage": "https://www.iheart.com/live/azul-89-7874/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5bc5ed95c7977ca1c9302289",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-04T14:10:36Z",
+    "streams": [
+      {
+        "id": "aws_ac15f6ffbf5e4989bdf0",
+        "stationId": "awb_b129fd4eef05446a27b6",
+        "name": "AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
+        "country": "MX",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac",
+        "codec": "aac+",
+        "bitrate": 48,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "b15f20e2-f41d-4c9c-a690-f979fcd61d57",
+          "b21edf7b-a452-420a-8fe8-40436962651c"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-27T17:44:57Z"
+      }
+    ]
+  },
   "awb_b127120924297f866fc9": {
     "id": "awb_b127120924297f866fc9",
     "name": "105.7 La Lupe (Veracruz) - 105.7 FM - XHPUGC-FM - Multimedios Radio - Veracruz, Veracruz",
@@ -6026,77 +6145,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T01:57:28Z"
-      }
-    ]
-  },
-  "awb_b129fd4eef05446a27b6": {
-    "id": "awb_b129fd4eef05446a27b6",
-    "name": "AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
-    "country": "MX",
-    "subdivision": "Ciudad de México",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "oldies",
-      "pop"
-    ],
-    "tags": [
-      "acir",
-      "acir online",
-      "américa",
-      "baladas en inglés",
-      "cdmx",
-      "ciudad de méxico",
-      "clásicos",
-      "clásicos en inglés",
-      "entretenimiento",
-      "español",
-      "estación",
-      "grupo acir",
-      "iheart",
-      "iheart radio",
-      "latinoamérica",
-      "mexico city",
-      "moi merino",
-      "méxico",
-      "música",
-      "música en inglés",
-      "norteamérica",
-      "oldies",
-      "online",
-      "online only",
-      "radio",
-      "radio online",
-      "retro hits",
-      "retro music",
-      "valle de méxico"
-    ],
-    "homepage": "https://www.iheart.com/live/azul-89-7874/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5bc5ed95c7977ca1c9302289",
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-04T14:10:36Z",
-    "streams": [
-      {
-        "id": "aws_ac15f6ffbf5e4989bdf0",
-        "stationId": "awb_b129fd4eef05446a27b6",
-        "name": "AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México",
-        "country": "MX",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac",
-        "codec": "aac+",
-        "bitrate": 48,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "b15f20e2-f41d-4c9c-a690-f979fcd61d57",
-          "b21edf7b-a452-420a-8fe8-40436962651c"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T17:44:57Z"
       }
     ]
   },
@@ -7427,6 +7475,48 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T15:03:33Z"
+      }
+    ]
+  },
+  "awb_b1e6114238958e21fa81": {
+    "id": "awb_b1e6114238958e21fa81",
+    "name": "RQP Paraguay 94.3 FM",
+    "country": "PY",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "adult contemporary",
+      "pop",
+      "soft rock"
+    ],
+    "homepage": "https://www.rqp.com.py/",
+    "favicon": "https://cdn.radoxo.com/images/paraguay/rqp.webp?v=1791876678",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T03:02:41Z",
+    "streams": [
+      {
+        "id": "aws_4c3096048296bf824068",
+        "stationId": "awb_b1e6114238958e21fa81",
+        "name": "RQP Paraguay 94.3 FM",
+        "country": "PY",
+        "url": "https://radios-paraguay.com/71-rqp.html",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "05d14635-9495-4c25-9ab6-76f06e0a5161"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

@@ -3201,6 +3201,49 @@
       }
     ]
   },
+  "awb_6db0aecfea663c4672e9": {
+    "id": "awb_6db0aecfea663c4672e9",
+    "name": "Radio Sargam",
+    "country": "FJ",
+    "subdivision": null,
+    "languages": [
+      "en",
+      "fj"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "music",
+      "news"
+    ],
+    "homepage": "https://radiosargam.com.fj/",
+    "favicon": "https://radiosargam.com.fj/wp-content/uploads/2021/09/sargam-header-213x68-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T11:03:20Z",
+    "streams": [
+      {
+        "id": "aws_c266572c7e41d5fc2c5d",
+        "stationId": "awb_6db0aecfea663c4672e9",
+        "name": "Radio Sargam",
+        "country": "FJ",
+        "url": "https://stream.rcs.revma.com/8a38ru8a303vv?ver=531608",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "40789cec-804f-4cf2-85ee-651cb666a127"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
+      }
+    ]
+  },
   "awb_6d80fab1afd5246e1faf": {
     "id": "awb_6d80fab1afd5246e1faf",
     "name": "Aisne radio",
@@ -6576,7 +6619,7 @@
           "e6471679-d266-46a6-86c5-ba08bcc6cb28"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },
@@ -6966,7 +7009,7 @@
           "cb8811c1-845e-4526-ba24-21d8755cf9cb"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T16:24:45Z"
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },
@@ -8023,60 +8066,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T03:05:41Z"
-      }
-    ]
-  },
-  "awb_6dc069d6774a7d33651e": {
-    "id": "awb_6dc069d6774a7d33651e",
-    "name": "Radio k",
-    "country": "US",
-    "subdivision": "MN",
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "college"
-    ],
-    "tags": [
-      "campus",
-      "college",
-      "college radio",
-      "diy",
-      "experimental",
-      "independent radio",
-      "indie",
-      "midwest",
-      "minnesota",
-      "umn",
-      "underground music",
-      "university of minnesota",
-      "university radio"
-    ],
-    "homepage": "https://radiok.org/",
-    "favicon": "https://icons.duckduckgo.com/ip3/www.radiok.org.ico",
-    "type": "college",
-    "sourceCount": 6,
-    "updatedAt": "2026-07-08T19:38:20Z",
-    "streams": [
-      {
-        "id": "aws_b667b0f2dc3c80175ceb",
-        "stationId": "awb_6dc069d6774a7d33651e",
-        "name": "Radio K",
-        "country": "US",
-        "url": "https://radiok.broadcasttool.stream/play_256",
-        "codec": "mp3",
-        "bitrate": 256,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "09dc000a-03c2-4147-8f80-e1c765eafcc7",
-          "24d99220-6385-4a83-8dd6-dee187af78b4"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T00:39:22Z"
       }
     ]
   },

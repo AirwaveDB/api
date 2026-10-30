@@ -1,7 +1,7 @@
 {
   "code": "MA",
-  "stationCount": 69,
-  "streamCount": 70,
+  "stationCount": 68,
+  "streamCount": 69,
   "stations": [
     {
       "id": "awb_4fb3e9e8c78aab39f479",
@@ -57,7 +57,7 @@
       "homepage": null,
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-23",
       "streams": [
         {
@@ -71,15 +71,13 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "0a5237a4-2a7f-46f5-a23f-91ec1a370726",
             "MA:qurango-2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T03:08:21Z"
+          "lastCheckedAt": "2026-08-23"
         }
       ]
     },
@@ -2585,7 +2583,7 @@
             "787ca047-b18b-4430-b5cb-54628d77751e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -2834,45 +2832,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T21:56:12Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_0841c2d55ef6044bd979",
-      "name": "تفسير بن عثيمين",
-      "country": "MA",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "classical"
-      ],
-      "tags": [
-        "classical"
-      ],
-      "homepage": null,
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:44Z",
-      "streams": [
-        {
-          "id": "aws_818f6b7ed082144563c9",
-          "stationId": "awb_0841c2d55ef6044bd979",
-          "name": "تفسير بن عثيمين",
-          "country": "MA",
-          "url": "https://qurango.net/radio/tafseer",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "9b00b169-b8fc-44e0-bd58-26df8585516f"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T14:57:14Z"
         }
       ]
     }

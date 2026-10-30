@@ -35,7 +35,7 @@
           "ae5ae7aa-b82e-4b87-8970-f19200e0a5e9"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:43:15Z"
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
       }
     ]
   },
@@ -1782,41 +1782,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T06:25:50Z"
-      }
-    ]
-  },
-  "awb_cb590f8362f156ddb776": {
-    "id": "awb_cb590f8362f156ddb776",
-    "name": "1 Live",
-    "country": "DE",
-    "subdivision": "NRW",
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-07-20T11:00:29Z",
-    "streams": [
-      {
-        "id": "aws_bb9adaa0c69d70dd399a",
-        "stationId": "awb_cb590f8362f156ddb776",
-        "name": "1 Live",
-        "country": "DE",
-        "url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "a02a4d64-b264-4512-96a5-60a2fd06d843"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T14:03:05Z"
       }
     ]
   },
@@ -5472,45 +5437,6 @@
       }
     ]
   },
-  "awb_cb817a639e807a1b2a72": {
-    "id": "awb_cb817a639e807a1b2a72",
-    "name": ".إذاعة ماهر المعيقلي",
-    "country": "OM",
-    "subdivision": null,
-    "languages": [],
-    "categories": [
-      "classical"
-    ],
-    "tags": [
-      "classical"
-    ],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:04Z",
-    "streams": [
-      {
-        "id": "aws_c9acfc08e8a19e78c947",
-        "stationId": "awb_cb817a639e807a1b2a72",
-        "name": ".إذاعة ماهر المعيقلي",
-        "country": "OM",
-        "url": "https://backup.qurango.net/radio/maher",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "2c95d027-273a-4e9a-a84e-56a21a556ebc"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T03:45:48Z"
-      }
-    ]
-  },
   "awb_cb3c6793b91fa0fe43d7": {
     "id": "awb_cb3c6793b91fa0fe43d7",
     "name": "Radio 100",
@@ -6384,7 +6310,7 @@
           "47e0e6a5-0099-444b-b1e8-c866a7c0751d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
       }
     ]
   },
@@ -7134,6 +7060,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T17:54:52Z"
+      }
+    ]
+  },
+  "awb_cbaa71a162d55bec4c52": {
+    "id": "awb_cbaa71a162d55bec4c52",
+    "name": "CoastFunk Radio",
+    "country": "US",
+    "subdivision": null,
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hip hop",
+      "hip-hop",
+      "hiphop"
+    ],
+    "homepage": "https://coastfunk.com/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T23:02:37Z",
+    "streams": [
+      {
+        "id": "aws_29c2b851a1fa929b9045",
+        "stationId": "awb_cbaa71a162d55bec4c52",
+        "name": "CoastFunk Radio",
+        "country": "US",
+        "url": "https://coastfunk.com/listen/live/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "11063a4f-cfeb-45bd-9537-4af01b69b15d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-30T00:49:08Z"
       }
     ]
   },

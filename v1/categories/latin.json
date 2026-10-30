@@ -1,6 +1,6 @@
 {
   "id": "latin",
-  "stationCount": 1268,
+  "stationCount": 1271,
   "stations": [
     {
       "id": "awb_146dd6bb9daa0a9c315b",
@@ -8592,8 +8592,8 @@
           "name": "cristal boyacá 98.3 fm",
           "country": "CO",
           "url": "https://impactodigitalcol.com/8020/stream",
-          "codec": "mp3",
-          "bitrate": 128,
+          "codec": "aac+",
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -8603,7 +8603,7 @@
             "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -20949,6 +20949,47 @@
       ]
     },
     {
+      "id": "awb_76a14f8707c0d003231c",
+      "name": "Oro Verde",
+      "country": "EC",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "latin",
+        "pop"
+      ],
+      "tags": [
+        "latin pop",
+        "variedad"
+      ],
+      "homepage": "https://radiooroverde.com/public/oroverde",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T23:51:21Z",
+      "streams": [
+        {
+          "id": "aws_f36d65271b9a2f5a28ee",
+          "stationId": "awb_76a14f8707c0d003231c",
+          "name": "Oro Verde",
+          "country": "EC",
+          "url": "https://radiooroverde.com/listen/oroverde/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7b70c207-0c51-4d1e-958f-cb608ec5d4fb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6d68e6d40776aee0b88b",
       "name": "Pa ti Pati cumbia",
       "country": "EC",
@@ -27010,7 +27051,7 @@
             "9b9f71ff-3a0d-475f-8017-91ef84f233b3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-29T03:40:31Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -30291,82 +30332,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T20:38:55Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_9990a32fe61b0c99f027",
-      "name": "+Radio Bemba (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
-      "country": "MX",
-      "subdivision": "Veracruz, Veracruz",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "latin",
-        "news",
-        "oldies"
-      ],
-      "tags": [
-        "américa",
-        "boca del río",
-        "classic salsa",
-        "domingo lucas",
-        "entretenimiento",
-        "español",
-        "estación",
-        "latin salsa",
-        "latinoamérica",
-        "local",
-        "local music",
-        "local radio",
-        "moi merino",
-        "music",
-        "méxico",
-        "música tropical",
-        "norteamérica",
-        "noticias locales",
-        "online",
-        "online only",
-        "radio",
-        "radio bemba",
-        "radio local",
-        "radio online",
-        "salsa",
-        "salsa 80s 90s",
-        "salsa colombiana",
-        "sureste",
-        "tropical",
-        "tropical music",
-        "veracruz",
-        "veracruz city",
-        "youth programs"
-      ],
-      "homepage": "https://www.radiobembaveracruz.com/",
-      "favicon": "https://cdn-profiles.tunein.com/s251775/images/logod.jpg",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-17T17:08:40Z",
-      "streams": [
-        {
-          "id": "aws_557dabddaf559a8f51e6",
-          "stationId": "awb_9990a32fe61b0c99f027",
-          "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
-          "country": "MX",
-          "url": "https://radio.e-ver.com.mx:8001/live",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0efd923f-8eac-405e-a652-2b227d113b18",
-            "9ba295c0-15e0-4d2e-82b3-8d464e523e63"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T19:36:37Z"
         }
       ]
     },
@@ -36356,7 +36321,7 @@
     },
     {
       "id": "awb_20c5e1b44e09059c17f7",
-      "name": "AMOR 101.3 (Guaymas) - 101.3 FM / 630 AM - XHFX-FM / XEFX-AM - Grupo ASVA - Guaymas, Sonora",
+      "name": "Amor 101.3 (Guaymas) - 101.3 FM / 630 AM - XHFX-FM / XEFX-AM - Grupo ASVA - Guaymas, Sonora",
       "country": "MX",
       "subdivision": "Guaymas, Sonora",
       "languages": [
@@ -54218,6 +54183,82 @@
       ]
     },
     {
+      "id": "awb_9990a32fe61b0c99f027",
+      "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
+      "country": "MX",
+      "subdivision": "Veracruz, Veracruz",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "news",
+        "oldies"
+      ],
+      "tags": [
+        "américa",
+        "boca del río",
+        "classic salsa",
+        "domingo lucas",
+        "entretenimiento",
+        "español",
+        "estación",
+        "latin salsa",
+        "latinoamérica",
+        "local",
+        "local music",
+        "local radio",
+        "moi merino",
+        "music",
+        "méxico",
+        "música tropical",
+        "norteamérica",
+        "noticias locales",
+        "online",
+        "online only",
+        "radio",
+        "radio bemba",
+        "radio local",
+        "radio online",
+        "salsa",
+        "salsa 80s 90s",
+        "salsa colombiana",
+        "sureste",
+        "tropical",
+        "tropical music",
+        "veracruz",
+        "veracruz city",
+        "youth programs"
+      ],
+      "homepage": "https://www.radiobembaveracruz.com/",
+      "favicon": "https://i.postimg.cc/qM3fT6P7/radiobemba.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-17T17:08:40Z",
+      "streams": [
+        {
+          "id": "aws_557dabddaf559a8f51e6",
+          "stationId": "awb_9990a32fe61b0c99f027",
+          "name": "RADIO BEMBA (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz",
+          "country": "MX",
+          "url": "https://radio.e-ver.com.mx:8001/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0efd923f-8eac-405e-a652-2b227d113b18",
+            "9ba295c0-15e0-4d2e-82b3-8d464e523e63"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T19:36:37Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a3ca3f9c49d97741b107",
       "name": "Radio Cañón (Villahermosa) - 96.5 FM - XHOP-FM - Grupo Radio Cañón - Villahermosa, Tabasco",
       "country": "MX",
@@ -61286,7 +61327,7 @@
         "smooth jazz"
       ],
       "homepage": "https://latremenda.pe/",
-      "favicon": "https://imgur.com/a/vahyGFo",
+      "favicon": "https://renewed-amaranth-wsrjzdvewp.edgeone.app/logo_latremenda.jpg",
       "type": null,
       "sourceCount": 4,
       "updatedAt": "2026-08-24",
@@ -61445,6 +61486,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T05:07:54Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_274d9a3ffbad7e278463",
+      "name": "Radio MegaMix fm",
+      "country": "PE",
+      "subdivision": "Lima",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "cumbias pop rock salsa"
+      ],
+      "homepage": "https://audioplayer.pe/megamix",
+      "favicon": "https://f.radio-grpp.io/2026/06/24/414141_1881083.jpg?quality=80&width=1020",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T02:29:56Z",
+      "streams": [
+        {
+          "id": "aws_e406c1086048c3a32962",
+          "stationId": "awb_274d9a3ffbad7e278463",
+          "name": "Radio MegaMix fm",
+          "country": "PE",
+          "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bafeb3c9-a11b-4732-8541-ce65ca746f9f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -65006,7 +65090,7 @@
             "653a063c-6d10-46da-af43-ceaeee50c933"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -65585,6 +65669,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T11:38:09Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_52fd3577d896bd69e841",
+      "name": "El Garagito Radio Online & Podcasts",
+      "country": "US",
+      "subdivision": "Alabama",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "latin"
+      ],
+      "tags": [
+        "bachata",
+        "latin",
+        "merengue",
+        "reggaeton",
+        "salsa",
+        "spanish",
+        "urban"
+      ],
+      "homepage": "https://muse.ai/s/el-garagito-radio-online-podcasts-2-xsn62xas80xffa/mE_2r65F679Z-IQhCagRAzGR4Ng3Utr5rcxzgKoKUV4",
+      "favicon": "https://static2.mytuner.mobi/media/tvos_radios/677/el-garagito-radio-online-podcasts.a8e86945.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T00:47:12Z",
+      "streams": [
+        {
+          "id": "aws_5bc5eacaf327f168c669",
+          "stationId": "awb_52fd3577d896bd69e841",
+          "name": "El Garagito Radio Online & Podcasts",
+          "country": "US",
+          "url": "https://stream.zeno.fm/y1odz3uiburvv",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2a5de0f0-ce93-4368-a787-2442f8bfeb81"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

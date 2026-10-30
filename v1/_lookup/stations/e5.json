@@ -2281,54 +2281,6 @@
       }
     ]
   },
-  "awb_e521435bbb2a40a4e257": {
-    "id": "awb_e521435bbb2a40a4e257",
-    "name": "1LIVE -- (https)",
-    "country": "DE",
-    "subdivision": "North Rhine-Westphalia",
-    "languages": [
-      "de"
-    ],
-    "categories": [
-      "pop",
-      "public",
-      "rock"
-    ],
-    "tags": [
-      "ard",
-      "pop",
-      "public radio",
-      "rock",
-      "top 40",
-      "wdr"
-    ],
-    "homepage": "https://einslive.de/",
-    "favicon": "https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T23:29:44Z",
-    "streams": [
-      {
-        "id": "aws_3556baa8d4c5b218567d",
-        "stationId": "awb_e521435bbb2a40a4e257",
-        "name": "1LIVE -- (https)",
-        "country": "DE",
-        "url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "0fd9d46c-d099-41ba-ba62-b39a8bc31e88"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T17:38:58Z"
-      }
-    ]
-  },
   "awb_e5ee88a4938620364e03": {
     "id": "awb_e5ee88a4938620364e03",
     "name": "Absolut Top ClubNight Mp3",
@@ -4198,14 +4150,13 @@
       "religious"
     ],
     "tags": [
-      "christian",
-      "chrétien"
+      "christian"
     ],
     "homepage": "http://pharefm.com/",
     "favicon": null,
     "type": null,
-    "sourceCount": 10,
-    "updatedAt": "2026-01-15T07:58:24Z",
+    "sourceCount": 1,
+    "updatedAt": "2026-01-15T04:29:57Z",
     "streams": [
       {
         "id": "aws_71a178f2c6afd24de892",
@@ -4225,26 +4176,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T21:15:59Z"
-      },
-      {
-        "id": "aws_3cceb35c86b63a8dbc95",
-        "stationId": "awb_e5b75e1ce3bcf5cbb61b",
-        "name": "Phare FM Louange",
-        "country": "FR",
-        "url": "https://str0.creacast.com/pharefm_louange",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "248df8ee-d514-42bf-870d-f654b8e167b6",
-          "585a4ddc-4c7b-478d-b054-db4b64dfd5f7"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T20:55:47Z"
       }
     ]
   },
@@ -4769,6 +4700,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T15:00:41Z"
+      }
+    ]
+  },
+  "awb_e51da6b4c7dab8565646": {
+    "id": "awb_e51da6b4c7dab8565646",
+    "name": "We Get Lifted Radio",
+    "country": "GB",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://www.wegetliftedradio.com/",
+    "favicon": "https://www.wegetliftedradio.com/wp-content/uploads/2020/03/cropped-WGLR-HEADER-1-1-1.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T17:31:19Z",
+    "streams": [
+      {
+        "id": "aws_e2623d280164e2869ce4",
+        "stationId": "awb_e51da6b4c7dab8565646",
+        "name": "We Get Lifted Radio",
+        "country": "GB",
+        "url": "http://s3.radio.co/sa80d22794/listen",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "2fc7f8e7-cda4-4568-9c0b-311c9f2eb0f8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },

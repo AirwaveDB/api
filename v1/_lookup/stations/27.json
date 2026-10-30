@@ -3333,41 +3333,6 @@
       }
     ]
   },
-  "awb_279535a7af0f28e9760c": {
-    "id": "awb_279535a7af0f28e9760c",
-    "name": "franceinfo:",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.franceinfo.fr/",
-    "favicon": "https://charte.radiofrance.fr/images/franceinfo/franceinfo2.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-02-14T01:26:39Z",
-    "streams": [
-      {
-        "id": "aws_d5a89307718838cfee16",
-        "stationId": "awb_279535a7af0f28e9760c",
-        "name": "franceinfo:",
-        "country": "FR",
-        "url": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
-        "codec": "aac",
-        "bitrate": 192,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "80ff0ec7-7c44-419a-9999-5f6d0050a402"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T09:15:33Z"
-      }
-    ]
-  },
   "awb_2791f007d7bb6f758fa5": {
     "id": "awb_2791f007d7bb6f758fa5",
     "name": "Jazz Radio Blues",
@@ -6374,7 +6339,7 @@
           "178837fa-8850-434e-9c25-065c9450ec50"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },
@@ -6410,6 +6375,49 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-08-24"
+      }
+    ]
+  },
+  "awb_274d9a3ffbad7e278463": {
+    "id": "awb_274d9a3ffbad7e278463",
+    "name": "Radio MegaMix fm",
+    "country": "PE",
+    "subdivision": "Lima",
+    "languages": [
+      "es"
+    ],
+    "categories": [
+      "latin",
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "cumbias pop rock salsa"
+    ],
+    "homepage": "https://audioplayer.pe/megamix",
+    "favicon": "https://f.radio-grpp.io/2026/06/24/414141_1881083.jpg?quality=80&width=1020",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T02:29:56Z",
+    "streams": [
+      {
+        "id": "aws_e406c1086048c3a32962",
+        "stationId": "awb_274d9a3ffbad7e278463",
+        "name": "Radio MegaMix fm",
+        "country": "PE",
+        "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "bafeb3c9-a11b-4732-8541-ce65ca746f9f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },
@@ -7875,47 +7883,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T12:44:08Z"
-      }
-    ]
-  },
-  "awb_2744baed32dd6b3d4def": {
-    "id": "awb_2744baed32dd6b3d4def",
-    "name": "91. 3 Capital fm",
-    "country": "UG",
-    "subdivision": null,
-    "languages": [
-      "en"
-    ],
-    "categories": [
-      "news"
-    ],
-    "tags": [
-      "news"
-    ],
-    "homepage": "http://capitalradio-ug.com/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:55:32Z",
-    "streams": [
-      {
-        "id": "aws_39ccf2fa500403c9e816",
-        "stationId": "awb_2744baed32dd6b3d4def",
-        "name": "91. 3 Capital fm",
-        "country": "UG",
-        "url": "http://5229.cloudrad.io:8316/;",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "bfff0877-39db-4c59-b4a5-55df13df10ed"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T01:11:09Z"
       }
     ]
   },

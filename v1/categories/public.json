@@ -1,6 +1,6 @@
 {
   "id": "public",
-  "stationCount": 1000,
+  "stationCount": 995,
   "stations": [
     {
       "id": "awb_ee82c064aaf7a19bf5c6",
@@ -5883,9 +5883,9 @@
     },
     {
       "id": "awb_ceac03347026f81dacb7",
-      "name": "��� � ����� �����������",
+      "name": "��� � ����� �����",
       "country": "BG",
-      "subdivision": "Blagoevgrad",
+      "subdivision": "Shumen",
       "languages": [
         "bg"
       ],
@@ -5899,7 +5899,7 @@
         "public radio",
         "talk"
       ],
-      "homepage": "https://bnrnews.bg/blagoevgrad",
+      "homepage": "https://bnrnews.bg/shumen",
       "favicon": null,
       "type": "public",
       "sourceCount": 8,
@@ -14852,54 +14852,6 @@
       ]
     },
     {
-      "id": "awb_e521435bbb2a40a4e257",
-      "name": "1LIVE -- (https)",
-      "country": "DE",
-      "subdivision": "North Rhine-Westphalia",
-      "languages": [
-        "de"
-      ],
-      "categories": [
-        "pop",
-        "public",
-        "rock"
-      ],
-      "tags": [
-        "ard",
-        "pop",
-        "public radio",
-        "rock",
-        "top 40",
-        "wdr"
-      ],
-      "homepage": "https://einslive.de/",
-      "favicon": "https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png",
-      "type": "public",
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T23:29:44Z",
-      "streams": [
-        {
-          "id": "aws_3556baa8d4c5b218567d",
-          "stationId": "awb_e521435bbb2a40a4e257",
-          "name": "1LIVE -- (https)",
-          "country": "DE",
-          "url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "0fd9d46c-d099-41ba-ba62-b39a8bc31e88"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T17:38:58Z"
-        }
-      ]
-    },
-    {
       "id": "awb_159945799bd5c7e83bc4",
       "name": "Antenne Brandenburg",
       "country": "DE",
@@ -17039,7 +16991,7 @@
             "1909ffdb-2b65-4246-a955-77458b60ebac"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -17132,7 +17084,7 @@
             "7d647a6d-588a-4f43-989c-4608b76662e4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -18559,7 +18511,6 @@
         "aac",
         "info",
         "information",
-        "informations",
         "news",
         "public radio",
         "radio france"
@@ -18567,7 +18518,7 @@
       "homepage": "https://www.francetvinfo.fr/",
       "favicon": "https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png",
       "type": "public",
-      "sourceCount": 11,
+      "sourceCount": 6,
       "updatedAt": "2026-07-05T11:55:59Z",
       "streams": [
         {
@@ -18623,11 +18574,10 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "003baf55-9ac9-4352-bceb-375ee4203133",
-            "22c0d602-ed7a-4347-9056-40c22faff480"
+            "31074f8a-e6f4-11e9-a96c-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T01:11:09Z"
+          "lastCheckedAt": "2026-10-28T00:23:06Z"
         },
         {
           "id": "aws_040ae1a9463bba93b10d",
@@ -18950,9 +18900,9 @@
         "radio france"
       ],
       "homepage": "https://www.francemusique.fr/",
-      "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/6/6c/France_Musique_logo_2021.svg",
       "type": "public",
-      "sourceCount": 4,
+      "sourceCount": 3,
       "updatedAt": "2026-01-15T06:33:03Z",
       "streams": [
         {
@@ -19007,11 +18957,10 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "5e992e1e-e6ef-11e9-a96c-52543be04c81",
-            "f7d9c431-bafb-43cc-81df-4011b0ac5753"
+            "5e992e1e-e6ef-11e9-a96c-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T15:36:46Z"
+          "lastCheckedAt": "2026-10-27T15:08:38Z"
         }
       ]
     },
@@ -19036,7 +18985,6 @@
         "hls",
         "jazz",
         "m3u8",
-        "music",
         "public radio",
         "radio france",
         "talk"
@@ -19044,29 +18992,9 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 8,
+      "sourceCount": 5,
       "updatedAt": "2026-10-15T04:55:47Z",
       "streams": [
-        {
-          "id": "aws_b91ebb9f0798e1f3173c",
-          "stationId": "awb_e7280c1281f2949961b8",
-          "name": "France Musique",
-          "country": "FR",
-          "url": "http://icecast.radiofrance.fr/francemusique-hifi.aac",
-          "codec": "aac",
-          "bitrate": 192,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "21b83eb8-370d-4076-a9bb-3d443fa5a449",
-            "33f93e78-ea93-4a36-a725-a8458c66d819"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T00:20:58Z"
-        },
         {
           "id": "aws_6ca3ff3facd481be5ef1",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -25437,7 +25365,7 @@
             "497c68be-2cfd-443c-86f8-79c097f94094"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -26998,88 +26926,6 @@
       ]
     },
     {
-      "id": "awb_c30879d868501a34a583",
-      "name": "96.1 Radio UNAM (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "college",
-        "news",
-        "public"
-      ],
-      "tags": [
-        "96.1 fm",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "college",
-        "college radio",
-        "concesión pública",
-        "cultura",
-        "cultural",
-        "cultural news",
-        "culture",
-        "education",
-        "educativa",
-        "entretenimiento",
-        "entrevistas",
-        "español",
-        "estación",
-        "fm",
-        "latinoamérica",
-        "mexico city",
-        "moi merino",
-        "multicultural",
-        "méxico",
-        "norteamérica",
-        "public",
-        "public radio",
-        "public service",
-        "pública",
-        "radio",
-        "radio pública",
-        "radio unam",
-        "radio universidad",
-        "radio universitaria",
-        "state college",
-        "unam",
-        "universidad",
-        "universidad autónoma de méxico",
-        "universitaria",
-        "university",
-        "university radio"
-      ],
-      "homepage": "https://www.radio.unam.mx/",
-      "favicon": "https://cdn-radiotime-logos.tunein.com/s24539d.png",
-      "type": "public",
-      "sourceCount": 1,
-      "updatedAt": "2026-04-23T18:05:31Z",
-      "streams": [
-        {
-          "id": "aws_e973d6176a2b8458cfe3",
-          "stationId": "awb_c30879d868501a34a583",
-          "name": "96.1 Radio UNAM (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-          "country": "MX",
-          "url": "https://tv.radiohosting.online:9484/stream",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1b3ac580-0972-4326-96bb-0ce4abe7d9e3"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T12:36:15Z"
-        }
-      ]
-    },
-    {
       "id": "awb_07f2131c38b2e13493ed",
       "name": "96.5 Cultura (CDMX) - 96.5 FM - XHEP-FM - Radio Educación - Ciudad de México",
       "country": "MX",
@@ -27828,7 +27674,7 @@
             "f62a07b1-7585-4af8-8e70-8a30d058cb9d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -30553,164 +30399,6 @@
       ]
     },
     {
-      "id": "awb_2be43272c7a260600f1c",
-      "name": "Radio UNAM 96.1 (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "college",
-        "news",
-        "public"
-      ],
-      "tags": [
-        "96.1 fm",
-        "américa",
-        "cdmx",
-        "ciudad de méxico",
-        "college",
-        "college radio",
-        "concesión pública",
-        "cultura",
-        "cultural",
-        "cultural news",
-        "culture",
-        "education",
-        "educativa",
-        "entretenimiento",
-        "entrevistas",
-        "español",
-        "estación",
-        "fm",
-        "latinoamérica",
-        "mexico city",
-        "moi merino",
-        "multicultural",
-        "méxico",
-        "norteamérica",
-        "public",
-        "public radio",
-        "public service",
-        "pública",
-        "radio",
-        "radio pública",
-        "radio unam",
-        "radio universidad",
-        "radio universitaria",
-        "state college",
-        "unam",
-        "universidad",
-        "universidad autónoma de méxico",
-        "universitaria",
-        "university",
-        "university radio"
-      ],
-      "homepage": "https://www.radio.unam.mx/streaming/RadioUNAM_FM.html",
-      "favicon": "https://cdn-radiotime-logos.tunein.com/s24539d.png",
-      "type": "public",
-      "sourceCount": 2,
-      "updatedAt": "2026-01-15T02:11:33Z",
-      "streams": [
-        {
-          "id": "aws_14c4cd6b19c96caab449",
-          "stationId": "awb_2be43272c7a260600f1c",
-          "name": "RADIO UNAM 96.1 (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-          "country": "MX",
-          "url": "https://tv.radiohosting.online:9484/stream",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "002187e0-487f-46e3-b18a-2af81085f6f6",
-            "d589394c-3d41-45e1-a608-8d14295132d0"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T21:55:35Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_e145b8c0fc112eea11b0",
-      "name": "Radio UNAM 96.1 (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "college",
-        "news",
-        "public"
-      ],
-      "tags": [
-        "96.1 fm",
-        "ciudad de méxico",
-        "college",
-        "college radio",
-        "cultura",
-        "cultural",
-        "cultural news",
-        "culture",
-        "español",
-        "estación",
-        "fm",
-        "latinoamérica",
-        "mexico city",
-        "moi merino",
-        "multicultural",
-        "méxico",
-        "norteamérica",
-        "public",
-        "public radio",
-        "public service",
-        "pública",
-        "radio",
-        "radio pública",
-        "radio unam",
-        "radio universidad",
-        "radio universitaria",
-        "state college",
-        "unam",
-        "universidad",
-        "universidad autónoma de méxico",
-        "universitaria",
-        "university",
-        "university radio"
-      ],
-      "homepage": "https://www.facebook.com/radiounam/",
-      "favicon": "https://www.facebook.com/favicon.ico",
-      "type": "public",
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T00:29:53Z",
-      "streams": [
-        {
-          "id": "aws_efebbc504fab6191416e",
-          "stationId": "awb_e145b8c0fc112eea11b0",
-          "name": "Radio UNAM 96.1 (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-          "country": "MX",
-          "url": "https://tv.radiohosting.online:9484/stream",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "e0d7ea92-e353-4727-b741-fa0ff2118eb1"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T22:47:32Z"
-        }
-      ]
-    },
-    {
       "id": "awb_f3ad755a57915a0edfbc",
       "name": "Radio UNAM AM - 860 AM - XEUN-AM - UNAM (Universidad Autónoma de México) - Ciudad de México",
       "country": "MX",
@@ -30864,85 +30552,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T08:13:39Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_63a19ddded2e68ec2f36",
-      "name": "Radio UNAM FM (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-      "country": "MX",
-      "subdivision": "Ciudad de México",
-      "languages": [
-        "es"
-      ],
-      "categories": [
-        "college",
-        "news",
-        "public"
-      ],
-      "tags": [
-        "96.1",
-        "96.1 fm",
-        "ciudad de méxico",
-        "college",
-        "college radio",
-        "cultura",
-        "cultural",
-        "cultural mexico",
-        "cultural news",
-        "culture",
-        "estación",
-        "fm",
-        "latinoamérica",
-        "mexico city",
-        "moi merino",
-        "multicultural",
-        "méxico",
-        "norteamérica",
-        "popular culture",
-        "public",
-        "public radio",
-        "public service",
-        "pública",
-        "radio",
-        "radio pública",
-        "radio unam",
-        "radio universidad",
-        "radio universitaria",
-        "state college",
-        "unam",
-        "universidad",
-        "universidad autónoma de méxico",
-        "universitaire",
-        "universitaria",
-        "university",
-        "university radio"
-      ],
-      "homepage": "https://www.radio.unam.mx/",
-      "favicon": null,
-      "type": "public",
-      "sourceCount": 2,
-      "updatedAt": "2026-01-15T03:14:59Z",
-      "streams": [
-        {
-          "id": "aws_20f682c9f5f332877c72",
-          "stationId": "awb_63a19ddded2e68ec2f36",
-          "name": "Radio UNAM FM (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-          "country": "MX",
-          "url": "https://tv.radiohosting.online:9484/stream",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "179f9cc7-f155-4da7-ae65-5bdfd88123b7",
-            "fa01778a-cf8f-4151-835e-5f251ad333fb"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:20:30Z"
         }
       ]
     },
@@ -43623,8 +43232,8 @@
         "public talk radio",
         "vice city"
       ],
-      "homepage": "https://gtaradio.net/en/vcs/",
-      "favicon": "https://images.weserv.nl/?url=https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990&w=1024&h=1024&fit=contain&bg=ffffff&output=png",
+      "homepage": "https://gtaradio.net/vc/",
+      "favicon": "https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990",
       "type": "public",
       "sourceCount": 2,
       "updatedAt": "2026-10-19T15:45:53Z",
@@ -49960,7 +49569,7 @@
         "variety hits"
       ],
       "homepage": "http://www.wyml.us/",
-      "favicon": "https://www.wyml.us/assets/Logo1.png",
+      "favicon": "https://wyml.us/assets/favicon.png",
       "type": "public",
       "sourceCount": 3,
       "updatedAt": "2026-05-07T20:50:10Z",

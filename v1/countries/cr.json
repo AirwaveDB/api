@@ -1,7 +1,7 @@
 {
   "code": "CR",
-  "stationCount": 59,
-  "streamCount": 60,
+  "stationCount": 60,
+  "streamCount": 61,
   "stations": [
     {
       "id": "awb_264640d3335ca9d0ed09",
@@ -834,6 +834,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T23:41:35Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_49f01c28e4e2033fbb03",
+      "name": "Estereo Visión 98.3 FM",
+      "country": "CR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://www.estereovision.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T17:00:45Z",
+      "streams": [
+        {
+          "id": "aws_668be0800fa97040c867",
+          "stationId": "awb_49f01c28e4e2033fbb03",
+          "name": "Estereo Visión 98.3 FM",
+          "country": "CR",
+          "url": "https://live.turadio.stream:7009/",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6a802097-b54f-49c7-9eaf-a6c3896041a4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },

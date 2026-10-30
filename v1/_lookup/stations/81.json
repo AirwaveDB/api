@@ -3972,6 +3972,45 @@
       }
     ]
   },
+  "awb_81e75163fb82d4418f33": {
+    "id": "awb_81e75163fb82d4418f33",
+    "name": "Kalithea",
+    "country": "GR",
+    "subdivision": "Athens",
+    "languages": [],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "adult pop"
+    ],
+    "homepage": "https://www.kalitheapress.gr/",
+    "favicon": "https://resources.live24.gr/resources/images/stations/aa7325ea-4223-4700-b72b-0f1f10fae718.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T20:31:49Z",
+    "streams": [
+      {
+        "id": "aws_122d1c0fd5c87de91a7a",
+        "stationId": "awb_81e75163fb82d4418f33",
+        "name": "Kalithea",
+        "country": "GR",
+        "url": "https://solid55.streamupsolutions.com/proxy/kyrgxpte/stream",
+        "codec": "mp3",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9cf59784-7e75-4249-a380-173002729381"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-30T00:49:08Z"
+      }
+    ]
+  },
   "awb_814c7e9dd50c2fa45785": {
     "id": "awb_814c7e9dd50c2fa45785",
     "name": "Larissa DeeJay 95.7",
@@ -6848,7 +6887,7 @@
           "3e9038af-c3b2-457e-8115-f666a7dff5bc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },
@@ -7333,6 +7372,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T09:50:06Z"
+      }
+    ]
+  },
+  "awb_813ff7c3024019b3d731": {
+    "id": "awb_813ff7c3024019b3d731",
+    "name": "HD Radio Jazz - The Best of Jazz from Yesterday & Today",
+    "country": "US",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://hd-radio.net/jazz/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T09:30:40Z",
+    "streams": [
+      {
+        "id": "aws_eb2a33e8a4c86d2150c6",
+        "stationId": "awb_813ff7c3024019b3d731",
+        "name": "HD Radio Jazz - The Best of Jazz from Yesterday & Today",
+        "country": "US",
+        "url": "http://rosetta.shoutca.st:8290/",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "http",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "1fe80b6b-dee4-41a3-bfcd-6fba4e70d9d5"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },

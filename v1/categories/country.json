@@ -1,6 +1,6 @@
 {
   "id": "country",
-  "stationCount": 796,
+  "stationCount": 797,
   "stations": [
     {
       "id": "awb_29e9a4a80266c36730df",
@@ -4858,7 +4858,7 @@
       "id": "awb_2b7b7954faeaf86005a4",
       "name": "Rádio Cambirela - Virtual,mas real.",
       "country": "BR",
-      "subdivision": "Santa Catarina, SC",
+      "subdivision": "Santa Catarina,SC",
       "languages": [],
       "categories": [
         "country",
@@ -7886,6 +7886,53 @@
       ]
     },
     {
+      "id": "awb_8e978077913365897cb5",
+      "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
+      "country": "CA",
+      "subdivision": "Manitoba",
+      "languages": [
+        "cr",
+        "en",
+        "oj"
+      ],
+      "categories": [
+        "community",
+        "country"
+      ],
+      "tags": [
+        "alternative / indie",
+        "community radio",
+        "country",
+        "first nations"
+      ],
+      "homepage": "https://peguis.ca/index.php/departments/country-rock-radio",
+      "favicon": "https://peguis.ca/images/zCRR_Logo-01.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T03:24:20Z",
+      "streams": [
+        {
+          "id": "aws_4e6055512cd1be0b3d02",
+          "stationId": "awb_8e978077913365897cb5",
+          "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
+          "country": "CA",
+          "url": "https://cast4.my-control-panel.com/proxy/peguis1/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bfe2d634-3c5e-4ea3-9b50-db853ac56a3d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_b291fd8628daebbd33c2",
       "name": "CJGX 940 \"GX94\" Yorkton, SK aac",
       "country": "CA",
@@ -9248,6 +9295,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T15:32:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4419644a89038cc0c34d",
+      "name": "CKDM 730 Dauphin, Manitoba",
+      "country": "CA",
+      "subdivision": "Manitoba",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "country"
+      ],
+      "tags": [
+        "adult contemporary",
+        "country music"
+      ],
+      "homepage": "https://730ckdm.com/",
+      "favicon": "https://730ckdm.com/templates/g5_hydrogen/custom/images/CKDM/730ckdm.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T03:08:08Z",
+      "streams": [
+        {
+          "id": "aws_f500c15dac88124f5d40",
+          "stationId": "awb_4419644a89038cc0c34d",
+          "name": "CKDM 730 Dauphin, Manitoba",
+          "country": "CA",
+          "url": "https://ckdm.smartstreamingsolutions.ca/ssl/CKDM",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "192a78e4-db30-4276-a3f2-0db2e580fab8"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -10735,7 +10824,7 @@
             "e1acc817-4627-40dc-a688-7078917df20c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T22:40:48Z"
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -16806,53 +16895,6 @@
       ]
     },
     {
-      "id": "awb_8b6e5841814f4da78453",
-      "name": "JN FM TAMIL",
-      "country": "IN",
-      "subdivision": "Tampere",
-      "languages": [
-        "ta"
-      ],
-      "categories": [
-        "classical",
-        "country"
-      ],
-      "tags": [
-        "classical",
-        "country",
-        "music",
-        "music non stop",
-        "music radio"
-      ],
-      "homepage": "https://jnfmtamil.wixsite.com/jnfmtamil",
-      "favicon": "https://www.wix.com/favicon.ico",
-      "type": null,
-      "sourceCount": 9,
-      "updatedAt": "2026-01-15T08:42:10Z",
-      "streams": [
-        {
-          "id": "aws_bd92920d227c22412dd6",
-          "stationId": "awb_8b6e5841814f4da78453",
-          "name": "JN FM TAMIL",
-          "country": "IN",
-          "url": "http://stream.zeno.fm/0wck59rarchvv",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "25478d50-e167-438e-b60c-9de655e3760b",
-            "377b4fec-5890-4144-bdb1-c909a30c2415"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T01:53:26Z"
-        }
-      ]
-    },
-    {
       "id": "awb_7f6e99198959aa3b3953",
       "name": "Pollachi Fm",
       "country": "IN",
@@ -17142,7 +17184,7 @@
             "f91c9f21-39f0-4d7d-8b93-76314e23ff48"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -17150,7 +17192,7 @@
       "id": "awb_2ec5014d6733135a428b",
       "name": "Radio Meano",
       "country": "IT",
-      "subdivision": "Belluno",
+      "subdivision": "Veneto",
       "languages": [
         "it"
       ],
@@ -26542,7 +26584,7 @@
             "4788ec3b-5e2c-4ea9-a2cb-c407956b6eb8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -28377,7 +28419,7 @@
             "5b053462-dc22-4d20-8152-32a088d4ee1a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -29765,7 +29807,7 @@
             "e208d238-080f-4813-90cf-73c63c1bf7a0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -33119,7 +33161,7 @@
           "stationId": "awb_0e5d36d84c41c555d076",
           "name": "WDXB \"102.5 The Bull\" - Birmingham, Alabama",
           "country": "US",
-          "url": "https://n16b-e2.revma.ihrhls.com/zc3089",
+          "url": "https://n2eb-e2.revma.ihrhls.com/zc3089",
           "codec": "aac",
           "bitrate": 0,
           "protocol": "https",
@@ -33131,7 +33173,7 @@
             "17958225-4028-43a0-af2c-76298aab1ea7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },

@@ -965,7 +965,7 @@
           "dc699a1f-9d20-4993-b42d-70d28e444a87"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T02:40:54Z"
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },
@@ -4500,7 +4500,7 @@
           "be404341-b7b7-44aa-9875-102cf91b0fcc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:43:15Z"
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
       }
     ]
   },
@@ -5603,8 +5603,8 @@
         "name": "Vaigai FM",
         "country": "IN",
         "url": "https://centova1.dribbcast.com/proxy/vaigaifm/stream",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -5614,7 +5614,7 @@
           "b785e08f-e01a-4603-ad22-04616839a4c1"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },
@@ -8492,6 +8492,47 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T03:28:21Z"
+      }
+    ]
+  },
+  "awb_75d50e00041910f1f082": {
+    "id": "awb_75d50e00041910f1f082",
+    "name": "Pal Station",
+    "country": "TR",
+    "subdivision": "Music",
+    "languages": [
+      "en",
+      "tr"
+    ],
+    "categories": [],
+    "tags": [
+      "yabancı"
+    ],
+    "homepage": "https://paldigital.com.tr/radyolar/pal-station",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T21:40:57Z",
+    "streams": [
+      {
+        "id": "aws_c01c301ea851b5d4bb98",
+        "stationId": "awb_75d50e00041910f1f082",
+        "name": "Pal Station",
+        "country": "TR",
+        "url": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8",
+        "codec": "aac+",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9bec7641-f013-42a2-8a12-e98c7fa2c059",
+          "de24dd7d-b362-4153-aaaa-c35ecddf41ff"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
       }
     ]
   },

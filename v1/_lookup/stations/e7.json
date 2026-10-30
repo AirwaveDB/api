@@ -3343,6 +3343,48 @@
       }
     ]
   },
+  "awb_e7933482b4c78d35a991": {
+    "id": "awb_e7933482b4c78d35a991",
+    "name": "Bula FM",
+    "country": "FJ",
+    "subdivision": null,
+    "languages": [
+      "fj"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "itaukei hits",
+      "traditional"
+    ],
+    "homepage": "https://sere.plus/",
+    "favicon": "https://media.viti.plus/wp-content/uploads/2025/05/bula_fm_logo_500x500.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T12:00:46Z",
+    "streams": [
+      {
+        "id": "aws_f1eae7c488fbdd17390d",
+        "stationId": "awb_e7933482b4c78d35a991",
+        "name": "Bula FM",
+        "country": "FJ",
+        "url": "https://icecast1.sere.plus/Bula",
+        "codec": "aac+",
+        "bitrate": 24,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "cffba3c2-ad5b-42de-9f7e-b25fead272f7"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
+      }
+    ]
+  },
   "awb_e7636457f6e4f23ba17c": {
     "id": "awb_e7636457f6e4f23ba17c",
     "name": "Adhan-92100",
@@ -3563,7 +3605,6 @@
       "hls",
       "jazz",
       "m3u8",
-      "music",
       "public radio",
       "radio france",
       "talk"
@@ -3571,29 +3612,9 @@
     "homepage": "https://www.radiofrance.fr/francemusique",
     "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
     "type": "public",
-    "sourceCount": 8,
+    "sourceCount": 5,
     "updatedAt": "2026-10-15T04:55:47Z",
     "streams": [
-      {
-        "id": "aws_b91ebb9f0798e1f3173c",
-        "stationId": "awb_e7280c1281f2949961b8",
-        "name": "France Musique",
-        "country": "FR",
-        "url": "http://icecast.radiofrance.fr/francemusique-hifi.aac",
-        "codec": "aac",
-        "bitrate": 192,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "21b83eb8-370d-4076-a9bb-3d443fa5a449",
-          "33f93e78-ea93-4a36-a725-a8458c66d819"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T00:20:58Z"
-      },
       {
         "id": "aws_6ca3ff3facd481be5ef1",
         "stationId": "awb_e7280c1281f2949961b8",
@@ -3985,7 +4006,7 @@
           "55ff9071-33e4-4bfc-b88c-c789956534dc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T16:24:45Z"
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },
@@ -6390,7 +6411,7 @@
     "id": "awb_e7b624d1e594c8bb57a4",
     "name": "Domstad Radio",
     "country": "NL",
-    "subdivision": "Utrecht, Utrecht",
+    "subdivision": "Utrecht",
     "languages": [
       "nl"
     ],
@@ -6403,7 +6424,7 @@
       "top 40"
     ],
     "homepage": "https://domstadradio.nl/",
-    "favicon": "https://domstadradio.nl/wp-content/uploads/2024/04/Logo_modern_trans_wit.png",
+    "favicon": "https://domstadradio.nl/uploads/1790411210483-10406851.png",
     "type": null,
     "sourceCount": 4,
     "updatedAt": "2026-10-12T03:00:48Z",

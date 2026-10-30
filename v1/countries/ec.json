@@ -1,7 +1,7 @@
 {
   "code": "EC",
-  "stationCount": 153,
-  "streamCount": 155,
+  "stationCount": 155,
+  "streamCount": 157,
   "stations": [
     {
       "id": "awb_f36122d4819d9ca5934a",
@@ -69,7 +69,7 @@
             "2470939f-bb77-4193-a35b-3d93d4cb7da7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -832,7 +832,7 @@
             "321cfe8f-5319-4192-a782-3969a64dbeaa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -867,7 +867,7 @@
             "1edb99b0-006b-4655-8d15-281eb1bafdd2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -2279,6 +2279,47 @@
       ]
     },
     {
+      "id": "awb_76a14f8707c0d003231c",
+      "name": "Oro Verde",
+      "country": "EC",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "latin",
+        "pop"
+      ],
+      "tags": [
+        "latin pop",
+        "variedad"
+      ],
+      "homepage": "https://radiooroverde.com/public/oroverde",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T23:51:21Z",
+      "streams": [
+        {
+          "id": "aws_f36d65271b9a2f5a28ee",
+          "stationId": "awb_76a14f8707c0d003231c",
+          "name": "Oro Verde",
+          "country": "EC",
+          "url": "https://radiooroverde.com/listen/oroverde/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7b70c207-0c51-4d1e-958f-cb608ec5d4fb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
+        }
+      ]
+    },
+    {
       "id": "awb_6d68e6d40776aee0b88b",
       "name": "Pa ti Pati cumbia",
       "country": "EC",
@@ -3680,6 +3721,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T17:36:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_cfb9d678c0f653feda09",
+      "name": "Radio Carisma",
+      "country": "EC",
+      "subdivision": "Carchi",
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://onlineradiobox.com/ec/extremahd/?cs=ec.extremahd&played=1",
+      "favicon": "https://cdn.onlineradiobox.com/img/l/1/84501.v12.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T13:46:42Z",
+      "streams": [
+        {
+          "id": "aws_25537eb2a80b61a97178",
+          "stationId": "awb_cfb9d678c0f653feda09",
+          "name": "Radio Carisma",
+          "country": "EC",
+          "url": "https://aacplus.rstreaminghd.com:7081/live",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "e5c99c37-7e28-4b60-95ef-992444bc4350"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },

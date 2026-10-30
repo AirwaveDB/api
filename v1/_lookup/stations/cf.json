@@ -3010,6 +3010,41 @@
       }
     ]
   },
+  "awb_cfb9d678c0f653feda09": {
+    "id": "awb_cfb9d678c0f653feda09",
+    "name": "Radio Carisma",
+    "country": "EC",
+    "subdivision": "Carchi",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://onlineradiobox.com/ec/extremahd/?cs=ec.extremahd&played=1",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/1/84501.v12.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T13:46:42Z",
+    "streams": [
+      {
+        "id": "aws_25537eb2a80b61a97178",
+        "stationId": "awb_cfb9d678c0f653feda09",
+        "name": "Radio Carisma",
+        "country": "EC",
+        "url": "https://aacplus.rstreaminghd.com:7081/live",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "e5c99c37-7e28-4b60-95ef-992444bc4350"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
+      }
+    ]
+  },
   "awb_cff3e29db260d67bbb79": {
     "id": "awb_cff3e29db260d67bbb79",
     "name": "radio nahya",
@@ -7429,7 +7464,7 @@
           "e794330e-10aa-4bc8-935c-085d141e0a77"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },
@@ -7743,6 +7778,62 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T15:08:38Z"
+      }
+    ]
+  },
+  "awb_cf8d7b63f421f21970e5": {
+    "id": "awb_cf8d7b63f421f21970e5",
+    "name": "Neon Current",
+    "country": "SG",
+    "subdivision": null,
+    "languages": [
+      "cmn",
+      "en"
+    ],
+    "categories": [
+      "electronic",
+      "jazz",
+      "pop",
+      "reggae",
+      "rock",
+      "talk"
+    ],
+    "tags": [
+      "ai music",
+      "electronic",
+      "jazz",
+      "mandopop",
+      "original music",
+      "pop",
+      "reggae",
+      "rock",
+      "talk",
+      "various"
+    ],
+    "homepage": "https://radio.neoncurrent.dev/",
+    "favicon": "https://radio.neoncurrent.dev/static/brand/icon-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T06:47:39Z",
+    "streams": [
+      {
+        "id": "aws_0a8548e08ac36e9c072f",
+        "stationId": "awb_cf8d7b63f421f21970e5",
+        "name": "Neon Current",
+        "country": "SG",
+        "url": "https://stream.neoncurrent.dev/radio.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "90d57966-01d3-4bdc-9232-35794ba1aac4"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

@@ -4614,6 +4614,41 @@
       }
     ]
   },
+  "awb_3775bfe91aa163fbf948": {
+    "id": "awb_3775bfe91aa163fbf948",
+    "name": "Imaret Online",
+    "country": "GR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://imaret.online/",
+    "favicon": "https://imaret.online/favicon.ico?utm_source=chatgpt.com",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T12:39:04Z",
+    "streams": [
+      {
+        "id": "aws_44b43a8cd262f5c643d8",
+        "stationId": "awb_3775bfe91aa163fbf948",
+        "name": "Imaret Online",
+        "country": "GR",
+        "url": "https://c16.radioboss.fm:8398/stream",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "f938fee9-3175-4880-894f-4e71aeb66514"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
+      }
+    ]
+  },
   "awb_37feba7edb9221f4a103": {
     "id": "awb_37feba7edb9221f4a103",
     "name": "Minore 96.8",
@@ -8281,21 +8316,64 @@
     "id": "awb_37f285b28fb0471cffed",
     "name": "Русское Радио",
     "country": "RU",
-    "subdivision": "Москва",
-    "languages": [],
+    "subdivision": "cremea",
+    "languages": [
+      "ru"
+    ],
     "categories": [
       "pop"
     ],
     "tags": [
-      "misc",
-      "pop"
+      "music",
+      "pop",
+      "pop music",
+      "russian music",
+      "russian pop"
     ],
-    "homepage": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "homepage": "https://rusradio.ru/",
     "favicon": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
     "type": null,
     "sourceCount": 5,
     "updatedAt": "2026-08-24",
     "streams": [
+      {
+        "id": "aws_777baf75688764ff2937",
+        "stationId": "awb_37f285b28fb0471cffed",
+        "name": "Русское Радио",
+        "country": "RU",
+        "url": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8",
+        "codec": "aac",
+        "bitrate": 100,
+        "protocol": "https",
+        "hls": true,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "fb1a0fe3-fa05-45b5-9944-6741a40a29b8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-27T09:20:04Z"
+      },
+      {
+        "id": "aws_0874020abc33509d4f6b",
+        "stationId": "awb_37f285b28fb0471cffed",
+        "name": "Русское радио",
+        "country": "RU",
+        "url": "https://radio.promedia.ru/rr-simf",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "7dcb30f4-f541-49c8-a45d-7b9fa24cf163"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-27T00:44:14Z"
+      },
       {
         "id": "aws_abf22fc1a9605370f24d",
         "stationId": "awb_37f285b28fb0471cffed",
@@ -8318,7 +8396,7 @@
       {
         "id": "aws_7e3da34929076c80c869",
         "stationId": "awb_37f285b28fb0471cffed",
-        "name": "РУССКОЕ РАДИО",
+        "name": "Русское Радио",
         "country": "RU",
         "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
         "codec": "aac",

@@ -1,6 +1,6 @@
 {
   "code": "ja",
-  "stationCount": 121,
+  "stationCount": 122,
   "stations": [
     {
       "id": "awb_672ac2806e24265df098",
@@ -162,6 +162,54 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T23:40:25Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2cc653899d08d11158b2",
+      "name": "Rádio UP!",
+      "country": "BR",
+      "subdivision": "São Paulo (SP)",
+      "languages": [
+        "ja",
+        "pt"
+      ],
+      "categories": [
+        "anime",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "anime",
+        "asian programming",
+        "j-music",
+        "j-pop",
+        "j-rock"
+      ],
+      "homepage": "https://radioup.antbr.com/",
+      "favicon": "https://radioup.antbr.com/images/logos/logo_player.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T23:27:15Z",
+      "streams": [
+        {
+          "id": "aws_b26aaa8b97a5da065094",
+          "stationId": "awb_2cc653899d08d11158b2",
+          "name": "Rádio UP!",
+          "country": "BR",
+          "url": "http://saber.intra.antbr.com:8010/radio",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0f6eb7bd-ad89-4a75-83b9-e0eb05d698a1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -3613,7 +3661,7 @@
             "baa56155-7308-4085-bcf6-174e5bb22494"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },

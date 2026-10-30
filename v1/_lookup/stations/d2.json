@@ -2098,41 +2098,6 @@
       }
     ]
   },
-  "awb_d2945a921fca5940716e": {
-    "id": "awb_d2945a921fca5940716e",
-    "name": "1live",
-    "country": "DE",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": null,
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:03Z",
-    "streams": [
-      {
-        "id": "aws_aa43b756506140742411",
-        "stationId": "awb_d2945a921fca5940716e",
-        "name": "1live",
-        "country": "DE",
-        "url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "14cb94a3-e127-4952-bc38-ab3928f2fd8d"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T21:42:11Z"
-      }
-    ]
-  },
   "awb_d2c6c998ec8c5edde23a": {
     "id": "awb_d2c6c998ec8c5edde23a",
     "name": "50s 60s Radio",
@@ -5889,6 +5854,46 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T03:45:48Z"
+      }
+    ]
+  },
+  "awb_d2e9696a9dfdff0d4b15": {
+    "id": "awb_d2e9696a9dfdff0d4b15",
+    "name": "Stereo 95 95.1 FM",
+    "country": "MX",
+    "subdivision": "Irapuato, Guanajuato",
+    "languages": [],
+    "categories": [
+      "oldies",
+      "pop"
+    ],
+    "tags": [
+      "classic hits 60s 70a 80s"
+    ],
+    "homepage": "https://stereo95.com/",
+    "favicon": "https://static.wixstatic.com/media/e6c807_4ed68edc9f9142daa2327192a0d496ed~mv2.png/v1/fill/w_151,h_69,al_c,q_85,enc_avif,quality_auto/Logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:02:37Z",
+    "streams": [
+      {
+        "id": "aws_ca3391cb09e7a28dfc6a",
+        "stationId": "awb_d2e9696a9dfdff0d4b15",
+        "name": "Stereo 95 95.1 FM",
+        "country": "MX",
+        "url": "https://stream9.mexiserver.com/8424/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "261289bc-e417-4fdd-82d2-c95be675ae3b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },

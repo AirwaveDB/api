@@ -4894,6 +4894,41 @@
       }
     ]
   },
+  "awb_c44ab4140025d50d0785": {
+    "id": "awb_c44ab4140025d50d0785",
+    "name": "Reichmann AudioVersity",
+    "country": "IL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://1062fm.co.il/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T03:44:32Z",
+    "streams": [
+      {
+        "id": "aws_da5aca621327fdf07e7f",
+        "stationId": "awb_c44ab4140025d50d0785",
+        "name": "Reichmann AudioVersity",
+        "country": "IL",
+        "url": "https://1062onair.runi.ac.il/idc123.mp3",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d49053be-1450-42f7-94dc-fbc6406c719e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_c463972f57502d673851": {
     "id": "awb_c463972f57502d673851",
     "name": "Manx Radio FM",
@@ -5325,6 +5360,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T19:29:18Z"
+      }
+    ]
+  },
+  "awb_c4784c21407d12e01673": {
+    "id": "awb_c4784c21407d12e01673",
+    "name": "RTL 102.5",
+    "country": "IT",
+    "subdivision": "Italy",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "pop",
+      "rock"
+    ],
+    "tags": [
+      "pop dance",
+      "pop rock"
+    ],
+    "homepage": "https://play.rtl.it/live/1/radiovisione",
+    "favicon": "https://www.rtl.it/favicon.ico",
+    "type": null,
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T14:21:22Z",
+    "streams": [
+      {
+        "id": "aws_3a841186c0250b7e81b1",
+        "stationId": "awb_c4784c21407d12e01673",
+        "name": "RTL 102.5",
+        "country": "IT",
+        "url": "https://stream.rcast.net/210096",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "67fdbb33-7d0f-49dc-aae2-60184d0e985b",
+          "9d55287f-08ef-46af-b200-ecad1826173d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },

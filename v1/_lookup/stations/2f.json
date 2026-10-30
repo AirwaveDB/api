@@ -595,7 +595,7 @@
           "855aa7ec-7282-4681-9c25-42e93fd6b873"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:43:15Z"
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
       }
     ]
   },
@@ -806,6 +806,57 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T18:39:48Z"
+      }
+    ]
+  },
+  "awb_2ff02265a39913a37e9e": {
+    "id": "awb_2ff02265a39913a37e9e",
+    "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "96.5 fm",
+      "lavras",
+      "local news",
+      "minas gerais",
+      "mpb",
+      "news",
+      "sertanejo",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://radioculturadelavras.com.br/",
+    "favicon": "https://radioculturadelavras.com.br/midia/marca/radio-cultura-lavras-quadrada-512.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T15:07:09Z",
+    "streams": [
+      {
+        "id": "aws_5b5b05c089f6e8f30c33",
+        "stationId": "awb_2ff02265a39913a37e9e",
+        "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+        "country": "BR",
+        "url": "https://servidor36.brlogic.com:7048/live",
+        "codec": "aac+",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "05b040f9-7380-4c25-936f-019402fc5d94"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },

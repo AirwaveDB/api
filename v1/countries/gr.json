@@ -1,7 +1,7 @@
 {
   "code": "GR",
-  "stationCount": 2003,
-  "streamCount": 2082,
+  "stationCount": 2010,
+  "streamCount": 2089,
   "stations": [
     {
       "id": "awb_f5f40894daec9900cad0",
@@ -2573,6 +2573,45 @@
       ]
     },
     {
+      "id": "awb_7f4d65a94fa34672002d",
+      "name": "20th Century Classical Radio",
+      "country": "GR",
+      "subdivision": "Athens",
+      "languages": [],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical"
+      ],
+      "homepage": "https://20thclassicalmusic.gr/",
+      "favicon": "https://20thclassicalmusic.gr/wp-content/uploads/2026/10/logo-1.webp",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:13:30Z",
+      "streams": [
+        {
+          "id": "aws_18f0467f16e7075a4ac1",
+          "stationId": "awb_7f4d65a94fa34672002d",
+          "name": "20th Century Classical Radio",
+          "country": "GR",
+          "url": "https://cast1.asurahosting.com/proxy/yiannis6/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "2dfd495e-d893-4751-9dbc-40070ae4e9d1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7595edd9dd89a386f091",
       "name": "21.ΕΡΑ Vintage",
       "country": "GR",
@@ -2640,7 +2679,7 @@
             "aec00c97-9869-4ba2-99e6-d17fc9ba2a41"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -3994,7 +4033,7 @@
       "id": "awb_b75cfc000841a41fb8db",
       "name": "9.ΕΡΑ sports",
       "country": "GR",
-      "subdivision": "Athens",
+      "subdivision": "Attica, Athens",
       "languages": [
         "el"
       ],
@@ -12344,7 +12383,7 @@
       "languages": [],
       "categories": [],
       "tags": [],
-      "homepage": "http://s6.citrus3.com/stream/coolradio",
+      "homepage": "https://s6.citrus3.com/stream/coolradio",
       "favicon": null,
       "type": null,
       "sourceCount": 2,
@@ -16711,7 +16750,7 @@
       "id": "awb_26a51cf565919736f4ad",
       "name": "eMusic Site",
       "country": "GR",
-      "subdivision": "Attiki",
+      "subdivision": "Attica, Athens",
       "languages": [
         "el",
         "en"
@@ -16899,7 +16938,7 @@
             "0f6b7387-13cb-4be4-9d55-66f2e5ce0e0e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -17173,13 +17212,17 @@
       "country": "GR",
       "subdivision": null,
       "languages": [],
-      "categories": [],
-      "tags": [],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "adult hits"
+      ],
       "homepage": "https://cosmopolitanradio.com/",
       "favicon": "https://cosmopolitanradio.com/wp-content/uploads/2025/01/cropped-Epic-1.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:07Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-29T20:16:38Z",
       "streams": [
         {
           "id": "aws_ae27e9d5f07d8975403e",
@@ -17195,10 +17238,11 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "5df1550d-d7f3-494f-a5cb-69968efcf44b"
+            "5df1550d-d7f3-494f-a5cb-69968efcf44b",
+            "a758a1ac-7ec0-46b5-8c02-bd9ae5516c13"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T17:29:56Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -24698,6 +24742,41 @@
       ]
     },
     {
+      "id": "awb_3775bfe91aa163fbf948",
+      "name": "Imaret Online",
+      "country": "GR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://imaret.online/",
+      "favicon": "https://imaret.online/favicon.ico?utm_source=chatgpt.com",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T12:39:04Z",
+      "streams": [
+        {
+          "id": "aws_44b43a8cd262f5c643d8",
+          "stationId": "awb_3775bfe91aa163fbf948",
+          "name": "Imaret Online",
+          "country": "GR",
+          "url": "https://c16.radioboss.fm:8398/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "f938fee9-3175-4880-894f-4e71aeb66514"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_2ea9cf76aad143ea3ac1",
       "name": "Imera FM 90.4",
       "country": "GR",
@@ -24766,6 +24845,49 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T08:19:39Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d735f03de9d4cc3cd0db",
+      "name": "Innersound Radio",
+      "country": "GR",
+      "subdivision": "Athens",
+      "languages": [],
+      "categories": [
+        "jazz",
+        "rock"
+      ],
+      "tags": [
+        "alternative",
+        "indie",
+        "jazz",
+        "rock"
+      ],
+      "homepage": "https://innersound-radio.com/",
+      "favicon": "https://cdn.e-radio.gr/logos/gr/big/innersound.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:20:11Z",
+      "streams": [
+        {
+          "id": "aws_abce75b067198891098b",
+          "stationId": "awb_d735f03de9d4cc3cd0db",
+          "name": "Innersound Radio",
+          "country": "GR",
+          "url": "https://music.innersound-radio.com/proxy/nnrsnd//;?type=http",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d54e63f2-a247-4732-9953-90345fce5443"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -25369,6 +25491,41 @@
       ]
     },
     {
+      "id": "awb_b464853b598244df4857",
+      "name": "je t'aime club",
+      "country": "GR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://www.jetaimeclubradio.gr/",
+      "favicon": "https://www.jetaimeclubradio.gr/images/298333_252413334798724_6729792_n.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T20:03:11Z",
+      "streams": [
+        {
+          "id": "aws_86be4761155bcf5edc00",
+          "stationId": "awb_b464853b598244df4857",
+          "name": "je t'aime club",
+          "country": "GR",
+          "url": "https://premium.streams.gr/sc/zetem/stream?1793304060506",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "37f1f93e-bc2c-4bf3-9a3f-9340906ee7b1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
       "id": "awb_e7949dcedd1e60c4d128",
       "name": "Jockey",
       "country": "GR",
@@ -25526,6 +25683,45 @@
       ]
     },
     {
+      "id": "awb_81e75163fb82d4418f33",
+      "name": "Kalithea",
+      "country": "GR",
+      "subdivision": "Athens",
+      "languages": [],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "adult pop"
+      ],
+      "homepage": "https://www.kalitheapress.gr/",
+      "favicon": "https://resources.live24.gr/resources/images/stations/aa7325ea-4223-4700-b72b-0f1f10fae718.jpg",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T20:31:49Z",
+      "streams": [
+        {
+          "id": "aws_122d1c0fd5c87de91a7a",
+          "stationId": "awb_81e75163fb82d4418f33",
+          "name": "Kalithea",
+          "country": "GR",
+          "url": "https://solid55.streamupsolutions.com/proxy/kyrgxpte/stream",
+          "codec": "mp3",
+          "bitrate": 320,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9cf59784-7e75-4249-a380-173002729381"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c4ce19932466b432a103",
       "name": "Kalloni 87.5",
       "country": "GR",
@@ -25641,6 +25837,45 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-28T01:31:01Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5daf4d1f3882debc368d",
+      "name": "Kartel",
+      "country": "GR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "hip-hop"
+      ],
+      "tags": [
+        "hiphop"
+      ],
+      "homepage": "https://lalala.gr/#kartel",
+      "favicon": "https://lalala.gr/wp-content/uploads/2022/08/small-logo-kartel.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T20:45:28Z",
+      "streams": [
+        {
+          "id": "aws_cc0f4c2cfc382a2910dd",
+          "stationId": "awb_5daf4d1f3882debc368d",
+          "name": "Kartel",
+          "country": "GR",
+          "url": "https://stream.rcs.revma.com/zp7ndnm6xxcwv?dist=karteliasweb&lsid=cookie%3Adbf7b278-21b1-44e4-8199-d75ad1473d6d&gdpr=1&gdpr_consent=CQs2X0AQs2X0AAKA9AENC2FgAAAAAEPgAAyIAAATOgIAALAAqACAAGQARQAmABdAD8AISAdwB3gEWAPaAlUBeYDLAJnAAAAA.ILOQHYAFAAWABWADAAMgAgABaADIAIsATABNACkAFsALoAXwAwgB-gEGAQkA7gDvAItAXUBdgDgAHtAP2AjEBKoCWQF5gMZAZYBM4Czg.YAAAAAAAAAAA",
+          "codec": "aac",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7a97a47e-a93f-446d-b7e9-f05908ae096e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -27842,7 +28077,7 @@
             "eb41cd08-5881-4304-b2ac-4dec4a47b4d4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -49013,7 +49248,7 @@
             "9b9f71ff-3a0d-475f-8017-91ef84f233b3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-29T03:40:31Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -62465,6 +62700,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T10:47:21Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f45f5add3b7d37308c96",
+      "name": "XENIS Radio",
+      "country": "GR",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "ambient",
+        "classical",
+        "jazz"
+      ],
+      "tags": [
+        "ambient",
+        "classical",
+        "jazz",
+        "soundtracks"
+      ],
+      "homepage": "https://xenisradio.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T12:23:12Z",
+      "streams": [
+        {
+          "id": "aws_dbb80fed2bccda966572",
+          "stationId": "awb_f45f5add3b7d37308c96",
+          "name": "XENIS Radio",
+          "country": "GR",
+          "url": "https://c16.radioboss.fm:8398/stream",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "ee24029a-cb9c-454f-936a-ec69969b51ee"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -80451,7 +80730,7 @@
             "4ac17566-161c-4804-a62e-33136567dfd1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },

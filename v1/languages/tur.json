@@ -1,7 +1,7 @@
 {
   "code": "tur",
   "canonicalCode": "tr",
-  "stationCount": 276,
+  "stationCount": 277,
   "stations": [
     {
       "id": "awb_3991cff5ecd54ec53ecb",
@@ -1230,34 +1230,14 @@
       ],
       "tags": [
         "90s hits",
-        "hits 90's",
         "turkish pop"
       ],
       "homepage": "https://radyohome.com/radyolar/90lar",
       "favicon": "https://onlineradio.com.tr/images/50_radio.png",
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-09-24T10:59:26Z",
       "streams": [
-        {
-          "id": "aws_8392929bd225d7bba34b",
-          "stationId": "awb_c9899eb14c0141889244",
-          "name": "90'lar Türkçe Pop",
-          "country": "TR",
-          "url": "http://37.247.98.8/stream/166/",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "debc991f-1509-44cf-aba0-6c3975691444"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T04:51:52Z"
-        },
         {
           "id": "aws_25463e14ae11c95697d4",
           "stationId": "awb_c9899eb14c0141889244",
@@ -1276,6 +1256,48 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T17:50:53Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f60d67e451bdf573636f",
+      "name": "90lar turkey",
+      "country": "TR",
+      "subdivision": null,
+      "languages": [
+        "tr"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "hits 90's",
+        "turkish pop"
+      ],
+      "homepage": "https://radyohome.com/radyolar/90lar",
+      "favicon": "https://onlineradio.com.tr/images/50_radio.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:03Z",
+      "streams": [
+        {
+          "id": "aws_5c6983591578d724e575",
+          "stationId": "awb_f60d67e451bdf573636f",
+          "name": "90lar turkey",
+          "country": "TR",
+          "url": "http://37.247.98.8/stream/166/",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "33128b7d-e1b9-46e3-be4d-8515b186a9a2"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T23:53:06Z"
         }
       ]
     },
@@ -6086,6 +6108,47 @@
       ]
     },
     {
+      "id": "awb_75d50e00041910f1f082",
+      "name": "Pal Station",
+      "country": "TR",
+      "subdivision": "Music",
+      "languages": [
+        "en",
+        "tr"
+      ],
+      "categories": [],
+      "tags": [
+        "yabancı"
+      ],
+      "homepage": "https://paldigital.com.tr/radyolar/pal-station",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-29T21:40:57Z",
+      "streams": [
+        {
+          "id": "aws_c01c301ea851b5d4bb98",
+          "stationId": "awb_75d50e00041910f1f082",
+          "name": "Pal Station",
+          "country": "TR",
+          "url": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9bec7641-f013-42a2-8a12-e98c7fa2c059",
+            "de24dd7d-b362-4153-aaaa-c35ecddf41ff"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
+        }
+      ]
+    },
+    {
       "id": "awb_d0b7d5fb8b7d4aa85c23",
       "name": "POP 90",
       "country": "TR",
@@ -8556,7 +8619,7 @@
             "72be11e4-e127-448e-85f7-62b7a74dfbef"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -10049,48 +10112,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T00:38:27Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_11b619e59842d673a374",
-      "name": "S1lhoutte - 90's FM",
-      "country": "TR",
-      "subdivision": "Istanbul",
-      "languages": [
-        "tr"
-      ],
-      "categories": [
-        "oldies"
-      ],
-      "tags": [
-        "90s",
-        "slow"
-      ],
-      "homepage": "http://37.247.98.8/stream/166/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T06:00:01Z",
-      "streams": [
-        {
-          "id": "aws_b25a8709cb49fadf2563",
-          "stationId": "awb_11b619e59842d673a374",
-          "name": "S1lhoutte - 90's FM",
-          "country": "TR",
-          "url": "http://37.247.98.8/stream/166/",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "d18bc82b-cc63-40e3-87ff-69411d3ebadd"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T18:22:53Z"
         }
       ]
     },

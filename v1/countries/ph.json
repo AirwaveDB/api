@@ -1,7 +1,7 @@
 {
   "code": "PH",
-  "stationCount": 772,
-  "streamCount": 827,
+  "stationCount": 776,
+  "streamCount": 831,
   "stations": [
     {
       "id": "awb_014fd2bb41b7a724479e",
@@ -3116,14 +3116,14 @@
     },
     {
       "id": "awb_0a435f30dce89dbe203f",
-      "name": "98.5 Radio John Binalbagan",
+      "name": "98.5 RADIO JOHN BINALBAGAN",
       "country": "PH",
       "subdivision": null,
       "languages": [],
       "categories": [],
       "tags": [],
       "homepage": "https://985radiojohn.weebly.com/",
-      "favicon": "https://985radiojohn.weebly.com/uploads/1/2/0/7/120752597/editor/radio-john-logo-1.png?1617251393",
+      "favicon": "https://985radiojohn.weebly.com/uploads/1/2/0/7/120752597/published/rjlogo2024.png?1728216327",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-24",
@@ -3298,7 +3298,7 @@
       "id": "awb_5989de5122b255078072",
       "name": "99.5 DZYW koolFM",
       "country": "PH",
-      "subdivision": "Quezon City",
+      "subdivision": "Metro Manila",
       "languages": [
         "en"
       ],
@@ -14037,6 +14037,41 @@
       ]
     },
     {
+      "id": "awb_6296e51036862712b0c5",
+      "name": "iFM Cagayan de Oro",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "http://rmn.ph/ifm991cdo",
+      "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-iFM-CDO.png?w=592&ssl=1",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T12:19:49Z",
+      "streams": [
+        {
+          "id": "aws_e26d96e832d86f700515",
+          "stationId": "awb_6296e51036862712b0c5",
+          "name": "iFM Cagayan de Oro",
+          "country": "PH",
+          "url": "http://livestream.rmn.ph:8000/ifmcdo",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "71ebab9a-ce19-4f2a-822d-473449e3d682"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_4d080535873190828d46",
       "name": "iFM Cauayan",
       "country": "PH",
@@ -14103,6 +14138,76 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-29T03:40:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_55f006639a70840b771c",
+      "name": "iFM Dagupan",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://rmn.ph/ifm1047dagupan/",
+      "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-iFM-Dagupan.png?w=696&ssl=1",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T12:22:09Z",
+      "streams": [
+        {
+          "id": "aws_5370bb8de919322c984e",
+          "stationId": "awb_55f006639a70840b771c",
+          "name": "iFM Dagupan",
+          "country": "PH",
+          "url": "http://livestream.rmn.ph:8000/ifmdagupan",
+          "codec": "mp3",
+          "bitrate": 96,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "fc9e3de4-3431-42d5-8d98-85f242cf45fd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5d45304524c2863a2da2",
+      "name": "iFM Davao",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://rmn.ph/ifm939davao/",
+      "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/07/2019-iFM-Davao.png?w=592&ssl=1",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T12:24:02Z",
+      "streams": [
+        {
+          "id": "aws_c0d083443f77db6f212a",
+          "stationId": "awb_5d45304524c2863a2da2",
+          "name": "iFM Davao",
+          "country": "PH",
+          "url": "http://livestream.rmn.ph:8000/ifmdavao",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "85a9e0d4-b84d-449c-9dd7-eeea2463ffcc"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },
@@ -18434,7 +18539,7 @@
             "fc36e225-7d61-4492-b35d-dc87fdf0ed4d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -24315,6 +24420,41 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-28T01:53:26Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6977c852e2d5df42aa95",
+      "name": "RMN DXCC 828 Cagayan De Oro",
+      "country": "PH",
+      "subdivision": null,
+      "languages": [],
+      "categories": [],
+      "tags": [],
+      "homepage": "https://rmn.ph/dxcc828cdo/",
+      "favicon": "https://i0.wp.com/rmn.ph/wp-content/uploads/2019/08/CDO.png?w=400&ssl=1",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T12:29:35Z",
+      "streams": [
+        {
+          "id": "aws_df4ce3f2e3783fb4c2b8",
+          "stationId": "awb_6977c852e2d5df42aa95",
+          "name": "RMN DXCC 828 Cagayan De Oro",
+          "country": "PH",
+          "url": "http://livestream.rmn.ph:8000/rmncdo",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d780b8a6-bd93-42b9-b878-2dc1dbecba4b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },

@@ -3376,28 +3376,9 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-03-05T13:37:59Z",
     "streams": [
-      {
-        "id": "aws_c4cf95c8695ca25b4f34",
-        "stationId": "awb_0f23f947c5968c979b86",
-        "name": "France Musique",
-        "country": "FR",
-        "url": "http://icecast.radiofrance.fr/francemusique-hifi.aac",
-        "codec": "aac",
-        "bitrate": 192,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "87d3a239-53e6-4761-9974-fc5606950068"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T04:25:40Z"
-      },
       {
         "id": "aws_9f15535a2dae93149053",
         "stationId": "awb_0f23f947c5968c979b86",
@@ -5316,7 +5297,7 @@
           "f62a07b1-7585-4af8-8e70-8a30d058cb9d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T16:24:45Z"
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },
@@ -6847,7 +6828,52 @@
           "c7668dc2-e960-4c5c-831f-22ff1b254dea"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
+      }
+    ]
+  },
+  "awb_0fd500ae99d27ec91f86": {
+    "id": "awb_0fd500ae99d27ec91f86",
+    "name": "get.radio — Шансон",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "chanson",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=chanson",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/chanson.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:45:22Z",
+    "streams": [
+      {
+        "id": "aws_8550ed7c151b63d9a175",
+        "stationId": "awb_0fd500ae99d27ec91f86",
+        "name": "get.radio — Шансон",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/chanson.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "0ba1cc57-2ca2-4b5b-b7c8-b02b01abbf5b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "id": "sports",
-  "stationCount": 886,
+  "stationCount": 888,
   "stations": [
     {
       "id": "awb_10ca8b5c03a36ce2fd6c",
@@ -3938,6 +3938,57 @@
       ]
     },
     {
+      "id": "awb_2ff02265a39913a37e9e",
+      "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+      "country": "BR",
+      "subdivision": "Minas Gerais",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "96.5 fm",
+        "lavras",
+        "local news",
+        "minas gerais",
+        "mpb",
+        "news",
+        "sertanejo",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://radioculturadelavras.com.br/",
+      "favicon": "https://radioculturadelavras.com.br/midia/marca/radio-cultura-lavras-quadrada-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T15:07:09Z",
+      "streams": [
+        {
+          "id": "aws_5b5b05c089f6e8f30c33",
+          "stationId": "awb_2ff02265a39913a37e9e",
+          "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+          "country": "BR",
+          "url": "https://servidor36.brlogic.com:7048/live",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "05b040f9-7380-4c25-936f-019402fc5d94"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_a966ed31b5aa8a4dbab5",
       "name": "Rádio Difusora Batatais",
       "country": "BR",
@@ -7661,7 +7712,7 @@
         "noticias"
       ],
       "homepage": "https://emisorascolombianas.online/caracol-en-vivo/",
-      "favicon": "https://emisorascolombianas.online/logos/caracol-en-vivo.png",
+      "favicon": "https://emisorascolombianas.online/default-logo.svg",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-08-19T21:37:13Z",
@@ -7820,8 +7871,8 @@
           "name": "cristal boyacá 98.3 fm",
           "country": "CO",
           "url": "https://impactodigitalcol.com/8020/stream",
-          "codec": "mp3",
-          "bitrate": 128,
+          "codec": "aac+",
+          "bitrate": 96,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -7831,7 +7882,7 @@
             "8c69b1f8-2e32-4d5e-bb46-aaf25b648869"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -14120,8 +14171,8 @@
         "sports",
         "talks"
       ],
-      "homepage": "https://www.ondacero.es/emisoras/andalucia/huelva/directo/",
-      "favicon": "https://i.scdn.co/image/ab6775700000ee851a865a3769a3e6868928a43f",
+      "homepage": "https://ondacero.es/",
+      "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
       "type": null,
       "sourceCount": 3,
       "updatedAt": "2026-04-01T11:00:35Z",
@@ -35817,6 +35868,50 @@
       ]
     },
     {
+      "id": "awb_7f7723e3e4b64f84eefc",
+      "name": "ABC Cardinal 730 AM",
+      "country": "PY",
+      "subdivision": null,
+      "languages": [],
+      "categories": [
+        "news",
+        "religious",
+        "sports"
+      ],
+      "tags": [
+        "adult contemporary",
+        "christian",
+        "news",
+        "sports"
+      ],
+      "homepage": "https://www.abc.com.py/730am/",
+      "favicon": "https://cdn.radoxo.com/images/paraguay/radio-abc-am.webp?v=1792781612",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T03:00:15Z",
+      "streams": [
+        {
+          "id": "aws_14b973f324ab8ace3d03",
+          "stationId": "awb_7f7723e3e4b64f84eefc",
+          "name": "ABC Cardinal 730 AM",
+          "country": "PY",
+          "url": "https://radios-paraguay.com/5-abc-cardinal-730am.html",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "8d535c7d-dda7-4d97-bc64-041804101df4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_2c6eee14bd5e204f69c8",
       "name": "Radio ABC Cardinal 730 AM",
       "country": "PY",
@@ -43861,7 +43956,7 @@
             "70da5340-e9e1-4882-803f-c1bd86d8f5bc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },

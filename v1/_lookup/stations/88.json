@@ -2836,10 +2836,10 @@
       "webradio"
     ],
     "homepage": "https://astromaria.fr/Adprod",
-    "favicon": "https://astromaria.fr/Adprod",
+    "favicon": "https://astromaria.fr/Adprod/favicon-192.png",
     "type": "internet",
-    "sourceCount": 9,
-    "updatedAt": "2026-08-20T23:43:59Z",
+    "sourceCount": 1,
+    "updatedAt": "2026-08-20T23:33:17Z",
     "streams": [
       {
         "id": "aws_1a110d0aa8fd70284593",
@@ -2855,8 +2855,7 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "1b17acc3-5a92-4967-87f7-82025a858af1",
-          "3ba2123c-afce-4744-b0b3-2a717159dbae"
+          "c1f6d1f7-15f4-4373-ae9a-594782df6352"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T02:03:00Z"
@@ -5270,6 +5269,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T08:29:16Z"
+      }
+    ]
+  },
+  "awb_889c3203ff9c34de00cb": {
+    "id": "awb_889c3203ff9c34de00cb",
+    "name": "Organica Radio",
+    "country": "MX",
+    "subdivision": "Guadalajara, Jalisco",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://organicaradio.com/",
+    "favicon": "https://organicaradio.com/uploads/fiestas-2026/organica-logo.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T05:03:38Z",
+    "streams": [
+      {
+        "id": "aws_90f0d0476ca29bb232aa",
+        "stationId": "awb_889c3203ff9c34de00cb",
+        "name": "Organica Radio",
+        "country": "MX",
+        "url": "https://stream11.mexiserver.com/proxy/socialym/stream",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "431ade01-6897-4244-8adc-1a67caa7f22d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

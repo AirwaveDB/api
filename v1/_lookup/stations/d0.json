@@ -369,7 +369,7 @@
   },
   "awb_d049a8b8118ea943f532": {
     "id": "awb_d049a8b8118ea943f532",
-    "name": "Radio Cristiana fm 88.3",
+    "name": "Radio Cristiana FM 88.3",
     "country": "AR",
     "subdivision": "Buenos Aires",
     "languages": [
@@ -386,7 +386,7 @@
       "radio hablada",
       "religious"
     ],
-    "homepage": "https://radiocristiana883.com.ar/",
+    "homepage": "https://www.radiocristiana883.com.ar/",
     "favicon": "https://www.radiocristiana883.com.ar/splash.jpg",
     "type": null,
     "sourceCount": 2,
@@ -4427,7 +4427,7 @@
           "c527ff3f-4710-4101-b47e-e16fbba002ee"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:43:15Z"
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
       }
     ]
   },
@@ -7967,6 +7967,53 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T12:31:54Z"
+      }
+    ]
+  },
+  "awb_d01427eea1a0ea2cec8e": {
+    "id": "awb_d01427eea1a0ea2cec8e",
+    "name": "get.radio — Рэп",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "music",
+      "rap",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=rap",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/rap.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:45:22Z",
+    "streams": [
+      {
+        "id": "aws_f2532d2a280698182adf",
+        "stationId": "awb_d01427eea1a0ea2cec8e",
+        "name": "get.radio — Рэп",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/rap.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "aecf989b-b2cb-4ac9-953a-0da5dd255d43"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },

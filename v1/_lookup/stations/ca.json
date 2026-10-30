@@ -3129,6 +3129,50 @@
       }
     ]
   },
+  "awb_ca2196073abaf010fe42": {
+    "id": "awb_ca2196073abaf010fe42",
+    "name": "Radio Fiji One",
+    "country": "FJ",
+    "subdivision": null,
+    "languages": [
+      "fj"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "classics",
+      "culture",
+      "news",
+      "traditional"
+    ],
+    "homepage": "https://sere.plus/",
+    "favicon": "https://media.viti.plus/wp-content/uploads/2025/05/radio_fiji_one_500x500.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T11:52:39Z",
+    "streams": [
+      {
+        "id": "aws_bacb4e05befd213b71f0",
+        "stationId": "awb_ca2196073abaf010fe42",
+        "name": "Radio Fiji One",
+        "country": "FJ",
+        "url": "https://icecast1.sere.plus/RFOne",
+        "codec": "aac+",
+        "bitrate": 24,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dff4f211-c7b0-4915-89fb-3164aad55d5e"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
+      }
+    ]
+  },
   "awb_ca97a5e31ce4134a65e9": {
     "id": "awb_ca97a5e31ce4134a65e9",
     "name": "FM98,7",
@@ -5175,41 +5219,6 @@
       }
     ]
   },
-  "awb_ca27c750d009f986053a": {
-    "id": "awb_ca27c750d009f986053a",
-    "name": "Clasico kbs",
-    "country": "KR",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://serpent0.duckdns.org:8088/kbsfm.pls",
-    "favicon": "http://serpent0.duckdns.org:8088/kbsfm.pls",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:12Z",
-    "streams": [
-      {
-        "id": "aws_87ee77baed877a20d1d0",
-        "stationId": "awb_ca27c750d009f986053a",
-        "name": "Clasico kbs",
-        "country": "KR",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyMjQ3NjV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QQQnEAaDILN~YMWNHD-qZWyqzeE0pTfNqvDabTxItwGNd6x5AiPsbFuQmZugyzB5HecfUSqKWFJVfdMm4U46gPGhi6vuTuJeKPTQ1~YnqGe5Ax0xlKLdXIptJHAmw6wrVkET8Fmq8ubDmw1SDufIi55r-HF~2AoAgCarzsIsP3LqfYxAJIgpE1xPbC-1~Wv~sxUt4T39i3lLHMoijNlgZTHsiM9lY9ErE0T8eWQ6bAAnUlXm6HsJ9tQGo94tn3ANsjsckzJhE9y9SINHRAQol-xG5Ua2PO~HH85KhQDHgl7LNJQ3oEzj2NiYZGoXr0pJXV5VQRZUU8~UdbZV4IaCmw__",
-        "codec": "unknown",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "f9f853c9-51d7-4127-9796-5c838a786107"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T22:05:04Z"
-      }
-    ]
-  },
   "awb_ca5ab6cac1a020e7ecf0": {
     "id": "awb_ca5ab6cac1a020e7ecf0",
     "name": "OBS 라디오",
@@ -5762,7 +5771,7 @@
           "d8c0637b-a072-4e2b-a7b8-ef287333dc5f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:43:15Z"
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
       }
     ]
   },
@@ -8479,9 +8488,13 @@
     "languages": [
       "en"
     ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.facebook.com/BeatFama/?__tn__=%3C%3C",
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "news"
+    ],
+    "homepage": "https://tunein.com/radio/BEAT-FM-963-FM-UGANDA-s255517/",
     "favicon": "https://www.facebook.com/favicon.ico",
     "type": null,
     "sourceCount": 1,

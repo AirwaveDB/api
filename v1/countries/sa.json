@@ -1,7 +1,7 @@
 {
   "code": "SA",
-  "stationCount": 95,
-  "streamCount": 98,
+  "stationCount": 94,
+  "streamCount": 97,
   "stations": [
     {
       "id": "awb_9d6ea4b2d916b3bdeba3",
@@ -182,7 +182,7 @@
       "homepage": null,
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-23",
       "streams": [
         {
@@ -196,15 +196,13 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "SA:qurango-2",
-            "fc5fe23a-2369-4b1c-bc74-97df6468642b"
+            "SA:qurango-2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T23:58:49Z"
+          "lastCheckedAt": "2026-08-23"
         }
       ]
     },
@@ -3809,7 +3807,7 @@
       "homepage": null,
       "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-08-23",
       "streams": [
         {
@@ -3823,54 +3821,13 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "SA:qurango",
-            "e914900b-c469-4909-91b7-e7926606ada9"
+            "SA:qurango"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T16:52:09Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_6ffeff93bbcb1bacbd77",
-      "name": "تفسير بن عثيمين رحمه الله تعالى",
-      "country": "SA",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "classical"
-      ],
-      "tags": [
-        "classical"
-      ],
-      "homepage": null,
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:44Z",
-      "streams": [
-        {
-          "id": "aws_6dc89f1b24688c929508",
-          "stationId": "awb_6ffeff93bbcb1bacbd77",
-          "name": "تفسير بن عثيمين رحمه الله تعالى",
-          "country": "SA",
-          "url": "https://qurango.net/radio/tafseer",
-          "codec": "mp3",
-          "bitrate": 128,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "4fa1aaff-16e2-4d9a-a209-4d492a30b59f"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T22:40:08Z"
+          "lastCheckedAt": "2026-08-23"
         }
       ]
     },

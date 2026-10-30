@@ -1,6 +1,6 @@
 {
   "code": "pt",
-  "stationCount": 768,
+  "stationCount": 770,
   "stations": [
     {
       "id": "awb_a0d15f5e22fb30532808",
@@ -5565,7 +5565,7 @@
             "541f6bfb-961a-4453-a22b-7cc27e596355"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -5985,7 +5985,7 @@
             "d432e55b-e425-406e-bcff-b1e252b99c5f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -6781,12 +6781,13 @@
       "id": "awb_78f922f72e4f712d251b",
       "name": "MAGIC BOXX RADIO",
       "country": "BR",
-      "subdivision": null,
+      "subdivision": "Espirito Santo",
       "languages": [
         "pt"
       ],
       "categories": [
-        "electronic"
+        "electronic",
+        "pop"
       ],
       "tags": [
         "dance",
@@ -6794,14 +6795,15 @@
         "electronic",
         "eurodance",
         "house",
+        "pop",
         "progressive",
         "tech house"
       ],
       "homepage": "https://mboxxradio.com/",
-      "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
+      "favicon": "https://radio.mboxxradio.com/static/uploads/magic-boxx-radio/album_art.1793272391.webp",
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-29T05:52:08Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-29T13:04:22Z",
       "streams": [
         {
           "id": "aws_e46645c7a62d9c49653b",
@@ -6809,8 +6811,8 @@
           "name": "MAGIC BOXX RADIO",
           "country": "BR",
           "url": "https://radio.mboxxradio.com/listen/magic-boxx-radio/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -6818,10 +6820,10 @@
           ],
           "sourceIds": [
             "5a20ac2a-fd85-4495-b88e-024456e43c47",
-            "ba3cbcbf-125e-478d-aadb-c34dd6167112"
+            "f64c0687-b2aa-426e-a578-69f644b9ba90"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -8356,7 +8358,7 @@
             "b25f1a3c-af8a-4cf9-8610-2b5e522adf97"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T22:40:48Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -9250,7 +9252,7 @@
           "name": "Radio A Voz da Salvação Divina",
           "country": "BR",
           "url": "https://cast1.midiazdx.com.br:6678/stream",
-          "codec": "mp3",
+          "codec": "aac+",
           "bitrate": 128,
           "protocol": "https",
           "hls": false,
@@ -9261,7 +9263,7 @@
             "48c11d12-5a09-4534-9ce6-363b24f49334"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -12060,6 +12062,57 @@
       ]
     },
     {
+      "id": "awb_2ff02265a39913a37e9e",
+      "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+      "country": "BR",
+      "subdivision": "Minas Gerais",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "96.5 fm",
+        "lavras",
+        "local news",
+        "minas gerais",
+        "mpb",
+        "news",
+        "sertanejo",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://radioculturadelavras.com.br/",
+      "favicon": "https://radioculturadelavras.com.br/midia/marca/radio-cultura-lavras-quadrada-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T15:07:09Z",
+      "streams": [
+        {
+          "id": "aws_5b5b05c089f6e8f30c33",
+          "stationId": "awb_2ff02265a39913a37e9e",
+          "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+          "country": "BR",
+          "url": "https://servidor36.brlogic.com:7048/live",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "05b040f9-7380-4c25-936f-019402fc5d94"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
+        }
+      ]
+    },
+    {
       "id": "awb_bb5fa581d5d7df1118b6",
       "name": "Rádio CV Mais 97.5 FM",
       "country": "BR",
@@ -12397,7 +12450,7 @@
             "2a5e6c05-3b5a-4a91-b4fd-f6e91301de41"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -17867,6 +17920,54 @@
       ]
     },
     {
+      "id": "awb_2cc653899d08d11158b2",
+      "name": "Rádio UP!",
+      "country": "BR",
+      "subdivision": "São Paulo (SP)",
+      "languages": [
+        "ja",
+        "pt"
+      ],
+      "categories": [
+        "anime",
+        "pop",
+        "rock"
+      ],
+      "tags": [
+        "anime",
+        "asian programming",
+        "j-music",
+        "j-pop",
+        "j-rock"
+      ],
+      "homepage": "https://radioup.antbr.com/",
+      "favicon": "https://radioup.antbr.com/images/logos/logo_player.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T23:27:15Z",
+      "streams": [
+        {
+          "id": "aws_b26aaa8b97a5da065094",
+          "stationId": "awb_2cc653899d08d11158b2",
+          "name": "Rádio UP!",
+          "country": "BR",
+          "url": "http://saber.intra.antbr.com:8010/radio",
+          "codec": "mp3",
+          "bitrate": 256,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0f6eb7bd-ad89-4a75-83b9-e0eb05d698a1"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
+        }
+      ]
+    },
+    {
       "id": "awb_cd152c99124b9423dd9f",
       "name": "Rádio USP 107.9 FM",
       "country": "BR",
@@ -20462,10 +20563,10 @@
         "webradio"
       ],
       "homepage": "https://astromaria.fr/Adprod",
-      "favicon": "https://astromaria.fr/Adprod",
+      "favicon": "https://astromaria.fr/Adprod/favicon-192.png",
       "type": "internet",
-      "sourceCount": 9,
-      "updatedAt": "2026-08-20T23:43:59Z",
+      "sourceCount": 1,
+      "updatedAt": "2026-08-20T23:33:17Z",
       "streams": [
         {
           "id": "aws_1a110d0aa8fd70284593",
@@ -20481,8 +20582,7 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "1b17acc3-5a92-4967-87f7-82025a858af1",
-            "3ba2123c-afce-4744-b0b3-2a717159dbae"
+            "c1f6d1f7-15f4-4373-ae9a-594782df6352"
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-28T02:03:00Z"
@@ -20762,7 +20862,7 @@
         "gospel music",
         "pop rock"
       ],
-      "homepage": "https://radioibnjparis.com/",
+      "homepage": "https://www.radioibnjparis.com/",
       "favicon": null,
       "type": null,
       "sourceCount": 3,

@@ -1,6 +1,6 @@
 {
   "code": "cr",
-  "stationCount": 3,
+  "stationCount": 4,
   "stations": [
     {
       "id": "awb_e4a587c589f33ee633f4",
@@ -133,6 +133,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T23:15:37Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_8e978077913365897cb5",
+      "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
+      "country": "CA",
+      "subdivision": "Manitoba",
+      "languages": [
+        "cr",
+        "en",
+        "oj"
+      ],
+      "categories": [
+        "community",
+        "country"
+      ],
+      "tags": [
+        "alternative / indie",
+        "community radio",
+        "country",
+        "first nations"
+      ],
+      "homepage": "https://peguis.ca/index.php/departments/country-rock-radio",
+      "favicon": "https://peguis.ca/images/zCRR_Logo-01.jpg",
+      "type": "community",
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T03:24:20Z",
+      "streams": [
+        {
+          "id": "aws_4e6055512cd1be0b3d02",
+          "stationId": "awb_8e978077913365897cb5",
+          "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
+          "country": "CA",
+          "url": "https://cast4.my-control-panel.com/proxy/peguis1/stream",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "bfe2d634-3c5e-4ea3-9b50-db853ac56a3d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     }

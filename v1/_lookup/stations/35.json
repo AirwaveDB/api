@@ -651,7 +651,7 @@
           "558c4adf-b1ab-4c2e-99ab-ae2755f2a538"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-29T02:46:05Z"
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },
@@ -6484,17 +6484,25 @@
     "id": "awb_3561e5cf095f3dc794a4",
     "name": "get.radio — Лоу-фай",
     "country": "RU",
-    "subdivision": null,
+    "subdivision": "Moscow",
     "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
       "ru"
     ],
     "categories": [],
-    "tags": [],
-    "homepage": "https://get-radio.sipout.ai/?wave=lofi&lang=ru",
+    "tags": [
+      "lofi",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=lofi",
     "favicon": "https://get-radio.sipout.ai/cover/wave/lofi.png",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-24T21:05:23Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T19:45:22Z",
     "streams": [
       {
         "id": "aws_50c918c51423892dbc86",
@@ -6514,6 +6522,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-24T21:43:15Z"
+      },
+      {
+        "id": "aws_0c771291b1972489b32e",
+        "stationId": "awb_3561e5cf095f3dc794a4",
+        "name": "get.radio — Лоу-фай",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/lofi.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5cb686d2-0557-4c8d-94dd-41e4d1e2dc50"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },

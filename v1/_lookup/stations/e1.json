@@ -3006,6 +3006,47 @@
       }
     ]
   },
+  "awb_e17ed70b2fc8081eee06": {
+    "id": "awb_e17ed70b2fc8081eee06",
+    "name": "Radio Fiji Two",
+    "country": "FJ",
+    "subdivision": null,
+    "languages": [],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "culture",
+      "entertainment",
+      "news"
+    ],
+    "homepage": "https://sere.plus/",
+    "favicon": "https://media.viti.plus/wp-content/uploads/2025/05/radio_fiji_two_500x500.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T11:56:28Z",
+    "streams": [
+      {
+        "id": "aws_7a4942d3b2919246f18c",
+        "stationId": "awb_e17ed70b2fc8081eee06",
+        "name": "Radio Fiji Two",
+        "country": "FJ",
+        "url": "https://icecast1.sere.plus/RFTwo",
+        "codec": "aac+",
+        "bitrate": 24,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "6fe75c70-6b0f-41d3-b37c-f398bba44161"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
+      }
+    ]
+  },
   "awb_e1025359a4d029a05823": {
     "id": "awb_e1025359a4d029a05823",
     "name": "B4B DISCO FUNK [HD]",
@@ -5342,81 +5383,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-26T08:16:01Z"
-      }
-    ]
-  },
-  "awb_e145b8c0fc112eea11b0": {
-    "id": "awb_e145b8c0fc112eea11b0",
-    "name": "Radio UNAM 96.1 (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-    "country": "MX",
-    "subdivision": "Ciudad de México",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "college",
-      "news",
-      "public"
-    ],
-    "tags": [
-      "96.1 fm",
-      "ciudad de méxico",
-      "college",
-      "college radio",
-      "cultura",
-      "cultural",
-      "cultural news",
-      "culture",
-      "español",
-      "estación",
-      "fm",
-      "latinoamérica",
-      "mexico city",
-      "moi merino",
-      "multicultural",
-      "méxico",
-      "norteamérica",
-      "public",
-      "public radio",
-      "public service",
-      "pública",
-      "radio",
-      "radio pública",
-      "radio unam",
-      "radio universidad",
-      "radio universitaria",
-      "state college",
-      "unam",
-      "universidad",
-      "universidad autónoma de méxico",
-      "universitaria",
-      "university",
-      "university radio"
-    ],
-    "homepage": "https://www.facebook.com/radiounam/",
-    "favicon": "https://www.facebook.com/favicon.ico",
-    "type": "public",
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T00:29:53Z",
-    "streams": [
-      {
-        "id": "aws_efebbc504fab6191416e",
-        "stationId": "awb_e145b8c0fc112eea11b0",
-        "name": "Radio UNAM 96.1 (Ciudad de México) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-        "country": "MX",
-        "url": "https://tv.radiohosting.online:9484/stream",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "e0d7ea92-e353-4727-b741-fa0ff2118eb1"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T22:47:32Z"
       }
     ]
   },

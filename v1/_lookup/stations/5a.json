@@ -4923,6 +4923,48 @@
       }
     ]
   },
+  "awb_5ab38530bd849d4b0d8c": {
+    "id": "awb_5ab38530bd849d4b0d8c",
+    "name": "Radio Cantù",
+    "country": "IT",
+    "subdivision": "Lombardia Cantù (CO)",
+    "languages": [
+      "it"
+    ],
+    "categories": [
+      "news"
+    ],
+    "tags": [
+      "music",
+      "news"
+    ],
+    "homepage": "https://www.radiocantu.it/",
+    "favicon": "https://www.corallo.org/wp-content/uploads/sites/2/2025/09/Radio-Cantu.jpg",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T18:21:54Z",
+    "streams": [
+      {
+        "id": "aws_b89d17d7c31b20e5f472",
+        "stationId": "awb_5ab38530bd849d4b0d8c",
+        "name": "Radio Cantù",
+        "country": "IT",
+        "url": "https://sr2.inmystream.it/proxy/radiocantu?mp=/stream",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "df7cb848-4bab-42e0-ae7e-4bba4dd17592"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
+      }
+    ]
+  },
   "awb_5afc0eec677379f841ca": {
     "id": "awb_5afc0eec677379f841ca",
     "name": "Radio Fiemme",
@@ -5165,47 +5207,9 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 7,
-    "updatedAt": "2026-01-16T19:58:59Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-01-14T22:54:06Z",
     "streams": [
-      {
-        "id": "aws_4af0ffde373103fef16e",
-        "stationId": "awb_5a5630757c4f6889de48",
-        "name": "KBS Classic FM",
-        "country": "KR",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyMjk1NTN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=LJSLBso04wqVgOZOr7kBLSWD0AWgj0W35ebt~Ebm4WLjAD9WT047mmi1~GIKvECk-D8eJ0Vo2kNQrXp3HarWpPiylz~--IEOcePiZgDHvoHK2YDhtbq6gSxfH5A1xxaR-4Y~FGFy7DYxeqvwHBgNPCZn~~Jx2z0SxX3OCpWSRuaKewc1Uzowr58YmJRa10OkRtZG-V4DbTlUxPoI-pemZcLjYyP~nDPINi7yff~1OMH0fL8fL-F5G7haaVTIEm0ccQKnRbAiaSZAgUkrrd3HASjMcDVbTmWPhmbkJUgKbiXmOSABprl030ATrFX16U4~~I83eyIdN3EimdKv1iUEWg__",
-        "codec": "unknown",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "63a8b961-1cd7-406f-8665-3cd005befd88"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T23:31:34Z"
-      },
-      {
-        "id": "aws_29a67f554d0753e7a00e",
-        "stationId": "awb_5a5630757c4f6889de48",
-        "name": "KBS Classic FM",
-        "country": "KR",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyMzc5Nzl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=igw4BCpCt0IV0d9FcWKPSH7NrlkdsJ~E2sHgFgB1YG7rNB22DhEuKBWSJypHvpJFh2Q3D9k3As5JFKKWpxEx97qMfU7Oa6oGRN3IpDQozapZHK~E7kCKSHqqCorPnWRlniGSUghtr-gFM-eTL20TvcY1eKfnDtLuGlLKBiE37I~gaDZDIV0ZGn5rrXyDFvirvibzb1il59Llym1Pn3e3K9ltEbUytcBxEOu4IJPQTvGYkrsfw3089iFWhR5clpf~V39X8gSIGoN6lGa6-96fcE4XiHPyBSbp76iEt2OELtwVLWuid4JA7dXqVyhbRyBbmj3mvdpOF8ijDXFRpFDQUg__",
-        "codec": "unknown",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "f68aa3f4-d847-4dab-818a-81f46d336812"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T01:59:12Z"
-      },
       {
         "id": "aws_aa0e967e28dbf5b7bcd6",
         "stationId": "awb_5a5630757c4f6889de48",
@@ -5243,63 +5247,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T05:41:18Z"
-      },
-      {
-        "id": "aws_0660e94e1c09d0b49cc3",
-        "stationId": "awb_5a5630757c4f6889de48",
-        "name": "KBS CLASSIC FM",
-        "country": "KR",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyNjkxNjB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=NcrWGfuCJZoGGXCw2LGxNZxZzoMO5SZ4wsFnRXxLtUKOjvveBnDZggOllGhXJqaJSHadktLPE~~QUe~5evb16sa9Apil~M87FzZsIIOawxpN7LjMleSxbSCYI0JnvqS2k1EPs6xze1PnZs6R0p6tXaaH9rg4r7P4szEJ9w0w1Hf6mzFB1RUYNJ~gXZM02jpJ0HDzbX3rMx6pf0tX6aDqEJ2haJda7p1r4vHDxSe3CJB7YzelYaJSEOfRa059pi5m0RN~zLNTBplVaDROQ57LVQOOwrERsuVwrwd4AizvNeHKVPs~j4VMtfGGmJ9c6P2Y9Ue3fJqWfKkT59AMlKBcsw__",
-        "codec": "unknown",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "fe39221a-c1de-4c2f-a9ca-28a916f96010"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T10:28:19Z"
-      },
-      {
-        "id": "aws_32d3afd6ec7d6504b26c",
-        "stationId": "awb_5a5630757c4f6889de48",
-        "name": "KBS Classic FM",
-        "country": "KR",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyNjY3NjB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Rjoy9UkbM5X5J7x4AxdQ9nz~x9896nwquCsqMZ~ksg7dKv8wneI63OB3Dy~nPqG848CIBDYRA78MdSN9RNDAGQgWwjoXHR90yj8iXzBM0WXCf3wlJl5-9p-kqcVShGe22SV83XhWxatPNiOmfhU9UK-eqt-Vom01bhued1YJZmQ162HxSsJoI~I2R0tx3687n2foXVY0Be8wOxVlR6IdDW9vQ3hTD6ao1M2HUnM0qK-p2gKy2QB3wdVUEHRCle0ch8mxSdxk1JeNRu8Ba76kH-573VfyNpZZmhP~bfPTooZLRveXncEyw7hH75VRxl5dA4nBmaj4PF~12p7bQReeDw__",
-        "codec": "unknown",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "d197d3eb-87b2-48f9-8624-d96d17c3b023"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T09:54:41Z"
-      },
-      {
-        "id": "aws_1eda973cae76b9a177ea",
-        "stationId": "awb_5a5630757c4f6889de48",
-        "name": "KBS Classic FM",
-        "country": "KR",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMzMTcxOTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=KYTA6GqidG4yA5Np1e0jstAaewl6emPSOQcjgiEnkY~R8et7wD~w1nfdV5LejR1i7Lsu8eqdR-mYxdgvGLWov9tYxT~BlCTthg80UDKwgjexvfeP4zN33foNkSmLio1zBYTdiIn4aJKLpblid8YIUT2cnV8X-RD2JRR5EMML9XGC4WlNajzsAKlgHXhJqBI2ccvXfGKntBrEZjmeaSaULn8E2R2ZbSyW9KSpMe8--8r2py1w1gNMbz729SYFO6O3QSnIm64DBJ9wdzICRtfJrheef~cyWMLnYHKDv0XyKZx6xFZvZD9BVcGrCnvpyXWPNyxBQuSs8PbUEvVohQ1kjQ__",
-        "codec": "unknown",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "90a264a2-d2e9-4f80-b88b-f6e2761a9171"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T23:58:49Z"
       }
     ]
   },
@@ -6123,7 +6070,7 @@
           "440f2d10-7583-439f-9301-71ba02f23fde"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },
@@ -8112,7 +8059,7 @@
           "5b053462-dc22-4d20-8152-32a088d4ee1a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T16:24:45Z"
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },

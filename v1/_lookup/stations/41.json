@@ -6790,6 +6790,53 @@
       }
     ]
   },
+  "awb_411f2462761f37a581c9": {
+    "id": "awb_411f2462761f37a581c9",
+    "name": "get.radio — Поп",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "music",
+      "pop",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=pop",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/pop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:41:13Z",
+    "streams": [
+      {
+        "id": "aws_13a583045cf62410e28f",
+        "stationId": "awb_411f2462761f37a581c9",
+        "name": "get.radio — Поп",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/pop.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "aea8e994-b75b-40ba-9a81-f7e587dd560d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
+      }
+    ]
+  },
   "awb_41655fac9e737a6c61ef": {
     "id": "awb_41655fac9e737a6c61ef",
     "name": "Radio Caprice - BEATDOWN / MOSHCORE / DOWNTEMPO HARDCORE / METALCORE",
@@ -7769,7 +7816,7 @@
           "08e660e0-c598-4f40-a2a6-ebe6a8c62d0e"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
       }
     ]
   },

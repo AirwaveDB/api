@@ -1968,7 +1968,7 @@
       "pop"
     ],
     "homepage": "https://www.bremenzwei.de/",
-    "favicon": "https://www.bremenzwei.de/static/img/favicons/favicon-32.png?v=4",
+    "favicon": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
     "type": null,
     "sourceCount": 2,
     "updatedAt": "2026-01-15T08:44:42Z",
@@ -3096,7 +3096,6 @@
       "aac",
       "info",
       "information",
-      "informations",
       "news",
       "public radio",
       "radio france"
@@ -3104,7 +3103,7 @@
     "homepage": "https://www.francetvinfo.fr/",
     "favicon": "https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png",
     "type": "public",
-    "sourceCount": 11,
+    "sourceCount": 6,
     "updatedAt": "2026-07-05T11:55:59Z",
     "streams": [
       {
@@ -3160,11 +3159,10 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "003baf55-9ac9-4352-bceb-375ee4203133",
-          "22c0d602-ed7a-4347-9056-40c22faff480"
+          "31074f8a-e6f4-11e9-a96c-52543be04c81"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-28T01:11:09Z"
+        "lastCheckedAt": "2026-10-28T00:23:06Z"
       },
       {
         "id": "aws_040ae1a9463bba93b10d",
@@ -5584,6 +5582,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T01:07:34Z"
+      }
+    ]
+  },
+  "awb_953ac10696d8c9e6789d": {
+    "id": "awb_953ac10696d8c9e6789d",
+    "name": "Relentless Grace Radio",
+    "country": "NL",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://relentlessgraceradio.com/#",
+    "favicon": "https://relentlessgraceradio.com/wp-content/themes/blankslate/react-app/favicon.ico",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T17:27:53Z",
+    "streams": [
+      {
+        "id": "aws_d32a45d3bf0f121dcef2",
+        "stationId": "awb_953ac10696d8c9e6789d",
+        "name": "Relentless Grace Radio",
+        "country": "NL",
+        "url": "https://azuraserv3.live-streams.nl/listen/relentless_grace_radio/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 256,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "15d180cb-b17a-4e37-9fda-bf8967ede7c1"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },

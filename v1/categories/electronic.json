@@ -1,6 +1,6 @@
 {
   "id": "electronic",
-  "stationCount": 2234,
+  "stationCount": 2233,
   "stations": [
     {
       "id": "awb_9d3073b16c97ffe0e45d",
@@ -286,7 +286,7 @@
       "homepage": "https://dancewave.online/",
       "favicon": "https://dancewave.online/dw_logo.png",
       "type": null,
-      "sourceCount": 4,
+      "sourceCount": 3,
       "updatedAt": "2026-08-23",
       "streams": [
         {
@@ -309,25 +309,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T17:19:19Z"
-        },
-        {
-          "id": "aws_2e1fd990fbdf4c228822",
-          "stationId": "awb_765969861932cba48b08",
-          "name": "Dance Wave!",
-          "country": "AF",
-          "url": "https://dancewave.online/dance.flac.ogg",
-          "codec": "ogg",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "d6a47232-c713-4c9d-80cc-d0a3550a457d"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T10:47:21Z"
         }
       ]
     },
@@ -8560,12 +8541,13 @@
       "id": "awb_78f922f72e4f712d251b",
       "name": "MAGIC BOXX RADIO",
       "country": "BR",
-      "subdivision": null,
+      "subdivision": "Espirito Santo",
       "languages": [
         "pt"
       ],
       "categories": [
-        "electronic"
+        "electronic",
+        "pop"
       ],
       "tags": [
         "dance",
@@ -8573,14 +8555,15 @@
         "electronic",
         "eurodance",
         "house",
+        "pop",
         "progressive",
         "tech house"
       ],
       "homepage": "https://mboxxradio.com/",
-      "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
+      "favicon": "https://radio.mboxxradio.com/static/uploads/magic-boxx-radio/album_art.1793272391.webp",
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-29T05:52:08Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-29T13:04:22Z",
       "streams": [
         {
           "id": "aws_e46645c7a62d9c49653b",
@@ -8588,8 +8571,8 @@
           "name": "MAGIC BOXX RADIO",
           "country": "BR",
           "url": "https://radio.mboxxradio.com/listen/magic-boxx-radio/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 320,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -8597,10 +8580,10 @@
           ],
           "sourceIds": [
             "5a20ac2a-fd85-4495-b88e-024456e43c47",
-            "ba3cbcbf-125e-478d-aadb-c34dd6167112"
+            "f64c0687-b2aa-426e-a578-69f644b9ba90"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -10354,45 +10337,6 @@
       ]
     },
     {
-      "id": "awb_3d36d7d2fca349b37fa7",
-      "name": "Dance Wave!",
-      "country": "CA",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "electronic"
-      ],
-      "tags": [
-        "club dance electronic house trance"
-      ],
-      "homepage": "https://dancewave.online/",
-      "favicon": "https://dancewave.online/dw_logo.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:11Z",
-      "streams": [
-        {
-          "id": "aws_d9f47d1ec632eb52dfa1",
-          "stationId": "awb_3d36d7d2fca349b37fa7",
-          "name": "Dance Wave!",
-          "country": "CA",
-          "url": "https://dancewave.online/dance.flac.ogg",
-          "codec": "ogg",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1c8d915c-4016-4e0e-b47a-c4296edd1054"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T23:44:34Z"
-        }
-      ]
-    },
-    {
       "id": "awb_48861667b278f6f64277",
       "name": "DanceRadio.ca Radio ONE",
       "country": "CA",
@@ -10709,7 +10653,7 @@
             "d916f208-b68c-402b-816e-d765a6823411"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -21631,7 +21575,7 @@
       "id": "awb_9f6c026e52f2cc2ab155",
       "name": "as.if.radio",
       "country": "DE",
-      "subdivision": "North Rhine-Westphalia",
+      "subdivision": "Cologne",
       "languages": [
         "de",
         "en"
@@ -21665,7 +21609,7 @@
         "werbefrei"
       ],
       "homepage": "https://www.as-if-radio.com/",
-      "favicon": "https://stream.as-if-records.com/static/uploads/browser_icon/192.1767040507.png",
+      "favicon": "https://www.as-if-radio.com/app-icons/asif-radio-512.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-05-04T14:43:37Z",
@@ -23539,12 +23483,18 @@
       "name": "Dance Wave!",
       "country": "DE",
       "subdivision": "Bayern",
-      "languages": [],
+      "languages": [
+        "en"
+      ],
       "categories": [
         "electronic"
       ],
       "tags": [
-        "club dance electronic house trance"
+        "club",
+        "dance",
+        "electronic",
+        "house",
+        "trance"
       ],
       "homepage": "https://dancewave.online/",
       "favicon": "https://dancewave.online/dw_logo.png",
@@ -35174,7 +35124,7 @@
             "ed1d2979-fb9a-47b0-9483-d61aa4c42016"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -40237,13 +40187,14 @@
       "tags": [
         "dance",
         "electronic",
-        "house"
+        "house",
+        "ibiza"
       ],
       "homepage": "http://www.ibizaglobalradio.com/",
-      "favicon": null,
+      "favicon": "https://static-media.streema.com/media/cache/3f/59/3f598fc0753b556f206a5c9d80d034ea.jpg",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T02:27:20Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-29T15:38:27Z",
       "streams": [
         {
           "id": "aws_c24fdf26d0e459556bf4",
@@ -40263,6 +40214,25 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T02:24:08Z"
+        },
+        {
+          "id": "aws_95feb7f08a58faadca63",
+          "stationId": "awb_7e462192a2e142ff006e",
+          "name": "Ibiza Global Radio",
+          "country": "ES",
+          "url": "https://listenssl.ibizaglobalradio.com:8024/ibizaglobalradio.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "66f33265-5bb4-4d5d-966c-f1e951347c7f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -40715,7 +40685,7 @@
             "fd760390-fd42-4fd9-9949-b55b492f1548"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -44083,7 +44053,7 @@
     },
     {
       "id": "awb_d4bfb7345ded7206638c",
-      "name": "Cacao-Radio",
+      "name": "Cacao Radio",
       "country": "FR",
       "subdivision": null,
       "languages": [
@@ -44916,7 +44886,7 @@
             "1019e195-bd10-472f-8ccf-8b4660ca56ac"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -51701,45 +51671,6 @@
       ]
     },
     {
-      "id": "awb_a2f65d4d09148ded1f98",
-      "name": "Dance Wave!",
-      "country": "GB",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "electronic"
-      ],
-      "tags": [
-        "club dance electronic house trance"
-      ],
-      "homepage": "https://dancewave.online/",
-      "favicon": "https://dancewave.online/dw_logo.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-14T22:54:11Z",
-      "streams": [
-        {
-          "id": "aws_e0554354734b820e7a3f",
-          "stationId": "awb_a2f65d4d09148ded1f98",
-          "name": "Dance Wave!",
-          "country": "GB",
-          "url": "https://dancewave.online/dance.flac.ogg",
-          "codec": "ogg",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "226eb90b-34ca-460c-8a3b-6f0a1fb95c09"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T12:51:26Z"
-        }
-      ]
-    },
-    {
       "id": "awb_98046c338d1c4c5f2efc",
       "name": "DanceFMLive Trance",
       "country": "GB",
@@ -51973,7 +51904,7 @@
             "b2fe839e-69fc-4158-88af-3d363f60d423"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -53892,7 +53823,7 @@
             "e936956c-fc26-4566-ae61-dce98c8524c9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -61781,29 +61712,9 @@
       "homepage": "https://dancewave.online/",
       "favicon": "https://dancewave.online/dw_logo.png",
       "type": null,
-      "sourceCount": 14,
+      "sourceCount": 12,
       "updatedAt": "2026-09-19T07:07:27Z",
       "streams": [
-        {
-          "id": "aws_92b9be45f592c67f67bc",
-          "stationId": "awb_12f4d75fe91165f196d0",
-          "name": "Dance Wave!",
-          "country": "HU",
-          "url": "https://dancewave.online/dance.flac.ogg",
-          "codec": "ogg",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "5eaa5f99-cd3b-4763-8ad5-5b3ada10ce35",
-            "9b67ef8f-272e-4922-a88d-095189f2d0a5"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T01:24:02Z"
-        },
         {
           "id": "aws_22c17f6630b2d26aebb8",
           "stationId": "awb_12f4d75fe91165f196d0",
@@ -63398,7 +63309,7 @@
     },
     {
       "id": "awb_769f5959d590f4abb5de",
-      "name": "imsostablee Radio",
+      "name": "Imsostablee Radio",
       "country": "IL",
       "subdivision": null,
       "languages": [],
@@ -63448,7 +63359,7 @@
             "dcbd792b-1547-440b-82ae-23b6f926283e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         },
         {
           "id": "aws_2bff254543d91e09ab2c",
@@ -63467,7 +63378,7 @@
             "34ccc82a-2ee3-4f71-b9b4-11bf66ef07bc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -67278,7 +67189,7 @@
             "46f307b1-044f-4427-9346-8dd3305eea88"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -67669,7 +67580,7 @@
             "01123957-ae98-4d37-b16b-b35090fce624"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -73865,7 +73776,7 @@
             "50e8d003-685a-4db8-8f8b-f9349c78a302"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -77648,7 +77559,7 @@
             "c839a643-9bf3-4759-b38b-95c331dbd441"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -84631,6 +84542,53 @@
       ]
     },
     {
+      "id": "awb_84f803bad54aa659a30f",
+      "name": "get.radio — Хаус",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "house",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=house",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/house.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:56:29Z",
+      "streams": [
+        {
+          "id": "aws_3fb4f7c3ecd0b0bc5473",
+          "stationId": "awb_84f803bad54aa659a30f",
+          "name": "get.radio — Хаус",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/house.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "44d657ee-5b0a-4dfd-9ecd-9a23e662e93e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c5b83cfe5a0c407b2a9f",
       "name": "get.radio — Хаус (Английский)",
       "country": "RU",
@@ -84669,7 +84627,7 @@
             "f898b90f-a403-4773-8f54-38dff5811395"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -84710,7 +84668,7 @@
             "7edaa4ac-b641-443a-9342-1a515c52b236"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -84755,7 +84713,7 @@
             "978edd91-10ba-4ca4-b5af-691db6d44ea8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -84798,7 +84756,7 @@
             "c643229d-b7ac-45a9-a1b2-3931f4781312"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -93307,6 +93265,62 @@
       ]
     },
     {
+      "id": "awb_cf8d7b63f421f21970e5",
+      "name": "Neon Current",
+      "country": "SG",
+      "subdivision": null,
+      "languages": [
+        "cmn",
+        "en"
+      ],
+      "categories": [
+        "electronic",
+        "jazz",
+        "pop",
+        "reggae",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "ai music",
+        "electronic",
+        "jazz",
+        "mandopop",
+        "original music",
+        "pop",
+        "reggae",
+        "rock",
+        "talk",
+        "various"
+      ],
+      "homepage": "https://radio.neoncurrent.dev/",
+      "favicon": "https://radio.neoncurrent.dev/static/brand/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T06:47:39Z",
+      "streams": [
+        {
+          "id": "aws_0a8548e08ac36e9c072f",
+          "stationId": "awb_cf8d7b63f421f21970e5",
+          "name": "Neon Current",
+          "country": "SG",
+          "url": "https://stream.neoncurrent.dev/radio.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "90d57966-01d3-4bdc-9232-35794ba1aac4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_638b6101c177dde603c6",
       "name": "XRadio: The Worldwide Superstation",
       "country": "SG",
@@ -98157,46 +98171,6 @@
       ]
     },
     {
-      "id": "awb_4668bce560c7b901ea98",
-      "name": "Dance Wave!",
-      "country": "US",
-      "subdivision": null,
-      "languages": [],
-      "categories": [
-        "electronic"
-      ],
-      "tags": [
-        "club dance electronic house trance"
-      ],
-      "homepage": "https://dancewave.online/",
-      "favicon": "https://dancewave.online/dw_logo.png",
-      "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-09-19T07:00:26Z",
-      "streams": [
-        {
-          "id": "aws_ec9862312519688ae0b4",
-          "stationId": "awb_4668bce560c7b901ea98",
-          "name": "Dance Wave!",
-          "country": "US",
-          "url": "https://dancewave.online/dance.flac.ogg",
-          "codec": "ogg",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "540bd58d-1d2f-4cae-a5b1-414b40ce3f3f",
-            "e62e52f0-7371-45e5-9353-fe55a39e5277"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T23:46:24Z"
-        }
-      ]
-    },
-    {
       "id": "awb_7786869f35fb11e1fe1e",
       "name": "DanceRadio.show",
       "country": "US",
@@ -101661,7 +101635,7 @@
             "01908911-94f9-4bec-9096-a3afa62c351a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -101964,7 +101938,7 @@
             "b8912bdd-f4df-4bf9-866d-2143025ae299"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -106032,7 +106006,7 @@
             "ce93d13a-8de9-450a-bbb1-a955f6dd7241"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -107096,7 +107070,7 @@
         "variety hits"
       ],
       "homepage": "http://www.wyml.us/",
-      "favicon": "https://www.wyml.us/assets/Logo1.png",
+      "favicon": "https://wyml.us/assets/favicon.png",
       "type": "public",
       "sourceCount": 3,
       "updatedAt": "2026-05-07T20:50:10Z",

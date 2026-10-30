@@ -1288,6 +1288,48 @@
       }
     ]
   },
+  "awb_4419644a89038cc0c34d": {
+    "id": "awb_4419644a89038cc0c34d",
+    "name": "CKDM 730 Dauphin, Manitoba",
+    "country": "CA",
+    "subdivision": "Manitoba",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "country"
+    ],
+    "tags": [
+      "adult contemporary",
+      "country music"
+    ],
+    "homepage": "https://730ckdm.com/",
+    "favicon": "https://730ckdm.com/templates/g5_hydrogen/custom/images/CKDM/730ckdm.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T03:08:08Z",
+    "streams": [
+      {
+        "id": "aws_f500c15dac88124f5d40",
+        "stationId": "awb_4419644a89038cc0c34d",
+        "name": "CKDM 730 Dauphin, Manitoba",
+        "country": "CA",
+        "url": "https://ckdm.smartstreamingsolutions.ca/ssl/CKDM",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "192a78e4-db30-4276-a3f2-0db2e580fab8"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
+      }
+    ]
+  },
   "awb_440039a3c8169a5b51f5": {
     "id": "awb_440039a3c8169a5b51f5",
     "name": "CKFX-FM \"101.9 Rock\" North Bay, ON",
@@ -3528,8 +3570,8 @@
     "homepage": "https://radio.xecod.com/listen/quran-cairo",
     "favicon": null,
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-22T17:00:13Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T23:00:44Z",
     "streams": [
       {
         "id": "aws_ca7243f0b6dbc50e59f7",
@@ -3545,7 +3587,8 @@
           "radio-browser"
         ],
         "sourceIds": [
-          "13a37b90-41f5-4b3e-9789-3e3a80fa2e45"
+          "13a37b90-41f5-4b3e-9789-3e3a80fa2e45",
+          "292240c1-5a19-4087-8fc8-415450234097"
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T14:03:05Z"
@@ -4899,6 +4942,41 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T10:06:03Z"
+      }
+    ]
+  },
+  "awb_4402996edf6f32dfbe2d": {
+    "id": "awb_4402996edf6f32dfbe2d",
+    "name": "RADIO KOPRIVNICA",
+    "country": "HR",
+    "subdivision": null,
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://rkc.hr/#",
+    "favicon": "https://rkc.hr/assets/rkc-logo-square-CDdIEa_y.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T17:15:14Z",
+    "streams": [
+      {
+        "id": "aws_9fc6207870aaf8a9ae54",
+        "stationId": "awb_4402996edf6f32dfbe2d",
+        "name": "RADIO KOPRIVNICA",
+        "country": "HR",
+        "url": "https://ec2s.crolive.com.hr/RadioKoprivnica?t=1793293979587",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "c9b4b33a-89ca-4dbd-9022-d43326ff0b09"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },
@@ -7314,7 +7392,7 @@
           "1a1ecb9a-f7ed-4aaa-aa1b-bbe67c9e1c76"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:06:17Z"
+        "lastCheckedAt": "2026-10-30T00:49:08Z"
       }
     ]
   },
@@ -7358,41 +7436,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T05:57:32Z"
-      }
-    ]
-  },
-  "awb_44a929a214c473446938": {
-    "id": "awb_44a929a214c473446938",
-    "name": "Russian Radio Moscow",
-    "country": "RU",
-    "subdivision": null,
-    "languages": [],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://rusradio.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-14T22:54:06Z",
-    "streams": [
-      {
-        "id": "aws_d2c2fe8d6d2e6c0a643c",
-        "stationId": "awb_44a929a214c473446938",
-        "name": "Russian Radio Moscow",
-        "country": "RU",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "codec": "aac",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "53ec7b8d-679a-47a8-841e-13f38f94316d"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T18:56:50Z"
       }
     ]
   },

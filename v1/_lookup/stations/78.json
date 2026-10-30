@@ -1142,12 +1142,13 @@
     "id": "awb_78f922f72e4f712d251b",
     "name": "MAGIC BOXX RADIO",
     "country": "BR",
-    "subdivision": null,
+    "subdivision": "Espirito Santo",
     "languages": [
       "pt"
     ],
     "categories": [
-      "electronic"
+      "electronic",
+      "pop"
     ],
     "tags": [
       "dance",
@@ -1155,14 +1156,15 @@
       "electronic",
       "eurodance",
       "house",
+      "pop",
       "progressive",
       "tech house"
     ],
     "homepage": "https://mboxxradio.com/",
-    "favicon": "https://radio.mboxxradio.com/static/uploads/browser_icon/192.1793250115.png",
+    "favicon": "https://radio.mboxxradio.com/static/uploads/magic-boxx-radio/album_art.1793272391.webp",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-29T05:52:08Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-29T13:04:22Z",
     "streams": [
       {
         "id": "aws_e46645c7a62d9c49653b",
@@ -1170,8 +1172,8 @@
         "name": "MAGIC BOXX RADIO",
         "country": "BR",
         "url": "https://radio.mboxxradio.com/listen/magic-boxx-radio/radio.mp3",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 320,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -1179,10 +1181,10 @@
         ],
         "sourceIds": [
           "5a20ac2a-fd85-4495-b88e-024456e43c47",
-          "ba3cbcbf-125e-478d-aadb-c34dd6167112"
+          "f64c0687-b2aa-426e-a578-69f644b9ba90"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },
@@ -6441,7 +6443,7 @@
           "50e8d003-685a-4db8-8f8b-f9349c78a302"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-25T00:42:25Z"
+        "lastCheckedAt": "2026-10-30T00:49:08Z"
       }
     ]
   },
@@ -9132,8 +9134,8 @@
         "name": "WFTP 103.9 \"Truth FM\" Fort Payne, Alabama",
         "country": "US",
         "url": "https://radio.truth.fm:8000/wftp",
-        "codec": null,
-        "bitrate": 0,
+        "codec": "mp3",
+        "bitrate": 128,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -9143,7 +9145,7 @@
           "3b22be4b-e305-43de-a20f-fe1ba484b1c7"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": null
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },

@@ -1,6 +1,6 @@
 {
   "id": "christmas",
-  "stationCount": 254,
+  "stationCount": 256,
   "stations": [
     {
       "id": "awb_1a5f119da8fb7ad873f5",
@@ -5228,6 +5228,51 @@
       ]
     },
     {
+      "id": "awb_cc44df373ea1eabd15b5",
+      "name": "Life FM",
+      "country": "FJ",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "religious"
+      ],
+      "tags": [
+        "christian",
+        "christian music",
+        "christmas music"
+      ],
+      "homepage": "https://lifefmfiji.org/",
+      "favicon": "https://lifefmfiji.org/wp-content/uploads/2022/07/Life-fm-logo.png",
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-29T12:23:12Z",
+      "streams": [
+        {
+          "id": "aws_b092388a2cbbd60cf0ca",
+          "stationId": "awb_cc44df373ea1eabd15b5",
+          "name": "Life FM",
+          "country": "FJ",
+          "url": "https://streams3.vision.org.au/fiji.aac",
+          "codec": "aac+",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6f8c5332-c70f-4ce5-99d6-3dc1c3f83837",
+            "e25c2208-699b-47c7-b7ea-b2548b9146eb"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_97eb7f0b3b2503301c2d",
       "name": "Crooner Radio Christmas",
       "country": "FR",
@@ -8594,6 +8639,52 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T23:05:34Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_21ce694b30ee129d9fad",
+      "name": "Atomic Radio",
+      "country": "US",
+      "subdivision": null,
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "christmas",
+        "rock"
+      ],
+      "tags": [
+        "christmas",
+        "halloween",
+        "holiday",
+        "rock",
+        "seasonal"
+      ],
+      "homepage": "https://a7.asurahosting.com/public/atomic_radio",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T04:35:09Z",
+      "streams": [
+        {
+          "id": "aws_8b53705ad3441d80f1cf",
+          "stationId": "awb_21ce694b30ee129d9fad",
+          "name": "Atomic Radio",
+          "country": "US",
+          "url": "https://a7.asurahosting.com/listen/atomic_radio/radio.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "7fe16926-3579-4538-bbc6-cf5a4f45a646"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
         }
       ]
     },

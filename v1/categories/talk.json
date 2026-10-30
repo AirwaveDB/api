@@ -1,6 +1,6 @@
 {
   "id": "talk",
-  "stationCount": 2595,
+  "stationCount": 2597,
   "stations": [
     {
       "id": "awb_7769373834d70d1d3e3d",
@@ -12732,7 +12732,7 @@
             "855aa7ec-7282-4681-9c25-42e93fd6b873"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -13793,9 +13793,9 @@
     },
     {
       "id": "awb_ceac03347026f81dacb7",
-      "name": "��� � ����� �����������",
+      "name": "��� � ����� �����",
       "country": "BG",
-      "subdivision": "Blagoevgrad",
+      "subdivision": "Shumen",
       "languages": [
         "bg"
       ],
@@ -13809,7 +13809,7 @@
         "public radio",
         "talk"
       ],
-      "homepage": "https://bnrnews.bg/blagoevgrad",
+      "homepage": "https://bnrnews.bg/shumen",
       "favicon": null,
       "type": "public",
       "sourceCount": 8,
@@ -14467,6 +14467,57 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T03:36:10Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2ff02265a39913a37e9e",
+      "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+      "country": "BR",
+      "subdivision": "Minas Gerais",
+      "languages": [
+        "pt"
+      ],
+      "categories": [
+        "news",
+        "sports",
+        "talk"
+      ],
+      "tags": [
+        "96.5 fm",
+        "lavras",
+        "local news",
+        "minas gerais",
+        "mpb",
+        "news",
+        "sertanejo",
+        "sports",
+        "talk"
+      ],
+      "homepage": "https://radioculturadelavras.com.br/",
+      "favicon": "https://radioculturadelavras.com.br/midia/marca/radio-cultura-lavras-quadrada-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T15:07:09Z",
+      "streams": [
+        {
+          "id": "aws_5b5b05c089f6e8f30c33",
+          "stationId": "awb_2ff02265a39913a37e9e",
+          "name": "Rádio Cultura de Lavras 96.5 FM (Lavras - MG)",
+          "country": "BR",
+          "url": "https://servidor36.brlogic.com:7048/live",
+          "codec": "aac+",
+          "bitrate": 96,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "05b040f9-7380-4c25-936f-019402fc5d94"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -31033,7 +31084,7 @@
             "7040ec72-3dac-489c-89e1-e64a0741e127"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -31339,7 +31390,7 @@
             "c574f587-942b-40db-be02-40331e109f20"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -32569,7 +32620,7 @@
             "ae7f0191-17d1-4fbb-a66b-aa8f608ab279"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -34081,7 +34132,7 @@
             "bce3a9e3-c293-4d5c-b440-e16c4bc27432"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -34213,7 +34264,7 @@
             "c527ff3f-4710-4101-b47e-e16fbba002ee"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -35420,7 +35471,6 @@
         "hls",
         "jazz",
         "m3u8",
-        "music",
         "public radio",
         "radio france",
         "talk"
@@ -35428,29 +35478,9 @@
       "homepage": "https://www.radiofrance.fr/francemusique",
       "favicon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png",
       "type": "public",
-      "sourceCount": 8,
+      "sourceCount": 5,
       "updatedAt": "2026-10-15T04:55:47Z",
       "streams": [
-        {
-          "id": "aws_b91ebb9f0798e1f3173c",
-          "stationId": "awb_e7280c1281f2949961b8",
-          "name": "France Musique",
-          "country": "FR",
-          "url": "http://icecast.radiofrance.fr/francemusique-hifi.aac",
-          "codec": "aac",
-          "bitrate": 192,
-          "protocol": "http",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "21b83eb8-370d-4076-a9bb-3d443fa5a449",
-            "33f93e78-ea93-4a36-a725-a8458c66d819"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T00:20:58Z"
-        },
         {
           "id": "aws_6ca3ff3facd481be5ef1",
           "stationId": "awb_e7280c1281f2949961b8",
@@ -36868,7 +36898,7 @@
         "talk"
       ],
       "homepage": "https://www.tbm06.fr/radio/",
-      "favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
+      "favicon": "https://www.tbm06.fr/wp-content/uploads/2026/07/logo-tbm06-cotedazur-carre-1024.png",
       "type": null,
       "sourceCount": 2,
       "updatedAt": "2026-09-20T17:58:29Z",
@@ -62081,7 +62111,7 @@
             "0aaa9508-96ff-46cc-80d3-8a9036cc87e2"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         },
         {
           "id": "aws_ca843d32658c4279b167",
@@ -62090,7 +62120,7 @@
           "country": "MO",
           "url": "https://globallive.tdm.com.mo/live/rch2a.live/playlist.m3u8",
           "codec": "aac,h.264",
-          "bitrate": 339,
+          "bitrate": 338,
           "protocol": "https",
           "hls": true,
           "sources": [
@@ -62100,7 +62130,7 @@
             "1ee786df-23e5-4350-8f8b-3b315068937c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -84633,7 +84663,7 @@
       "id": "awb_5989de5122b255078072",
       "name": "99.5 DZYW koolFM",
       "country": "PH",
-      "subdivision": "Quezon City",
+      "subdivision": "Metro Manila",
       "languages": [
         "en"
       ],
@@ -86176,7 +86206,7 @@
       "id": "awb_4b49e5c817ec766fe4aa",
       "name": "radiOFF",
       "country": "PL",
-      "subdivision": "Lubuskie",
+      "subdivision": "Oderland",
       "languages": [
         "de",
         "pl"
@@ -86208,7 +86238,7 @@
         "storytelling",
         "viadrina"
       ],
-      "homepage": "http://radioff.com/",
+      "homepage": "https://radioff.com/",
       "favicon": "https://radioff.com/assets/img/icon/favicon-512.png",
       "type": null,
       "sourceCount": 3,
@@ -86232,7 +86262,7 @@
             "4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T23:50:49Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -95817,6 +95847,62 @@
       ]
     },
     {
+      "id": "awb_cf8d7b63f421f21970e5",
+      "name": "Neon Current",
+      "country": "SG",
+      "subdivision": null,
+      "languages": [
+        "cmn",
+        "en"
+      ],
+      "categories": [
+        "electronic",
+        "jazz",
+        "pop",
+        "reggae",
+        "rock",
+        "talk"
+      ],
+      "tags": [
+        "ai music",
+        "electronic",
+        "jazz",
+        "mandopop",
+        "original music",
+        "pop",
+        "reggae",
+        "rock",
+        "talk",
+        "various"
+      ],
+      "homepage": "https://radio.neoncurrent.dev/",
+      "favicon": "https://radio.neoncurrent.dev/static/brand/icon-512.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T06:47:39Z",
+      "streams": [
+        {
+          "id": "aws_0a8548e08ac36e9c072f",
+          "stationId": "awb_cf8d7b63f421f21970e5",
+          "name": "Neon Current",
+          "country": "SG",
+          "url": "https://stream.neoncurrent.dev/radio.mp3",
+          "codec": null,
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "90d57966-01d3-4bdc-9232-35794ba1aac4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": null
+        }
+      ]
+    },
+    {
       "id": "awb_aa68deee4197a0300b73",
       "name": "Radio 1",
       "country": "SI",
@@ -98363,7 +98449,7 @@
             "e205f4ee-2168-45b0-87e5-11b994c74d0c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -112102,7 +112188,7 @@
             "24c59ea8-5c9d-4ae8-9fa3-d319b82397bd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -115152,8 +115238,8 @@
         "public talk radio",
         "vice city"
       ],
-      "homepage": "https://gtaradio.net/en/vcs/",
-      "favicon": "https://images.weserv.nl/?url=https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990&w=1024&h=1024&fit=contain&bg=ffffff&output=png",
+      "homepage": "https://gtaradio.net/vc/",
+      "favicon": "https://gta.wiki/images/ViceCityPublicRadio-GTAVC-Logo.svg?33990",
       "type": "public",
       "sourceCount": 2,
       "updatedAt": "2026-10-19T15:45:53Z",
@@ -117340,7 +117426,7 @@
             "e0099161-ad6f-47df-a1d3-3e10ea4f4fa3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T00:42:25Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -118455,7 +118541,7 @@
             "3156c76d-0f79-4e28-abfc-6ddc388aef59"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -119912,7 +119998,7 @@
             "16e52888-8103-4d7e-a92a-548b6df622b4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T03:39:45Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },

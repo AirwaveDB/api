@@ -988,7 +988,7 @@
     "id": "awb_2b7b7954faeaf86005a4",
     "name": "Rádio Cambirela - Virtual,mas real.",
     "country": "BR",
-    "subdivision": "Santa Catarina, SC",
+    "subdivision": "Santa Catarina,SC",
     "languages": [],
     "categories": [
       "country",
@@ -2385,7 +2385,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -2399,15 +2399,13 @@
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "DZ:qurango-2",
-          "ce5a1511-e848-4543-a7c6-84432b1b7b16"
+          "DZ:qurango-2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T08:13:39Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -2799,43 +2797,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T01:05:27Z"
-      }
-    ]
-  },
-  "awb_2b5e33ae1a1c7af2ad8f": {
-    "id": "awb_2b5e33ae1a1c7af2ad8f",
-    "name": "France Musique - Banana",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "https://www.radiofrance.fr/francemusique",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-09-12T19:16:06Z",
-    "streams": [
-      {
-        "id": "aws_6a5ead54e10875bf8350",
-        "stationId": "awb_2b5e33ae1a1c7af2ad8f",
-        "name": "France Musique - Banana",
-        "country": "FR",
-        "url": "http://icecast.radiofrance.fr/francemusique-hifi.aac",
-        "codec": "aac",
-        "bitrate": 192,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "22ff6f4b-93a4-4b74-be12-35a541576adc"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T17:54:52Z"
       }
     ]
   },
@@ -5867,89 +5828,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T16:37:11Z"
-      }
-    ]
-  },
-  "awb_2be43272c7a260600f1c": {
-    "id": "awb_2be43272c7a260600f1c",
-    "name": "Radio UNAM 96.1 (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-    "country": "MX",
-    "subdivision": "Ciudad de México",
-    "languages": [
-      "es"
-    ],
-    "categories": [
-      "college",
-      "news",
-      "public"
-    ],
-    "tags": [
-      "96.1 fm",
-      "américa",
-      "cdmx",
-      "ciudad de méxico",
-      "college",
-      "college radio",
-      "concesión pública",
-      "cultura",
-      "cultural",
-      "cultural news",
-      "culture",
-      "education",
-      "educativa",
-      "entretenimiento",
-      "entrevistas",
-      "español",
-      "estación",
-      "fm",
-      "latinoamérica",
-      "mexico city",
-      "moi merino",
-      "multicultural",
-      "méxico",
-      "norteamérica",
-      "public",
-      "public radio",
-      "public service",
-      "pública",
-      "radio",
-      "radio pública",
-      "radio unam",
-      "radio universidad",
-      "radio universitaria",
-      "state college",
-      "unam",
-      "universidad",
-      "universidad autónoma de méxico",
-      "universitaria",
-      "university",
-      "university radio"
-    ],
-    "homepage": "https://www.radio.unam.mx/streaming/RadioUNAM_FM.html",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s24539d.png",
-    "type": "public",
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T02:11:33Z",
-    "streams": [
-      {
-        "id": "aws_14c4cd6b19c96caab449",
-        "stationId": "awb_2be43272c7a260600f1c",
-        "name": "RADIO UNAM 96.1 (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México",
-        "country": "MX",
-        "url": "https://tv.radiohosting.online:9484/stream",
-        "codec": "mp3",
-        "bitrate": 128,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "002187e0-487f-46e3-b18a-2af81085f6f6",
-          "d589394c-3d41-45e1-a608-8d14295132d0"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T21:55:35Z"
       }
     ]
   },

@@ -743,7 +743,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -757,15 +757,13 @@
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "3c8f72ed-5e58-4b9e-bf78-28a2bf4ae4b3",
           "BH:qurango-2"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T22:05:04Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -2493,7 +2491,7 @@
         "stationId": "awb_1aad25932b5e6f63057a",
         "name": "Radio Fantasy Classix",
         "country": "DE",
-        "url": "https://edge68.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3",
+        "url": "https://edge82.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3",
         "codec": "mp3",
         "bitrate": 128,
         "protocol": "https",
@@ -2505,7 +2503,7 @@
           "07ccfdee-7f44-4354-a99d-977ac20dc42a"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T16:24:45Z"
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },
@@ -3183,43 +3181,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T16:12:19Z"
-      }
-    ]
-  },
-  "awb_1a7dec4f782be89d4942": {
-    "id": "awb_1a7dec4f782be89d4942",
-    "name": "France Musique Hi-fi",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [],
-    "homepage": "http://www.francemusique.fr/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T05:05:52Z",
-    "streams": [
-      {
-        "id": "aws_c11f4b234e43ee35b07d",
-        "stationId": "awb_1a7dec4f782be89d4942",
-        "name": "France Musique Hi-fi",
-        "country": "FR",
-        "url": "http://icecast.radiofrance.fr/francemusique-hifi.aac",
-        "codec": "aac",
-        "bitrate": 192,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "f42e9bd4-cdeb-4d18-b734-80463cdfd17a"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T02:48:29Z"
       }
     ]
   },
@@ -6789,6 +6750,53 @@
       }
     ]
   },
+  "awb_1adee8774aec17855332": {
+    "id": "awb_1adee8774aec17855332",
+    "name": "get.radio — Хип-хоп",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "hip-hop"
+    ],
+    "tags": [
+      "hiphop",
+      "music",
+      "sipout.ai"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=hiphop",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/hiphop.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T19:41:13Z",
+    "streams": [
+      {
+        "id": "aws_78c80fb1770e5bb252fc",
+        "stationId": "awb_1adee8774aec17855332",
+        "name": "get.radio — Хип-хоп",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/hiphop.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "a87aeee1-bfdd-41a4-8d50-d9bed9b28a55"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
+      }
+    ]
+  },
   "awb_1af60f26dfdde555ad44": {
     "id": "awb_1af60f26dfdde555ad44",
     "name": "Love Radio Power",
@@ -7149,6 +7157,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T15:36:46Z"
+      }
+    ]
+  },
+  "awb_1a368cb1a3dcbcccd3c1": {
+    "id": "awb_1a368cb1a3dcbcccd3c1",
+    "name": "FOP Radio",
+    "country": "SL",
+    "subdivision": "Moyamba",
+    "languages": [],
+    "categories": [
+      "news",
+      "religious"
+    ],
+    "tags": [
+      "culture",
+      "general",
+      "gospel music",
+      "news",
+      "traditional"
+    ],
+    "homepage": "https://fopradios.top/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T16:03:45Z",
+    "streams": [
+      {
+        "id": "aws_ae9dba363d8073d81640",
+        "stationId": "awb_1a368cb1a3dcbcccd3c1",
+        "name": "FOP Radio",
+        "country": "SL",
+        "url": "https://stream.fopradios.top/main",
+        "codec": "mp3",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "9b21961c-15d9-4897-b168-020285dc02da"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },
@@ -8745,7 +8797,7 @@
           "7183612f-d618-4870-97e2-19a07f27623f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T16:24:45Z"
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },

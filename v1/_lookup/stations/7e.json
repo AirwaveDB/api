@@ -2960,13 +2960,14 @@
     "tags": [
       "dance",
       "electronic",
-      "house"
+      "house",
+      "ibiza"
     ],
     "homepage": "http://www.ibizaglobalradio.com/",
-    "favicon": null,
+    "favicon": "https://static-media.streema.com/media/cache/3f/59/3f598fc0753b556f206a5c9d80d034ea.jpg",
     "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-01-15T02:27:20Z",
+    "sourceCount": 2,
+    "updatedAt": "2026-10-29T15:38:27Z",
     "streams": [
       {
         "id": "aws_c24fdf26d0e459556bf4",
@@ -2986,6 +2987,25 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T02:24:08Z"
+      },
+      {
+        "id": "aws_95feb7f08a58faadca63",
+        "stationId": "awb_7e462192a2e142ff006e",
+        "name": "Ibiza Global Radio",
+        "country": "ES",
+        "url": "https://listenssl.ibizaglobalradio.com:8024/ibizaglobalradio.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "66f33265-5bb4-4d5d-966c-f1e951347c7f"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },
@@ -3289,46 +3309,6 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T11:35:53Z"
-      }
-    ]
-  },
-  "awb_7e4cdd77244e0cf3faa2": {
-    "id": "awb_7e4cdd77244e0cf3faa2",
-    "name": "FRANCE INFO",
-    "country": "FR",
-    "subdivision": null,
-    "languages": [
-      "fr"
-    ],
-    "categories": [],
-    "tags": [
-      "informations"
-    ],
-    "homepage": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-01-15T02:15:15Z",
-    "streams": [
-      {
-        "id": "aws_7f2c52144540be7ca5e8",
-        "stationId": "awb_7e4cdd77244e0cf3faa2",
-        "name": "France Info",
-        "country": "FR",
-        "url": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
-        "codec": "aac",
-        "bitrate": 192,
-        "protocol": "http",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "66f5501d-184c-4f0b-be12-809b9bfe4054",
-          "717fc5d5-fe02-462c-8d41-64c4c6895d98"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T14:17:20Z"
       }
     ]
   },
@@ -5526,7 +5506,7 @@
           "fa534b84-b3ba-4f66-bc88-f4172b2e7060"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T03:39:45Z"
+        "lastCheckedAt": "2026-10-29T19:56:31Z"
       }
     ]
   },
@@ -7308,7 +7288,7 @@
           "653a063c-6d10-46da-af43-ceaeee50c933"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T21:43:15Z"
+        "lastCheckedAt": "2026-10-29T21:53:00Z"
       }
     ]
   },

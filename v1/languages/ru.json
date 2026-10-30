@@ -1,6 +1,6 @@
 {
   "code": "ru",
-  "stationCount": 1574,
+  "stationCount": 1592,
   "stations": [
     {
       "id": "awb_08a84e7502607c0b2990",
@@ -796,9 +796,9 @@
     },
     {
       "id": "awb_67b575dc9dedd10323f3",
-      "name": "Radio Alesia",
+      "name": "Radio ALESIA",
       "country": "BY",
-      "subdivision": "belarus",
+      "subdivision": "Belarus",
       "languages": [
         "be",
         "pl",
@@ -815,7 +815,7 @@
         "folk rock",
         "rock"
       ],
-      "homepage": "http://alesia.live/",
+      "homepage": "https://alesia.live/",
       "favicon": null,
       "type": null,
       "sourceCount": 3,
@@ -8152,10 +8152,10 @@
         "russian shanson"
       ],
       "homepage": "https://101.ru/radio/user/927583",
-      "favicon": "http://bryancev.ru/wp-content/uploads/2020/03/main_photo01-3.jpg",
+      "favicon": "https://biogr.net/wp-content/uploads/2023/02/4358.jpg",
       "type": null,
-      "sourceCount": 2,
-      "updatedAt": "2026-10-27T17:50:08Z",
+      "sourceCount": 3,
+      "updatedAt": "2026-10-29T09:20:19Z",
       "streams": [
         {
           "id": "aws_f191cfb95df37f05b76d",
@@ -8190,10 +8190,11 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "055a7fc7-e471-4e40-bc17-92d065aad6f9",
             "2f5b1384-0487-4e47-b500-6d591b7f3ef7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T17:50:10Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -8405,7 +8406,7 @@
             "371e0e63-1870-4e21-a816-d296788973bf"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T16:43:29Z"
         }
       ]
     },
@@ -10084,7 +10085,7 @@
       "id": "awb_bb18e22d61efdf04b4fe",
       "name": "BRİDGE TV",
       "country": "RU",
-      "subdivision": "Moscow",
+      "subdivision": "Moscow (Russia)",
       "languages": [
         "en",
         "ru"
@@ -10095,7 +10096,7 @@
       "tags": [
         "pop music"
       ],
-      "homepage": "https://bridgetv.ru/about/channels/",
+      "homepage": "https://bridgetv.ru/news/view/pleylist-bridge-tv-hits/",
       "favicon": "https://bridgetv.ru/s/img/logo/nopadding/bridgetv.svg?nopadding=true",
       "type": null,
       "sourceCount": 3,
@@ -13647,6 +13648,51 @@
       ]
     },
     {
+      "id": "awb_c346464c0b9bb1f1c618",
+      "name": "get.radio — 60-е",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "music",
+        "sipout.ai",
+        "sixties"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=sixties",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/sixties.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T20:02:39Z",
+      "streams": [
+        {
+          "id": "aws_db81b42af4b4c3540e26",
+          "stationId": "awb_c346464c0b9bb1f1c618",
+          "name": "get.radio — 60-е",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/sixties.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "851d79bd-0b2c-4503-a018-1cf2ccf34500"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
       "id": "awb_1c7fdf390cf702b08b76",
       "name": "get.radio — 60-е (Русский)",
       "country": "RU",
@@ -13683,7 +13729,52 @@
             "1547e9b8-1aae-46f2-9610-1d6b283c66d9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_201cbfe062a9c6449a06",
+      "name": "get.radio — 80-е",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "eighties",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=eighties",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/eighties.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:54:30Z",
+      "streams": [
+        {
+          "id": "aws_03805783bd31ed53ae82",
+          "stationId": "awb_201cbfe062a9c6449a06",
+          "name": "get.radio — 80-е",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/eighties.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "092bc1d8-cccc-4520-8b3f-f3ac2b3c203f"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -13724,7 +13815,52 @@
             "66fe1863-819e-4453-a2f2-0d4d64d4df4c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_f678e2bb9cd4cd29ada0",
+      "name": "get.radio — Гиперпоп",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "hyperpop",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=hyperpop",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/hyperpop.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:41:13Z",
+      "streams": [
+        {
+          "id": "aws_b4cb4bfdbe04782c9c87",
+          "stationId": "awb_f678e2bb9cd4cd29ada0",
+          "name": "get.radio — Гиперпоп",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/hyperpop.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "64cbb299-fadf-4d3c-9bbc-851ae1225744"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -13765,7 +13901,54 @@
             "e6471679-d266-46a6-86c5-ba08bcc6cb28"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_7ff425fa2df1645fe545",
+      "name": "get.radio — Джаз",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "jazz"
+      ],
+      "tags": [
+        "jazz",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=jazz",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/jazz.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:54:30Z",
+      "streams": [
+        {
+          "id": "aws_65232585d4651ce21034",
+          "stationId": "awb_7ff425fa2df1645fe545",
+          "name": "get.radio — Джаз",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/jazz.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "079ae7c4-d34d-4ab7-8112-6dc38a788721"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -13808,7 +13991,52 @@
             "c7668dc2-e960-4c5c-831f-22ff1b254dea"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_992d6c76d113b6b9678a",
+      "name": "get.radio — Кино",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "cinema",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=cinema",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/cinema.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:45:22Z",
+      "streams": [
+        {
+          "id": "aws_b497f02c78cb4b3e3604",
+          "stationId": "awb_992d6c76d113b6b9678a",
+          "name": "get.radio — Кино",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/cinema.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "51eac9c8-f008-4a72-b62b-cd34a05795db"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -13849,7 +14077,54 @@
             "67b4aced-f883-439f-9bc1-5be56290994f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_9e11274809a9d7bc21de",
+      "name": "get.radio — Классика",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "classical",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=classical",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/classical.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:41:13Z",
+      "streams": [
+        {
+          "id": "aws_3545e9fc2a5bb4db32fd",
+          "stationId": "awb_9e11274809a9d7bc21de",
+          "name": "get.radio — Классика",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/classical.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "d1f63001-c90f-4e82-8ad4-b2e90f517ed6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -13892,7 +14167,7 @@
             "d7f3292b-4cc3-4bed-9965-7f077f0d0a93"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -13900,17 +14175,25 @@
       "id": "awb_3561e5cf095f3dc794a4",
       "name": "get.radio — Лоу-фай",
       "country": "RU",
-      "subdivision": null,
+      "subdivision": "Moscow",
       "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
         "ru"
       ],
       "categories": [],
-      "tags": [],
-      "homepage": "https://get-radio.sipout.ai/?wave=lofi&lang=ru",
+      "tags": [
+        "lofi",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=lofi",
       "favicon": "https://get-radio.sipout.ai/cover/wave/lofi.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-24T21:05:23Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-29T19:45:22Z",
       "streams": [
         {
           "id": "aws_50c918c51423892dbc86",
@@ -13930,6 +14213,162 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-24T21:43:15Z"
+        },
+        {
+          "id": "aws_0c771291b1972489b32e",
+          "stationId": "awb_3561e5cf095f3dc794a4",
+          "name": "get.radio — Лоу-фай",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/lofi.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5cb686d2-0557-4c8d-94dd-41e4d1e2dc50"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_4a9b4b7f18577a5b2467",
+      "name": "get.radio — Микс всех волн",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "mix",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=mix",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/mix.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:45:22Z",
+      "streams": [
+        {
+          "id": "aws_5f671149ed1f0a3b88c7",
+          "stationId": "awb_4a9b4b7f18577a5b2467",
+          "name": "get.radio — Микс всех волн",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/mix.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "32f0603f-2281-40e1-ab04-ca3b31e7a669"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_6234a39afc4bd2e853df",
+      "name": "get.radio — Новый год",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "music",
+        "newyear",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=newyear",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/newyear.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:54:30Z",
+      "streams": [
+        {
+          "id": "aws_261b2393d4cd4b439512",
+          "stationId": "awb_6234a39afc4bd2e853df",
+          "name": "get.radio — Новый год",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/newyear.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "332e85bc-1ee3-4f39-bfaa-1c680ec2a99e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_411f2462761f37a581c9",
+      "name": "get.radio — Поп",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "pop"
+      ],
+      "tags": [
+        "music",
+        "pop",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=pop",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/pop.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:41:13Z",
+      "streams": [
+        {
+          "id": "aws_13a583045cf62410e28f",
+          "stationId": "awb_411f2462761f37a581c9",
+          "name": "get.radio — Поп",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/pop.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aea8e994-b75b-40ba-9a81-f7e587dd560d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -13972,7 +14411,54 @@
             "486bd0f3-633b-4124-8715-083a10a04041"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_51e19bdf87ac8f32b979",
+      "name": "get.radio — Рок",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "rock"
+      ],
+      "tags": [
+        "music",
+        "rock",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=rock",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/rock.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:56:28Z",
+      "streams": [
+        {
+          "id": "aws_45ce71a51a3e7ff8c417",
+          "stationId": "awb_51e19bdf87ac8f32b979",
+          "name": "get.radio — Рок",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/rock.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "90083add-4bc6-4be6-b810-622ffa0c3847"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -14015,7 +14501,54 @@
             "34388a75-da1d-4061-b4cb-7e24f392fe22"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d01427eea1a0ea2cec8e",
+      "name": "get.radio — Рэп",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "hip-hop"
+      ],
+      "tags": [
+        "music",
+        "rap",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=rap",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/rap.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:45:22Z",
+      "streams": [
+        {
+          "id": "aws_f2532d2a280698182adf",
+          "stationId": "awb_d01427eea1a0ea2cec8e",
+          "name": "get.radio — Рэп",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/rap.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "aecf989b-b2cb-4ac9-953a-0da5dd255d43"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -14058,7 +14591,52 @@
             "458e015e-9ac9-4c96-8f9f-66ef2266c7dd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_d381a93927b48266ef24",
+      "name": "get.radio — Синтвейв",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "music",
+        "sipout.ai",
+        "synth"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=synth",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/synth.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T20:02:39Z",
+      "streams": [
+        {
+          "id": "aws_874ba7c72d8ed02a9852",
+          "stationId": "awb_d381a93927b48266ef24",
+          "name": "get.radio — Синтвейв",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/synth.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5628aa46-9ad1-4542-a4f3-b7cc7267ab0b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -14104,6 +14682,53 @@
       ]
     },
     {
+      "id": "awb_84f803bad54aa659a30f",
+      "name": "get.radio — Хаус",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "house",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=house",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/house.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:56:29Z",
+      "streams": [
+        {
+          "id": "aws_3fb4f7c3ecd0b0bc5473",
+          "stationId": "awb_84f803bad54aa659a30f",
+          "name": "get.radio — Хаус",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/house.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "44d657ee-5b0a-4dfd-9ecd-9a23e662e93e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
+        }
+      ]
+    },
+    {
       "id": "awb_1dd66515f50cb4614ce6",
       "name": "get.radio — Хаус (Русский)",
       "country": "RU",
@@ -14142,7 +14767,54 @@
             "c643229d-b7ac-45a9-a1b2-3931f4781312"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1adee8774aec17855332",
+      "name": "get.radio — Хип-хоп",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "hip-hop"
+      ],
+      "tags": [
+        "hiphop",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=hiphop",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/hiphop.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:41:13Z",
+      "streams": [
+        {
+          "id": "aws_78c80fb1770e5bb252fc",
+          "stationId": "awb_1adee8774aec17855332",
+          "name": "get.radio — Хип-хоп",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/hiphop.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a87aeee1-bfdd-41a4-8d50-d9bed9b28a55"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
         }
       ]
     },
@@ -14185,7 +14857,99 @@
             "7b5f464d-7dc8-4265-91c3-cfef64575536"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_2106d27df0b0920dffc7",
+      "name": "get.radio — Хэллоуин",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "halloween",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=halloween",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/halloween.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:37:16Z",
+      "streams": [
+        {
+          "id": "aws_4ee8d2e7aa119575472e",
+          "stationId": "awb_2106d27df0b0920dffc7",
+          "name": "get.radio — Хэллоуин",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/halloween.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "368497e1-691d-494f-9aaf-64df5c3f39af"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_21b658384fd607d59f28",
+      "name": "get.radio — Чилл",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "chill",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=chill",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/chill.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:56:28Z",
+      "streams": [
+        {
+          "id": "aws_cd5cdd72ad8b4f4e7c7c",
+          "stationId": "awb_21b658384fd607d59f28",
+          "name": "get.radio — Чилл",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/chill.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "a34720bd-7816-4a94-a27f-0e2ed6ed99c6"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -14228,7 +14992,52 @@
             "36f8d9fb-9005-4266-ba6a-ac123eac5841"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_0fd500ae99d27ec91f86",
+      "name": "get.radio — Шансон",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "chanson",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=chanson",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/chanson.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:45:22Z",
+      "streams": [
+        {
+          "id": "aws_8550ed7c151b63d9a175",
+          "stationId": "awb_0fd500ae99d27ec91f86",
+          "name": "get.radio — Шансон",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/chanson.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "0ba1cc57-2ca2-4b5b-b7c8-b02b01abbf5b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -14269,7 +15078,54 @@
             "97b2f758-b5bc-45b7-8e0d-d0bdb54e86fe"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-29T21:53:00Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_ed1d6693e731c3bef907",
+      "name": "get.radio — Эмбиент",
+      "country": "RU",
+      "subdivision": "Moscow",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "categories": [
+        "ambient"
+      ],
+      "tags": [
+        "ambient",
+        "music",
+        "sipout.ai"
+      ],
+      "homepage": "https://get-radio.sipout.ai/?wave=ambient",
+      "favicon": "https://get-radio.sipout.ai/cover/wave/ambient.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T19:54:30Z",
+      "streams": [
+        {
+          "id": "aws_c28e9cbd94bfd98630d1",
+          "stationId": "awb_ed1d6693e731c3bef907",
+          "name": "get.radio — Эмбиент",
+          "country": "RU",
+          "url": "https://get-radio.sipout.ai/stream/ambient.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "6713440c-3a6b-40a8-bb03-b5b09df764d4"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },
@@ -14312,7 +15168,7 @@
             "f8adccdc-0d90-4875-b9ca-97e7285df446"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:06:17Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -44870,7 +45726,7 @@
             "cb8811c1-845e-4526-ba24-21d8755cf9cb"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-29T21:13:38Z"
         }
       ]
     },
@@ -46339,7 +47195,7 @@
             "5376cec4-ca35-48b4-ade6-a53f88a1eb1e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T21:43:15Z"
+          "lastCheckedAt": "2026-10-30T00:49:08Z"
         }
       ]
     },
@@ -61214,8 +62070,8 @@
       ]
     },
     {
-      "id": "awb_5b76e3b292eb57b7930f",
-      "name": "Русское радио",
+      "id": "awb_37f285b28fb0471cffed",
+      "name": "Русское Радио",
       "country": "RU",
       "subdivision": "cremea",
       "languages": [
@@ -61227,18 +62083,19 @@
       "tags": [
         "music",
         "pop",
+        "pop music",
         "russian music",
         "russian pop"
       ],
       "homepage": "https://rusradio.ru/",
-      "favicon": null,
+      "favicon": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
       "type": null,
-      "sourceCount": 3,
-      "updatedAt": "2026-06-18T20:50:13Z",
+      "sourceCount": 5,
+      "updatedAt": "2026-08-24",
       "streams": [
         {
           "id": "aws_777baf75688764ff2937",
-          "stationId": "awb_5b76e3b292eb57b7930f",
+          "stationId": "awb_37f285b28fb0471cffed",
           "name": "Русское Радио",
           "country": "RU",
           "url": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8",
@@ -61257,7 +62114,7 @@
         },
         {
           "id": "aws_0874020abc33509d4f6b",
-          "stationId": "awb_5b76e3b292eb57b7930f",
+          "stationId": "awb_37f285b28fb0471cffed",
           "name": "Русское радио",
           "country": "RU",
           "url": "https://radio.promedia.ru/rr-simf",
@@ -61275,8 +62132,27 @@
           "lastCheckedAt": "2026-10-27T00:44:14Z"
         },
         {
-          "id": "aws_612115f5ef8c3b14ae99",
-          "stationId": "awb_5b76e3b292eb57b7930f",
+          "id": "aws_abf22fc1a9605370f24d",
+          "stationId": "awb_37f285b28fb0471cffed",
+          "name": "Русское Радио",
+          "country": "RU",
+          "url": "https://rusradio.hostingradio.ru/rusradio128.mp3",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "af23facc-2a9e-487e-9ff6-42ba600ce38d"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T14:53:39Z"
+        },
+        {
+          "id": "aws_7e3da34929076c80c869",
+          "stationId": "awb_37f285b28fb0471cffed",
           "name": "Русское Радио",
           "country": "RU",
           "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
@@ -61285,54 +62161,15 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser"
+            "radio-browser",
+            "verified-radio-streams"
           ],
           "sourceIds": [
-            "5ef899f0-043e-49b1-9252-24b13e37a89e"
+            "033fe547-b71c-4ea0-8274-e6522444629c",
+            "RU:hostingradio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T19:43:42Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_f88c2e55ea06e5d80c6a",
-      "name": "Русское Радио Moscow",
-      "country": "RU",
-      "subdivision": null,
-      "languages": [
-        "ru"
-      ],
-      "categories": [
-        "pop"
-      ],
-      "tags": [
-        "pop music"
-      ],
-      "homepage": "https://rusradio.ru/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T03:43:13Z",
-      "streams": [
-        {
-          "id": "aws_bdf499d9ec7463ace176",
-          "stationId": "awb_f88c2e55ea06e5d80c6a",
-          "name": "Русское Радио Moscow",
-          "country": "RU",
-          "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-          "codec": "aac",
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "1e2884ee-03af-4a17-b679-fbc87fcecdd7"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T17:17:24Z"
+          "lastCheckedAt": "2026-10-27T19:36:37Z"
         }
       ]
     },
@@ -64190,6 +65027,45 @@
       ]
     },
     {
+      "id": "awb_15c0373443d2179671a2",
+      "name": "ХИТ FM Пермь",
+      "country": "RU",
+      "subdivision": null,
+      "languages": [
+        "ru"
+      ],
+      "categories": [],
+      "tags": [
+        "хит fm"
+      ],
+      "homepage": "https://top-radio.ru/perm/xit-fm",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-01-14T22:54:09Z",
+      "streams": [
+        {
+          "id": "aws_7bedfe17841a83985531",
+          "stationId": "awb_15c0373443d2179671a2",
+          "name": "ХИТ FM Пермь",
+          "country": "RU",
+          "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
+          "codec": "mp3",
+          "bitrate": 0,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "5686a410-8b93-44a8-815d-3ed292f2e8bd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-27T03:12:43Z"
+        }
+      ]
+    },
+    {
       "id": "awb_c73cd9fa60086c41258d",
       "name": "Хит ФМ Великий Новгород 88.1 FM",
       "country": "RU",
@@ -66917,7 +67793,7 @@
             "ed0be60f-48dc-4ae8-8940-d2d3c27a29f3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T02:40:54Z"
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "code": "SL",
-  "stationCount": 2,
-  "streamCount": 2,
+  "stationCount": 3,
+  "streamCount": 3,
   "stations": [
     {
       "id": "awb_cb4c84109ba99da81341",
@@ -35,6 +35,50 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T00:08:46Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_1a368cb1a3dcbcccd3c1",
+      "name": "FOP Radio",
+      "country": "SL",
+      "subdivision": "Moyamba",
+      "languages": [],
+      "categories": [
+        "news",
+        "religious"
+      ],
+      "tags": [
+        "culture",
+        "general",
+        "gospel music",
+        "news",
+        "traditional"
+      ],
+      "homepage": "https://fopradios.top/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-29T16:03:45Z",
+      "streams": [
+        {
+          "id": "aws_ae9dba363d8073d81640",
+          "stationId": "awb_1a368cb1a3dcbcccd3c1",
+          "name": "FOP Radio",
+          "country": "SL",
+          "url": "https://stream.fopradios.top/main",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "9b21961c-15d9-4897-b168-020285dc02da"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-29T19:56:31Z"
         }
       ]
     },

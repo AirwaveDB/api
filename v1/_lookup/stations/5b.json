@@ -3688,7 +3688,7 @@
           "03718e2e-77f5-4bb6-ad58-f207e325b818"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-23T22:17:37Z"
+        "lastCheckedAt": "2026-10-29T16:43:29Z"
       }
     ]
   },
@@ -7492,88 +7492,6 @@
       }
     ]
   },
-  "awb_5b76e3b292eb57b7930f": {
-    "id": "awb_5b76e3b292eb57b7930f",
-    "name": "Русское радио",
-    "country": "RU",
-    "subdivision": "cremea",
-    "languages": [
-      "ru"
-    ],
-    "categories": [
-      "pop"
-    ],
-    "tags": [
-      "music",
-      "pop",
-      "russian music",
-      "russian pop"
-    ],
-    "homepage": "https://rusradio.ru/",
-    "favicon": null,
-    "type": null,
-    "sourceCount": 3,
-    "updatedAt": "2026-06-18T20:50:13Z",
-    "streams": [
-      {
-        "id": "aws_777baf75688764ff2937",
-        "stationId": "awb_5b76e3b292eb57b7930f",
-        "name": "Русское Радио",
-        "country": "RU",
-        "url": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8",
-        "codec": "aac",
-        "bitrate": 100,
-        "protocol": "https",
-        "hls": true,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "fb1a0fe3-fa05-45b5-9944-6741a40a29b8"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T09:20:04Z"
-      },
-      {
-        "id": "aws_0874020abc33509d4f6b",
-        "stationId": "awb_5b76e3b292eb57b7930f",
-        "name": "Русское радио",
-        "country": "RU",
-        "url": "https://radio.promedia.ru/rr-simf",
-        "codec": "mp3",
-        "bitrate": 256,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "7dcb30f4-f541-49c8-a45d-7b9fa24cf163"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T00:44:14Z"
-      },
-      {
-        "id": "aws_612115f5ef8c3b14ae99",
-        "stationId": "awb_5b76e3b292eb57b7930f",
-        "name": "Русское Радио",
-        "country": "RU",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "codec": "aac",
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "5ef899f0-043e-49b1-9252-24b13e37a89e"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T19:43:42Z"
-      }
-    ]
-  },
   "awb_5b41316f66d3fae1dbaf": {
     "id": "awb_5b41316f66d3fae1dbaf",
     "name": "Чипльдук",
@@ -9249,6 +9167,43 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T00:10:16Z"
+      }
+    ]
+  },
+  "awb_5b8901ed2afd3c87ed95": {
+    "id": "awb_5b8901ed2afd3c87ed95",
+    "name": "The Network Radio Alternative",
+    "country": "US",
+    "subdivision": "Detroit",
+    "languages": [],
+    "categories": [],
+    "tags": [
+      "alternative"
+    ],
+    "homepage": "https://www.nobexradio.com/radio/ns-thenetworkradioalternative/the-network-radio-alternative",
+    "favicon": "https://api.nobexradio.com/public/stations/thenetworkradioalternative/logo",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T01:24:51Z",
+    "streams": [
+      {
+        "id": "aws_ede3d7f21f1f3544ad7e",
+        "stationId": "awb_5b8901ed2afd3c87ed95",
+        "name": "The Network Radio Alternative",
+        "country": "US",
+        "url": "https://listen.nobexradio.com/station_thenetworkradioalternative?ref=radiobrowser",
+        "codec": null,
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "925d96d7-9464-4f5a-aa6d-c206baf1921d"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": null
       }
     ]
   },

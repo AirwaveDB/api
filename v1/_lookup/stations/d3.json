@@ -2390,7 +2390,7 @@
           "b410d26f-1674-4029-8d43-74f4b3da7830"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-24T16:24:45Z"
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },
@@ -6527,7 +6527,7 @@
     "homepage": null,
     "favicon": null,
     "type": null,
-    "sourceCount": 2,
+    "sourceCount": 1,
     "updatedAt": "2026-08-23",
     "streams": [
       {
@@ -6541,15 +6541,13 @@
         "protocol": "https",
         "hls": false,
         "sources": [
-          "radio-browser",
           "verified-radio-streams"
         ],
         "sourceIds": [
-          "QA:qurango",
-          "f35d0956-6b7b-4c42-bdb5-e9ef1daf8c3d"
+          "QA:qurango"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T23:37:11Z"
+        "lastCheckedAt": "2026-08-23"
       }
     ]
   },
@@ -6782,10 +6780,10 @@
       "russian shanson"
     ],
     "homepage": "https://101.ru/radio/user/927583",
-    "favicon": "http://bryancev.ru/wp-content/uploads/2020/03/main_photo01-3.jpg",
+    "favicon": "https://biogr.net/wp-content/uploads/2023/02/4358.jpg",
     "type": null,
-    "sourceCount": 2,
-    "updatedAt": "2026-10-27T17:50:08Z",
+    "sourceCount": 3,
+    "updatedAt": "2026-10-29T09:20:19Z",
     "streams": [
       {
         "id": "aws_f191cfb95df37f05b76d",
@@ -6820,10 +6818,11 @@
           "radio-browser"
         ],
         "sourceIds": [
+          "055a7fc7-e471-4e40-bc17-92d065aad6f9",
           "2f5b1384-0487-4e47-b500-6d591b7f3ef7"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-27T17:50:10Z"
+        "lastCheckedAt": "2026-10-30T00:49:08Z"
       }
     ]
   },
@@ -6859,6 +6858,51 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-27T15:49:11Z"
+      }
+    ]
+  },
+  "awb_d381a93927b48266ef24": {
+    "id": "awb_d381a93927b48266ef24",
+    "name": "get.radio — Синтвейв",
+    "country": "RU",
+    "subdivision": "Moscow",
+    "languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ru"
+    ],
+    "categories": [],
+    "tags": [
+      "music",
+      "sipout.ai",
+      "synth"
+    ],
+    "homepage": "https://get-radio.sipout.ai/?wave=synth",
+    "favicon": "https://get-radio.sipout.ai/cover/wave/synth.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-29T20:02:39Z",
+    "streams": [
+      {
+        "id": "aws_874ba7c72d8ed02a9852",
+        "stationId": "awb_d381a93927b48266ef24",
+        "name": "get.radio — Синтвейв",
+        "country": "RU",
+        "url": "https://get-radio.sipout.ai/stream/synth.mp3",
+        "codec": "mp3",
+        "bitrate": 0,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "5628aa46-9ad1-4542-a4f3-b7cc7267ab0b"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-29T21:13:38Z"
       }
     ]
   },
