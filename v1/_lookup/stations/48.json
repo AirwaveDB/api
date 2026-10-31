@@ -910,6 +910,53 @@
       }
     ]
   },
+  "awb_4805a68e779f771e9434": {
+    "id": "awb_4805a68e779f771e9434",
+    "name": "Rádio Caxias",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "news",
+      "sports",
+      "talk"
+    ],
+    "tags": [
+      "caxias do sul",
+      "journalism",
+      "news",
+      "sports",
+      "talk"
+    ],
+    "homepage": "https://radiocaxias.com.br/",
+    "favicon": "https://www.radiocaxias.com.br/marca/radio-caxias-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T22:20:30Z",
+    "streams": [
+      {
+        "id": "aws_a022caaa08b4c25cab3d",
+        "stationId": "awb_4805a68e779f771e9434",
+        "name": "Rádio Caxias",
+        "country": "BR",
+        "url": "https://stream.radiocaxias.com.br/listen/radiocaxias/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "99a8db21-bde4-4f3a-a7ae-a0e3553a7ced"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-31T00:13:50Z"
+      }
+    ]
+  },
   "awb_48e16c2d4fa93e47e1c1": {
     "id": "awb_48e16c2d4fa93e47e1c1",
     "name": "Radio Maquina no Rock",

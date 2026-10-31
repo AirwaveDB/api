@@ -1124,7 +1124,7 @@
   },
   "awb_cf43b81c65d37d9dc650": {
     "id": "awb_cf43b81c65d37d9dc650",
-    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
     "country": "CA",
     "subdivision": "Quebec",
     "languages": [
@@ -1142,7 +1142,7 @@
       "talk",
       "trad"
     ],
-    "homepage": "http://www.cfnj.net/",
+    "homepage": "http://cfnj.net/",
     "favicon": "https://cfnj.net/wp-content/uploads/2020/10/cropped-favicon-cfnj-180x180.png",
     "type": "community",
     "sourceCount": 2,
@@ -5473,6 +5473,58 @@
       }
     ]
   },
+  "awb_cf872ae3f29be2745d96": {
+    "id": "awb_cf872ae3f29be2745d96",
+    "name": "Haze Pub Radio",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "languages": [
+      "lt"
+    ],
+    "categories": [
+      "electronic",
+      "hip-hop",
+      "metal",
+      "punk",
+      "rock"
+    ],
+    "tags": [
+      "alternative",
+      "drum bass",
+      "electronic",
+      "hip hop",
+      "metal",
+      "punk",
+      "rap",
+      "rock"
+    ],
+    "homepage": "https://kalaver.in/rocks/",
+    "favicon": null,
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-15T23:34:39Z",
+    "streams": [
+      {
+        "id": "aws_515e057c4d7a3bf38395",
+        "stationId": "awb_cf872ae3f29be2745d96",
+        "name": "Haze Pub Radio",
+        "country": "LT",
+        "url": "https://live.leproradio.com/rocks.ogg",
+        "codec": "ogg",
+        "bitrate": 128,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d469d86b-e0a7-45ac-aa94-6be76329ab82"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-31T00:34:13Z"
+      }
+    ]
+  },
   "awb_cf161fba8f77340a079a": {
     "id": "awb_cf161fba8f77340a079a",
     "name": "Radio Bubamara 105.2 Skopje, Macedonia",
@@ -7781,62 +7833,6 @@
       }
     ]
   },
-  "awb_cf8d7b63f421f21970e5": {
-    "id": "awb_cf8d7b63f421f21970e5",
-    "name": "Neon Current",
-    "country": "SG",
-    "subdivision": null,
-    "languages": [
-      "cmn",
-      "en"
-    ],
-    "categories": [
-      "electronic",
-      "jazz",
-      "pop",
-      "reggae",
-      "rock",
-      "talk"
-    ],
-    "tags": [
-      "ai music",
-      "electronic",
-      "jazz",
-      "mandopop",
-      "original music",
-      "pop",
-      "reggae",
-      "rock",
-      "talk",
-      "various"
-    ],
-    "homepage": "https://radio.neoncurrent.dev/",
-    "favicon": "https://radio.neoncurrent.dev/static/brand/icon-512.png",
-    "type": null,
-    "sourceCount": 1,
-    "updatedAt": "2026-10-30T06:47:39Z",
-    "streams": [
-      {
-        "id": "aws_0a8548e08ac36e9c072f",
-        "stationId": "awb_cf8d7b63f421f21970e5",
-        "name": "Neon Current",
-        "country": "SG",
-        "url": "https://stream.neoncurrent.dev/radio.mp3",
-        "codec": null,
-        "bitrate": 0,
-        "protocol": "https",
-        "hls": false,
-        "sources": [
-          "radio-browser"
-        ],
-        "sourceIds": [
-          "90d57966-01d3-4bdc-9232-35794ba1aac4"
-        ],
-        "lastCheckOk": true,
-        "lastCheckedAt": null
-      }
-    ]
-  },
   "awb_cf715d18f6f78dc9bda1": {
     "id": "awb_cf715d18f6f78dc9bda1",
     "name": "95.5 Metro life",
@@ -9233,7 +9229,7 @@
           "00f86b20-e255-4d19-9cc9-224888a14566"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-25T15:32:00Z"
+        "lastCheckedAt": "2026-10-30T15:45:10Z"
       }
     ]
   },

@@ -2260,6 +2260,41 @@
       }
     ]
   },
+  "awb_2a273438cd28991ae383": {
+    "id": "awb_2a273438cd28991ae383",
+    "name": "Areito Stéreo",
+    "country": "CO",
+    "subdivision": "Chocó",
+    "languages": [],
+    "categories": [],
+    "tags": [],
+    "homepage": "https://areitoradio.com/",
+    "favicon": "https://areitoradio.com/wp-content/uploads/2019/08/cropped-Areito-Stereo-32x32.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T05:29:41Z",
+    "streams": [
+      {
+        "id": "aws_60bd6ac1da20490effb9",
+        "stationId": "awb_2a273438cd28991ae383",
+        "name": "Areito Stéreo",
+        "country": "CO",
+        "url": "https://virtual3.emisorasvirtuales.com:8220/live",
+        "codec": "aac",
+        "bitrate": 320,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "97eb1850-3085-4a30-ad21-51a176359e47"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-31T08:38:14Z"
+      }
+    ]
+  },
   "awb_2adcb0e34230bca59a5f": {
     "id": "awb_2adcb0e34230bca59a5f",
     "name": "Radio Mas RocknPop",
@@ -4878,7 +4913,7 @@
           "51232ec5-c0e7-4741-a86d-a5881c04879f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-25T23:13:21Z"
+        "lastCheckedAt": "2026-10-30T23:17:52Z"
       }
     ]
   },
@@ -5569,7 +5604,7 @@
           "5f413f81-6d51-4dfd-841f-9e50eedd248d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T08:16:01Z"
+        "lastCheckedAt": "2026-10-31T08:38:14Z"
       }
     ]
   },
@@ -8426,7 +8461,7 @@
           "011460c5-5b69-4dba-bc65-1f6badb3c100"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-25T15:31:59Z"
+        "lastCheckedAt": "2026-10-30T15:45:10Z"
       }
     ]
   },
@@ -8511,6 +8546,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T01:26:14Z"
+      }
+    ]
+  },
+  "awb_2a3388363fdaec9b2c76": {
+    "id": "awb_2a3388363fdaec9b2c76",
+    "name": "WKKM 106.5 \"King Of Kings Media\" Harrison, Michigan",
+    "country": "US",
+    "subdivision": "Michigan",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "baptist",
+      "bible teaching",
+      "gospel music",
+      "old-time hymns"
+    ],
+    "homepage": "https://wkkm.org/",
+    "favicon": "https://wkkm.org/wp-content/uploads/2025/06/wkkm-main.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T00:15:19Z",
+    "streams": [
+      {
+        "id": "aws_d4e8f45c1dd9478d4a82",
+        "stationId": "awb_2a3388363fdaec9b2c76",
+        "name": "WKKM 106.5 \"King Of Kings Media\" Harrison, Michigan",
+        "country": "US",
+        "url": "https://radio.shoutcheap.com/proxy/hopebapt/stream",
+        "codec": "mp3",
+        "bitrate": 96,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "55f36c57-cea5-42ca-a4b1-bce668fd5319"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-31T04:36:48Z"
       }
     ]
   },

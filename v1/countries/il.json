@@ -1,7 +1,7 @@
 {
   "code": "IL",
-  "stationCount": 141,
-  "streamCount": 146,
+  "stationCount": 140,
+  "streamCount": 144,
   "stations": [
     {
       "id": "awb_119a4acadc1485486cfa",
@@ -2154,7 +2154,7 @@
             "c6d2c435-0e91-4c63-b56f-919edebc93fd"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T20:47:44Z"
+          "lastCheckedAt": "2026-10-30T23:17:52Z"
         }
       ]
     },
@@ -4064,41 +4064,6 @@
       ]
     },
     {
-      "id": "awb_c44ab4140025d50d0785",
-      "name": "Reichmann AudioVersity",
-      "country": "IL",
-      "subdivision": null,
-      "languages": [],
-      "categories": [],
-      "tags": [],
-      "homepage": "https://1062fm.co.il/",
-      "favicon": null,
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-30T03:44:32Z",
-      "streams": [
-        {
-          "id": "aws_da5aca621327fdf07e7f",
-          "stationId": "awb_c44ab4140025d50d0785",
-          "name": "Reichmann AudioVersity",
-          "country": "IL",
-          "url": "https://1062onair.runi.ac.il/idc123.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "d49053be-1450-42f7-94dc-fbc6406c719e"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
-    {
       "id": "awb_a358ec7b71c742ac4f4c",
       "name": "Star 33 Radiostation",
       "country": "IL",
@@ -5147,9 +5112,9 @@
       "categories": [],
       "tags": [],
       "homepage": "https://www.kan.org.il/content/kan/kan-88/",
-      "favicon": "https://www.kan.org.il/favicon/favicon-16x16.png",
+      "favicon": null,
       "type": null,
-      "sourceCount": 2,
+      "sourceCount": 1,
       "updatedAt": "2026-10-30T03:37:03Z",
       "streams": [
         {
@@ -5158,8 +5123,8 @@
           "name": "כאן 88",
           "country": "IL",
           "url": "https://27943.live.streamtheworld.com/KAN_88.mp3",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 192,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -5169,26 +5134,7 @@
             "4eaa23cb-9fe0-4cfe-ad2e-a87454fec609"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
-        },
-        {
-          "id": "aws_7872e3f8a19562e19bf2",
-          "stationId": "awb_4ff3354d5802dbc8c593",
-          "name": "כאן 88",
-          "country": "IL",
-          "url": "https://www.kan.org.il/content/kan/kan-88/",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "3e2f12ad-7c41-42ea-9ce8-cf567d308b0a"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-30T15:45:10Z"
         }
       ]
     },

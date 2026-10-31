@@ -1,6 +1,6 @@
 {
   "id": "reggae",
-  "stationCount": 315,
+  "stationCount": 316,
   "stations": [
     {
       "id": "awb_56c026c44ef6b689d96d",
@@ -129,7 +129,7 @@
             "d8436e8e-888d-490e-a59b-b91a2b042c9e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T00:04:52Z"
+          "lastCheckedAt": "2026-10-31T00:34:13Z"
         }
       ]
     },
@@ -3841,7 +3841,7 @@
             "ea0fbdca-acae-4052-ba19-f567b333c55d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T00:04:52Z"
+          "lastCheckedAt": "2026-10-31T00:13:50Z"
         }
       ]
     },
@@ -7065,7 +7065,7 @@
             "ef23f52d-ea07-4cc7-a607-0ccd18c539e0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T15:31:59Z"
+          "lastCheckedAt": "2026-10-30T15:45:10Z"
         }
       ]
     },
@@ -7822,7 +7822,7 @@
             "bcdbcbd8-f017-4c43-b7ec-e55504daeeef"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-24T16:24:45Z"
+          "lastCheckedAt": "2026-10-30T15:45:10Z"
         }
       ]
     },
@@ -7897,7 +7897,7 @@
             "d6f182de-5d6b-470b-8bee-3f6929feb2d0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T20:22:15Z"
+          "lastCheckedAt": "2026-10-31T04:36:48Z"
         },
         {
           "id": "aws_ffcf98dea1c6785aa897",
@@ -8198,7 +8198,7 @@
             "51f84050-e3f2-4af0-af17-19a213303284"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T00:04:52Z"
+          "lastCheckedAt": "2026-10-31T00:13:50Z"
         }
       ]
     },
@@ -11025,7 +11025,7 @@
             "7196a5cc-c53f-422a-ab42-9066bd6d8139"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T15:32:00Z"
+          "lastCheckedAt": "2026-10-30T15:45:10Z"
         }
       ]
     },
@@ -12143,62 +12143,6 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-26T22:13:27Z"
-        }
-      ]
-    },
-    {
-      "id": "awb_cf8d7b63f421f21970e5",
-      "name": "Neon Current",
-      "country": "SG",
-      "subdivision": null,
-      "languages": [
-        "cmn",
-        "en"
-      ],
-      "categories": [
-        "electronic",
-        "jazz",
-        "pop",
-        "reggae",
-        "rock",
-        "talk"
-      ],
-      "tags": [
-        "ai music",
-        "electronic",
-        "jazz",
-        "mandopop",
-        "original music",
-        "pop",
-        "reggae",
-        "rock",
-        "talk",
-        "various"
-      ],
-      "homepage": "https://radio.neoncurrent.dev/",
-      "favicon": "https://radio.neoncurrent.dev/static/brand/icon-512.png",
-      "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-10-30T06:47:39Z",
-      "streams": [
-        {
-          "id": "aws_0a8548e08ac36e9c072f",
-          "stationId": "awb_cf8d7b63f421f21970e5",
-          "name": "Neon Current",
-          "country": "SG",
-          "url": "https://stream.neoncurrent.dev/radio.mp3",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "90d57966-01d3-4bdc-9232-35794ba1aac4"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
         }
       ]
     },
@@ -13738,6 +13682,54 @@
       ]
     },
     {
+      "id": "awb_87d4b7ff7fb9a927f0d1",
+      "name": "Radio Doble C",
+      "country": "US",
+      "subdivision": "Miami, Florida",
+      "languages": [
+        "es"
+      ],
+      "categories": [
+        "hip-hop",
+        "oldies",
+        "reggae",
+        "rock"
+      ],
+      "tags": [
+        "90s",
+        "rap",
+        "reggae",
+        "rock"
+      ],
+      "homepage": "https://www.radiodoblec.com/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 2,
+      "updatedAt": "2026-10-30T16:25:06Z",
+      "streams": [
+        {
+          "id": "aws_d91a4b11df5d88345bbc",
+          "stationId": "awb_87d4b7ff7fb9a927f0d1",
+          "name": "Radio Doble C",
+          "country": "US",
+          "url": "https://radio.andrealvarado.dev/hls/radiodoblec/live.m3u8",
+          "codec": "aac",
+          "bitrate": 52,
+          "protocol": "https",
+          "hls": true,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3b4d4182-f37b-492c-937c-4737caaa2029",
+            "5079177e-b165-4710-9f63-edf260297a9e"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T19:19:51Z"
+        }
+      ]
+    },
+    {
       "id": "awb_9a8057324545c83afef6",
       "name": "Reggae Global Radio",
       "country": "US",
@@ -13775,6 +13767,51 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-27T15:32:02Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_5ea729834b145fecdd22",
+      "name": "Reggae Vibe Radio",
+      "country": "US",
+      "subdivision": "District of Columbia",
+      "languages": [
+        "en"
+      ],
+      "categories": [
+        "reggae"
+      ],
+      "tags": [
+        "caribbean",
+        "dancehall",
+        "reggae",
+        "roots reggae",
+        "worldbeat"
+      ],
+      "homepage": "https://reggaevibe.org/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T20:19:45Z",
+      "streams": [
+        {
+          "id": "aws_4a1089e3f0a265b1759a",
+          "stationId": "awb_5ea729834b145fecdd22",
+          "name": "Reggae Vibe Radio",
+          "country": "US",
+          "url": "https://streaming.live365.com/a58913",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3582c2ef-fa12-4dcd-bbf8-9bf45165bd4c"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-31T00:34:13Z"
         }
       ]
     },
@@ -13922,7 +13959,7 @@
             "9169de40-5af0-4794-a349-e2d6fe41ca47"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-25T15:32:00Z"
+          "lastCheckedAt": "2026-10-30T15:45:10Z"
         }
       ]
     },

@@ -6112,7 +6112,7 @@
     "id": "awb_e43264a68c76391d14f6",
     "name": "Octaaf Radio",
     "country": "NL",
-    "subdivision": "Zuid Holland",
+    "subdivision": "Noord holland Amsterdam",
     "languages": [
       "nl"
     ],
@@ -7368,6 +7368,48 @@
       }
     ]
   },
+  "awb_e4e1bcec5b2ea203a278": {
+    "id": "awb_e4e1bcec5b2ea203a278",
+    "name": "Радио Любимые хиты",
+    "country": "RU",
+    "subdivision": null,
+    "languages": [
+      "ru"
+    ],
+    "categories": [
+      "pop"
+    ],
+    "tags": [
+      "pop",
+      "retro"
+    ],
+    "homepage": "http://lyubimyehity.ru/",
+    "favicon": "https://i.imgur.com/V1lp79A.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T20:34:53Z",
+    "streams": [
+      {
+        "id": "aws_96afb5b84061e4918484",
+        "stationId": "awb_e4e1bcec5b2ea203a278",
+        "name": "Радио Любимые хиты",
+        "country": "RU",
+        "url": "https://radio.lyubimyehity.ru:1045/stream",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "dac13e26-8b1b-460d-8353-1b6c086d95bd"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-31T00:34:13Z"
+      }
+    ]
+  },
   "awb_e4e97f5774f8e3553169": {
     "id": "awb_e4e97f5774f8e3553169",
     "name": "Pirate Rock Västkustens bästa rock",
@@ -8288,7 +8330,7 @@
           "5ac5c721-9486-4e1e-a22d-ee1be55d8b16"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-25T20:47:44Z"
+        "lastCheckedAt": "2026-10-31T00:34:13Z"
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "code": "RO",
-  "stationCount": 926,
-  "streamCount": 972,
+  "stationCount": 927,
+  "streamCount": 973,
   "stations": [
     {
       "id": "awb_a43231b5614c6a9b50c2",
@@ -6591,6 +6591,45 @@
       ]
     },
     {
+      "id": "awb_c3a4ea27b602f751b4c2",
+      "name": "FM Radio Manele - Manele",
+      "country": "RO",
+      "subdivision": "ROMANIA",
+      "languages": [
+        "ro"
+      ],
+      "categories": [],
+      "tags": [
+        "manele"
+      ],
+      "homepage": "https://fmradiomanele.ro/",
+      "favicon": null,
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T10:41:42Z",
+      "streams": [
+        {
+          "id": "aws_af41b77fd5495ca99404",
+          "stationId": "awb_c3a4ea27b602f751b4c2",
+          "name": "FM Radio Manele - Manele",
+          "country": "RO",
+          "url": "https://ssl.servereradio.ro/8054/stream",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "222698e2-3b3e-4a44-a7a6-48a50c2689d5"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T15:45:10Z"
+        }
+      ]
+    },
+    {
       "id": "awb_7552451a03864b54ce78",
       "name": "FMRadioManele",
       "country": "RO",
@@ -8504,7 +8543,7 @@
             "912f55b4-3506-4aff-85be-9bc42310c262"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T08:16:01Z"
+          "lastCheckedAt": "2026-10-31T08:38:14Z"
         }
       ]
     },

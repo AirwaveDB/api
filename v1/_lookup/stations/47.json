@@ -883,6 +883,49 @@
       }
     ]
   },
+  "awb_4758c26a3f360d47f342": {
+    "id": "awb_4758c26a3f360d47f342",
+    "name": "Rádio Tua Voz",
+    "country": "BR",
+    "subdivision": "Rio Grande do Sul",
+    "languages": [
+      "pt"
+    ],
+    "categories": [
+      "religious"
+    ],
+    "tags": [
+      "caxias do sul",
+      "gospel",
+      "religious"
+    ],
+    "homepage": "https://tuavoz.com.br/",
+    "favicon": "https://www.radiocaxias.com.br/marca/radio-tua-voz-600.png",
+    "type": null,
+    "sourceCount": 1,
+    "updatedAt": "2026-10-30T22:13:04Z",
+    "streams": [
+      {
+        "id": "aws_928ad17725d242be58da",
+        "stationId": "awb_4758c26a3f360d47f342",
+        "name": "Rádio Tua Voz",
+        "country": "BR",
+        "url": "https://stream.radiocaxias.com.br/listen/tuavoz/radio.mp3",
+        "codec": "mp3",
+        "bitrate": 192,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "2e1c76a7-4132-4100-a3f7-a86ccb8ec184"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-30T23:17:52Z"
+      }
+    ]
+  },
   "awb_47cb9d92492f1d3ba976": {
     "id": "awb_47cb9d92492f1d3ba976",
     "name": "Rádio UP 100.1 FM Vitoria da Conquista",
@@ -4035,7 +4078,7 @@
           "18a8a561-f60b-4535-bfda-f87dd4756dcc"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-25T20:47:44Z"
+        "lastCheckedAt": "2026-10-30T21:05:58Z"
       }
     ]
   },

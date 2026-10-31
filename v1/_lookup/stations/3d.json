@@ -399,9 +399,9 @@
         "stationId": "awb_3dc547e256a6186b1795",
         "name": "Rádio Ecclésia de Caxito",
         "country": "AO",
-        "url": "https://stream-283.surfernetwork.com/y4bcgcqifbbtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5NGJjZ2NxaWZiYnR2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InR2V3k1djJ0U2QtRGM4dmtjVGowcGciLCJpYXQiOjE3OTI5NzQ0MTQsImV4cCI6MTc5Mjk3NDQ3NH0.42n0jaL6wBFNpD2L-qPLb9ZlAjfOzfgzyFtw5GamOa8",
+        "url": "https://stream-178.surfernetwork.com/y4bcgcqifbbtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5NGJjZ2NxaWZiYnR2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IndIQlVvemhLVHJXMHV3WU9ST004QnciLCJpYXQiOjE3OTM0MjEzODMsImV4cCI6MTc5MzQyMTQ0M30.nrmxMLAkPeoNroQmnnuLKKL6110cxGDijbdC3Q0PO1Y",
         "codec": "mp3",
-        "bitrate": 64,
+        "bitrate": 96,
         "protocol": "https",
         "hls": false,
         "sources": [
@@ -411,7 +411,7 @@
           "d208546d-108d-4f5d-9864-22d6417ce084"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T00:27:24Z"
+        "lastCheckedAt": "2026-10-31T04:36:48Z"
       }
     ]
   },
@@ -454,7 +454,7 @@
           "f834de28-9f73-41be-976b-90720cfbab3d"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T08:16:01Z"
+        "lastCheckedAt": "2026-10-31T08:38:14Z"
       }
     ]
   },
@@ -603,7 +603,7 @@
         "stationId": "awb_3dd8e681af85d65e3d21",
         "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
         "country": "AU",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
+        "url": "http://19273.live.streamtheworld.com/BOW_2STAAC.aac",
         "codec": "aac+",
         "bitrate": 64,
         "protocol": "http",
@@ -615,7 +615,7 @@
           "dc6b1a66-997e-4e0d-9502-8641f052d044"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-25T18:02:00Z"
+        "lastCheckedAt": "2026-10-30T19:19:48Z"
       }
     ]
   },
@@ -5714,7 +5714,7 @@
           "9e77daff-0a92-4f5c-bb4c-c64d2aac739f"
         ],
         "lastCheckOk": true,
-        "lastCheckedAt": "2026-10-26T00:27:24Z"
+        "lastCheckedAt": "2026-10-31T00:34:13Z"
       }
     ]
   },
@@ -9418,6 +9418,50 @@
         ],
         "lastCheckOk": true,
         "lastCheckedAt": "2026-10-28T00:30:38Z"
+      }
+    ]
+  },
+  "awb_3d6413f01c5f82b9c5fc": {
+    "id": "awb_3d6413f01c5f82b9c5fc",
+    "name": "WAWL 103.5 Grand Haven, Michigan",
+    "country": "US",
+    "subdivision": "Michigan",
+    "languages": [
+      "en"
+    ],
+    "categories": [
+      "community",
+      "sports"
+    ],
+    "tags": [
+      "community radio",
+      "local sports",
+      "music variety"
+    ],
+    "homepage": "https://www.1035wawl.com/",
+    "favicon": "https://images.squarespace-cdn.com/content/v1/6969673578a25824fbc8d346/c7a888c6-211e-4e76-b640-ec1ff69ad11a/wawl.png?",
+    "type": "community",
+    "sourceCount": 1,
+    "updatedAt": "2026-10-31T00:47:17Z",
+    "streams": [
+      {
+        "id": "aws_fd3890c7d27b631da374",
+        "stationId": "awb_3d6413f01c5f82b9c5fc",
+        "name": "WAWL 103.5 Grand Haven, Michigan",
+        "country": "US",
+        "url": "https://securestreams2.autopo.st:1069/WAWL.mp3",
+        "codec": "mp3",
+        "bitrate": 64,
+        "protocol": "https",
+        "hls": false,
+        "sources": [
+          "radio-browser"
+        ],
+        "sourceIds": [
+          "d767f84b-d52a-4f2e-a8b6-daf77fbbf369"
+        ],
+        "lastCheckOk": true,
+        "lastCheckedAt": "2026-10-31T04:36:48Z"
       }
     ]
   },

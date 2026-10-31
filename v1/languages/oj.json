@@ -1,51 +1,7 @@
 {
   "code": "oj",
-  "stationCount": 3,
+  "stationCount": 2,
   "stations": [
-    {
-      "id": "awb_8c0dcf2916c955991d51",
-      "name": "CISB 106.3 Sandy Bay, Manitoba",
-      "country": "CA",
-      "subdivision": "Manitoba",
-      "languages": [
-        "en",
-        "oj"
-      ],
-      "categories": [
-        "community"
-      ],
-      "tags": [
-        "community radio",
-        "first nations",
-        "music variety"
-      ],
-      "homepage": "https://sbofn.com/sandy-bay-radio-106-3-cisb-fm/",
-      "favicon": "https://sbofn.com/wp-content/uploads/2025/08/Sandy-Bay-Radio-Logo.png",
-      "type": "community",
-      "sourceCount": 1,
-      "updatedAt": "2026-10-30T03:23:53Z",
-      "streams": [
-        {
-          "id": "aws_83c13e7b32b96b730076",
-          "stationId": "awb_8c0dcf2916c955991d51",
-          "name": "CISB 106.3 Sandy Bay, Manitoba",
-          "country": "CA",
-          "url": "https://cast5.my-control-panel.com/proxy/michell2/live",
-          "codec": null,
-          "bitrate": 0,
-          "protocol": "https",
-          "hls": false,
-          "sources": [
-            "radio-browser"
-          ],
-          "sourceIds": [
-            "3b4c93a1-ea26-4af7-9cf2-5473a9a39b20"
-          ],
-          "lastCheckOk": true,
-          "lastCheckedAt": null
-        }
-      ]
-    },
     {
       "id": "awb_8e978077913365897cb5",
       "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
@@ -78,8 +34,8 @@
           "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
           "country": "CA",
           "url": "https://cast4.my-control-panel.com/proxy/peguis1/stream",
-          "codec": null,
-          "bitrate": 0,
+          "codec": "mp3",
+          "bitrate": 128,
           "protocol": "https",
           "hls": false,
           "sources": [
@@ -89,7 +45,7 @@
             "bfe2d634-3c5e-4ea3-9b50-db853ac56a3d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": null
+          "lastCheckedAt": "2026-10-30T15:45:10Z"
         }
       ]
     },

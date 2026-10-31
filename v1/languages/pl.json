@@ -1,6 +1,6 @@
 {
   "code": "pl",
-  "stationCount": 672,
+  "stationCount": 674,
   "stations": [
     {
       "id": "awb_9edf0e1b9ec504d15456",
@@ -320,6 +320,53 @@
           ],
           "lastCheckOk": true,
           "lastCheckedAt": "2026-10-28T02:41:13Z"
+        }
+      ]
+    },
+    {
+      "id": "awb_b3486d66c4e183212855",
+      "name": "DJNoisy Radio",
+      "country": "DE",
+      "subdivision": "Bavaria",
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "electronic"
+      ],
+      "tags": [
+        "dance",
+        "disco polo",
+        "dj",
+        "house",
+        "independent",
+        "polish",
+        "trance"
+      ],
+      "homepage": "https://djnoisy-radio.pl/",
+      "favicon": "https://djnoisy-radio.pl/djnoisy-logo.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T20:59:38Z",
+      "streams": [
+        {
+          "id": "aws_a7f32a251bd8589518bc",
+          "stationId": "awb_b3486d66c4e183212855",
+          "name": "DJNoisy Radio",
+          "country": "DE",
+          "url": "https://djnoisy-radio.pl/radio.mp3",
+          "codec": "mp3",
+          "bitrate": 192,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "c9a53991-f37e-4802-882b-f72fdafe75cd"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T21:05:58Z"
         }
       ]
     },
@@ -4652,7 +4699,7 @@
             "8793f47d-eb51-4ea2-a39f-e738f4dabb8b"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T08:16:01Z"
+          "lastCheckedAt": "2026-10-31T08:38:14Z"
         }
       ]
     },
@@ -11366,6 +11413,25 @@
       "updatedAt": "2026-10-29T07:38:13Z",
       "streams": [
         {
+          "id": "aws_baef596ab1e34356f14a",
+          "stationId": "awb_a18643f7a99390a2b487",
+          "name": "Radio Eska Warszawa",
+          "country": "PL",
+          "url": "http://ic2.smcdn.pl/2980-1.mp3",
+          "codec": "mp3",
+          "bitrate": 128,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "3fcaf924-2282-44f2-99e7-6a6df592aff9"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T19:19:49Z"
+        },
+        {
           "id": "aws_39764cb20b9e76ea4f2c",
           "stationId": "awb_a18643f7a99390a2b487",
           "name": "Radio Eska Warszawa",
@@ -11379,7 +11445,6 @@
             "radio-browser"
           ],
           "sourceIds": [
-            "3fcaf924-2282-44f2-99e7-6a6df592aff9",
             "89bb521f-857a-45f4-9a28-10d8b3b06d9c"
           ],
           "lastCheckOk": true,
@@ -23134,6 +23199,52 @@
       ]
     },
     {
+      "id": "awb_e1afd3d8773e8cc93fff",
+      "name": "RMF Chopin (64 kbps, playlista + FAKTY)",
+      "country": "PL",
+      "subdivision": null,
+      "languages": [
+        "pl"
+      ],
+      "categories": [
+        "classical"
+      ],
+      "tags": [
+        "24/7",
+        "chopin",
+        "classical",
+        "classical piano",
+        "piano",
+        "playlist"
+      ],
+      "homepage": "http://www.rmfon.pl/play,85",
+      "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+      "type": null,
+      "sourceCount": 1,
+      "updatedAt": "2026-10-30T09:30:48Z",
+      "streams": [
+        {
+          "id": "aws_72f8e6295acc6cae72d3",
+          "stationId": "awb_e1afd3d8773e8cc93fff",
+          "name": "RMF Chopin (64 kbps, playlista + FAKTY)",
+          "country": "PL",
+          "url": "http://31.192.216.8/CHOPINF",
+          "codec": "aac+",
+          "bitrate": 64,
+          "protocol": "http",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
+            "b4a488ca-8b0b-43d6-b23e-3b5a47bfce5b"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-10-30T15:45:10Z"
+        }
+      ]
+    },
+    {
       "id": "awb_57da0bf3eb29440ef82d",
       "name": "RMF Chopin + FAKTY",
       "country": "PL",
@@ -23145,13 +23256,14 @@
         "classical"
       ],
       "tags": [
+        "chopin",
         "classical"
       ],
       "homepage": "http://www.rmfon.pl/play,85",
       "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
       "type": null,
-      "sourceCount": 1,
-      "updatedAt": "2026-01-15T05:40:20Z",
+      "sourceCount": 2,
+      "updatedAt": "2026-10-30T09:30:48Z",
       "streams": [
         {
           "id": "aws_e15549b5906d4a890c3c",
@@ -23167,10 +23279,11 @@
             "radio-browser"
           ],
           "sourceIds": [
+            "08755ea4-39f3-423b-bb89-99d4b208d3bf",
             "cff50d8d-b639-4e6f-9815-32eb3c24081c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T21:13:33Z"
+          "lastCheckedAt": "2026-10-31T00:13:50Z"
         }
       ]
     },
@@ -24372,7 +24485,7 @@
       "id": "awb_ccafb97eb92dab888427",
       "name": "RMF MAXX",
       "country": "PL",
-      "subdivision": "Małopolskie",
+      "subdivision": "Malopolskie",
       "languages": [
         "pl"
       ],
