@@ -1,7 +1,7 @@
 {
   "code": "JP",
   "stationCount": 127,
-  "streamCount": 140,
+  "streamCount": 141,
   "stations": [
     {
       "id": "awb_18f181f55f6bbcb99f7e",
@@ -73,7 +73,7 @@
             "1e054608-8472-4535-a9b5-f36c6282b958"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T04:18:45Z"
+          "lastCheckedAt": "2026-11-01T04:33:36Z"
         }
       ]
     },
@@ -102,15 +102,32 @@
           "protocol": "https",
           "hls": false,
           "sources": [
-            "radio-browser",
             "verified-radio-streams"
           ],
           "sourceIds": [
-            "JP:a-radio-for-acg-others",
+            "JP:a-radio-for-acg-others"
+          ],
+          "lastCheckOk": true,
+          "lastCheckedAt": "2026-08-23"
+        },
+        {
+          "id": "aws_0be36d34f29f62b8d9ce",
+          "stationId": "awb_e95f4ac1a668a2439c11",
+          "name": "A Radio for ACG & others",
+          "country": "JP",
+          "url": "https://hkradio.myaddr.io/listen/new_radio/radio.aac",
+          "codec": "aac",
+          "bitrate": 64,
+          "protocol": "https",
+          "hls": false,
+          "sources": [
+            "radio-browser"
+          ],
+          "sourceIds": [
             "f224c900-8796-4063-8aca-0bb3afd8507f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T05:25:46Z"
+          "lastCheckedAt": "2026-11-01T05:49:26Z"
         }
       ]
     },
@@ -174,7 +191,7 @@
           "stationId": "awb_253eb91c847ccea92683",
           "name": "AFN GO TOKYO",
           "country": "JP",
-          "url": "http://13743.live.streamtheworld.com/AFNP_TKO_SC",
+          "url": "http://13743.live.streamtheworld.com:3690/AFNP_TKO_SC",
           "codec": "mp3",
           "bitrate": 96,
           "protocol": "http",
@@ -186,7 +203,7 @@
             "f10bb488-9f8d-40da-9f7d-f4fa63191c68"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T00:35:46Z"
+          "lastCheckedAt": "2026-11-01T03:02:53Z"
         }
       ]
     },
@@ -391,7 +408,7 @@
             "d57fca45-a811-48f9-b672-7047ac984b91"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T00:41:27Z"
+          "lastCheckedAt": "2026-11-01T04:12:53Z"
         }
       ]
     },
@@ -430,7 +447,7 @@
             "3e112758-54c7-483b-8c1b-73b3e41aae1e"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T01:32:52Z"
+          "lastCheckedAt": "2026-11-01T02:35:01Z"
         }
       ]
     },
@@ -610,7 +627,7 @@
             "JP:big-b-radio-jpop"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T20:36:45Z"
+          "lastCheckedAt": "2026-11-01T08:33:10Z"
         }
       ]
     },
@@ -655,7 +672,7 @@
             "JP:box-japan-city-pop"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T18:10:00Z"
+          "lastCheckedAt": "2026-11-01T05:11:10Z"
         }
       ]
     },
@@ -697,7 +714,7 @@
             "d7fc828c-4305-4fa0-8ca5-2131e26c312f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:24:33Z"
+          "lastCheckedAt": "2026-11-01T08:50:51Z"
         }
       ]
     },
@@ -786,7 +803,7 @@
             "8cbc1e1e-d478-43f3-a39a-f1eaa8b44664"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:53:26Z"
+          "lastCheckedAt": "2026-11-01T07:07:18Z"
         }
       ]
     },
@@ -878,7 +895,7 @@
             "961b7ba6-0601-11e8-ae97-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T02:48:29Z"
+          "lastCheckedAt": "2026-11-01T03:09:36Z"
         }
       ]
     },
@@ -964,7 +981,7 @@
             "JP:fred-film-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T10:06:03Z"
+          "lastCheckedAt": "2026-11-01T10:36:14Z"
         }
       ]
     },
@@ -1121,7 +1138,7 @@
             "JP:gensokyo-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:13:07Z"
+          "lastCheckedAt": "2026-11-01T06:26:26Z"
         }
       ]
     },
@@ -1275,7 +1292,7 @@
             "fdffc27f-a096-4be8-b3bf-2c51a943a1d1"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T01:06:36Z"
+          "lastCheckedAt": "2026-11-01T01:24:11Z"
         }
       ]
     },
@@ -1442,7 +1459,7 @@
             "bc33ea37-3935-41a5-bf9f-788496ef6959"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T02:17:14Z"
+          "lastCheckedAt": "2026-11-01T02:40:03Z"
         }
       ]
     },
@@ -1532,7 +1549,7 @@
             "JP:j-pop-christmas"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:40:30Z"
+          "lastCheckedAt": "2026-11-01T07:19:30Z"
         }
       ]
     },
@@ -1609,7 +1626,7 @@
             "cf0ab710-020b-4e3f-99af-2bf059466d36"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-28T00:16:51Z"
+          "lastCheckedAt": "2026-11-01T01:00:08Z"
         }
       ]
     },
@@ -1736,7 +1753,7 @@
             "ce03f456-47f6-447f-8834-19cf0b808fc8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T07:11:41Z"
+          "lastCheckedAt": "2026-11-01T07:38:03Z"
         }
       ]
     },
@@ -1840,7 +1857,7 @@
             "JP:j-rock-powerplay"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T09:00:23Z"
+          "lastCheckedAt": "2026-11-01T09:08:23Z"
         }
       ]
     },
@@ -1884,7 +1901,7 @@
             "JP:j-rock-powerplay-asia-dream-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T23:07:52Z"
+          "lastCheckedAt": "2026-11-01T05:59:52Z"
         }
       ]
     },
@@ -1925,7 +1942,7 @@
             "32d5e5ac-e196-4451-9193-bd41a7961556"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T07:54:37Z"
+          "lastCheckedAt": "2026-11-01T08:41:54Z"
         }
       ]
     },
@@ -1962,7 +1979,7 @@
             "JP:j1-hits"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T22:20:44Z"
+          "lastCheckedAt": "2026-10-31T23:40:49Z"
         },
         {
           "id": "aws_18427c31e00ef722c927",
@@ -2018,7 +2035,7 @@
             "3c5dc353-b1ce-43be-a361-ae555535a2b0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T07:11:41Z"
+          "lastCheckedAt": "2026-11-01T07:38:03Z"
         }
       ]
     },
@@ -2179,7 +2196,7 @@
             "9766d47a-68a3-4a30-8aec-c026f1ec6020"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T07:43:43Z"
+          "lastCheckedAt": "2026-11-01T08:48:39Z"
         }
       ]
     },
@@ -2259,7 +2276,7 @@
             "f7a003ad-1795-4eec-842d-b8d2396b3ce9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:27:49Z"
+          "lastCheckedAt": "2026-11-01T06:31:11Z"
         }
       ]
     },
@@ -2339,7 +2356,7 @@
             "JP:justplay"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T03:56:22Z"
+          "lastCheckedAt": "2026-11-01T04:04:38Z"
         }
       ]
     },
@@ -2376,7 +2393,7 @@
             "JP:kamakura-fm"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T22:29:15Z"
+          "lastCheckedAt": "2026-10-31T22:40:17Z"
         }
       ]
     },
@@ -2415,7 +2432,7 @@
             "48e7bd4a-3252-478e-af70-43f7e91d4ea5"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T09:15:33Z"
+          "lastCheckedAt": "2026-11-01T09:44:27Z"
         }
       ]
     },
@@ -2590,7 +2607,7 @@
             "90c96d5f-8c72-49fb-8f47-3c07cb636264"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T05:41:18Z"
+          "lastCheckedAt": "2026-11-01T06:01:44Z"
         }
       ]
     },
@@ -2633,7 +2650,7 @@
             "04d1eabe-f19d-11e8-a471-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T04:07:55Z"
+          "lastCheckedAt": "2026-11-01T07:12:00Z"
         }
       ]
     },
@@ -2753,7 +2770,7 @@
             "JP:nfrs-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T09:20:04Z"
+          "lastCheckedAt": "2026-11-01T09:42:04Z"
         }
       ]
     },
@@ -2878,7 +2895,7 @@
             "813c17ee-abc0-46ce-974f-6640a3909d3c"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T03:43:41Z"
+          "lastCheckedAt": "2026-11-01T04:08:57Z"
         }
       ]
     },
@@ -2915,7 +2932,7 @@
             "dbc6d144-67d0-4581-a93d-6b3d69a13079"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:00:45Z"
+          "lastCheckedAt": "2026-11-01T06:07:23Z"
         }
       ]
     },
@@ -2952,7 +2969,7 @@
             "608b153d-8eb9-4564-a98f-76f075a6eda4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T04:18:45Z"
+          "lastCheckedAt": "2026-11-01T04:26:11Z"
         }
       ]
     },
@@ -3064,7 +3081,7 @@
             "b031573d-4d75-4b3b-beef-57724438e63d"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T22:27:11Z"
+          "lastCheckedAt": "2026-11-01T00:02:34Z"
         }
       ]
     },
@@ -3120,7 +3137,7 @@
             "ff0d02bb-1922-407b-9ae7-3b2c86c86725"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:04:21Z"
+          "lastCheckedAt": "2026-11-01T08:15:27Z"
         }
       ]
     },
@@ -3157,7 +3174,7 @@
             "db95c0e2-057b-4062-bc91-37debd447eff"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T07:45:48Z"
+          "lastCheckedAt": "2026-11-01T08:23:53Z"
         }
       ]
     },
@@ -3231,7 +3248,7 @@
             "a0a57bb8-21fe-45db-a3a8-7f5ae8cc7e12"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T03:24:22Z"
+          "lastCheckedAt": "2026-11-01T04:17:21Z"
         }
       ]
     },
@@ -3305,7 +3322,7 @@
             "3b1b2706-069d-44a9-a1a7-34e8699ab5a8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:22:43Z"
+          "lastCheckedAt": "2026-11-01T07:09:46Z"
         }
       ]
     },
@@ -3385,7 +3402,7 @@
             "0eed3332-c2b2-4eda-9d0c-897322162663"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T00:33:26Z"
+          "lastCheckedAt": "2026-11-01T01:48:20Z"
         }
       ]
     },
@@ -3423,7 +3440,7 @@
             "98d8f89b-4e05-481a-8665-6b3a411d6fa3"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T03:22:27Z"
+          "lastCheckedAt": "2026-11-01T04:09:45Z"
         }
       ]
     },
@@ -3498,7 +3515,7 @@
             "c82efc64-c6d6-4ab8-824d-599a9612b9ac"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:58:08Z"
+          "lastCheckedAt": "2026-11-01T09:19:21Z"
         }
       ]
     },
@@ -3539,7 +3556,7 @@
             "9af1536b-1acd-11ea-a620-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:56:01Z"
+          "lastCheckedAt": "2026-11-01T09:35:04Z"
         }
       ]
     },
@@ -3624,7 +3641,7 @@
             "JP:onlyhits-japan"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T02:22:09Z"
+          "lastCheckedAt": "2026-11-01T02:30:45Z"
         }
       ]
     },
@@ -3813,7 +3830,7 @@
             "1909f412-f4d4-4edd-9ea2-50a288183ba0"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T22:39:20Z"
+          "lastCheckedAt": "2026-10-31T23:44:49Z"
         }
       ]
     },
@@ -4312,7 +4329,7 @@
             "a9034ee4-f44a-4d55-b2bc-18b854434fa7"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:15:36Z"
+          "lastCheckedAt": "2026-11-01T08:29:08Z"
         }
       ]
     },
@@ -4464,7 +4481,7 @@
             "45ea052e-37c2-403e-be57-8bf66daa86af"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T23:48:21Z"
+          "lastCheckedAt": "2026-11-01T04:35:43Z"
         }
       ]
     },
@@ -4550,7 +4567,7 @@
             "9f9cc220-3462-11e8-bb9b-52543be04c81"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T01:20:02Z"
+          "lastCheckedAt": "2026-11-01T01:37:56Z"
         }
       ]
     },
@@ -4604,7 +4621,7 @@
             "3948798a-51c0-4d38-bb58-cafc2937c287"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T01:53:22Z"
+          "lastCheckedAt": "2026-11-01T02:24:53Z"
         }
       ]
     },
@@ -4687,7 +4704,7 @@
             "9f66a5b4-66c0-4389-88f3-f8285ad4239a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T06:16:40Z"
+          "lastCheckedAt": "2026-11-01T06:23:09Z"
         }
       ]
     },
@@ -4726,7 +4743,7 @@
             "121df42c-e7a1-4a57-ab0b-a5149ae3956f"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T05:51:43Z"
+          "lastCheckedAt": "2026-11-01T06:45:49Z"
         }
       ]
     },
@@ -4827,7 +4844,7 @@
             "JP:stereo-anime"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:56:01Z"
+          "lastCheckedAt": "2026-11-01T09:03:14Z"
         }
       ]
     },
@@ -4901,7 +4918,7 @@
             "da391117-93a3-4f25-8dc3-c8aa604dde6a"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T04:54:02Z"
+          "lastCheckedAt": "2026-11-01T05:54:45Z"
         }
       ]
     },
@@ -4943,7 +4960,7 @@
             "JP:tilderadio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T08:17:36Z"
+          "lastCheckedAt": "2026-11-01T08:33:10Z"
         }
       ]
     },
@@ -4980,7 +4997,7 @@
             "6d1d23d9-50d9-412d-83e2-d4c087d121d8"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T07:13:40Z"
+          "lastCheckedAt": "2026-11-01T08:57:31Z"
         }
       ]
     },
@@ -5010,7 +5027,7 @@
           "country": "JP",
           "url": "https://stream.vrstv.jp/",
           "codec": "aac",
-          "bitrate": 1445,
+          "bitrate": 1438,
           "protocol": "https",
           "hls": true,
           "sources": [
@@ -5020,7 +5037,7 @@
             "1516904a-7c53-4443-82b2-e710eb814be4"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T01:32:52Z"
+          "lastCheckedAt": "2026-11-01T01:37:56Z"
         }
       ]
     },
@@ -5061,7 +5078,7 @@
             "JP:vrc"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T23:13:37Z"
+          "lastCheckedAt": "2026-11-01T01:24:11Z"
         }
       ]
     },
@@ -5149,7 +5166,7 @@
             "JP:wvvv-v96-9"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-27T01:22:11Z"
+          "lastCheckedAt": "2026-11-01T01:33:25Z"
         }
       ]
     },
@@ -5388,7 +5405,7 @@
             "JP:hitsujikai-radio-shepherd-radio"
           ],
           "lastCheckOk": true,
-          "lastCheckedAt": "2026-10-26T23:37:51Z"
+          "lastCheckedAt": "2026-10-31T23:54:00Z"
         }
       ]
     }

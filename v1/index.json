@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-31T10:23:57.591Z",
+  "generatedAt": "2026-11-01T11:16:44.171Z",
   "schemaVersion": 1,
-  "stationCount": 55681,
-  "streamCount": 58871,
+  "stationCount": 55707,
+  "streamCount": 58833,
   "countryCount": 228,
   "languageCount": 152,
   "categoryCount": 25,
-  "databaseGeneratedAt": "2026-10-31T08:27:02.268Z",
-  "streamsGeneratedAt": "2026-10-31T09:45:59.701Z",
+  "databaseGeneratedAt": "2026-11-01T09:17:05.210Z",
+  "streamsGeneratedAt": "2026-11-01T10:36:31.349Z",
   "databaseSchemaVersion": 1,
   "streamsSchemaVersion": 1,
   "sourceSnapshots": {
     "database": {
-      "commit": "38f9ac7fa020888a610db96989671f10bca175e1",
-      "generatedAt": "2026-10-31T08:27:02.268Z",
+      "commit": "daab3baa0fe5f271728313894d3df598afc4e633",
+      "generatedAt": "2026-11-01T09:17:05.210Z",
       "schemaVersion": 1
     },
     "streams": {
-      "commit": "e9ba42ee5e5ccfe3a3a7e461b895b5b2fc436b4b",
-      "generatedAt": "2026-10-31T09:45:59.701Z",
+      "commit": "3dea5739268e761e48a81de3fadf420ee2a33c85",
+      "generatedAt": "2026-11-01T10:36:31.349Z",
       "schemaVersion": 1,
-      "databaseGeneratedAt": "2026-10-31T08:27:02.268Z",
+      "databaseGeneratedAt": "2026-11-01T09:17:05.210Z",
       "idStrategy": "source-provenance-v1"
     }
   },
   "quality": {
     "database": {
-      "withHomepage": 53115,
-      "withFavicon": 34246,
-      "withLanguage": 35454,
-      "withCategory": 27673,
-      "unknownCountry": 1096,
-      "withType": 2642,
-      "normalizedLanguageValues": 514
+      "withHomepage": 53141,
+      "withFavicon": 34265,
+      "withLanguage": 35462,
+      "withCategory": 27706,
+      "unknownCountry": 1095,
+      "withType": 2653,
+      "normalizedLanguageValues": 513
     },
     "streams": {
-      "withCodec": 58870,
-      "withBitrate": 49788,
+      "withCodec": 58833,
+      "withBitrate": 49741,
       "hls": 3885,
-      "sourceCheckOk": 58871,
-      "unknownCountry": 1206,
-      "identityReused": 58807,
-      "identityNew": 64
+      "sourceCheckOk": 58833,
+      "unknownCountry": 1205,
+      "identityReused": 58719,
+      "identityNew": 114
     }
   },
   "routes": {
